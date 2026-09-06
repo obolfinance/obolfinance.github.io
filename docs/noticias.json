@@ -1,135 +1,131 @@
 {
-  "generated_at": "2026-09-06T12:01:21.963279+00:00",
+  "generated_at": "2026-09-06T22:01:25.791080+00:00",
   "items": [
     {
-      "id": "saudi-cb-inversiones-masivas",
+      "id": "inflacion-fed-semana",
+      "type": "economia",
+      "title": "Llega el dato de inflación de EE.UU. que puede mover al mercado global",
+      "summary": "Esta semana se publica el índice de precios al consumidor (CPI) de agosto en Estados Unidos, un dato clave que podría influir en la próxima decisión de tasas de la Reserva Federal. También hay expectativa por el evento de lanzamiento de Apple y resultados de empresas como Oracle y Adobe.",
+      "detail": "El CPI es uno de los indicadores más seguidos por los mercados globales porque la Fed lo usa para decidir si sube, baja o mantiene las tasas de interés. Cuando la inflación baja, los mercados suelen anticipar recortes de tasas, lo que impulsa acciones y bonos. Para Argentina, estas decisiones afectan el costo del financiamiento externo y el flujo de capitales hacia economías emergentes.",
+      "tags": [
+        "inflación",
+        "Fed",
+        "tasas"
+      ],
+      "source_name": "Investopedia",
+      "source_url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-fresh-inflation-data-apple-fall-launch-event-and-oracle-earnings-12100794",
+      "published_at": "2026-09-06T10:39:37Z",
+      "tickers": [
+        "ORCL",
+        "AAPL",
+        "ADBE"
+      ]
+    },
+    {
+      "id": "banco-central-saudi-compras",
       "type": "mercado",
-      "title": "El Banco Central de Arabia Saudita compró acciones en masa en Wall Street",
-      "summary": "El banco central saudita (SAMA) aumentó fuertemente sus posiciones en empresas como Goldman Sachs, American Express, Procter & Gamble, Salesforce, PepsiCo y varias más durante el segundo trimestre. Las compras representan incrementos de entre el 60% y el 95% en cada posición.",
-      "detail": "Cuando un banco central invierte sus reservas en acciones extranjeras, está eligiendo diversificar en lugar de guardar todo en bonos del Tesoro de EE.UU. o en oro. Esto es una señal de que Arabia Saudita busca mayor rentabilidad para sus petrodólares. Para alguien aprendiendo finanzas, es un ejemplo concreto de cómo los grandes actores institucionales mueven mercados con sus decisiones de asignación de capital.",
+      "title": "El Banco Central de Arabia Saudita compró acciones de AMD, Walmart, Citigroup y más",
+      "summary": "El banco central saudita aumentó sus posiciones en varias empresas estadounidenses durante el segundo trimestre, incluyendo AMD (subió un 20,7% su tenencia), Walmart (89,7% más), Citigroup (80,8% más) y Gilead Sciences. Estas compras forman parte de la gestión de reservas internacionales del país.",
+      "detail": "Cuando un banco central o fondo soberano compra acciones de grandes empresas, está diversificando sus reservas más allá del dólar y los bonos del Tesoro. Esto muestra cómo los países productores de petróleo invierten sus excedentes en activos globales. Para quienes aprenden finanzas, es un ejemplo de cómo los inversores institucionales más grandes del mundo asignan capital y cómo eso puede influir en el precio de las acciones.",
       "tags": [
         "inversión institucional",
-        "Wall Street",
-        "Arabia Saudita"
+        "fondos soberanos",
+        "acciones"
       ],
       "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-grows-holdings-in-american-express-company-axp-2026-09-06/",
-      "published_at": "2026-09-06T10:17:37Z",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-purchases-54031-shares-of-advanced-micro-devices-inc-amd-2026-09-06/",
+      "published_at": "2026-09-06T10:42:30Z",
       "tickers": [
-        "AXP",
-        "GS",
-        "PG",
-        "PEP",
-        "CRM",
-        "TTE",
-        "LOW",
-        "TJX",
-        "WELL",
-        "MDT",
-        "AMT",
-        "PNC"
+        "AMD",
+        "WMT",
+        "C",
+        "GILD"
       ]
     },
     {
-      "id": "bank-of-america-resultados-solidos",
+      "id": "netflix-subida-precios-uk",
       "type": "empresa",
-      "title": "Bank of America superó expectativas y subió su dividendo",
-      "summary": "Bank of America reportó ganancias de u$s1,21 por acción e ingresos de u$s31,56 mil millones, superando las estimaciones de analistas. La empresa también aumentó su dividendo trimestral y recibió una calificación de \"Compra Moderada\" por consenso.",
-      "detail": "Cuando un banco grande como Bank of America supera las expectativas de ganancias, es señal de que el negocio bancario está siendo rentable: los márgenes de interés y el crédito funcionan bien. Subir el dividendo además indica que la dirección confía en la solidez futura del negocio. Para quienes aprenden finanzas, este es un ejemplo de cómo leer resultados trimestrales y qué señales buscar en una empresa financiera.",
+      "title": "Netflix volvió a subir precios en el Reino Unido y su facturación histórica sigue creciendo",
+      "summary": "Netflix aumentó por segunda vez en 19 meses los precios de sus planes en el Reino Unido. A pesar de las subas recurrentes en distintos mercados, la empresa nunca registró una caída en sus ingresos anuales.",
+      "detail": "El caso de Netflix ilustra el concepto de 'poder de fijación de precios': cuando una empresa tiene usuarios muy fieles y pocos sustitutos reales, puede subir precios sin perder ingresos. Para inversores, esto es una señal de ventaja competitiva (o 'moat'). También muestra cómo el crecimiento del nivel de suscriptores puede compensar la posible pérdida de clientes sensibles al precio.",
       "tags": [
-        "banca",
-        "resultados",
-        "dividendo"
+        "precios",
+        "streaming",
+        "ingresos"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-kintra-wealth-llc-increases-holdings-in-bank-of-america-corporation-bac-2026-09-06/",
-      "published_at": "2026-09-06T10:19:17Z",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/media-advertising/articles/netflix-raised-u-k-prices-202301507.html",
+      "published_at": "2026-09-06T16:23:00Z",
       "tickers": [
-        "BAC"
+        "NFLX"
       ]
     },
     {
-      "id": "goldman-sachs-resultados",
+      "id": "smci-cruce-caminos",
       "type": "empresa",
-      "title": "Goldman Sachs reportó resultados fuertes y elevó su dividendo a u$s5 por acción",
-      "summary": "Goldman Sachs ganó u$s20,98 por acción con ingresos de u$s20,34 mil millones, superando las expectativas del mercado. El banco aumentó su dividendo trimestral a u$s5,00 por acción y los analistas mantienen una recomendación de \"Compra Moderada\" con un precio objetivo promedio de u$s1.062,86.",
-      "detail": "Goldman Sachs es uno de los bancos de inversión más importantes del mundo, y sus resultados suelen tomarse como termómetro de la salud de los mercados financieros globales. Un EPS tan alto refleja ingresos robustos en trading, banca de inversión y gestión de activos. Para alguien aprendiendo finanzas, es útil observar cómo el mercado reacciona ante resultados que superan expectativas y cómo eso se traduce en movimientos del precio de la acción.",
+      "title": "Super Micro Computer está en un momento bisagra con pedidos por más de USD 60.000 millones",
+      "summary": "Super Micro Computer (SMCI) recibió más de USD 60.000 millones en nuevos pedidos y recuperó sus márgenes brutos en el cuarto trimestre, lo que llevó a una recomendación de compra con un precio objetivo de USD 44,20 (un 21,7% de potencial alza). Sin embargo, la empresa enfrenta flujo de caja negativo y una revisión interna de su directorio.",
+      "detail": "SMCI es un proveedor clave de servidores para infraestructura de inteligencia artificial, lo que la pone en el centro del boom tecnológico actual. La tensión entre resultados operativos fuertes y problemas de gobernanza es un ejemplo clásico del análisis de riesgo-retorno: buenos números no siempre garantizan una inversión segura. El ratio precio/ganancias futuro muy por debajo de competidores como Dell sugiere que el mercado todavía descuenta esos riesgos.",
       "tags": [
-        "banca inversión",
-        "resultados",
-        "dividendo"
+        "inteligencia artificial",
+        "tecnología",
+        "valuación"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-has-2089-million-holdings-in-the-goldman-sachs-group-inc-gs-2026-09-06/",
-      "published_at": "2026-09-06T10:17:03Z",
+      "source_name": "24/7 Wall St.",
+      "source_url": "https://247wallst.com/investing/2026/09/06/smci-stock-is-at-a-crossroads-the-next-move-could-be-huge/",
+      "published_at": "2026-09-06T12:30:43Z",
       "tickers": [
-        "GS"
+        "SMCI",
+        "DELL",
+        "HPE"
       ]
     },
     {
-      "id": "american-express-crecimiento-ingresos",
+      "id": "teradyne-robotica-ia",
       "type": "empresa",
-      "title": "American Express creció un 10% en ingresos año a año y superó estimaciones",
-      "summary": "American Express reportó ganancias de u$s4,53 por acción e ingresos de u$s19,64 mil millones, un 10% más que el año anterior. Los analistas mantienen una calificación de \"Compra Moderada\" con un precio objetivo promedio de u$s373,32.",
-      "detail": "El crecimiento sostenido de ingresos del 10% interanual en una empresa financiera de consumo indica que el gasto con tarjeta y la base de clientes siguen en expansión. American Express apunta a segmentos de mayores ingresos, lo que la hace menos vulnerable a impagos que otros emisores de tarjetas. Es un buen ejemplo de empresa para analizar márgenes, crecimiento de ingresos y calidad de cartera crediticia.",
+      "title": "Teradyne sube fuerte impulsada por robótica industrial e instrumentos de test para IA",
+      "summary": "Las acciones de Teradyne están cerca de sus máximos recientes gracias a la fuerte demanda de equipos de testeo para inteligencia artificial y robótica industrial, con crecimiento de ingresos de tres dígitos. Los inversores institucionales están aumentando su exposición a la compañía.",
+      "detail": "Teradyne es un ejemplo de empresa que se beneficia indirectamente del boom de la IA: no fabrica chips, pero provee los instrumentos necesarios para testearlos. Esto muestra que en un ciclo tecnológico hay ganadores 'de pala y pico' más allá de las empresas más conocidas. El crecimiento de triple dígito en ingresos es una señal muy fuerte, aunque una valuación elevada implica que el mercado ya tiene grandes expectativas incorporadas en el precio.",
       "tags": [
-        "tarjeta crédito",
-        "resultados",
-        "consumo"
+        "robótica",
+        "inteligencia artificial",
+        "tecnología"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-grows-holdings-in-american-express-company-axp-2026-09-06/",
-      "published_at": "2026-09-06T10:17:37Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/teradyne-inc-stock-gains-on-strong-robotics-demand-and-ai-test-boom/70061257",
+      "published_at": "2026-09-06T19:12:58Z",
       "tickers": [
-        "AXP"
+        "TER"
       ]
     },
     {
-      "id": "walmart-resultados-presion-aranceles",
+      "id": "equinor-bateria-texas",
       "type": "empresa",
-      "title": "Walmart superó estimaciones pero enfrenta presión por aranceles y regulación",
-      "summary": "Walmart reportó ganancias de u$s0,81 por acción con ingresos de u$s187,94 mil millones, superando las expectativas del mercado. Sin embargo, la empresa enfrenta desafíos por presión arancelaria, escrutinio regulatorio y una valuación considerada alta por algunos analistas.",
-      "detail": "Walmart es el retailer más grande del mundo, así que sus resultados son un indicador del consumo masivo en EE.UU. La mención a la presión arancelaria es clave: si los aranceles sobre importaciones suben, Walmart puede ver incrementar sus costos, lo que afecta márgenes. Este es un ejemplo real de cómo la política comercial impacta directamente en los balances de grandes empresas.",
+      "title": "Equinor inauguró un proyecto de almacenamiento de energía de 100 MW en Texas",
+      "summary": "La noruega Equinor puso en marcha su planta de almacenamiento de energía en baterías Citrus Flatts en Texas, con capacidad de 100 MW y 200 MWh. La empresa también anunció más proyectos de baterías en Virginia y la compra de una planta de gas en Pensilvania, dentro de su estrategia de expandir generación eléctrica hacia 2030.",
+      "detail": "El almacenamiento de energía en baterías es una pieza clave de la transición energética: permite guardar electricidad cuando hay excedente (por ejemplo, de energía solar) y usarla cuando hay demanda. Que una petrolera grande como Equinor invierta en este negocio muestra cómo las compañías de energía tradicional están diversificando hacia fuentes limpias. Esto es relevante para entender hacia dónde fluye el capital en el sector energético global.",
       "tags": [
-        "retail",
-        "aranceles",
-        "consumo"
+        "energía",
+        "transición energética",
+        "baterías"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-mw-advisory-llc-takes-position-in-walmart-inc-wmt-2026-09-06/",
-      "published_at": "2026-09-06T09:31:35Z",
+      "source_name": "Rigzone",
+      "source_url": "https://www.rigzone.com/news/equinor_starts_up_100_mw_energy_storage_project_in_texas-06-sep-2026-184546-article/",
+      "published_at": "2026-09-06T12:24:47Z",
       "tickers": [
-        "WMT"
-      ]
-    },
-    {
-      "id": "blackstone-ingresos-disparan",
-      "type": "empresa",
-      "title": "Blackstone reportó un salto de ingresos del 35,9% y subió su dividendo",
-      "summary": "Blackstone, una de las gestoras de activos alternativos más grandes del mundo, reportó ganancias de u$s1,52 por acción con ingresos que crecieron un 35,9% interanual. La empresa aumentó su dividendo trimestral a u$s1,29, equivalente a un rendimiento anualizado del 3,8%.",
-      "detail": "Blackstone gestiona fondos de private equity, real estate e infraestructura, por lo que un salto en ingresos del 36% refleja buena actividad en los mercados de activos alternativos. Las gestoras de activos como Blackstone cobran comisiones de administración y participación en ganancias, así que cuando los mercados suben y se concretan ventas de activos, sus ingresos se disparan. Es un buen caso para entender cómo funciona el negocio de la gestión de inversiones.",
-      "tags": [
-        "gestión activos",
-        "resultados",
-        "dividendo"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-rose-capital-advisors-llc-acquires-new-shares-in-blackstone-inc-bx-2026-09-06/",
-      "published_at": "2026-09-06T09:33:24Z",
-      "tickers": [
-        "BX"
+        "EQNR"
       ]
     },
     {
       "id": "byd-planta-stellantis-canada",
       "type": "empresa",
-      "title": "BYD, el gigante chino de autos eléctricos, analiza comprar una planta cerrada de Stellantis en Canadá",
-      "summary": "BYD, el mayor fabricante de vehículos eléctricos de China, expresó interés en adquirir la planta de ensamblaje de Stellantis en Brampton, Ontario, que lleva cerrada desde diciembre de 2023 y dejó sin trabajo a unas 3.000 personas. La empresa evalúa convertirla en una fábrica de colectivos de tránsito.",
-      "detail": "La expansión internacional de BYD es una de las historias más relevantes de la industria automotriz global: la empresa china desafía a fabricantes establecidos como General Motors y Ford en sus propios mercados. Que una fábrica cerrada en Canadá sea un candidato para producción de transporte público eléctrico muestra cómo la transición energética reordena las cadenas productivas. Para quienes siguen finanzas, es un ejemplo de cómo las decisiones corporativas afectan empleo, mercados y geopolítica al mismo tiempo.",
+      "title": "BYD evalúa comprar la planta cerrada de Stellantis en Canadá para fabricar buses eléctricos",
+      "summary": "El fabricante chino de autos eléctricos BYD manifestó interés en adquirir la planta de Stellantis en Brampton, Ontario, cerrada desde diciembre de 2023, para convertirla en una fábrica de buses de tránsito. Unos 3.000 trabajadores siguen sin respuesta sobre su futuro.",
+      "detail": "Este movimiento muestra la expansión global de BYD más allá de la venta de autos: busca producir en mercados clave como Norteamérica. Para quienes siguen finanzas, ilustra cómo la competencia en el sector automotriz está siendo redefinida por empresas chinas, y cómo el cierre de plantas tradicionales puede abrir oportunidades para nuevos actores. También es un ejemplo de los efectos reales que tienen las decisiones corporativas sobre el empleo y las comunidades.",
       "tags": [
         "autos eléctricos",
-        "manufactura",
-        "China"
+        "BYD",
+        "manufactura"
       ],
       "source_name": "Yahoo! Finance Canada",
       "source_url": "https://ca.finance.yahoo.com/news/byd-inquires-stellantiss-shuttered-2-110000751.html",
@@ -139,21 +135,39 @@
       ]
     },
     {
-      "id": "oiltanking-on-argentina",
+      "id": "argan-sobrevauacion-caida",
       "type": "mercado",
-      "title": "Oiltanking colocó obligaciones negociables por u$s17,7 millones en Argentina",
-      "summary": "Oiltanking Ebytem, empresa líder en el sector de hidrocarburos de Argentina que brinda servicios de recepción, almacenamiento y bombeo de crudo, emitió dos series de obligaciones negociables por un total de u$s17,7 millones. La operación contó con el asesoramiento de estudios jurídicos y la participación de varios bancos e inversores.",
-      "detail": "Las obligaciones negociables (ON) son instrumentos de deuda que emiten empresas privadas para financiarse directamente en el mercado de capitales, sin pasar por un banco. Para alguien aprendiendo finanzas en Argentina, este tipo de operaciones son muy relevantes porque las ON son una herramienta de inversión accesible en pesos o dólares dentro del mercado local. Que una empresa del sector energético emita deuda también refleja la dinámica del financiamiento corporativo en el país.",
+      "title": "Un modelo de valuación detectó que Argan estaba sobrevaluada antes de que cayera un 41%",
+      "summary": "Las herramientas de valuación de InvestingPro identificaron a Argan Inc. (AGX) como significativamente sobrevaluada en julio de 2026, cuando cotizaba a USD 706,15. Dos meses después, la acción había caído un 41%, llegando a USD 417,99.",
+      "detail": "Este caso es un ejemplo práctico de por qué la valuación importa: aunque una empresa tenga buenos fundamentos, si su precio de mercado está muy por encima de su valor intrínseco, el riesgo de corrección es alto. Los modelos de valor justo (fair value) intentan estimar cuánto 'vale realmente' una empresa para detectar estos desfasajes antes de que el mercado los corrija. Es una lección clave para inversores que aprenden a no comprar solo por momentum o noticias positivas.",
       "tags": [
-        "obligaciones negociables",
-        "energía",
-        "Argentina"
+        "valuación",
+        "riesgo",
+        "análisis"
       ],
-      "source_name": "Bruchou & Funes de Rioja",
-      "source_url": "https://bruchoufunes.com/obligaciones-negociables-oiltanking-por-usd-17-7-millones/",
-      "published_at": "2026-09-06T09:51:39Z",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-argan-overvaluation-before-41-drop-93CH-4890278",
+      "published_at": "2026-09-06T11:27:58Z",
       "tickers": [
-        "BMA"
+        "AGX"
+      ]
+    },
+    {
+      "id": "knicks-ipo-octubre",
+      "type": "empresa",
+      "title": "Los Knicks de Nueva York salen a la bolsa en octubre con una valuación de mercado menor a la estimada",
+      "summary": "La franquicia de básquet New York Knicks se convertirá en una empresa cotizante independiente bajo el ticker MSGK antes de fin de octubre de 2026, luego de que Madison Square Garden Sports separe sus negocios de Knicks y Rangers. El mercado valúa a los Knicks unos USD 2.500 millones por debajo de las estimaciones de analistas, en parte por el control que ejerce James Dolan sobre los accionistas minoritarios.",
+      "detail": "Esta operación es un ejemplo de spinoff: cuando una empresa divide sus negocios en unidades separadas que cotizan en bolsa de forma independiente. El descuento de valuación frente a las estimaciones refleja el riesgo de tener un accionista controlante que puede tomar decisiones que no benefician a los accionistas minoritarios, un concepto clave en gobierno corporativo. Para inversores, el precio al que debuta una acción versus su valor estimado es una señal importante sobre cómo el mercado percibe esos riesgos.",
+      "tags": [
+        "spinoff",
+        "gobierno corporativo",
+        "bolsa"
+      ],
+      "source_name": "Substack",
+      "source_url": "https://thekotshow.substack.com/p/who-owns-new-york-knicks-msgk-spinoff-valuation",
+      "published_at": "2026-09-06T10:57:47Z",
+      "tickers": [
+        "MSGS"
       ]
     }
   ],
@@ -184,9 +198,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 79.908",
-      "valor_num": 79908.0,
-      "delta_pct": 0.36
+      "valor": "US$ 79.934",
+      "valor_num": 79934.0,
+      "delta_pct": 0.03
     },
     {
       "label": "S&P 500",
