@@ -1,173 +1,148 @@
 {
-  "generated_at": "2026-09-06T22:01:25.791080+00:00",
+  "generated_at": "2026-09-07T12:01:09.604501+00:00",
   "items": [
     {
-      "id": "inflacion-fed-semana",
-      "type": "economia",
-      "title": "Llega el dato de inflación de EE.UU. que puede mover al mercado global",
-      "summary": "Esta semana se publica el índice de precios al consumidor (CPI) de agosto en Estados Unidos, un dato clave que podría influir en la próxima decisión de tasas de la Reserva Federal. También hay expectativa por el evento de lanzamiento de Apple y resultados de empresas como Oracle y Adobe.",
-      "detail": "El CPI es uno de los indicadores más seguidos por los mercados globales porque la Fed lo usa para decidir si sube, baja o mantiene las tasas de interés. Cuando la inflación baja, los mercados suelen anticipar recortes de tasas, lo que impulsa acciones y bonos. Para Argentina, estas decisiones afectan el costo del financiamiento externo y el flujo de capitales hacia economías emergentes.",
+      "id": "xom-readystate-2026-09-07",
+      "type": "empresa",
+      "title": "ExxonMobil sigue atrayendo inversores institucionales pese a la volatilidad del petróleo",
+      "summary": "Readystate Asset Management compró 217.778 acciones de ExxonMobil por unos 29,77 millones de dólares, reflejando un interés institucional sostenido en la petrolera pese a la fluctuación de precios del crudo y la capacidad de refinación.",
+      "detail": "ExxonMobil es una de las empresas más sensibles al precio del petróleo a nivel global. Cuando inversores institucionales grandes arman posiciones nuevas en ella, suele interpretarse como una señal de expectativas positivas sobre el precio del crudo o la rentabilidad del sector energético. Para alguien que aprende finanzas, esto ilustra cómo el movimiento de grandes fondos puede anticipar tendencias en sectores clave como la energía, que impacta directamente en economías como la argentina.",
       "tags": [
-        "inflación",
-        "Fed",
-        "tasas"
+        "energía",
+        "petróleo",
+        "inversión institucional"
       ],
-      "source_name": "Investopedia",
-      "source_url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-fresh-inflation-data-apple-fall-launch-event-and-oracle-earnings-12100794",
-      "published_at": "2026-09-06T10:39:37Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-readystate-asset-management-lp-purchases-new-holdings-in-exxonmobil-corporation-xom-2026-09-07/",
+      "published_at": "2026-09-07T10:48:14Z",
       "tickers": [
-        "ORCL",
-        "AAPL",
-        "ADBE"
+        "XOM"
       ]
     },
     {
-      "id": "banco-central-saudi-compras",
-      "type": "mercado",
-      "title": "El Banco Central de Arabia Saudita compró acciones de AMD, Walmart, Citigroup y más",
-      "summary": "El banco central saudita aumentó sus posiciones en varias empresas estadounidenses durante el segundo trimestre, incluyendo AMD (subió un 20,7% su tenencia), Walmart (89,7% más), Citigroup (80,8% más) y Gilead Sciences. Estas compras forman parte de la gestión de reservas internacionales del país.",
-      "detail": "Cuando un banco central o fondo soberano compra acciones de grandes empresas, está diversificando sus reservas más allá del dólar y los bonos del Tesoro. Esto muestra cómo los países productores de petróleo invierten sus excedentes en activos globales. Para quienes aprenden finanzas, es un ejemplo de cómo los inversores institucionales más grandes del mundo asignan capital y cómo eso puede influir en el precio de las acciones.",
+      "id": "wmt-virginia-2026-09-07",
+      "type": "empresa",
+      "title": "Walmart sigue siendo apuesta favorita de los fondos institucionales",
+      "summary": "Virginia Retirement Systems compró más de 700.000 acciones de Walmart por unos 79,3 millones de dólares, y la compañía superó las estimaciones de ganancias y ventas más recientes.",
+      "detail": "Walmart es considerada una acción 'defensiva': cuando la economía se desacelera, los consumidores tienden a ir a tiendas de bajo costo, lo que sostiene sus ingresos. Que un fondo de pensiones estatal compre una posición grande en Walmart puede indicar que los gestores esperan un entorno económico más cauteloso. Para quien aprende finanzas, es un ejemplo de cómo el tipo de empresa (defensiva vs. cíclica) influye en las decisiones de inversión según el ciclo económico.",
       "tags": [
-        "inversión institucional",
-        "fondos soberanos",
-        "acciones"
+        "consumo",
+        "acciones defensivas",
+        "institucionales"
       ],
       "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-purchases-54031-shares-of-advanced-micro-devices-inc-amd-2026-09-06/",
-      "published_at": "2026-09-06T10:42:30Z",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-acquires-shares-of-700251-walmart-inc-wmt-2026-09-07/",
+      "published_at": "2026-09-07T10:06:37Z",
       "tickers": [
-        "AMD",
-        "WMT",
-        "C",
+        "WMT"
+      ]
+    },
+    {
+      "id": "wfc-kirkwood-2026-09-07",
+      "type": "empresa",
+      "title": "Wells Fargo reportó ganancias sólidas y subió su dividendo",
+      "summary": "Wells Fargo reportó ganancias trimestrales de 1,96 dólares por acción y elevó su dividendo trimestral a 0,50 dólares, mientras nuevos inversores institucionales como Kirkwood Financial Services abrieron posiciones en el banco.",
+      "detail": "Los bancos grandes como Wells Fargo son un termómetro de la salud financiera de la economía estadounidense: cuando suben dividendos y superan expectativas de ganancias, suele reflejar que el negocio de préstamos y servicios financieros está funcionando bien. La política de tasas de la Reserva Federal afecta directamente la rentabilidad de los bancos, así que seguir sus resultados es útil para entender el impacto de las decisiones monetarias en el sector privado.",
+      "tags": [
+        "banca",
+        "dividendos",
+        "tasas de interés"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-kirkwood-financial-services-purchases-new-shares-in-wells-fargo-company-wfc-2026-09-07/",
+      "published_at": "2026-09-07T10:20:44Z",
+      "tickers": [
+        "WFC"
+      ]
+    },
+    {
+      "id": "bx-hightower-2026-09-07",
+      "type": "empresa",
+      "title": "Blackstone superó expectativas y aumentó su dividendo al récord de 1,29 dólares",
+      "summary": "HighTower Advisors aumentó su posición en Blackstone en un 6,7%, llevándola a 299,2 millones de dólares, luego de que la gestora de activos reportara ganancias de 1,52 dólares por acción y 5.040 millones de dólares en ingresos, superando las estimaciones.",
+      "detail": "Blackstone es una de las gestoras de activos alternativos más grandes del mundo, con inversiones en private equity, bienes raíces y crédito. Que supere expectativas y suba su dividendo refleja que el dinero sigue fluyendo hacia fondos de inversión alternativos, incluso en entornos de tasas altas. Para alguien que aprende finanzas, Blackstone es un buen ejemplo de cómo funcionan las gestoras de activos y por qué los inversores institucionales las utilizan para diversificar.",
+      "tags": [
+        "gestora de activos",
+        "private equity",
+        "dividendos"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-hightower-advisors-llc-increases-position-in-blackstone-inc-bx-2026-09-07/",
+      "published_at": "2026-09-07T10:12:16Z",
+      "tickers": [
+        "BX"
+      ]
+    },
+    {
+      "id": "dg-results-2026-09-07",
+      "type": "economia",
+      "title": "Dollar General creció en ventas pero advirtió que sus clientes están bajo presión financiera",
+      "summary": "Dollar General reportó ingresos del segundo trimestre de 11.290 millones de dólares, un alza del 5,2%, superó estimaciones de ganancias y elevó su guía de EPS para 2026, aunque la gerencia alertó que sus clientes más vulnerables siguen ajustando el gasto.",
+      "detail": "Dollar General apunta a consumidores de bajos ingresos en EE.UU. Que la empresa crezca pero al mismo tiempo advierta sobre la presión financiera de sus clientes es una señal de que una parte importante de la población estadounidense todavía siente el impacto de la inflación y las tasas altas. Este tipo de dato es relevante para entender la salud del consumo en la economía más grande del mundo, lo que a su vez afecta las perspectivas globales.",
+      "tags": [
+        "consumo",
+        "inflación",
+        "EE.UU."
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-raiffeisen-bank-international-ag-trims-stake-in-dollar-general-corporation-dg-2026-09-07/",
+      "published_at": "2026-09-07T10:16:50Z",
+      "tickers": [
+        "DG"
+      ]
+    },
+    {
+      "id": "pep-virginia-2026-09-07",
+      "type": "empresa",
+      "title": "PepsiCo superó estimaciones y Virginia Retirement Systems invirtió 73,4 millones de dólares",
+      "summary": "Virginia Retirement Systems compró 541.816 acciones de PepsiCo por unos 73,4 millones de dólares, luego de que la compañía reportara resultados trimestrales superiores a lo esperado y anunciara un dividendo de 1,48 dólares por acción.",
+      "detail": "PepsiCo, al igual que Walmart, es considerada una empresa de consumo defensivo: vende productos que la gente compra independientemente del ciclo económico. Que un fondo de pensiones grande apueste por ella refuerza la idea de que los gestores institucionales buscan estabilidad en momentos de incertidumbre. Además, el dividendo constante la hace atractiva para inversores que priorizan ingresos regulares sobre ganancias de capital.",
+      "tags": [
+        "consumo defensivo",
+        "dividendos",
+        "institucionales"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-541816-shares-in-pepsico-inc-pep-acquired-by-virginia-retirement-systems-et-al-2026-09-07/",
+      "published_at": "2026-09-07T10:07:29Z",
+      "tickers": [
+        "PEP"
+      ]
+    },
+    {
+      "id": "gild-virginia-2026-09-07",
+      "type": "empresa",
+      "title": "Gilead Sciences creció un 10,6% en ingresos y captó una inversión de 130 millones de dólares",
+      "summary": "Virginia Retirement Systems tomó una posición nueva de 130,42 millones de dólares en Gilead Sciences, empresa farmacéutica que reportó ingresos trimestrales de 7.800 millones de dólares, un 10,6% más que el año anterior.",
+      "detail": "Gilead Sciences es una farmacéutica especializada en antivirales y tratamientos para el HIV y hepatitis. Un crecimiento de ingresos del 10,6% interanual es significativo en el sector salud, que suele considerarse defensivo pero con potencial de crecimiento. Para alguien que aprende a analizar empresas, Gilead es un ejemplo de cómo combinar defensividad (la gente necesita medicamentos) con potencial de expansión por innovación.",
+      "tags": [
+        "farmacéutica",
+        "salud",
+        "crecimiento"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-takes-13042-million-position-in-gilead-sciences-inc-gild-2026-09-07/",
+      "published_at": "2026-09-07T10:08:20Z",
+      "tickers": [
         "GILD"
       ]
     },
     {
-      "id": "netflix-subida-precios-uk",
+      "id": "pnc-virginia-2026-09-07",
       "type": "empresa",
-      "title": "Netflix volvió a subir precios en el Reino Unido y su facturación histórica sigue creciendo",
-      "summary": "Netflix aumentó por segunda vez en 19 meses los precios de sus planes en el Reino Unido. A pesar de las subas recurrentes en distintos mercados, la empresa nunca registró una caída en sus ingresos anuales.",
-      "detail": "El caso de Netflix ilustra el concepto de 'poder de fijación de precios': cuando una empresa tiene usuarios muy fieles y pocos sustitutos reales, puede subir precios sin perder ingresos. Para inversores, esto es una señal de ventaja competitiva (o 'moat'). También muestra cómo el crecimiento del nivel de suscriptores puede compensar la posible pérdida de clientes sensibles al precio.",
+      "title": "PNC Financial superó estimaciones con un alza de ingresos del 21% y subió su dividendo",
+      "summary": "Virginia Retirement Systems invirtió 52,89 millones de dólares en PNC Financial Services, banco que reportó ganancias de 4,85 dólares por acción y un incremento de ingresos del 21,4%, además de elevar su dividendo trimestral a 2,00 dólares.",
+      "detail": "Un crecimiento de ingresos del 21% en un banco regional grande como PNC suele indicar que se benefició de tasas de interés elevadas, ya que los bancos ganan más con el diferencial entre lo que cobran por préstamos y lo que pagan por depósitos. Entender este mecanismo es clave para seguir cómo la política monetaria de la Fed impacta la rentabilidad bancaria y, eventualmente, el crédito disponible en la economía.",
       "tags": [
-        "precios",
-        "streaming",
-        "ingresos"
+        "banca",
+        "tasas de interés",
+        "dividendos"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/media-advertising/articles/netflix-raised-u-k-prices-202301507.html",
-      "published_at": "2026-09-06T16:23:00Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-makes-new-5289-million-investment-in-the-pnc-financial-services-group-inc-pnc-2026-09-07/",
+      "published_at": "2026-09-07T10:19:25Z",
       "tickers": [
-        "NFLX"
-      ]
-    },
-    {
-      "id": "smci-cruce-caminos",
-      "type": "empresa",
-      "title": "Super Micro Computer está en un momento bisagra con pedidos por más de USD 60.000 millones",
-      "summary": "Super Micro Computer (SMCI) recibió más de USD 60.000 millones en nuevos pedidos y recuperó sus márgenes brutos en el cuarto trimestre, lo que llevó a una recomendación de compra con un precio objetivo de USD 44,20 (un 21,7% de potencial alza). Sin embargo, la empresa enfrenta flujo de caja negativo y una revisión interna de su directorio.",
-      "detail": "SMCI es un proveedor clave de servidores para infraestructura de inteligencia artificial, lo que la pone en el centro del boom tecnológico actual. La tensión entre resultados operativos fuertes y problemas de gobernanza es un ejemplo clásico del análisis de riesgo-retorno: buenos números no siempre garantizan una inversión segura. El ratio precio/ganancias futuro muy por debajo de competidores como Dell sugiere que el mercado todavía descuenta esos riesgos.",
-      "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "valuación"
-      ],
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/06/smci-stock-is-at-a-crossroads-the-next-move-could-be-huge/",
-      "published_at": "2026-09-06T12:30:43Z",
-      "tickers": [
-        "SMCI",
-        "DELL",
-        "HPE"
-      ]
-    },
-    {
-      "id": "teradyne-robotica-ia",
-      "type": "empresa",
-      "title": "Teradyne sube fuerte impulsada por robótica industrial e instrumentos de test para IA",
-      "summary": "Las acciones de Teradyne están cerca de sus máximos recientes gracias a la fuerte demanda de equipos de testeo para inteligencia artificial y robótica industrial, con crecimiento de ingresos de tres dígitos. Los inversores institucionales están aumentando su exposición a la compañía.",
-      "detail": "Teradyne es un ejemplo de empresa que se beneficia indirectamente del boom de la IA: no fabrica chips, pero provee los instrumentos necesarios para testearlos. Esto muestra que en un ciclo tecnológico hay ganadores 'de pala y pico' más allá de las empresas más conocidas. El crecimiento de triple dígito en ingresos es una señal muy fuerte, aunque una valuación elevada implica que el mercado ya tiene grandes expectativas incorporadas en el precio.",
-      "tags": [
-        "robótica",
-        "inteligencia artificial",
-        "tecnología"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/teradyne-inc-stock-gains-on-strong-robotics-demand-and-ai-test-boom/70061257",
-      "published_at": "2026-09-06T19:12:58Z",
-      "tickers": [
-        "TER"
-      ]
-    },
-    {
-      "id": "equinor-bateria-texas",
-      "type": "empresa",
-      "title": "Equinor inauguró un proyecto de almacenamiento de energía de 100 MW en Texas",
-      "summary": "La noruega Equinor puso en marcha su planta de almacenamiento de energía en baterías Citrus Flatts en Texas, con capacidad de 100 MW y 200 MWh. La empresa también anunció más proyectos de baterías en Virginia y la compra de una planta de gas en Pensilvania, dentro de su estrategia de expandir generación eléctrica hacia 2030.",
-      "detail": "El almacenamiento de energía en baterías es una pieza clave de la transición energética: permite guardar electricidad cuando hay excedente (por ejemplo, de energía solar) y usarla cuando hay demanda. Que una petrolera grande como Equinor invierta en este negocio muestra cómo las compañías de energía tradicional están diversificando hacia fuentes limpias. Esto es relevante para entender hacia dónde fluye el capital en el sector energético global.",
-      "tags": [
-        "energía",
-        "transición energética",
-        "baterías"
-      ],
-      "source_name": "Rigzone",
-      "source_url": "https://www.rigzone.com/news/equinor_starts_up_100_mw_energy_storage_project_in_texas-06-sep-2026-184546-article/",
-      "published_at": "2026-09-06T12:24:47Z",
-      "tickers": [
-        "EQNR"
-      ]
-    },
-    {
-      "id": "byd-planta-stellantis-canada",
-      "type": "empresa",
-      "title": "BYD evalúa comprar la planta cerrada de Stellantis en Canadá para fabricar buses eléctricos",
-      "summary": "El fabricante chino de autos eléctricos BYD manifestó interés en adquirir la planta de Stellantis en Brampton, Ontario, cerrada desde diciembre de 2023, para convertirla en una fábrica de buses de tránsito. Unos 3.000 trabajadores siguen sin respuesta sobre su futuro.",
-      "detail": "Este movimiento muestra la expansión global de BYD más allá de la venta de autos: busca producir en mercados clave como Norteamérica. Para quienes siguen finanzas, ilustra cómo la competencia en el sector automotriz está siendo redefinida por empresas chinas, y cómo el cierre de plantas tradicionales puede abrir oportunidades para nuevos actores. También es un ejemplo de los efectos reales que tienen las decisiones corporativas sobre el empleo y las comunidades.",
-      "tags": [
-        "autos eléctricos",
-        "BYD",
-        "manufactura"
-      ],
-      "source_name": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com/news/byd-inquires-stellantiss-shuttered-2-110000751.html",
-      "published_at": "2026-09-06T10:59:53Z",
-      "tickers": [
-        "STLA"
-      ]
-    },
-    {
-      "id": "argan-sobrevauacion-caida",
-      "type": "mercado",
-      "title": "Un modelo de valuación detectó que Argan estaba sobrevaluada antes de que cayera un 41%",
-      "summary": "Las herramientas de valuación de InvestingPro identificaron a Argan Inc. (AGX) como significativamente sobrevaluada en julio de 2026, cuando cotizaba a USD 706,15. Dos meses después, la acción había caído un 41%, llegando a USD 417,99.",
-      "detail": "Este caso es un ejemplo práctico de por qué la valuación importa: aunque una empresa tenga buenos fundamentos, si su precio de mercado está muy por encima de su valor intrínseco, el riesgo de corrección es alto. Los modelos de valor justo (fair value) intentan estimar cuánto 'vale realmente' una empresa para detectar estos desfasajes antes de que el mercado los corrija. Es una lección clave para inversores que aprenden a no comprar solo por momentum o noticias positivas.",
-      "tags": [
-        "valuación",
-        "riesgo",
-        "análisis"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/investment-ideas/investingpros-fair-value-spotted-argan-overvaluation-before-41-drop-93CH-4890278",
-      "published_at": "2026-09-06T11:27:58Z",
-      "tickers": [
-        "AGX"
-      ]
-    },
-    {
-      "id": "knicks-ipo-octubre",
-      "type": "empresa",
-      "title": "Los Knicks de Nueva York salen a la bolsa en octubre con una valuación de mercado menor a la estimada",
-      "summary": "La franquicia de básquet New York Knicks se convertirá en una empresa cotizante independiente bajo el ticker MSGK antes de fin de octubre de 2026, luego de que Madison Square Garden Sports separe sus negocios de Knicks y Rangers. El mercado valúa a los Knicks unos USD 2.500 millones por debajo de las estimaciones de analistas, en parte por el control que ejerce James Dolan sobre los accionistas minoritarios.",
-      "detail": "Esta operación es un ejemplo de spinoff: cuando una empresa divide sus negocios en unidades separadas que cotizan en bolsa de forma independiente. El descuento de valuación frente a las estimaciones refleja el riesgo de tener un accionista controlante que puede tomar decisiones que no benefician a los accionistas minoritarios, un concepto clave en gobierno corporativo. Para inversores, el precio al que debuta una acción versus su valor estimado es una señal importante sobre cómo el mercado percibe esos riesgos.",
-      "tags": [
-        "spinoff",
-        "gobierno corporativo",
-        "bolsa"
-      ],
-      "source_name": "Substack",
-      "source_url": "https://thekotshow.substack.com/p/who-owns-new-york-knicks-msgk-spinoff-valuation",
-      "published_at": "2026-09-06T10:57:47Z",
-      "tickers": [
-        "MSGS"
+        "PNC"
       ]
     }
   ],
@@ -198,9 +173,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 79.934",
-      "valor_num": 79934.0,
-      "delta_pct": 0.03
+      "valor": "US$ 79.384",
+      "valor_num": 79384.0,
+      "delta_pct": -0.66
     },
     {
       "label": "S&P 500",
