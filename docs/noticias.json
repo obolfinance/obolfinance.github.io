@@ -1,190 +1,167 @@
 {
-  "generated_at": "2026-09-07T22:01:27.490279+00:00",
+  "generated_at": "2026-09-08T12:01:18.718158+00:00",
   "items": [
     {
-      "id": "apple-foldable-iphone-ternus",
-      "type": "empresa",
-      "title": "Apple presenta su primer iPhone plegable con nuevo CEO",
-      "summary": "Apple va a presentar su primer iPhone plegable junto con los nuevos modelos iPhone 18 y actualizaciones de otros dispositivos. El evento será este miércoles y marca el debut público de John Ternus, el nuevo CEO que reemplazó a Tim Cook.",
-      "detail": "El lanzamiento de un producto completamente nuevo como un iPhone plegable es una señal clave sobre la capacidad de innovación de Apple. Para inversores, el debut de un nuevo CEO siempre genera incertidumbre: el mercado evalúa si la persona puede mantener el crecimiento que logró su antecesor. Además, Apple enfrenta presión para mostrar avances concretos en inteligencia artificial, lo que puede afectar la percepción del valor de la acción.",
+      "id": "smci-margin-magic",
+      "type": "mercado",
+      "title": "Supermicro: el salto de márgenes que no va a durar",
+      "summary": "Supermicro reportó un margen bruto del 17,6% en su último trimestre, muy por encima de las expectativas, lo que hizo subir sus acciones. Pero la propia empresa aclaró que el 75% de esa mejora vino de contratos diferidos, un hecho no recurrente, y guió el próximo trimestre con márgenes de entre 10% y 11%.",
+      "detail": "Cuando una empresa reporta resultados muy buenos pero aclara que son temporales, es una señal importante para los inversores. Los márgenes brutos miden cuánto le queda a la empresa de cada venta después de cubrir los costos directos: si bajan del 17% al 10%, el negocio en realidad no mejoró tanto. Este caso enseña a distinguir entre resultados estructurales y eventos puntuales que inflan los números.",
       "tags": [
+        "resultados",
         "tecnología",
-        "innovación",
-        "liderazgo"
-      ],
-      "source_name": "New York Post",
-      "source_url": "https://nypost.com/2026/09/07/business/apples-first-foldable-iphone-is-set-to-debut-wednesday-and-all-eyes-are-on-new-ceo-john-ternus/",
-      "published_at": "2026-09-07T20:01:38Z",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "nvidia-board-member-venta-acciones",
-      "type": "empresa",
-      "title": "Un directivo de Nvidia vendió acciones por USD 410 millones",
-      "summary": "Mark Stevens, miembro del directorio de Nvidia, vendió 1,85 millones de acciones entre el 31 de agosto y el 4 de septiembre, por un total de USD 410 millones. A pesar de la venta, Stevens mantiene una participación significativa en la empresa.",
-      "detail": "Cuando un directivo vende grandes cantidades de acciones, el mercado lo puede interpretar como una señal de que el precio está alto o de que el ejecutivo quiere diversificar su patrimonio. Sin embargo, no siempre indica una visión negativa sobre la empresa: puede ser por motivos personales o fiscales. En el caso de Nvidia, los analistas siguen recomendando comprar la acción, lo que muestra que las ventas internas no siempre predicen caídas.",
-      "tags": [
-        "Nvidia",
-        "acciones",
-        "insiders"
-      ],
-      "source_name": "TipRanks",
-      "source_url": "https://www.tipranks.com/news/nvidia-nvda-board-member-sells-410-million-of-company-stock",
-      "published_at": "2026-09-07T17:20:16Z",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "nvidia-plataforma-ia",
-      "type": "empresa",
-      "title": "Nvidia ya no es solo una empresa de chips: es la infraestructura de toda la IA",
-      "summary": "Nvidia evolucionó de fabricar chips a convertirse en una plataforma completa para la industria de inteligencia artificial, aumentando significativamente sus ingresos por unidad de energía con cada nueva generación de tecnología. Junto a Nvidia, empresas como Broadcom, AMD, Marvell e Intel también son actores clave en este sector.",
-      "detail": "Entender este cambio es fundamental para inversores: cuando una empresa pasa de vender un producto a controlar toda una plataforma tecnológica, su poder de fijación de precios y sus márgenes suelen crecer mucho. Este modelo, similar al de Apple con el ecosistema iOS, genera mayor fidelización de clientes y barreras de entrada para la competencia. La demanda de infraestructura de IA sigue bajo restricciones de oferta, lo que sostiene los precios.",
-      "tags": [
-        "inteligencia artificial",
-        "semiconductores",
-        "tecnología"
+        "márgenes"
       ],
       "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/07/nvidia-is-no-longer-just-a-chip-company-its-the-infrastructure-platform-for-all-of-ai/",
-      "published_at": "2026-09-07T17:12:50Z",
+      "source_url": "https://247wallst.com/investing/2026/09/08/dont-fall-for-supermicros-margin-magic-the-company-already-said-its-temporary/",
+      "published_at": "2026-09-08T11:10:48Z",
       "tickers": [
-        "NVDA"
+        "SMCI"
       ]
     },
     {
-      "id": "amd-preocupacion-wall-street",
+      "id": "fitb-comerica-takeover",
       "type": "empresa",
-      "title": "Wall Street preocupado por AMD, pero analistas ven oportunidad a largo plazo",
-      "summary": "AMD reportó resultados sólidos en el segundo trimestre con ingresos de Data Center duplicados y buenas perspectivas para el Q3, pero la acción cayó por preocupaciones sobre márgenes y cargos relacionados con exportaciones a China. Analistas igual mantienen perspectivas positivas y estiman que la acción podría llegar a USD 700.",
-      "detail": "Esta noticia ilustra un concepto clave: el precio de una acción no siempre reacciona en la misma dirección que los resultados de una empresa. A veces el mercado ya tiene incorporadas las buenas noticias ('precio forward'), y cualquier detalle negativo pesa más. Las restricciones de exportación a China son un riesgo geopolítico real que afecta a varias empresas tecnológicas y puede impactar ingresos futuros.",
-      "tags": [
-        "semiconductores",
-        "inteligencia artificial",
-        "resultados"
-      ],
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/07/wall-street-is-worried-about-amd-heres-why-long-term-investors-shouldnt-be/",
-      "published_at": "2026-09-07T17:30:18Z",
-      "tickers": [
-        "AMD",
-        "NVDA"
-      ]
-    },
-    {
-      "id": "datos-economicos-martes-septiembre",
-      "type": "reunion",
-      "title": "El martes se publican datos clave de empleo y crédito en EE.UU.",
-      "summary": "El 8 de septiembre de 2026 se publican el reporte de empleo privado ADP y el informe de crédito al consumo en Estados Unidos, además de subastas del Tesoro. Estos datos son fundamentales para evaluar la salud de la economía y las perspectivas de política monetaria.",
-      "detail": "Los datos de empleo y crédito son termómetros de la economía: si el empleo crece fuerte, la Reserva Federal puede mantener tasas altas por más tiempo para controlar la inflación. El crédito al consumo muestra si los hogares están endeudándose más, lo que puede ser señal de confianza o de dificultad financiera. Las subastas del Tesoro, por su parte, reflejan cuánto apetito tienen los inversores por deuda del gobierno, lo que afecta las tasas de interés de largo plazo.",
-      "tags": [
-        "empleo",
-        "economía",
-        "política monetaria"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/adp-employment-data-and-consumer-credit-among-releases-due-tuesday-93CH-4890717",
-      "published_at": "2026-09-07T18:04:51Z",
-      "tickers": [
-        "ADP"
-      ]
-    },
-    {
-      "id": "citigroup-china-mercados",
-      "type": "empresa",
-      "title": "Citigroup busca expandirse en los mercados de capitales de China",
-      "summary": "Citigroup esperaría recibir aprobación regulatoria para operar su propio negocio de corretaje en China continental en septiembre de 2026, lo que le permitirá participar en bolsa, suscripción de deuda y trading. La expansión enfrenta competencia intensa de bancos ya establecidos y firmas locales.",
-      "detail": "La entrada de bancos extranjeros al mercado chino es relevante porque China es la segunda economía mundial y su mercado de capitales está en expansión. Para los grandes bancos de Wall Street, obtener licencias allí puede representar un crecimiento significativo de ingresos. Sin embargo, los riesgos geopolíticos entre EE.UU. y China hacen que estas operaciones sean más inciertas que en otros mercados.",
-      "tags": [
-        "banca",
-        "China",
-        "expansión"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-moves-deeper-china-191334077.html",
-      "published_at": "2026-09-07T18:44:36Z",
-      "tickers": [
-        "C",
-        "GS",
-        "JPM",
-        "MS"
-      ]
-    },
-    {
-      "id": "gilead-aprobacion-fda-vih",
-      "type": "empresa",
-      "title": "La FDA aprobó un nuevo medicamento de Gilead para el VIH",
-      "summary": "La FDA aprobó Bixlenvo, un nuevo comprimido de toma diaria única de Gilead Sciences para adultos con VIH que ya están en tratamiento, incluyendo pacientes con regímenes complejos. Es el primer medicamento de este tipo disponible para ese grupo específico de pacientes.",
-      "detail": "Las aprobaciones de la FDA son eventos concretos que pueden impactar el precio de una acción porque representan la apertura a un nuevo mercado o la ampliación de uno existente. En el sector farmacéutico, la innovación en tratamientos para enfermedades crónicas como el VIH genera ingresos recurrentes, lo que es muy valorado por los inversores. Para Gilead, este tipo de aprobaciones refuerzan su posición de liderazgo en el segmento.",
-      "tags": [
-        "farmacéutica",
-        "FDA",
-        "salud"
-      ],
-      "source_name": "European AIDS Treatment Group",
-      "source_url": "https://www.eatg.org/hiv-news/press-release-fda-approves-gileads-bixlenvo-a-new-once-daily-single-tablet-option-for-virologically-suppressed-adults-with-hiv-including-those-on-complex-regimens/",
-      "published_at": "2026-09-07T17:42:19Z",
-      "tickers": [
-        "GILD"
-      ]
-    },
-    {
-      "id": "netapp-resultados-ia-storage",
-      "type": "empresa",
-      "title": "NetApp superó expectativas y subió su guía anual gracias a la demanda de IA",
-      "summary": "NetApp reportó resultados del primer trimestre fiscal 2027 por encima de las expectativas y elevó su outlook para todo el año, impulsado por la demanda de almacenamiento relacionado con inteligencia artificial. Los ingresos de sus arrays all-flash y la nube pública fueron los principales motores de crecimiento.",
-      "detail": "Cuando una empresa no solo supera las estimaciones del trimestre sino que también sube su guía anual, es una señal doblemente positiva: indica que el negocio va mejor de lo esperado y que la dirección confía en que eso va a continuar. La demanda de almacenamiento para IA es un tema transversal que beneficia a empresas de infraestructura tecnológica más allá de los fabricantes de chips, mostrando que el boom de la IA tiene múltiples capas de inversión.",
-      "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "resultados"
-      ],
-      "source_name": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com/news/netapp-q1-beat-raised-guidance-163600631.html",
-      "published_at": "2026-09-07T16:41:11Z",
-      "tickers": [
-        "NTAP",
-        "DELL"
-      ]
-    },
-    {
-      "id": "tesla-spacex-fusion-potencial",
-      "type": "empresa",
-      "title": "Un CEO inversor dice que una fusión Tesla-SpaceX sería una inversión obligada",
-      "summary": "Ross Gerber, CEO de Gerber Kawasaki, afirmó que una fusión entre Tesla y SpaceX es inevitable y crearía una inversión de altísimo atractivo. JPMorgan también señaló que la operación sería estratégicamente coherente y más viable financieramente ahora dado el mayor valor de SpaceX.",
-      "detail": "Las fusiones especulativas entre empresas muy conocidas generan mucho ruido en mercados, pero es importante distinguir entre opiniones de analistas e inversores y anuncios oficiales. Una fusión de esta escala involucraría procesos regulatorios complejos y necesitaría el acuerdo de múltiples partes. Para quienes aprenden finanzas, este tipo de noticias enseña a evaluar el impacto potencial de una M&A (fusión y adquisición) en la valuación de las empresas involucradas.",
+      "title": "Fifth Third Bank completó la absorción de Comerica Bank",
+      "summary": "Fifth Third Bank terminó de absorber a Comerica Bank y ya está cambiando los carteles en las sucursales, incluyendo las del lado oeste de Detroit. La fusión marca el fin de Comerica como marca independiente.",
+      "detail": "Las fusiones bancarias son relevantes porque concentran el sistema financiero: menos bancos compiten, lo que puede afectar las tasas que ofrecen a clientes. Para un inversor, estas operaciones suelen implicar sinergias de costos (reducción de sucursales y empleados) que mejoran la rentabilidad del banco adquirente en el mediano plazo. También es un indicador del estado del sector bancario en EE.UU.",
       "tags": [
         "fusiones",
-        "Tesla",
-        "tecnología"
+        "bancos",
+        "EE.UU."
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/tesla-plus-spacex-could-become-170020766.html",
-      "published_at": "2026-09-07T16:44:37Z",
+      "source_name": "CBS News",
+      "source_url": "https://www.cbsnews.com/detroit/video/fifth-third-bank-takes-over-comerica-bank/",
+      "published_at": "2026-09-08T11:08:43Z",
       "tickers": [
-        "TSLA"
+        "FITB"
       ]
     },
     {
-      "id": "openai-ciberseguridad-palo-alto",
+      "id": "amgen-lpa-caida",
+      "type": "mercado",
+      "title": "Amgen cayó 4,7% tras el fracaso de un ensayo de Novartis en enfermedades cardíacas",
+      "summary": "Las acciones de Amgen bajaron 4,7% en el premarket después de que Novartis anunciara que su tratamiento para reducir el Lp(a) —un marcador de riesgo cardiovascular— falló en la fase III de ensayos clínicos. Además, BMO Capital bajó su recomendación sobre Amgen, que también desarrolla una terapia similar llamada olpasiran.",
+      "detail": "Cuando un competidor falla en un ensayo clínico con un mecanismo parecido, los inversores suelen castigar a otras empresas del mismo sector porque pone en duda si el enfoque terapéutico en general funciona. Esto muestra cómo los precios de acciones farmacéuticas dependen fuertemente de resultados científicos, muchas veces ajenos a la propia empresa. Los downgrades de analistas también pueden amplificar caídas aunque no haya malas noticias directas de la compañía.",
+      "tags": [
+        "salud",
+        "ensayos clínicos",
+        "analistas"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/amgen-shares-fall-investors-assess-105208691.html",
+      "published_at": "2026-09-08T10:52:17Z",
+      "tickers": [
+        "AMGN"
+      ]
+    },
+    {
+      "id": "sp500-nuevas-empresas",
+      "type": "mercado",
+      "title": "Bloom Energy, Everpure e Illumina se suman al S&P 500 en el rebalanceo de septiembre",
+      "summary": "Tres empresas —Bloom Energy, Everpure e Illumina— serán incorporadas al índice S&P 500 durante el rebalanceo de septiembre. Este cambio tiene implicancias directas para el precio de sus acciones.",
+      "detail": "Cuando una empresa entra al S&P 500, los fondos que replican el índice (ETFs y fondos pasivos) están obligados a comprar sus acciones, lo que genera una demanda automática e inmediata. Esto suele hacer subir el precio antes y durante la inclusión. Para quienes aprenden finanzas, es un ejemplo claro de cómo los flujos de capital institucional mueven precios más allá de los fundamentos de cada empresa.",
+      "tags": [
+        "S&P 500",
+        "índices",
+        "ETFs"
+      ],
+      "source_name": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com/news/bloom-energy-everpure-illumina-to-join-s-p-500-in-september-rebalance-ce785bd8da89f221",
+      "published_at": "2026-09-08T10:27:04Z",
+      "tickers": [
+        "ILMN"
+      ]
+    },
+    {
+      "id": "morgan-stanley-mt-bank",
+      "type": "mercado",
+      "title": "Morgan Stanley mejoró su recomendación sobre M&T Bank y ve un alza del 27%",
+      "summary": "Morgan Stanley subió su calificación sobre M&T Bank de Equalweight a Overweight y elevó su precio objetivo a 304 dólares, proyectando un potencial de suba del 27% en los próximos 12 a 18 meses. El banco espera que un mayor crecimiento de préstamos y una mejor gestión del capital impulsen los ingresos por intereses netos.",
+      "detail": "El ingreso neto por intereses (NII) es la diferencia entre lo que un banco cobra por préstamos y lo que paga por depósitos: es la principal fuente de ganancias bancarias. Cuando analistas de grandes bancos de inversión como Morgan Stanley cambian su recomendación, los fondos institucionales suelen reposicionar sus carteras, lo que puede mover el precio de la acción. Este tipo de análisis sirve para entender cómo se valúan los bancos.",
+      "tags": [
+        "bancos",
+        "analistas",
+        "acciones"
+      ],
+      "source_name": "Investing.com India",
+      "source_url": "https://in.investing.com/news/stock-market-news/mt-bank-stock-rating-upgraded-by-morgan-stanley-on-nii-outlook-93CH-5584242",
+      "published_at": "2026-09-08T10:43:37Z",
+      "tickers": [
+        "MTB"
+      ]
+    },
+    {
+      "id": "walmart-target-retail",
+      "type": "economia",
+      "title": "Walmart creció 5,9% en ventas pero Target sorprende con una recuperación inesperada",
+      "summary": "Jim Cramer recomendó comprar Walmart a pesar de que su crecimiento en ventas comparables fue el más débil en seis años. Target, en cambio, sorprendió positivamente con un alza del 5,3% en ventas netas gracias a recortes de precios en 10.000 productos bajo su nuevo CEO.",
+      "detail": "Las ventas comparables (same-store sales) miden el crecimiento de tiendas que ya existían el año anterior, sin contar nuevas aperturas: son un indicador clave de la salud real del negocio minorista. Que Walmart registre su peor dato en seis años en este indicador, pese al crecimiento total de ingresos, sugiere que parte del avance viene de expansión y no de mayor demanda. El contraste con Target ilustra cómo la estrategia de precios puede cambiar la dinámica competitiva.",
+      "tags": [
+        "retail",
+        "consumo",
+        "EE.UU."
+      ],
+      "source_name": "www.foreignpolicyjournal.com",
+      "source_url": "https://www.foreignpolicyjournal.com/2026/09/08/jim-cramer-backs-walmart-nasdaq-wmt-while-target-nyse-tgt-ceo-drives-surprising-retail-revival/",
+      "published_at": "2026-09-08T10:04:27Z",
+      "tickers": [
+        "WMT",
+        "TGT"
+      ]
+    },
+    {
+      "id": "marathon-petroleum-crack-spreads",
+      "type": "mercado",
+      "title": "Marathon Petroleum proyecta un crecimiento de ganancias del 341% por márgenes récord en refinación",
+      "summary": "Marathon Petroleum fue destacada como recomendación de compra fuerte gracias a márgenes de refinación (crack spreads) en niveles récord, lo que impulsaría un crecimiento de ganancias interanual del 341%. La empresa superó expectativas en el segundo trimestre de 2026 y devuelve capital a accionistas mediante recompras y dividendos.",
+      "detail": "El crack spread es la diferencia entre el precio del petróleo crudo y el de los combustibles refinados: cuando es alto, las refinerías ganan mucho más por cada barril procesado. Un crecimiento de ganancias del 341% interanual es extraordinario y refleja condiciones de mercado muy favorables, no necesariamente sostenibles. Este caso ilustra cómo empresas en sectores cíclicos pueden generar retornos muy altos en ciertos momentos del ciclo económico.",
+      "tags": [
+        "energía",
+        "refinación",
+        "ganancias"
+      ],
+      "source_name": "Yahoo Finance Singapore",
+      "source_url": "https://sg.finance.yahoo.com/news/bull-day-marathon-petroleum-mpc-101400320.html",
+      "published_at": "2026-09-08T10:14:03Z",
+      "tickers": [
+        "MPC"
+      ]
+    },
+    {
+      "id": "boston-scientific-cyber-recovery",
       "type": "empresa",
-      "title": "OpenAI lanza iniciativa de ciberdefensa con IA y suma a Palo Alto, ServiceNow y otros",
-      "summary": "OpenAI lanzó una iniciativa llamada 'A Call to Action on Cyber Defense' para coordinar la defensa cibernética usando inteligencia artificial, y empresas como Palo Alto Networks, ServiceNow y Mate Security se sumaron como primeros firmantes. La iniciativa busca que gobiernos y empresas tecnológicas usen IA para defenderse de ataques cada vez más sofisticados.",
-      "detail": "La ciberseguridad con inteligencia artificial es uno de los segmentos de mayor crecimiento en tecnología. Cuando una organización de referencia como OpenAI impulsa una iniciativa de este tipo y empresas líderes se suman, suele traducirse en mayor inversión sectorial y visibilidad para las compañías involucradas. Para inversores, identificar tendencias tempranas en tecnología puede ser una ventaja al evaluar qué sectores van a crecer.",
+      "title": "Boston Scientific se recupera de un ciberataque y mantiene su recomendación de compra",
+      "summary": "TD Cowen reiteró su recomendación de compra sobre Boston Scientific tras confirmar que la empresa recuperó gran parte de su red de distribución después de un incidente de ciberseguridad. Sin embargo, 22 analistas revisaron a la baja sus estimaciones de ganancias por el impacto financiero del ataque.",
+      "detail": "Los ciberataques son un riesgo operativo creciente para las empresas, especialmente en salud, donde la distribución de productos críticos puede verse interrumpida. Que 22 analistas hayan bajado sus estimaciones de ganancias muestra el impacto concreto en el negocio, incluso cuando la recuperación operativa es rápida. Para quienes aprenden finanzas, este caso ilustra cómo los riesgos no financieros pueden traducirse en consecuencias muy concretas en los números.",
       "tags": [
         "ciberseguridad",
-        "inteligencia artificial",
-        "tecnología"
+        "salud",
+        "riesgo"
       ],
-      "source_name": "Security Boulevard",
-      "source_url": "https://securityboulevard.com/2026/09/mate-security-palo-alto-networks-and-servicenow-join-openais-first-day-cyber-defense-signatories/",
-      "published_at": "2026-09-07T17:58:39Z",
+      "source_name": "Investing.com Canada",
+      "source_url": "https://ca.investing.com/news/stock-market-news/td-cowen-reiterates-boston-scientific-stock-buy-rating-after-cyber-recovery-93CH-4830352",
+      "published_at": "2026-09-08T09:55:41Z",
       "tickers": [
-        "PANW",
-        "NOW"
+        "BSX"
+      ]
+    },
+    {
+      "id": "pie-etf-mercados-emergentes",
+      "type": "mercado",
+      "title": "Un ETF de mercados emergentes rindió 45% en el último año, pero cobra comisiones altas",
+      "summary": "El ETF Invesco Dorsey Wright Emerging Markets Momentum (PIE) acumuló más de 256 millones de dólares en activos y mostró un rendimiento de alrededor del 45% en los últimos 12 meses. Sin embargo, su comisión anual del 0,90% es considerada alta frente a alternativas como VWO e IEMG que ofrecen exposición similar a menor costo.",
+      "detail": "Los ETFs de mercados emergentes permiten invertir en economías en desarrollo —incluyendo Latinoamérica— con un solo instrumento. La diferencia entre una comisión del 0,90% y una del 0,10% puede parecer pequeña, pero a lo largo de los años tiene un impacto significativo en el rendimiento final gracias al efecto del interés compuesto. Este artículo es útil para entender que no alcanza con mirar el rendimiento pasado: los costos importan tanto como los retornos.",
+      "tags": [
+        "ETF",
+        "mercados emergentes",
+        "comisiones"
+      ],
+      "source_name": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com/news/invesco-dorsey-wright-emerging-markets-102001592.html",
+      "published_at": "2026-09-08T10:19:56Z",
+      "tickers": [
+        "IVZ"
       ]
     }
   ],
@@ -215,9 +192,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 79.187",
-      "valor_num": 79187.0,
-      "delta_pct": -0.9
+      "valor": "US$ 78.418",
+      "valor_num": 78418.0,
+      "delta_pct": -1.26
     },
     {
       "label": "S&P 500",
@@ -227,9 +204,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.477",
-      "valor_num": 4476.6,
-      "delta_pct": 2.96
+      "valor": "US$ 4.446",
+      "valor_num": 4446.0,
+      "delta_pct": 1.83
     }
   ]
 }
