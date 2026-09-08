@@ -1,167 +1,184 @@
 {
-  "generated_at": "2026-09-08T12:01:18.718158+00:00",
+  "generated_at": "2026-09-08T22:01:24.333867+00:00",
   "items": [
     {
-      "id": "smci-margin-magic",
+      "id": "amd-cfo-tam-2030",
       "type": "mercado",
-      "title": "Supermicro: el salto de márgenes que no va a durar",
-      "summary": "Supermicro reportó un margen bruto del 17,6% en su último trimestre, muy por encima de las expectativas, lo que hizo subir sus acciones. Pero la propia empresa aclaró que el 75% de esa mejora vino de contratos diferidos, un hecho no recurrente, y guió el próximo trimestre con márgenes de entre 10% y 11%.",
-      "detail": "Cuando una empresa reporta resultados muy buenos pero aclara que son temporales, es una señal importante para los inversores. Los márgenes brutos miden cuánto le queda a la empresa de cada venta después de cubrir los costos directos: si bajan del 17% al 10%, el negocio en realidad no mejoró tanto. Este caso enseña a distinguir entre resultados estructurales y eventos puntuales que inflan los números.",
+      "title": "AMD proyecta un mercado de chips de IA de hasta 3 billones de dólares para 2030",
+      "summary": "Las acciones de AMD subieron un 6% después de que su CFO proyectara que el mercado total de chips de inteligencia artificial podría alcanzar entre 2 y 3 billones de dólares para 2030, muy por encima de estimaciones anteriores. La empresa espera que su negocio de centros de datos más que se duplique el año próximo.",
+      "detail": "Cuando una empresa grande da una proyección optimista sobre su mercado futuro, los inversores suelen reaccionar comprando acciones porque anticipan mayores ganancias. Este caso muestra cómo las declaraciones de ejecutivos clave (como el CFO) pueden mover el precio de una acción en un solo día. También ilustra el concepto de 'mercado total direccionable' (TAM): cuánto dinero hay disponible en un sector para que una empresa capture. Entender esto ayuda a evaluar el potencial de crecimiento de una compañía.",
       "tags": [
-        "resultados",
-        "tecnología",
-        "márgenes"
-      ],
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/08/dont-fall-for-supermicros-margin-magic-the-company-already-said-its-temporary/",
-      "published_at": "2026-09-08T11:10:48Z",
-      "tickers": [
-        "SMCI"
-      ]
-    },
-    {
-      "id": "fitb-comerica-takeover",
-      "type": "empresa",
-      "title": "Fifth Third Bank completó la absorción de Comerica Bank",
-      "summary": "Fifth Third Bank terminó de absorber a Comerica Bank y ya está cambiando los carteles en las sucursales, incluyendo las del lado oeste de Detroit. La fusión marca el fin de Comerica como marca independiente.",
-      "detail": "Las fusiones bancarias son relevantes porque concentran el sistema financiero: menos bancos compiten, lo que puede afectar las tasas que ofrecen a clientes. Para un inversor, estas operaciones suelen implicar sinergias de costos (reducción de sucursales y empleados) que mejoran la rentabilidad del banco adquirente en el mediano plazo. También es un indicador del estado del sector bancario en EE.UU.",
-      "tags": [
-        "fusiones",
-        "bancos",
-        "EE.UU."
-      ],
-      "source_name": "CBS News",
-      "source_url": "https://www.cbsnews.com/detroit/video/fifth-third-bank-takes-over-comerica-bank/",
-      "published_at": "2026-09-08T11:08:43Z",
-      "tickers": [
-        "FITB"
-      ]
-    },
-    {
-      "id": "amgen-lpa-caida",
-      "type": "mercado",
-      "title": "Amgen cayó 4,7% tras el fracaso de un ensayo de Novartis en enfermedades cardíacas",
-      "summary": "Las acciones de Amgen bajaron 4,7% en el premarket después de que Novartis anunciara que su tratamiento para reducir el Lp(a) —un marcador de riesgo cardiovascular— falló en la fase III de ensayos clínicos. Además, BMO Capital bajó su recomendación sobre Amgen, que también desarrolla una terapia similar llamada olpasiran.",
-      "detail": "Cuando un competidor falla en un ensayo clínico con un mecanismo parecido, los inversores suelen castigar a otras empresas del mismo sector porque pone en duda si el enfoque terapéutico en general funciona. Esto muestra cómo los precios de acciones farmacéuticas dependen fuertemente de resultados científicos, muchas veces ajenos a la propia empresa. Los downgrades de analistas también pueden amplificar caídas aunque no haya malas noticias directas de la compañía.",
-      "tags": [
-        "salud",
-        "ensayos clínicos",
-        "analistas"
+        "inteligencia artificial",
+        "chips",
+        "mercado tecnológico"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/healthcare/articles/amgen-shares-fall-investors-assess-105208691.html",
-      "published_at": "2026-09-08T10:52:17Z",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-spikes-6-cfo-195748362.html",
+      "published_at": "2026-09-08T19:58:26Z",
       "tickers": [
-        "AMGN"
+        "AMD"
       ]
     },
     {
-      "id": "sp500-nuevas-empresas",
-      "type": "mercado",
-      "title": "Bloom Energy, Everpure e Illumina se suman al S&P 500 en el rebalanceo de septiembre",
-      "summary": "Tres empresas —Bloom Energy, Everpure e Illumina— serán incorporadas al índice S&P 500 durante el rebalanceo de septiembre. Este cambio tiene implicancias directas para el precio de sus acciones.",
-      "detail": "Cuando una empresa entra al S&P 500, los fondos que replican el índice (ETFs y fondos pasivos) están obligados a comprar sus acciones, lo que genera una demanda automática e inmediata. Esto suele hacer subir el precio antes y durante la inclusión. Para quienes aprenden finanzas, es un ejemplo claro de cómo los flujos de capital institucional mueven precios más allá de los fundamentos de cada empresa.",
+      "id": "ford-china-white-house",
+      "type": "economia",
+      "title": "La Casa Blanca presionó a Ford por sus vínculos con empresas chinas",
+      "summary": "El secretario de Transporte de EE.UU. le envió una carta al CEO de Ford criticando sus alianzas con compañías chinas como CATL y Geely, calificándolo de estrategia insostenible. El gobierno le pide a Ford que priorice a los trabajadores estadounidenses y la independencia en su cadena de suministro.",
+      "detail": "Este tipo de presión política sobre empresas privadas muestra cómo las tensiones geopolíticas entre Estados Unidos y China afectan directamente a las corporaciones. Para alguien que aprende finanzas, es importante entender que las decisiones de inversión no dependen solo de los números de una empresa: el contexto político y regulatorio puede cambiar las perspectivas de un negocio. Las cadenas de suministro y la tecnología de baterías para vehículos eléctricos son hoy un campo de disputa estratégica entre potencias.",
       "tags": [
-        "S&P 500",
-        "índices",
-        "ETFs"
+        "geopolítica",
+        "autos eléctricos",
+        "cadena de suministro"
       ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/bloom-energy-everpure-illumina-to-join-s-p-500-in-september-rebalance-ce785bd8da89f221",
-      "published_at": "2026-09-08T10:27:04Z",
+      "source_name": "The Detroit News",
+      "source_url": "https://www.detroitnews.com/story/business/autos/ford/2026/09/08/trump-administration-criticizes-ford-for-intertwining-with-chinese-firms/91662495007/",
+      "published_at": "2026-09-08T20:15:41Z",
       "tickers": [
-        "ILMN"
+        "F"
       ]
     },
     {
-      "id": "morgan-stanley-mt-bank",
-      "type": "mercado",
-      "title": "Morgan Stanley mejoró su recomendación sobre M&T Bank y ve un alza del 27%",
-      "summary": "Morgan Stanley subió su calificación sobre M&T Bank de Equalweight a Overweight y elevó su precio objetivo a 304 dólares, proyectando un potencial de suba del 27% en los próximos 12 a 18 meses. El banco espera que un mayor crecimiento de préstamos y una mejor gestión del capital impulsen los ingresos por intereses netos.",
-      "detail": "El ingreso neto por intereses (NII) es la diferencia entre lo que un banco cobra por préstamos y lo que paga por depósitos: es la principal fuente de ganancias bancarias. Cuando analistas de grandes bancos de inversión como Morgan Stanley cambian su recomendación, los fondos institucionales suelen reposicionar sus carteras, lo que puede mover el precio de la acción. Este tipo de análisis sirve para entender cómo se valúan los bancos.",
+      "id": "coca-cola-dividendo-64",
+      "type": "empresa",
+      "title": "Coca-Cola aumentó su dividendo por 64° año consecutivo",
+      "summary": "Coca-Cola subió su dividendo trimestral a 0,53 dólares por acción, lo que representa un pago anual de 2,12 dólares. Sin embargo, como la acción subió un 28% en el año, el rendimiento por dividendo bajó al 2,3% para quienes compran hoy.",
+      "detail": "Los dividendos son pagos que las empresas hacen a sus accionistas como forma de distribuir ganancias. Coca-Cola es un ejemplo clásico de 'dividend aristocrat': una empresa que aumenta su dividendo año tras año durante décadas. Este artículo ilustra un concepto clave: cuando el precio de una acción sube mucho, el rendimiento por dividendo (dividend yield) baja, porque el pago en dólares crece menos que el precio. Es una tensión habitual entre apreciación del capital e ingreso por dividendos.",
       "tags": [
+        "dividendos",
+        "acciones",
+        "inversión a largo plazo"
+      ],
+      "source_name": "24/7 Wall St.",
+      "source_url": "https://247wallst.com/personal-finance/2026/09/08/a-67-year-old-retiree-just-watched-coca-cola-raise-its-dividend-for-the-64th-year-in-a-row-here-is-what-that-payout-is-really-worth-today/",
+      "published_at": "2026-09-08T20:16:24Z",
+      "tickers": [
+        "KO"
+      ]
+    },
+    {
+      "id": "bank-of-america-tasas-fed",
+      "type": "mercado",
+      "title": "Las acciones de Bank of America cayeron tras un informe de empleo más fuerte de lo esperado",
+      "summary": "Las acciones de Bank of America bajaron después de que un informe de empleo sólido en EE.UU. aumentara las expectativas de que la Reserva Federal podría subir las tasas de interés. El banco también anunció su participación en una moneda digital vinculada al dólar junto a otros bancos globales.",
+      "detail": "Este artículo muestra una relación fundamental en finanzas: un mercado laboral fuerte puede llevar a la Fed a subir tasas para controlar la inflación, lo que encarece el crédito y presiona los márgenes de los bancos. Paradójicamente, tasas más altas pueden beneficiar o perjudicar a un banco según su estructura de activos y pasivos. Además, la mención de una moneda digital de liquidación entre bancos globales refleja cómo el sistema financiero tradicional está explorando activos digitales.",
+      "tags": [
+        "tasas de interés",
         "bancos",
-        "analistas",
-        "acciones"
+        "Reserva Federal"
+      ],
+      "source_name": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com/us/stocks/financial/bank-of-america-nysebac-can-deposit-strength-beat-rate-pressure",
+      "published_at": "2026-09-08T19:18:14Z",
+      "tickers": [
+        "BAC"
+      ]
+    },
+    {
+      "id": "honeywell-restructuracion",
+      "type": "empresa",
+      "title": "Honeywell avanza en su división en tres empresas independientes",
+      "summary": "Honeywell completó una etapa clave de su reestructuración, separándose en tres empresas independientes: materiales avanzados, aeroespacial y automatización. La entidad que queda es ahora un especialista puro en automatización, lo que generó interés renovado de inversores.",
+      "detail": "Cuando una empresa grande se divide en unidades más pequeñas y enfocadas, cada parte puede ser valorada de forma más precisa por el mercado según sus propios competidores y métricas. Este proceso se llama 'spin-off' o separación corporativa, y suele hacerse cuando el mercado subvalora partes del negocio por estar mezcladas con otras. Es un concepto importante en finanzas corporativas: a veces la suma de las partes vale más que el todo junto.",
+      "tags": [
+        "reestructuración",
+        "spin-off",
+        "industria"
+      ],
+      "source_name": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com/us/stocks/industrial/honeywell-nasdaqhon-shares-firm-as-automation-pure-play-era-begins",
+      "published_at": "2026-09-08T19:46:47Z",
+      "tickers": [
+        "HON"
+      ]
+    },
+    {
+      "id": "nucor-tarifas-acero",
+      "type": "mercado",
+      "title": "Las acciones de Nucor se movieron con volatilidad por las negociaciones de aranceles al acero",
+      "summary": "Las acciones de Nucor, productora de acero estadounidense, tuvieron una semana volátil ante noticias sobre posibles cambios en los aranceles al acero y aluminio canadiense. Las acciones rebotaron cuando las negociaciones entre Washington y Ottawa se estancaron, lo que favorece a los productores locales.",
+      "detail": "Los aranceles son impuestos a las importaciones y tienen un efecto directo en la competitividad de las empresas locales. Cuando hay aranceles altos al acero extranjero, productores como Nucor pueden cobrar precios más altos sin perder clientes. Por eso sus acciones son muy sensibles a este tipo de noticias. Este caso es un buen ejemplo de cómo la política comercial entre países impacta directamente en el precio de acciones de sectores específicos.",
+      "tags": [
+        "aranceles",
+        "acero",
+        "política comercial"
+      ],
+      "source_name": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com/us/stocks/metal-and-mining/why-is-nucor-nysenue-swinging-on-tariff-headlines",
+      "published_at": "2026-09-08T19:43:43Z",
+      "tickers": [
+        "NUE"
+      ]
+    },
+    {
+      "id": "realty-income-dividendo-136",
+      "type": "empresa",
+      "title": "Realty Income declaró su 136° aumento consecutivo de dividendo mensual",
+      "summary": "Realty Income Corporation anunció un nuevo aumento en su dividendo mensual, llevándolo a 0,2715 dólares por acción, pagadero el 15 de octubre de 2026. El monto anualizado equivale a 3,258 dólares por acción.",
+      "detail": "Realty Income es conocida como 'The Monthly Dividend Company' porque reparte dividendos mensualmente, a diferencia de la mayoría de las empresas que lo hacen trimestralmente. Esto la convierte en un ejemplo popular entre inversores que buscan ingresos regulares. El hecho de que lleve 136 aumentos consecutivos muestra consistencia, un atributo muy valorado en estrategias de inversión por dividendos. Para quienes aprenden finanzas, es un buen caso para entender los REITs (fondos de inversión inmobiliaria).",
+      "tags": [
+        "dividendos",
+        "REIT",
+        "ingresos pasivos"
+      ],
+      "source_name": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com/news/136th-common-stock-monthly-dividend-200500650.html",
+      "published_at": "2026-09-08T20:05:27Z",
+      "tickers": [
+        "O"
+      ]
+    },
+    {
+      "id": "caterpillar-ia-robotica",
+      "type": "mercado",
+      "title": "Caterpillar subió mientras el mercado caía, impulsada por una alianza en IA y robótica",
+      "summary": "Las acciones de Caterpillar subieron incluso cuando el mercado en general bajaba, gracias a un nuevo acuerdo de colaboración en inteligencia artificial, autonomía y robótica aplicada a construcción y minería.",
+      "detail": "Cuando una acción sube en un día en que el mercado general cae, se dice que tiene una correlación baja o negativa con el mercado, lo que puede ser señal de fortaleza particular en ese momento. En este caso, el catalizador fue una noticia de negocio concreta: una alianza tecnológica. Esto ilustra cómo los anuncios de colaboraciones estratégicas pueden mover el precio de una acción independientemente del contexto general del mercado.",
+      "tags": [
+        "inteligencia artificial",
+        "industria",
+        "robótica"
+      ],
+      "source_name": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com/us/stocks/industrial/why-caterpillar-nysecat-moved-higher-while-the-broader-market-slipped",
+      "published_at": "2026-09-08T19:24:13Z",
+      "tickers": [
+        "CAT"
+      ]
+    },
+    {
+      "id": "valero-earnings-oct-2026",
+      "type": "reunion",
+      "title": "Valero Energy anunciará sus resultados del tercer trimestre el 22 de octubre",
+      "summary": "Valero Energy confirmó que presentará sus resultados financieros del tercer trimestre de 2026 el 22 de octubre, con una conferencia telefónica a las 10:00 a.m. ET. El reporte estará disponible en su sitio de relaciones con inversores.",
+      "detail": "Las fechas de presentación de resultados trimestrales (earnings) son eventos clave en el calendario de cualquier inversor. Antes de esas fechas, el mercado suele anticipar los números, y después del anuncio las acciones pueden moverse mucho según si los resultados superaron o decepcionaron las expectativas. Estar atento a estas fechas es parte esencial del seguimiento de una empresa como inversor.",
+      "tags": [
+        "resultados trimestrales",
+        "energía",
+        "calendario financiero"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/energy/articles/valero-energy-corporation-announce-third-192300083.html",
+      "published_at": "2026-09-08T19:13:19Z",
+      "tickers": [
+        "VLO"
+      ]
+    },
+    {
+      "id": "netapp-ia-resultados",
+      "type": "empresa",
+      "title": "NetApp superó sus proyecciones gracias a la adopción de IA y elevó su perspectiva anual",
+      "summary": "NetApp reportó resultados del primer trimestre fiscal 2027 por encima de lo esperado, impulsados por la adopción de inteligencia artificial y la modernización de infraestructura, lo que llevó a la empresa a subir significativamente sus proyecciones para todo el año.",
+      "detail": "Cuando una empresa supera sus propias proyecciones y las eleva para el futuro, suele ser una señal positiva para sus acciones. NetApp opera en el mercado de almacenamiento de datos, un sector que está creciendo fuertemente por la explosión de datos que genera la IA. Este caso muestra cómo tendencias tecnológicas amplias (como la IA) pueden beneficiar a empresas de infraestructura que no son las más visibles pero son esenciales para que todo funcione.",
+      "tags": [
+        "inteligencia artificial",
+        "tecnología",
+        "resultados"
       ],
       "source_name": "Investing.com India",
-      "source_url": "https://in.investing.com/news/stock-market-news/mt-bank-stock-rating-upgraded-by-morgan-stanley-on-nii-outlook-93CH-5584242",
-      "published_at": "2026-09-08T10:43:37Z",
+      "source_url": "https://in.investing.com/news/stock-market-news/netapp-at-citis-2026-global-tmt-conference-demand-broadens-93CH-5585116",
+      "published_at": "2026-09-08T18:53:10Z",
       "tickers": [
-        "MTB"
-      ]
-    },
-    {
-      "id": "walmart-target-retail",
-      "type": "economia",
-      "title": "Walmart creció 5,9% en ventas pero Target sorprende con una recuperación inesperada",
-      "summary": "Jim Cramer recomendó comprar Walmart a pesar de que su crecimiento en ventas comparables fue el más débil en seis años. Target, en cambio, sorprendió positivamente con un alza del 5,3% en ventas netas gracias a recortes de precios en 10.000 productos bajo su nuevo CEO.",
-      "detail": "Las ventas comparables (same-store sales) miden el crecimiento de tiendas que ya existían el año anterior, sin contar nuevas aperturas: son un indicador clave de la salud real del negocio minorista. Que Walmart registre su peor dato en seis años en este indicador, pese al crecimiento total de ingresos, sugiere que parte del avance viene de expansión y no de mayor demanda. El contraste con Target ilustra cómo la estrategia de precios puede cambiar la dinámica competitiva.",
-      "tags": [
-        "retail",
-        "consumo",
-        "EE.UU."
-      ],
-      "source_name": "www.foreignpolicyjournal.com",
-      "source_url": "https://www.foreignpolicyjournal.com/2026/09/08/jim-cramer-backs-walmart-nasdaq-wmt-while-target-nyse-tgt-ceo-drives-surprising-retail-revival/",
-      "published_at": "2026-09-08T10:04:27Z",
-      "tickers": [
-        "WMT",
-        "TGT"
-      ]
-    },
-    {
-      "id": "marathon-petroleum-crack-spreads",
-      "type": "mercado",
-      "title": "Marathon Petroleum proyecta un crecimiento de ganancias del 341% por márgenes récord en refinación",
-      "summary": "Marathon Petroleum fue destacada como recomendación de compra fuerte gracias a márgenes de refinación (crack spreads) en niveles récord, lo que impulsaría un crecimiento de ganancias interanual del 341%. La empresa superó expectativas en el segundo trimestre de 2026 y devuelve capital a accionistas mediante recompras y dividendos.",
-      "detail": "El crack spread es la diferencia entre el precio del petróleo crudo y el de los combustibles refinados: cuando es alto, las refinerías ganan mucho más por cada barril procesado. Un crecimiento de ganancias del 341% interanual es extraordinario y refleja condiciones de mercado muy favorables, no necesariamente sostenibles. Este caso ilustra cómo empresas en sectores cíclicos pueden generar retornos muy altos en ciertos momentos del ciclo económico.",
-      "tags": [
-        "energía",
-        "refinación",
-        "ganancias"
-      ],
-      "source_name": "Yahoo Finance Singapore",
-      "source_url": "https://sg.finance.yahoo.com/news/bull-day-marathon-petroleum-mpc-101400320.html",
-      "published_at": "2026-09-08T10:14:03Z",
-      "tickers": [
-        "MPC"
-      ]
-    },
-    {
-      "id": "boston-scientific-cyber-recovery",
-      "type": "empresa",
-      "title": "Boston Scientific se recupera de un ciberataque y mantiene su recomendación de compra",
-      "summary": "TD Cowen reiteró su recomendación de compra sobre Boston Scientific tras confirmar que la empresa recuperó gran parte de su red de distribución después de un incidente de ciberseguridad. Sin embargo, 22 analistas revisaron a la baja sus estimaciones de ganancias por el impacto financiero del ataque.",
-      "detail": "Los ciberataques son un riesgo operativo creciente para las empresas, especialmente en salud, donde la distribución de productos críticos puede verse interrumpida. Que 22 analistas hayan bajado sus estimaciones de ganancias muestra el impacto concreto en el negocio, incluso cuando la recuperación operativa es rápida. Para quienes aprenden finanzas, este caso ilustra cómo los riesgos no financieros pueden traducirse en consecuencias muy concretas en los números.",
-      "tags": [
-        "ciberseguridad",
-        "salud",
-        "riesgo"
-      ],
-      "source_name": "Investing.com Canada",
-      "source_url": "https://ca.investing.com/news/stock-market-news/td-cowen-reiterates-boston-scientific-stock-buy-rating-after-cyber-recovery-93CH-4830352",
-      "published_at": "2026-09-08T09:55:41Z",
-      "tickers": [
-        "BSX"
-      ]
-    },
-    {
-      "id": "pie-etf-mercados-emergentes",
-      "type": "mercado",
-      "title": "Un ETF de mercados emergentes rindió 45% en el último año, pero cobra comisiones altas",
-      "summary": "El ETF Invesco Dorsey Wright Emerging Markets Momentum (PIE) acumuló más de 256 millones de dólares en activos y mostró un rendimiento de alrededor del 45% en los últimos 12 meses. Sin embargo, su comisión anual del 0,90% es considerada alta frente a alternativas como VWO e IEMG que ofrecen exposición similar a menor costo.",
-      "detail": "Los ETFs de mercados emergentes permiten invertir en economías en desarrollo —incluyendo Latinoamérica— con un solo instrumento. La diferencia entre una comisión del 0,90% y una del 0,10% puede parecer pequeña, pero a lo largo de los años tiene un impacto significativo en el rendimiento final gracias al efecto del interés compuesto. Este artículo es útil para entender que no alcanza con mirar el rendimiento pasado: los costos importan tanto como los retornos.",
-      "tags": [
-        "ETF",
-        "mercados emergentes",
-        "comisiones"
-      ],
-      "source_name": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com/news/invesco-dorsey-wright-emerging-markets-102001592.html",
-      "published_at": "2026-09-08T10:19:56Z",
-      "tickers": [
-        "IVZ"
+        "NTAP"
       ]
     }
   ],
@@ -180,33 +197,33 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.534",
-      "valor_num": 1533.7,
-      "delta_pct": 0.55
+      "valor": "$1.530",
+      "valor_num": 1530.4,
+      "delta_pct": 0.33
     },
     {
       "label": "CCL",
-      "valor": "$1.583",
-      "valor_num": 1583.2,
-      "delta_pct": 0.0
+      "valor": "$1.593",
+      "valor_num": 1592.9,
+      "delta_pct": 0.61
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 78.418",
-      "valor_num": 78418.0,
-      "delta_pct": -1.26
+      "valor": "US$ 78.472",
+      "valor_num": 78472.0,
+      "delta_pct": -0.82
     },
     {
       "label": "S&P 500",
-      "valor": "7.719",
-      "valor_num": 7718.6,
-      "delta_pct": 0.09
+      "valor": "7.674",
+      "valor_num": 7673.52,
+      "delta_pct": -0.16
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.446",
-      "valor_num": 4446.0,
-      "delta_pct": 1.83
+      "valor": "US$ 4.400",
+      "valor_num": 4400.0,
+      "delta_pct": 0.77
     }
   ]
 }
