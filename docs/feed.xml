@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
   <title>El Blog de Obol</title>
-  <link>https://obolfinance.github.io/blog/index.html</link>
+  <link>https://obolfinance.com.ar/blog/index.html</link>
   <description>Notas cortas sobre plata, inflación, inversión e historia financiera. El blog de Obol Finance.</description>
   <language>es-AR</language>
   <copyright>Obol Finance</copyright>
   <image>
-    <url>https://obolfinance.github.io/assets/icon.png</url>
+    <url>https://obolfinance.com.ar/assets/icon.png</url>
     <title>El Blog de Obol</title>
-    <link>https://obolfinance.github.io/blog/index.html</link>
+    <link>https://obolfinance.com.ar/blog/index.html</link>
   </image>
-  <atom:link href="https://obolfinance.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://obolfinance.com.ar/feed.xml" rel="self" type="application/rss+xml"/>
 
   <item>
     <title>Bitcoin rebotó 20% en una semana (y sigue 40% abajo)</title>
-    <link>https://obolfinance.github.io/blog/articulos/bitcoin-rebote-proyecciones.html</link>
-    <guid isPermaLink="true">https://obolfinance.github.io/blog/articulos/bitcoin-rebote-proyecciones.html</guid>
+    <link>https://obolfinance.com.ar/blog/articulos/bitcoin-rebote-proyecciones.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/bitcoin-rebote-proyecciones.html</guid>
     <description>Qué pasó en el peor año de bitcoin desde 2022, qué lo hizo saltar en los últimos días y por qué las proyecciones no se ponen de acuerdo.</description>
     <category>Cripto</category>
     <author>obol.finance2026@gmail.com (El Bitcoiner)</author>
@@ -25,8 +25,8 @@
 
   <item>
     <title>Por qué Argentina tiene tanta inflación, explicado sin tecnicismos</title>
-    <link>https://obolfinance.github.io/blog/articulos/por-que-argentina-tiene-tanta-inflacion.html</link>
-    <guid isPermaLink="true">https://obolfinance.github.io/blog/articulos/por-que-argentina-tiene-tanta-inflacion.html</guid>
+    <link>https://obolfinance.com.ar/blog/articulos/por-que-argentina-tiene-tanta-inflacion.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/por-que-argentina-tiene-tanta-inflacion.html</guid>
     <description>No es solo culpa del dólar ni de los empresarios. El mecanismo detrás de la inflación argentina, contado en criollo.</description>
     <category>Economía</category>
     <author>obol.finance2026@gmail.com (Analista de Datos)</author>
@@ -35,8 +35,8 @@
 
   <item>
     <title>De las monedas de Lidia al bitcoin: 2700 años de inventar el dinero</title>
-    <link>https://obolfinance.github.io/blog/articulos/de-monedas-a-bitcoin.html</link>
-    <guid isPermaLink="true">https://obolfinance.github.io/blog/articulos/de-monedas-a-bitcoin.html</guid>
+    <link>https://obolfinance.com.ar/blog/articulos/de-monedas-a-bitcoin.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/de-monedas-a-bitcoin.html</guid>
     <description>De las primeras monedas de plata al bitcoin: 2700 años resolviendo el mismo problema.</description>
     <category>Historia</category>
     <author>obol.finance2026@gmail.com (El Griego)</author>
@@ -45,8 +45,8 @@
 
   <item>
     <title>5 mitos financieros que te están costando plata</title>
-    <link>https://obolfinance.github.io/blog/articulos/mitos-que-cuestan-caro.html</link>
-    <guid isPermaLink="true">https://obolfinance.github.io/blog/articulos/mitos-que-cuestan-caro.html</guid>
+    <link>https://obolfinance.com.ar/blog/articulos/mitos-que-cuestan-caro.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/mitos-que-cuestan-caro.html</guid>
     <description>Cinco creencias sobre plata que suenan razonables y salen caras. Desarmadas una por una.</description>
     <category>Mitos</category>
     <author>obol.finance2026@gmail.com (Cazador de Mitos)</author>
@@ -55,8 +55,8 @@
 
   <item>
     <title>Acciones, bonos y CEDEARs: la guía para no perderte</title>
-    <link>https://obolfinance.github.io/blog/articulos/acciones-bonos-cedears.html</link>
-    <guid isPermaLink="true">https://obolfinance.github.io/blog/articulos/acciones-bonos-cedears.html</guid>
+    <link>https://obolfinance.com.ar/blog/articulos/acciones-bonos-cedears.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/acciones-bonos-cedears.html</guid>
     <description>Qué es cada instrumento, en qué se diferencian y cómo se empieza a operar en Argentina.</description>
     <category>Inversión</category>
     <author>obol.finance2026@gmail.com (Inversora Pro)</author>
@@ -65,8 +65,8 @@
 
   <item>
     <title>El colchón que sí sirve: cómo armar tu fondo de emergencia</title>
-    <link>https://obolfinance.github.io/blog/articulos/fondo-de-emergencia.html</link>
-    <guid isPermaLink="true">https://obolfinance.github.io/blog/articulos/fondo-de-emergencia.html</guid>
+    <link>https://obolfinance.com.ar/blog/articulos/fondo-de-emergencia.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/fondo-de-emergencia.html</guid>
     <description>Cuánto guardar, dónde ponerlo, y por qué se mide en meses de gastos y no en sueldos.</description>
     <category>Ahorro</category>
     <author>obol.finance2026@gmail.com (Guardiana del Ahorro)</author>
@@ -75,8 +75,8 @@
 
   <item>
     <title>Burbujas, crashes y pánicos: por qué la economía sube y baja</title>
-    <link>https://obolfinance.github.io/blog/articulos/burbujas-crashes-panicos.html</link>
-    <guid isPermaLink="true">https://obolfinance.github.io/blog/articulos/burbujas-crashes-panicos.html</guid>
+    <link>https://obolfinance.com.ar/blog/articulos/burbujas-crashes-panicos.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/burbujas-crashes-panicos.html</guid>
     <description>Los ciclos económicos contados como lo que son: euforia, susto y resaca.</description>
     <category>Crisis</category>
     <author>obol.finance2026@gmail.com (Domador de Tormentas)</author>
@@ -85,8 +85,8 @@
 
   <item>
     <title>Bitcoin en criollo: qué es, qué no es, y los riesgos que nadie te cuenta</title>
-    <link>https://obolfinance.github.io/blog/articulos/bitcoin-en-criollo.html</link>
-    <guid isPermaLink="true">https://obolfinance.github.io/blog/articulos/bitcoin-en-criollo.html</guid>
+    <link>https://obolfinance.com.ar/blog/articulos/bitcoin-en-criollo.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/bitcoin-en-criollo.html</guid>
     <description>Qué es bitcoin, qué no es, y los riesgos reales que casi nadie menciona.</description>
     <category>Cripto</category>
     <author>obol.finance2026@gmail.com (El Broker)</author>
@@ -95,8 +95,8 @@
 
   <item>
     <title>Tarjeta de crédito: la herramienta financiera más mal usada de Argentina</title>
-    <link>https://obolfinance.github.io/blog/articulos/tarjeta-de-credito-mal-usada.html</link>
-    <guid isPermaLink="true">https://obolfinance.github.io/blog/articulos/tarjeta-de-credito-mal-usada.html</guid>
+    <link>https://obolfinance.com.ar/blog/articulos/tarjeta-de-credito-mal-usada.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/tarjeta-de-credito-mal-usada.html</guid>
     <description>No es mala — usada mal es una de las formas más caras de financiarte que existen.</description>
     <category>Deuda y Crédito</category>
     <author>obol.finance2026@gmail.com (El Ciudadano)</author>

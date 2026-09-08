@@ -5,4 +5,4 @@ Allow: /
 Disallow: /privacy.html
 Disallow: /terms.html
 
-Sitemap: https://obolfinance.github.io/sitemap.xml
+Sitemap: https://obolfinance.com.ar/sitemap.xml
