@@ -1,198 +1,232 @@
 {
-  "generated_at": "2026-09-09T12:01:07.726905+00:00",
+  "generated_at": "2026-09-09T22:01:22.146186+00:00",
   "items": [
     {
-      "id": "sysco-ai-efficiency-2026",
+      "id": "amazon-qualcomm-60b-deal",
       "type": "empresa",
-      "title": "Sysco lanza un programa de eficiencia con IA de u$s 500 millones",
-      "summary": "Sysco Corporation confirmó su guía fiscal 2027 y anunció un programa de eficiencia basado en inteligencia artificial por u$s 500 millones, con ahorros esperados para el año fiscal 2029. También subió sus metas de mediano plazo: crecimiento de ventas netas del 4%-7% y crecimiento de EPS ajustado del 9%-11% para 2028 y 2029.",
-      "detail": "Cuando una empresa grande como Sysco anuncia un plan de eficiencia con IA, está apostando a reducir costos operativos y mejorar márgenes sin necesariamente crecer en ventas. Que además reafirme su guía financiera (forward guidance) le da señales claras al mercado sobre sus expectativas futuras. Aprender a leer estos anuncios corporativos es clave para entender cómo las empresas comunican su salud financiera a los inversores.",
+      "title": "Amazon y Qualcomm anuncian acuerdo de u$s60.000 millones en chips para IA",
+      "summary": "Amazon y Qualcomm cerraron un acuerdo de u$s60.000 millones para desarrollar chips especializados y conectividad óptica de alta velocidad para inteligencia artificial, con foco en eficiencia energética en centros de datos.",
+      "detail": "Este tipo de megaacuerdos entre gigantes tecnológicos muestra cómo las empresas están invirtiendo enormes sumas para controlar su propia infraestructura de hardware, en lugar de depender de proveedores externos. Para alguien que aprende finanzas, es un ejemplo claro de cómo la demanda de IA mueve capital a escala masional y redefine las cadenas de valor en el sector tecnológico. También ilustra el concepto de integración vertical: Amazon busca reducir costos y dependencia fabricando sus propios componentes.",
       "tags": [
         "inteligencia artificial",
-        "guidance",
-        "ganancias"
+        "semiconductores",
+        "tecnología"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://sg.finance.yahoo.com/news/sysco-reaffirming-fiscal-2027-guidance-100100143.html",
-      "published_at": "2026-09-09T09:59:23Z",
+      "source_name": "TechTarget",
+      "source_url": "https://www.techtarget.com/it-infrastructure/news/366650224/Amazons-60B-Qualcomm-deal-expands-AI-inference-hardware",
+      "published_at": "2026-09-09T19:51:34Z",
+      "tickers": [
+        "AMZN",
+        "QCOM"
+      ]
+    },
+    {
+      "id": "tesla-cybercab-goldman",
+      "type": "empresa",
+      "title": "Tesla lanzó el Cybercab y Goldman Sachs mantiene una visión neutral",
+      "summary": "Tesla lanzó su servicio de robotaxi Cybercab, pero Goldman Sachs mantuvo su calificación neutral con un precio objetivo de u$s360, destacando que la escalabilidad del software de conducción autónoma es el factor clave para el éxito del negocio.",
+      "detail": "El caso de Tesla sirve para entender cómo los analistas de Wall Street evalúan no solo el producto en sí, sino la capacidad de la empresa de escalarlo de forma rentable. Goldman Sachs pone el foco en el software, porque ahí está el margen real: un auto se vende una vez, pero una plataforma de software genera ingresos recurrentes. Además, el dato sobre la caída del interés de los fondos de cobertura (hedge funds) en Tesla muestra cómo el dinero institucional reacciona ante la incertidumbre sobre la ejecución de proyectos ambiciosos.",
+      "tags": [
+        "vehículos autónomos",
+        "análisis bursátil",
+        "tecnología"
+      ],
+      "source_name": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com/news/could-tesla-tsla-cybercab-unlock-200632774.html",
+      "published_at": "2026-09-09T20:07:17Z",
+      "tickers": [
+        "TSLA",
+        "GS"
+      ]
+    },
+    {
+      "id": "apple-iphone-lanzamiento",
+      "type": "empresa",
+      "title": "Apple presentó su nuevo iPhone en su evento anual de otoño",
+      "summary": "Apple realizó su evento anual en Cupertino y presentó el nuevo iPhone junto con otros productos. Además, se informó que un investigador de Anthropic renunció a la compañía y que Block solicitó crear un banco de fideicomiso nacional.",
+      "detail": "El lanzamiento anual del iPhone es uno de los eventos más seguidos por inversores de todo el mundo porque Apple es la empresa más valiosa del mercado y sus ventas de hardware impactan directamente en sus ingresos. Para quien aprende finanzas, es un buen ejemplo de cómo los eventos corporativos planeados (product launches) generan expectativas en el mercado incluso antes de que ocurran, moviendo el precio de la acción. La mención de Block buscando licencia bancaria también ilustra cómo las fintech buscan expandirse hacia el negocio financiero tradicional.",
+      "tags": [
+        "lanzamiento de producto",
+        "Apple",
+        "fintech"
+      ],
+      "source_name": "The Business Journals",
+      "source_url": "https://www.bizjournals.com/sanfrancisco/news/2026/09/09/sfbt-digest-wednesday-anthropic-iphone-apple-block.html",
+      "published_at": "2026-09-09T20:05:45Z",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "microsoft-nvidia-useful-yield",
+      "type": "mercado",
+      "title": "Microsoft desafía la economía de la IA de NVIDIA con su enfoque de \"rendimiento útil\"",
+      "summary": "Microsoft está promoviendo un enfoque de eficiencia en infraestructura de IA que pondera el rendimiento por dólar invertido y por consumo eléctrico, lo que podría presionar el modelo de negocios de NVIDIA al reducir la dependencia de sus chips.",
+      "detail": "Este artículo es clave para entender la dinámica competitiva en la industria de semiconductores para IA. Cuando un cliente tan grande como Microsoft empieza a diseñar su propio hardware, la demanda de chips de terceros como NVIDIA puede moderarse, afectando sus ingresos futuros. Para un inversor que aprende, esto ilustra el riesgo de concentración de ingresos: NVIDIA depende en parte de que sus principales clientes sigan eligiendo sus productos frente a alternativas propias. La eficiencia energética también se vuelve un factor financiero porque el costo de la electricidad impacta directamente en la rentabilidad de los centros de datos.",
+      "tags": [
+        "inteligencia artificial",
+        "semiconductores",
+        "competencia"
+      ],
+      "source_name": "Foreign Policy Journal",
+      "source_url": "https://www.foreignpolicyjournal.com/2026/09/09/microsoft-nasdaq-msft-useful-yield-push-puts-nvidias-nasdaq-nvda-ai-economics-to-the-test/",
+      "published_at": "2026-09-09T19:22:38Z",
+      "tickers": [
+        "MSFT",
+        "NVDA"
+      ]
+    },
+    {
+      "id": "solana-schwab-etf-billon",
+      "type": "mercado",
+      "title": "Solana superó los u$s1.000 millones en su primer ETF y llegó a los clientes de Charles Schwab",
+      "summary": "En agosto de 2026, Charles Schwab habilitó la compra de Solana (SOL) para sus casi 40 millones de cuentas, y el ETF de Solana de Bitwise (BSOL) se convirtió en el primero de esa criptomoneda en superar los u$s1.000 millones en activos bajo administración.",
+      "detail": "La llegada de criptoactivos a plataformas masivas como Schwab y la aprobación de ETFs son hitos importantes porque facilitan el acceso de inversores minoristas e institucionales sin necesidad de manejar wallets o exchanges cripto. Un ETF permite comprar exposición a Solana como si fuera una acción, lo que reduce la barrera de entrada. Para alguien que aprende finanzas, esto muestra cómo la adopción institucional puede impulsar la demanda y la legitimidad de activos digitales que antes eran de nicho.",
+      "tags": [
+        "criptomonedas",
+        "ETF",
+        "adopción institucional"
+      ],
+      "source_name": "genfinity.io",
+      "source_url": "https://genfinity.io/2026/09/09/charles-schwab-bitwises-first-1b-etf-and-sgp-0002-solanas-wall-street-august-2026/",
+      "published_at": "2026-09-09T19:13:37Z",
+      "tickers": [
+        "SCHW"
+      ]
+    },
+    {
+      "id": "sysco-ia-ahorro-costos",
+      "type": "empresa",
+      "title": "Sysco planea ahorrar u$s500 millones en tres años usando inteligencia artificial",
+      "summary": "Sysco, uno de los mayores distribuidores de alimentos del mundo, anunció un programa de eficiencia impulsado por IA que apunta a u$s500 millones en ahorros durante los próximos tres años fiscales, incluyendo u$s100 millones en el ejercicio 2027.",
+      "detail": "Este caso es útil para entender cómo la IA se está convirtiendo en una herramienta de gestión de costos en empresas de sectores tradicionales, no solo en tecnología. Sysco va a usar IA para optimizar rutas de distribución, mejorar la gestión de inventario y simplificar operaciones administrativas. Para un inversor, los programas de reducción de costos son importantes porque impactan directamente en los márgenes de ganancia y, por ende, en el valor de la acción, especialmente en negocios con márgenes ajustados como la distribución de alimentos.",
+      "tags": [
+        "inteligencia artificial",
+        "eficiencia operativa",
+        "costos"
+      ],
+      "source_name": "CIO Dive",
+      "source_url": "https://www.ciodive.com/news/sysco-targets-500m-ai-driven-cost-savings/829977/",
+      "published_at": "2026-09-09T20:31:30Z",
       "tickers": [
         "SYY"
       ]
     },
     {
-      "id": "broadcom-semiconductores-analisis-2026",
+      "id": "caterpillar-rendimiento-anual",
       "type": "mercado",
-      "title": "Broadcom: potencial subvaluación en el sector de semiconductores",
-      "summary": "Un análisis compara a Broadcom (AVGO) contra sus competidores en la industria de semiconductores, encontrando que su bajo ratio P/E sugiere una posible subvaluación, aunque sus ratios P/B y P/S son altos. La empresa muestra alta rentabilidad y menor deuda relativa, pero crecimiento de ingresos más lento que el promedio del sector.",
-      "detail": "Los ratios de valuación como el P/E (precio sobre ganancias), P/B (precio sobre valor libro) y P/S (precio sobre ventas) son herramientas fundamentales para comparar empresas dentro de un mismo sector. Un P/E bajo puede indicar que el mercado no está pagando una prima alta por cada dólar de ganancia, lo que algunos interpretan como una oportunidad. Entender cómo comparar empresas con estas métricas es una habilidad central en el análisis fundamental de acciones.",
+      "title": "Caterpillar superó ampliamente al sector industrial con un alza de 43,6% en el año",
+      "summary": "Las acciones de Caterpillar (CAT) acumulan una suba de 43,6% en lo que va del año, muy por encima del promedio del sector industrial que rindió 15,5%, impulsadas por revisiones al alza en las estimaciones de ganancias anuales del 11,2%.",
+      "detail": "Comparar el rendimiento de una acción individual con el de su sector es una práctica fundamental en finanzas, conocida como análisis relativo o \"outperformance\". Cuando una empresa supera consistentemente a sus pares, los analistas buscan entender si se debe a factores estructurales del negocio o a condiciones temporales del mercado. En el caso de Caterpillar, el aumento en las estimaciones de ganancias sugiere que hay fundamentos concretos detrás de la suba, no solo especulación.",
+      "tags": [
+        "acciones",
+        "sector industrial",
+        "rendimiento"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-outpaced-other-industrial-195427718.html",
+      "published_at": "2026-09-09T19:55:08Z",
+      "tickers": [
+        "CAT"
+      ]
+    },
+    {
+      "id": "motorola-recompra-acciones",
+      "type": "empresa",
+      "title": "Motorola Solutions amplió su programa de recompra de acciones en u$s2.000 millones",
+      "summary": "Motorola Solutions anunció que su directorio aprobó un aumento de u$s2.000 millones en su programa de recompra de acciones, llevando la autorización total a u$s20.000 millones desde que se inició el programa en julio de 2011.",
+      "detail": "La recompra de acciones (buyback) es una forma que tienen las empresas de devolver valor a sus accionistas: al comprar sus propias acciones en el mercado, reducen la cantidad en circulación, lo que aumenta la ganancia por acción (EPS) de las restantes. Es importante distinguirla del dividendo: mientras el dividendo es un pago directo en efectivo, el buyback mejora indirectamente el valor de la acción. Un programa de u$s20.000 millones acumulados indica que Motorola genera mucho flujo de caja libre y tiene confianza en su negocio a largo plazo.",
+      "tags": [
+        "recompra de acciones",
+        "flujo de caja",
+        "valor accionario"
+      ],
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/company-news/motorola-solutions-boosts-buyback-program-by-2-billion-93CH-4894475",
+      "published_at": "2026-09-09T21:06:00Z",
+      "tickers": [
+        "MSI"
+      ]
+    },
+    {
+      "id": "booking-holdings-goldman-sachs",
+      "type": "discurso",
+      "title": "Booking Holdings presentó en Goldman Sachs y destacó el rol de la IA en su crecimiento",
+      "summary": "Booking Holdings (BKNG) expuso en la conferencia de Goldman Sachs y subrayó su transformación hacia una plataforma de viajes impulsada por IA, con programas de fidelidad y tráfico directo, mostrando resiliencia ante presiones geopolíticas en el segundo trimestre de 2026.",
+      "detail": "Las presentaciones de empresas en conferencias organizadas por grandes bancos de inversión como Goldman Sachs son eventos seguidos de cerca por inversores institucionales, ya que los directivos suelen dar señales sobre la estrategia y perspectivas del negocio. En este caso, Booking destacó que usa IA para mejorar márgenes operativos y que mantiene una política de capital disciplinada: invierte en su propio negocio, recompra acciones y hace adquisiciones selectivas. Estos son los tres pilares clásicos de asignación de capital que cualquier estudiante de finanzas debería conocer.",
+      "tags": [
+        "turismo",
+        "inteligencia artificial",
+        "conferencia inversores"
+      ],
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/transcripts/booking-holdings-at-goldman-sachs-conference-ai-loyalty-and-growth-93CH-4894321",
+      "published_at": "2026-09-09T19:06:29Z",
+      "tickers": [
+        "BKNG"
+      ]
+    },
+    {
+      "id": "applied-materials-ceo-ia",
+      "type": "discurso",
+      "title": "El CEO de Applied Materials señaló que la demanda de IA es el principal motor de su crecimiento",
+      "summary": "Gary Dickerson, CEO de Applied Materials, afirmó que el crecimiento de la compañía está siendo impulsado principalmente por la creciente demanda de capacidad de cómputo para inteligencia artificial, reforzando el vínculo entre el auge de la IA y la industria de semiconductores.",
+      "detail": "Applied Materials fabrica el equipamiento que se usa para producir chips, por lo que su desempeño funciona como un termómetro del estado de toda la industria semiconductora. Cuando su CEO atribuye el crecimiento a la demanda de IA, está confirmando que el ciclo inversor en infraestructura de chips sigue fuerte. Para alguien que aprende finanzas, esto ilustra cómo analizar empresas que están \"aguas arriba\" en una cadena de valor: no solo las que usan IA, sino las que fabrican las herramientas para producir los chips que la hacen posible.",
       "tags": [
         "semiconductores",
-        "valuación",
-        "análisis fundamental"
+        "inteligencia artificial",
+        "cadena de valor"
       ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/news/26/09/61679061/analyzing-broadcom-comparison-competitors-semiconductors-amp-semiconductor-equipment-industry",
-      "published_at": "2026-09-09T09:58:49Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/video/2026/09/09/applied-materials-ceo-growth-is-driven-by-ai-compute-demand.html",
+      "published_at": "2026-09-09T19:43:35Z",
       "tickers": [
-        "AVGO",
-        "NVDA",
-        "MU",
-        "AMD",
-        "TXN"
-      ]
-    },
-    {
-      "id": "boeing-resultados-2026",
-      "type": "empresa",
-      "title": "Boeing reportó ingresos récord pero siguió perdiendo plata",
-      "summary": "Boeing registró un aumento de ingresos del 8% interanual hasta u$s 24.560 millones, pero su pérdida ajustada de u$s 0,76 por acción quedó por debajo de las expectativas de los analistas. A pesar de eso, los analistas mantienen una calificación de 'Compra Moderada' con un precio objetivo promedio de u$s 272,58, muy por encima del precio actual de u$s 210,80.",
-      "detail": "Este caso ilustra una situación común en finanzas: una empresa puede crecer en ventas y aun así perder dinero. La diferencia entre ingresos (revenue) y ganancias (earnings) es fundamental. Además, cuando el precio objetivo de los analistas está muy por encima del precio de mercado, significa que el consenso cree que la acción tiene potencial de revalorización, aunque siempre hay riesgo de que esa brecha no se cierre.",
-      "tags": [
-        "Boeing",
-        "ganancias",
-        "precio objetivo"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-newedge-advisors-llc-acquires-9282-shares-of-the-boeing-company-ba-2026-09-09/",
-      "published_at": "2026-09-09T09:59:15Z",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "merck-patent-keytruda-2026",
-      "type": "empresa",
-      "title": "Merck crece, pero se acerca el vencimiento de la patente de su medicamento estrella",
-      "summary": "Inversores institucionales aumentaron su participación en Merck, que hoy cuenta con una calificación positiva de los analistas y sólido crecimiento de ingresos. Sin embargo, la empresa enfrenta un riesgo clave: el vencimiento de la patente de Keytruda en 2028, su producto más importante.",
-      "detail": "El vencimiento de una patente es uno de los eventos más relevantes para una empresa farmacéutica, porque permite que competidores lancen versiones genéricas del medicamento a menor precio, lo que puede destruir una parte importante de los ingresos. Este tipo de riesgo —llamado 'riesgo de patente'— es esencial para analizar empresas del sector salud. Aprender a identificarlo ayuda a entender por qué una empresa con buenos resultados hoy puede tener perspectivas más complejas en el futuro.",
-      "tags": [
-        "farmacéutica",
-        "riesgo de patente",
-        "Merck"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-newedge-advisors-llc-purchases-41950-shares-of-merck-co-inc-mrk-2026-09-09/",
-      "published_at": "2026-09-09T10:08:34Z",
-      "tickers": [
-        "MRK"
-      ]
-    },
-    {
-      "id": "simon-property-dividendo-2026",
-      "type": "empresa",
-      "title": "Simon Property Group anunció un dividendo de u$s 2,25 por acción, pero su sustentabilidad genera dudas",
-      "summary": "Simon Property Group (SPG) declaró un dividendo de u$s 2,25 por acción con fecha ex-dividendo el 9 de septiembre de 2026. Si bien la empresa tiene un historial sólido de dividendos y un rendimiento atractivo, su payout ratio de 1,14 genera interrogantes sobre si puede mantener esos pagos en el largo plazo.",
-      "detail": "El payout ratio mide qué porcentaje de las ganancias se destina al pago de dividendos. Cuando supera 1 (o 100%), significa que la empresa está pagando más dividendos de lo que gana, lo cual no es sostenible indefinidamente. Este concepto es clave para evaluar la calidad de un dividendo: un yield alto no siempre es una buena señal si la empresa no genera suficientes ganancias para respaldarlo.",
-      "tags": [
-        "dividendos",
-        "payout ratio",
-        "REITs"
-      ],
-      "source_name": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com/news/simon-property-group-incs-dividend-110102962.html",
-      "published_at": "2026-09-09T11:01:19Z",
-      "tickers": [
-        "SPG"
-      ]
-    },
-    {
-      "id": "home-depot-precio-objetivo-2026",
-      "type": "mercado",
-      "title": "Bernstein bajó su precio objetivo para Home Depot a u$s 344",
-      "summary": "La firma de análisis Bernstein redujo su precio objetivo para Home Depot de u$s 354 a u$s 344, manteniendo una calificación de 'Market Perform' (rendimiento en línea con el mercado). La revisión refleja un cambio en las perspectivas del sector minorista de mejoras del hogar.",
-      "detail": "Cuando una firma de análisis baja su precio objetivo sin cambiar la calificación, está diciendo que sigue viendo la acción como razonablemente valuada, pero con menos potencial alcista que antes. Las calificaciones de analistas (como 'Buy', 'Hold' o 'Market Perform') y sus precios objetivo son señales que el mercado suele seguir de cerca, aunque no garantizan nada. Entender qué significa cada calificación es básico para leer noticias financieras.",
-      "tags": [
-        "precio objetivo",
-        "analistas",
-        "retail"
-      ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/bernstein-adjusts-price-target-on-home-depot-to-344-from-354-keeps-market-perform-rating-ce785bd9dd8bf120",
-      "published_at": "2026-09-09T10:20:03Z",
-      "tickers": [
-        "HD"
-      ]
-    },
-    {
-      "id": "rtx-polonia-defensa-2026",
-      "type": "empresa",
-      "title": "RTX tiene en Polonia su mayor base de inversión fuera de EE.UU.",
-      "summary": "RTX (empresa de defensa y aeroespacial) tiene más de 9.500 empleados en Polonia y trabaja con 2.200 proveedores locales, convirtiéndola en su mayor base de operaciones fuera de Estados Unidos. La presencia incluye componentes para el sistema de misiles Patriot y motores para el F-35.",
-      "detail": "La expansión de empresas de defensa como RTX refleja el aumento global del gasto militar, especialmente en Europa del Este tras el conflicto en Ucrania. Para un inversor, el sector defensa suele comportarse de forma diferente a otros sectores en momentos de tensión geopolítica. Además, la localización de inversiones productivas en países específicos puede influir en los ingresos y contratos que una empresa logra con esos gobiernos.",
-      "tags": [
-        "defensa",
-        "geopolítica",
-        "inversión internacional"
-      ],
-      "source_name": "Defence Industry Europe",
-      "source_url": "https://defence-industry.eu/rtx-says-9500-strong-poland-workforce-anchors-its-largest-investment-base-outside-u-s-and-key-patriot-f-35-engine-work/",
-      "published_at": "2026-09-09T10:06:07Z",
-      "tickers": [
-        "RTX"
-      ]
-    },
-    {
-      "id": "jpmorgan-steel-dynamics-2026",
-      "type": "mercado",
-      "title": "JPMorgan subió su precio objetivo para Steel Dynamics a u$s 273",
-      "summary": "JPMorgan elevó su precio objetivo para Steel Dynamics (STLD) de u$s 260 a u$s 273, aunque mantuvo su calificación neutral. Otros bancos como Wells Fargo y UBS también actualizaron recientemente sus estimaciones para la empresa siderúrgica.",
-      "detail": "Que múltiples bancos de inversión revisen sus precios objetivo para una misma empresa en poco tiempo suele indicar que hay nueva información relevante que el mercado está revaluando, como cambios en precios de materias primas, resultados trimestrales o perspectivas del sector. El acero es un commodity sensible al ciclo económico global, lo que hace que seguir estas revisiones sea útil para entender el estado de la economía real.",
-      "tags": [
-        "acero",
-        "precio objetivo",
-        "JPMorgan"
-      ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/jpmorgan-adjusts-price-target-on-steel-dynamics-to-273-from-260-keeps-neutral-rating-ce785bd9dd8df224",
-      "published_at": "2026-09-09T09:45:03Z",
-      "tickers": [
-        "STLD",
-        "JPM"
+        "AMAT"
       ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.530",
-      "valor_num": 1530.0,
-      "delta_pct": 0.0
+      "valor": "$1.535",
+      "valor_num": 1535.0,
+      "delta_pct": 0.33
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.545",
-      "valor_num": 1545.0,
-      "delta_pct": 0.0
+      "valor": "$1.540",
+      "valor_num": 1540.0,
+      "delta_pct": -0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.530",
-      "valor_num": 1530.4,
-      "delta_pct": -0.22
+      "valor": "$1.533",
+      "valor_num": 1533.1,
+      "delta_pct": -0.04
     },
     {
       "label": "CCL",
-      "valor": "$1.593",
-      "valor_num": 1592.9,
-      "delta_pct": 0.61
+      "valor": "$1.596",
+      "valor_num": 1596.2,
+      "delta_pct": 0.82
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 79.305",
-      "valor_num": 79305.0,
-      "delta_pct": 1.17
+      "valor": "US$ 78.087",
+      "valor_num": 78087.0,
+      "delta_pct": -0.53
     },
     {
       "label": "S&P 500",
-      "valor": "7.674",
-      "valor_num": 7673.52,
-      "delta_pct": -0.16
+      "valor": "7.636",
+      "valor_num": 7636.36,
+      "delta_pct": 0.06
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.457",
-      "valor_num": 4456.7,
-      "delta_pct": -0.78
+      "valor": "US$ 4.447",
+      "valor_num": 4447.2,
+      "delta_pct": -0.99
     }
   ]
 }
