@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://obolfinance.app.n8n.cloud https://fhdkferjbwecrkolluab.supabase.co https://dolarapi.com https://api.argentinadatos.com https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; object-src 'none'; frame-ancestors 'self'; base-uri 'self'; form-action 'self';">
+<script>if (top !== self) { top.location = self.location; }</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>La brecha cambiaria casi desapareció: qué mecanismo hay detrás — Obol Blog</title>
+<meta name="description" content="Por qué el dólar blue, el MEP y el oficial cotizan casi iguales en Argentina. El mecanismo de la brecha cambiaria, explicado sin tecnicismos.">
+<link rel="canonical" href="https://obolfinance.com.ar/blog/articulos/brecha-cambiaria-cerca-de-cero-que-significa.html">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="theme-color" content="#12212E">
+
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Obol Finance">
+<meta property="og:locale" content="es_AR">
+<meta property="og:url" content="https://obolfinance.com.ar/blog/articulos/brecha-cambiaria-cerca-de-cero-que-significa.html">
+<meta property="og:title" content="La brecha cambiaria casi desapareció: qué mecanismo hay detrás">
+<meta property="og:description" content="Blue a 1540, MEP a 1533, oficial a 1535. Cuando la brecha se achica no es casualidad: hay un mecanismo detrás. Te lo explicamos paso a paso.">
+<meta property="og:image" content="https://obolfinance.com.ar/assets/og/og-default.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="article:published_time" content="2026-09-09T09:00:00-03:00">
+<meta property="article:modified_time" content="2026-09-09T09:00:00-03:00">
+<meta property="article:section" content="Economía">
+<meta property="article:author" content="Analista de Datos">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="La brecha cambiaria casi desapareció: qué mecanismo hay detrás">
+<meta name="twitter:description" content="Blue a 1540, MEP a 1533, oficial a 1535. Cuando la brecha se achica no es casualidad: hay un mecanismo detrás. Te lo explicamos paso a paso.">
+<meta name="twitter:image" content="https://obolfinance.com.ar/assets/og/og-default.jpg">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "La brecha cambiaria casi desapareció: qué mecanismo hay detrás",
+      "description": "Blue a 1540, MEP a 1533, oficial a 1535. Cuando la brecha se achica no es casualidad: hay un mecanismo detrás. Te lo explicamos paso a paso.",
+      "url": "https://obolfinance.com.ar/blog/articulos/brecha-cambiaria-cerca-de-cero-que-significa.html",
+      "mainEntityOfPage": "https://obolfinance.com.ar/blog/articulos/brecha-cambiaria-cerca-de-cero-que-significa.html",
+      "image": "https://obolfinance.com.ar/assets/og/og-default.jpg",
+      "datePublished": "2026-09-09T09:00:00-03:00",
+      "dateModified": "2026-09-09T09:00:00-03:00",
+      "articleSection": "Economía",
+      "wordCount": 823,
+      "timeRequired": "PT6M",
+      "inLanguage": "es-AR",
+      "author": { "@type": "Person", "name": "Analista de Datos" },
+      "publisher": { "@id": "https://obolfinance.com.ar/#organizacion" },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Obol", "item": "https://obolfinance.com.ar/index.html" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://obolfinance.com.ar/blog/index.html" },
+        { "@type": "ListItem", "position": 3, "name": "La brecha casi en cero" }
+      ]
+    }
+  ]
+}
+</script>
+<link rel="icon" href="../assets/icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@600;700;800;900&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/article.css">
+</head>
+<body>
+
+<div style="font-family:'Nunito',system-ui,sans-serif;color:#1b2436;position:relative;--hero:#0f2837;--acc:#3fb6c4;--accDeep:#0f6e7d;--tint:#effbfa;">
+
+  <div style="position:fixed;top:0;left:0;right:0;height:5px;z-index:60;background:rgba(15,40,55,.08);">
+    <div id="progress" style="height:100%;width:0%;background:linear-gradient(90deg,var(--accDeep),var(--acc),#ffb24a);transition:width .08s linear;"></div>
+  </div>
+
+  <div style="position:sticky;top:0;z-index:40;background:#0f1730;padding:16px 34px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 4px 18px rgba(6,10,26,.35);">
+    <a href="../index.html" style="display:flex;align-items:center;color:#fff;">
+      <img src="../../assets/home/obol_wordmark_blog_small.png" alt="Obol Blog" style="height:27px;width:auto;">
+    </a>
+    <div style="display:flex;align-items:center;gap:28px;">
+      <a href="../../index.html" class="nav-text-link" style="color:rgba(255,255,255,.85);font-weight:700;font-size:14px;">Inicio</a>
+      <a href="../../aprende.html" class="nav-text-link" style="color:rgba(255,255,255,.85);font-weight:700;font-size:14px;">Qué enseña la app</a>
+      <a href="../index.html" class="nav-text-link" style="color:rgba(255,255,255,.85);font-weight:700;font-size:14px;">Blog</a>
+      <a href="../../index.html#anotarse" style="display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:14px;color:#0d1730;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:9px 20px;border-radius:999px;"><span class="nav-cta-full">Enterate cuando salga</span><span class="nav-cta-short">Enterate</span></a>
+    </div>
+  </div>
+
+  <!-- HERO -->
+  <div style="position:relative;overflow:hidden;background:var(--hero);padding:54px 34px 128px;">
+    <div style="position:absolute;inset:0;background-image:url('../assets/bg_inflation_hero.jpg');background-size:cover;background-position:center 42%;opacity:.35;"></div>
+    <div style="position:absolute;inset:0;background:linear-gradient(100deg,var(--hero) 0%,var(--hero) 40%,rgba(0,0,0,0) 100%);"></div>
+    <div style="position:absolute;right:-30px;top:-30px;width:320px;height:320px;border-radius:999px;background:radial-gradient(circle,rgba(255,255,255,.14),transparent 70%);"></div>
+    <div style="position:relative;max-width:1120px;margin:0 auto;display:flex;align-items:center;gap:36px;">
+      <div style="flex:1;min-width:0;display:flex;flex-direction:column;gap:20px;">
+        <div class="obol-rise" style="display:flex;align-items:center;gap:10px;animation-delay:.05s;">
+          <span style="display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:12px;letter-spacing:.14em;color:var(--hero);background:var(--acc);padding:7px 15px;border-radius:999px;text-transform:uppercase;">Economía</span>
+          <span style="font-weight:800;font-size:13px;color:rgba(255,255,255,.62);">9 sep 2026 · 6 min de lectura</span>
+        </div>
+        <h1 class="obol-rise" style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:clamp(32px,4.4vw,54px);line-height:1.05;color:#fff;letter-spacing:-.02em;animation-delay:.13s;">La brecha cambiaria casi desapareció: qué mecanismo hay detrás</h1>
+        <p class="obol-rise" style="margin:0;max-width:560px;font-weight:600;font-size:19px;line-height:1.55;color:rgba(255,255,255,.85);animation-delay:.22s;">El blue casi igual al oficial y el MEP incluso más barato. No es magia: es oferta, demanda y reglas.</p>
+        <div class="obol-rise" style="display:flex;align-items:center;gap:13px;margin-top:4px;animation-delay:.3s;">
+          <div style="width:52px;height:52px;border-radius:999px;background:rgba(255,255,255,.1);border:2px solid var(--acc);overflow:hidden;display:grid;place-items:center;flex:none;">
+            <img src="../assets/char-analista.png" alt="" style="width:48px;height:48px;object-fit:contain;transform:translateY(3px);">
+          </div>
+          <div style="display:flex;flex-direction:column;">
+            <span style="font-family:'Fredoka',sans-serif;font-weight:600;font-size:16px;color:#fff;">El Analista de Datos</span>
+            <span style="font-weight:700;font-size:13px;color:rgba(255,255,255,.55);">Escribe en Obol</span>
+          </div>
+        </div>
+      </div>
+      <div class="obol-hero-pig" style="position:relative;flex:none;width:360px;display:grid;place-items:center;">
+        <div style="position:absolute;width:220px;height:220px;border-radius:999px;background:radial-gradient(circle,rgba(255,255,255,.16),transparent 68%);"></div>
+        <img src="../assets/char-analista-card.png" alt="El Analista de Datos" style="position:relative;width:348px;height:auto;filter:drop-shadow(0 22px 30px rgba(4,14,20,.55));animation:obolRise .8s cubic-bezier(.22,.61,.36,1) .35s both;">
+      </div>
+    </div>
+    <div style="position:absolute;left:0;right:0;bottom:-1px;height:66px;background:#eef1f7;clip-path:polygon(0 55%,100% 0,100% 100%,0 100%);"></div>
+  </div>
+
+  <!-- BODY -->
+  <div style="display:flex;justify-content:center;padding:0 24px;">
+    <div style="width:100%;max-width:820px;margin-top:-60px;position:relative;z-index:5;">
+      <article class="obol-art" style="background:#fff;border-radius:28px;padding:58px clamp(28px,6vw,74px) 54px;box-shadow:0 30px 70px -30px rgba(15,40,55,.4);">
+
+        <div style="display:flex;align-items:center;gap:10px;padding-bottom:24px;margin-bottom:8px;border-bottom:2px dashed #e2e7f0;">
+          <span style="font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:13px;color:#8a92a8;letter-spacing:.04em;">COMPARTIR</span>
+          <div style="display:flex;gap:9px;">
+            <a href="#" class="obol-btn" aria-label="Compartir en X" style="width:38px;height:38px;border-radius:11px;background:#f1f4fa;display:grid;place-items:center;color:#0f2837;font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:16px;">𝕏</a>
+            <a href="#" class="obol-btn" aria-label="Compartir en WhatsApp" style="width:38px;height:38px;border-radius:11px;background:#f1f4fa;display:grid;place-items:center;color:#0f2837;font-weight:800;font-size:14px;">Wa</a>
+            <a href="#" class="obol-btn" aria-label="Copiar enlace" style="width:38px;height:38px;border-radius:11px;background:#f1f4fa;display:grid;place-items:center;font-size:15px;">🔗</a>
+          </div>
+        </div>
+
+        <p class="lead"><span style="float:left;font-family:'Fredoka',sans-serif;font-weight:700;font-size:74px;line-height:.72;padding:8px 12px 0 0;color:var(--accDeep);">D</span>urante años en Argentina hubo una pregunta de cabecera: &quot;¿a cuánto está el blue?&quot;. La respuesta importaba porque el blue vivía muy lejos del oficial. Hoy la foto es otra: el oficial cierra a 1535 la venta, el blue a 1540 y el MEP a 1533,1. Es decir, casi el mismo precio. Y eso, más que un dato, es un mecanismo funcionando.</p>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">01</span>Qué es la brecha, en dos oraciones</h2>
+        <p>La brecha es la diferencia porcentual entre un dólar y el dólar oficial. Si el oficial está a 1535 y otro dólar está a 1996, la brecha es de 30%: eso es exactamente lo que pasa hoy con el dólar tarjeta.</p>
+        <p>La brecha no es un capricho del mercado. Aparece cuando el precio oficial no puede moverse libremente y hay más gente queriendo comprar dólares que dólares disponibles a ese precio. Entonces la demanda que no entra por la ventanilla oficial se va a otra ventanilla, y ahí el precio lo fija quien quiere vender.</p>
+        <p>Pensalo como las entradas de un recital. Si el precio oficial es 100 y hay diez veces más gente que entradas, va a existir un mercado paralelo. Y la reventa no va a costar 100.</p>
+        <div class="obol-reveal" style="display:flex;align-items:center;gap:24px;flex-wrap:wrap;margin:36px 0;padding:30px 34px;border-radius:22px;background:linear-gradient(120deg,var(--hero),var(--accDeep));box-shadow:0 22px 44px -22px rgba(15,40,55,.55);">
+          <span style="font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:clamp(50px,8vw,80px);line-height:.9;color:var(--acc);letter-spacing:-.03em;">30%</span>
+          <span style="font-weight:700;font-size:16px;line-height:1.5;color:rgba(255,255,255,.9);max-width:340px;">La brecha del dólar tarjeta contra el oficial, la única que sigue siendo grande. No es mercado: es impuesto.</span>
+        </div>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">02</span>Por qué se abre: el precio tapado</h2>
+        <p>El mecanismo tiene tres piezas. Primero, un precio oficial que se mueve menos de lo que se mueven los precios de todo lo demás. Segundo, restricciones para comprar a ese precio: cupos, requisitos, impuestos, autorizaciones. Tercero, gente con pesos que quiere dolarizarse igual.</p>
+        <p>Con esas tres cosas juntas, la brecha es inevitable. Y se retroalimenta: cuando el paralelo se dispara, el que exporta prefiere demorar la venta de sus dólares (le van a pagar al oficial, que está barato) y el que importa quiere adelantar sus compras (le venden al oficial, que está barato). Resultado: menos dólares entrando, más saliendo, más presión.</p>
+        <p>Ese es el círculo que en la Argentina se vio muchas veces. La brecha no era el problema en sí; era el síntoma de que el precio oficial estaba tapando algo.</p>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">03</span>Por qué se cierra</h2>
+        <p>La brecha se achica cuando alguna de las tres piezas se cae. Si el oficial se puede mover más libremente, ya no hay un precio tapado. Si se levantan las restricciones para comprar al oficial, la demanda vuelve a la ventanilla principal. Y si baja la urgencia de dolarizarse, se calma la presión.</p>
+        <p>Hoy la foto muestra las tres cosas alineadas al menos parcialmente. El blue apenas 0,3% arriba del oficial y el MEP incluso 0,1% abajo. Cuando un dólar legal y bancarizado cotiza más barato que el informal, la lógica se dio vuelta: <span class="obol-mark">el blue dejó de ser refugio y pasó a ser el más caro e incómodo de los dos</span>.</p>
+        <p>Ojo con la palabra &quot;cerrada&quot;. No está cerrada del todo. El contado con liquidación está 4% arriba del oficial, y ese 4% no es un detalle: el CCL es el dólar de quien quiere sacar la plata del país. Que esté más caro dice algo sobre cuánto se paga hoy por salir.</p>
+        <div class="obol-reveal" style="margin:28px 0;padding:24px 26px;border-radius:20px;background:#f7f9fc;border:1px solid #e6ebf4;">
+          <span style="display:block;font-family:'Fredoka',sans-serif;font-weight:700;font-size:15px;color:var(--accDeep);margin-bottom:12px;">Las tres piezas de la brecha</span>
+          <div style="display:flex;flex-direction:column;gap:12px;">
+            <div style="display:flex;gap:12px;align-items:flex-start;">
+              <span style="width:8px;height:8px;border-radius:999px;background:var(--acc);margin-top:9px;flex:none;"></span>
+              <span style="font-weight:700;font-size:16px;line-height:1.55;color:#33404f;">Un precio oficial que se mueve menos que el resto de los precios</span>
+            </div>
+            <div style="display:flex;gap:12px;align-items:flex-start;">
+              <span style="width:8px;height:8px;border-radius:999px;background:var(--acc);margin-top:9px;flex:none;"></span>
+              <span style="font-weight:700;font-size:16px;line-height:1.55;color:#33404f;">Restricciones o impuestos para comprar a ese precio</span>
+            </div>
+            <div style="display:flex;gap:12px;align-items:flex-start;">
+              <span style="width:8px;height:8px;border-radius:999px;background:var(--acc);margin-top:9px;flex:none;"></span>
+              <span style="font-weight:700;font-size:16px;line-height:1.55;color:#33404f;">Gente con pesos que quiere dolarizarse igual</span>
+            </div>
+          </div>
+        </div>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">04</span>El caso del dólar tarjeta: brecha por decreto</h2>
+        <p>El dólar tarjeta está a 1995,5 la venta. Un 30% arriba del oficial. Pero esa brecha no la fija ningún mercado: la fija la carga impositiva que se le suma al oficial cuando pagás algo del exterior.</p>
+        <p>Es una distinción que vale la pena tener clara. Hay brechas de mercado, que aparecen cuando la oferta y la demanda no se cruzan al precio oficial. Y hay brechas administrativas, que existen porque alguien las escribió en un decreto. La primera se cierra sola cuando el precio se libera. La segunda solo se cierra si cambia la norma.</p>
+        <p>En la práctica esto tiene una consecuencia bien concreta: si vas a pagar una suscripción o un pasaje en dólares, el precio relevante para vos no es el que sale en los diarios.</p>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">05</span>Qué mirar cuando la brecha ya no es la noticia</h2>
+        <p>Con la brecha comprimida, el indicador que solía ordenar todo pierde protagonismo. Y lo que queda al desnudo es otra cosa: cuánto rinden los pesos comparado con cuánto suben los precios.</p>
+        <p>Los datos de inflación mensual del último semestre vienen entre 1,9% y 3,4%, con julio de 2026 en 2,1%. La interanual a julio es 33,8%. Y los plazos fijos con mejor TNA de la lista están en el orden del 23% al 24% anual. Hacé la cuenta gruesa: una TNA de 24% contra una inflación interanual de 33,8% no es empate.</p>
+        <p>Eso no es un consejo para hacer nada en particular. Es simplemente el nuevo tablero. Cuando el dólar deja de ser el termómetro único, el que aparece es la tasa real: lo que te queda después de descontar la inflación. Y ese número puede ser negativo aunque el nominal se vea grande.</p>
+        <div class="obol-reveal" style="position:relative;margin:40px 0;padding:34px 32px 30px 40px;border-radius:22px;background:var(--tint);border-left:6px solid var(--acc);box-shadow:0 16px 34px -24px rgba(15,40,55,.4);">
+          <span style="position:absolute;top:-16px;left:22px;font-family:'Fredoka',sans-serif;font-weight:700;font-size:76px;line-height:1;color:var(--acc);opacity:.6;">"</span>
+          <p style="margin:0;font-family:'Fredoka',sans-serif;font-weight:600;font-size:22px;line-height:1.4;color:#243244;">La brecha nunca fue el problema. Era el aviso de que había un precio tapando algo. Cuando se destapa, hay que aprender a mirar otro indicador.</p>
+          <span style="display:inline-block;margin-top:14px;font-weight:800;font-size:14px;color:var(--accDeep);">— El Analista de Datos</span>
+        </div>
+
+        <p>Los números de esta nota son la foto del 9 de septiembre de 2026 y pueden cambiar. El mecanismo, no: siempre que un precio esté fijado por debajo de lo que la gente está dispuesta a pagar, va a aparecer un segundo precio. Entender eso te sirve hoy, y te va a servir la próxima vez que la brecha se abra.</p>
+
+        <p style="margin-top:26px;font-size:13.5px;line-height:1.6;color:#8a92a8;">Esta nota tiene fines educativos. No es asesoramiento financiero, de inversión, legal ni fiscal.</p>
+
+        <div class="obol-reveal" style="position:relative;overflow:hidden;margin:44px 0 4px;border-radius:24px;background:linear-gradient(120deg,var(--hero),var(--accDeep));padding:36px 40px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;">
+          <div style="position:absolute;right:-30px;bottom:-30px;width:190px;height:190px;border-radius:999px;background:radial-gradient(circle,rgba(255,255,255,.16),transparent 70%);"></div>
+          <div style="position:relative;max-width:440px;display:flex;flex-direction:column;gap:8px;">
+            <span style="font-family:'Fredoka',sans-serif;font-weight:600;font-size:12px;letter-spacing:.12em;color:var(--acc);text-transform:uppercase;">Seguí aprendiendo</span>
+            <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:24px;color:#fff;line-height:1.2;">¿Querés practicar esto paso a paso?</h3>
+            <p style="margin:0;font-weight:600;font-size:15px;color:rgba(255,255,255,.85);line-height:1.5;">En Obol, el mundo de Economía explica inflación, precios e indicadores con ejemplos argentinos.</p>
+          </div>
+          <a href="../../index.html" class="obol-btn" style="position:relative;display:inline-flex;align-items:center;gap:8px;font-family:'Fredoka',sans-serif;font-weight:600;font-size:16px;color:#0f2837;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:16px 30px;border-radius:999px;white-space:nowrap;box-shadow:0 14px 30px -12px rgba(255,178,74,.6);">Conocé la app 🐷</a>
+        </div>
+      </article>
+
+      <div style="margin:56px 0 20px;">
+        <h2 style="margin:0 0 22px;font-family:'Fredoka',sans-serif;font-weight:700;font-size:26px;color:#0f2837;text-align:center;">Seguí leyendo</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:22px;">
+
+          <a href="./bitcoin-rebote-proyecciones.html" style="border:none;padding:0;background:none;cursor:pointer;text-align:left;display:block;position:relative;">
+            <div class="obol-card" style="position:relative;border-radius:22px;overflow:hidden;height:210px;box-shadow:0 16px 32px -18px rgba(15,40,55,.5);">
+              <div style="position:absolute;inset:0;background-image:url('../assets/bg_bitcoin_mineria.jpg');background-size:cover;background-position:center 45%;"></div>
+              <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,40,55,.05) 0%,rgba(15,40,55,.55) 48%,rgba(9,27,37,.94) 100%);"></div>
+              <div style="position:relative;height:100%;padding:22px;display:flex;flex-direction:column;justify-content:flex-end;gap:8px;">
+                <span style="display:inline-flex;align-self:flex-start;font-family:'Fredoka',sans-serif;font-weight:600;font-size:10px;letter-spacing:.1em;color:#0f2837;background:rgba(255,255,255,.92);padding:4px 10px;border-radius:999px;text-transform:uppercase;">Cripto</span>
+                <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:17px;line-height:1.2;color:#fff;">Bitcoin rebotó 20% en una semana (y sigue 40% abajo)</h3>
+              </div>
+            </div>
+            <img src="../assets/char-bitcoiner-card.png" alt="" style="position:absolute;right:-6px;bottom:-10px;width:84px;height:auto;pointer-events:none;z-index:3;filter:drop-shadow(0 12px 14px rgba(15,40,55,.4));" loading="lazy">
+          </a>
+
+          <a href="./acciones-bonos-cedears.html" style="border:none;padding:0;background:none;cursor:pointer;text-align:left;display:block;position:relative;">
+            <div class="obol-card" style="position:relative;border-radius:22px;overflow:hidden;height:210px;box-shadow:0 16px 32px -18px rgba(15,40,55,.5);">
+              <div style="position:absolute;inset:0;background-image:url('../assets/bg_inversiones_base.jpg');background-size:cover;background-position:center 45%;"></div>
+              <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,40,55,.05) 0%,rgba(15,40,55,.55) 48%,rgba(9,27,37,.94) 100%);"></div>
+              <div style="position:relative;height:100%;padding:22px;display:flex;flex-direction:column;justify-content:flex-end;gap:8px;">
+                <span style="display:inline-flex;align-self:flex-start;font-family:'Fredoka',sans-serif;font-weight:600;font-size:10px;letter-spacing:.1em;color:#0f2837;background:rgba(255,255,255,.92);padding:4px 10px;border-radius:999px;text-transform:uppercase;">Inversión</span>
+                <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:17px;line-height:1.2;color:#fff;">Acciones, bonos y CEDEARs: la guía para no perderte</h3>
+              </div>
+            </div>
+            <img src="../assets/char-inversor-pro-card.png" alt="" style="position:absolute;right:-6px;bottom:-10px;width:84px;height:auto;pointer-events:none;z-index:3;filter:drop-shadow(0 12px 14px rgba(15,40,55,.4));" loading="lazy">
+          </a>
+
+          <a href="./bitcoin-en-criollo.html" style="border:none;padding:0;background:none;cursor:pointer;text-align:left;display:block;position:relative;">
+            <div class="obol-card" style="position:relative;border-radius:22px;overflow:hidden;height:210px;box-shadow:0 16px 32px -18px rgba(15,40,55,.5);">
+              <div style="position:absolute;inset:0;background-image:url('../assets/bg_criptomonedas.jpg');background-size:cover;background-position:center 45%;"></div>
+              <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,40,55,.05) 0%,rgba(15,40,55,.55) 48%,rgba(9,27,37,.94) 100%);"></div>
+              <div style="position:relative;height:100%;padding:22px;display:flex;flex-direction:column;justify-content:flex-end;gap:8px;">
+                <span style="display:inline-flex;align-self:flex-start;font-family:'Fredoka',sans-serif;font-weight:600;font-size:10px;letter-spacing:.1em;color:#0f2837;background:rgba(255,255,255,.92);padding:4px 10px;border-radius:999px;text-transform:uppercase;">Cripto</span>
+                <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:17px;line-height:1.2;color:#fff;">Bitcoin en criollo: qué es, qué no es, y los riesgos que nadie te cuenta</h3>
+              </div>
+            </div>
+            <img src="../assets/char-broker-card.png" alt="" style="position:absolute;right:-6px;bottom:-10px;width:84px;height:auto;pointer-events:none;z-index:3;filter:drop-shadow(0 12px 14px rgba(15,40,55,.4));" loading="lazy">
+          </a>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="background:#0f1730;margin-top:40px;padding:34px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;">
+    <div style="display:flex;align-items:center;gap:10px;">
+      <img src="../assets/icon.png" alt="Obol" style="width:26px;height:26px;border-radius:7px;">
+      <span style="font-family:'Fredoka',sans-serif;font-weight:600;font-size:14px;color:rgba(255,255,255,.7);">Obol Blog</span>
+    </div>
+    <div style="display:flex;gap:24px;flex-wrap:wrap;">
+      <a href="../../index.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Inicio</a>
+      <a href="../../aprende.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Qué enseña la app</a>
+      <a href="../index.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Blog</a>
+      <a href="../../privacy.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Privacidad</a>
+      <a href="../../terms.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Términos</a>
+    </div>
+  </div>
+
+</div>
+
+<script>
+(function() {
+  var bar = document.getElementById('progress');
+  function onScroll() {
+    var h = document.documentElement;
+    var max = (h.scrollHeight - h.clientHeight) || 1;
+    var pct = Math.min(100, Math.max(0, (window.scrollY || h.scrollTop) / max * 100));
+    bar.style.width = pct + '%';
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+})();
+</script>
+
+</body>
+</html>
