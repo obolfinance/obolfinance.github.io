@@ -104,7 +104,7 @@ jobs:
       # corrida real el borrador se descarta: lo que vale es la nota publicada.
       - name: Guardar el borrador
         if: ${{ always() && inputs.ensayo == true }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: borrador
           path: borrador.json
