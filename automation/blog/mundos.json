@@ -1,0 +1,197 @@
+{
+  "_comentario": [
+    "Los mundos del blog. Cada uno es un paquete cerrado: categoria, personaje que",
+    "firma, fondo del hero, tarjeta del personaje, paleta y el fondo que usa la nota",
+    "cuando aparece como 'Segui leyendo' en otra.",
+    "",
+    "Los valores NO son inventados: salieron de las nueve notas que ya estaban",
+    "publicadas, para que una nota generada sea indistinguible de una escrita a mano.",
+    "",
+    "Agregar un mundo nuevo exige dibujar dos PNG (char-X.png y char-X-card.png) y",
+    "dos JPG (bg_X_hero.jpg y bg_X.jpg). Por eso el generador ELIGE de esta lista en",
+    "vez de inventar: un mundo que no existe deja la nota sin imagenes y con el",
+    "personaje roto, y eso no lo detecta ningun chequeo de HTML."
+  ],
+  "mundos": [
+    {
+      "id": "ahorro",
+      "categoria": "Ahorro",
+      "autor": "Guardiana del Ahorro",
+      "autorConArticulo": "La Guardiana del Ahorro",
+      "bgHero": "bg_ahorro_hero.jpg",
+      "bgTarjeta": "bg_ahorro.jpg",
+      "char": "char-ahorro",
+      "paleta": {
+        "hero": "#1e3b2c",
+        "acc": "#5ed69a",
+        "accDeep": "#1e8a58",
+        "tint": "#eafaf0"
+      },
+      "ctaTexto": "En Obol, el mundo de Finanzas Personales tiene lecciones enteras sobre ahorro y presupuesto, con ejercicios reales.",
+      "temas": "fondo de emergencia, presupuesto, habitos de ahorro, metas, colchon",
+      "anchoHero": 249,
+      "anchoTarjeta": 60,
+      "anchoGrilla": 145
+    },
+    {
+      "id": "economia",
+      "categoria": "Economía",
+      "autor": "Analista de Datos",
+      "autorConArticulo": "El Analista de Datos",
+      "bgHero": "bg_inflation_hero.jpg",
+      "bgTarjeta": "bg_inflation_prices.jpg",
+      "char": "char-analista",
+      "paleta": {
+        "hero": "#0f2837",
+        "acc": "#3fb6c4",
+        "accDeep": "#0f6e7d",
+        "tint": "#effbfa"
+      },
+      "ctaTexto": "En Obol, el mundo de Economía explica inflación, precios e indicadores con ejemplos argentinos.",
+      "temas": "inflacion, precios, PBI, desempleo, tasas, indicadores, politica economica",
+      "anchoHero": 348,
+      "anchoTarjeta": 84,
+      "anchoGrilla": 180
+    },
+    {
+      "id": "inversion",
+      "categoria": "Inversión",
+      "autor": "Inversora Pro",
+      "autorConArticulo": "La Inversora Pro",
+      "bgHero": "bg_inversiones_base.jpg",
+      "bgTarjeta": "bg_inversiones_base.jpg",
+      "char": "char-inversor-pro",
+      "paleta": {
+        "hero": "#1c3a34",
+        "acc": "#4fd0a0",
+        "accDeep": "#148a62",
+        "tint": "#eafaf3"
+      },
+      "ctaTexto": "En Obol, el mundo de Inversiones arranca desde cero: qué es un activo, cómo se mide el riesgo y por qué el plazo cambia todo.",
+      "temas": "acciones, bonos, CEDEARs, riesgo, diversificacion, plazo, interes compuesto",
+      "anchoHero": 348,
+      "anchoTarjeta": 84,
+      "anchoGrilla": 203
+    },
+    {
+      "id": "cripto",
+      "categoria": "Cripto",
+      "autor": "El Broker",
+      "autorConArticulo": "El Broker",
+      "bgHero": "bg_cripto_hero.jpg",
+      "bgTarjeta": "bg_criptomonedas.jpg",
+      "char": "char-broker",
+      "paleta": {
+        "hero": "#132c3a",
+        "acc": "#4fb4e6",
+        "accDeep": "#1a72a6",
+        "tint": "#eaf6fd"
+      },
+      "ctaTexto": "En Obol, el mundo de Criptomonedas explica qué son, cómo funcionan y qué riesgos tienen, sin promesas.",
+      "temas": "blockchain, stablecoins, wallets, volatilidad, que es una cripto",
+      "anchoHero": 300,
+      "anchoTarjeta": 84,
+      "anchoGrilla": 175
+    },
+    {
+      "id": "bitcoin",
+      "categoria": "Cripto",
+      "autor": "El Bitcoiner",
+      "autorConArticulo": "El Bitcoiner",
+      "bgHero": "bg_bitcoin_mineria_hero.jpg",
+      "bgTarjeta": "bg_bitcoin_mineria.jpg",
+      "char": "char-bitcoiner",
+      "paleta": {
+        "hero": "#132c3a",
+        "acc": "#4fb4e6",
+        "accDeep": "#1a72a6",
+        "tint": "#eaf6fd"
+      },
+      "ctaTexto": "En Obol, el mundo de Criptomonedas explica qué son, cómo funcionan y qué riesgos tienen, sin promesas.",
+      "temas": "bitcoin, mineria, halving, ciclos, oferta limitada",
+      "anchoHero": 300,
+      "anchoTarjeta": 84,
+      "anchoGrilla": 150
+    },
+    {
+      "id": "crisis",
+      "categoria": "Crisis",
+      "autor": "Domador de Tormentas",
+      "autorConArticulo": "El Domador de Tormentas",
+      "bgHero": "bg_crisis_hero.jpg",
+      "bgTarjeta": "bg_crisis_ciclos.jpg",
+      "char": "char-domador",
+      "paleta": {
+        "hero": "#3c211c",
+        "acc": "#ff8f6b",
+        "accDeep": "#c0492a",
+        "tint": "#fff0ea"
+      },
+      "ctaTexto": "En Obol, el mundo de Crisis y Ciclos recorre las crisis que pasaron de verdad y qué dejaron.",
+      "temas": "burbujas, panicos, corridas, recesiones, ciclos economicos, crisis argentinas",
+      "anchoHero": 400,
+      "anchoTarjeta": 84,
+      "anchoGrilla": 205
+    },
+    {
+      "id": "historia",
+      "categoria": "Historia",
+      "autor": "El Griego",
+      "autorConArticulo": "El Griego",
+      "bgHero": "bg_historia_hero.jpg",
+      "bgTarjeta": "bg_historia.jpg",
+      "char": "char-griego",
+      "paleta": {
+        "hero": "#3a2417",
+        "acc": "#e0a94a",
+        "accDeep": "#a9760f",
+        "tint": "#fbf3e4"
+      },
+      "ctaTexto": "En Obol, el mundo de Historia Financiera cuenta de dónde salió todo esto: del trueque al banco central.",
+      "temas": "origen del dinero, patron oro, bancos, monedas antiguas, hiperinflaciones historicas",
+      "anchoHero": 254,
+      "anchoTarjeta": 61,
+      "anchoGrilla": 148
+    },
+    {
+      "id": "deuda",
+      "categoria": "Deuda y Crédito",
+      "autor": "El Ciudadano",
+      "autorConArticulo": "El Ciudadano",
+      "bgHero": "bg_deuda_hero.jpg",
+      "bgTarjeta": "bg_deuda_credito.jpg",
+      "char": "char-ciudadano",
+      "paleta": {
+        "hero": "#3a1420",
+        "acc": "#ef7fa0",
+        "accDeep": "#b8355c",
+        "tint": "#fdeef2"
+      },
+      "ctaTexto": "En Obol, el mundo de Finanzas Personales tiene lecciones sobre deuda, tarjetas y crédito.",
+      "temas": "tarjeta de credito, prestamos, CFT, refinanciacion, minimo pago, sobreendeudamiento",
+      "anchoHero": 300,
+      "anchoTarjeta": 72,
+      "anchoGrilla": 175
+    },
+    {
+      "id": "mitos",
+      "categoria": "Mitos",
+      "autor": "Cazador de Mitos",
+      "autorConArticulo": "El Cazador de Mitos",
+      "bgHero": "bg_mitos_hero.jpg",
+      "bgTarjeta": "bg_desmitificando.jpg",
+      "char": "char-mito",
+      "paleta": {
+        "hero": "#2c1e3f",
+        "acc": "#b98cf0",
+        "accDeep": "#7a4fc0",
+        "tint": "#f5eeff"
+      },
+      "ctaTexto": "En Obol, el mundo de Desmitificando desarma las ideas que suenan ciertas y no lo son.",
+      "temas": "creencias falsas sobre plata, sesgos, consejos malos que circulan, falacias economicas",
+      "anchoHero": 339,
+      "anchoTarjeta": 81,
+      "anchoGrilla": 198
+    }
+  ]
+}

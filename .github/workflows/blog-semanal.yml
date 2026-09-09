@@ -1,0 +1,146 @@
+# La nota de los viernes.
+#
+# Cadena: generar -> verificar -> publicar -> revisar -> commit.
+#
+# El commit es el ultimo paso a proposito. El sitio se publica commiteando, asi
+# que mientras no haya commit no hay nada en internet: si cualquier eslabon
+# falla, el runner se descarta y el repo queda exactamente como estaba. No hay
+# forma de que una nota a medio publicar llegue a verse.
+#
+# Reintenta hasta tres veces porque generar es no determinista: que el
+# verificador rechace un borrador es normal, y no deberia significar que el
+# blog se quede sin nota esa semana. Tres rechazos seguidos ya no son mala
+# suerte, son un problema — y ahi si conviene que falle y avise.
+
+name: blog semanal
+
+on:
+  schedule:
+    # Viernes 12:00 UTC = 9 de la maniana en Argentina.
+    - cron: '0 12 * * 5'
+  workflow_dispatch:
+    inputs:
+      tipo:
+        description: 'Tipo de nota (vacio = lo decide la semana)'
+        required: false
+        type: choice
+        options: ['', 'concepto', 'actualidad']
+        default: ''
+      ensayo:
+        description: 'Ensayo: genera y verifica, pero no publica ni commitea'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Dos corridas a la vez sobre el mismo repo se pisarian al commitear.
+concurrency:
+  group: blog-semanal
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generar y verificar (hasta 3 intentos)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OBOL_TIPO: ${{ inputs.tipo }}
+        run: |
+          set -euo pipefail
+          # La fecha se calcula en horario argentino: a las 12:00 UTC del
+          # viernes, en Argentina son las 9 del MISMO dia, pero cerca de la
+          # medianoche UTC la fecha del runner y la de aca no coinciden.
+          OBOL_FECHA=$(TZ=America/Argentina/Buenos_Aires date +%F)
+          export OBOL_FECHA
+          echo "Publicando con fecha $OBOL_FECHA"
+
+          for intento in 1 2 3; do
+            echo "::group::Intento $intento"
+            if node automation/blog/generar.mjs borrador.json && \
+               node automation/blog/verificar.mjs borrador.json; then
+              echo "::endgroup::"
+              echo "ok en el intento $intento"
+              exit 0
+            fi
+            echo "::endgroup::"
+            echo "intento $intento rechazado"
+          done
+
+          echo "::error::tres borradores seguidos rechazados — no se publica esta semana"
+          exit 1
+
+      - name: Publicar
+        if: ${{ inputs.ensayo != true }}
+        run: node automation/blog/publicar.mjs borrador.json
+
+      - name: Revisar el sitio ya escrito
+        if: ${{ inputs.ensayo != true }}
+        run: node automation/blog/revisar.mjs
+
+      - name: Resumen
+        if: always()
+        run: |
+          if [ -f borrador.json ]; then
+            {
+              echo "### Nota de la semana"
+              echo ""
+              node -e "const n=require('./borrador.json');
+                console.log('**'+n.titulo+'**');
+                console.log('');
+                console.log('- slug: \`'+n.slug+'\`');
+                console.log('- mundo: '+n.mundo+' · tipo: '+n.tipo);
+                console.log('- '+n.secciones.length+' secciones');
+                console.log('');
+                console.log('> '+n.bajada);"
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Commitear
+        if: ${{ inputs.ensayo != true }}
+        run: |
+          set -euo pipefail
+          TITULO=$(node -e "console.log(require('./borrador.json').titulo)")
+          rm -f borrador.json
+
+          git config user.name  "obol-bot"
+          git config user.email "obol.finance2026@gmail.com"
+
+          # Solo los archivos que toca el publicador. Nunca "git add -A": el
+          # repo tiene material sin versionar que no debe salir de la maquina.
+          git add docs/blog/articulos docs/blog/index.html docs/feed.xml \
+                  docs/sitemap.xml automation/blog/publicados.json
+
+          if git diff --cached --quiet; then
+            echo "no hay cambios para commitear"
+            exit 0
+          fi
+
+          git commit -m "blog: $TITULO (automatico)"
+
+          # El pipeline de noticias commitea sobre este mismo repo dos veces por
+          # dia. Si mete un commit entre el checkout y este push, el push se
+          # rechaza por no ser fast-forward y la nota se pierde aunque estuviera
+          # perfecta. El rebase la reaplica arriba: los dos tocan archivos
+          # distintos, asi que no hay conflicto posible.
+          # Va dentro de un "if" y no como lista con &&: con set -e, una lista
+          # que falla aborta el paso entero y el reintento no llega a correr.
+          # La condicion de un if esta exenta de -e.
+          for intento in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              exit 0
+            fi
+            echo "push rechazado, reintento $intento"
+            sleep 5
+          done
+
+          echo "::error::no se pudo pushear despues de 3 intentos"
+          exit 1

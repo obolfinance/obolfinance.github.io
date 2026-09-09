@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "slug": "bitcoin-rebote-proyecciones",
+      "titulo": "Bitcoin rebotó 20% en una semana (y sigue 40% abajo)",
+      "bajada": "Qué pasó en el peor año de bitcoin desde 2022, qué lo hizo saltar en los últimos días y por qué las proyecciones no se ponen de acuerdo.",
+      "categoria": "Cripto",
+      "mundo": "bitcoin",
+      "fecha": "2026-08-21"
+    },
+    {
+      "slug": "acciones-bonos-cedears",
+      "titulo": "Acciones, bonos y CEDEARs: la guía para no perderte",
+      "bajada": "Qué es cada instrumento, en qué se diferencian y cómo se empieza a operar en Argentina.",
+      "categoria": "Inversión",
+      "mundo": "inversion",
+      "fecha": "2026-07-22"
+    },
+    {
+      "slug": "bitcoin-en-criollo",
+      "titulo": "Bitcoin en criollo: qué es, qué no es, y los riesgos que nadie te cuenta",
+      "bajada": "Qué es bitcoin, qué no es, y los riesgos reales que casi nadie menciona.",
+      "categoria": "Cripto",
+      "mundo": "cripto",
+      "fecha": "2026-07-22"
+    },
+    {
+      "slug": "burbujas-crashes-panicos",
+      "titulo": "Burbujas, crashes y pánicos: por qué la economía sube y baja",
+      "bajada": "Los ciclos económicos contados como lo que son: euforia, susto y resaca.",
+      "categoria": "Crisis",
+      "mundo": "crisis",
+      "fecha": "2026-07-22"
+    },
+    {
+      "slug": "de-monedas-a-bitcoin",
+      "titulo": "De las monedas de Lidia al bitcoin: 2700 años de inventar el dinero",
+      "bajada": "De las primeras monedas de plata al bitcoin: 2700 años resolviendo el mismo problema.",
+      "categoria": "Historia",
+      "mundo": "historia",
+      "fecha": "2026-07-22"
+    },
+    {
+      "slug": "fondo-de-emergencia",
+      "titulo": "El colchón que sí sirve: cómo armar tu fondo de emergencia",
+      "bajada": "Cuánto guardar, dónde ponerlo, y por qué se mide en meses de gastos y no en sueldos.",
+      "categoria": "Ahorro",
+      "mundo": "ahorro",
+      "fecha": "2026-07-22"
+    },
+    {
+      "slug": "mitos-que-cuestan-caro",
+      "titulo": "5 mitos financieros que te están costando plata",
+      "bajada": "Cinco creencias sobre plata que suenan razonables y salen caras. Desarmadas una por una.",
+      "categoria": "Mitos",
+      "mundo": "mitos",
+      "fecha": "2026-07-22"
+    },
+    {
+      "slug": "por-que-argentina-tiene-tanta-inflacion",
+      "titulo": "Por qué Argentina tiene tanta inflación, explicado sin tecnicismos",
+      "bajada": "No es solo culpa del dólar ni de los empresarios. El mecanismo detrás de la inflación argentina, contado en criollo.",
+      "categoria": "Economía",
+      "mundo": "economia",
+      "fecha": "2026-07-22"
+    },
+    {
+      "slug": "tarjeta-de-credito-mal-usada",
+      "titulo": "Tarjeta de crédito: la herramienta financiera más mal usada de Argentina",
+      "bajada": "No es mala — usada mal es una de las formas más caras de financiarte que existen. Cómo funciona por dentro.",
+      "categoria": "Deuda y Crédito",
+      "mundo": "deuda",
+      "fecha": "2026-07-22"
+    }
+  ]
+}
