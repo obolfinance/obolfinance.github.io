@@ -46,9 +46,29 @@ export async function datosReales() {
     .slice(0, 5)
     .map((t) => ({ banco: t.entidad, tna: +(t.tnaClientes * 100).toFixed(2) }));
 
+  // Las brechas van calculadas y no libradas al modelo.
+  //
+  // Una nota sobre el dolar casi con seguridad va a mencionar la brecha, que es
+  // una cifra derivada: correcta, pero ausente de la lista de valores crudos.
+  // Dejarsela calcular tenia dos costos — el verificador la rechazaba por no
+  // reconocerla, y si la calculaba mal nadie se enteraba.
+  const venta = (t) => dolares.find((d) => d.nombre === t)?.venta;
+  const oficial = venta('Oficial');
+  const brecha = (t) => {
+    const v = venta(t);
+    return oficial && v ? +(((v / oficial) - 1) * 100).toFixed(1) : null;
+  };
+  const brechas = [
+    { contra: 'Blue', pct: brecha('Blue') },
+    { contra: 'Bolsa (MEP)', pct: brecha('Bolsa') },
+    { contra: 'Contado con liquidación', pct: brecha('Contado con liquidación') },
+    { contra: 'Tarjeta', pct: brecha('Tarjeta') },
+  ].filter((b) => b.pct != null);
+
   return {
     generadoEl: new Date().toISOString(),
     dolar: dolares.map((d) => ({ tipo: d.nombre, compra: d.compra, venta: d.venta })),
+    brechaContraOficialPct: brechas,
     inflacionMensual: ultimos,
     inflacionInteranual: ia ? { mes: nombreMes(ia.fecha), pct: ia.valor } : null,
     plazoFijoTNA: tasas,
@@ -76,6 +96,7 @@ export function numerosPermitidos(d) {
     if (Number.isFinite(v) && Math.abs(v) >= 1000) n.add(Math.round(v).toLocaleString('es-AR'));
   };
   for (const x of d.dolar) { meter(x.compra); meter(x.venta); }
+  for (const x of d.brechaContraOficialPct || []) meter(x.pct);
   for (const x of d.inflacionMensual) meter(x.pct);
   if (d.inflacionInteranual) meter(d.inflacionInteranual.pct);
   for (const x of d.plazoFijoTNA) meter(x.tna);

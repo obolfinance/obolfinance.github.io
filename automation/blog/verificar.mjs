@@ -44,11 +44,18 @@ const SUPUESTO = /\b(supongamos|supon[eé]|imagin[aeá]|digamos|si gast|si ten[e
 /**
  * Cifras que un lector leeria como "un dato": plata o porcentajes.
  *
- * La coma va incluida en el tramo del porcentaje. Sin ella, "7,3%" no matcheaba
- * entero: el motor arrancaba de nuevo en el "3" y capturaba "3%", un numero
- * distinto del que decia la nota.
+ * Las comas y los decimales importan, y cada uno costo un falso positivo:
+ *
+ *   "7,3%"     sin la coma en el tramo del porcentaje, el motor arrancaba de
+ *              nuevo en el "3" y capturaba "3%", otro numero.
+ *
+ *   "1.995,5"  sin el grupo de decimales al final, capturaba "1.995" y tiraba
+ *              el ",5". Despues comparaba 1995 contra una lista que tenia
+ *              1995,5 y rechazaba la nota — con la cifra bien puesta. Rechazar
+ *              un dato correcto es peor que no chequear: el sistema se detiene
+ *              solo y hay que salir a demostrar que estaba bien.
  */
-const CIFRA = /(\$\s?[\d][\d.,]*|\b\d[\d.,]*\s?%|\b\d{1,3}(?:\.\d{3})+\b)/g;
+const CIFRA = /(\$\s?\d[\d.,]*|\b\d[\d.,]*\s?%|\b\d{1,3}(?:\.\d{3})+(?:,\d+)?\b)/g;
 
 const CONSEJO = [
   /\bte convien[ea]\s+(comprar|vender|invertir|meter)/i,
@@ -91,7 +98,9 @@ function revisarTexto(donde, txt, permitidos) {
   for (const frase of s.split(/(?<=[.:;])\s+/)) {
     if (!PRESENTE.test(frase) || SUPUESTO.test(frase)) continue;
     for (const bruto of frase.match(CIFRA) || []) {
-      const n = bruto.replace(/[$%\s]/g, '');
+      // El punto o la coma final son puntuacion de la oracion, no de la cifra:
+      // en "cuesta $1.540." el punto cierra la frase.
+      const n = bruto.replace(/[$%\s]/g, '').replace(/[.,]+$/, '');
       const variantes = [n, n.replace(/\./g, ''), n.replace(',', '.'), n.replace(/\./g, '').replace(',', '.')];
       if (!variantes.some((v) => permitidos.has(v) || permitidos.has(String(Number(v))))) {
         error(`${donde}: la cifra ${bruto} se presenta como dato actual y no salio de las APIs — "${frase.trim().slice(0, 110)}"`);
