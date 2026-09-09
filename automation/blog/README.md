@@ -33,6 +33,7 @@ Ocho notas del 22 de julio y una del 21 de agosto: no fue falta de ganas.
 | `verificar.mjs` | Revisa el borrador. Si hay un error, no se publica. |
 | `plantilla.mjs` | Convierte la nota en el HTML del artículo. |
 | `publicar.mjs` | Escribe el artículo y lo enchufa en índice, feed y sitemap. |
+| `resumen.mjs` | Vuelca el borrador como markdown legible. Es lo que hace que el modo ensayo sirva para leer la nota y no solo para saber que el pipeline anda. |
 | `revisar.mjs` | Revisa el sitio ya escrito: HTML balanceado, imágenes que existen, feed completo. |
 
 ## Las tres decisiones que sostienen esto
@@ -87,6 +88,9 @@ salen tres notas seguidas del mismo personaje.
 ANTHROPIC_API_KEY=... node automation/blog/generar.mjs borrador.json
 node automation/blog/verificar.mjs borrador.json
 
+# Leerlo antes de decidir nada
+node automation/blog/resumen.mjs borrador.json --completo
+
 # Publicarlo
 node automation/blog/publicar.mjs borrador.json
 node automation/blog/revisar.mjs
@@ -97,7 +101,8 @@ Variables: `OBOL_TIPO` (`concepto` o `actualidad`), `OBOL_FECHA` (`AAAA-MM-DD`),
 
 Desde GitHub: **Actions → blog semanal → Run workflow**. Tiene una opción
 **ensayo** que genera y verifica pero no publica ni commitea — es la forma de
-ver qué escribiría sin que salga.
+ver qué escribiría sin que salga. En ese modo la nota entera queda impresa en el
+**Summary** del run, y el JSON queda como artefacto descargable.
 
 ## Requisito
 

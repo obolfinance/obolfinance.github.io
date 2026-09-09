@@ -44,11 +44,11 @@ jobs:
   publicar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Generar y verificar (hasta 3 intentos)
         env:
@@ -89,20 +89,26 @@ jobs:
       - name: Resumen
         if: always()
         run: |
-          if [ -f borrador.json ]; then
-            {
-              echo "### Nota de la semana"
-              echo ""
-              node -e "const n=require('./borrador.json');
-                console.log('**'+n.titulo+'**');
-                console.log('');
-                console.log('- slug: \`'+n.slug+'\`');
-                console.log('- mundo: '+n.mundo+' · tipo: '+n.tipo);
-                console.log('- '+n.secciones.length+' secciones');
-                console.log('');
-                console.log('> '+n.bajada);"
-            } >> "$GITHUB_STEP_SUMMARY"
+          [ -f borrador.json ] || exit 0
+          # En ensayo se vuelca la nota completa: el punto del ensayo es LEER
+          # lo que habria salido, y un resumen de tres lineas no alcanza para
+          # eso. En una corrida real la nota ya esta publicada y se lee en el
+          # sitio, asi que con la ficha basta.
+          if [ "${{ inputs.ensayo }}" = "true" ]; then
+            node automation/blog/resumen.mjs borrador.json --completo >> "$GITHUB_STEP_SUMMARY"
+          else
+            node automation/blog/resumen.mjs borrador.json >> "$GITHUB_STEP_SUMMARY"
           fi
+
+      # Tambien como archivo, para poder abrirlo o pasarmelo tal cual. En una
+      # corrida real el borrador se descarta: lo que vale es la nota publicada.
+      - name: Guardar el borrador
+        if: ${{ always() && inputs.ensayo == true }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: borrador
+          path: borrador.json
+          if-no-files-found: ignore
 
       - name: Commitear
         if: ${{ inputs.ensayo != true }}
