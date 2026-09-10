@@ -1,167 +1,185 @@
 {
-  "generated_at": "2026-09-10T12:01:21.336705+00:00",
+  "generated_at": "2026-09-10T22:01:26.943050+00:00",
   "items": [
     {
-      "id": "bofa-apple-price-target-370",
-      "type": "empresa",
-      "title": "BofA baja el objetivo de precio de Apple a $370 por presión en márgenes",
-      "summary": "BofA Securities redujo su precio objetivo para Apple de $380 a $370, aunque mantuvo la recomendación de compra. La razón: los precios del nuevo iPhone Duo salieron más bajos de lo esperado, lo que puede comprimir los márgenes de ganancia aunque se vendan más unidades.",
-      "detail": "Este caso muestra una dinámica clave en el análisis de acciones: no basta con vender mucho, sino que importa cuánto se gana por cada producto vendido. Cuando una empresa baja precios para ganar volumen, puede afectar su margen bruto, que es el porcentaje de ganancia después de los costos de producción. BofA ajustó sus estimaciones de ganancias para 2027 y valúa la acción a 37 veces esas ganancias proyectadas, una métrica llamada P/E (precio sobre ganancias). Aprender a leer estos ajustes de analistas ayuda a entender cómo el mercado anticipa el futuro de una empresa.",
+      "id": "tesla-china-surplus",
+      "type": "mercado",
+      "title": "Tesla cae ante la amenaza de la sobreproducción china",
+      "summary": "Las acciones de Tesla bajaron un 0,6% ante la presión del exceso de producción de autos en China, que exporta el sobrante al mundo y amenaza los precios de Tesla. En el último trimestre, el margen bruto automotriz de Tesla fue del 16,3% y el flujo de caja libre fue negativo en unos 1.100 millones de dólares.",
+      "detail": "Cuando un país produce mucho más de lo que consume internamente, vuelca el excedente en mercados externos a precios bajos, presionando a competidores como Tesla. Esto afecta directamente los márgenes de ganancia: si Tesla tiene que bajar precios para competir, gana menos por auto vendido. Un flujo de caja libre negativo significa que la empresa gasta más de lo que genera, lo cual es una señal que los inversores monitorean de cerca.",
       "tags": [
-        "márgenes",
-        "tecnología",
-        "análisis de acciones"
+        "autos eléctricos",
+        "competencia China",
+        "márgenes"
+      ],
+      "source_name": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com/news/tesla-slips-china-turns-factory-183712866.html",
+      "published_at": "2026-09-10T19:15:14Z",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "apple-bofa-target",
+      "type": "empresa",
+      "title": "BofA baja su objetivo de precio para Apple tras el evento de nuevo CEO",
+      "summary": "Bank of America mantuvo su recomendación de compra para Apple pero redujo su precio objetivo de 380 a 370 dólares, luego del primer evento del nuevo CEO John Ternus. Los precios del nuevo iPhone resultaron más bajos de lo esperado, lo que podría impulsar las ventas pero presionar los márgenes por el aumento en el costo de componentes.",
+      "detail": "El precio objetivo es la estimación de un analista sobre cuánto debería valer una acción. Cuando un banco como BofA lo baja, indica que espera menores ganancias futuras, aunque siga siendo optimista en el largo plazo. En el caso de Apple, precios de iPhone más bajos significan mayor volumen de ventas pero menor ganancia por unidad, un equilibrio clave que los inversores analizan constantemente.",
+      "tags": [
+        "Apple",
+        "precio objetivo",
+        "márgenes"
+      ],
+      "source_name": "Yahoo Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com/news/bofa-tweaks-apple-stock-price-185234629.html",
+      "published_at": "2026-09-10T18:52:00Z",
+      "tickers": [
+        "AAPL",
+        "BAC"
+      ]
+    },
+    {
+      "id": "halliburton-petroleo",
+      "type": "mercado",
+      "title": "Halliburton sube impulsada por el alza del petróleo y su expansión global",
+      "summary": "Las acciones de Halliburton ganaron terreno luego de que el precio del crudo superara los 100 dólares por preocupaciones de oferta en Medio Oriente. La compañía de servicios petroleros también anunció contratos offshore en Surinam y Brasil, reforzando su expansión internacional.",
+      "detail": "Halliburton presta servicios a empresas que extraen petróleo, por lo que cuando el precio del crudo sube, las petroleras invierten más en exploración y producción, y Halliburton se beneficia directamente. El precio del petróleo es un indicador macroeconómico global relevante: cuando supera los 100 dólares, suele generar presión inflacionaria en todo el mundo, incluyendo Argentina que importa derivados.",
+      "tags": [
+        "petróleo",
+        "energía",
+        "materias primas"
+      ],
+      "source_name": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com/us/stocks/energy/halliburton-nysehal-gains-as-oil-shock-meets-global-expansion",
+      "published_at": "2026-09-10T19:49:05Z",
+      "tickers": [
+        "HAL"
+      ]
+    },
+    {
+      "id": "ford-inversion-kentucky",
+      "type": "empresa",
+      "title": "Ford invertirá 1.000 millones de dólares en una nueva planta en Kentucky",
+      "summary": "Ford anunció que invertirá 1.000 millones de dólares en una nueva planta de pintura en su fábrica de camiones en Louisville, Kentucky, con inicio de obras previsto para antes de fin de año. Este anuncio se suma a una inversión previa de 2.000 millones de dólares en otra planta del estado para su plataforma de vehículos eléctricos.",
+      "detail": "Las grandes inversiones en infraestructura fabril son señales de confianza de una empresa en su negocio a largo plazo. En el caso de Ford, apostar por manufactura local en EE.UU. también responde a presiones políticas y arancelarias. Para quienes aprenden finanzas, este tipo de anuncios muestra cómo las decisiones estratégicas de una empresa impactan en su valoración y en la economía real.",
+      "tags": [
+        "Ford",
+        "manufactura",
+        "inversión"
+      ],
+      "source_name": "WCLU Radio",
+      "source_url": "https://www.wcluradio.com/2026/09/10/ford-to-invest-1-b-in-new-paint-shop-at-the-kentucky-truck-plant-in-louisville/",
+      "published_at": "2026-09-10T20:00:27Z",
+      "tickers": [
+        "F"
+      ]
+    },
+    {
+      "id": "microsoft-windows-agentes",
+      "type": "empresa",
+      "title": "Microsoft quiere rediseñar Windows para funcionar con agentes de inteligencia artificial",
+      "summary": "El vicepresidente ejecutivo de Windows en Microsoft anunció que la compañía trabaja para adaptar su sistema operativo a los llamados 'agentic workloads', es decir, tareas ejecutadas por agentes de IA de forma autónoma. El foco está en capacidades de seguridad e identidad, más que en cambios visuales inmediatos.",
+      "detail": "La carrera por integrar IA en los sistemas operativos es clave para entender hacia dónde se dirigen las grandes tecnológicas. Microsoft compite con Apple y Google por ser la plataforma central donde corran estas nuevas aplicaciones de IA, lo que tiene implicancias directas en sus ingresos futuros. Para inversores, apostar a empresas que lideren esta transición tecnológica es una de las tesis de inversión más discutidas hoy.",
+      "tags": [
+        "Microsoft",
+        "inteligencia artificial",
+        "tecnología"
+      ],
+      "source_name": "GeekWire",
+      "source_url": "https://www.geekwire.com/2026/microsoft-2-5-evp-pavan-davuluri-wants-to-remake-windows-for-both-human-and-agent-users/",
+      "published_at": "2026-09-10T19:18:28Z",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "id": "autodesk-refinanciamiento",
+      "type": "empresa",
+      "title": "Autodesk emitió 1.000 millones en bonos para refinanciar deuda",
+      "summary": "Autodesk emitió 1.000 millones de dólares en bonos a tasas del 5,05% y 5,65%, con vencimientos en 2029 y 2033, para reemplazar un préstamo existente del mismo monto. Se trata de una operación de refinanciamiento que busca mejorar las condiciones de su deuda.",
+      "detail": "Refinanciar deuda significa reemplazar una obligación financiera por otra con mejores condiciones, como plazos más largos o tasas más convenientes. Emitir bonos es una forma que tienen las empresas de obtener financiamiento del mercado, comprometiéndose a pagar intereses periódicos. Entender cómo las empresas manejan su deuda es fundamental en finanzas: una estructura de deuda bien gestionada reduce el riesgo financiero.",
+      "tags": [
+        "bonos",
+        "deuda corporativa",
+        "refinanciamiento"
+      ],
+      "source_name": "Stock Titan",
+      "source_url": "https://www.stocktitan.net/sec-filings/ADSK/8-k-autodesk-inc-reports-material-event-0e9e79bc368a.html",
+      "published_at": "2026-09-10T20:10:28Z",
+      "tickers": [
+        "ADSK"
+      ]
+    },
+    {
+      "id": "applied-materials-dividendo",
+      "type": "empresa",
+      "title": "Applied Materials anunció su noveno año consecutivo de aumento de dividendo",
+      "summary": "Applied Materials aprobó un dividendo trimestral de 0,53 dólares por acción, pagadero el 10 de diciembre de 2026. La compañía lleva nueve años consecutivos aumentando su dividendo, con una tasa de crecimiento anual compuesta del 18% en la última década.",
+      "detail": "Un dividendo creciente de forma sostenida es una señal de que la empresa genera flujo de caja estable y confía en sus perspectivas futuras. La tasa de crecimiento anual compuesta del dividendo es una métrica que usan los inversores para evaluar qué tan atractiva es una acción como fuente de ingresos pasivos. Applied Materials fabrica equipos para la industria de semiconductores, un sector estratégico a nivel global.",
+      "tags": [
+        "dividendo",
+        "semiconductores",
+        "retorno al accionista"
+      ],
+      "source_name": "The Manila Times",
+      "source_url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/globenewswire/applied-materials-announces-cash-dividend/2423018",
+      "published_at": "2026-09-10T20:08:56Z",
+      "tickers": [
+        "AMAT"
+      ]
+    },
+    {
+      "id": "prudential-minimo-52-semanas",
+      "type": "mercado",
+      "title": "Prudential Financial tocó su mínimo de 52 semanas",
+      "summary": "Las acciones de Prudential Financial cayeron a un mínimo de 52 semanas de 20,11 dólares, acumulando una baja del 19,18% en el último año. La compañía tiene una capitalización de mercado de 40.600 millones de dólares y un ratio precio/ganancia de 11,06.",
+      "detail": "El mínimo de 52 semanas es un indicador técnico que muestra el precio más bajo al que cotizó una acción en el último año; cuando se lo rompe, puede señalar debilidad sostenida o una oportunidad de compra según el enfoque del inversor. El ratio P/E de 11 es relativamente bajo para una aseguradora grande, lo que puede interpretarse como que el mercado tiene expectativas moderadas sobre sus ganancias futuras. Prudential es una de las aseguradoras y gestoras de activos más grandes del mundo.",
+      "tags": [
+        "acciones",
+        "mínimos",
+        "seguros"
       ],
       "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-apple-stock-price-target-to-370-on-margin-pressure-93CH-4895440",
-      "published_at": "2026-09-10T11:02:31Z",
+      "source_url": "https://www.investing.com/news/company-news/prudential-financial-stock-hits-52week-low-at-2011-usd-93CH-4896812",
+      "published_at": "2026-09-10T20:49:19Z",
       "tickers": [
-        "AAPL"
+        "PRU"
       ]
     },
     {
-      "id": "apple-tim-cook-liderazgo",
-      "type": "empresa",
-      "title": "Apple marcó el fin de la era Tim Cook con una transición estratégica en el lanzamiento del iPhone Duo",
-      "summary": "En el evento del iPhone Duo, el ex CEO Tim Cook hizo una breve aparición para ceder el protagonismo a John Ternus, el nuevo líder de Apple. Fue una jugada cuidadosamente diseñada para mostrar continuidad sin mirar demasiado atrás.",
-      "detail": "Los cambios de liderazgo en empresas grandes como Apple suelen generar incertidumbre en los mercados, porque los inversores se preguntan si la nueva conducción va a mantener el rumbo. La forma en que Apple manejó esta transición —de manera ordenada y en público— es una señal de que la empresa busca transmitir estabilidad. Para alguien que aprende finanzas, es útil observar cómo el mercado reacciona ante cambios de CEO: en general, la claridad y la planificación tranquilizan a los inversores.",
+      "id": "prologis-conferencia-bofa",
+      "type": "reunion",
+      "title": "El CFO de Prologis presentará en la conferencia global de real estate de BofA",
+      "summary": "El director financiero de Prologis, la mayor empresa de logística e inmuebles industriales del mundo, presentará en la conferencia global de real estate de Bank of America el 15 de septiembre de 2026. La presentación será transmitida en vivo por webcast.",
+      "detail": "Las conferencias organizadas por grandes bancos de inversión son eventos donde ejecutivos de empresas cotizan actualizaciones estratégicas frente a analistas e inversores institucionales. Lo que se dice en estas presentaciones puede mover el precio de las acciones, porque los participantes ajustan sus expectativas en base a la información que reciben. Prologis es un referente del sector logístico global, relevante en un contexto de crecimiento del e-commerce.",
       "tags": [
-        "liderazgo",
-        "Apple",
-        "mercado tecnológico"
+        "real estate",
+        "conferencia",
+        "logística"
       ],
-      "source_name": "Inc.com",
-      "source_url": "https://www.inc.com/jason-aten/tim-cooks-brief-appearance-at-the-iphone-duo-event-was-apple-stagecraft-at-its-best/91403503",
-      "published_at": "2026-09-10T10:50:31Z",
+      "source_name": "Prologis",
+      "source_url": "https://www.prologis.com/insights-news/press-releases/prologis-participate-bofa-securities-2026-global-real-estate",
+      "published_at": "2026-09-10T21:00:05Z",
       "tickers": [
-        "AAPL"
+        "PLD"
       ]
     },
     {
-      "id": "jpmorgan-downgrades-united-rentals",
-      "type": "mercado",
-      "title": "JPMorgan bajó su recomendación sobre United Rentals y recortó el precio objetivo",
-      "summary": "JPMorgan degradó a United Rentals de 'Overweight' a 'Neutral' y redujo su precio objetivo de $1.235 a $1.170. Esto indica que el banco ya no ve tanto potencial de suba en las acciones de esta empresa de alquiler de equipos.",
-      "detail": "Cuando un banco de inversión cambia su recomendación de 'Overweight' (esperan que suba más que el mercado) a 'Neutral' (esperan un rendimiento en línea con el mercado), es una señal que los inversores toman muy en serio. Estos cambios suelen mover el precio de la acción porque muchos fondos ajustan sus carteras en base a estas calificaciones. Aprender a interpretar estos ratings —Overweight, Neutral, Underweight— es fundamental para entender cómo los analistas comunican sus expectativas sobre una empresa.",
+      "id": "att-convergencia-bofa",
+      "type": "discurso",
+      "title": "AT&T destacó su estrategia de convergencia fibra-5G en conferencia de BofA",
+      "summary": "Ejecutivos de AT&T presentaron en la conferencia de medios y comunicaciones de Bank of America, destacando el avance de su estrategia que integra banda ancha hogareña con telefonía móvil. La compañía apunta a un crecimiento de doble dígito en ganancias por acción en un plan a tres años.",
+      "detail": "La 'convergencia' en telecomunicaciones consiste en ofrecer servicios de internet fijo y móvil bajo una misma compañía, lo que reduce la rotación de clientes y mejora la rentabilidad. Cuando una empresa anuncia metas de crecimiento de ganancias por acción a varios años, le da al mercado una guía de rentabilidad futura, lo que influye en su valoración. AT&T es uno de los principales operadores de telecomunicaciones de EE.UU. y un ejemplo clásico de empresa con alto dividendo.",
       "tags": [
-        "ratings de analistas",
-        "acciones",
-        "mercado"
+        "telecomunicaciones",
+        "estrategia",
+        "crecimiento"
       ],
-      "source_name": "www.marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/jpmorgan-downgrades-united-rentals-to-neutral-from-overweight-adjusts-pt-to-1-170-from-1-235-ce785bdedd88f326",
-      "published_at": "2026-09-10T10:30:00Z",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/transcripts/att-at-bank-of-america-conference-convergence-gains-momentum-93CH-4896726",
+      "published_at": "2026-09-10T19:45:14Z",
       "tickers": [
-        "URI"
-      ]
-    },
-    {
-      "id": "ubs-bunge-price-target",
-      "type": "empresa",
-      "title": "UBS bajó el precio objetivo de Bunge pero sigue viendo potencial de suba",
-      "summary": "UBS recortó su precio objetivo para Bunge Global de $145 a $115, aunque mantuvo la recomendación de compra. El banco ve posibles revisiones al alza en las ganancias de 2026 y 2027, y considera exageradas las preocupaciones por la reducción de participación de Glencore.",
-      "detail": "Bunge es una de las mayores comercializadoras de granos del mundo, por lo que su desempeño es relevante para economías agrícolas como la argentina. Este caso ilustra que un banco puede bajar el precio objetivo —por ejemplo, por razones de valuación— sin cambiar su visión positiva de largo plazo sobre la empresa. Además, la mención de Glencore como accionista que reduce su posición muestra cómo los movimientos de grandes inversores institucionales pueden generar ruido en el mercado, aunque no siempre reflejen un problema real en el negocio.",
-      "tags": [
-        "commodities agrícolas",
-        "precio objetivo",
-        "institucionales"
-      ],
-      "source_name": "Investing.com India",
-      "source_url": "https://in.investing.com/news/stock-market-news/ubs-cuts-bunge-stock-price-target-on-valuation-keeps-buy-rating-93CH-5587985",
-      "published_at": "2026-09-10T10:48:20Z",
-      "tickers": [
-        "BG"
-      ]
-    },
-    {
-      "id": "citigroup-expansion-blockchain",
-      "type": "empresa",
-      "title": "Citigroup superó expectativas y apuesta por depósitos tokenizados y blockchain",
-      "summary": "Citigroup reportó ganancias trimestrales de $3,15 por acción con ingresos de $24,77 mil millones, superando las estimaciones. Además, subió su dividendo trimestral a $0,67 e invierte en pagos basados en blockchain y depósitos tokenizados.",
-      "detail": "Que un banco tan grande como Citigroup apueste por blockchain para pagos y depósitos tokenizados es una señal de que la tecnología está entrando al sistema financiero tradicional. Para alguien que aprende finanzas, es importante entender que 'superar las estimaciones de ganancias' mueve positivamente las acciones, porque el mercado valúa las empresas en base a expectativas futuras. Cuando los resultados reales son mejores que lo esperado, los inversores ajustan esas expectativas al alza y el precio sube.",
-      "tags": [
-        "bancos",
-        "blockchain",
-        "resultados trimestrales"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-citigroup-inc-c-shares-acquired-by-tidal-investments-llc-2026-09-10/",
-      "published_at": "2026-09-10T10:27:26Z",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "id": "amd-institucionales-posicion",
-      "type": "mercado",
-      "title": "Fondos institucionales siguen apostando por AMD pese a preocupaciones de valuación",
-      "summary": "Varios fondos institucionales aumentaron sus posiciones en Advanced Micro Devices (AMD), llevando la propiedad institucional al 71,34% de la empresa. AMD superó las expectativas trimestrales, aunque analistas advierten sobre su valuación elevada.",
-      "detail": "AMD compite directamente con Nvidia en el segmento de chips para inteligencia artificial, un mercado en plena expansión. Que los fondos institucionales concentren el 71% de las acciones muestra el alto interés profesional en el sector de semiconductores. El concepto de 'valuación elevada' significa que el precio de la acción ya descuenta mucho del crecimiento futuro esperado, lo que puede hacer la acción más vulnerable a caídas si los resultados decepcionan.",
-      "tags": [
-        "semiconductores",
-        "inteligencia artificial",
-        "fondos institucionales"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-miramontes-capital-llc-buys-shares-of-1307-advanced-micro-devices-inc-amd-2026-09-10/",
-      "published_at": "2026-09-10T10:19:23Z",
-      "tickers": [
-        "AMD",
-        "NVDA"
-      ]
-    },
-    {
-      "id": "general-motors-junto-capital",
-      "type": "empresa",
-      "title": "Un fondo de inversión aumentó su posición en General Motors en un 33,9%",
-      "summary": "Junto Capital Management compró 247.302 acciones adicionales de General Motors, llevando su tenencia total a $75,29 millones. GM superó las expectativas con ganancias de $3,57 por acción e ingresos de $48,03 mil millones.",
-      "detail": "Cuando un fondo institucional aumenta su posición en una empresa en casi un 34%, está haciendo una apuesta significativa a que esa acción va a subir. Los movimientos de fondos grandes son seguidos de cerca por el mercado porque suelen basarse en análisis profundo. General Motors es un termómetro de la economía real: sus ventas dependen del consumo, el crédito y la situación económica global, lo que lo convierte en un indicador interesante para quienes aprenden a leer el mercado.",
-      "tags": [
-        "automotriz",
-        "fondos de inversión",
-        "resultados"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-junto-capital-management-lp-increases-stock-position-in-general-motors-company-gm-2026-09-10/",
-      "published_at": "2026-09-10T10:29:16Z",
-      "tickers": [
-        "GM"
-      ]
-    },
-    {
-      "id": "boeing-junto-capital-reduce",
-      "type": "empresa",
-      "title": "Un fondo recortó su posición en Boeing un 37% en medio de señales mixtas",
-      "summary": "Junto Capital Management vendió 117.240 acciones de Boeing, reduciendo su participación en un 37%. La empresa muestra flujo de caja positivo, pero registró una caída en las entregas de aviones en agosto y enfrenta una investigación por un accidente de un avión de carga.",
-      "detail": "Boeing es una empresa emblemática del sector aeroespacial y sus resultados reflejan tanto la salud de la aviación comercial global como los riesgos regulatorios y de reputación. Que un fondo reduzca fuertemente su posición puede interpretarse como una señal de cautela ante los riesgos mencionados. Para quienes aprenden finanzas, este caso muestra cómo los riesgos no financieros —como investigaciones o problemas operativos— pueden afectar la decisión de los inversores incluso cuando los números contables son positivos.",
-      "tags": [
-        "aeroespacial",
-        "riesgo",
-        "fondos institucionales"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-junto-capital-management-lp-cuts-holdings-in-the-boeing-company-ba-2026-09-10/",
-      "published_at": "2026-09-10T10:26:50Z",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "blackstone-dividendo-resultados",
-      "type": "empresa",
-      "title": "Blackstone reportó ganancias sólidas y subió su dividendo trimestral a $1,29",
-      "summary": "Blackstone reportó un EPS de $1,52 e ingresos de $5,04 mil millones en el trimestre, y aumentó su dividendo trimestral a $1,29 por acción. Fondos institucionales poseen el 70% de sus acciones.",
-      "detail": "Blackstone es uno de los fondos de inversión alternativa más grandes del mundo, con presencia en real estate, crédito privado e infraestructura. Que suba su dividendo es una señal de confianza en su generación de caja futura. Para quienes aprenden finanzas, entender qué es un dividendo y por qué las empresas los aumentan —o recortan— es clave: refleja la capacidad de la empresa de distribuir ganancias reales a sus accionistas.",
-      "tags": [
-        "dividendos",
-        "fondos alternativos",
-        "resultados"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-sequoia-financial-advisors-llc-increases-position-in-blackstone-inc-bx-2026-09-10/",
-      "published_at": "2026-09-10T10:19:32Z",
-      "tickers": [
-        "BX"
+        "BAC"
       ]
     }
   ],
@@ -174,39 +192,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.540",
-      "valor_num": 1540.0,
-      "delta_pct": -0.32
+      "valor": "$1.545",
+      "valor_num": 1545.0,
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
-      "valor": "$1.533",
-      "valor_num": 1533.1,
-      "delta_pct": 0.18
+      "valor": "$1.538",
+      "valor_num": 1537.9,
+      "delta_pct": 0.49
     },
     {
       "label": "CCL",
-      "valor": "$1.596",
-      "valor_num": 1596.2,
-      "delta_pct": 0.21
+      "valor": "$1.598",
+      "valor_num": 1598.3,
+      "delta_pct": 0.34
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.864",
-      "valor_num": 77864.0,
-      "delta_pct": -1.85
+      "valor": "US$ 77.116",
+      "valor_num": 77116.0,
+      "delta_pct": -1.29
     },
     {
       "label": "S&P 500",
-      "valor": "7.636",
-      "valor_num": 7636.36,
-      "delta_pct": 0.06
+      "valor": "7.592",
+      "valor_num": 7591.7,
+      "delta_pct": -0.98
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.422",
-      "valor_num": 4421.8,
-      "delta_pct": -0.18
+      "valor": "US$ 4.358",
+      "valor_num": 4358.5,
+      "delta_pct": -1.61
     }
   ]
 }
