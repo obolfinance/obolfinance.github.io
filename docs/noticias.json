@@ -1,185 +1,185 @@
 {
-  "generated_at": "2026-09-10T22:01:26.943050+00:00",
+  "generated_at": "2026-09-11T12:01:20.808202+00:00",
   "items": [
     {
-      "id": "tesla-china-surplus",
-      "type": "mercado",
-      "title": "Tesla cae ante la amenaza de la sobreproducción china",
-      "summary": "Las acciones de Tesla bajaron un 0,6% ante la presión del exceso de producción de autos en China, que exporta el sobrante al mundo y amenaza los precios de Tesla. En el último trimestre, el margen bruto automotriz de Tesla fue del 16,3% y el flujo de caja libre fue negativo en unos 1.100 millones de dólares.",
-      "detail": "Cuando un país produce mucho más de lo que consume internamente, vuelca el excedente en mercados externos a precios bajos, presionando a competidores como Tesla. Esto afecta directamente los márgenes de ganancia: si Tesla tiene que bajar precios para competir, gana menos por auto vendido. Un flujo de caja libre negativo significa que la empresa gasta más de lo que genera, lo cual es una señal que los inversores monitorean de cerca.",
-      "tags": [
-        "autos eléctricos",
-        "competencia China",
-        "márgenes"
-      ],
-      "source_name": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com/news/tesla-slips-china-turns-factory-183712866.html",
-      "published_at": "2026-09-10T19:15:14Z",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "apple-bofa-target",
+      "id": "l3harris-pac3-contrato",
       "type": "empresa",
-      "title": "BofA baja su objetivo de precio para Apple tras el evento de nuevo CEO",
-      "summary": "Bank of America mantuvo su recomendación de compra para Apple pero redujo su precio objetivo de 380 a 370 dólares, luego del primer evento del nuevo CEO John Ternus. Los precios del nuevo iPhone resultaron más bajos de lo esperado, lo que podría impulsar las ventas pero presionar los márgenes por el aumento en el costo de componentes.",
-      "detail": "El precio objetivo es la estimación de un analista sobre cuánto debería valer una acción. Cuando un banco como BofA lo baja, indica que espera menores ganancias futuras, aunque siga siendo optimista en el largo plazo. En el caso de Apple, precios de iPhone más bajos significan mayor volumen de ventas pero menor ganancia por unidad, un equilibrio clave que los inversores analizan constantemente.",
+      "title": "L3Harris ganó un contrato de defensa por u$s 4.700 millones",
+      "summary": "L3Harris se adjudicó un contrato de u$s 4.700 millones para fabricar componentes de misiles interceptores PAC-3 MSE, en el marco del esfuerzo de EE.UU. por aumentar su producción de defensa ante la creciente demanda local y de aliados.",
+      "detail": "Los contratos de defensa de esta magnitud son relevantes porque representan ingresos seguros y de largo plazo para las empresas involucradas, ya que el cliente es el gobierno. Además, reflejan el estado geopolítico global: cuando sube la tensión internacional, el gasto en defensa aumenta y las acciones del sector suelen beneficiarse. Para quien aprende finanzas, es un buen ejemplo de cómo el contexto político impacta directamente en los resultados de empresas cotizadas.",
       "tags": [
-        "Apple",
-        "precio objetivo",
-        "márgenes"
+        "defensa",
+        "contratos",
+        "geopolítica"
       ],
-      "source_name": "Yahoo Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com/news/bofa-tweaks-apple-stock-price-185234629.html",
-      "published_at": "2026-09-10T18:52:00Z",
+      "source_name": "RealClearDefense",
+      "source_url": "https://www.realcleardefense.com/2026/09/11/l3harris_wins_47b_pac-3_mse_contract_1205382.html",
+      "published_at": "2026-09-11T10:50:58Z",
       "tickers": [
-        "AAPL",
-        "BAC"
+        "LHX"
       ]
     },
     {
-      "id": "halliburton-petroleo",
-      "type": "mercado",
-      "title": "Halliburton sube impulsada por el alza del petróleo y su expansión global",
-      "summary": "Las acciones de Halliburton ganaron terreno luego de que el precio del crudo superara los 100 dólares por preocupaciones de oferta en Medio Oriente. La compañía de servicios petroleros también anunció contratos offshore en Surinam y Brasil, reforzando su expansión internacional.",
-      "detail": "Halliburton presta servicios a empresas que extraen petróleo, por lo que cuando el precio del crudo sube, las petroleras invierten más en exploración y producción, y Halliburton se beneficia directamente. El precio del petróleo es un indicador macroeconómico global relevante: cuando supera los 100 dólares, suele generar presión inflacionaria en todo el mundo, incluyendo Argentina que importa derivados.",
-      "tags": [
-        "petróleo",
-        "energía",
-        "materias primas"
-      ],
-      "source_name": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com/us/stocks/energy/halliburton-nysehal-gains-as-oil-shock-meets-global-expansion",
-      "published_at": "2026-09-10T19:49:05Z",
-      "tickers": [
-        "HAL"
-      ]
-    },
-    {
-      "id": "ford-inversion-kentucky",
+      "id": "servicenow-ia-ciberseguridad",
       "type": "empresa",
-      "title": "Ford invertirá 1.000 millones de dólares en una nueva planta en Kentucky",
-      "summary": "Ford anunció que invertirá 1.000 millones de dólares en una nueva planta de pintura en su fábrica de camiones en Louisville, Kentucky, con inicio de obras previsto para antes de fin de año. Este anuncio se suma a una inversión previa de 2.000 millones de dólares en otra planta del estado para su plataforma de vehículos eléctricos.",
-      "detail": "Las grandes inversiones en infraestructura fabril son señales de confianza de una empresa en su negocio a largo plazo. En el caso de Ford, apostar por manufactura local en EE.UU. también responde a presiones políticas y arancelarias. Para quienes aprenden finanzas, este tipo de anuncios muestra cómo las decisiones estratégicas de una empresa impactan en su valoración y en la economía real.",
+      "title": "ServiceNow apuesta fuerte a la IA y compró una firma de ciberseguridad por u$s 7.750 millones",
+      "summary": "ServiceNow adquirió la empresa de ciberseguridad Armis por u$s 7.750 millones para integrar sus capacidades en su plataforma y competir en el mercado de software empresarial impulsado por inteligencia artificial.",
+      "detail": "Las adquisiciones grandes son una señal de hacia dónde cree una empresa que va el mercado. En este caso, ServiceNow está apostando a que la IA y la ciberseguridad van a converger en las empresas, y quiere estar posicionada antes que sus competidores. Para el inversor en formación, es útil entender que una compra así implica deuda o emisión de acciones, lo que puede diluir a los accionistas actuales, pero también puede generar valor si la integración sale bien.",
       "tags": [
-        "Ford",
-        "manufactura",
-        "inversión"
-      ],
-      "source_name": "WCLU Radio",
-      "source_url": "https://www.wcluradio.com/2026/09/10/ford-to-invest-1-b-in-new-paint-shop-at-the-kentucky-truck-plant-in-louisville/",
-      "published_at": "2026-09-10T20:00:27Z",
-      "tickers": [
-        "F"
-      ]
-    },
-    {
-      "id": "microsoft-windows-agentes",
-      "type": "empresa",
-      "title": "Microsoft quiere rediseñar Windows para funcionar con agentes de inteligencia artificial",
-      "summary": "El vicepresidente ejecutivo de Windows en Microsoft anunció que la compañía trabaja para adaptar su sistema operativo a los llamados 'agentic workloads', es decir, tareas ejecutadas por agentes de IA de forma autónoma. El foco está en capacidades de seguridad e identidad, más que en cambios visuales inmediatos.",
-      "detail": "La carrera por integrar IA en los sistemas operativos es clave para entender hacia dónde se dirigen las grandes tecnológicas. Microsoft compite con Apple y Google por ser la plataforma central donde corran estas nuevas aplicaciones de IA, lo que tiene implicancias directas en sus ingresos futuros. Para inversores, apostar a empresas que lideren esta transición tecnológica es una de las tesis de inversión más discutidas hoy.",
-      "tags": [
-        "Microsoft",
         "inteligencia artificial",
-        "tecnología"
+        "ciberseguridad",
+        "fusiones"
       ],
-      "source_name": "GeekWire",
-      "source_url": "https://www.geekwire.com/2026/microsoft-2-5-evp-pavan-davuluri-wants-to-remake-windows-for-both-human-and-agent-users/",
-      "published_at": "2026-09-10T19:18:28Z",
+      "source_name": "CIO",
+      "source_url": "https://www.cio.com/article/4220431/how-ai-and-cybersecurity-are-reshaping-servicenow.html",
+      "published_at": "2026-09-11T10:15:16Z",
       "tickers": [
+        "NOW",
         "MSFT"
       ]
     },
     {
-      "id": "autodesk-refinanciamiento",
-      "type": "empresa",
-      "title": "Autodesk emitió 1.000 millones en bonos para refinanciar deuda",
-      "summary": "Autodesk emitió 1.000 millones de dólares en bonos a tasas del 5,05% y 5,65%, con vencimientos en 2029 y 2033, para reemplazar un préstamo existente del mismo monto. Se trata de una operación de refinanciamiento que busca mejorar las condiciones de su deuda.",
-      "detail": "Refinanciar deuda significa reemplazar una obligación financiera por otra con mejores condiciones, como plazos más largos o tasas más convenientes. Emitir bonos es una forma que tienen las empresas de obtener financiamiento del mercado, comprometiéndose a pagar intereses periódicos. Entender cómo las empresas manejan su deuda es fundamental en finanzas: una estructura de deuda bien gestionada reduce el riesgo financiero.",
-      "tags": [
-        "bonos",
-        "deuda corporativa",
-        "refinanciamiento"
-      ],
-      "source_name": "Stock Titan",
-      "source_url": "https://www.stocktitan.net/sec-filings/ADSK/8-k-autodesk-inc-reports-material-event-0e9e79bc368a.html",
-      "published_at": "2026-09-10T20:10:28Z",
-      "tickers": [
-        "ADSK"
-      ]
-    },
-    {
-      "id": "applied-materials-dividendo",
-      "type": "empresa",
-      "title": "Applied Materials anunció su noveno año consecutivo de aumento de dividendo",
-      "summary": "Applied Materials aprobó un dividendo trimestral de 0,53 dólares por acción, pagadero el 10 de diciembre de 2026. La compañía lleva nueve años consecutivos aumentando su dividendo, con una tasa de crecimiento anual compuesta del 18% en la última década.",
-      "detail": "Un dividendo creciente de forma sostenida es una señal de que la empresa genera flujo de caja estable y confía en sus perspectivas futuras. La tasa de crecimiento anual compuesta del dividendo es una métrica que usan los inversores para evaluar qué tan atractiva es una acción como fuente de ingresos pasivos. Applied Materials fabrica equipos para la industria de semiconductores, un sector estratégico a nivel global.",
-      "tags": [
-        "dividendo",
-        "semiconductores",
-        "retorno al accionista"
-      ],
-      "source_name": "The Manila Times",
-      "source_url": "https://www.manilatimes.net/2026/09/11/tmt-newswire/globenewswire/applied-materials-announces-cash-dividend/2423018",
-      "published_at": "2026-09-10T20:08:56Z",
-      "tickers": [
-        "AMAT"
-      ]
-    },
-    {
-      "id": "prudential-minimo-52-semanas",
+      "id": "ulta-beauty-upgrade-bmo",
       "type": "mercado",
-      "title": "Prudential Financial tocó su mínimo de 52 semanas",
-      "summary": "Las acciones de Prudential Financial cayeron a un mínimo de 52 semanas de 20,11 dólares, acumulando una baja del 19,18% en el último año. La compañía tiene una capitalización de mercado de 40.600 millones de dólares y un ratio precio/ganancia de 11,06.",
-      "detail": "El mínimo de 52 semanas es un indicador técnico que muestra el precio más bajo al que cotizó una acción en el último año; cuando se lo rompe, puede señalar debilidad sostenida o una oportunidad de compra según el enfoque del inversor. El ratio P/E de 11 es relativamente bajo para una aseguradora grande, lo que puede interpretarse como que el mercado tiene expectativas moderadas sobre sus ganancias futuras. Prudential es una de las aseguradoras y gestoras de activos más grandes del mundo.",
+      "title": "Ulta Beauty superó expectativas y recibió una mejora de calificación de analistas",
+      "summary": "BMO Capital Markets mejoró su calificación sobre Ulta Beauty luego de que la empresa reportara ganancias de u$s 6,55 por acción y revenues de u$s 3.040 millones, con un crecimiento interanual del 8,9%, superando las estimaciones del mercado.",
+      "detail": "Cuando una empresa supera las expectativas de analistas, suele recibir mejoras de calificación, lo que puede atraer más compradores y subir el precio de la acción. Este mecanismo es clave en los mercados: el precio no solo refleja la realidad de la empresa, sino también las expectativas previas. Si los resultados son mejores que lo esperado, el mercado reacciona positivamente aunque la empresa ya venga bien.",
       "tags": [
-        "acciones",
-        "mínimos",
-        "seguros"
+        "consumo",
+        "ganancias",
+        "analistas"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/company-news/prudential-financial-stock-hits-52week-low-at-2011-usd-93CH-4896812",
-      "published_at": "2026-09-10T20:49:19Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-ulta-beauty-nasdaq-ulta-stock-rating-upgraded-by-bmo-capital-markets-2026-09-11/",
+      "published_at": "2026-09-11T10:49:06Z",
       "tickers": [
-        "PRU"
+        "ULTA"
       ]
     },
     {
-      "id": "prologis-conferencia-bofa",
-      "type": "reunion",
-      "title": "El CFO de Prologis presentará en la conferencia global de real estate de BofA",
-      "summary": "El director financiero de Prologis, la mayor empresa de logística e inmuebles industriales del mundo, presentará en la conferencia global de real estate de Bank of America el 15 de septiembre de 2026. La presentación será transmitida en vivo por webcast.",
-      "detail": "Las conferencias organizadas por grandes bancos de inversión son eventos donde ejecutivos de empresas cotizan actualizaciones estratégicas frente a analistas e inversores institucionales. Lo que se dice en estas presentaciones puede mover el precio de las acciones, porque los participantes ajustan sus expectativas en base a la información que reciben. Prologis es un referente del sector logístico global, relevante en un contexto de crecimiento del e-commerce.",
+      "id": "royal-caribbean-strong-buy",
+      "type": "mercado",
+      "title": "Royal Caribbean superó estimaciones y TD Cowen la elevó a \"compra fuerte\"",
+      "summary": "La naviera Royal Caribbean reportó ganancias de u$s 4,21 por acción frente a un estimado de u$s 3,98, con ingresos de u$s 4.830 millones, lo que llevó a TD Cowen a mejorar su recomendación a \"strong-buy\".",
+      "detail": "Las empresas de cruceros son un buen termómetro del consumo discrecional: cuando la gente tiene plata y confianza, gasta en viajes. Que una empresa del sector esté superando estimaciones sugiere que el consumidor en EE.UU. sigue activo. Para el inversor en formación, observar cómo los resultados trimestrales mueven las calificaciones de analistas es una forma de entender el ciclo de expectativas del mercado.",
       "tags": [
-        "real estate",
-        "conferencia",
-        "logística"
+        "turismo",
+        "consumo",
+        "ganancias"
       ],
-      "source_name": "Prologis",
-      "source_url": "https://www.prologis.com/insights-news/press-releases/prologis-participate-bofa-securities-2026-global-real-estate",
-      "published_at": "2026-09-10T21:00:05Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-td-cowen-upgrades-royal-caribbean-cruises-nyse-rcl-to-strong-buy-2026-09-11/",
+      "published_at": "2026-09-11T10:37:21Z",
       "tickers": [
-        "PLD"
+        "RCL"
       ]
     },
     {
-      "id": "att-convergencia-bofa",
-      "type": "discurso",
-      "title": "AT&T destacó su estrategia de convergencia fibra-5G en conferencia de BofA",
-      "summary": "Ejecutivos de AT&T presentaron en la conferencia de medios y comunicaciones de Bank of America, destacando el avance de su estrategia que integra banda ancha hogareña con telefonía móvil. La compañía apunta a un crecimiento de doble dígito en ganancias por acción en un plan a tres años.",
-      "detail": "La 'convergencia' en telecomunicaciones consiste en ofrecer servicios de internet fijo y móvil bajo una misma compañía, lo que reduce la rotación de clientes y mejora la rentabilidad. Cuando una empresa anuncia metas de crecimiento de ganancias por acción a varios años, le da al mercado una guía de rentabilidad futura, lo que influye en su valoración. AT&T es uno de los principales operadores de telecomunicaciones de EE.UU. y un ejemplo clásico de empresa con alto dividendo.",
+      "id": "goldman-sachs-dividendo-aumento",
+      "type": "empresa",
+      "title": "Goldman Sachs aumentó su dividendo trimestral a u$s 5,00 por acción",
+      "summary": "The Goldman Sachs Group incrementó su dividendo trimestral y reportó resultados trimestrales superiores a las expectativas de los analistas, según informó Manufacturers Life Insurance al revelar que amplió su posición en el banco.",
+      "detail": "Goldman Sachs es uno de los bancos de inversión más importantes del mundo, y cuando sube su dividendo, es una señal de que la dirección confía en la solidez futura de sus ganancias. Para quien aprende finanzas, el dividendo es una forma en que las empresas devuelven valor a los accionistas, y su aumento sostenido suele leerse como señal de salud financiera. Además, que grandes inversores institucionales aumenten su posición refuerza esa lectura positiva.",
       "tags": [
-        "telecomunicaciones",
-        "estrategia",
-        "crecimiento"
+        "bancos",
+        "dividendos",
+        "Wall Street"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/transcripts/att-at-bank-of-america-conference-convergence-gains-momentum-93CH-4896726",
-      "published_at": "2026-09-10T19:45:14Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-purchases-8024-shares-of-the-goldman-sachs-group-inc-gs-2026-09-11/",
+      "published_at": "2026-09-11T10:02:59Z",
       "tickers": [
-        "BAC"
+        "GS"
+      ]
+    },
+    {
+      "id": "williams-companies-dividendo-alto-payout",
+      "type": "empresa",
+      "title": "Williams Companies pagará dividendo pero su alto ratio de pago preocupa a analistas",
+      "summary": "Williams Companies anunció un dividendo de u$s 0,53 por acción pagadero el 28 de septiembre, aunque su ratio de pago del 90% genera dudas sobre la sostenibilidad del dividendo a largo plazo.",
+      "detail": "El \"payout ratio\" es el porcentaje de las ganancias que una empresa destina a pagar dividendos. Cuando ese número es muy alto, como el 90% de Williams, significa que casi no queda margen si las ganancias bajan un poco: la empresa podría verse forzada a recortar el dividendo. Este concepto es fundamental para evaluar si un dividendo atractivo es realmente sustentable o si es una trampa para inversores desprevenidos.",
+      "tags": [
+        "dividendos",
+        "energía",
+        "riesgo"
+      ],
+      "source_name": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com/news/williams-companies-incs-dividend-analysis-110209954.html",
+      "published_at": "2026-09-11T11:02:19Z",
+      "tickers": [
+        "WMB"
+      ]
+    },
+    {
+      "id": "adp-dividend-king",
+      "type": "empresa",
+      "title": "ADP, el \"rey de los dividendos\": pagará u$s 1,70 por acción con 50 años de historial ininterrumpido",
+      "summary": "Automatic Data Processing anunció un dividendo de u$s 1,70 por acción y mantiene el estatus de \"dividend king\" por haber incrementado su pago cada año desde 1975, con un ratio de pago sostenible del 60%.",
+      "detail": "Un \"dividend king\" es una empresa que aumentó su dividendo durante al menos 50 años consecutivos, lo que implica que atravesó múltiples crisis económicas sin recortarlo. Para alguien aprendiendo finanzas, estos casos son útiles para entender la diferencia entre rendimiento (yield) y solidez: una empresa puede pagar un dividendo alto pero insostenible, mientras que otra como ADP paga menos pero con mucha más previsibilidad.",
+      "tags": [
+        "dividendos",
+        "tecnología",
+        "largo plazo"
+      ],
+      "source_name": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com/news/automatic-data-processing-incs-dividend-110111622.html",
+      "published_at": "2026-09-11T11:02:15Z",
+      "tickers": [
+        "ADP"
+      ]
+    },
+    {
+      "id": "keybanc-ppg-overweight",
+      "type": "mercado",
+      "title": "KeyBanc inició cobertura de PPG Industries con recomendación de compra y objetivo de u$s 133",
+      "summary": "KeyBanc inició cobertura sobre PPG Industries con una calificación \"Overweight\" y precio objetivo de u$s 133, argumentando que la acción está subvaluada y que las ganancias podrían ser significativamente mayores en 2027-2028 por la recuperación de la demanda industrial y del mercado inmobiliario europeo.",
+      "detail": "Cuando un banco de inversión inicia cobertura con una recomendación positiva, suele llamar la atención del mercado sobre una acción que quizás estaba siendo ignorada. El argumento de que una empresa está \"fundamentalmente mal valuada\" implica que el precio actual no refleja el potencial futuro, lo que es la base del análisis de valor (value investing). PPG también lleva 55 años consecutivos aumentando dividendos, otro indicador de solidez.",
+      "tags": [
+        "valuación",
+        "industriales",
+        "analistas"
+      ],
+      "source_name": "Investing.com Canada",
+      "source_url": "https://ca.investing.com/news/stock-market-news/keybanc-initiates-ppg-industries-stock-coverage-at-overweight-93CH-4836179",
+      "published_at": "2026-09-11T10:14:22Z",
+      "tickers": [
+        "PPG"
+      ]
+    },
+    {
+      "id": "albemarle-litio-dividendo",
+      "type": "empresa",
+      "title": "Albemarle, la empresa de litio, mantiene su dividendo pese a la contracción del mercado",
+      "summary": "Albemarle, uno de los mayores productores de litio del mundo, anunció un dividendo de u$s 0,41 por acción y mantiene un bajo ratio de pago del 26%, aunque su crecimiento se frenó por las presiones cíclicas en el mercado del litio.",
+      "detail": "El litio es un insumo clave para las baterías de autos eléctricos, por lo que Albemarle está directamente ligada a la transición energética. Cuando el precio del litio cae por exceso de oferta o menor demanda, los ingresos de la empresa se resienten, como refleja la contracción de ingresos mencionada. Sin embargo, un payout ratio bajo indica que incluso con menores ganancias, la empresa tiene margen para seguir pagando dividendos sin comprometerse financieramente.",
+      "tags": [
+        "litio",
+        "commodities",
+        "dividendos"
+      ],
+      "source_name": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com/news/albemarle-corps-dividend-analysis-110635617.html",
+      "published_at": "2026-09-11T11:07:31Z",
+      "tickers": [
+        "ALB"
+      ]
+    },
+    {
+      "id": "hilton-strong-buy-td-cowen",
+      "type": "mercado",
+      "title": "Hilton Worldwide recibió una mejora a \"compra fuerte\" de TD Cowen con proyecciones optimistas",
+      "summary": "TD Cowen elevó su recomendación sobre Hilton Worldwide a \"strong-buy\" luego de que la cadena hotelera reportara un crecimiento de ingresos del 6,5% interanual y brindara una guía positiva de ganancias para el resto de 2026.",
+      "detail": "Que una empresa hotelera de alta categoría como Hilton esté creciendo y mejorando sus perspectivas es un indicador de la salud del consumo global y el turismo. Para el inversor en formación, la guía futura (\"guidance\") que dan las empresas es tan importante como los resultados pasados: el mercado descuenta expectativas, y una guía optimista suele empujar el precio de la acción hacia arriba incluso si los resultados actuales son moderados.",
+      "tags": [
+        "hotelería",
+        "consumo",
+        "analistas"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-hilton-worldwide-nyse-hlt-upgraded-to-strong-buy-at-td-cowen-2026-09-11/",
+      "published_at": "2026-09-11T10:36:58Z",
+      "tickers": [
+        "HLT"
       ]
     }
   ],
@@ -188,31 +188,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.535",
       "valor_num": 1535.0,
-      "delta_pct": 0.33
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.545",
       "valor_num": 1545.0,
-      "delta_pct": 0.0
+      "delta_pct": 0.32
     },
     {
       "label": "MEP",
       "valor": "$1.538",
       "valor_num": 1537.9,
-      "delta_pct": 0.49
+      "delta_pct": 0.31
     },
     {
       "label": "CCL",
       "valor": "$1.598",
       "valor_num": 1598.3,
-      "delta_pct": 0.34
+      "delta_pct": 0.13
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.116",
-      "valor_num": 77116.0,
-      "delta_pct": -1.29
+      "valor": "US$ 76.990",
+      "valor_num": 76990.0,
+      "delta_pct": -1.1
     },
     {
       "label": "S&P 500",
@@ -222,9 +222,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.358",
-      "valor_num": 4358.5,
-      "delta_pct": -1.61
+      "valor": "US$ 4.376",
+      "valor_num": 4375.6,
+      "delta_pct": -0.42
     }
   ]
 }
