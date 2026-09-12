@@ -1,198 +1,170 @@
 {
-  "generated_at": "2026-09-11T22:01:39.807834+00:00",
+  "generated_at": "2026-09-12T12:01:31.381614+00:00",
   "items": [
     {
-      "id": "adobe-q3-beats-guides-below",
+      "id": "lulu-poor-execution",
       "type": "empresa",
-      "title": "Adobe batió expectativas pero su guía decepcionó al mercado",
-      "summary": "Adobe reportó ingresos récord de u$s6.760 millones en el tercer trimestre, un 13% más que el año anterior, y superó las estimaciones de ganancias. Sin embargo, su guía para el próximo trimestre quedó por debajo de lo que esperaban los analistas, lo que hizo caer la acción en el premarket.",
-      "detail": "Este caso muestra un patrón clásico en los mercados: una empresa puede tener resultados excelentes y aun así caer si el mercado esperaba más. La 'guía' o 'guidance' es la proyección que da la empresa sobre su desempeño futuro, y los inversores suelen reaccionar más a eso que a los números pasados. También es interesante que Adobe destacó el crecimiento de sus ingresos recurrentes vinculados a IA, lo que refleja cómo las empresas de software están pivotando hacia ese segmento.",
+      "title": "Lululemon en caída: ¿oportunidad o trampa?",
+      "summary": "Lululemon viene \"ejecutando muy mal\", según el conocido comentarista financiero Jim Cramer: sus ventas cayeron un 4,3% interanual y recortó su pronóstico para el año fiscal 2026. Algunos inversores contrarian como Michael Burry ven una oportunidad en la baja valuación, pero el consenso de analistas es reducir posición.",
+      "detail": "Este caso muestra cómo una empresa puede tener una marca fuerte pero igual sufrir si no gestiona bien su operación, su producto o su expansión. La caída en las ventas comparables (same-store sales) es una métrica clave en retail: indica si el negocio crece más allá de abrir nuevas tiendas. Que fondos institucionales hayan reducido su participación en el Q2 es una señal de que el dinero 'inteligente' está cauteloso. La tensión entre inversores contrarian (que apuestan a la recuperación) y el consenso bajista ilustra cómo el mercado procesa expectativas opuestas.",
       "tags": [
+        "retail",
+        "acciones",
+        "valuación"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-lululemon-lulu-104632623.html",
+      "published_at": "2026-09-12T10:46:58Z",
+      "tickers": [
+        "LULU"
+      ]
+    },
+    {
+      "id": "western-digital-ai-hdd",
+      "type": "empresa",
+      "title": "Western Digital: la IA dispara la demanda de discos duros más allá de la oferta",
+      "summary": "El CFO de Western Digital afirmó que la demanda de discos de alta capacidad impulsada por la inteligencia artificial y la nube superará la oferta hasta 2027, con un crecimiento anual proyectado de más del 25% en exabytes almacenados.",
+      "detail": "La IA no solo mueve a las empresas de chips o software: también genera una demanda enorme de almacenamiento físico para los centros de datos. Cuando la demanda supera la oferta en un sector, los precios suelen subir y los márgenes de las empresas productoras mejoran. Esto es un ejemplo de cómo una tendencia tecnológica puede tener efectos en industrias que no parecen tan 'glamorosas' a primera vista, como el hardware de almacenamiento. Seguir la cadena de valor de la IA ayuda a entender qué empresas se benefician más allá de las obvias.",
+      "tags": [
+        "inteligencia artificial",
         "tecnología",
+        "almacenamiento"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/western-digital-sees-ai-driven-090156279.html",
+      "published_at": "2026-09-12T09:11:08Z",
+      "tickers": [
+        "WDC",
+        "STX"
+      ]
+    },
+    {
+      "id": "dollar-tree-congresista",
+      "type": "empresa",
+      "title": "Un congresista de EE.UU. vendió acciones de Dollar Tree mientras la empresa brillaba",
+      "summary": "El representante Gilbert Ray Cisneros Jr. vendió entre 15.000 y 50.000 dólares en acciones de Dollar Tree el 19 de agosto de 2026, en un momento en que la empresa publicó resultados muy sólidos: ganó 2,70 dólares por acción contra una expectativa de 1,15, y sus ingresos crecieron un 7% interanual.",
+      "detail": "Las ventas de acciones por parte de legisladores en EE.UU. generan debate porque podrían tener acceso a información privilegiada antes que el mercado, algo que se regula con leyes como el STOCK Act. Cuando un insider (alguien con acceso interno a información) vende justo antes o después de buenos resultados, el mercado lo mira con lupa. Además, el anuncio de un programa de recompra de acciones por 2.500 millones de dólares es una señal positiva: la empresa cree que sus propias acciones están baratas y las compra, lo que suele sostener el precio.",
+      "tags": [
+        "gobierno",
+        "insider",
+        "recompra de acciones"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/congress-dollar-tree-nasdaq-dltr-stock-unloaded-rep-gilbert-ray-cisneros-jr-2026-09-12/",
+      "published_at": "2026-09-12T09:37:27Z",
+      "tickers": [
+        "DLTR"
+      ]
+    },
+    {
+      "id": "mcdonalds-senador-venta",
+      "type": "empresa",
+      "title": "El senador Cory Booker vendió acciones de McDonald's, Netflix y NVIDIA",
+      "summary": "El senador estadounidense Cory Booker vendió entre 15.001 y 50.000 dólares en acciones de McDonald's el 11 de agosto, además de posiciones en Netflix, NVIDIA, Amazon y otras. McDonald's cotizaba cerca de su mínimo de los últimos 12 meses, aunque los analistas mantienen una calificación de compra moderada con un precio objetivo de 320,57 dólares.",
+      "detail": "Las ventas de funcionarios electos en el mercado de capitales son de interés público en EE.UU. porque generan preguntas sobre si actúan con información privilegiada. Para alguien que aprende finanzas, este caso ilustra el concepto de 'insider trading' y cómo los mercados reaccionan a este tipo de noticias. También es interesante ver que un portafolio senatorial incluye acciones de empresas tecnológicas globales como NVIDIA y Amazon, lo que refleja la importancia de estas compañías en el mercado actual.",
+      "tags": [
+        "insider",
+        "política",
+        "acciones"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/congress-sen-cory-a-booker-sells-mcdonalds-corporation-nyse-mcd-shares-2026-09-12/",
+      "published_at": "2026-09-12T09:17:30Z",
+      "tickers": [
+        "MCD",
+        "NFLX",
+        "NVDA",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "bristol-myers-institucional",
+      "type": "empresa",
+      "title": "Gran aseguradora aumenta su posición en Bristol Myers Squibb",
+      "summary": "The Manufacturers Life Insurance Company incrementó su participación en Bristol Myers Squibb un 23,2% en el segundo trimestre, acumulando 2,18 millones de acciones por 125,4 millones de dólares. La farmacéutica reportó ingresos un 5,7% mayores año a año, aunque enfrenta disputas de patentes y competencia de genéricos.",
+      "detail": "Cuando grandes inversores institucionales como aseguradoras o fondos de pensión aumentan posiciones, suele interpretarse como una señal de confianza a largo plazo, ya que estos actores hacen análisis profundos antes de mover sumas importantes. El dilema de Bristol Myers ilustra un riesgo clave del sector farmacéutico: los medicamentos tienen patentes que eventualmente vencen, abriendo la puerta a versiones genéricas más baratas que erosionan los márgenes. Entender este ciclo de patentes es fundamental para analizar acciones del sector salud.",
+      "tags": [
+        "farmacéutica",
+        "institucionales",
+        "patentes"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-bristol-myers-squibb-company-bmy-shares-bought-by-the-manufacturers-life-insurance-company-2026-09-12/",
+      "published_at": "2026-09-12T09:25:05Z",
+      "tickers": [
+        "BMY"
+      ]
+    },
+    {
+      "id": "verizon-dividendo",
+      "type": "empresa",
+      "title": "Verizon sigue siendo favorita por su dividendo, aunque una gran aseguradora recortó posición",
+      "summary": "The Manufacturers Life Insurance Company vendió un 5% de su posición en Verizon en el segundo trimestre, aunque sigue teniendo 3,5 millones de acciones por 148 millones de dólares. La empresa de telecomunicaciones paga un dividendo trimestral de 0,7075 dólares por acción, lo que equivale a un rendimiento anual del 5,6%.",
+      "detail": "Verizon es un ejemplo clásico de acción 'de dividendo': crece poco, pero distribuye pagos periódicos atractivos para inversores que buscan flujo de efectivo estable. Un rendimiento de dividendo del 5,6% es significativo y se compara favorablemente con bonos del Tesoro en muchos escenarios. Que los analistas mantengan una calificación de 'Hold' (mantener) sugiere que el precio ya refleja bastante del valor, sin mucho margen de suba de capital. Este tipo de acción atrae a inversores conservadores o fondos de pensión.",
+      "tags": [
+        "dividendo",
+        "telecomunicaciones",
+        "renta"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-trims-stake-in-verizon-communications-inc-vz-2026-09-12/",
+      "published_at": "2026-09-12T09:29:02Z",
+      "tickers": [
+        "VZ"
+      ]
+    },
+    {
+      "id": "altria-dividendo-tabaco",
+      "type": "empresa",
+      "title": "Altria sube su dividendo y una gran aseguradora aumenta su participación",
+      "summary": "The Manufacturers Life Insurance Company aumentó su tenencia en Altria Group un 29,7% en el segundo trimestre, acumulando 1,38 millones de acciones por 99,2 millones de dólares. Altria subió su dividendo trimestral a 1,11 dólares por acción, ofreciendo un rendimiento anualizado del 6,4%.",
+      "detail": "Altria (tabaco) es otro ejemplo de acción de alto dividendo en un sector maduro con poco crecimiento estructural. Un rendimiento del 6,4% es muy elevado y atrae a inversores de renta, aunque implica que el mercado no espera mucha apreciación del precio. Que los analistas mantengan 'Hold' con un precio objetivo de 70,11 dólares refleja esta lógica: la acción se compra por el flujo de dividendos, no por expectativas de crecimiento. Es un buen caso para entender la diferencia entre invertir por dividendos versus invertir por crecimiento de capital.",
+      "tags": [
+        "dividendo",
+        "tabaco",
+        "renta"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-buys-315892-shares-of-altria-group-inc-mo-2026-09-12/",
+      "published_at": "2026-09-12T09:24:36Z",
+      "tickers": [
+        "MO"
+      ]
+    },
+    {
+      "id": "general-dynamics-defensa",
+      "type": "empresa",
+      "title": "General Dynamics reportó sólidos resultados: más ingresos y dividendo creciente",
+      "summary": "General Dynamics superó las expectativas con una ganancia por acción de 4,24 dólares y un aumento de ingresos del 8,1% interanual, mientras que The Manufacturers Life Insurance Company redujo levemente su posición. Los analistas mantienen una calificación de compra moderada con un precio objetivo de 411,58 dólares.",
+      "detail": "Las empresas del sector defensa como General Dynamics suelen beneficiarse de presupuestos militares estables o crecientes, lo que las hace relativamente resilientes ante ciclos económicos. Un crecimiento de ingresos del 8,1% en una empresa de este tamaño es significativo. La coexistencia de buenos resultados con ventas institucionales moderadas muestra que los inversores pueden reducir exposición para tomar ganancias sin que eso implique una visión negativa sobre la empresa. Esto se llama 'tomar utilidades' y es una práctica normal de gestión de cartera.",
+      "tags": [
+        "defensa",
         "resultados",
-        "IA"
+        "dividendo"
       ],
-      "source_name": "Yahoo Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com/news/adobe-beats-both-lines-guides-211054501.html",
-      "published_at": "2026-09-11T21:10:00Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-sells-6126-shares-of-general-dynamics-corporation-gd-2026-09-12/",
+      "published_at": "2026-09-12T09:21:39Z",
       "tickers": [
-        "ADBE"
+        "GD"
       ]
     },
     {
-      "id": "jpmorgan-situational-awareness-ai-losses",
-      "type": "mercado",
-      "title": "JPMorgan le cortó el crédito a un hedge fund de IA tras grandes pérdidas",
-      "summary": "JPMorgan dejó de prestarle dinero al hedge fund Situational Awareness después de que perdiera fuerte en inversiones vinculadas a acciones de chips de IA. El fondo tuvo que liquidar gran parte de su cartera de acciones a Citadel. Goldman Sachs, Citigroup y Bank of America mantienen su relación con el fondo.",
-      "detail": "Los hedge funds suelen operar con 'apalancamiento', es decir, piden dinero prestado para invertir más de lo que tienen. Cuando las inversiones bajan, las pérdidas se amplifican. En este caso, la caída global de acciones de semiconductores golpeó con fuerza las posiciones apalancadas del fondo. Que un banco como JPMorgan corte el crédito es una señal de riesgo importante: los bancos monitorean constantemente la solvencia de sus clientes institucionales.",
-      "tags": [
-        "hedge funds",
-        "apalancamiento",
-        "IA"
-      ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/legal/transactional/jpmorgan-cut-off-situational-awareness-lending-after-ai-losses-ft-reports-2026-09-11/",
-      "published_at": "2026-09-11T21:08:23Z",
-      "tickers": [
-        "JPM",
-        "GS",
-        "C",
-        "BAC"
-      ]
-    },
-    {
-      "id": "anthropic-ipo-wealth-management",
+      "id": "cvs-salud-crecimiento",
       "type": "empresa",
-      "title": "Los grandes bancos se pelean por manejar la plata de los empleados de Anthropic antes de su IPO",
-      "summary": "Goldman Sachs, Bank of America, JPMorgan, Wells Fargo y BNY Mellon compiten para gestionar el patrimonio de los empleados de Anthropic, la empresa de IA creadora de Claude, que anticipa una salida a bolsa. Los bancos presentaron propuestas sobre servicios de gestión de riqueza y comisiones.",
-      "detail": "Cuando una empresa tecnológica sale a bolsa, sus empleados y fundadores suelen volverse millonarios de un día para el otro al vender sus acciones. Los grandes bancos quieren ser quienes administren esa nueva riqueza. Este fenómeno, similar a lo que ocurrió con otras IPOs tecnológicas históricas, muestra cómo los mercados financieros se preparan con anticipación para eventos grandes. Para alguien que aprende finanzas, es un ejemplo concreto de cómo funciona la industria de wealth management.",
+      "title": "CVS Health creció un 7,3% en ingresos y los institucionales siguen apostando",
+      "summary": "CVS Health reportó ingresos de 106.100 millones de dólares en el segundo trimestre, un 7,3% más que el año anterior, con una ganancia por acción de 2,58 dólares. The Manufacturers Life Insurance Company aumentó su participación un 5,8%, llevando su posición a 133,2 millones de dólares.",
+      "detail": "CVS es una empresa que combina farmacia minorista, seguros de salud y servicios clínicos, lo que la convierte en un caso interesante de diversificación dentro del sector salud. Ingresos superiores a 100.000 millones de dólares la ubican entre las mayores empresas de EE.UU. por facturación. El aumento de participación institucional en un contexto de buenos resultados refuerza la confianza del mercado. Para quien aprende finanzas, CVS ilustra cómo las grandes corporaciones pueden operar en múltiples eslabones de una misma cadena de valor.",
       "tags": [
-        "IPO",
-        "banca",
-        "IA"
+        "salud",
+        "ingresos",
+        "institucionales"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/goldman-sachs-bofa-compete-for-anthropic-employee-wealth-management--bloomberg-93CH-4898448",
-      "published_at": "2026-09-11T20:56:36Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-cvs-health-corporation-cvs-stake-increased-by-the-manufacturers-life-insurance-company-2026-09-12/",
+      "published_at": "2026-09-12T09:21:27Z",
       "tickers": [
-        "BAC",
-        "GS",
-        "JPM",
-        "WFC",
-        "BK"
-      ]
-    },
-    {
-      "id": "kalshi-single-stock-futures",
-      "type": "mercado",
-      "title": "Kalshi quiere lanzar futuros perpetuos sobre acciones de Tesla, Apple y Nvidia en EEUU",
-      "summary": "La plataforma Kalshi planea pedir aprobación regulatoria para ofrecer futuros perpetuos sobre acciones individuales como Tesla, Apple y Nvidia. Si se aprueba, serían los primeros instrumentos de este tipo disponibles en Estados Unidos.",
-      "detail": "Los futuros son contratos que permiten apostar al precio futuro de un activo sin necesidad de comprarlo directamente. Los 'futuros perpetuos' son una variante popular en mercados de criptomonedas que no tienen fecha de vencimiento. Que este tipo de producto llegue a acciones tradicionales amplía las herramientas especulativas disponibles para los inversores minoristas, pero también aumenta el riesgo, ya que permiten operar con apalancamiento. El hecho de que necesiten aprobación de la SEC y la CFTC refleja el peso regulatorio en los mercados financieros de EEUU.",
-      "tags": [
-        "derivados",
-        "regulación",
-        "mercados"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/kalshi-stock-futures-plan-targets-tesla-and-apple-shares--bloomberg-93CH-4898406",
-      "published_at": "2026-09-11T20:31:49Z",
-      "tickers": [
-        "AAPL",
-        "TSLA",
-        "NVDA"
-      ]
-    },
-    {
-      "id": "us-solar-duties-india-indonesia",
-      "type": "economia",
-      "title": "EEUU aplicó aranceles de hasta 173,7% a paneles solares de India, Indonesia y Laos",
-      "summary": "El Departamento de Comercio de EEUU finalizó aranceles antidumping y compensatorios sobre celdas y paneles solares importados de India, Indonesia y Laos. Los aranceles van del 65,43% al 173,7%, bajo el argumento de que esos países subsidiaron sus exportaciones y vendieron por debajo del costo. La determinación final de la Comisión de Comercio Internacional de EEUU se espera para el 14 de octubre.",
-      "detail": "El 'dumping' ocurre cuando un país exporta productos a precios artificialmente bajos, a veces subsidiados por el gobierno, para ganar mercado externo. Para proteger a sus fabricantes locales, EEUU aplica aranceles que encarecen esas importaciones. Esta medida impacta directamente en el costo de la energía solar en EEUU y puede beneficiar a fabricantes locales como First Solar. Para Argentina, es un ejemplo de cómo las disputas comerciales globales moldean los precios de la energía y los incentivos de inversión.",
-      "tags": [
-        "comercio",
-        "energía",
-        "aranceles"
-      ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/us-commerce-department-finalizes-steep-duties-solar-imports-india-indonesia-laos-2026-09-11/",
-      "published_at": "2026-09-11T19:45:00Z",
-      "tickers": [
-        "FSLR"
-      ]
-    },
-    {
-      "id": "novo-nordisk-morgan-stanley-downgrade",
-      "type": "mercado",
-      "title": "Morgan Stanley bajó su recomendación sobre Novo Nordisk por riesgo de vencimiento de patentes",
-      "summary": "Las acciones de Novo Nordisk cayeron más del 2% tras una baja de calificación de Morgan Stanley, que alertó sobre el riesgo de que la patente de semaglutide venza en 2031 y enfrente competencia genérica. El banco estima que ese medicamento representará cerca del 75% de las ventas de Novo en 2026.",
-      "detail": "Cuando la patente de un medicamento vence, otras empresas pueden fabricar versiones genéricas mucho más baratas, lo que derrumba los ingresos del laboratorio original. Este 'patent cliff' o acantilado de patentes es uno de los riesgos más importantes que enfrentan las farmacéuticas. Morgan Stanley también señaló la presión competitiva de Eli Lilly con su Zepbound en el segmento de obesidad. El ejemplo es útil para entender cómo los analistas de bancos de inversión influyen en el precio de las acciones con sus reportes.",
-      "tags": [
-        "farmacéutica",
-        "patentes",
-        "análisis"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-plunges-morgan-153432328.html",
-      "published_at": "2026-09-11T19:14:25Z",
-      "tickers": [
-        "MS",
-        "LLY"
-      ]
-    },
-    {
-      "id": "sp-downgrade-hormel",
-      "type": "economia",
-      "title": "S&P Global le bajó la perspectiva a Hormel Foods por su alto endeudamiento",
-      "summary": "La agencia calificadora S&P Global cambió la perspectiva de Hormel Foods de 'estable' a 'negativa' porque su nivel de deuda en relación a sus ganancias supera consistentemente lo esperado para su calificación. Además, la empresa enfrenta márgenes decrecientes, mayores costos de insumos y caída en ventas orgánicas.",
-      "detail": "Las agencias calificadoras como S&P Global evalúan la capacidad de las empresas para pagar sus deudas y emiten notas que el mercado usa como referencia. Una perspectiva 'negativa' no implica una baja inmediata de calificación, pero advierte que podría ocurrir si la situación no mejora. Para Hormel, el problema es el 'apalancamiento': tiene demasiada deuda respecto a sus ganancias. Este tipo de alertas impactan en el costo al que la empresa puede pedir dinero prestado en el futuro.",
-      "tags": [
-        "calificadoras",
-        "deuda",
-        "empresas"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/sp-global-downgrades-hormel-foods-outlook-on-high-leverage-93CH-4898368",
-      "published_at": "2026-09-11T19:36:01Z",
-      "tickers": [
-        "SPGI",
-        "HRL"
-      ]
-    },
-    {
-      "id": "deere-caterpillar-40-percent-rally",
-      "type": "mercado",
-      "title": "Deere y Caterpillar subieron más del 40% en el año: ¿momento de vender o seguir?",
-      "summary": "Las acciones de Deere y Caterpillar acumulan ganancias de más del 40% en lo que va del año, muy por encima del resto del sector industrial. El artículo analiza si conviene tomar ganancias o mantener las posiciones ante un rally concentrado en pocas empresas.",
-      "detail": "Cuando pocas acciones lideran las subidas de un sector, los inversores se preguntan si el rally tiene fundamentos sólidos o es solo momentum. Tomar ganancias reduce el riesgo, pero puede implicar perderse más subida si la tendencia continúa. Este dilema es central en la gestión de carteras. También ilustra el concepto de 'rotación sectorial': el dinero fluye hacia ciertos sectores dependiendo del contexto económico, como el gasto en infraestructura o defensa.",
-      "tags": [
-        "industria",
-        "ganancias",
-        "estrategia"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/deere-caterpillar-both-over-40-190926613.html",
-      "published_at": "2026-09-11T19:19:05Z",
-      "tickers": [
-        "DE",
-        "CAT",
-        "PCAR"
-      ]
-    },
-    {
-      "id": "amgen-q2-maritide-obesity",
-      "type": "empresa",
-      "title": "Amgen creció 10% en ingresos y apuesta fuerte a su droga contra la obesidad",
-      "summary": "Amgen reportó ingresos por más de u$s10.000 millones en el segundo trimestre, un 10% más que el año anterior, con sus principales productos creciendo un 26%. La empresa destacó el avance de MariTide, su candidato para la obesidad, que mostró una pérdida de peso del 20% en Fase II y avanza a Fase III.",
-      "detail": "El mercado de medicamentos para la obesidad es uno de los más competitivos y de mayor crecimiento en la industria farmacéutica, impulsado por el éxito de drogas como Ozempic de Novo Nordisk y Zepbound de Eli Lilly. Que Amgen ingrese a ese segmento con datos positivos en Fase II es relevante porque podría desafiar a los líderes actuales. Para alguien que aprende finanzas, este caso muestra cómo los ensayos clínicos de nuevos medicamentos pueden mover fuertemente el precio de las acciones de una farmacéutica.",
-      "tags": [
-        "farmacéutica",
-        "obesidad",
-        "resultados"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/healthcare/articles/amgen-highlights-26-growth-drivers-190223530.html",
-      "published_at": "2026-09-11T19:16:47Z",
-      "tickers": [
-        "AMGN",
-        "LLY"
-      ]
-    },
-    {
-      "id": "essex-bofa-real-estate-conference",
-      "type": "reunion",
-      "title": "Essex Property Trust presentará en la conferencia de real estate de Bank of America",
-      "summary": "La CEO de Essex Property Trust, Angela Kleiman, participará en una presentación en la Conferencia Global de Real Estate de Bank of America el 16 de septiembre de 2026. La presentación estará disponible en vivo y en archivo por treinta días en el sitio de inversores de la compañía.",
-      "detail": "Las conferencias de inversores son eventos donde las empresas presentan su estrategia y resultados ante analistas y fondos de inversión. Para quienes aprenden finanzas, seguir estas presentaciones es una manera de entender cómo los directorios comunican su visión al mercado y cómo eso puede afectar el precio de las acciones. Essex es un REIT, un tipo de fondo que invierte en inmuebles y cotiza en bolsa, por lo que sus resultados también reflejan la salud del mercado inmobiliario en la Costa Oeste de EEUU.",
-      "tags": [
-        "REIT",
-        "conferencia",
-        "real estate"
-      ],
-      "source_name": "MarketScreener",
-      "source_url": "https://www.marketscreener.com/news/essex-property-trust-to-present-at-the-bank-of-america-global-real-estate-conference-2026-ce785bdfde8fff24",
-      "published_at": "2026-09-11T20:16:16Z",
-      "tickers": [
-        "ESS"
+        "CVS"
       ]
     }
   ],
@@ -207,25 +179,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.545",
       "valor_num": 1545.0,
-      "delta_pct": 0.32
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.540",
       "valor_num": 1539.9,
-      "delta_pct": 0.44
+      "delta_pct": 0.13
     },
     {
       "label": "CCL",
       "valor": "$1.598",
       "valor_num": 1597.5,
-      "delta_pct": 0.08
+      "delta_pct": -0.05
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.128",
-      "valor_num": 77128.0,
-      "delta_pct": 0.04
+      "valor": "US$ 77.339",
+      "valor_num": 77339.0,
+      "delta_pct": 0.45
     },
     {
       "label": "S&P 500",
@@ -235,9 +207,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.390",
-      "valor_num": 4390.0,
-      "delta_pct": -0.09
+      "valor": "US$ 4.409",
+      "valor_num": 4408.9,
+      "delta_pct": 0.34
     }
   ]
 }
