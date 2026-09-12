@@ -1,170 +1,170 @@
 {
-  "generated_at": "2026-09-12T12:01:31.381614+00:00",
+  "generated_at": "2026-09-12T22:01:20.717626+00:00",
   "items": [
     {
-      "id": "lulu-poor-execution",
+      "id": "tesla-roadster-oct2026",
       "type": "empresa",
-      "title": "Lululemon en caída: ¿oportunidad o trampa?",
-      "summary": "Lululemon viene \"ejecutando muy mal\", según el conocido comentarista financiero Jim Cramer: sus ventas cayeron un 4,3% interanual y recortó su pronóstico para el año fiscal 2026. Algunos inversores contrarian como Michael Burry ven una oportunidad en la baja valuación, pero el consenso de analistas es reducir posición.",
-      "detail": "Este caso muestra cómo una empresa puede tener una marca fuerte pero igual sufrir si no gestiona bien su operación, su producto o su expansión. La caída en las ventas comparables (same-store sales) es una métrica clave en retail: indica si el negocio crece más allá de abrir nuevas tiendas. Que fondos institucionales hayan reducido su participación en el Q2 es una señal de que el dinero 'inteligente' está cauteloso. La tensión entre inversores contrarian (que apuestan a la recuperación) y el consenso bajista ilustra cómo el mercado procesa expectativas opuestas.",
+      "title": "Tesla anuncia el lanzamiento del Roadster para el 1° de octubre",
+      "summary": "Tesla publicó en redes sociales un mensaje que apunta al 1° de octubre como fecha de lanzamiento de su Roadster, el auto que prometió entregar en 2020 y viene retrasando desde entonces. Según los reportes, el evento podría incluir una versión limitada con propulsores de gas frío desarrollados junto a SpaceX.",
+      "detail": "Los retrasos reiterados de un producto muy esperado pueden erosionar la confianza de los inversores en la capacidad de ejecución de una empresa. Cuando Tesla finalmente concreta un anuncio así, el mercado suele reaccionar positivamente en el corto plazo. Este caso también ilustra cómo las noticias de producto —no solo los balances— mueven las cotizaciones de empresas tech con fuerte componente aspiracional.",
       "tags": [
-        "retail",
-        "acciones",
-        "valuación"
+        "Tesla",
+        "lanzamiento",
+        "autos eléctricos"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-notes-lululemon-lulu-104632623.html",
-      "published_at": "2026-09-12T10:46:58Z",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/autos-transportation/tesla-signals-oct-1-launch-long-delayed-roadster-2026-09-12/",
+      "published_at": "2026-09-12T20:18:40Z",
       "tickers": [
-        "LULU"
+        "TSLA"
       ]
     },
     {
-      "id": "western-digital-ai-hdd",
+      "id": "jnj-apollo-depuy-20b",
       "type": "empresa",
-      "title": "Western Digital: la IA dispara la demanda de discos duros más allá de la oferta",
-      "summary": "El CFO de Western Digital afirmó que la demanda de discos de alta capacidad impulsada por la inteligencia artificial y la nube superará la oferta hasta 2027, con un crecimiento anual proyectado de más del 25% en exabytes almacenados.",
-      "detail": "La IA no solo mueve a las empresas de chips o software: también genera una demanda enorme de almacenamiento físico para los centros de datos. Cuando la demanda supera la oferta en un sector, los precios suelen subir y los márgenes de las empresas productoras mejoran. Esto es un ejemplo de cómo una tendencia tecnológica puede tener efectos en industrias que no parecen tan 'glamorosas' a primera vista, como el hardware de almacenamiento. Seguir la cadena de valor de la IA ayuda a entender qué empresas se benefician más allá de las obvias.",
+      "title": "Johnson & Johnson negocia vender su negocio de prótesis de cadera y rodilla a Apollo por u$s 20.000 millones",
+      "summary": "J&J estaría en conversaciones para desprenderse de su división de ortopedia DePuy Synthes, dedicada a caderas y rodillas, vendiéndosela al fondo de private equity Apollo Global Management por unos u$s 20.000 millones. La operación todavía no está cerrada y podrían aparecer otros interesados.",
+      "detail": "Cuando una empresa grande vende una división, suele hacerlo para concentrar recursos en áreas de mayor crecimiento o rentabilidad. En este caso, J&J quiere enfocarse en negocios más dinámicos dentro de la salud. Para Apollo, comprar activos estables como una división de implantes ortopédicos es una estrategia típica del private equity: adquirir, optimizar y eventualmente revender o listar en bolsa. Seguir estas operaciones ayuda a entender cómo se mueve el capital entre sectores.",
+      "tags": [
+        "fusiones",
+        "salud",
+        "private equity"
+      ],
+      "source_name": "WSJ",
+      "source_url": "https://www.wsj.com/business/deals/j-j-is-in-talks-to-sell-its-hips-and-knees-business-to-apollo-for-20-billion-3018cc4e",
+      "published_at": "2026-09-12T19:25:54Z",
+      "tickers": [
+        "JNJ",
+        "APO"
+      ]
+    },
+    {
+      "id": "nvidia-digitalrealty-ai-grid",
+      "type": "economia",
+      "title": "El proyecto de fábrica de IA de Nvidia y Digital Realty enfrenta problemas de financiamiento eléctrico",
+      "summary": "La iniciativa conjunta de Nvidia y Digital Realty para construir una instalación de inteligencia artificial de casi 100 megavatios en Virginia chocó con restricciones de la red eléctrica que retrasaron su lanzamiento para más adelante en 2026. El problema central no es falta de dinero sino la dificultad de operar infraestructura de IA dentro de los límites de la red eléctrica.",
+      "detail": "La IA requiere enormes cantidades de energía, y la capacidad de la red eléctrica se está convirtiendo en un cuello de botella real para escalar estos proyectos. Esto significa que no alcanza con tener el capital o los chips: la infraestructura física limita el crecimiento. Para inversores, entender estos cuellos de botella ayuda a identificar qué sectores —como energía o construcción de centros de datos— podrían beneficiarse indirectamente del boom de la IA.",
       "tags": [
         "inteligencia artificial",
-        "tecnología",
-        "almacenamiento"
+        "infraestructura",
+        "energía"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/technology/ai/articles/western-digital-sees-ai-driven-090156279.html",
-      "published_at": "2026-09-12T09:11:08Z",
+      "source_name": "BigGo Finance",
+      "source_url": "https://finance.biggo.com/news/f75bdebc-1460-439d-9ecf-00a251920dc7",
+      "published_at": "2026-09-12T18:20:07Z",
       "tickers": [
-        "WDC",
-        "STX"
+        "NVDA",
+        "DLR"
       ]
     },
     {
-      "id": "dollar-tree-congresista",
+      "id": "kimberly-clark-kenvue-dividendo",
       "type": "empresa",
-      "title": "Un congresista de EE.UU. vendió acciones de Dollar Tree mientras la empresa brillaba",
-      "summary": "El representante Gilbert Ray Cisneros Jr. vendió entre 15.000 y 50.000 dólares en acciones de Dollar Tree el 19 de agosto de 2026, en un momento en que la empresa publicó resultados muy sólidos: ganó 2,70 dólares por acción contra una expectativa de 1,15, y sus ingresos crecieron un 7% interanual.",
-      "detail": "Las ventas de acciones por parte de legisladores en EE.UU. generan debate porque podrían tener acceso a información privilegiada antes que el mercado, algo que se regula con leyes como el STOCK Act. Cuando un insider (alguien con acceso interno a información) vende justo antes o después de buenos resultados, el mercado lo mira con lupa. Además, el anuncio de un programa de recompra de acciones por 2.500 millones de dólares es una señal positiva: la empresa cree que sus propias acciones están baratas y las compra, lo que suele sostener el precio.",
+      "title": "Kimberly-Clark pone en riesgo su racha de 54 años de dividendos crecientes con la compra de Kenvue por u$s 48.700 millones",
+      "summary": "Kimberly-Clark extendió su historial de aumentar dividendos por 54 años consecutivos, pero la adquisición de Kenvue por casi u$s 49.000 millones genera dudas sobre si podrá sostenerlo. El flujo de caja operativo apenas cubre el dividendo actual y los gastos de capital, y las acciones cayeron un 20% en el último año, llevando el rendimiento del dividendo al 5%.",
+      "detail": "Una empresa que lleva décadas aumentando dividendos se convierte en referencia para inversores que buscan ingresos estables. Cuando esa racha se pone en duda por una adquisición grande financiada con deuda, el mercado suele castigar la acción. Este caso enseña a analizar si un dividendo es sostenible mirando el flujo de caja, no solo el historial pasado: un rendimiento muy alto puede ser señal de riesgo y no de oportunidad.",
       "tags": [
-        "gobierno",
-        "insider",
-        "recompra de acciones"
+        "dividendos",
+        "fusiones",
+        "consumo"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/congress-dollar-tree-nasdaq-dltr-stock-unloaded-rep-gilbert-ray-cisneros-jr-2026-09-12/",
-      "published_at": "2026-09-12T09:37:27Z",
+      "source_name": "24/7 Wall St.",
+      "source_url": "https://247wallst.com/investing/2026/09/12/kimberly-clarks-54-year-dividend-streak-faces-its-biggest-test-yet-with-48-7-billion-kenvue-deal/",
+      "published_at": "2026-09-12T17:49:43Z",
       "tickers": [
+        "KMB",
+        "KVUE"
+      ]
+    },
+    {
+      "id": "21shares-crypto-etf-custodios",
+      "type": "mercado",
+      "title": "Los ETFs de cripto de 21Shares suman custodios para reducir riesgos",
+      "summary": "La gestora 21Shares incorporó a Anchorage Digital Bank y BitGo como custodios adicionales de sus ETFs de Bitcoin y Ethereum al contado, que antes dependían solo de Coinbase. La medida busca evitar puntos únicos de falla y responde a una mayor exigencia de la SEC sobre cómo se custodian los activos de los clientes.",
+      "detail": "En el mundo cripto institucional, la custodia segura de activos es tan importante como la inversión en sí. Diversificar custodios reduce el riesgo operativo: si uno falla o tiene problemas regulatorios, los activos no quedan atrapados. Este movimiento también refleja cómo el ecosistema cripto se está profesionalizando para cumplir estándares regulatorios similares a los de la finanza tradicional, algo clave para la adopción masiva.",
+      "tags": [
+        "cripto",
+        "ETF",
+        "regulación"
+      ],
+      "source_name": "TradingView",
+      "source_url": "https://fr.tradingview.com/news/cointelegraph:46ca831f7094b:0-anchorage-digital-bank-bitgo-join-coinbase-to-custody-21shares-crypto-etfs/",
+      "published_at": "2026-09-12T17:40:04Z",
+      "tickers": [
+        "COIN"
+      ]
+    },
+    {
+      "id": "oracle-ellison-cancela-venta",
+      "type": "empresa",
+      "title": "Larry Ellison cancela su plan de venta de acciones de Oracle",
+      "summary": "El fundador y presidente ejecutivo de Oracle, Larry Ellison, canceló el plan formal que tenía para vender acciones de la empresa y aclaró que por ahora no tiene intención de vender ninguna de sus tenencias. No se llegó a ejecutar ninguna venta bajo ese plan.",
+      "detail": "Cuando un ejecutivo o fundador cancela un plan de venta de acciones, el mercado suele interpretarlo como una señal positiva: quien mejor conoce la empresa decide quedarse con sus papeles. Esto contrasta con otro artículo que mencionaba que Ellison planeaba vender u$s 7.500 millones en acciones, lo que generaba incertidumbre. Seguir los movimientos de insiders —compras y ventas de ejecutivos— es una herramienta que usan los inversores para inferir la confianza interna en el negocio.",
+      "tags": [
+        "Oracle",
+        "insiders",
+        "tecnología"
+      ],
+      "source_name": "Oracle - Investor Relations",
+      "source_url": "https://investor.oracle.com/investor-news/news-details/2026/Larry-Ellison-Cancels-His-Plan-to-Sell-Oracle-Stock/default.aspx",
+      "published_at": "2026-09-12T16:09:42Z",
+      "tickers": [
+        "ORCL"
+      ]
+    },
+    {
+      "id": "kkr-prestamo-2100m-integer",
+      "type": "mercado",
+      "title": "KKR consiguió un préstamo de u$s 2.100 millones para comprar Integer Holdings",
+      "summary": "El fondo de inversión KKR aseguró un financiamiento de u$s 2.100 millones para llevar adelante la adquisición de Integer Holdings, con condiciones favorables en un mercado de deuda muy activo. Los bancos esperan colocar más de u$s 100.000 millones en deuda para fusiones y adquisiciones en los próximos meses.",
+      "detail": "Las adquisiciones apalancadas —conocidas como LBOs— son operaciones donde un fondo como KKR compra una empresa usando principalmente deuda. Que los inversores estén dispuestos a prestar a tasas competitivas refleja un mercado de crédito sólido y apetito por riesgo. Para alguien que aprende finanzas, este tipo de operaciones muestra cómo el nivel de las tasas de interés y el humor del mercado crediticio influyen directamente en cuántas fusiones y adquisiciones ocurren.",
+      "tags": [
+        "private equity",
+        "deuda",
+        "fusiones"
+      ],
+      "source_name": "Briefs Finance",
+      "source_url": "https://www.briefs.co/news/kkr-locks-in-2-1-billion-loan-as-buyout-debt-heats-up/",
+      "published_at": "2026-09-12T16:21:21Z",
+      "tickers": [
+        "KKR"
+      ]
+    },
+    {
+      "id": "dollar-general-vs-dollar-tree-q2",
+      "type": "empresa",
+      "title": "Dollar General superó a Dollar Tree en el trimestre: una mirada a los resultados",
+      "summary": "Ambas cadenas de descuento reportaron resultados del segundo trimestre mejores de lo esperado, pero el mercado reaccionó de manera opuesta: Dollar General subió y Dollar Tree cayó. La diferencia estuvo en que la ganancia de Dollar Tree se explicó en parte por un reembolso extraordinario de aranceles, y además su guía para el próximo trimestre decepcionó.",
+      "detail": "Este caso ilustra un concepto clave en inversiones: la calidad de las ganancias importa tanto como el número final. Una utilidad impulsada por un hecho puntual —como un reembolso de aranceles— no dice mucho sobre la capacidad real del negocio para generar dinero en el futuro. El mercado premia la consistencia y penaliza cuando las perspectivas futuras son más débiles, aunque los resultados pasados parezcan buenos.",
+      "tags": [
+        "retail",
+        "resultados",
+        "consumo"
+      ],
+      "source_name": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com/news/tale-two-dollars-why-dollar-170915358.html",
+      "published_at": "2026-09-12T17:09:46Z",
+      "tickers": [
+        "DG",
         "DLTR"
       ]
     },
     {
-      "id": "mcdonalds-senador-venta",
+      "id": "meta-demanda-cripto-ads",
       "type": "empresa",
-      "title": "El senador Cory Booker vendió acciones de McDonald's, Netflix y NVIDIA",
-      "summary": "El senador estadounidense Cory Booker vendió entre 15.001 y 50.000 dólares en acciones de McDonald's el 11 de agosto, además de posiciones en Netflix, NVIDIA, Amazon y otras. McDonald's cotizaba cerca de su mínimo de los últimos 12 meses, aunque los analistas mantienen una calificación de compra moderada con un precio objetivo de 320,57 dólares.",
-      "detail": "Las ventas de funcionarios electos en el mercado de capitales son de interés público en EE.UU. porque generan preguntas sobre si actúan con información privilegiada. Para alguien que aprende finanzas, este caso ilustra el concepto de 'insider trading' y cómo los mercados reaccionan a este tipo de noticias. También es interesante ver que un portafolio senatorial incluye acciones de empresas tecnológicas globales como NVIDIA y Amazon, lo que refleja la importancia de estas compañías en el mercado actual.",
+      "title": "Demandan a Meta por lucrar con publicidades de cripto fraudulentas",
+      "summary": "Se presentó una demanda colectiva contra Meta e Instagram alegando que la empresa sabe que hay anuncios de criptomonedas estafadores en sus plataformas, no los elimina y usa IA para hacerlos más efectivos. La demanda busca representar a usuarios de todo Estados Unidos que perdieron dinero por esas estafas.",
+      "detail": "Las demandas colectivas contra empresas tecnológicas pueden tener impacto en su cotización si representan un riesgo legal y reputacional importante. Este caso además toca dos temas centrales para entender el mundo financiero actual: la responsabilidad de las plataformas sobre los contenidos que monetizan, y la proliferación de estafas en el ecosistema cripto que dañan a inversores minoristas. Es un ejemplo de cómo el marco regulatorio y legal puede afectar a las big tech.",
       "tags": [
-        "insider",
-        "política",
-        "acciones"
+        "Meta",
+        "cripto",
+        "regulación"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/congress-sen-cory-a-booker-sells-mcdonalds-corporation-nyse-mcd-shares-2026-09-12/",
-      "published_at": "2026-09-12T09:17:30Z",
+      "source_name": "Top Class Actions",
+      "source_url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-accused-in-class-action-of-profiting-from-scam-cryptocurrency-ads/",
+      "published_at": "2026-09-12T15:04:41Z",
       "tickers": [
-        "MCD",
-        "NFLX",
-        "NVDA",
-        "AMZN"
-      ]
-    },
-    {
-      "id": "bristol-myers-institucional",
-      "type": "empresa",
-      "title": "Gran aseguradora aumenta su posición en Bristol Myers Squibb",
-      "summary": "The Manufacturers Life Insurance Company incrementó su participación en Bristol Myers Squibb un 23,2% en el segundo trimestre, acumulando 2,18 millones de acciones por 125,4 millones de dólares. La farmacéutica reportó ingresos un 5,7% mayores año a año, aunque enfrenta disputas de patentes y competencia de genéricos.",
-      "detail": "Cuando grandes inversores institucionales como aseguradoras o fondos de pensión aumentan posiciones, suele interpretarse como una señal de confianza a largo plazo, ya que estos actores hacen análisis profundos antes de mover sumas importantes. El dilema de Bristol Myers ilustra un riesgo clave del sector farmacéutico: los medicamentos tienen patentes que eventualmente vencen, abriendo la puerta a versiones genéricas más baratas que erosionan los márgenes. Entender este ciclo de patentes es fundamental para analizar acciones del sector salud.",
-      "tags": [
-        "farmacéutica",
-        "institucionales",
-        "patentes"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-bristol-myers-squibb-company-bmy-shares-bought-by-the-manufacturers-life-insurance-company-2026-09-12/",
-      "published_at": "2026-09-12T09:25:05Z",
-      "tickers": [
-        "BMY"
-      ]
-    },
-    {
-      "id": "verizon-dividendo",
-      "type": "empresa",
-      "title": "Verizon sigue siendo favorita por su dividendo, aunque una gran aseguradora recortó posición",
-      "summary": "The Manufacturers Life Insurance Company vendió un 5% de su posición en Verizon en el segundo trimestre, aunque sigue teniendo 3,5 millones de acciones por 148 millones de dólares. La empresa de telecomunicaciones paga un dividendo trimestral de 0,7075 dólares por acción, lo que equivale a un rendimiento anual del 5,6%.",
-      "detail": "Verizon es un ejemplo clásico de acción 'de dividendo': crece poco, pero distribuye pagos periódicos atractivos para inversores que buscan flujo de efectivo estable. Un rendimiento de dividendo del 5,6% es significativo y se compara favorablemente con bonos del Tesoro en muchos escenarios. Que los analistas mantengan una calificación de 'Hold' (mantener) sugiere que el precio ya refleja bastante del valor, sin mucho margen de suba de capital. Este tipo de acción atrae a inversores conservadores o fondos de pensión.",
-      "tags": [
-        "dividendo",
-        "telecomunicaciones",
-        "renta"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-trims-stake-in-verizon-communications-inc-vz-2026-09-12/",
-      "published_at": "2026-09-12T09:29:02Z",
-      "tickers": [
-        "VZ"
-      ]
-    },
-    {
-      "id": "altria-dividendo-tabaco",
-      "type": "empresa",
-      "title": "Altria sube su dividendo y una gran aseguradora aumenta su participación",
-      "summary": "The Manufacturers Life Insurance Company aumentó su tenencia en Altria Group un 29,7% en el segundo trimestre, acumulando 1,38 millones de acciones por 99,2 millones de dólares. Altria subió su dividendo trimestral a 1,11 dólares por acción, ofreciendo un rendimiento anualizado del 6,4%.",
-      "detail": "Altria (tabaco) es otro ejemplo de acción de alto dividendo en un sector maduro con poco crecimiento estructural. Un rendimiento del 6,4% es muy elevado y atrae a inversores de renta, aunque implica que el mercado no espera mucha apreciación del precio. Que los analistas mantengan 'Hold' con un precio objetivo de 70,11 dólares refleja esta lógica: la acción se compra por el flujo de dividendos, no por expectativas de crecimiento. Es un buen caso para entender la diferencia entre invertir por dividendos versus invertir por crecimiento de capital.",
-      "tags": [
-        "dividendo",
-        "tabaco",
-        "renta"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-buys-315892-shares-of-altria-group-inc-mo-2026-09-12/",
-      "published_at": "2026-09-12T09:24:36Z",
-      "tickers": [
-        "MO"
-      ]
-    },
-    {
-      "id": "general-dynamics-defensa",
-      "type": "empresa",
-      "title": "General Dynamics reportó sólidos resultados: más ingresos y dividendo creciente",
-      "summary": "General Dynamics superó las expectativas con una ganancia por acción de 4,24 dólares y un aumento de ingresos del 8,1% interanual, mientras que The Manufacturers Life Insurance Company redujo levemente su posición. Los analistas mantienen una calificación de compra moderada con un precio objetivo de 411,58 dólares.",
-      "detail": "Las empresas del sector defensa como General Dynamics suelen beneficiarse de presupuestos militares estables o crecientes, lo que las hace relativamente resilientes ante ciclos económicos. Un crecimiento de ingresos del 8,1% en una empresa de este tamaño es significativo. La coexistencia de buenos resultados con ventas institucionales moderadas muestra que los inversores pueden reducir exposición para tomar ganancias sin que eso implique una visión negativa sobre la empresa. Esto se llama 'tomar utilidades' y es una práctica normal de gestión de cartera.",
-      "tags": [
-        "defensa",
-        "resultados",
-        "dividendo"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-sells-6126-shares-of-general-dynamics-corporation-gd-2026-09-12/",
-      "published_at": "2026-09-12T09:21:39Z",
-      "tickers": [
-        "GD"
-      ]
-    },
-    {
-      "id": "cvs-salud-crecimiento",
-      "type": "empresa",
-      "title": "CVS Health creció un 7,3% en ingresos y los institucionales siguen apostando",
-      "summary": "CVS Health reportó ingresos de 106.100 millones de dólares en el segundo trimestre, un 7,3% más que el año anterior, con una ganancia por acción de 2,58 dólares. The Manufacturers Life Insurance Company aumentó su participación un 5,8%, llevando su posición a 133,2 millones de dólares.",
-      "detail": "CVS es una empresa que combina farmacia minorista, seguros de salud y servicios clínicos, lo que la convierte en un caso interesante de diversificación dentro del sector salud. Ingresos superiores a 100.000 millones de dólares la ubican entre las mayores empresas de EE.UU. por facturación. El aumento de participación institucional en un contexto de buenos resultados refuerza la confianza del mercado. Para quien aprende finanzas, CVS ilustra cómo las grandes corporaciones pueden operar en múltiples eslabones de una misma cadena de valor.",
-      "tags": [
-        "salud",
-        "ingresos",
-        "institucionales"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-cvs-health-corporation-cvs-stake-increased-by-the-manufacturers-life-insurance-company-2026-09-12/",
-      "published_at": "2026-09-12T09:21:27Z",
-      "tickers": [
-        "CVS"
+        "META"
       ]
     }
   ],
@@ -195,9 +195,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.339",
-      "valor_num": 77339.0,
-      "delta_pct": 0.45
+      "valor": "US$ 77.229",
+      "valor_num": 77229.0,
+      "delta_pct": 0.19
     },
     {
       "label": "S&P 500",
