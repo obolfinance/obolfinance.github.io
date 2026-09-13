@@ -2,8 +2,8 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://obolfinance.app.n8n.cloud https://fhdkferjbwecrkolluab.supabase.co https://dolarapi.com https://api.argentinadatos.com https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; object-src 'none'; base-uri 'self'; form-action 'self';">
-<script>if (top !== self) { top.location = self.location; }</script>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://challenges.cloudflare.com https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.112.2; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://obolfinance.app.n8n.cloud https://fhdkferjbwecrkolluab.supabase.co https://dolarapi.com https://api.argentinadatos.com https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; object-src 'none'; base-uri 'self'; form-action 'self';">
+<script src="assets/js/marco.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qué enseña Obol — Las 17 secciones y los juegos de la app</title>
 <meta name="description" content="Todo lo que podés aprender en Obol: 17 secciones organizadas en 4 mundos, más los juegos que tiene la app, de lo más básico a lo más avanzado.">
@@ -245,8 +245,8 @@
   <!-- Tab switch -->
   <div style="max-width:1180px;margin:-34px auto 0;padding:0 40px;position:relative;z-index:5;display:flex;justify-content:center;">
     <div style="display:inline-flex;gap:6px;background:#fff;padding:7px;border-radius:999px;box-shadow:0 18px 40px -20px rgba(15,20,45,.5);border:1px solid #e6ebf4;">
-      <button id="seg-secciones" onclick="showTab('secciones')" class="obol-seg obol-seg-on" style="border:none;cursor:pointer;font-family:'Fredoka',sans-serif;font-weight:600;font-size:15px;padding:11px 30px;border-radius:999px;color:#16213e;background:transparent;">Secciones</button>
-      <button id="seg-juegos" onclick="showTab('juegos')" class="obol-seg" style="border:none;cursor:pointer;font-family:'Fredoka',sans-serif;font-weight:600;font-size:15px;padding:11px 30px;border-radius:999px;color:#16213e;background:transparent;">Juegos</button>
+      <button id="seg-secciones" data-tab="secciones" class="obol-seg obol-seg-on" style="border:none;cursor:pointer;font-family:'Fredoka',sans-serif;font-weight:600;font-size:15px;padding:11px 30px;border-radius:999px;color:#16213e;background:transparent;">Secciones</button>
+      <button id="seg-juegos" data-tab="juegos" class="obol-seg" style="border:none;cursor:pointer;font-family:'Fredoka',sans-serif;font-weight:600;font-size:15px;padding:11px 30px;border-radius:999px;color:#16213e;background:transparent;">Juegos</button>
     </div>
   </div>
 
@@ -849,20 +849,7 @@
 
 </div>
 
-<script>
-function showTab(tab) {
-  var secciones = document.getElementById('tab-secciones');
-  var juegos = document.getElementById('tab-juegos');
-  var segS = document.getElementById('seg-secciones');
-  var segJ = document.getElementById('seg-juegos');
-  var active = tab === 'secciones';
-  secciones.style.display = active ? 'block' : 'none';
-  juegos.style.display = active ? 'none' : 'block';
-  segS.classList.toggle('obol-seg-on', active);
-  segJ.classList.toggle('obol-seg-on', !active);
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-}
-</script>
+<script src="assets/js/aprende.js"></script>
 
 </body>
 </html>

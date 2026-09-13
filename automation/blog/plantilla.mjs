@@ -12,6 +12,16 @@ export const SITIO = 'https://obolfinance.com.ar';
 const MESES = ['ene', 'feb', 'mar', 'abr', 'may', 'jun', 'jul', 'ago', 'sep', 'oct', 'nov', 'dic'];
 
 /** Escapa para meter texto dentro de un atributo HTML. */
+// Para meter texto dentro del bloque de datos JSON-LD. JSON.stringify no
+// escapa "<", asi que una etiqueta de cierre de script en un titulo que
+// escribio el modelo cerraria el bloque y lo que sigue se leeria como HTML.
+// Escrito como secuencia unicode sigue siendo el mismo JSON para quien lo
+// lea, pero el navegador ya no ve una etiqueta.
+const BARRA = String.fromCharCode(92);
+function ld(valor) {
+  return JSON.stringify(valor).split('<').join(BARRA + 'u003c').split('>').join(BARRA + 'u003e');
+}
+
 export function esc(s) {
   return String(s ?? '')
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
@@ -128,8 +138,8 @@ ${parrafos}${bloque(s.bloque, m)}`;
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://obolfinance.app.n8n.cloud https://fhdkferjbwecrkolluab.supabase.co https://dolarapi.com https://api.argentinadatos.com https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; object-src 'none'; base-uri 'self'; form-action 'self';">
-<script>if (top !== self) { top.location = self.location; }</script>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://challenges.cloudflare.com https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.112.2; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://obolfinance.app.n8n.cloud https://fhdkferjbwecrkolluab.supabase.co https://dolarapi.com https://api.argentinadatos.com https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; object-src 'none'; base-uri 'self'; form-action 'self';">
+<script src="../../assets/js/marco.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(nota.titulo)} — Obol Blog</title>
 <meta name="description" content="${esc(nota.metaDescripcion)}">
@@ -162,18 +172,18 @@ ${parrafos}${bloque(s.bloque, m)}`;
   "@graph": [
     {
       "@type": "BlogPosting",
-      "headline": ${JSON.stringify(nota.titulo)},
-      "description": ${JSON.stringify(nota.ogDescripcion)},
+      "headline": ${ld(nota.titulo)},
+      "description": ${ld(nota.ogDescripcion)},
       "url": "${url}",
       "mainEntityOfPage": "${url}",
       "image": "${og}",
       "datePublished": "${publicado}",
       "dateModified": "${publicado}",
-      "articleSection": ${JSON.stringify(m.categoria)},
+      "articleSection": ${ld(m.categoria)},
       "wordCount": ${palabras},
       "timeRequired": "PT${nota.minutos}M",
       "inLanguage": "es-AR",
-      "author": { "@type": "Person", "name": ${JSON.stringify(m.autor)} },
+      "author": { "@type": "Person", "name": ${ld(m.autor)} },
       "publisher": { "@id": "${SITIO}/#organizacion" },
       "isAccessibleForFree": true
     },
@@ -182,7 +192,7 @@ ${parrafos}${bloque(s.bloque, m)}`;
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "Obol", "item": "${SITIO}/index.html" },
         { "@type": "ListItem", "position": 2, "name": "Blog", "item": "${SITIO}/blog/index.html" },
-        { "@type": "ListItem", "position": 3, "name": ${JSON.stringify(nota.migaTitulo)} }
+        { "@type": "ListItem", "position": 3, "name": ${ld(nota.migaTitulo)} }
       ]
     }
   ]
@@ -303,19 +313,7 @@ ${relacionadas.map((r) => tarjetaRelacionada(r, mundos)).join('\n')}
 
 </div>
 
-<script>
-(function() {
-  var bar = document.getElementById('progress');
-  function onScroll() {
-    var h = document.documentElement;
-    var max = (h.scrollHeight - h.clientHeight) || 1;
-    var pct = Math.min(100, Math.max(0, (window.scrollY || h.scrollTop) / max * 100));
-    bar.style.width = pct + '%';
-  }
-  window.addEventListener('scroll', onScroll, { passive: true });
-  onScroll();
-})();
-</script>
+<script src="../assets/articulo.js"></script>
 
 </body>
 </html>

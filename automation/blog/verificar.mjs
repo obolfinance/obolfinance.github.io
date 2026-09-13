@@ -142,6 +142,12 @@ async function main() {
   largo('metaDescripcion', nota.metaDescripcion, 80, 155);
   largo('ogDescripcion', nota.ogDescripcion, 80, 200);
   largo('migaTitulo', nota.migaTitulo, 8, 40);
+  // Estos no pasan por inline(): terminan en <title>, en las metas y en el
+  // JSON-LD, donde no hay etiquetas permitidas. Un "<" ahi solo puede ser un
+  // error del modelo o algo que se colo desde los datos del prompt.
+  for (const k of ['titulo', 'metaDescripcion', 'ogDescripcion', 'migaTitulo']) {
+    if (/[<>]/.test(String(nota[k] ?? ''))) error(`${k}: no puede tener < ni >`);
+  }
   largo('lead', nota.lead, 200, 400);
   largo('cierre', nota.cierre, 150, 350);
   if (!(nota.minutos >= 4 && nota.minutos <= 9)) error(`minutos fuera de rango: ${nota.minutos}`);

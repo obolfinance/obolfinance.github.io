@@ -2,8 +2,8 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://obolfinance.app.n8n.cloud https://fhdkferjbwecrkolluab.supabase.co https://dolarapi.com https://api.argentinadatos.com https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; object-src 'none'; base-uri 'self'; form-action 'self';">
-<script>if (top !== self) { top.location = self.location; }</script>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://challenges.cloudflare.com https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.112.2; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://obolfinance.app.n8n.cloud https://fhdkferjbwecrkolluab.supabase.co https://dolarapi.com https://api.argentinadatos.com https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; object-src 'none'; base-uri 'self'; form-action 'self';">
+<script src="../../assets/js/marco.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>5 mitos financieros que te están costando plata — Obol Blog</title>
 <meta name="description" content="Ideas que suenan lógicas, que repetimos en asados y grupos familiares, y que en la práctica nos llevan a peores decisiones.">
@@ -231,19 +231,7 @@
 
 </div>
 
-<script>
-(function() {
-  var bar = document.getElementById('progress');
-  function onScroll() {
-    var h = document.documentElement;
-    var max = (h.scrollHeight - h.clientHeight) || 1;
-    var pct = Math.min(100, Math.max(0, (window.scrollY || h.scrollTop) / max * 100));
-    bar.style.width = pct + '%';
-  }
-  window.addEventListener('scroll', onScroll, { passive: true });
-  onScroll();
-})();
-</script>
+<script src="../assets/articulo.js"></script>
 
 </body>
 </html>

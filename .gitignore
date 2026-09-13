@@ -16,3 +16,35 @@ web-build/
 
 # editor
 *.orig.*
+
+# Credenciales: el repo es publico, nada de esto puede entrar nunca
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.jks
+*.keystore
+credentials.json
+service-account*.json
+google-service-account.json
+google-services.json
+.env.*
+.npmrc
+id_rsa*
+id_ed25519*
+
+# Binarios, libros y scripts sueltos de desarrollo que viven solo en local.
+# Un git add -A los subiria al repo publico (cloudflared.exe pesa 54 MB y el
+# PDF es un libro con copyright).
+*.exe
+*.pdf
+add_q_*.js
+fix_*.js
+generate_*.js
+insert_*.js
+reinsert_*.js
+all_sections_*.js
+qbank_*.js
+extracted_*
+handover_claude.md
