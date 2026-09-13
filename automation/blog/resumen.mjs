@@ -50,4 +50,4 @@ l(n.cierre);
 l();
 l('---');
 l();
-l('*Esta nota tiene fines educativos. No es asesoramiento financiero, de inversión, legal ni fiscal.*');
+l('*Esta nota tiene fines educativos. No es asesoramiento financiero, de inversión, legal ni fiscal. Fue redactada con ayuda de inteligencia artificial y puede contener errores.*');
