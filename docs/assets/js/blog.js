@@ -2,7 +2,7 @@
 // Va en un archivo para que la CSP no necesite 'unsafe-inline'.
 var RESENAS_ENDPOINT = "https://obolfinance.app.n8n.cloud/webhook/obol-resenas";
 var RECOMENDACIONES_ENDPOINT = "https://obolfinance.app.n8n.cloud/webhook/obol-recomendaciones";
-var TURNSTILE_SITE_KEY = "0x4AAAAAAEHbemQBbrf5Cw39";
+var TURNSTILE_SITE_KEY = "0x4AAAAAAEy8j-BmRilaTf67";
 var tsResenas = window.ObolTurnstile(TURNSTILE_SITE_KEY);
 var tsRecomendar = window.ObolTurnstile(TURNSTILE_SITE_KEY);
 var currentBookId = null;

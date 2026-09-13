@@ -3,7 +3,7 @@
 (function () {
   "use strict";
   var WEBHOOK = "https://obolfinance.app.n8n.cloud/webhook/obol-waitlist";
-  var TURNSTILE_SITE_KEY = "0x4AAAAAAEHbemQBbrf5Cw39";
+  var TURNSTILE_SITE_KEY = "0x4AAAAAAEy8j-BmRilaTf67";
   var host = document.getElementById('curvedWl');
   var trampa = document.getElementById('wl-trampa');
   var msg = document.getElementById('wl-msg');

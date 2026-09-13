@@ -6,7 +6,7 @@
   if (sessionStorage.getItem(SHOWN_KEY)) return;
 
   var WEBHOOK = "https://obolfinance.app.n8n.cloud/webhook/obol-waitlist";
-  var TURNSTILE_SITE_KEY = "0x4AAAAAAEHbemQBbrf5Cw39";
+  var TURNSTILE_SITE_KEY = "0x4AAAAAAEy8j-BmRilaTf67";
   var modal = document.getElementById('obolWlModal');
   var card = modal ? modal.querySelector('.obol-wl-modal-card') : null;
   var host = document.getElementById('curvedWlModal');
