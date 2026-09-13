@@ -1,170 +1,139 @@
 {
-  "generated_at": "2026-09-12T22:01:20.717626+00:00",
+  "generated_at": "2026-09-13T12:01:08.126920+00:00",
   "items": [
     {
-      "id": "tesla-roadster-oct2026",
-      "type": "empresa",
-      "title": "Tesla anuncia el lanzamiento del Roadster para el 1° de octubre",
-      "summary": "Tesla publicó en redes sociales un mensaje que apunta al 1° de octubre como fecha de lanzamiento de su Roadster, el auto que prometió entregar en 2020 y viene retrasando desde entonces. Según los reportes, el evento podría incluir una versión limitada con propulsores de gas frío desarrollados junto a SpaceX.",
-      "detail": "Los retrasos reiterados de un producto muy esperado pueden erosionar la confianza de los inversores en la capacidad de ejecución de una empresa. Cuando Tesla finalmente concreta un anuncio así, el mercado suele reaccionar positivamente en el corto plazo. Este caso también ilustra cómo las noticias de producto —no solo los balances— mueven las cotizaciones de empresas tech con fuerte componente aspiracional.",
-      "tags": [
-        "Tesla",
-        "lanzamiento",
-        "autos eléctricos"
-      ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/autos-transportation/tesla-signals-oct-1-launch-long-delayed-roadster-2026-09-12/",
-      "published_at": "2026-09-12T20:18:40Z",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "jnj-apollo-depuy-20b",
-      "type": "empresa",
-      "title": "Johnson & Johnson negocia vender su negocio de prótesis de cadera y rodilla a Apollo por u$s 20.000 millones",
-      "summary": "J&J estaría en conversaciones para desprenderse de su división de ortopedia DePuy Synthes, dedicada a caderas y rodillas, vendiéndosela al fondo de private equity Apollo Global Management por unos u$s 20.000 millones. La operación todavía no está cerrada y podrían aparecer otros interesados.",
-      "detail": "Cuando una empresa grande vende una división, suele hacerlo para concentrar recursos en áreas de mayor crecimiento o rentabilidad. En este caso, J&J quiere enfocarse en negocios más dinámicos dentro de la salud. Para Apollo, comprar activos estables como una división de implantes ortopédicos es una estrategia típica del private equity: adquirir, optimizar y eventualmente revender o listar en bolsa. Seguir estas operaciones ayuda a entender cómo se mueve el capital entre sectores.",
-      "tags": [
-        "fusiones",
-        "salud",
-        "private equity"
-      ],
-      "source_name": "WSJ",
-      "source_url": "https://www.wsj.com/business/deals/j-j-is-in-talks-to-sell-its-hips-and-knees-business-to-apollo-for-20-billion-3018cc4e",
-      "published_at": "2026-09-12T19:25:54Z",
-      "tickers": [
-        "JNJ",
-        "APO"
-      ]
-    },
-    {
-      "id": "nvidia-digitalrealty-ai-grid",
-      "type": "economia",
-      "title": "El proyecto de fábrica de IA de Nvidia y Digital Realty enfrenta problemas de financiamiento eléctrico",
-      "summary": "La iniciativa conjunta de Nvidia y Digital Realty para construir una instalación de inteligencia artificial de casi 100 megavatios en Virginia chocó con restricciones de la red eléctrica que retrasaron su lanzamiento para más adelante en 2026. El problema central no es falta de dinero sino la dificultad de operar infraestructura de IA dentro de los límites de la red eléctrica.",
-      "detail": "La IA requiere enormes cantidades de energía, y la capacidad de la red eléctrica se está convirtiendo en un cuello de botella real para escalar estos proyectos. Esto significa que no alcanza con tener el capital o los chips: la infraestructura física limita el crecimiento. Para inversores, entender estos cuellos de botella ayuda a identificar qué sectores —como energía o construcción de centros de datos— podrían beneficiarse indirectamente del boom de la IA.",
+      "id": "jpmorgan-meta-ai-upgrades",
+      "type": "mercado",
+      "title": "JPMorgan sube su recomendación de Meta y apuesta fuerte a la IA",
+      "summary": "JPMorgan subió su recomendación sobre Meta Platforms a 'Overweight' con un precio objetivo de $820, impulsada por las oportunidades en agentes de IA. También nombró a KLA Corp como su acción favorita en equipos de chips y a SK Hynix como una apuesta por el ciclo alcista de memoria impulsado por IA.",
+      "detail": "Cuando bancos de inversión como JPMorgan suben su recomendación sobre una acción, eso puede mover el precio del mercado porque muchos fondos siguen esas señales para decidir dónde invertir. El foco en inteligencia artificial como motor de crecimiento muestra cómo esta tecnología está redefiniendo qué sectores son atractivos para los inversores globales. Entender estos movimientos ayuda a ver qué tendencias están priorizando los grandes capitales del mundo.",
       "tags": [
         "inteligencia artificial",
-        "infraestructura",
-        "energía"
+        "acciones tecnológicas",
+        "analistas"
       ],
-      "source_name": "BigGo Finance",
-      "source_url": "https://finance.biggo.com/news/f75bdebc-1460-439d-9ecf-00a251920dc7",
-      "published_at": "2026-09-12T18:20:07Z",
+      "source_name": "Investing.com",
+      "source_url": "https://m.investing.com/news/stock-market-news/5-big-analyst-ai-moves-jpmorgan-upgrades-meta-names-kla-top-chip-equipment-stock-4898673?ampMode=1",
+      "published_at": "2026-09-13T08:55:36Z",
       "tickers": [
-        "NVDA",
-        "DLR"
+        "META",
+        "KLAC",
+        "MU",
+        "LRCX",
+        "AMAT"
       ]
     },
     {
-      "id": "kimberly-clark-kenvue-dividendo",
+      "id": "food-price-hikes-conagra-campbell",
+      "type": "economia",
+      "title": "Grandes empresas de alimentos advierten que van a subir sus precios",
+      "summary": "Compañías como Conagra, Campbell's y McCormick anunciaron que van a aumentar los precios de sus productos por el alza sostenida en costos de energía, fertilizantes y aranceles. Los ejecutivos señalan que ya no alcanza con recortar gastos para mantener los márgenes de ganancia.",
+      "detail": "Cuando las grandes empresas de alimentos suben precios, eso se traduce en más inflación para los consumidores. Este tipo de noticias es clave para entender cómo los costos de producción impactan en el índice de precios al consumidor, un dato que los bancos centrales monitorean de cerca para decidir si subir o bajar las tasas de interés. Para alguien en Argentina, donde la inflación es un tema cotidiano, entender este mecanismo global ayuda a ver que la suba de precios no es solo un fenómeno local.",
+      "tags": [
+        "inflación",
+        "consumo",
+        "alimentos"
+      ],
+      "source_name": "Jefferson City News Tribune",
+      "source_url": "https://www.newstribune.com/news/2026/sep/13/from-campbells-to-conagra-food-industry-warns-of/",
+      "published_at": "2026-09-13T08:50:29Z",
+      "tickers": [
+        "CAG",
+        "CPB",
+        "MKC",
+        "KR",
+        "KHC"
+      ]
+    },
+    {
+      "id": "ambev-tidal-reduccion",
       "type": "empresa",
-      "title": "Kimberly-Clark pone en riesgo su racha de 54 años de dividendos crecientes con la compra de Kenvue por u$s 48.700 millones",
-      "summary": "Kimberly-Clark extendió su historial de aumentar dividendos por 54 años consecutivos, pero la adquisición de Kenvue por casi u$s 49.000 millones genera dudas sobre si podrá sostenerlo. El flujo de caja operativo apenas cubre el dividendo actual y los gastos de capital, y las acciones cayeron un 20% en el último año, llevando el rendimiento del dividendo al 5%.",
-      "detail": "Una empresa que lleva décadas aumentando dividendos se convierte en referencia para inversores que buscan ingresos estables. Cuando esa racha se pone en duda por una adquisición grande financiada con deuda, el mercado suele castigar la acción. Este caso enseña a analizar si un dividendo es sostenible mirando el flujo de caja, no solo el historial pasado: un rendimiento muy alto puede ser señal de riesgo y no de oportunidad.",
+      "title": "Un fondo redujo su posición en Ambev, la dueña de Brahma y Quilmes",
+      "summary": "Tidal Investments vendió el 15,9% de su participación en Ambev, aunque sigue siendo accionista con 2,58 millones de acciones. La cervecera reportó ganancias en línea con lo esperado, pero sus ingresos de $3,89 mil millones no llegaron al consenso de $4,05 mil millones.",
+      "detail": "Ambev es relevante para los argentinos porque es la empresa detrás de marcas conocidas como Quilmes y Brahma. Cuando sus ingresos no llegan a lo que esperaba el mercado, eso puede presionar el precio de la acción a la baja. Los analistas tienen una recomendación de 'Reduce' sobre la acción, lo que significa que ven más riesgo que oportunidad en este momento. Este tipo de noticias muestra cómo los resultados trimestrales de una empresa mueven las decisiones de los inversores institucionales.",
       "tags": [
-        "dividendos",
-        "fusiones",
-        "consumo"
+        "Ambev",
+        "acciones",
+        "resultados"
       ],
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/12/kimberly-clarks-54-year-dividend-streak-faces-its-biggest-test-yet-with-48-7-billion-kenvue-deal/",
-      "published_at": "2026-09-12T17:49:43Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-ambev-sa-abev-shares-sold-by-tidal-investments-llc-2026-09-13/",
+      "published_at": "2026-09-13T09:05:11Z",
       "tickers": [
-        "KMB",
-        "KVUE"
+        "ABEV"
       ]
     },
     {
-      "id": "21shares-crypto-etf-custodios",
-      "type": "mercado",
-      "title": "Los ETFs de cripto de 21Shares suman custodios para reducir riesgos",
-      "summary": "La gestora 21Shares incorporó a Anchorage Digital Bank y BitGo como custodios adicionales de sus ETFs de Bitcoin y Ethereum al contado, que antes dependían solo de Coinbase. La medida busca evitar puntos únicos de falla y responde a una mayor exigencia de la SEC sobre cómo se custodian los activos de los clientes.",
-      "detail": "En el mundo cripto institucional, la custodia segura de activos es tan importante como la inversión en sí. Diversificar custodios reduce el riesgo operativo: si uno falla o tiene problemas regulatorios, los activos no quedan atrapados. Este movimiento también refleja cómo el ecosistema cripto se está profesionalizando para cumplir estándares regulatorios similares a los de la finanza tradicional, algo clave para la adopción masiva.",
-      "tags": [
-        "cripto",
-        "ETF",
-        "regulación"
-      ],
-      "source_name": "TradingView",
-      "source_url": "https://fr.tradingview.com/news/cointelegraph:46ca831f7094b:0-anchorage-digital-bank-bitgo-join-coinbase-to-custody-21shares-crypto-etfs/",
-      "published_at": "2026-09-12T17:40:04Z",
-      "tickers": [
-        "COIN"
-      ]
-    },
-    {
-      "id": "oracle-ellison-cancela-venta",
+      "id": "dollar-tree-recompra-acciones",
       "type": "empresa",
-      "title": "Larry Ellison cancela su plan de venta de acciones de Oracle",
-      "summary": "El fundador y presidente ejecutivo de Oracle, Larry Ellison, canceló el plan formal que tenía para vender acciones de la empresa y aclaró que por ahora no tiene intención de vender ninguna de sus tenencias. No se llegó a ejecutar ninguna venta bajo ese plan.",
-      "detail": "Cuando un ejecutivo o fundador cancela un plan de venta de acciones, el mercado suele interpretarlo como una señal positiva: quien mejor conoce la empresa decide quedarse con sus papeles. Esto contrasta con otro artículo que mencionaba que Ellison planeaba vender u$s 7.500 millones en acciones, lo que generaba incertidumbre. Seguir los movimientos de insiders —compras y ventas de ejecutivos— es una herramienta que usan los inversores para inferir la confianza interna en el negocio.",
+      "title": "Dollar Tree superó expectativas y lanzó un programa de recompra de acciones por $2.500 millones",
+      "summary": "Dollar Tree reportó ganancias trimestrales por encima de lo estimado por los analistas y autorizó un programa de recompra de acciones por $2.500 millones. A pesar de esto, el servicio nacional de pensiones de Corea redujo su participación en la compañía casi a la mitad.",
+      "detail": "Un programa de recompra de acciones ocurre cuando una empresa usa su propio efectivo para comprar sus acciones en el mercado, lo que reduce la cantidad de acciones circulantes y suele hacer subir el precio. Es una señal de que la empresa confía en su situación financiera. Sin embargo, que un fondo grande como el de pensiones de Corea venda la mitad de su posición al mismo tiempo muestra que distintos inversores pueden leer la misma información de formas muy diferentes.",
       "tags": [
-        "Oracle",
-        "insiders",
-        "tecnología"
-      ],
-      "source_name": "Oracle - Investor Relations",
-      "source_url": "https://investor.oracle.com/investor-news/news-details/2026/Larry-Ellison-Cancels-His-Plan-to-Sell-Oracle-Stock/default.aspx",
-      "published_at": "2026-09-12T16:09:42Z",
-      "tickers": [
-        "ORCL"
-      ]
-    },
-    {
-      "id": "kkr-prestamo-2100m-integer",
-      "type": "mercado",
-      "title": "KKR consiguió un préstamo de u$s 2.100 millones para comprar Integer Holdings",
-      "summary": "El fondo de inversión KKR aseguró un financiamiento de u$s 2.100 millones para llevar adelante la adquisición de Integer Holdings, con condiciones favorables en un mercado de deuda muy activo. Los bancos esperan colocar más de u$s 100.000 millones en deuda para fusiones y adquisiciones en los próximos meses.",
-      "detail": "Las adquisiciones apalancadas —conocidas como LBOs— son operaciones donde un fondo como KKR compra una empresa usando principalmente deuda. Que los inversores estén dispuestos a prestar a tasas competitivas refleja un mercado de crédito sólido y apetito por riesgo. Para alguien que aprende finanzas, este tipo de operaciones muestra cómo el nivel de las tasas de interés y el humor del mercado crediticio influyen directamente en cuántas fusiones y adquisiciones ocurren.",
-      "tags": [
-        "private equity",
-        "deuda",
-        "fusiones"
-      ],
-      "source_name": "Briefs Finance",
-      "source_url": "https://www.briefs.co/news/kkr-locks-in-2-1-billion-loan-as-buyout-debt-heats-up/",
-      "published_at": "2026-09-12T16:21:21Z",
-      "tickers": [
-        "KKR"
-      ]
-    },
-    {
-      "id": "dollar-general-vs-dollar-tree-q2",
-      "type": "empresa",
-      "title": "Dollar General superó a Dollar Tree en el trimestre: una mirada a los resultados",
-      "summary": "Ambas cadenas de descuento reportaron resultados del segundo trimestre mejores de lo esperado, pero el mercado reaccionó de manera opuesta: Dollar General subió y Dollar Tree cayó. La diferencia estuvo en que la ganancia de Dollar Tree se explicó en parte por un reembolso extraordinario de aranceles, y además su guía para el próximo trimestre decepcionó.",
-      "detail": "Este caso ilustra un concepto clave en inversiones: la calidad de las ganancias importa tanto como el número final. Una utilidad impulsada por un hecho puntual —como un reembolso de aranceles— no dice mucho sobre la capacidad real del negocio para generar dinero en el futuro. El mercado premia la consistencia y penaliza cuando las perspectivas futuras son más débiles, aunque los resultados pasados parezcan buenos.",
-      "tags": [
+        "recompra de acciones",
         "retail",
-        "resultados",
-        "consumo"
+        "resultados"
       ],
-      "source_name": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com/news/tale-two-dollars-why-dollar-170915358.html",
-      "published_at": "2026-09-12T17:09:46Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-national-pension-service-reduces-position-in-dollar-tree-inc-dltr-2026-09-13/",
+      "published_at": "2026-09-13T09:05:17Z",
       "tickers": [
-        "DG",
-        "DLTR"
+        "DLTR",
+        "DG"
       ]
     },
     {
-      "id": "meta-demanda-cripto-ads",
+      "id": "wells-fargo-resultados",
       "type": "empresa",
-      "title": "Demandan a Meta por lucrar con publicidades de cripto fraudulentas",
-      "summary": "Se presentó una demanda colectiva contra Meta e Instagram alegando que la empresa sabe que hay anuncios de criptomonedas estafadores en sus plataformas, no los elimina y usa IA para hacerlos más efectivos. La demanda busca representar a usuarios de todo Estados Unidos que perdieron dinero por esas estafas.",
-      "detail": "Las demandas colectivas contra empresas tecnológicas pueden tener impacto en su cotización si representan un riesgo legal y reputacional importante. Este caso además toca dos temas centrales para entender el mundo financiero actual: la responsabilidad de las plataformas sobre los contenidos que monetizan, y la proliferación de estafas en el ecosistema cripto que dañan a inversores minoristas. Es un ejemplo de cómo el marco regulatorio y legal puede afectar a las big tech.",
+      "title": "Wells Fargo superó expectativas y subió su dividendo trimestral",
+      "summary": "Wells Fargo reportó ganancias de $1,96 por acción e ingresos de $22,62 mil millones, superando las estimaciones de los analistas. Además, aumentó su dividendo trimestral a $0,50 por acción y los fondos institucionales ya controlan el 75,9% de la empresa.",
+      "detail": "Los resultados de los grandes bancos estadounidenses son un termómetro de la salud económica general, ya que sus ingresos dependen de los préstamos, las tasas de interés y la actividad empresarial. Que Wells Fargo haya superado expectativas y subido el dividendo indica que el entorno de tasas altas le sigue siendo favorable. Para quienes aprenden finanzas, esto ilustra cómo las decisiones de la Reserva Federal sobre tasas impactan directamente en la rentabilidad de los bancos.",
       "tags": [
-        "Meta",
-        "cripto",
-        "regulación"
+        "bancos",
+        "dividendos",
+        "Estados Unidos"
       ],
-      "source_name": "Top Class Actions",
-      "source_url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/meta-accused-in-class-action-of-profiting-from-scam-cryptocurrency-ads/",
-      "published_at": "2026-09-12T15:04:41Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-virginia-retirement-systems-et-al-invests-112-million-in-wells-fargo-company-wfc-2026-09-13/",
+      "published_at": "2026-09-13T08:44:21Z",
       "tickers": [
-        "META"
+        "WFC"
+      ]
+    },
+    {
+      "id": "yum-brands-resultados-dividendo",
+      "type": "empresa",
+      "title": "Yum! Brands creció sus ingresos 12,2% y autorizó recompras por $4.000 millones",
+      "summary": "Yum! Brands, dueña de KFC, Pizza Hut y Taco Bell, superó las estimaciones de ganancias con un crecimiento de ingresos del 12,2% interanual y autorizó un programa de recompra de acciones por $4.000 millones. También declaró un dividendo trimestral de $0,75 por acción.",
+      "detail": "Yum! Brands opera marcas globales de comida rápida con presencia en Argentina, por lo que sus resultados son relevantes localmente. Un programa de recompra tan grande combinado con crecimiento de ingresos muestra confianza de la dirección en el negocio. Los analistas le dan una recomendación de 'Moderate Buy', lo que significa que la mayoría ve potencial de suba en la acción.",
+      "tags": [
+        "consumo",
+        "dividendos",
+        "recompra de acciones"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-tidal-investments-llc-boosts-holdings-in-yum-brands-inc-yum-2026-09-13/",
+      "published_at": "2026-09-13T09:01:08Z",
+      "tickers": [
+        "YUM"
+      ]
+    },
+    {
+      "id": "ultrapar-wellington-reduccion",
+      "type": "empresa",
+      "title": "Un gran fondo vendió el 78% de su posición en Ultrapar, empresa brasileña de energía",
+      "summary": "Wellington Management redujo su participación en Ultrapar Participações, empresa brasileña del sector energético, en un 78,3% durante el segundo trimestre, vendiendo más de 277.000 acciones. A pesar de eso, los analistas mantienen una recomendación de 'Moderate Buy' con un precio objetivo de $6,54.",
+      "detail": "Ultrapar es una empresa brasileña que cotiza en la bolsa de Nueva York, lo que la hace accesible para inversores internacionales. La salida de un fondo tan importante como Wellington puede presionar el precio de la acción a la baja aunque la empresa funcione bien. Este caso ilustra cómo los movimientos de grandes fondos pueden afectar el precio de activos de la región, algo relevante para entender los mercados latinoamericanos.",
+      "tags": [
+        "Brasil",
+        "energía",
+        "fondos"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-wellington-management-group-llp-lowers-stake-in-ultrapar-participacoes-sa-ugp-2026-09-13/",
+      "published_at": "2026-09-13T08:42:36Z",
+      "tickers": [
+        "UGP"
       ]
     }
   ],
@@ -173,7 +142,7 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.530",
       "valor_num": 1530.0,
-      "delta_pct": -0.33
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
@@ -185,19 +154,19 @@
       "label": "MEP",
       "valor": "$1.540",
       "valor_num": 1539.9,
-      "delta_pct": 0.13
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
       "valor": "$1.598",
       "valor_num": 1597.5,
-      "delta_pct": -0.05
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.229",
-      "valor_num": 77229.0,
-      "delta_pct": 0.19
+      "valor": "US$ 76.747",
+      "valor_num": 76747.0,
+      "delta_pct": -0.77
     },
     {
       "label": "S&P 500",
