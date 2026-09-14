@@ -1,191 +1,156 @@
 {
-  "generated_at": "2026-09-13T22:01:27.684795+00:00",
+  "generated_at": "2026-09-14T12:01:17.770240+00:00",
   "items": [
     {
-      "id": "nvda-piper-overweight",
+      "id": "chevron-argentina-lng",
       "type": "empresa",
-      "title": "Nvidia: ¿está barata para lo que viene?",
-      "summary": "Piper Sandler inició cobertura de Nvidia con una recomendación de compra y un precio objetivo de 300 dólares, lo que implica un alza del 34%. La firma estima que Nvidia controla el 80% del mercado de cómputo para IA y proyecta un crecimiento anual compuesto del 47% en ingresos hasta 2030.",
-      "detail": "Cuando un banco de inversión 'inicia cobertura' de una acción, es la primera vez que publica un análisis formal sobre ella, y suele mover el precio. En este caso, el argumento es que Nvidia parece barata si se la mide contra las ganancias proyectadas para 2028, no las actuales. Esto enseña un concepto clave: el múltiplo precio/ganancia (P/E) puede calcularse sobre ganancias futuras estimadas, y así una acción 'cara' hoy puede parecer 'barata' mirando hacia adelante. El riesgo es que esas proyecciones sean demasiado optimistas.",
+      "title": "Chevron quiere expandirse en Argentina para crecer en gas natural",
+      "summary": "Chevron está evaluando oportunidades en Argentina y el Mediterráneo oriental para ampliar su cartera de gas natural licuado (LNG), con el objetivo de llegar a una capacidad total de 20 millones de toneladas métricas anuales. La expansión responde a la necesidad de diversificar el suministro tras disrupciones geopolíticas recientes.",
+      "detail": "El gas natural licuado (LNG) es gas enfriado hasta estado líquido para poder transportarlo en barcos. Cuando una empresa como Chevron busca expandir su producción en distintos países, está apostando a que la demanda global de energía seguirá alta. Que Argentina aparezca en la lista junto al Mediterráneo muestra el creciente interés internacional en recursos como los de Vaca Muerta. Para alguien que aprende finanzas, esto ilustra cómo las decisiones de inversión de las grandes petroleras dependen tanto de factores geopolíticos como de la disponibilidad de recursos locales.",
       "tags": [
-        "inteligencia artificial",
-        "valuación",
-        "tecnología"
+        "energía",
+        "inversión extranjera",
+        "commodities"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
-      "published_at": "2026-09-13T19:14:13Z",
+      "source_url": "https://finance.yahoo.com/energy/articles/chevron-considers-argentina-mediterranean-expansion-101448498.html",
+      "published_at": "2026-09-14T10:15:20Z",
       "tickers": [
+        "CVX",
+        "COP",
+        "XOM"
+      ]
+    },
+    {
+      "id": "hpe-surge-19pct",
+      "type": "mercado",
+      "title": "Hewlett Packard Enterprise subió 19% en una semana impulsada por el boom de IA",
+      "summary": "Las acciones de Hewlett Packard Enterprise (HPE) subieron un 19,4% en una semana, impulsadas por el optimismo en torno a la inteligencia artificial y señales positivas de Oracle sobre ese sector. La empresa además proyectó un fuerte crecimiento de ingresos y ganancias para el año fiscal 2026.",
+      "detail": "Cuando una empresa tecnológica sube casi 20% en una semana, generalmente hay un catalizador claro: en este caso, el entusiasmo por la IA y una guía optimista de la propia compañía. Sin embargo, también hay que notar que Evercore ISI aprovechó esa suba para bajar su calificación a 'In Line', lo que sugiere que algunos analistas creen que el precio ya refleja las buenas noticias. Esto enseña un concepto clave: una acción puede subir mucho y aun así dejar de ser una buena compra si el mercado ya descontó el crecimiento futuro. El aumento de exposición de fondos de cobertura (hedge funds) indica confianza institucional, pero no garantiza que el precio siga subiendo.",
+      "tags": [
+        "tecnología",
+        "IA",
+        "acciones"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-surges-102301377.html",
+      "published_at": "2026-09-14T10:24:03Z",
+      "tickers": [
+        "HPE",
+        "ORCL"
+      ]
+    },
+    {
+      "id": "evercore-hpe-downgrade",
+      "type": "mercado",
+      "title": "Evercore bajó la calificación de HPE justo después de su fuerte suba",
+      "summary": "Evercore ISI bajó su recomendación sobre Hewlett Packard Enterprise de 'Outperform' a 'In Line' y fijó un precio objetivo de 65 dólares, en medio de la reciente suba del 19% de la acción.",
+      "detail": "Este movimiento ilustra un patrón común en los mercados: cuando una acción sube mucho en poco tiempo, los analistas pueden recalibrar sus expectativas porque el precio ya alcanzó o se acercó a su valor objetivo. Bajar de 'Outperform' a 'In Line' no significa que la empresa esté mal, sino que el analista cree que la acción ya no tiene tanto margen de suba adicional desde el precio actual. Para alguien que aprende finanzas, esto muestra que las calificaciones de analistas son relativas al precio de mercado y pueden cambiar rápido ante movimientos bruscos.",
+      "tags": [
+        "analistas",
+        "valoración",
+        "tecnología"
+      ],
+      "source_name": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com/news/evercore-isi-downgrades-hewlett-packard-enterprise-to-in-line-from-outperform-price-target-is-65-ce785bdcda8bf224",
+      "published_at": "2026-09-14T09:27:02Z",
+      "tickers": [
+        "HPE",
+        "ORCL"
+      ]
+    },
+    {
+      "id": "corning-atm-program",
+      "type": "empresa",
+      "title": "Corning lanzó un programa para emitir acciones por hasta 2.000 millones de dólares",
+      "summary": "Corning anunció un programa 'at-the-market' para emitir acciones por hasta 2.000 millones de dólares, lo que generó preocupación sobre dilución entre inversores y una caída de más del 7% en el precio premarket. Aun así, la acción acumula una suba de alrededor del 91% en lo que va del año gracias a la demanda de infraestructura de IA.",
+      "detail": "Un programa 'at-the-market' permite a una empresa emitir nuevas acciones gradualmente en el mercado al precio vigente, lo que le da flexibilidad para levantar capital sin hacer una oferta masiva de golpe. El problema es que emitir más acciones diluye a los accionistas existentes: si hay más acciones circulando, cada una representa una porción menor de la empresa. La caída del 7% premarket refleja esa preocupación. Sin embargo, que la acción igual acumule un 91% en el año muestra que el contexto positivo (demanda de IA) puede compensar ese efecto dilutivo a largo plazo.",
+      "tags": [
+        "dilución",
+        "emisión de acciones",
+        "IA"
+      ],
+      "source_name": "Intellectia AI",
+      "source_url": "https://intellectia.ai/news/stock/corning-launches-up-to-2-billion-atthemarket-program",
+      "published_at": "2026-09-14T09:07:37Z",
+      "tickers": [
+        "GLW",
+        "AAPL",
         "NVDA"
       ]
     },
     {
-      "id": "goldman-ai-sp500-earnings",
-      "type": "economia",
-      "title": "Goldman Sachs: la IA explica la mitad del crecimiento de ganancias del S&P 500",
-      "summary": "Según Goldman Sachs, la inversión en inteligencia artificial representa aproximadamente la mitad del crecimiento de ganancias del S&P 500, impulsada principalmente por grandes compradores como Microsoft y proveedores como Nvidia y Broadcom. Esto genera un riesgo de concentración: si esas empresas reducen su gasto en IA, el crecimiento del índice podría frenarse significativamente.",
-      "detail": "El S&P 500 agrupa a las 500 empresas más grandes de EE.UU., y su crecimiento de ganancias suele leerse como un termómetro de la economía. Que la mitad de ese crecimiento dependa de un solo ciclo de inversión —el de la IA— es una señal de alerta para cualquier inversor: la concentración de riesgo en pocos actores puede hacer que un índice aparentemente diversificado sea más vulnerable de lo que parece. Este análisis de Goldman muestra por qué importa mirar no solo el número agregado, sino quién lo está generando.",
+      "id": "nvidia-semiconductores-ai",
+      "type": "mercado",
+      "title": "Las acciones de semiconductores para IA siguen siendo las favoritas del mercado",
+      "summary": "El blog de Zacks destacó a empresas como NVIDIA, Taiwan Semiconductor y otras del sector de equipos para semiconductores como las más posicionadas para crecer gracias al boom de infraestructura de IA. Estas compañías muestran revisiones al alza en sus estimaciones de ganancias y potencial de suba en sus precios.",
+      "detail": "La infraestructura de IA requiere enormes cantidades de chips avanzados, lo que beneficia a toda la cadena: desde los fabricantes de chips como NVIDIA y TSMC hasta las empresas que producen el equipamiento para fabricarlos. Cuando los analistas revisan al alza sus estimaciones de ganancias, es una señal positiva para el precio de la acción, porque el mercado suele anticipar esas mejoras. Para quien aprende finanzas, este es un buen ejemplo de cómo un tema macroeconómico (el crecimiento de la IA) se traduce en oportunidades concretas de inversión en sectores específicos.",
       "tags": [
-        "S&P 500",
-        "inteligencia artificial",
-        "riesgo"
+        "semiconductores",
+        "IA",
+        "tecnología"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html",
-      "published_at": "2026-09-13T18:00:13Z",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amkor-100600528.html",
+      "published_at": "2026-09-14T10:08:18Z",
       "tickers": [
-        "GS",
-        "MSFT",
-        "NVDA",
-        "AVGO"
+        "UCTT",
+        "NVDA"
       ]
     },
     {
-      "id": "google-cloud-backlog-514b",
+      "id": "brookfield-blackstone-pgp",
       "type": "empresa",
-      "title": "Google Cloud creció 82% y su cartera de pedidos superó los 514 mil millones de dólares",
-      "summary": "Alphabet reportó un crecimiento del 82% interanual en los ingresos de Google Cloud en el segundo trimestre de 2026, con una cartera de contratos pendientes que llegó a 514 mil millones de dólares, superando los ingresos totales de la compañía en los últimos 12 meses. El CEO Sundar Pichai destacó que aún hay un largo camino de crecimiento por delante, tanto en la nube como en búsquedas con IA.",
-      "detail": "El 'backlog' o cartera de pedidos es el total de contratos firmados que todavía no se facturaron: es una señal de ingresos futuros garantizados. Que el backlog de Google Cloud supere los ingresos anuales totales de Alphabet sugiere una visibilidad de crecimiento muy alta. Para alguien que aprende finanzas, esto ilustra cómo analizar no solo lo que una empresa ganó, sino lo que ya tiene comprometido hacia adelante, lo cual es clave para evaluar su valor futuro.",
+      "title": "Brookfield negociaría comprar una empresa de envases de vidrio a Blackstone por hasta 1.500 millones de dólares",
+      "summary": "Brookfield estaría en negociaciones avanzadas para adquirir PGP Glass, una empresa india de envases de vidrio, a Blackstone por entre 1.300 y 1.500 millones de dólares. Blackstone había comprado la compañía en 2020 y buscaba salir de la inversión, incluso explorando una salida a bolsa.",
+      "detail": "Este tipo de operación se llama 'buyout' o adquisición de private equity: un fondo compra una empresa, la desarrolla durante algunos años y luego busca vender con ganancia. Blackstone compró PGP Glass en 2020 y ahora, seis años después, busca concretar su salida vendiéndola a otro fondo grande como Brookfield. Para alguien que aprende finanzas, esto ilustra cómo funciona el ciclo del capital privado: entrada, creación de valor y salida. El hecho de que se haya explorado también una IPO muestra que hay múltiples caminos para monetizar una inversión.",
       "tags": [
-        "nube",
-        "tecnología",
-        "crecimiento"
-      ],
-      "source_name": "The Motley Fool",
-      "source_url": "https://www.fool.com/investing/2026/09/13/sundar-pichai-alphabets-backlog-514-billion/",
-      "published_at": "2026-09-13T12:50:40Z",
-      "tickers": [
-        "GOOGL",
-        "NVDA",
-        "MSFT"
-      ]
-    },
-    {
-      "id": "ge-healthcare-sofie-adquisicion",
-      "type": "empresa",
-      "title": "GE Healthcare negociaría la compra de Sofie Biosciences por 1.000 millones de dólares",
-      "summary": "GE Healthcare Technologies estaría en conversaciones para adquirir Sofie Biosciences, empresa especializada en productos químicos radiactivos para estudios de detección de cáncer, por aproximadamente 1.000 millones de dólares. Sería la segunda adquisición más grande de GE Healthcare desde que se separó de General Electric en 2024.",
-      "detail": "Las fusiones y adquisiciones (M&A) son una estrategia habitual de las grandes empresas para crecer comprando capacidades que no tienen internamente, en lugar de desarrollarlas desde cero. En este caso, GE Healthcare busca fortalecer su división de diagnóstico farmacéutico. Para el inversor en formación, es útil observar cómo el precio de una adquisición refleja las expectativas de ganancias futuras del activo comprado, y cómo este tipo de movimientos pueden afectar el precio de la acción de la compradora.",
-      "tags": [
+        "private equity",
         "fusiones",
-        "salud",
-        "diagnóstico"
-      ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/legal/transactional/ge-healthcare-talks-over-possible-1-billion-deal-sofie-biosciences-ft-reports-2026-09-13/",
-      "published_at": "2026-09-13T11:17:00Z",
-      "tickers": [
-        "GEHC",
-        "GE"
-      ]
-    },
-    {
-      "id": "boston-scientific-ciberataque",
-      "type": "empresa",
-      "title": "Un ciberataque obligó a Boston Scientific a bajar sus proyecciones de ventas",
-      "summary": "Boston Scientific sufrió un ciberataque el 25 de agosto de 2026 que interrumpió su fabricación y logística, llevando a la empresa a advertir que no podrá cumplir sus metas de ventas e ingresos para el tercer trimestre y el año completo. La acción cayó un 2,3% en la apertura pese a que la demanda de sus productos sigue siendo sólida.",
-      "detail": "Este caso muestra algo que los inversores suelen subestimar: el riesgo operativo no financiero. Un ciberataque puede dañar la cadena de producción de una empresa industrial o de salud igual que lo haría una crisis de demanda, y se refleja directamente en los resultados. La distinción importante es que la caída en la guía no vino de que los clientes dejaran de comprar, sino de que la empresa no pudo entregar: eso sugiere que el impacto podría ser temporal, aunque igual pesa en el precio de la acción.",
-      "tags": [
-        "ciberseguridad",
-        "riesgo operativo",
-        "salud"
+        "adquisiciones"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-didn-t-193111827.html",
-      "published_at": "2026-09-13T19:31:36Z",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-talks-acquire-pgp-glass-101626923.html",
+      "published_at": "2026-09-14T10:16:00Z",
       "tickers": [
-        "BSX"
+        "BX"
       ]
     },
     {
-      "id": "anthropic-ipo-wealth",
+      "id": "trx-gold-produccion-record",
       "type": "empresa",
-      "title": "Goldman Sachs y Bank of America compiten por gestionar la fortuna de empleados de Anthropic antes de su IPO",
-      "summary": "Goldman Sachs y Bank of America están compitiendo para ofrecer servicios de gestión patrimonial a los empleados de Anthropic, la empresa de IA, ante la esperada salida a bolsa de la compañía. El listado promete generar muchos nuevos millonarios entre su plantilla, y los grandes bancos quieren captar esos activos.",
-      "detail": "Cuando una empresa tecnológica hace su IPO (oferta pública inicial), los empleados con acciones o opciones pueden volverse muy ricos de un día para el otro. Esto genera una gran demanda de servicios financieros especializados, y los bancos compiten agresivamente por esos clientes. Para quien aprende finanzas, este artículo ilustra cómo funciona el ecosistema alrededor de una salida a bolsa: no solo importa la valuación de la empresa, sino también el negocio que genera para bancos, asesores y gestoras de patrimonio.",
+      "title": "TRX Gold logró producción récord de oro en el cuarto trimestre de 2026",
+      "summary": "TRX Gold anunció una producción récord de 8.173 onzas de oro en el cuarto trimestre de 2026, con un precio promedio de venta de 4.233 dólares por onza. La compañía además avanza en la expansión de su planta de procesamiento para aumentar la capacidad futura.",
+      "detail": "El precio del oro en torno a los 4.233 dólares por onza refleja un contexto de alta demanda del metal, que suele subir cuando los inversores buscan refugio ante la incertidumbre económica o inflación. Para una empresa minera, producir más onzas a precios altos es doblemente beneficioso: más volumen y mejor margen. La expansión de la planta muestra que la empresa apuesta a seguir creciendo, lo que también implica riesgos de ejecución y mayores costos de capital en el corto plazo.",
       "tags": [
-        "IPO",
-        "banca de inversión",
-        "gestión patrimonial"
+        "oro",
+        "minería",
+        "commodities"
       ],
-      "source_name": "AdvisorHub",
-      "source_url": "https://www.advisorhub.com/goldman-bofa-vie-to-manage-anthropic-staffers-ipo-millions/",
-      "published_at": "2026-09-13T16:47:08Z",
+      "source_name": "The Manila Times",
+      "source_url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/trx-gold-delivers-record-q4-2026-achieves-top-end-of-production-guidance/2424342",
+      "published_at": "2026-09-14T10:34:27Z",
       "tickers": [
-        "GS",
-        "BAC"
+        "TRX"
       ]
     },
     {
-      "id": "seagate-demanda-hdds-ai",
-      "type": "empresa",
-      "title": "Seagate prevé que la demanda de discos rígidos superará la oferta hasta 2027 por el impulso de la IA",
-      "summary": "Seagate Technology espera que la demanda de discos de almacenamiento siga superando la oferta disponible hasta su año fiscal 2027, impulsada por el gasto en la nube, centros de datos y aplicaciones de inteligencia artificial. La empresa apunta a un crecimiento anual del 25% en capacidad de almacenamiento usando tecnología HAMR.",
-      "detail": "La IA no solo requiere procesadores potentes como los de Nvidia: también necesita enormes volúmenes de almacenamiento para guardar y procesar datos. Este artículo muestra cómo el boom de la IA genera una cadena de impactos en empresas de distintos sectores, incluyendo fabricantes de hardware de almacenamiento. Entender estas cadenas de valor es fundamental para analizar qué compañías se benefician indirectamente de una tendencia tecnológica, más allá de las más visibles.",
+      "id": "bank-of-america-resultados",
+      "type": "economia",
+      "title": "Bank of America superó las estimaciones con ganancias por acción de 1,21 dólares",
+      "summary": "Bank of America reportó resultados trimestrales por encima de lo esperado, con una ganancia por acción de 1,21 dólares e ingresos de 31.560 millones de dólares, y también anunció un aumento en su dividendo. Sin embargo, estrategas del propio banco advirtieron sobre posible volatilidad en el mercado por el alza en los rendimientos de los bonos del Tesoro.",
+      "detail": "Que un banco grande como Bank of America supere las estimaciones de ganancias es una señal positiva para el sector financiero en general. Pero la advertencia sobre la suba de rendimientos del Tesoro es igualmente importante: cuando los bonos del gobierno pagan más, los inversores pueden preferirlos frente a las acciones, lo que presiona los precios hacia abajo. Este tipo de tensión entre buenos resultados corporativos y condiciones macroeconómicas más restrictivas es un dilema clásico que los mercados enfrentan constantemente.",
       "tags": [
-        "almacenamiento",
-        "inteligencia artificial",
-        "oferta y demanda"
+        "bancos",
+        "bonos",
+        "resultados"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/technology/articles/seagate-sees-storage-demand-outpacing-130159369.html",
-      "published_at": "2026-09-13T13:02:16Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-invests-117-million-in-bank-of-america-corporation-bac-2026-09-14/",
+      "published_at": "2026-09-14T08:52:23Z",
       "tickers": [
-        "STX"
-      ]
-    },
-    {
-      "id": "lululemon-caida-acciones",
-      "type": "empresa",
-      "title": "Lululemon acumula una caída del 52% en 2026: ¿es momento de comprar?",
-      "summary": "Las acciones de Lululemon cayeron aproximadamente un 52% en lo que va de 2026, tocando mínimos de ocho años, aunque la empresa mantiene solidez financiera y rentabilidad. El debate es si esta baja es una oportunidad de compra o si refleja un deterioro estructural de la marca, afectada por la caída de ventas en Norteamérica y mayor competencia.",
-      "detail": "Esta nota es un ejemplo clásico del análisis de valor vs. precio: una empresa puede ser rentable y financieramente sana, pero igualmente tener su acción en caída si el mercado percibe que su ventaja competitiva (en este caso, la fortaleza de la marca) está en riesgo. Para alguien que aprende finanzas, es útil diferenciar entre una caída de precio por pánico de mercado —que puede ser oportunidad— y una caída que refleja un cambio real en el negocio, que puede profundizarse.",
-      "tags": [
-        "consumo",
-        "marca",
-        "valuación"
-      ],
-      "source_name": "STL.News",
-      "source_url": "https://www.stl.news/lululemon-stock-crashes-is-it-finally-a-buy/",
-      "published_at": "2026-09-13T14:45:52Z",
-      "tickers": [
-        "LULU"
-      ]
-    },
-    {
-      "id": "pfizer-vacunas-poland-romania",
-      "type": "empresa",
-      "title": "Pfizer busca recuperar 2.000 millones de dólares por vacunas COVID no utilizadas en Polonia y Rumania",
-      "summary": "Pfizer está intentando cobrar contratos pandémicos por más de 90 millones de dosis de vacunas COVID que Polonia y Rumania ya no necesitan, llegando a apuntar contra las tasas de control del tráfico aéreo para presionar el cobro. Los reguladores de ambos países advierten que esta medida podría comprometer la seguridad aérea.",
-      "detail": "Este caso ilustra un riesgo poco habitual en el mundo corporativo: el riesgo de contraparte soberana, es decir, cuando el deudor es un gobierno. Las empresas que firmaron contratos con estados durante la pandemia ahora enfrentan la dificultad de cobrarlos cuando esos contratos ya no son convenientes para los países. También muestra cómo las disputas comerciales pueden escalar a terrenos insólitos y generar daño reputacional para la empresa, lo que puede afectar su cotización.",
-      "tags": [
-        "farmacéutica",
-        "riesgo soberano",
-        "contratos"
-      ],
-      "source_name": "WSJ",
-      "source_url": "https://www.wsj.com/business/pfizer-makes-an-unusual-enemy-in-2-billion-fight-over-unwanted-covid-19-vaccines-a5ad7c8d",
-      "published_at": "2026-09-13T14:43:20Z",
-      "tickers": [
-        "PFE"
-      ]
-    },
-    {
-      "id": "paypal-caida-competencia",
-      "type": "empresa",
-      "title": "PayPal sigue cayendo: ¿la empresa está rota o es una oportunidad?",
-      "summary": "La acción de PayPal acumula una caída importante desde sus máximos pandémicos, y el debate es si el negocio está estructuralmente dañado por la competencia de grandes tecnológicas y la irrupción de la IA, o si su rentabilidad y generación de caja lo convierten en una oportunidad. La empresa sigue siendo rentable y recompra acciones, pero enfrenta desafíos estratégicos significativos.",
-      "detail": "PayPal es un caso de estudio interesante para aprender a separar el desempeño del negocio del desempeño de la acción. Que una empresa genere caja y sea rentable no garantiza que su acción suba si el mercado descuenta que su posición competitiva se va a erosionar. Las recompras de acciones (buybacks) son una señal de que la empresa confía en sí misma, pero no siempre alcanzan para revertir una tendencia bajista si el mercado no compra el relato de recuperación.",
-      "tags": [
-        "pagos digitales",
-        "competencia",
-        "recompra de acciones"
-      ],
-      "source_name": "STL.News",
-      "source_url": "https://www.stl.news/paypal-stock-is-down-but-is-the-company-broken/",
-      "published_at": "2026-09-13T13:26:13Z",
-      "tickers": [
-        "PYPL"
+        "BAC",
+        "GS"
       ]
     }
   ],
@@ -216,9 +181,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.294",
-      "valor_num": 77294.0,
-      "delta_pct": 0.06
+      "valor": "US$ 77.716",
+      "valor_num": 77716.0,
+      "delta_pct": 1.25
     },
     {
       "label": "S&P 500",
@@ -228,9 +193,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.409",
-      "valor_num": 4408.9,
-      "delta_pct": 0.34
+      "valor": "US$ 4.331",
+      "valor_num": 4330.6,
+      "delta_pct": -1.93
     }
   ]
 }
