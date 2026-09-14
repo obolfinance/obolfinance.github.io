@@ -1,156 +1,187 @@
 {
-  "generated_at": "2026-09-14T12:01:17.770240+00:00",
+  "generated_at": "2026-09-14T22:01:24.830361+00:00",
   "items": [
     {
-      "id": "chevron-argentina-lng",
-      "type": "empresa",
-      "title": "Chevron quiere expandirse en Argentina para crecer en gas natural",
-      "summary": "Chevron está evaluando oportunidades en Argentina y el Mediterráneo oriental para ampliar su cartera de gas natural licuado (LNG), con el objetivo de llegar a una capacidad total de 20 millones de toneladas métricas anuales. La expansión responde a la necesidad de diversificar el suministro tras disrupciones geopolíticas recientes.",
-      "detail": "El gas natural licuado (LNG) es gas enfriado hasta estado líquido para poder transportarlo en barcos. Cuando una empresa como Chevron busca expandir su producción en distintos países, está apostando a que la demanda global de energía seguirá alta. Que Argentina aparezca en la lista junto al Mediterráneo muestra el creciente interés internacional en recursos como los de Vaca Muerta. Para alguien que aprende finanzas, esto ilustra cómo las decisiones de inversión de las grandes petroleras dependen tanto de factores geopolíticos como de la disponibilidad de recursos locales.",
-      "tags": [
-        "energía",
-        "inversión extranjera",
-        "commodities"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/energy/articles/chevron-considers-argentina-mediterranean-expansion-101448498.html",
-      "published_at": "2026-09-14T10:15:20Z",
-      "tickers": [
-        "CVX",
-        "COP",
-        "XOM"
-      ]
-    },
-    {
-      "id": "hpe-surge-19pct",
+      "id": "netflix-growth-engine-260914",
       "type": "mercado",
-      "title": "Hewlett Packard Enterprise subió 19% en una semana impulsada por el boom de IA",
-      "summary": "Las acciones de Hewlett Packard Enterprise (HPE) subieron un 19,4% en una semana, impulsadas por el optimismo en torno a la inteligencia artificial y señales positivas de Oracle sobre ese sector. La empresa además proyectó un fuerte crecimiento de ingresos y ganancias para el año fiscal 2026.",
-      "detail": "Cuando una empresa tecnológica sube casi 20% en una semana, generalmente hay un catalizador claro: en este caso, el entusiasmo por la IA y una guía optimista de la propia compañía. Sin embargo, también hay que notar que Evercore ISI aprovechó esa suba para bajar su calificación a 'In Line', lo que sugiere que algunos analistas creen que el precio ya refleja las buenas noticias. Esto enseña un concepto clave: una acción puede subir mucho y aun así dejar de ser una buena compra si el mercado ya descontó el crecimiento futuro. El aumento de exposición de fondos de cobertura (hedge funds) indica confianza institucional, pero no garantiza que el precio siga subiendo.",
+      "title": "Netflix sube 3% con eventos en vivo como nuevo motor de crecimiento",
+      "summary": "Las acciones de Netflix subieron alrededor de un 3% después de que el banco de inversión Evercore elevara su precio objetivo de $100 a $110, destacando los eventos en vivo como una gran oportunidad de crecimiento. El analista señaló que el 45% de los nuevos suscriptores en Japón se sumaron gracias a una promoción del Clásico Mundial de Béisbol.",
+      "detail": "Cuando un banco de inversión sube su precio objetivo para una acción, suele generar compras porque los inversores institucionales lo toman como señal de mayor valor potencial. En este caso, Evercore no solo ve crecimiento en el modelo tradicional de series y películas, sino en eventos en vivo y contenido corto, lo que diversifica las fuentes de ingreso de Netflix. Para quienes aprenden finanzas, esto ilustra cómo los analistas de Wall Street pueden mover el precio de una acción con sus recomendaciones, más allá de los resultados concretos de la empresa.",
       "tags": [
-        "tecnología",
-        "IA",
-        "acciones"
+        "streaming",
+        "análisis bursátil",
+        "crecimiento"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-hpe-surges-102301377.html",
-      "published_at": "2026-09-14T10:24:03Z",
+      "source_name": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com/news/netflix-stock-jumps-wall-street-210425929.html",
+      "published_at": "2026-09-14T21:05:00Z",
       "tickers": [
-        "HPE",
-        "ORCL"
+        "NFLX"
       ]
     },
     {
-      "id": "evercore-hpe-downgrade",
-      "type": "mercado",
-      "title": "Evercore bajó la calificación de HPE justo después de su fuerte suba",
-      "summary": "Evercore ISI bajó su recomendación sobre Hewlett Packard Enterprise de 'Outperform' a 'In Line' y fijó un precio objetivo de 65 dólares, en medio de la reciente suba del 19% de la acción.",
-      "detail": "Este movimiento ilustra un patrón común en los mercados: cuando una acción sube mucho en poco tiempo, los analistas pueden recalibrar sus expectativas porque el precio ya alcanzó o se acercó a su valor objetivo. Bajar de 'Outperform' a 'In Line' no significa que la empresa esté mal, sino que el analista cree que la acción ya no tiene tanto margen de suba adicional desde el precio actual. Para alguien que aprende finanzas, esto muestra que las calificaciones de analistas son relativas al precio de mercado y pueden cambiar rápido ante movimientos bruscos.",
-      "tags": [
-        "analistas",
-        "valoración",
-        "tecnología"
-      ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/evercore-isi-downgrades-hewlett-packard-enterprise-to-in-line-from-outperform-price-target-is-65-ce785bdcda8bf224",
-      "published_at": "2026-09-14T09:27:02Z",
-      "tickers": [
-        "HPE",
-        "ORCL"
-      ]
-    },
-    {
-      "id": "corning-atm-program",
+      "id": "adobe-resultados-q3-260914",
       "type": "empresa",
-      "title": "Corning lanzó un programa para emitir acciones por hasta 2.000 millones de dólares",
-      "summary": "Corning anunció un programa 'at-the-market' para emitir acciones por hasta 2.000 millones de dólares, lo que generó preocupación sobre dilución entre inversores y una caída de más del 7% en el precio premarket. Aun así, la acción acumula una suba de alrededor del 91% en lo que va del año gracias a la demanda de infraestructura de IA.",
-      "detail": "Un programa 'at-the-market' permite a una empresa emitir nuevas acciones gradualmente en el mercado al precio vigente, lo que le da flexibilidad para levantar capital sin hacer una oferta masiva de golpe. El problema es que emitir más acciones diluye a los accionistas existentes: si hay más acciones circulando, cada una representa una porción menor de la empresa. La caída del 7% premarket refleja esa preocupación. Sin embargo, que la acción igual acumule un 91% en el año muestra que el contexto positivo (demanda de IA) puede compensar ese efecto dilutivo a largo plazo.",
+      "title": "Adobe superó expectativas de ingresos pero sus acciones cayeron por la guía futura",
+      "summary": "Adobe reportó ingresos de $6.76 mil millones en el tercer trimestre fiscal 2026, superando las estimaciones, con una ganancia por acción ajustada de $6.13. Aun así, sus acciones cayeron porque la guía de ingresos para el cuarto trimestre quedó levemente por debajo de lo esperado por el mercado, y el crecimiento de nuevos contratos anuales cayó un 38% interanual.",
+      "detail": "Este caso muestra un concepto clave en finanzas: no alcanza con tener buenos resultados, el mercado premia o castiga según las expectativas futuras. Adobe llegó a mil millones de usuarios activos mensuales, pero el mercado se preocupó más por la desaceleración en la captación de nuevos contratos recurrentes (ARR), que son la base de los ingresos futuros en modelos de software por suscripción. Aprender a distinguir entre resultados pasados y perspectivas futuras es fundamental para analizar acciones.",
       "tags": [
-        "dilución",
-        "emisión de acciones",
-        "IA"
+        "resultados trimestrales",
+        "software",
+        "expectativas"
       ],
-      "source_name": "Intellectia AI",
-      "source_url": "https://intellectia.ai/news/stock/corning-launches-up-to-2-billion-atthemarket-program",
-      "published_at": "2026-09-14T09:07:37Z",
+      "source_name": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com/news/adobe-adbe-billion-users-wall-205947269.html",
+      "published_at": "2026-09-14T20:59:36Z",
       "tickers": [
-        "GLW",
-        "AAPL",
-        "NVDA"
+        "ADBE"
       ]
     },
     {
-      "id": "nvidia-semiconductores-ai",
-      "type": "mercado",
-      "title": "Las acciones de semiconductores para IA siguen siendo las favoritas del mercado",
-      "summary": "El blog de Zacks destacó a empresas como NVIDIA, Taiwan Semiconductor y otras del sector de equipos para semiconductores como las más posicionadas para crecer gracias al boom de infraestructura de IA. Estas compañías muestran revisiones al alza en sus estimaciones de ganancias y potencial de suba en sus precios.",
-      "detail": "La infraestructura de IA requiere enormes cantidades de chips avanzados, lo que beneficia a toda la cadena: desde los fabricantes de chips como NVIDIA y TSMC hasta las empresas que producen el equipamiento para fabricarlos. Cuando los analistas revisan al alza sus estimaciones de ganancias, es una señal positiva para el precio de la acción, porque el mercado suele anticipar esas mejoras. Para quien aprende finanzas, este es un buen ejemplo de cómo un tema macroeconómico (el crecimiento de la IA) se traduce en oportunidades concretas de inversión en sectores específicos.",
+      "id": "bofa-ceo-investment-banking-260914",
+      "type": "discurso",
+      "title": "El CEO de Bank of America prevé una caída de al menos 10% en comisiones de banca de inversión en el tercer trimestre",
+      "summary": "Brian Moynihan, CEO de Bank of America, anticipó una baja de al menos 10% en las comisiones de banca de inversión para el tercer trimestre, proyectando ingresos de entre $1.600 y $1.800 millones, frente a los $2.000 millones del año anterior. También advirtió que una posible suba de tasas de interés podría frenar la demanda de financiamiento.",
+      "detail": "Las comisiones de banca de inversión son un termómetro del apetito corporativo por fusiones, adquisiciones y emisiones de deuda o acciones. Cuando el CEO de uno de los bancos más grandes del mundo anticipa una caída en estos ingresos, es una señal de que las empresas están siendo más cautelosas con sus decisiones financieras grandes. Además, la mención de que una suba de tasas podría enfriar la actividad refuerza el vínculo entre la política monetaria y los negocios del sector financiero, un concepto esencial para entender los mercados.",
       "tags": [
-        "semiconductores",
-        "IA",
-        "tecnología"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amkor-100600528.html",
-      "published_at": "2026-09-14T10:08:18Z",
-      "tickers": [
-        "UCTT",
-        "NVDA"
-      ]
-    },
-    {
-      "id": "brookfield-blackstone-pgp",
-      "type": "empresa",
-      "title": "Brookfield negociaría comprar una empresa de envases de vidrio a Blackstone por hasta 1.500 millones de dólares",
-      "summary": "Brookfield estaría en negociaciones avanzadas para adquirir PGP Glass, una empresa india de envases de vidrio, a Blackstone por entre 1.300 y 1.500 millones de dólares. Blackstone había comprado la compañía en 2020 y buscaba salir de la inversión, incluso explorando una salida a bolsa.",
-      "detail": "Este tipo de operación se llama 'buyout' o adquisición de private equity: un fondo compra una empresa, la desarrolla durante algunos años y luego busca vender con ganancia. Blackstone compró PGP Glass en 2020 y ahora, seis años después, busca concretar su salida vendiéndola a otro fondo grande como Brookfield. Para alguien que aprende finanzas, esto ilustra cómo funciona el ciclo del capital privado: entrada, creación de valor y salida. El hecho de que se haya explorado también una IPO muestra que hay múltiples caminos para monetizar una inversión.",
-      "tags": [
-        "private equity",
-        "fusiones",
-        "adquisiciones"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-talks-acquire-pgp-glass-101626923.html",
-      "published_at": "2026-09-14T10:16:00Z",
-      "tickers": [
-        "BX"
-      ]
-    },
-    {
-      "id": "trx-gold-produccion-record",
-      "type": "empresa",
-      "title": "TRX Gold logró producción récord de oro en el cuarto trimestre de 2026",
-      "summary": "TRX Gold anunció una producción récord de 8.173 onzas de oro en el cuarto trimestre de 2026, con un precio promedio de venta de 4.233 dólares por onza. La compañía además avanza en la expansión de su planta de procesamiento para aumentar la capacidad futura.",
-      "detail": "El precio del oro en torno a los 4.233 dólares por onza refleja un contexto de alta demanda del metal, que suele subir cuando los inversores buscan refugio ante la incertidumbre económica o inflación. Para una empresa minera, producir más onzas a precios altos es doblemente beneficioso: más volumen y mejor margen. La expansión de la planta muestra que la empresa apuesta a seguir creciendo, lo que también implica riesgos de ejecución y mayores costos de capital en el corto plazo.",
-      "tags": [
-        "oro",
-        "minería",
-        "commodities"
-      ],
-      "source_name": "The Manila Times",
-      "source_url": "https://www.manilatimes.net/2026/09/14/tmt-newswire/globenewswire/trx-gold-delivers-record-q4-2026-achieves-top-end-of-production-guidance/2424342",
-      "published_at": "2026-09-14T10:34:27Z",
-      "tickers": [
-        "TRX"
-      ]
-    },
-    {
-      "id": "bank-of-america-resultados",
-      "type": "economia",
-      "title": "Bank of America superó las estimaciones con ganancias por acción de 1,21 dólares",
-      "summary": "Bank of America reportó resultados trimestrales por encima de lo esperado, con una ganancia por acción de 1,21 dólares e ingresos de 31.560 millones de dólares, y también anunció un aumento en su dividendo. Sin embargo, estrategas del propio banco advirtieron sobre posible volatilidad en el mercado por el alza en los rendimientos de los bonos del Tesoro.",
-      "detail": "Que un banco grande como Bank of America supere las estimaciones de ganancias es una señal positiva para el sector financiero en general. Pero la advertencia sobre la suba de rendimientos del Tesoro es igualmente importante: cuando los bonos del gobierno pagan más, los inversores pueden preferirlos frente a las acciones, lo que presiona los precios hacia abajo. Este tipo de tensión entre buenos resultados corporativos y condiciones macroeconómicas más restrictivas es un dilema clásico que los mercados enfrentan constantemente.",
-      "tags": [
-        "bancos",
-        "bonos",
+        "banca",
+        "tasas de interés",
         "resultados"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-winton-group-ltd-invests-117-million-in-bank-of-america-corporation-bac-2026-09-14/",
-      "published_at": "2026-09-14T08:52:23Z",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/stock-market-news/bank-of-america-ceo-sees-at-least-10-drop-in-q3-investment-banking-fees-4900232",
+      "published_at": "2026-09-14T19:03:19Z",
       "tickers": [
-        "BAC",
-        "GS"
+        "BAC"
+      ]
+    },
+    {
+      "id": "lilly-foundayo-obesidad-260914",
+      "type": "empresa",
+      "title": "Eli Lilly captura más del 30% de nuevos pacientes en el mercado de pastillas para bajar de peso en EE.UU.",
+      "summary": "Eli Lilly anunció que su tratamiento oral contra la obesidad, Foundayo, ya tiene más del 30% de los nuevos pacientes en el mercado estadounidense de pastillas para adelgazar, compitiendo fuerte con el producto de Novo Nordisk. El mercado global de tratamientos contra la obesidad podría superar los $100.000 millones anuales en EE.UU. para 2030.",
+      "detail": "El mercado de obesidad es uno de los de mayor crecimiento proyectado en el sector salud, lo que lo convierte en un campo de batalla entre grandes farmacéuticas. La participación de mercado (market share) es un indicador clave para los inversores porque anticipa ingresos futuros: si Lilly sigue ganando terreno con Foundayo, sus flujos de caja proyectados mejoran. Este caso también muestra cómo la preferencia del consumidor (pastillas vs. inyecciones) puede cambiar la dinámica competitiva de una industria entera.",
+      "tags": [
+        "farmacéutica",
+        "obesidad",
+        "competencia"
+      ],
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/lilly-says-foundayo-has-captured-over-30-new-us-patients-oral-weight-loss-drugs-2026-09-14/",
+      "published_at": "2026-09-14T20:39:13Z",
+      "tickers": [
+        "LLY"
+      ]
+    },
+    {
+      "id": "netflix-vs-ai-selloff-260914",
+      "type": "mercado",
+      "title": "Netflix subió 4% mientras las acciones de inteligencia artificial se vendían masivamente",
+      "summary": "Mientras las acciones ligadas a la inteligencia artificial caían el lunes por preocupaciones sobre los altos costos de desarrollo, Netflix subió un 4%. A diferencia de las empresas de IA, Netflix destina su capital a contenido, no a chips ni centros de datos, lo que la posicionó favorablemente ante los inversores en ese contexto.",
+      "detail": "Esta noticia ilustra cómo los inversores rotan entre sectores según el contexto del mercado: cuando algo preocupa en un sector (en este caso, los costos de la IA), el dinero busca refugio en empresas con modelos de negocio distintos. Netflix tiene un flujo de caja libre sólido y un programa de recompra de acciones, dos señales de salud financiera que los inversores valoran en momentos de incertidumbre. Entender la rotación sectorial es clave para analizar movimientos de mercado que a veces parecen contradictorios.",
+      "tags": [
+        "rotación sectorial",
+        "IA",
+        "flujo de caja"
+      ],
+      "source_name": "Currently.com",
+      "source_url": "https://currently.att.yahoo.com/att/netflix-stock-rose-4-while-194701621.html",
+      "published_at": "2026-09-14T19:48:00Z",
+      "tickers": [
+        "NFLX",
+        "NVDA"
+      ]
+    },
+    {
+      "id": "cybersecurity-ai-fears-260914",
+      "type": "mercado",
+      "title": "CrowdStrike y Palo Alto Networks dispararon por miedos a la seguridad de la IA",
+      "summary": "Las acciones de las empresas de ciberseguridad CrowdStrike y Palo Alto Networks subieron fuertemente luego de que advertencias sobre riesgos de seguridad relacionados con la inteligencia artificial generaran mayor demanda por sus soluciones. El contexto incluyó alertas de líderes tecnológicos tras una brecha de seguridad protagonizada por una IA autónoma.",
+      "detail": "Cuando aparece un nuevo riesgo tecnológico, las empresas que ofrecen soluciones para ese riesgo suelen ver subir sus acciones: es el principio de que la demanda sigue al problema. La IA introduce nuevas superficies de ataque cibernético, lo que convierte a las empresas de ciberseguridad en beneficiarias directas de su expansión. Para quienes estudian finanzas, este tipo de movimiento muestra cómo los eventos de la industria tecnológica pueden crear oportunidades de inversión en sectores relacionados.",
+      "tags": [
+        "ciberseguridad",
+        "inteligencia artificial",
+        "riesgo"
+      ],
+      "source_name": "Fast Company",
+      "source_url": "https://www.fastcompany.com/91607043/crowdstrike-palo-alto-networks-stock-surge-today-ai-doomsday-fears-jolt-cybersecurity",
+      "published_at": "2026-09-14T19:10:25Z",
+      "tickers": [
+        "CRWD",
+        "PANW"
+      ]
+    },
+    {
+      "id": "apple-ios27-siri-260914",
+      "type": "empresa",
+      "title": "Apple lanzó iOS 27 con una Siri rediseñada antes del debut del iPhone 18",
+      "summary": "Apple liberó una versión beta de iOS 27 con una Siri completamente rediseñada, basada en modelos de lenguaje de gran escala, justo antes del lanzamiento del iPhone 18. Para tareas complejas, el sistema utilizará infraestructura de nube privada respaldada por Google Cloud.",
+      "detail": "El lanzamiento de un nuevo sistema operativo y la actualización de su asistente de voz son eventos que los inversores en Apple siguen de cerca, ya que pueden impulsar la renovación de dispositivos y el crecimiento del ecosistema de servicios. La alianza con Google Cloud para tareas de IA más pesadas también muestra cómo incluso los grandes competidores colaboran en infraestructura. Para quienes aprenden finanzas, este tipo de anuncio muestra cómo la innovación de producto impacta directamente en las expectativas de ventas futuras.",
+      "tags": [
+        "Apple",
+        "inteligencia artificial",
+        "tecnología"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
+      "published_at": "2026-09-14T19:06:16Z",
+      "tickers": [
+        "AAPL",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "boeing-speea-huelga-260914",
+      "type": "empresa",
+      "title": "Boeing ofrece aumento salarial del 10% para evitar una huelga de sus ingenieros",
+      "summary": "Boeing presentó una nueva oferta a los ingenieros y técnicos representados por el sindicato SPEEA, incluyendo un aumento salarial garantizado del 10%, para evitar una huelga que podría frenar la producción del 737 MAX y retrasar la certificación de otros modelos. En paralelo, los maquinistas de Wichita votaron para reintegrarse al contrato principal del sindicato IAM.",
+      "detail": "Las huelgas en empresas manufactureras como Boeing tienen un impacto directo y medible en la producción y en los ingresos: si se detiene la línea del 737 MAX, Boeing no puede entregar aviones y, por tanto, no cobra. Por eso el mercado presta mucha atención a las negociaciones laborales en empresas industriales grandes. Además, los retrasos en certificaciones como la del 777X afectan compromisos con aerolíneas y pueden generar penalidades o cancelaciones de pedidos.",
+      "tags": [
+        "Boeing",
+        "huelga",
+        "manufactura"
+      ],
+      "source_name": "Leeham News and Analysis",
+      "source_url": "https://leehamnews.com/2026/09/14/working-to-avoid-strike-boeing-advances-another-speea-offer/",
+      "published_at": "2026-09-14T19:36:25Z",
+      "tickers": [
+        "BA"
+      ]
+    },
+    {
+      "id": "texas-instruments-55-2026-260914",
+      "type": "mercado",
+      "title": "Texas Instruments sube 55% en 2026 sin ser una empresa de chips de IA",
+      "summary": "Las acciones de Texas Instruments acumulan una suba del 55% en lo que va de 2026, superando ampliamente al S&P 500, impulsadas por la fuerte demanda de sus chips analógicos y de procesamiento embebido en sectores industriales, de centros de datos y automotriz, sin depender del boom de la IA generativa.",
+      "detail": "Este caso es un buen ejemplo de que no todas las ganancias del sector tecnológico vienen de la inteligencia artificial: Texas Instruments fabrica chips más tradicionales pero esenciales para una enorme variedad de industrias. Su estrategia de invertir en capacidad de fabricación propia durante una etapa de baja demanda le permitió estar bien posicionada cuando el ciclo mejoró, lo que se llama inversión contracíclica. Para quienes estudian finanzas, muestra cómo entender los ciclos industriales puede revelar oportunidades que el consenso del mercado pasa por alto.",
+      "tags": [
+        "semiconductores",
+        "ciclo industrial",
+        "diversificación"
+      ],
+      "source_name": "24/7 Wall St.",
+      "source_url": "https://247wallst.com/investing/2026/09/14/texas-instruments-is-up-55-in-2026-this-is-the-secret-tech-stock-youre-missing-out-on/",
+      "published_at": "2026-09-14T19:08:25Z",
+      "tickers": [
+        "TXN"
+      ]
+    },
+    {
+      "id": "coca-cola-29-pct-2026-260914",
+      "type": "mercado",
+      "title": "Coca-Cola sube 29% en 2026 y apunta a romper el techo psicológico de $100",
+      "summary": "Las acciones de Coca-Cola acumulan una suba del 29% en 2026, cotizando a $89.06, impulsadas por un crecimiento del 5% en volumen global y una mejora en la guía de ganancias por acción para todo el año. Analistas apuntan a que superar los $100 depende de sostener ese crecimiento en el tercer trimestre y de una expansión del múltiplo de valuación.",
+      "detail": "Coca-Cola es considerada una acción defensiva porque su negocio es menos volátil que el de empresas tecnológicas o cíclicas, lo que la hace atractiva en contextos de incertidumbre económica. El concepto de 'nivel psicológico' en los precios ($100 en este caso) es relevante porque muchos inversores y algoritmos de trading colocan órdenes cerca de números redondos, lo que puede generar resistencia o aceleración del precio. Además, la mención del múltiplo de valuación introduce la idea de que el precio de una acción no solo depende de los resultados, sino de cuánto están dispuestos a pagar los inversores por cada dólar de ganancia.",
+      "tags": [
+        "consumo defensivo",
+        "valuación",
+        "dividendos"
+      ],
+      "source_name": "24/7 Wall St.",
+      "source_url": "https://247wallst.com/investing/2026/09/14/coca-cola-stock-is-up-29-in-2026-what-will-it-take-to-break-through-100/",
+      "published_at": "2026-09-14T19:19:38Z",
+      "tickers": [
+        "KO"
       ]
     }
   ],
@@ -163,15 +194,15 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.545",
-      "valor_num": 1545.0,
-      "delta_pct": 0.0
+      "valor": "$1.555",
+      "valor_num": 1555.0,
+      "delta_pct": 0.65
     },
     {
       "label": "MEP",
-      "valor": "$1.540",
-      "valor_num": 1539.9,
-      "delta_pct": 0.0
+      "valor": "$1.537",
+      "valor_num": 1536.7,
+      "delta_pct": -0.21
     },
     {
       "label": "CCL",
@@ -181,21 +212,21 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.716",
-      "valor_num": 77716.0,
-      "delta_pct": 1.25
+      "valor": "US$ 78.761",
+      "valor_num": 78761.0,
+      "delta_pct": 1.94
     },
     {
       "label": "S&P 500",
-      "valor": "7.657",
-      "valor_num": 7656.98,
-      "delta_pct": -1.17
+      "valor": "7.620",
+      "valor_num": 7619.98,
+      "delta_pct": -1.28
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.331",
-      "valor_num": 4330.6,
-      "delta_pct": -1.93
+      "valor": "US$ 4.340",
+      "valor_num": 4340.0,
+      "delta_pct": -1.72
     }
   ]
 }
