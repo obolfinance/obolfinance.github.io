@@ -1,0 +1,9 @@
+{
+  "name": "obol-monitoreo",
+  "private": true,
+  "description": "Chequeo diario del sitio publicado. Lo corre .github/workflows/monitoreo-sitio.yml.",
+  "type": "module",
+  "devDependencies": {
+    "playwright": "1.61.1"
+  }
+}

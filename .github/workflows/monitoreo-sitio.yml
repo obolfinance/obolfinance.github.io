@@ -1,0 +1,95 @@
+# Chequeo diario del sitio publicado.
+#
+# Si algo falla, abre un Issue con el detalle (o comenta en el que ya esta
+# abierto) y la corrida queda en rojo, asi GitHub manda tambien el mail de
+# "workflow failed". Cuando todo vuelve a pasar, cierra el Issue solo.
+#
+# Que revisa y por que: automation/monitoreo/revisar-sitio.mjs.
+name: monitoreo del sitio
+
+on:
+  schedule:
+    # 10:00 de Argentina (13:00 UTC), despues de la corrida de noticias de la
+    # mañana (12:00 UTC).
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: monitoreo-sitio
+  cancel-in-progress: false
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: '24'
+
+      - name: Instalar Playwright
+        working-directory: automation/monitoreo
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+
+      - name: Revisar el sitio
+        id: revisar
+        working-directory: automation/monitoreo
+        continue-on-error: true
+        run: node revisar-sitio.mjs
+
+      - name: Resumen de la corrida
+        if: always()
+        run: |
+          if [ -f automation/monitoreo/resultado.md ]; then
+            cat automation/monitoreo/resultado.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "El script no llego a escribir el resultado: ver el log del paso anterior." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Abrir, actualizar o cerrar el Issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RESULTADO: ${{ steps.revisar.outcome }}
+        run: |
+          set -euo pipefail
+          TITULO="Monitoreo del sitio: algo falló"
+          ETIQUETA="monitoreo"
+          CORRIDA="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+
+          gh label create "$ETIQUETA" --color D93F0B --description "Avisos del monitoreo automatico" --force >/dev/null 2>&1 || true
+          ABIERTO=$(gh issue list --state open --label "$ETIQUETA" --json number,title --jq ".[] | select(.title == \"$TITULO\") | .number" | head -n 1)
+
+          CUERPO=/tmp/cuerpo.md
+          if [ -f automation/monitoreo/resultado.md ]; then
+            cp automation/monitoreo/resultado.md "$CUERPO"
+          else
+            echo "El script de monitoreo no llego a escribir el resultado." > "$CUERPO"
+          fi
+          printf '\n[Ver la corrida](%s)\n' "$CORRIDA" >> "$CUERPO"
+
+          if [ "$RESULTADO" = "success" ]; then
+            if [ -n "$ABIERTO" ]; then
+              gh issue close "$ABIERTO" --comment "Todo volvió a pasar en la corrida del $(date -u +%F): $CORRIDA"
+            fi
+          elif [ -n "$ABIERTO" ]; then
+            gh issue comment "$ABIERTO" --body-file "$CUERPO"
+          else
+            gh issue create --title "$TITULO" --label "$ETIQUETA" --body-file "$CUERPO"
+          fi
+
+      - name: Marcar la corrida como fallida
+        if: steps.revisar.outcome != 'success'
+        run: exit 1

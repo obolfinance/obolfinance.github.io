@@ -48,3 +48,6 @@ all_sections_*.js
 qbank_*.js
 extracted_*
 handover_claude.md
+
+# Salida local del chequeo diario del sitio
+automation/monitoreo/resultado.md
