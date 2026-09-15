@@ -15,9 +15,13 @@
   // veces por dia, y con solo el id una guardada desaparecia de la lista en
   // cuanto salia del listado. Formato: { id: { item: {...}, guardadaEn: ms } }.
   // Las ids sueltas (id: true) son del formato anterior y se migran al cargar.
+  //
+  // No vencen: quedan hasta que la persona las saque o borre los datos del
+  // navegador. El unico tope es GUARDADAS_MAX, para no llenar el localStorage
+  // (unos 5 MB por sitio): si se llenara, las nuevas dejarian de guardarse sin
+  // avisar. 500 noticias con los largos de copiaGuardable ocupan menos de la mitad.
   var GUARDADAS_KEY = 'obolNoticiasGuardadas';
-  var GUARDADAS_DIAS = 30;
-  var GUARDADAS_MAX = 30;
+  var GUARDADAS_MAX = 500;
 
   var $ = function (id) { return document.getElementById(id); };
   var state = {
@@ -87,16 +91,14 @@
     return Object.prototype.hasOwnProperty.call(state.guardadas, id) && esGuardadaValida(state.guardadas[id]);
   }
 
-  // Saca las vencidas (mas de GUARDADAS_DIAS dias), los datos rotos y, si hay
-  // mas de GUARDADAS_MAX, las mas viejas. Las del formato anterior (true) las
-  // resuelve migrarGuardadas cuando ya esta el listado.
+  // Saca los datos rotos y, si hay mas de GUARDADAS_MAX, las mas viejas. Las del
+  // formato anterior (true) las resuelve migrarGuardadas cuando ya esta el listado.
   function purgarGuardadas() {
-    var limite = Date.now() - GUARDADAS_DIAS * 86400000;
     var vigentes = [];
     Object.keys(state.guardadas).forEach(function (id) {
       var g = state.guardadas[id];
       if (g === true) return;
-      if (!esGuardadaValida(g) || g.guardadaEn < limite) { delete state.guardadas[id]; return; }
+      if (!esGuardadaValida(g)) { delete state.guardadas[id]; return; }
       vigentes.push(id);
     });
     vigentes.sort(function (a, b) { return state.guardadas[b].guardadaEn - state.guardadas[a].guardadaEn; });
@@ -154,7 +156,7 @@
       purgarGuardadas();
     }
     guardarGuardadas();
-    toast(estaba ? 'Sacada de guardadas' : 'Guardada por ' + GUARDADAS_DIAS + ' días en este navegador');
+    toast(estaba ? 'Sacada de guardadas' : 'Guardada en este navegador');
     renderChips();
     renderCards();
   }
@@ -262,7 +264,7 @@
       $('newsEmpty').style.display = 'flex';
       if (state.soloGuardadas) {
         $('emptyTitle').textContent = 'No tenés noticias guardadas';
-        $('emptyText').textContent = 'Tocá la estrella de una noticia para guardarla. Queda en este navegador durante ' + GUARDADAS_DIAS + ' días.';
+        $('emptyText').textContent = 'Tocá la estrella de una noticia para guardarla. Queda guardada en este navegador hasta que la saques.';
       } else if (!state.items.length) {
         $('emptyTitle').textContent = 'Estamos preparando las primeras noticias';
         $('emptyText').textContent = 'Esta sección se actualiza sola un par de veces por día. Volvé en un rato.';
