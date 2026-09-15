@@ -10,7 +10,14 @@
     empresa:  { label: 'Empresas',  emoji: '🏢', color: '#b3651f', suave: '#fbf0e4' },
     economia: { label: 'Economía',  emoji: '📊', color: '#16213e', suave: '#e9ecf5' }
   };
+  // Guardadas: viven en el localStorage de este navegador, no hay cuentas. Se
+  // guarda la noticia entera y no solo el id: noticias.json se reemplaza dos
+  // veces por dia, y con solo el id una guardada desaparecia de la lista en
+  // cuanto salia del listado. Formato: { id: { item: {...}, guardadaEn: ms } }.
+  // Las ids sueltas (id: true) son del formato anterior y se migran al cargar.
   var GUARDADAS_KEY = 'obolNoticiasGuardadas';
+  var GUARDADAS_DIAS = 30;
+  var GUARDADAS_MAX = 30;
 
   var $ = function (id) { return document.getElementById(id); };
   var state = {
@@ -20,8 +27,9 @@
 
   try {
     var raw = localStorage.getItem(GUARDADAS_KEY);
-    if (raw) state.guardadas = JSON.parse(raw) || {};
-  } catch (e) { /* localStorage no disponible, seguimos sin guardadas */ }
+    var leidas = raw ? JSON.parse(raw) : null;
+    if (leidas && typeof leidas === 'object' && !Array.isArray(leidas)) state.guardadas = leidas;
+  } catch (e) { /* localStorage no disponible o dato roto: seguimos sin guardadas */ }
 
   function escXml(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
@@ -48,6 +56,84 @@
     try { localStorage.setItem(GUARDADAS_KEY, JSON.stringify(state.guardadas)); } catch (e) { /* ignorar */ }
   }
 
+  function texto(v, max) { return typeof v === 'string' ? v.slice(0, max) : ''; }
+
+  // Copia solo lo que hace falta para mostrar la tarjeta, con largos acotados:
+  // el localStorage tiene poco espacio, y lo que se lee de ahi se trata igual
+  // que lo que viene de noticias.json (cardHtml escapa todo).
+  function copiaGuardable(item) {
+    return {
+      id: texto(item.id, 200),
+      type: texto(item.type, 40),
+      title: texto(item.title, 400),
+      summary: texto(item.summary, 1200),
+      detail: texto(item.detail, 2400),
+      tags: Array.isArray(item.tags)
+        ? item.tags.filter(function (x) { return typeof x === 'string'; }).slice(0, 8).map(function (x) { return x.slice(0, 60); })
+        : [],
+      source_name: texto(item.source_name, 120),
+      source_url: texto(item.source_url, 600),
+      published_at: texto(item.published_at, 40)
+    };
+  }
+
+  function esGuardadaValida(g) {
+    return !!g && typeof g === 'object' && !!g.item && typeof g.item.id === 'string' && typeof g.guardadaEn === 'number';
+  }
+
+  // hasOwnProperty y no state.guardadas[id] a secas: una noticia con id
+  // "constructor" o "toString" se veria como guardada por la herencia del objeto.
+  function estaGuardada(id) {
+    return Object.prototype.hasOwnProperty.call(state.guardadas, id) && esGuardadaValida(state.guardadas[id]);
+  }
+
+  // Saca las vencidas (mas de GUARDADAS_DIAS dias), los datos rotos y, si hay
+  // mas de GUARDADAS_MAX, las mas viejas. Las del formato anterior (true) las
+  // resuelve migrarGuardadas cuando ya esta el listado.
+  function purgarGuardadas() {
+    var limite = Date.now() - GUARDADAS_DIAS * 86400000;
+    var vigentes = [];
+    Object.keys(state.guardadas).forEach(function (id) {
+      var g = state.guardadas[id];
+      if (g === true) return;
+      if (!esGuardadaValida(g) || g.guardadaEn < limite) { delete state.guardadas[id]; return; }
+      vigentes.push(id);
+    });
+    vigentes.sort(function (a, b) { return state.guardadas[b].guardadaEn - state.guardadas[a].guardadaEn; });
+    vigentes.slice(GUARDADAS_MAX).forEach(function (id) { delete state.guardadas[id]; });
+  }
+
+  // Formato anterior (id: true): si la noticia sigue en el listado se pasa al
+  // formato nuevo; si ya salio, no hay de donde sacarla y se descarta.
+  function migrarGuardadas() {
+    Object.keys(state.guardadas).forEach(function (id) {
+      if (state.guardadas[id] !== true) return;
+      var item = state.items.find(function (it) { return it.id === id; });
+      if (item) state.guardadas[id] = { item: copiaGuardable(item), guardadaEn: Date.now() };
+      else delete state.guardadas[id];
+    });
+    purgarGuardadas();
+    guardarGuardadas();
+  }
+
+  // Las guardadas, de la mas nueva a la mas vieja. Si una sigue en el listado
+  // del dia, se muestra esa version, que puede estar mas actualizada.
+  function listaGuardadas() {
+    return Object.keys(state.guardadas)
+      .filter(estaGuardada)
+      .map(function (id) { return state.guardadas[id]; })
+      .sort(function (a, b) { return b.guardadaEn - a.guardadaEn; })
+      .map(function (g) {
+        return state.items.find(function (it) { return it.id === g.item.id; }) || g.item;
+      });
+  }
+
+  function buscarItem(id) {
+    var enListado = state.items.find(function (it) { return it.id === id; });
+    if (enListado) return enListado;
+    return estaGuardada(id) ? state.guardadas[id].item : null;
+  }
+
   var toastTimer = null;
   function toast(txt) {
     clearTimeout(toastTimer);
@@ -58,10 +144,17 @@
   }
 
   function toggleGuardar(id) {
-    var estaba = !!state.guardadas[id];
-    if (estaba) delete state.guardadas[id]; else state.guardadas[id] = true;
+    var estaba = estaGuardada(id);
+    if (estaba) {
+      delete state.guardadas[id];
+    } else {
+      var item = buscarItem(id);
+      if (!item) return;
+      state.guardadas[id] = { item: copiaGuardable(item), guardadaEn: Date.now() };
+      purgarGuardadas();
+    }
     guardarGuardadas();
-    toast(estaba ? 'Sacada de guardadas' : 'Guardada para después');
+    toast(estaba ? 'Sacada de guardadas' : 'Guardada por ' + GUARDADAS_DIAS + ' días en este navegador');
     renderChips();
     renderCards();
   }
@@ -75,7 +168,7 @@
       : { label: 'Noticia', emoji: '📰', color: '#5d6880', suave: '#f1f4fa' };
     // Solo links https: escXml escapa las comillas pero deja pasar javascript:.
     var fuente = String(item.source_url || '').indexOf('https://') === 0 ? item.source_url : '';
-    var guardada = !!state.guardadas[item.id];
+    var guardada = estaGuardada(item.id);
     var tieneDetalle = !!item.detail;
     var abierta = tieneDetalle && !!state.abiertas[item.id];
 
@@ -127,9 +220,8 @@
   }
 
   function listaVisible() {
-    return state.items.filter(function (it) {
-      return (!state.filtro || it.type === state.filtro) && (!state.soloGuardadas || state.guardadas[it.id]);
-    });
+    var base = state.soloGuardadas ? listaGuardadas() : state.items;
+    return base.filter(function (it) { return !state.filtro || it.type === state.filtro; });
   }
 
   function renderChips() {
@@ -152,7 +244,7 @@
       });
     });
 
-    var nGuardadas = Object.keys(state.guardadas).filter(function (k) { return state.guardadas[k]; }).length;
+    var nGuardadas = listaGuardadas().length;
     $('conteoGuardadas').textContent = nGuardadas ? '(' + nGuardadas + ')' : '';
     var btnG = $('btnGuardadas');
     btnG.style.background = state.soloGuardadas ? '#ffb24a' : '#fff';
@@ -168,7 +260,10 @@
     if (!items.length) {
       host.style.display = 'none';
       $('newsEmpty').style.display = 'flex';
-      if (!state.items.length) {
+      if (state.soloGuardadas) {
+        $('emptyTitle').textContent = 'No tenés noticias guardadas';
+        $('emptyText').textContent = 'Tocá la estrella de una noticia para guardarla. Queda en este navegador durante ' + GUARDADAS_DIAS + ' días.';
+      } else if (!state.items.length) {
         $('emptyTitle').textContent = 'Estamos preparando las primeras noticias';
         $('emptyText').textContent = 'Esta sección se actualiza sola un par de veces por día. Volvé en un rato.';
       } else {
@@ -193,7 +288,7 @@
     document.querySelectorAll('.news-card').forEach(function (card) {
       card.addEventListener('click', function () {
         var id = card.getAttribute('data-id');
-        var item = state.items.find(function (it) { return it.id === id; });
+        var item = buscarItem(id);
         if (!item || !item.detail) return;
         state.abiertas[id] = !state.abiertas[id];
         renderCards();
@@ -239,6 +334,7 @@
       .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
       .then(function (data) {
         state.items = Array.isArray(data.items) ? data.items : [];
+        migrarGuardadas();
         state.generatedAt = data.generated_at || null;
         state.loading = false;
         $('newsSkeleton').style.display = 'none';
