@@ -1,190 +1,186 @@
 {
-  "generated_at": "2026-09-15T12:01:17.930214+00:00",
+  "generated_at": "2026-09-15T22:01:31.466282+00:00",
   "items": [
     {
-      "id": "analog-devices-alif-semiconductor",
+      "id": "coca-cola-10b-inversion",
       "type": "empresa",
-      "title": "Analog Devices compra una startup de IA por 1.350 millones de dólares",
-      "summary": "Analog Devices adquirió Alif Semiconductor por 1.350 millones de dólares para expandir su presencia en inteligencia artificial, con foco en demanda industrial y de comunicaciones.",
-      "detail": "Las adquisiciones son una forma común que tienen las empresas tecnológicas de crecer rápido en áreas estratégicas. En este caso, Analog Devices apuesta a que la IA va a impulsar su facturación futura. Para inversores que aprenden, esto muestra cómo las empresas grandes compran innovación en lugar de desarrollarla internamente, y cómo los anuncios de M&A suelen mover el precio de las acciones involucradas.",
+      "title": "Coca-Cola invertirá u$s10.000 millones en EE.UU. antes de 2030",
+      "summary": "Coca-Cola y sus embotelladoras van a destinar u$s10.000 millones a infraestructura en Estados Unidos para satisfacer la demanda creciente. La inversión incluye nuevas plantas de producción, distribución y oficinas. Según un estudio independiente, la empresa ya aporta u$s85.000 millones al PBI americano y sostiene un millón de empleos.",
+      "detail": "Cuando una empresa global como Coca-Cola anuncia una inversión masiva en infraestructura, es una señal de que espera que la demanda de sus productos siga creciendo. Este tipo de decisiones también tiene impacto en el empleo y en el PBI del país donde se invierte. Para quienes aprenden finanzas, es un ejemplo de cómo las grandes corporaciones asignan capital a largo plazo basándose en proyecciones de demanda y rentabilidad futura.",
       "tags": [
-        "inteligencia artificial",
-        "fusiones",
-        "semiconductores"
-      ],
-      "source_name": "S&P Global",
-      "source_url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-sep-15-2026",
-      "published_at": "2026-09-15T11:08:34Z",
-      "tickers": [
-        "ADI"
-      ]
-    },
-    {
-      "id": "amazon-qualcomm-60b-deal",
-      "type": "empresa",
-      "title": "Amazon y Qualcomm cierran un acuerdo de hasta 60.000 millones de dólares en chips para IA",
-      "summary": "Amazon estableció una relación comercial potencial de hasta 60.000 millones de dólares con Qualcomm para infraestructura de IA, justo cuando Apple está dejando de usar los módems de Qualcomm para desarrollar los propios.",
-      "detail": "Este acuerdo muestra cómo las grandes tecnológicas diversifican sus proveedores y cómo la pérdida de un cliente importante (Apple) puede compensarse con otro. Los warrants incluidos en el trato —que se activan según los montos de compra— son un instrumento financiero que vale la pena entender: le dan a Amazon la opción de comprar acciones de Qualcomm a un precio fijo si se cumplen metas. Esto alinea incentivos entre ambas empresas.",
-      "tags": [
-        "tecnología",
-        "chips",
-        "acuerdos comerciales"
-      ],
-      "source_name": "Foreign Policy Journal",
-      "source_url": "https://www.foreignpolicyjournal.com/2026/09/15/amazon-nasdaq-amzn-sets-60-billion-ceiling-with-qualcomm-nasdaq-qcom-as-apple-nasdaq-aapl-cuts-modem-ties/",
-      "published_at": "2026-09-15T09:37:55Z",
-      "tickers": [
-        "QCOM",
-        "AMZN",
-        "AAPL"
-      ]
-    },
-    {
-      "id": "wells-fargo-ai-slowdown-unlikely",
-      "type": "economia",
-      "title": "Wells Fargo descarta una pausa coordinada en el desarrollo de IA",
-      "summary": "El banco Wells Fargo considera poco probable que haya una desaceleración coordinada en la expansión de la inteligencia artificial, y señala que los cuellos de botella más probables son la disponibilidad de energía eléctrica y los permisos de construcción, no una decisión voluntaria del sector.",
-      "detail": "Cuando grandes bancos como Wells Fargo publican análisis sobre una industria, los inversores los toman como señales sobre dónde fluirá el capital. Acá el dato clave es que los límites al crecimiento de la IA no serían regulatorios ni de demanda, sino físicos: falta de electricidad e infraestructura. Eso tiene implicancias directas para empresas de energía y construcción, no solo para las tecnológicas.",
-      "tags": [
-        "inteligencia artificial",
-        "energía",
-        "análisis bancario"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/wells-fargo-sees-ai-slowdown-as-unlikely-despite-safety-calls-93CH-4901078",
-      "published_at": "2026-09-15T09:32:40Z",
-      "tickers": [
-        "WFC",
-        "META"
-      ]
-    },
-    {
-      "id": "ai-sostenibilidad-riesgos",
-      "type": "economia",
-      "title": "S&P Global advierte sobre los riesgos de sostenibilidad que enfrenta el boom de la IA",
-      "summary": "Un informe de S&P Global señala que más de la mitad de las empresas encuestadas no tienen una gobernanza sólida sobre IA, mientras que los centros de datos consumen cada vez más energía y generan resistencia en comunidades locales de EE.UU.",
-      "detail": "La sostenibilidad no es solo una cuestión ambiental: tiene impacto directo en los negocios. Si los centros de datos no consiguen permisos o generan conflictos locales, los proyectos se retrasan y los costos suben. Para alguien que aprende finanzas, este artículo muestra que invertir en IA implica analizar riesgos que van más allá de los balances contables, como el consumo energético o la regulación ambiental.",
-      "tags": [
-        "inteligencia artificial",
-        "sostenibilidad",
-        "riesgo"
-      ],
-      "source_name": "S&P Global",
-      "source_url": "https://www.spglobal.com/en/research-insights/special-reports/sustainability-quarterly/third-quarter-2026-edition/the-sustainability-risks-threatening-ai-resilience-narrative",
-      "published_at": "2026-09-15T10:13:23Z",
-      "tickers": [
-        "SPGI"
-      ]
-    },
-    {
-      "id": "workday-adobe-suben-ai-debate",
-      "type": "mercado",
-      "title": "Workday y Adobe subieron mientras el resto de las acciones de IA caían",
-      "summary": "Las acciones de Workday y Adobe treparon en medio de llamados a frenar el desarrollo de IA de vanguardia, mientras el mercado general de acciones vinculadas a IA bajó. Ambas empresas mostraron fuerte adopción de IA en sus últimos resultados.",
-      "detail": "Este movimiento ilustra un concepto importante: no todas las empresas de tecnología reaccionan igual ante una misma noticia. Workday y Adobe son plataformas de software establecidas que podrían beneficiarse si el desarrollo de IA más avanzada se frena, porque tendrían más tiempo para integrar IA gradualmente sin ser desplazadas. Esto se llama rotación sectorial: el dinero se mueve dentro del mismo sector hacia acciones que cambian su perfil de riesgo.",
-      "tags": [
-        "software",
-        "rotación sectorial",
-        "inteligencia artificial"
-      ],
-      "source_name": "Yahoo Finance Singapore",
-      "source_url": "https://sg.finance.yahoo.com/news/ai-stocks-fell-workday-adobe-095614361.html",
-      "published_at": "2026-09-15T09:56:17Z",
-      "tickers": [
-        "ADBE",
-        "WDAY",
-        "NVDA"
-      ]
-    },
-    {
-      "id": "costco-14-nuevos-locales",
-      "type": "empresa",
-      "title": "Costco abre 14 nuevos depósitos en los próximos dos meses",
-      "summary": "Costco planea inaugurar 14 nuevos locales en los próximos dos meses, con cuatro en Canadá en noviembre. Las ventas netas de agosto crecieron un 9,9% hasta los 23.700 millones de dólares.",
-      "detail": "La expansión física de una empresa es una señal de confianza en su modelo de negocio y en la demanda futura. En el caso de Costco, el crecimiento de ventas de doble dígito justifica la inversión en nuevos locales. Para quienes aprenden finanzas, esto muestra cómo los datos de ventas mensuales pueden anticipar decisiones de expansión, y cómo el crecimiento en ingresos se traduce en decisiones concretas de capital.",
-      "tags": [
-        "retail",
-        "expansión",
-        "ventas"
-      ],
-      "source_name": "Retail Customer Experience",
-      "source_url": "https://www.retailcustomerexperience.com/news/costco-launching-14-warehouses-in-next-2-months/",
-      "published_at": "2026-09-15T11:01:02Z",
-      "tickers": [
-        "COST"
-      ]
-    },
-    {
-      "id": "lululemon-cramer-no-mans-land",
-      "type": "empresa",
-      "title": "Jim Cramer dice que Lululemon está en 'tierra de nadie' tras un trimestre muy malo",
-      "summary": "El presentador financiero Jim Cramer calificó a Lululemon como una \"acción rota\" después de que la empresa reportara caídas en ventas y comparables, y recortara sus proyecciones anuales. Cramer desaconsejó comprar el papel pese a su valuación más baja.",
-      "detail": "Cuando una empresa corta su guidance (proyección de resultados futuros), es una señal de alerta seria para los mercados. Lululemon también enfrenta más competencia en el mercado de ropa deportiva, lo que comprime sus márgenes. Este caso es útil para entender cómo una acción puede parecer barata en términos de precio pero seguir siendo riesgosa si los fundamentos del negocio se deterioran: lo que se llama una value trap.",
-      "tags": [
+        "inversión",
         "consumo",
-        "resultados",
-        "valuación"
+        "empresa"
+      ],
+      "source_name": "Food Dive",
+      "source_url": "https://www.fooddive.com/news/coca-cola-us-manufacturing-10-billion-investment/830468/",
+      "published_at": "2026-09-15T20:14:05Z",
+      "tickers": [
+        "KO"
+      ]
+    },
+    {
+      "id": "adobe-short-squeeze-cramer",
+      "type": "mercado",
+      "title": "Jim Cramer ve a Adobe como candidata a un short squeeze",
+      "summary": "El conductor financiero Jim Cramer señaló que Adobe (ADBE) podría protagonizar un short squeeze, destacando su resiliencia y un crecimiento en ingresos por IA que ya supera los u$s650 millones anuales. Sin embargo, hay preocupaciones por la desaceleración de los ingresos recurrentes y la competencia de nuevas plataformas de diseño impulsadas por IA.",
+      "detail": "Un short squeeze ocurre cuando muchos inversores apostaron a que una acción iba a bajar (posiciones vendidas o 'short'), pero el precio sube, obligándolos a comprar para cubrir sus pérdidas, lo que empuja el precio todavía más arriba. Entender este mecanismo es clave para comprender movimientos bruscos en el mercado. El caso de Adobe también ilustra cómo la IA está cambiando los modelos de negocio de empresas tecnológicas.",
+      "tags": [
+        "acciones",
+        "inteligencia artificial",
+        "mercado"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-lululemon-lulu-093702668.html",
-      "published_at": "2026-09-15T09:44:06Z",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-adobe-adbe-202744226.html",
+      "published_at": "2026-09-15T20:29:05Z",
       "tickers": [
-        "LULU"
+        "ADBE"
       ]
     },
     {
-      "id": "kkr-realty-income-europa",
+      "id": "amex-banca-pymes",
       "type": "empresa",
-      "title": "KKR paga 528 millones de euros por el 49% de una joint venture inmobiliaria con Realty Income en Europa",
-      "summary": "KKR adquirió una participación del 49% en una nueva sociedad conjunta con Realty Income que incluye 54 propiedades en España, Irlanda, Polonia y Países Bajos. Realty Income retiene el 51% y seguirá administrando los activos.",
-      "detail": "Las joint ventures son una forma de que dos empresas compartan riesgos y capital en proyectos grandes. En este caso, Realty Income consigue fondos frescos de KKR para expandirse en Europa sin perder el control operativo. Para alguien que aprende finanzas, esto ilustra cómo los fondos de capital privado como KKR invierten en activos reales y cómo los REITs (fondos de inversión en bienes raíces) pueden financiar su crecimiento sin emitir acciones nuevas.",
+      "title": "American Express avanza en banca para pequeñas empresas con IA y cuentas de ahorro",
+      "summary": "American Express lanzó una cuenta de ahorro de alto rendimiento para empresas y planea sumar un sistema de nómina con inteligencia artificial en 2027. La estrategia busca competir con bancos tradicionales y fintechs por los clientes de pequeñas y medianas empresas, integrando banca, pagos y nómina en una sola plataforma.",
+      "detail": "Este movimiento de Amex muestra cómo las empresas de pagos están expandiéndose hacia servicios bancarios completos, compitiendo directamente con bancos tradicionales. Para quienes aprenden finanzas, es un ejemplo de diversificación de ingresos y de cómo la tecnología, especialmente la IA, está redibujando los límites entre distintos tipos de instituciones financieras.",
       "tags": [
-        "real estate",
-        "capital privado",
-        "Europa"
+        "fintech",
+        "banca",
+        "inteligencia artificial"
       ],
-      "source_name": "IPE Real Assets",
-      "source_url": "https://realassets.ipe.com/news/kkr-pays-528m-for-49-stake-in-realty-income-european-venture/10138457.article",
-      "published_at": "2026-09-15T10:07:44Z",
+      "source_name": "American Banker",
+      "source_url": "https://www.americanbanker.com/payments/news/amex-launches-accounts-plans-ai-tools-for-small-businesses",
+      "published_at": "2026-09-15T20:10:58Z",
       "tickers": [
-        "O",
-        "KKR"
+        "AXP"
       ]
     },
     {
-      "id": "kraft-heinz-philadelphia-inversion",
+      "id": "broadridge-crypto-tokenizados",
       "type": "empresa",
-      "title": "Kraft Heinz invierte 700 millones de dólares para relanzar su marca Philadelphia",
-      "summary": "Kraft Heinz lanzará nuevos sabores de queso crema Philadelphia —como Mike's Hot Honey y caramelo salado— como parte de una inversión de 700 millones de dólares para revitalizar sus marcas icónicas tras años de ventas decepcionantes.",
-      "detail": "La estrategia de relanzar marcas consolidadas con nuevos productos es menos riesgosa que crear una marca desde cero, pero requiere inversión significativa. Para Kraft Heinz, que venía con resultados flojos, este movimiento busca recuperar participación de mercado. En finanzas, esto se llama estrategia de extensión de marca, y su éxito depende de si los consumidores responden positivamente, algo que los inversores van a monitorear en los próximos trimestres.",
+      "title": "Broadridge integra criptomonedas e inversiones tokenizadas a su plataforma",
+      "summary": "Broadridge anunció que sus clientes podrán ver criptoactivos e inversiones tokenizadas junto a sus acciones y bonos tradicionales en una misma cartera. El objetivo es integrar los activos digitales de forma fluida en las plataformas de gestión de inversiones existentes.",
+      "detail": "La tokenización convierte activos reales (como bonos o acciones) en tokens digitales que pueden operar en blockchain, facilitando su compraventa. Que una empresa de infraestructura financiera como Broadridge adopte estas tecnologías indica que los activos digitales están ganando lugar en el sistema financiero convencional. Este tipo de noticias es importante para entender hacia dónde va la evolución de los mercados globales.",
       "tags": [
-        "consumo masivo",
-        "marcas",
-        "estrategia"
+        "cripto",
+        "tokenización",
+        "inversión"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
-      "published_at": "2026-09-15T10:00:51Z",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/video/broadridge-expands-offer-crypto-tokenized-193000136.html",
+      "published_at": "2026-09-15T19:30:19Z",
       "tickers": [
-        "KHC"
+        "BR"
       ]
     },
     {
-      "id": "mcdonalds-jefferies-rebaja-target",
+      "id": "micron-research-labs-ia",
+      "type": "empresa",
+      "title": "Micron invierte u$s10.000 millones en un laboratorio global de IA y memoria",
+      "summary": "Micron Technology designó a Deirdre Hanford como vicepresidenta y presidenta de Micron Research Labs, una institución global de investigación anunciada en agosto de 2026 y respaldada por una inversión de u$s10.000 millones. El laboratorio apunta a generar avances en memoria, cómputo e inteligencia artificial.",
+      "detail": "Micron es uno de los principales fabricantes de chips de memoria del mundo, y la memoria es un componente clave para los sistemas de IA. Una inversión de esta magnitud en investigación señala que la demanda de semiconductores avanzados sigue siendo muy alta. Para quienes aprenden finanzas, es un ejemplo de cómo las empresas tecnológicas asignan capital masivo en I+D para mantener su ventaja competitiva.",
+      "tags": [
+        "semiconductores",
+        "inteligencia artificial",
+        "inversión"
+      ],
+      "source_name": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com/news/micron-appoints-deirdre-hanford-lead-200100153.html",
+      "published_at": "2026-09-15T20:01:59Z",
+      "tickers": [
+        "MU"
+      ]
+    },
+    {
+      "id": "boeing-rtx-misiles-pentagono",
+      "type": "empresa",
+      "title": "El Pentágono firma acuerdos con Boeing y RTX para aumentar la producción de misiles",
+      "summary": "El Departamento de Defensa de EE.UU. firmó acuerdos marco con Boeing y RTX para elevar la producción de interceptores SM-3, como parte de un refuerzo general del arsenal de misiles americano. Aunque ambas empresas se benefician, el mercado reaccionó con calma, sugiriendo que gran parte del alza ya estaba descontada en los precios de las acciones.",
+      "detail": "Cuando el mercado no reacciona con fuerza ante una buena noticia, suele ser porque esa noticia ya estaba 'priceada', es decir, incorporada al precio de la acción con anticipación. Este concepto, conocido como 'mercado eficiente', es fundamental para entender cómo operan los inversores profesionales. El caso también ilustra cómo los contratos gubernamentales de defensa pueden influir en el valor de las empresas del sector.",
+      "tags": [
+        "defensa",
+        "acciones",
+        "mercado"
+      ],
+      "source_name": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com/news/boeing-ba-rtx-rtx-gain-193701338.html",
+      "published_at": "2026-09-15T19:39:04Z",
+      "tickers": [
+        "RTX",
+        "BA"
+      ]
+    },
+    {
+      "id": "franklin-templeton-baja-comisiones",
       "type": "mercado",
-      "title": "Jefferies bajó su precio objetivo para McDonald's de 350 a 325 dólares, pero mantiene recomendación de compra",
-      "summary": "El banco de inversión Jefferies redujo su precio objetivo para las acciones de McDonald's a 325 dólares desde 350, aunque mantuvo su calificación de \"compra\". El ajuste se da en un contexto de menor demanda en el sector de comida rápida.",
-      "detail": "Cuando un banco baja su precio objetivo pero mantiene la recomendación de compra, está señalando que sigue siendo optimista pero ajusta sus expectativas a la realidad del mercado. Para quienes aprenden finanzas, esto muestra cómo los analistas actualizan sus modelos ante cambios en el entorno económico —en este caso, una demanda más débil— sin necesariamente cambiar su visión de largo plazo sobre la empresa.",
+      "title": "Franklin Templeton baja comisiones y cambia la estrategia de un fondo global",
+      "summary": "Franklin Templeton Australia reasignará la gestión de su fondo Franklin Global Growth Fund a Putnam Investment Management, reduciéndole la comisión anual de 0,90% a 0,60% y cambiando su estilo de inversión de concentrado en crecimiento a una estrategia diversificada de renta variable global. Los cambios operarán antes del 14 de octubre.",
+      "detail": "La comisión (o 'fee') de un fondo de inversión impacta directamente en el rendimiento neto que recibe el inversor: una baja de 0,90% a 0,60% puede parecer pequeña, pero a largo plazo representa una diferencia importante. Este caso también muestra cómo las gestoras de fondos adaptan sus productos a las preferencias del mercado, priorizando opciones más baratas y diversificadas. Es una tendencia global que vale la pena entender al momento de elegir dónde invertir.",
       "tags": [
-        "análisis bursátil",
-        "consumo",
-        "precio objetivo"
+        "fondos",
+        "comisiones",
+        "diversificación"
       ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/jefferies-adjusts-price-target-on-mcdonald-s-to-325-from-350-keeps-buy-rating-ce785bdddb8efe20",
-      "published_at": "2026-09-15T09:27:18Z",
+      "source_name": "Financial Newswire",
+      "source_url": "https://financialnewswire.com.au/funds-management/franklin-templeton-switches-fund-to-putnam/",
+      "published_at": "2026-09-15T20:32:29Z",
       "tickers": [
-        "MCD"
+        "BEN"
+      ]
+    },
+    {
+      "id": "fis-52-semanas-bajo",
+      "type": "mercado",
+      "title": "FIS cayó a su mínimo de 52 semanas con una baja del 43% en el año",
+      "summary": "Las acciones de Fidelity National Information Services (FIS) tocaron un nuevo mínimo de 52 semanas en u$s37,40, acumulando una caída del 43,6% en el último año. A pesar del desplome, el ratio precio-ganancia está en 5,78 y la empresa mantiene un dividendo del 4,61%, aunque varios analistas bajaron sus recomendaciones por la debilidad en el segmento de mercados de capitales.",
+      "detail": "El mínimo de 52 semanas es una referencia que usan los inversores para evaluar si una acción está en tendencia bajista. Un P/E de 5,78 indica que la acción es barata en relación a sus ganancias, lo que puede atraer inversores de valor, pero también puede reflejar problemas estructurales en el negocio. Este caso es útil para aprender a interpretar indicadores técnicos y fundamentales al mismo tiempo.",
+      "tags": [
+        "acciones",
+        "valuación",
+        "fintech"
+      ],
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/company-news/fis-stock-hits-52week-low-at-374-usd-93CH-4902454",
+      "published_at": "2026-09-15T20:12:55Z",
+      "tickers": [
+        "FIS"
+      ]
+    },
+    {
+      "id": "walmart-target-cramer",
+      "type": "mercado",
+      "title": "Jim Cramer dice que Target está superando a Walmart en este momento",
+      "summary": "Jim Cramer afirmó que Target tiene un mejor desempeño que Walmart en la actualidad, con mayor impulso en ventas comparables. Recomendó comprar Walmart con cautela por su valuación elevada, mientras que los fondos de cobertura relevados siguen prefiriendo Walmart sobre Target.",
+      "detail": "Las ventas comparables ('same-store sales') miden el crecimiento de las ventas en tiendas que llevan al menos un año funcionando, excluyendo las nuevas aperturas. Es un indicador clave para analizar la salud real del negocio minorista. La divergencia entre la opinión de Cramer y la posición de los fondos de cobertura ilustra que distintos inversores pueden leer los mismos datos de formas muy diferentes.",
+      "tags": [
+        "consumo",
+        "retail",
+        "acciones"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-target-doing-192102989.html",
+      "published_at": "2026-09-15T19:21:45Z",
+      "tickers": [
+        "WMT",
+        "TGT"
+      ]
+    },
+    {
+      "id": "chipotle-baja-67",
+      "type": "mercado",
+      "title": "Chipotle cayó 6,7% en medio de debilidad del consumo discrecional",
+      "summary": "Las acciones de Chipotle Mexican Grill bajaron 6,7% hasta u$s34,56, con un volumen de operaciones 41% por debajo del promedio, mientras el sector de consumo discrecional mostró señales de debilidad generalizada. A pesar de la caída, la empresa planea abrir hasta 370 nuevos restaurantes en 2026 y los analistas mantienen una recomendación de compra moderada con un precio objetivo promedio de u$s43,84.",
+      "detail": "El consumo discrecional engloba bienes y servicios que la gente compra cuando le sobra dinero, como restaurantes o ropa de marca. Cuando este sector cae, suele interpretarse como una señal de que los consumidores están más cautelosos con sus gastos, lo que puede estar relacionado con inflación, tasas de interés altas o incertidumbre económica. Este tipo de movimientos sectoriales ayudan a entender el estado general de la economía.",
+      "tags": [
+        "consumo",
+        "acciones",
+        "mercado"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/price-chipotle-mexican-grill-nyse-cmg-stock-price-down-67-time-to-sell-2026-09-15/",
+      "published_at": "2026-09-15T19:43:49Z",
+      "tickers": [
+        "CMG"
       ]
     }
   ],
@@ -197,39 +193,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.555",
-      "valor_num": 1555.0,
-      "delta_pct": 0.65
+      "valor": "$1.560",
+      "valor_num": 1560.0,
+      "delta_pct": 0.97
     },
     {
       "label": "MEP",
-      "valor": "$1.537",
-      "valor_num": 1536.7,
-      "delta_pct": -0.21
+      "valor": "$1.533",
+      "valor_num": 1533.2,
+      "delta_pct": -0.44
     },
     {
       "label": "CCL",
-      "valor": "$1.598",
-      "valor_num": 1597.5,
-      "delta_pct": 0.0
+      "valor": "$1.595",
+      "valor_num": 1594.6,
+      "delta_pct": -0.18
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 76.916",
-      "valor_num": 76916.0,
-      "delta_pct": -1.04
+      "valor": "US$ 75.394",
+      "valor_num": 75394.0,
+      "delta_pct": -4.24
     },
     {
       "label": "S&P 500",
-      "valor": "7.620",
-      "valor_num": 7619.98,
-      "delta_pct": -1.28
+      "valor": "7.586",
+      "valor_num": 7585.73,
+      "delta_pct": -1.14
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.324",
-      "valor_num": 4324.3,
-      "delta_pct": -0.92
+      "valor": "US$ 4.333",
+      "valor_num": 4333.4,
+      "delta_pct": -1.68
     }
   ]
 }
