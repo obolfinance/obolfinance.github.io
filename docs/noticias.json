@@ -1,187 +1,190 @@
 {
-  "generated_at": "2026-09-14T22:01:24.830361+00:00",
+  "generated_at": "2026-09-15T12:01:17.930214+00:00",
   "items": [
     {
-      "id": "netflix-growth-engine-260914",
-      "type": "mercado",
-      "title": "Netflix sube 3% con eventos en vivo como nuevo motor de crecimiento",
-      "summary": "Las acciones de Netflix subieron alrededor de un 3% después de que el banco de inversión Evercore elevara su precio objetivo de $100 a $110, destacando los eventos en vivo como una gran oportunidad de crecimiento. El analista señaló que el 45% de los nuevos suscriptores en Japón se sumaron gracias a una promoción del Clásico Mundial de Béisbol.",
-      "detail": "Cuando un banco de inversión sube su precio objetivo para una acción, suele generar compras porque los inversores institucionales lo toman como señal de mayor valor potencial. En este caso, Evercore no solo ve crecimiento en el modelo tradicional de series y películas, sino en eventos en vivo y contenido corto, lo que diversifica las fuentes de ingreso de Netflix. Para quienes aprenden finanzas, esto ilustra cómo los analistas de Wall Street pueden mover el precio de una acción con sus recomendaciones, más allá de los resultados concretos de la empresa.",
-      "tags": [
-        "streaming",
-        "análisis bursátil",
-        "crecimiento"
-      ],
-      "source_name": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com/news/netflix-stock-jumps-wall-street-210425929.html",
-      "published_at": "2026-09-14T21:05:00Z",
-      "tickers": [
-        "NFLX"
-      ]
-    },
-    {
-      "id": "adobe-resultados-q3-260914",
+      "id": "analog-devices-alif-semiconductor",
       "type": "empresa",
-      "title": "Adobe superó expectativas de ingresos pero sus acciones cayeron por la guía futura",
-      "summary": "Adobe reportó ingresos de $6.76 mil millones en el tercer trimestre fiscal 2026, superando las estimaciones, con una ganancia por acción ajustada de $6.13. Aun así, sus acciones cayeron porque la guía de ingresos para el cuarto trimestre quedó levemente por debajo de lo esperado por el mercado, y el crecimiento de nuevos contratos anuales cayó un 38% interanual.",
-      "detail": "Este caso muestra un concepto clave en finanzas: no alcanza con tener buenos resultados, el mercado premia o castiga según las expectativas futuras. Adobe llegó a mil millones de usuarios activos mensuales, pero el mercado se preocupó más por la desaceleración en la captación de nuevos contratos recurrentes (ARR), que son la base de los ingresos futuros en modelos de software por suscripción. Aprender a distinguir entre resultados pasados y perspectivas futuras es fundamental para analizar acciones.",
+      "title": "Analog Devices compra una startup de IA por 1.350 millones de dólares",
+      "summary": "Analog Devices adquirió Alif Semiconductor por 1.350 millones de dólares para expandir su presencia en inteligencia artificial, con foco en demanda industrial y de comunicaciones.",
+      "detail": "Las adquisiciones son una forma común que tienen las empresas tecnológicas de crecer rápido en áreas estratégicas. En este caso, Analog Devices apuesta a que la IA va a impulsar su facturación futura. Para inversores que aprenden, esto muestra cómo las empresas grandes compran innovación en lugar de desarrollarla internamente, y cómo los anuncios de M&A suelen mover el precio de las acciones involucradas.",
       "tags": [
-        "resultados trimestrales",
-        "software",
-        "expectativas"
+        "inteligencia artificial",
+        "fusiones",
+        "semiconductores"
       ],
-      "source_name": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com/news/adobe-adbe-billion-users-wall-205947269.html",
-      "published_at": "2026-09-14T20:59:36Z",
+      "source_name": "S&P Global",
+      "source_url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-sep-15-2026",
+      "published_at": "2026-09-15T11:08:34Z",
       "tickers": [
-        "ADBE"
+        "ADI"
       ]
     },
     {
-      "id": "bofa-ceo-investment-banking-260914",
-      "type": "discurso",
-      "title": "El CEO de Bank of America prevé una caída de al menos 10% en comisiones de banca de inversión en el tercer trimestre",
-      "summary": "Brian Moynihan, CEO de Bank of America, anticipó una baja de al menos 10% en las comisiones de banca de inversión para el tercer trimestre, proyectando ingresos de entre $1.600 y $1.800 millones, frente a los $2.000 millones del año anterior. También advirtió que una posible suba de tasas de interés podría frenar la demanda de financiamiento.",
-      "detail": "Las comisiones de banca de inversión son un termómetro del apetito corporativo por fusiones, adquisiciones y emisiones de deuda o acciones. Cuando el CEO de uno de los bancos más grandes del mundo anticipa una caída en estos ingresos, es una señal de que las empresas están siendo más cautelosas con sus decisiones financieras grandes. Además, la mención de que una suba de tasas podría enfriar la actividad refuerza el vínculo entre la política monetaria y los negocios del sector financiero, un concepto esencial para entender los mercados.",
+      "id": "amazon-qualcomm-60b-deal",
+      "type": "empresa",
+      "title": "Amazon y Qualcomm cierran un acuerdo de hasta 60.000 millones de dólares en chips para IA",
+      "summary": "Amazon estableció una relación comercial potencial de hasta 60.000 millones de dólares con Qualcomm para infraestructura de IA, justo cuando Apple está dejando de usar los módems de Qualcomm para desarrollar los propios.",
+      "detail": "Este acuerdo muestra cómo las grandes tecnológicas diversifican sus proveedores y cómo la pérdida de un cliente importante (Apple) puede compensarse con otro. Los warrants incluidos en el trato —que se activan según los montos de compra— son un instrumento financiero que vale la pena entender: le dan a Amazon la opción de comprar acciones de Qualcomm a un precio fijo si se cumplen metas. Esto alinea incentivos entre ambas empresas.",
       "tags": [
-        "banca",
-        "tasas de interés",
-        "resultados"
+        "tecnología",
+        "chips",
+        "acuerdos comerciales"
+      ],
+      "source_name": "Foreign Policy Journal",
+      "source_url": "https://www.foreignpolicyjournal.com/2026/09/15/amazon-nasdaq-amzn-sets-60-billion-ceiling-with-qualcomm-nasdaq-qcom-as-apple-nasdaq-aapl-cuts-modem-ties/",
+      "published_at": "2026-09-15T09:37:55Z",
+      "tickers": [
+        "QCOM",
+        "AMZN",
+        "AAPL"
+      ]
+    },
+    {
+      "id": "wells-fargo-ai-slowdown-unlikely",
+      "type": "economia",
+      "title": "Wells Fargo descarta una pausa coordinada en el desarrollo de IA",
+      "summary": "El banco Wells Fargo considera poco probable que haya una desaceleración coordinada en la expansión de la inteligencia artificial, y señala que los cuellos de botella más probables son la disponibilidad de energía eléctrica y los permisos de construcción, no una decisión voluntaria del sector.",
+      "detail": "Cuando grandes bancos como Wells Fargo publican análisis sobre una industria, los inversores los toman como señales sobre dónde fluirá el capital. Acá el dato clave es que los límites al crecimiento de la IA no serían regulatorios ni de demanda, sino físicos: falta de electricidad e infraestructura. Eso tiene implicancias directas para empresas de energía y construcción, no solo para las tecnológicas.",
+      "tags": [
+        "inteligencia artificial",
+        "energía",
+        "análisis bancario"
       ],
       "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/bank-of-america-ceo-sees-at-least-10-drop-in-q3-investment-banking-fees-4900232",
-      "published_at": "2026-09-14T19:03:19Z",
+      "source_url": "https://www.investing.com/news/stock-market-news/wells-fargo-sees-ai-slowdown-as-unlikely-despite-safety-calls-93CH-4901078",
+      "published_at": "2026-09-15T09:32:40Z",
       "tickers": [
-        "BAC"
+        "WFC",
+        "META"
       ]
     },
     {
-      "id": "lilly-foundayo-obesidad-260914",
-      "type": "empresa",
-      "title": "Eli Lilly captura más del 30% de nuevos pacientes en el mercado de pastillas para bajar de peso en EE.UU.",
-      "summary": "Eli Lilly anunció que su tratamiento oral contra la obesidad, Foundayo, ya tiene más del 30% de los nuevos pacientes en el mercado estadounidense de pastillas para adelgazar, compitiendo fuerte con el producto de Novo Nordisk. El mercado global de tratamientos contra la obesidad podría superar los $100.000 millones anuales en EE.UU. para 2030.",
-      "detail": "El mercado de obesidad es uno de los de mayor crecimiento proyectado en el sector salud, lo que lo convierte en un campo de batalla entre grandes farmacéuticas. La participación de mercado (market share) es un indicador clave para los inversores porque anticipa ingresos futuros: si Lilly sigue ganando terreno con Foundayo, sus flujos de caja proyectados mejoran. Este caso también muestra cómo la preferencia del consumidor (pastillas vs. inyecciones) puede cambiar la dinámica competitiva de una industria entera.",
+      "id": "ai-sostenibilidad-riesgos",
+      "type": "economia",
+      "title": "S&P Global advierte sobre los riesgos de sostenibilidad que enfrenta el boom de la IA",
+      "summary": "Un informe de S&P Global señala que más de la mitad de las empresas encuestadas no tienen una gobernanza sólida sobre IA, mientras que los centros de datos consumen cada vez más energía y generan resistencia en comunidades locales de EE.UU.",
+      "detail": "La sostenibilidad no es solo una cuestión ambiental: tiene impacto directo en los negocios. Si los centros de datos no consiguen permisos o generan conflictos locales, los proyectos se retrasan y los costos suben. Para alguien que aprende finanzas, este artículo muestra que invertir en IA implica analizar riesgos que van más allá de los balances contables, como el consumo energético o la regulación ambiental.",
       "tags": [
-        "farmacéutica",
-        "obesidad",
-        "competencia"
+        "inteligencia artificial",
+        "sostenibilidad",
+        "riesgo"
       ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/lilly-says-foundayo-has-captured-over-30-new-us-patients-oral-weight-loss-drugs-2026-09-14/",
-      "published_at": "2026-09-14T20:39:13Z",
+      "source_name": "S&P Global",
+      "source_url": "https://www.spglobal.com/en/research-insights/special-reports/sustainability-quarterly/third-quarter-2026-edition/the-sustainability-risks-threatening-ai-resilience-narrative",
+      "published_at": "2026-09-15T10:13:23Z",
       "tickers": [
-        "LLY"
+        "SPGI"
       ]
     },
     {
-      "id": "netflix-vs-ai-selloff-260914",
+      "id": "workday-adobe-suben-ai-debate",
       "type": "mercado",
-      "title": "Netflix subió 4% mientras las acciones de inteligencia artificial se vendían masivamente",
-      "summary": "Mientras las acciones ligadas a la inteligencia artificial caían el lunes por preocupaciones sobre los altos costos de desarrollo, Netflix subió un 4%. A diferencia de las empresas de IA, Netflix destina su capital a contenido, no a chips ni centros de datos, lo que la posicionó favorablemente ante los inversores en ese contexto.",
-      "detail": "Esta noticia ilustra cómo los inversores rotan entre sectores según el contexto del mercado: cuando algo preocupa en un sector (en este caso, los costos de la IA), el dinero busca refugio en empresas con modelos de negocio distintos. Netflix tiene un flujo de caja libre sólido y un programa de recompra de acciones, dos señales de salud financiera que los inversores valoran en momentos de incertidumbre. Entender la rotación sectorial es clave para analizar movimientos de mercado que a veces parecen contradictorios.",
+      "title": "Workday y Adobe subieron mientras el resto de las acciones de IA caían",
+      "summary": "Las acciones de Workday y Adobe treparon en medio de llamados a frenar el desarrollo de IA de vanguardia, mientras el mercado general de acciones vinculadas a IA bajó. Ambas empresas mostraron fuerte adopción de IA en sus últimos resultados.",
+      "detail": "Este movimiento ilustra un concepto importante: no todas las empresas de tecnología reaccionan igual ante una misma noticia. Workday y Adobe son plataformas de software establecidas que podrían beneficiarse si el desarrollo de IA más avanzada se frena, porque tendrían más tiempo para integrar IA gradualmente sin ser desplazadas. Esto se llama rotación sectorial: el dinero se mueve dentro del mismo sector hacia acciones que cambian su perfil de riesgo.",
       "tags": [
+        "software",
         "rotación sectorial",
-        "IA",
-        "flujo de caja"
+        "inteligencia artificial"
       ],
-      "source_name": "Currently.com",
-      "source_url": "https://currently.att.yahoo.com/att/netflix-stock-rose-4-while-194701621.html",
-      "published_at": "2026-09-14T19:48:00Z",
+      "source_name": "Yahoo Finance Singapore",
+      "source_url": "https://sg.finance.yahoo.com/news/ai-stocks-fell-workday-adobe-095614361.html",
+      "published_at": "2026-09-15T09:56:17Z",
       "tickers": [
-        "NFLX",
+        "ADBE",
+        "WDAY",
         "NVDA"
       ]
     },
     {
-      "id": "cybersecurity-ai-fears-260914",
-      "type": "mercado",
-      "title": "CrowdStrike y Palo Alto Networks dispararon por miedos a la seguridad de la IA",
-      "summary": "Las acciones de las empresas de ciberseguridad CrowdStrike y Palo Alto Networks subieron fuertemente luego de que advertencias sobre riesgos de seguridad relacionados con la inteligencia artificial generaran mayor demanda por sus soluciones. El contexto incluyó alertas de líderes tecnológicos tras una brecha de seguridad protagonizada por una IA autónoma.",
-      "detail": "Cuando aparece un nuevo riesgo tecnológico, las empresas que ofrecen soluciones para ese riesgo suelen ver subir sus acciones: es el principio de que la demanda sigue al problema. La IA introduce nuevas superficies de ataque cibernético, lo que convierte a las empresas de ciberseguridad en beneficiarias directas de su expansión. Para quienes estudian finanzas, este tipo de movimiento muestra cómo los eventos de la industria tecnológica pueden crear oportunidades de inversión en sectores relacionados.",
+      "id": "costco-14-nuevos-locales",
+      "type": "empresa",
+      "title": "Costco abre 14 nuevos depósitos en los próximos dos meses",
+      "summary": "Costco planea inaugurar 14 nuevos locales en los próximos dos meses, con cuatro en Canadá en noviembre. Las ventas netas de agosto crecieron un 9,9% hasta los 23.700 millones de dólares.",
+      "detail": "La expansión física de una empresa es una señal de confianza en su modelo de negocio y en la demanda futura. En el caso de Costco, el crecimiento de ventas de doble dígito justifica la inversión en nuevos locales. Para quienes aprenden finanzas, esto muestra cómo los datos de ventas mensuales pueden anticipar decisiones de expansión, y cómo el crecimiento en ingresos se traduce en decisiones concretas de capital.",
       "tags": [
-        "ciberseguridad",
-        "inteligencia artificial",
-        "riesgo"
+        "retail",
+        "expansión",
+        "ventas"
       ],
-      "source_name": "Fast Company",
-      "source_url": "https://www.fastcompany.com/91607043/crowdstrike-palo-alto-networks-stock-surge-today-ai-doomsday-fears-jolt-cybersecurity",
-      "published_at": "2026-09-14T19:10:25Z",
+      "source_name": "Retail Customer Experience",
+      "source_url": "https://www.retailcustomerexperience.com/news/costco-launching-14-warehouses-in-next-2-months/",
+      "published_at": "2026-09-15T11:01:02Z",
       "tickers": [
-        "CRWD",
-        "PANW"
+        "COST"
       ]
     },
     {
-      "id": "apple-ios27-siri-260914",
+      "id": "lululemon-cramer-no-mans-land",
       "type": "empresa",
-      "title": "Apple lanzó iOS 27 con una Siri rediseñada antes del debut del iPhone 18",
-      "summary": "Apple liberó una versión beta de iOS 27 con una Siri completamente rediseñada, basada en modelos de lenguaje de gran escala, justo antes del lanzamiento del iPhone 18. Para tareas complejas, el sistema utilizará infraestructura de nube privada respaldada por Google Cloud.",
-      "detail": "El lanzamiento de un nuevo sistema operativo y la actualización de su asistente de voz son eventos que los inversores en Apple siguen de cerca, ya que pueden impulsar la renovación de dispositivos y el crecimiento del ecosistema de servicios. La alianza con Google Cloud para tareas de IA más pesadas también muestra cómo incluso los grandes competidores colaboran en infraestructura. Para quienes aprenden finanzas, este tipo de anuncio muestra cómo la innovación de producto impacta directamente en las expectativas de ventas futuras.",
+      "title": "Jim Cramer dice que Lululemon está en 'tierra de nadie' tras un trimestre muy malo",
+      "summary": "El presentador financiero Jim Cramer calificó a Lululemon como una \"acción rota\" después de que la empresa reportara caídas en ventas y comparables, y recortara sus proyecciones anuales. Cramer desaconsejó comprar el papel pese a su valuación más baja.",
+      "detail": "Cuando una empresa corta su guidance (proyección de resultados futuros), es una señal de alerta seria para los mercados. Lululemon también enfrenta más competencia en el mercado de ropa deportiva, lo que comprime sus márgenes. Este caso es útil para entender cómo una acción puede parecer barata en términos de precio pero seguir siendo riesgosa si los fundamentos del negocio se deterioran: lo que se llama una value trap.",
       "tags": [
-        "Apple",
-        "inteligencia artificial",
-        "tecnología"
+        "consumo",
+        "resultados",
+        "valuación"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-lululemon-lulu-093702668.html",
+      "published_at": "2026-09-15T09:44:06Z",
+      "tickers": [
+        "LULU"
+      ]
+    },
+    {
+      "id": "kkr-realty-income-europa",
+      "type": "empresa",
+      "title": "KKR paga 528 millones de euros por el 49% de una joint venture inmobiliaria con Realty Income en Europa",
+      "summary": "KKR adquirió una participación del 49% en una nueva sociedad conjunta con Realty Income que incluye 54 propiedades en España, Irlanda, Polonia y Países Bajos. Realty Income retiene el 51% y seguirá administrando los activos.",
+      "detail": "Las joint ventures son una forma de que dos empresas compartan riesgos y capital en proyectos grandes. En este caso, Realty Income consigue fondos frescos de KKR para expandirse en Europa sin perder el control operativo. Para alguien que aprende finanzas, esto ilustra cómo los fondos de capital privado como KKR invierten en activos reales y cómo los REITs (fondos de inversión en bienes raíces) pueden financiar su crecimiento sin emitir acciones nuevas.",
+      "tags": [
+        "real estate",
+        "capital privado",
+        "Europa"
+      ],
+      "source_name": "IPE Real Assets",
+      "source_url": "https://realassets.ipe.com/news/kkr-pays-528m-for-49-stake-in-realty-income-european-venture/10138457.article",
+      "published_at": "2026-09-15T10:07:44Z",
+      "tickers": [
+        "O",
+        "KKR"
+      ]
+    },
+    {
+      "id": "kraft-heinz-philadelphia-inversion",
+      "type": "empresa",
+      "title": "Kraft Heinz invierte 700 millones de dólares para relanzar su marca Philadelphia",
+      "summary": "Kraft Heinz lanzará nuevos sabores de queso crema Philadelphia —como Mike's Hot Honey y caramelo salado— como parte de una inversión de 700 millones de dólares para revitalizar sus marcas icónicas tras años de ventas decepcionantes.",
+      "detail": "La estrategia de relanzar marcas consolidadas con nuevos productos es menos riesgosa que crear una marca desde cero, pero requiere inversión significativa. Para Kraft Heinz, que venía con resultados flojos, este movimiento busca recuperar participación de mercado. En finanzas, esto se llama estrategia de extensión de marca, y su éxito depende de si los consumidores responden positivamente, algo que los inversores van a monitorear en los próximos trimestres.",
+      "tags": [
+        "consumo masivo",
+        "marcas",
+        "estrategia"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
-      "published_at": "2026-09-14T19:06:16Z",
+      "source_url": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
+      "published_at": "2026-09-15T10:00:51Z",
       "tickers": [
-        "AAPL",
-        "GOOGL"
+        "KHC"
       ]
     },
     {
-      "id": "boeing-speea-huelga-260914",
-      "type": "empresa",
-      "title": "Boeing ofrece aumento salarial del 10% para evitar una huelga de sus ingenieros",
-      "summary": "Boeing presentó una nueva oferta a los ingenieros y técnicos representados por el sindicato SPEEA, incluyendo un aumento salarial garantizado del 10%, para evitar una huelga que podría frenar la producción del 737 MAX y retrasar la certificación de otros modelos. En paralelo, los maquinistas de Wichita votaron para reintegrarse al contrato principal del sindicato IAM.",
-      "detail": "Las huelgas en empresas manufactureras como Boeing tienen un impacto directo y medible en la producción y en los ingresos: si se detiene la línea del 737 MAX, Boeing no puede entregar aviones y, por tanto, no cobra. Por eso el mercado presta mucha atención a las negociaciones laborales en empresas industriales grandes. Además, los retrasos en certificaciones como la del 777X afectan compromisos con aerolíneas y pueden generar penalidades o cancelaciones de pedidos.",
-      "tags": [
-        "Boeing",
-        "huelga",
-        "manufactura"
-      ],
-      "source_name": "Leeham News and Analysis",
-      "source_url": "https://leehamnews.com/2026/09/14/working-to-avoid-strike-boeing-advances-another-speea-offer/",
-      "published_at": "2026-09-14T19:36:25Z",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "texas-instruments-55-2026-260914",
+      "id": "mcdonalds-jefferies-rebaja-target",
       "type": "mercado",
-      "title": "Texas Instruments sube 55% en 2026 sin ser una empresa de chips de IA",
-      "summary": "Las acciones de Texas Instruments acumulan una suba del 55% en lo que va de 2026, superando ampliamente al S&P 500, impulsadas por la fuerte demanda de sus chips analógicos y de procesamiento embebido en sectores industriales, de centros de datos y automotriz, sin depender del boom de la IA generativa.",
-      "detail": "Este caso es un buen ejemplo de que no todas las ganancias del sector tecnológico vienen de la inteligencia artificial: Texas Instruments fabrica chips más tradicionales pero esenciales para una enorme variedad de industrias. Su estrategia de invertir en capacidad de fabricación propia durante una etapa de baja demanda le permitió estar bien posicionada cuando el ciclo mejoró, lo que se llama inversión contracíclica. Para quienes estudian finanzas, muestra cómo entender los ciclos industriales puede revelar oportunidades que el consenso del mercado pasa por alto.",
+      "title": "Jefferies bajó su precio objetivo para McDonald's de 350 a 325 dólares, pero mantiene recomendación de compra",
+      "summary": "El banco de inversión Jefferies redujo su precio objetivo para las acciones de McDonald's a 325 dólares desde 350, aunque mantuvo su calificación de \"compra\". El ajuste se da en un contexto de menor demanda en el sector de comida rápida.",
+      "detail": "Cuando un banco baja su precio objetivo pero mantiene la recomendación de compra, está señalando que sigue siendo optimista pero ajusta sus expectativas a la realidad del mercado. Para quienes aprenden finanzas, esto muestra cómo los analistas actualizan sus modelos ante cambios en el entorno económico —en este caso, una demanda más débil— sin necesariamente cambiar su visión de largo plazo sobre la empresa.",
       "tags": [
-        "semiconductores",
-        "ciclo industrial",
-        "diversificación"
+        "análisis bursátil",
+        "consumo",
+        "precio objetivo"
       ],
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/14/texas-instruments-is-up-55-in-2026-this-is-the-secret-tech-stock-youre-missing-out-on/",
-      "published_at": "2026-09-14T19:08:25Z",
+      "source_name": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com/news/jefferies-adjusts-price-target-on-mcdonald-s-to-325-from-350-keeps-buy-rating-ce785bdddb8efe20",
+      "published_at": "2026-09-15T09:27:18Z",
       "tickers": [
-        "TXN"
-      ]
-    },
-    {
-      "id": "coca-cola-29-pct-2026-260914",
-      "type": "mercado",
-      "title": "Coca-Cola sube 29% en 2026 y apunta a romper el techo psicológico de $100",
-      "summary": "Las acciones de Coca-Cola acumulan una suba del 29% en 2026, cotizando a $89.06, impulsadas por un crecimiento del 5% en volumen global y una mejora en la guía de ganancias por acción para todo el año. Analistas apuntan a que superar los $100 depende de sostener ese crecimiento en el tercer trimestre y de una expansión del múltiplo de valuación.",
-      "detail": "Coca-Cola es considerada una acción defensiva porque su negocio es menos volátil que el de empresas tecnológicas o cíclicas, lo que la hace atractiva en contextos de incertidumbre económica. El concepto de 'nivel psicológico' en los precios ($100 en este caso) es relevante porque muchos inversores y algoritmos de trading colocan órdenes cerca de números redondos, lo que puede generar resistencia o aceleración del precio. Además, la mención del múltiplo de valuación introduce la idea de que el precio de una acción no solo depende de los resultados, sino de cuánto están dispuestos a pagar los inversores por cada dólar de ganancia.",
-      "tags": [
-        "consumo defensivo",
-        "valuación",
-        "dividendos"
-      ],
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/14/coca-cola-stock-is-up-29-in-2026-what-will-it-take-to-break-through-100/",
-      "published_at": "2026-09-14T19:19:38Z",
-      "tickers": [
-        "KO"
+        "MCD"
       ]
     }
   ],
@@ -212,9 +215,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 78.761",
-      "valor_num": 78761.0,
-      "delta_pct": 1.94
+      "valor": "US$ 76.916",
+      "valor_num": 76916.0,
+      "delta_pct": -1.04
     },
     {
       "label": "S&P 500",
@@ -224,9 +227,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.340",
-      "valor_num": 4340.0,
-      "delta_pct": -1.72
+      "valor": "US$ 4.324",
+      "valor_num": 4324.3,
+      "delta_pct": -0.92
     }
   ]
 }
