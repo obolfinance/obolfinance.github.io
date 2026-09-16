@@ -1,186 +1,189 @@
 {
-  "generated_at": "2026-09-15T22:01:31.466282+00:00",
+  "generated_at": "2026-09-16T12:01:32.311639+00:00",
   "items": [
     {
-      "id": "coca-cola-10b-inversion",
+      "id": "qualcomm-amazon-ai-chip-deal",
       "type": "empresa",
-      "title": "Coca-Cola invertirá u$s10.000 millones en EE.UU. antes de 2030",
-      "summary": "Coca-Cola y sus embotelladoras van a destinar u$s10.000 millones a infraestructura en Estados Unidos para satisfacer la demanda creciente. La inversión incluye nuevas plantas de producción, distribución y oficinas. Según un estudio independiente, la empresa ya aporta u$s85.000 millones al PBI americano y sostiene un millón de empleos.",
-      "detail": "Cuando una empresa global como Coca-Cola anuncia una inversión masiva en infraestructura, es una señal de que espera que la demanda de sus productos siga creciendo. Este tipo de decisiones también tiene impacto en el empleo y en el PBI del país donde se invierte. Para quienes aprenden finanzas, es un ejemplo de cómo las grandes corporaciones asignan capital a largo plazo basándose en proyecciones de demanda y rentabilidad futura.",
+      "title": "Qualcomm sube fuerte tras un acuerdo millonario con Amazon para chips de IA",
+      "summary": "Las acciones de Qualcomm tocaron su máximo en dos meses después de anunciar una colaboración con Amazon para desarrollar chips de IA personalizados para AWS, en un deal que podría valer hasta 60.000 millones de dólares. El movimiento busca diversificar los ingresos de Qualcomm más allá de los chips para smartphones.",
+      "detail": "Qualcomm dependía en gran parte de fabricar chips para celulares, especialmente Apple. Este acuerdo con Amazon para chips de inteligencia artificial en centros de datos representa una diversificación de negocio clave: si un segmento flojea, el otro puede compensar. Para quienes aprenden finanzas, es un ejemplo clásico de cómo un anuncio estratégico puede mover el precio de una acción incluso cuando los resultados recientes fueron negativos.",
       "tags": [
-        "inversión",
-        "consumo",
-        "empresa"
+        "tecnología",
+        "inteligencia artificial",
+        "semiconductores"
       ],
-      "source_name": "Food Dive",
-      "source_url": "https://www.fooddive.com/news/coca-cola-us-manufacturing-10-billion-investment/830468/",
-      "published_at": "2026-09-15T20:14:05Z",
+      "source_name": "Foreign Policy Journal",
+      "source_url": "https://www.foreignpolicyjournal.com/2026/09/16/qualcomm-nasdaq-qcom-hits-two-month-high-as-amazon-ai-chip-deal-reshapes-growth-outlook/",
+      "published_at": "2026-09-16T09:56:43Z",
       "tickers": [
+        "QCOM",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "jpmorgan-downgrade-zacks",
+      "type": "mercado",
+      "title": "Zacks bajó la recomendación de JPMorgan, uno de los bancos más grandes del mundo",
+      "summary": "La firma de análisis Zacks Research rebajó su calificación de JPMorgan Chase de \"compra fuerte\" a \"mantener\", a pesar de que el banco superó las expectativas de ganancias con un EPS de 6,14 dólares y 58.020 millones en ingresos. El consenso general del mercado sigue siendo \"compra moderada\" con un precio objetivo promedio de 359,96 dólares.",
+      "detail": "Las calificaciones de analistas son señales que usan los inversores para decidir si comprar, mantener o vender una acción. Cuando una firma importante como Zacks baja su recomendación, puede generar ventas aunque los números de la empresa sean buenos. En este caso, la preocupación no es el presente sino el futuro: menor crecimiento de ganancias y riesgos macroeconómicos. Aprender a distinguir entre resultados actuales y perspectivas futuras es fundamental en finanzas.",
+      "tags": [
+        "bancos",
+        "analistas",
+        "acciones"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-nyse-jpm-lowered-to-hold-rating-by-zacks-research-2026-09-16/",
+      "published_at": "2026-09-16T10:38:51Z",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "id": "dollar-general-presion-consumidores",
+      "type": "economia",
+      "title": "Dollar General advierte que la presión sobre los consumidores seguirá hasta fin de 2026",
+      "summary": "Dollar General espera que la inflación y los altos precios del combustible sigan apretando los bolsillos de sus clientes durante el resto del año, lo que lleva a la gente a hacer compras más frecuentes pero más chicas. La empresa apunta al crecimiento en delivery y ofertas de valor, con metas de margen operativo del 6 al 7% para 2028.",
+      "detail": "Dollar General es una cadena de tiendas orientada a consumidores de bajos y medios ingresos en EE.UU., por lo que sus advertencias sobre el comportamiento del consumidor son un termómetro útil de la economía real. Cuando una empresa así dice que sus clientes compran menos por vez, es una señal de que la inflación y los costos de vida siguen golpeando fuerte. Este tipo de dato macroeconómico afecta las expectativas sobre el consumo y, por ende, los mercados.",
+      "tags": [
+        "consumo",
+        "inflación",
+        "economía"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-sees-shopper-pressure-100220770.html",
+      "published_at": "2026-09-16T10:02:55Z",
+      "tickers": [
+        "DG"
+      ]
+    },
+    {
+      "id": "microsoft-data-center-virginia",
+      "type": "empresa",
+      "title": "Microsoft invertirá en un nuevo campus de centros de datos en Virginia",
+      "summary": "Microsoft planea construir un campus de centros de datos en el condado de Prince William, Virginia, sobre 123 acres de terreno que compró en 2024 por 465,5 millones de dólares. La zona ya alberga proyectos similares de Amazon y Google, consolidándose como un hub tecnológico clave.",
+      "detail": "La inversión masiva en infraestructura de centros de datos refleja la creciente demanda de servicios en la nube e inteligencia artificial. Para un inversor, este tipo de noticias muestra cómo las grandes tecnológicas compiten por capacidad física, no solo por software. La concentración de Microsoft, Amazon y Google en la misma región también ilustra cómo se forman ecosistemas industriales que atraen talento, proveedores y regulación.",
+      "tags": [
+        "tecnología",
+        "nube",
+        "infraestructura"
+      ],
+      "source_name": "Data Center Dynamics",
+      "source_url": "https://www.datacenterdynamics.com/en/news/microsoft-files-to-build-data-center-campus-in-prince-william-county-virginia/",
+      "published_at": "2026-09-16T10:28:34Z",
+      "tickers": [
+        "MSFT",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "jb-hunt-profit-warning",
+      "type": "mercado",
+      "title": "JB Hunt cayó un 9% tras emitir una rara advertencia de ganancias",
+      "summary": "Las acciones de JB Hunt Transport cayeron hasta un 9% en el premarket después de que la empresa alertara que sus ganancias del tercer trimestre podrían bajar entre un 5% y un 10% respecto al segundo, principalmente por el alza en los costos de combustible. Lo llamativo es que esta empresa rara vez emite este tipo de alertas intra-trimestre.",
+      "detail": "Una advertencia de ganancias antes de que termine el trimestre es una señal de alarma porque significa que la empresa sabe que los resultados serán peores de lo esperado. En el caso de JB Hunt, el alza del combustible impacta directamente en los costos de transporte, lo que comprime márgenes. Para quienes aprenden finanzas, este caso muestra cómo los costos operativos pueden erosionar ganancias incluso cuando la demanda del mercado es positiva.",
+      "tags": [
+        "transporte",
+        "ganancias",
+        "combustible"
+      ],
+      "source_name": "Investing.com South Africa",
+      "source_url": "https://za.investing.com/news/stock-market-news/jb-hunt-shares-drop-9-on-rare-profit-warning-93CH-4466503",
+      "published_at": "2026-09-16T10:06:15Z",
+      "tickers": [
+        "JBHT"
+      ]
+    },
+    {
+      "id": "colgate-venta-marcas",
+      "type": "empresa",
+      "title": "Colgate-Palmolive estudiaría vender marcas como Softsoap e Irish Spring por más de 1.000 millones",
+      "summary": "Colgate-Palmolive estaría explorando la venta de varias marcas de cuidado personal, incluyendo Softsoap, Irish Spring y Speed Stick, en una operación que podría superar los 1.000 millones de dólares. La compañía estaría trabajando con Goldman Sachs para llevar adelante la desinversión.",
+      "detail": "Cuando una empresa vende divisiones o marcas, generalmente busca concentrarse en su negocio principal y mejorar su rentabilidad. Este proceso se llama 'desinversión' o 'spin-off parcial' y suele ser bien recibido por el mercado si el precio es atractivo. Para el comprador, en cambio, puede ser una forma de ingresar rápidamente a un segmento de mercado. Goldman Sachs actúa acá como banco de inversión asesor, un rol clave en este tipo de transacciones.",
+      "tags": [
+        "fusiones",
+        "consumo",
+        "banca de inversión"
+      ],
+      "source_name": "Cosmetics Business",
+      "source_url": "https://cosmeticsbusiness.com/colgate-palmolive-allegedly-explores-sale-personal-care-brands",
+      "published_at": "2026-09-16T10:42:34Z",
+      "tickers": [
+        "CL",
+        "GS"
+      ]
+    },
+    {
+      "id": "union-pacific-upgrade-ubs",
+      "type": "mercado",
+      "title": "Union Pacific subió más del 2% tras una mejora de calificación por parte de UBS",
+      "summary": "UBS mejoró su recomendación sobre Union Pacific de Neutral a Compra, elevando su precio objetivo de 310 a 339 dólares, impulsado por expectativas de fuerte crecimiento en volúmenes de carga y ganancias por encima del consenso del mercado. La acción también es beneficiada por la propuesta de fusión con Norfolk Southern y una próxima presentación de management en una conferencia de Morgan Stanley.",
+      "detail": "Cuando un banco de inversión grande como UBS sube su recomendación y su precio objetivo, el mercado suele reaccionar comprando la acción. En este caso, la combinación de mejores fundamentos operativos y una posible fusión entre dos gigantes ferroviarios amplifica el atractivo. Las fusiones en sectores regulados como el transporte ferroviario suelen tardar años en aprobarse, pero generan expectativas que mueven los precios desde el anuncio.",
+      "tags": [
+        "transporte",
+        "fusiones",
+        "analistas"
+      ],
+      "source_name": "Investing.com Canada",
+      "source_url": "https://ca.investing.com/news/stock-market-news/why-is-union-pacific-stock-rallying-today-93CH-4841319",
+      "published_at": "2026-09-16T10:04:23Z",
+      "tickers": [
+        "UNP",
+        "NSC"
+      ]
+    },
+    {
+      "id": "truist-venta-cartera-autos",
+      "type": "empresa",
+      "title": "Truist Financial vendió una cartera de préstamos de autos por 5.500 millones de dólares",
+      "summary": "Truist Financial anunció la venta de su cartera de préstamos de autos 'near-prime' valuada en 5.500 millones de dólares y el cierre de su unidad Regional Acceptance Corporation, con el objetivo de mejorar sus métricas de crédito y liberar capital. La operación generaría alrededor de 950 millones de dólares en capital y el banco reafirmó su plan de recompra de acciones por 5.000 millones.",
+      "detail": "Los bancos gestionan activamente sus carteras de préstamos para equilibrar riesgo y rentabilidad. Vender préstamos 'near-prime' (de mayor riesgo de impago) le permite a Truist mejorar la calidad de su balance y liberar capital para otros usos, como recomprar acciones propias. La recompra de acciones es una señal positiva: la empresa cree que sus propias acciones están baratas y reduce la cantidad en circulación, lo que suele aumentar el valor por acción restante.",
+      "tags": [
+        "bancos",
+        "crédito",
+        "capital"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/event-truist-financial-sells-55b-auto-loan-portfolio-reaffirms-outlook-2026-09-16/",
+      "published_at": "2026-09-16T09:06:08Z",
+      "tickers": [
+        "TFC"
+      ]
+    },
+    {
+      "id": "deutsche-bank-upgrade-ab-inbev",
+      "type": "mercado",
+      "title": "Deutsche Bank mejoró su recomendación sobre AB InBev y Campari por perspectivas positivas en bebidas",
+      "summary": "Deutsche Bank subió su calificación a 'compra' para Anheuser-Busch InBev y Campari, citando un panorama selectivamente positivo para la cerveza y fuerte crecimiento en bebidas sin alcohol. El banco mantuvo su recomendación positiva para Coca-Cola Europacific Partners y Coca-Cola Hellenic, pero bajó objetivos de precio para Carlsberg, Diageo y Heineken.",
+      "detail": "Las mejoras de calificación sectoriales por parte de bancos globales como Deutsche Bank son señales importantes porque reflejan el análisis de tendencias de consumo a gran escala. En este caso, el cambio en preferencias de los consumidores hacia bebidas sin alcohol es el motor detrás de la diferenciación entre ganadores y perdedores del sector. Para quienes aprenden finanzas, esto ilustra cómo los cambios culturales y de hábitos impactan en la valuación de empresas.",
+      "tags": [
+        "consumo",
+        "analistas",
+        "bebidas"
+      ],
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-anheuserbusch-inbev-campari-on-beer-soft-drinks-outlook-4903173",
+      "published_at": "2026-09-16T10:00:34Z",
+      "tickers": [
+        "DB",
         "KO"
       ]
     },
     {
-      "id": "adobe-short-squeeze-cramer",
-      "type": "mercado",
-      "title": "Jim Cramer ve a Adobe como candidata a un short squeeze",
-      "summary": "El conductor financiero Jim Cramer señaló que Adobe (ADBE) podría protagonizar un short squeeze, destacando su resiliencia y un crecimiento en ingresos por IA que ya supera los u$s650 millones anuales. Sin embargo, hay preocupaciones por la desaceleración de los ingresos recurrentes y la competencia de nuevas plataformas de diseño impulsadas por IA.",
-      "detail": "Un short squeeze ocurre cuando muchos inversores apostaron a que una acción iba a bajar (posiciones vendidas o 'short'), pero el precio sube, obligándolos a comprar para cubrir sus pérdidas, lo que empuja el precio todavía más arriba. Entender este mecanismo es clave para comprender movimientos bruscos en el mercado. El caso de Adobe también ilustra cómo la IA está cambiando los modelos de negocio de empresas tecnológicas.",
+      "id": "gartner-ia-rehire-workers",
+      "type": "economia",
+      "title": "Gartner prevé que el 30% de los trabajadores reemplazados por IA deberán ser recontratados",
+      "summary": "Según Gartner, para 2029 el 30% de los empleados desplazados por inteligencia artificial tendrán que ser recontratados, muchas veces a mayor costo, porque las empresas habrán recortado demasiado rápido y perdido conocimiento clave. La consultora recomienda rediseñar roles en lugar de simplemente eliminarlos.",
+      "detail": "Este dato de Gartner es relevante para entender el impacto real de la IA en el mercado laboral y en los costos empresariales. Para las empresas, despedir personal para ahorrar costos puede resultar más caro a largo plazo si después deben contratar de nuevo a personas con experiencia. Desde la perspectiva financiera, esto puede afectar la rentabilidad proyectada de empresas que apostaron fuerte a la automatización sin una estrategia de transición bien planificada.",
       "tags": [
-        "acciones",
         "inteligencia artificial",
-        "mercado"
+        "mercado laboral",
+        "empresas"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-adobe-adbe-202744226.html",
-      "published_at": "2026-09-15T20:29:05Z",
+      "source_name": "Inc.com",
+      "source_url": "https://www.inc.com/marcel-schwantes/gartner-companies-rehire-workers-replaced-ai-leadership-lesson/91405844",
+      "published_at": "2026-09-16T09:37:38Z",
       "tickers": [
-        "ADBE"
-      ]
-    },
-    {
-      "id": "amex-banca-pymes",
-      "type": "empresa",
-      "title": "American Express avanza en banca para pequeñas empresas con IA y cuentas de ahorro",
-      "summary": "American Express lanzó una cuenta de ahorro de alto rendimiento para empresas y planea sumar un sistema de nómina con inteligencia artificial en 2027. La estrategia busca competir con bancos tradicionales y fintechs por los clientes de pequeñas y medianas empresas, integrando banca, pagos y nómina en una sola plataforma.",
-      "detail": "Este movimiento de Amex muestra cómo las empresas de pagos están expandiéndose hacia servicios bancarios completos, compitiendo directamente con bancos tradicionales. Para quienes aprenden finanzas, es un ejemplo de diversificación de ingresos y de cómo la tecnología, especialmente la IA, está redibujando los límites entre distintos tipos de instituciones financieras.",
-      "tags": [
-        "fintech",
-        "banca",
-        "inteligencia artificial"
-      ],
-      "source_name": "American Banker",
-      "source_url": "https://www.americanbanker.com/payments/news/amex-launches-accounts-plans-ai-tools-for-small-businesses",
-      "published_at": "2026-09-15T20:10:58Z",
-      "tickers": [
-        "AXP"
-      ]
-    },
-    {
-      "id": "broadridge-crypto-tokenizados",
-      "type": "empresa",
-      "title": "Broadridge integra criptomonedas e inversiones tokenizadas a su plataforma",
-      "summary": "Broadridge anunció que sus clientes podrán ver criptoactivos e inversiones tokenizadas junto a sus acciones y bonos tradicionales en una misma cartera. El objetivo es integrar los activos digitales de forma fluida en las plataformas de gestión de inversiones existentes.",
-      "detail": "La tokenización convierte activos reales (como bonos o acciones) en tokens digitales que pueden operar en blockchain, facilitando su compraventa. Que una empresa de infraestructura financiera como Broadridge adopte estas tecnologías indica que los activos digitales están ganando lugar en el sistema financiero convencional. Este tipo de noticias es importante para entender hacia dónde va la evolución de los mercados globales.",
-      "tags": [
-        "cripto",
-        "tokenización",
-        "inversión"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/video/broadridge-expands-offer-crypto-tokenized-193000136.html",
-      "published_at": "2026-09-15T19:30:19Z",
-      "tickers": [
-        "BR"
-      ]
-    },
-    {
-      "id": "micron-research-labs-ia",
-      "type": "empresa",
-      "title": "Micron invierte u$s10.000 millones en un laboratorio global de IA y memoria",
-      "summary": "Micron Technology designó a Deirdre Hanford como vicepresidenta y presidenta de Micron Research Labs, una institución global de investigación anunciada en agosto de 2026 y respaldada por una inversión de u$s10.000 millones. El laboratorio apunta a generar avances en memoria, cómputo e inteligencia artificial.",
-      "detail": "Micron es uno de los principales fabricantes de chips de memoria del mundo, y la memoria es un componente clave para los sistemas de IA. Una inversión de esta magnitud en investigación señala que la demanda de semiconductores avanzados sigue siendo muy alta. Para quienes aprenden finanzas, es un ejemplo de cómo las empresas tecnológicas asignan capital masivo en I+D para mantener su ventaja competitiva.",
-      "tags": [
-        "semiconductores",
-        "inteligencia artificial",
-        "inversión"
-      ],
-      "source_name": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com/news/micron-appoints-deirdre-hanford-lead-200100153.html",
-      "published_at": "2026-09-15T20:01:59Z",
-      "tickers": [
-        "MU"
-      ]
-    },
-    {
-      "id": "boeing-rtx-misiles-pentagono",
-      "type": "empresa",
-      "title": "El Pentágono firma acuerdos con Boeing y RTX para aumentar la producción de misiles",
-      "summary": "El Departamento de Defensa de EE.UU. firmó acuerdos marco con Boeing y RTX para elevar la producción de interceptores SM-3, como parte de un refuerzo general del arsenal de misiles americano. Aunque ambas empresas se benefician, el mercado reaccionó con calma, sugiriendo que gran parte del alza ya estaba descontada en los precios de las acciones.",
-      "detail": "Cuando el mercado no reacciona con fuerza ante una buena noticia, suele ser porque esa noticia ya estaba 'priceada', es decir, incorporada al precio de la acción con anticipación. Este concepto, conocido como 'mercado eficiente', es fundamental para entender cómo operan los inversores profesionales. El caso también ilustra cómo los contratos gubernamentales de defensa pueden influir en el valor de las empresas del sector.",
-      "tags": [
-        "defensa",
-        "acciones",
-        "mercado"
-      ],
-      "source_name": "Yahoo Finance UK",
-      "source_url": "https://uk.finance.yahoo.com/news/boeing-ba-rtx-rtx-gain-193701338.html",
-      "published_at": "2026-09-15T19:39:04Z",
-      "tickers": [
-        "RTX",
-        "BA"
-      ]
-    },
-    {
-      "id": "franklin-templeton-baja-comisiones",
-      "type": "mercado",
-      "title": "Franklin Templeton baja comisiones y cambia la estrategia de un fondo global",
-      "summary": "Franklin Templeton Australia reasignará la gestión de su fondo Franklin Global Growth Fund a Putnam Investment Management, reduciéndole la comisión anual de 0,90% a 0,60% y cambiando su estilo de inversión de concentrado en crecimiento a una estrategia diversificada de renta variable global. Los cambios operarán antes del 14 de octubre.",
-      "detail": "La comisión (o 'fee') de un fondo de inversión impacta directamente en el rendimiento neto que recibe el inversor: una baja de 0,90% a 0,60% puede parecer pequeña, pero a largo plazo representa una diferencia importante. Este caso también muestra cómo las gestoras de fondos adaptan sus productos a las preferencias del mercado, priorizando opciones más baratas y diversificadas. Es una tendencia global que vale la pena entender al momento de elegir dónde invertir.",
-      "tags": [
-        "fondos",
-        "comisiones",
-        "diversificación"
-      ],
-      "source_name": "Financial Newswire",
-      "source_url": "https://financialnewswire.com.au/funds-management/franklin-templeton-switches-fund-to-putnam/",
-      "published_at": "2026-09-15T20:32:29Z",
-      "tickers": [
-        "BEN"
-      ]
-    },
-    {
-      "id": "fis-52-semanas-bajo",
-      "type": "mercado",
-      "title": "FIS cayó a su mínimo de 52 semanas con una baja del 43% en el año",
-      "summary": "Las acciones de Fidelity National Information Services (FIS) tocaron un nuevo mínimo de 52 semanas en u$s37,40, acumulando una caída del 43,6% en el último año. A pesar del desplome, el ratio precio-ganancia está en 5,78 y la empresa mantiene un dividendo del 4,61%, aunque varios analistas bajaron sus recomendaciones por la debilidad en el segmento de mercados de capitales.",
-      "detail": "El mínimo de 52 semanas es una referencia que usan los inversores para evaluar si una acción está en tendencia bajista. Un P/E de 5,78 indica que la acción es barata en relación a sus ganancias, lo que puede atraer inversores de valor, pero también puede reflejar problemas estructurales en el negocio. Este caso es útil para aprender a interpretar indicadores técnicos y fundamentales al mismo tiempo.",
-      "tags": [
-        "acciones",
-        "valuación",
-        "fintech"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/company-news/fis-stock-hits-52week-low-at-374-usd-93CH-4902454",
-      "published_at": "2026-09-15T20:12:55Z",
-      "tickers": [
-        "FIS"
-      ]
-    },
-    {
-      "id": "walmart-target-cramer",
-      "type": "mercado",
-      "title": "Jim Cramer dice que Target está superando a Walmart en este momento",
-      "summary": "Jim Cramer afirmó que Target tiene un mejor desempeño que Walmart en la actualidad, con mayor impulso en ventas comparables. Recomendó comprar Walmart con cautela por su valuación elevada, mientras que los fondos de cobertura relevados siguen prefiriendo Walmart sobre Target.",
-      "detail": "Las ventas comparables ('same-store sales') miden el crecimiento de las ventas en tiendas que llevan al menos un año funcionando, excluyendo las nuevas aperturas. Es un indicador clave para analizar la salud real del negocio minorista. La divergencia entre la opinión de Cramer y la posición de los fondos de cobertura ilustra que distintos inversores pueden leer los mismos datos de formas muy diferentes.",
-      "tags": [
-        "consumo",
-        "retail",
-        "acciones"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-target-doing-192102989.html",
-      "published_at": "2026-09-15T19:21:45Z",
-      "tickers": [
-        "WMT",
-        "TGT"
-      ]
-    },
-    {
-      "id": "chipotle-baja-67",
-      "type": "mercado",
-      "title": "Chipotle cayó 6,7% en medio de debilidad del consumo discrecional",
-      "summary": "Las acciones de Chipotle Mexican Grill bajaron 6,7% hasta u$s34,56, con un volumen de operaciones 41% por debajo del promedio, mientras el sector de consumo discrecional mostró señales de debilidad generalizada. A pesar de la caída, la empresa planea abrir hasta 370 nuevos restaurantes en 2026 y los analistas mantienen una recomendación de compra moderada con un precio objetivo promedio de u$s43,84.",
-      "detail": "El consumo discrecional engloba bienes y servicios que la gente compra cuando le sobra dinero, como restaurantes o ropa de marca. Cuando este sector cae, suele interpretarse como una señal de que los consumidores están más cautelosos con sus gastos, lo que puede estar relacionado con inflación, tasas de interés altas o incertidumbre económica. Este tipo de movimientos sectoriales ayudan a entender el estado general de la economía.",
-      "tags": [
-        "consumo",
-        "acciones",
-        "mercado"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/price-chipotle-mexican-grill-nyse-cmg-stock-price-down-67-time-to-sell-2026-09-15/",
-      "published_at": "2026-09-15T19:43:49Z",
-      "tickers": [
-        "CMG"
+        "IT"
       ]
     }
   ],
@@ -195,13 +198,13 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.560",
       "valor_num": 1560.0,
-      "delta_pct": 0.97
+      "delta_pct": 0.32
     },
     {
       "label": "MEP",
       "valor": "$1.533",
       "valor_num": 1533.2,
-      "delta_pct": -0.44
+      "delta_pct": -0.23
     },
     {
       "label": "CCL",
@@ -211,9 +214,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 75.394",
-      "valor_num": 75394.0,
-      "delta_pct": -4.24
+      "valor": "US$ 76.190",
+      "valor_num": 76190.0,
+      "delta_pct": -0.93
     },
     {
       "label": "S&P 500",
@@ -223,9 +226,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.333",
-      "valor_num": 4333.4,
-      "delta_pct": -1.68
+      "valor": "US$ 4.388",
+      "valor_num": 4388.0,
+      "delta_pct": -0.47
     }
   ]
 }
