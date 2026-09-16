@@ -1,198 +1,183 @@
 {
-  "generated_at": "2026-09-16T12:01:32.311639+00:00",
+  "generated_at": "2026-09-16T22:01:20.140200+00:00",
   "items": [
     {
-      "id": "qualcomm-amazon-ai-chip-deal",
-      "type": "empresa",
-      "title": "Qualcomm sube fuerte tras un acuerdo millonario con Amazon para chips de IA",
-      "summary": "Las acciones de Qualcomm tocaron su máximo en dos meses después de anunciar una colaboración con Amazon para desarrollar chips de IA personalizados para AWS, en un deal que podría valer hasta 60.000 millones de dólares. El movimiento busca diversificar los ingresos de Qualcomm más allá de los chips para smartphones.",
-      "detail": "Qualcomm dependía en gran parte de fabricar chips para celulares, especialmente Apple. Este acuerdo con Amazon para chips de inteligencia artificial en centros de datos representa una diversificación de negocio clave: si un segmento flojea, el otro puede compensar. Para quienes aprenden finanzas, es un ejemplo clásico de cómo un anuncio estratégico puede mover el precio de una acción incluso cuando los resultados recientes fueron negativos.",
+      "id": "fed-prime-rate-hike-sept2026",
+      "type": "economia",
+      "title": "La Fed subió tasas y los bancos siguieron: la tasa prime volvió a 7%",
+      "summary": "Tras la decisión de la Reserva Federal de subir su tasa de referencia, grandes bancos como JPMorgan, KeyCorp y BNY aumentaron su tasa prime de 6,75% a 7%, efectiva desde el 17 de septiembre de 2026. Esto encarece el crédito para consumidores y empresas en Estados Unidos.",
+      "detail": "La tasa prime es la tasa base que los bancos usan para fijar el costo de préstamos a particulares y empresas. Cuando la Fed sube su tasa de referencia, los bancos trasladan ese costo al mercado casi de inmediato. Este mecanismo muestra cómo las decisiones de un banco central afectan directamente al crédito de toda una economía, algo clave para entender por qué las reuniones de la Fed mueven mercados globales, incluyendo el de bonos y acciones argentinos.",
       "tags": [
-        "tecnología",
-        "inteligencia artificial",
-        "semiconductores"
+        "tasas de interés",
+        "Fed",
+        "crédito"
       ],
-      "source_name": "Foreign Policy Journal",
-      "source_url": "https://www.foreignpolicyjournal.com/2026/09/16/qualcomm-nasdaq-qcom-hits-two-month-high-as-amazon-ai-chip-deal-reshapes-growth-outlook/",
-      "published_at": "2026-09-16T09:56:43Z",
+      "source_name": "1470 & 100.3 WMBD",
+      "source_url": "https://wmbdradio.com/2026/09/16/keycorp-raises-prime-rate-after-fed-decision/",
+      "published_at": "2026-09-16T19:49:29Z",
       "tickers": [
-        "QCOM",
-        "AMZN"
+        "KEY",
+        "JPM",
+        "BK",
+        "WFC",
+        "BAC"
       ]
     },
     {
-      "id": "jpmorgan-downgrade-zacks",
+      "id": "bank-of-america-fees-drop",
       "type": "mercado",
-      "title": "Zacks bajó la recomendación de JPMorgan, uno de los bancos más grandes del mundo",
-      "summary": "La firma de análisis Zacks Research rebajó su calificación de JPMorgan Chase de \"compra fuerte\" a \"mantener\", a pesar de que el banco superó las expectativas de ganancias con un EPS de 6,14 dólares y 58.020 millones en ingresos. El consenso general del mercado sigue siendo \"compra moderada\" con un precio objetivo promedio de 359,96 dólares.",
-      "detail": "Las calificaciones de analistas son señales que usan los inversores para decidir si comprar, mantener o vender una acción. Cuando una firma importante como Zacks baja su recomendación, puede generar ventas aunque los números de la empresa sean buenos. En este caso, la preocupación no es el presente sino el futuro: menor crecimiento de ganancias y riesgos macroeconómicos. Aprender a distinguir entre resultados actuales y perspectivas futuras es fundamental en finanzas.",
+      "title": "Bank of America cayó 1,4% tras proyectar una baja de hasta 20% en sus comisiones de banca de inversión",
+      "summary": "El CEO de Bank of America proyectó que las comisiones de banca de inversión del tercer trimestre estarían entre 1.600 y 1.800 millones de dólares, una caída de entre 10% y 20% respecto al año anterior. Las acciones del banco bajaron 1,4% ante la noticia.",
+      "detail": "La banca de inversión genera ingresos ayudando a empresas a emitir acciones, bonos o hacer fusiones. Cuando esas actividades se desaceleran —por tasas altas o incertidumbre económica—, los ingresos por comisiones caen. Aunque este segmento representa solo el 7% de los ingresos totales de Bank of America, el mercado reaccionó negativamente, lo que ilustra cómo una sola guía prospectiva puede mover el precio de una acción.",
       "tags": [
-        "bancos",
-        "analistas",
+        "banca",
+        "comisiones",
         "acciones"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-nyse-jpm-lowered-to-hold-rating-by-zacks-research-2026-09-16/",
-      "published_at": "2026-09-16T10:38:51Z",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "id": "dollar-general-presion-consumidores",
-      "type": "economia",
-      "title": "Dollar General advierte que la presión sobre los consumidores seguirá hasta fin de 2026",
-      "summary": "Dollar General espera que la inflación y los altos precios del combustible sigan apretando los bolsillos de sus clientes durante el resto del año, lo que lleva a la gente a hacer compras más frecuentes pero más chicas. La empresa apunta al crecimiento en delivery y ofertas de valor, con metas de margen operativo del 6 al 7% para 2028.",
-      "detail": "Dollar General es una cadena de tiendas orientada a consumidores de bajos y medios ingresos en EE.UU., por lo que sus advertencias sobre el comportamiento del consumidor son un termómetro útil de la economía real. Cuando una empresa así dice que sus clientes compran menos por vez, es una señal de que la inflación y los costos de vida siguen golpeando fuerte. Este tipo de dato macroeconómico afecta las expectativas sobre el consumo y, por ende, los mercados.",
-      "tags": [
-        "consumo",
-        "inflación",
-        "economía"
-      ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-sees-shopper-pressure-100220770.html",
-      "published_at": "2026-09-16T10:02:55Z",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-falls-1-4-202439682.html",
+      "published_at": "2026-09-16T20:25:02Z",
       "tickers": [
-        "DG"
+        "BAC"
       ]
     },
     {
-      "id": "microsoft-data-center-virginia",
-      "type": "empresa",
-      "title": "Microsoft invertirá en un nuevo campus de centros de datos en Virginia",
-      "summary": "Microsoft planea construir un campus de centros de datos en el condado de Prince William, Virginia, sobre 123 acres de terreno que compró en 2024 por 465,5 millones de dólares. La zona ya alberga proyectos similares de Amazon y Google, consolidándose como un hub tecnológico clave.",
-      "detail": "La inversión masiva en infraestructura de centros de datos refleja la creciente demanda de servicios en la nube e inteligencia artificial. Para un inversor, este tipo de noticias muestra cómo las grandes tecnológicas compiten por capacidad física, no solo por software. La concentración de Microsoft, Amazon y Google en la misma región también ilustra cómo se forman ecosistemas industriales que atraen talento, proveedores y regulación.",
+      "id": "huntington-outlook-rates",
+      "type": "economia",
+      "title": "Un banco mediano de EE.UU. recortó sus proyecciones por tasas altas y menor rentabilidad en préstamos",
+      "summary": "Huntington Bancshares revisó a la baja sus expectativas de rentabilidad para 2026 y 2027, afectado por tasas de interés más altas que encarecen sus depósitos y por la competencia que reduce el rendimiento de sus préstamos. El CEO reconoció turbulencia en el corto plazo, aunque mantuvo una visión positiva a largo plazo.",
+      "detail": "Este caso ilustra el dilema que enfrentan los bancos cuando las tasas suben: por un lado, cobran más por los préstamos, pero también pagan más por los depósitos y enfrentan mayor competencia. Si la diferencia entre lo que cobran y lo que pagan se achica, el negocio bancario se complica. Es un ejemplo real de cómo el entorno de tasas altas impacta directamente en la rentabilidad del sistema financiero.",
       "tags": [
-        "tecnología",
-        "nube",
-        "infraestructura"
+        "bancos",
+        "tasas de interés",
+        "rentabilidad"
       ],
-      "source_name": "Data Center Dynamics",
-      "source_url": "https://www.datacenterdynamics.com/en/news/microsoft-files-to-build-data-center-campus-in-prince-william-county-virginia/",
-      "published_at": "2026-09-16T10:28:34Z",
+      "source_name": "American Banker",
+      "source_url": "https://www.americanbanker.com/news/huntington-tempers-outlook-due-to-higher-rates-lower-yields",
+      "published_at": "2026-09-16T20:16:07Z",
       "tickers": [
-        "MSFT",
+        "HBAN"
+      ]
+    },
+    {
+      "id": "generac-amazon-deal",
+      "type": "empresa",
+      "title": "Generac se disparó 18% tras firmar un acuerdo de 8.000 millones de dólares con Amazon para generadores en data centers",
+      "summary": "Generac Holdings anunció un acuerdo de largo plazo con Amazon por 8.000 millones de dólares para proveer generadores de respaldo a sus centros de datos, con entregas iniciales de 2.400 millones en 2027 y 2028. Las acciones de Generac subieron 18% en el mercado extrabursátil tras el anuncio.",
+      "detail": "Los data centers que sostienen la inteligencia artificial y la nube consumen cantidades enormes de electricidad y necesitan respaldo energético permanente. Este acuerdo muestra cómo el boom de la IA genera oportunidades concretas para empresas industriales que no son tecnológicas. Para quien aprende finanzas, es un ejemplo claro de cómo un solo anuncio contractual puede mover drásticamente el precio de una acción.",
+      "tags": [
+        "IA",
+        "energía",
+        "acciones"
+      ],
+      "source_name": "Investing.com Canada",
+      "source_url": "https://ca.investing.com/news/stock-market-news/generac-stock-surges-18-on-8b-amazon-supply-deal-4842460",
+      "published_at": "2026-09-16T20:37:58Z",
+      "tickers": [
+        "GNRC",
         "AMZN"
       ]
     },
     {
-      "id": "jb-hunt-profit-warning",
-      "type": "mercado",
-      "title": "JB Hunt cayó un 9% tras emitir una rara advertencia de ganancias",
-      "summary": "Las acciones de JB Hunt Transport cayeron hasta un 9% en el premarket después de que la empresa alertara que sus ganancias del tercer trimestre podrían bajar entre un 5% y un 10% respecto al segundo, principalmente por el alza en los costos de combustible. Lo llamativo es que esta empresa rara vez emite este tipo de alertas intra-trimestre.",
-      "detail": "Una advertencia de ganancias antes de que termine el trimestre es una señal de alarma porque significa que la empresa sabe que los resultados serán peores de lo esperado. En el caso de JB Hunt, el alza del combustible impacta directamente en los costos de transporte, lo que comprime márgenes. Para quienes aprenden finanzas, este caso muestra cómo los costos operativos pueden erosionar ganancias incluso cuando la demanda del mercado es positiva.",
-      "tags": [
-        "transporte",
-        "ganancias",
-        "combustible"
-      ],
-      "source_name": "Investing.com South Africa",
-      "source_url": "https://za.investing.com/news/stock-market-news/jb-hunt-shares-drop-9-on-rare-profit-warning-93CH-4466503",
-      "published_at": "2026-09-16T10:06:15Z",
-      "tickers": [
-        "JBHT"
-      ]
-    },
-    {
-      "id": "colgate-venta-marcas",
+      "id": "blackstone-alphabet-ai-loan",
       "type": "empresa",
-      "title": "Colgate-Palmolive estudiaría vender marcas como Softsoap e Irish Spring por más de 1.000 millones",
-      "summary": "Colgate-Palmolive estaría explorando la venta de varias marcas de cuidado personal, incluyendo Softsoap, Irish Spring y Speed Stick, en una operación que podría superar los 1.000 millones de dólares. La compañía estaría trabajando con Goldman Sachs para llevar adelante la desinversión.",
-      "detail": "Cuando una empresa vende divisiones o marcas, generalmente busca concentrarse en su negocio principal y mejorar su rentabilidad. Este proceso se llama 'desinversión' o 'spin-off parcial' y suele ser bien recibido por el mercado si el precio es atractivo. Para el comprador, en cambio, puede ser una forma de ingresar rápidamente a un segmento de mercado. Goldman Sachs actúa acá como banco de inversión asesor, un rol clave en este tipo de transacciones.",
+      "title": "Un consorcio de bancos prestó 22.000 millones de dólares para un venture de IA entre Blackstone y Alphabet",
+      "summary": "Diez bancos, incluyendo Goldman Sachs y Barclays, otorgaron un préstamo de 22.000 millones de dólares para financiar Crux AI, una empresa conjunta de nube entre Blackstone y Alphabet. El dinero se usará para comprar unidades de procesamiento tensorial (TPUs) fabricadas por Google, con los chips y contratos de clientes como garantía.",
+      "detail": "Este es uno de los préstamos de deuda más grandes para operaciones de inteligencia artificial, y muestra cómo el financiamiento bancario tradicional está siendo el motor detrás del crecimiento de la infraestructura de IA. El hecho de que se usen los chips como garantía es un concepto financiero importante: los activos físicos o contractuales respaldando deuda. También ilustra la creciente escala de inversiones que requiere la IA a nivel global.",
       "tags": [
-        "fusiones",
-        "consumo",
-        "banca de inversión"
+        "IA",
+        "deuda",
+        "tecnología"
       ],
-      "source_name": "Cosmetics Business",
-      "source_url": "https://cosmeticsbusiness.com/colgate-palmolive-allegedly-explores-sale-personal-care-brands",
-      "published_at": "2026-09-16T10:42:34Z",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/stock-market-news/banks-provide-22-billion-loan-for-blackstone-and-alphabet-ai-venture--bloomberg-93CH-4904384",
+      "published_at": "2026-09-16T19:49:53Z",
       "tickers": [
-        "CL",
+        "BX",
+        "GOOGL",
         "GS"
       ]
     },
     {
-      "id": "union-pacific-upgrade-ubs",
-      "type": "mercado",
-      "title": "Union Pacific subió más del 2% tras una mejora de calificación por parte de UBS",
-      "summary": "UBS mejoró su recomendación sobre Union Pacific de Neutral a Compra, elevando su precio objetivo de 310 a 339 dólares, impulsado por expectativas de fuerte crecimiento en volúmenes de carga y ganancias por encima del consenso del mercado. La acción también es beneficiada por la propuesta de fusión con Norfolk Southern y una próxima presentación de management en una conferencia de Morgan Stanley.",
-      "detail": "Cuando un banco de inversión grande como UBS sube su recomendación y su precio objetivo, el mercado suele reaccionar comprando la acción. En este caso, la combinación de mejores fundamentos operativos y una posible fusión entre dos gigantes ferroviarios amplifica el atractivo. Las fusiones en sectores regulados como el transporte ferroviario suelen tardar años en aprobarse, pero generan expectativas que mueven los precios desde el anuncio.",
-      "tags": [
-        "transporte",
-        "fusiones",
-        "analistas"
-      ],
-      "source_name": "Investing.com Canada",
-      "source_url": "https://ca.investing.com/news/stock-market-news/why-is-union-pacific-stock-rallying-today-93CH-4841319",
-      "published_at": "2026-09-16T10:04:23Z",
-      "tickers": [
-        "UNP",
-        "NSC"
-      ]
-    },
-    {
-      "id": "truist-venta-cartera-autos",
+      "id": "boeing-737-max-production",
       "type": "empresa",
-      "title": "Truist Financial vendió una cartera de préstamos de autos por 5.500 millones de dólares",
-      "summary": "Truist Financial anunció la venta de su cartera de préstamos de autos 'near-prime' valuada en 5.500 millones de dólares y el cierre de su unidad Regional Acceptance Corporation, con el objetivo de mejorar sus métricas de crédito y liberar capital. La operación generaría alrededor de 950 millones de dólares en capital y el banco reafirmó su plan de recompra de acciones por 5.000 millones.",
-      "detail": "Los bancos gestionan activamente sus carteras de préstamos para equilibrar riesgo y rentabilidad. Vender préstamos 'near-prime' (de mayor riesgo de impago) le permite a Truist mejorar la calidad de su balance y liberar capital para otros usos, como recomprar acciones propias. La recompra de acciones es una señal positiva: la empresa cree que sus propias acciones están baratas y reduce la cantidad en circulación, lo que suele aumentar el valor por acción restante.",
+      "title": "Boeing admitió que le está costando más de lo esperado estabilizar la producción del 737 MAX y sus acciones cayeron",
+      "summary": "El CEO de Boeing, Kelly Ortberg, reconoció que alcanzar el ritmo de producción de 47 aviones por mes del 737 MAX está tomando más tiempo del previsto, lo que generó una caída en el precio de las acciones. La empresa apunta a subir luego a 52 unidades mensuales y espera la certificación del 737-10 \"muy pronto\", aunque ya lleva varios años de retraso.",
+      "detail": "Boeing es uno de los dos grandes fabricantes de aviones comerciales del mundo y sus problemas de producción afectan a aerolíneas y cadenas de suministro globales. Para quien aprende finanzas, este caso muestra cómo las demoras operativas y la incertidumbre sobre la ejecución de planes se traducen directamente en caídas bursátiles, ya que los inversores descuentan riesgos futuros en el precio actual de la acción.",
       "tags": [
-        "bancos",
-        "crédito",
-        "capital"
+        "manufactura",
+        "acciones",
+        "producción"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/event-truist-financial-sells-55b-auto-loan-portfolio-reaffirms-outlook-2026-09-16/",
-      "published_at": "2026-09-16T09:06:08Z",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/boeing-ceo-says-it-is-taking-longer-stabilize-737-max-output-shares-slide-2026-09-16/",
+      "published_at": "2026-09-16T19:18:07Z",
       "tickers": [
-        "TFC"
+        "BA"
       ]
     },
     {
-      "id": "deutsche-bank-upgrade-ab-inbev",
+      "id": "sgf-diamondback-stake-sale",
       "type": "mercado",
-      "title": "Deutsche Bank mejoró su recomendación sobre AB InBev y Campari por perspectivas positivas en bebidas",
-      "summary": "Deutsche Bank subió su calificación a 'compra' para Anheuser-Busch InBev y Campari, citando un panorama selectivamente positivo para la cerveza y fuerte crecimiento en bebidas sin alcohol. El banco mantuvo su recomendación positiva para Coca-Cola Europacific Partners y Coca-Cola Hellenic, pero bajó objetivos de precio para Carlsberg, Diageo y Heineken.",
-      "detail": "Las mejoras de calificación sectoriales por parte de bancos globales como Deutsche Bank son señales importantes porque reflejan el análisis de tendencias de consumo a gran escala. En este caso, el cambio en preferencias de los consumidores hacia bebidas sin alcohol es el motor detrás de la diferenciación entre ganadores y perdedores del sector. Para quienes aprenden finanzas, esto ilustra cómo los cambios culturales y de hábitos impactan en la valuación de empresas.",
+      "title": "Una family office vendió acciones de Diamondback Energy por 1.900 millones de dólares",
+      "summary": "SGF Capital, la family office del fundador de Endeavor Energy Resources, vendió 9,1 millones de acciones de Diamondback Energy por aproximadamente 1.900 millones de dólares, a un precio de 205,80 dólares por acción, un descuento del 2,7% respecto al cierre anterior. Las acciones habían sido adquiridas en la fusión de 2024 entre Endeavor y Diamondback.",
+      "detail": "Las ventas de grandes bloques de acciones a descuento son comunes cuando un inversor institucional necesita liquidez sin mover demasiado el mercado. El descuento del 2,7% es el costo de vender rápido una posición enorme. Este tipo de operaciones, conocidas como block trades, son relevantes para entender cómo los grandes inversores administran sus portafolios y cómo esas ventas pueden presionar el precio de una acción en el corto plazo.",
       "tags": [
-        "consumo",
-        "analistas",
-        "bebidas"
+        "energía",
+        "block trade",
+        "acciones"
       ],
       "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-anheuserbusch-inbev-campari-on-beer-soft-drinks-outlook-4903173",
-      "published_at": "2026-09-16T10:00:34Z",
+      "source_url": "https://www.investing.com/news/stock-market-news/sgf-capital-sells-19-billion-stake-in-diamondback-energy-93CH-4904368",
+      "published_at": "2026-09-16T19:50:47Z",
       "tickers": [
-        "DB",
-        "KO"
+        "FANG"
       ]
     },
     {
-      "id": "gartner-ia-rehire-workers",
-      "type": "economia",
-      "title": "Gartner prevé que el 30% de los trabajadores reemplazados por IA deberán ser recontratados",
-      "summary": "Según Gartner, para 2029 el 30% de los empleados desplazados por inteligencia artificial tendrán que ser recontratados, muchas veces a mayor costo, porque las empresas habrán recortado demasiado rápido y perdido conocimiento clave. La consultora recomienda rediseñar roles en lugar de simplemente eliminarlos.",
-      "detail": "Este dato de Gartner es relevante para entender el impacto real de la IA en el mercado laboral y en los costos empresariales. Para las empresas, despedir personal para ahorrar costos puede resultar más caro a largo plazo si después deben contratar de nuevo a personas con experiencia. Desde la perspectiva financiera, esto puede afectar la rentabilidad proyectada de empresas que apostaron fuerte a la automatización sin una estrategia de transición bien planificada.",
+      "id": "lululemon-caida-guidance",
+      "type": "mercado",
+      "title": "Lululemon bajó 18% en un mes tras recortar por segunda vez su guía de ganancias para el año",
+      "summary": "Las acciones de Lululemon acumularon una caída del 18% en el último mes luego de que la compañía redujera significativamente su proyección de ganancias por acción para todo el año. El sector de ropa deportiva en general mostró debilidad, con Nike y On Holding también en baja.",
+      "detail": "Cuando una empresa recorta su guía de ganancias —es decir, avisa que va a ganar menos de lo que había prometido—, el mercado castiga fuerte la acción porque los inversores ajustan a la baja el valor que le asignan. El hecho de que también caigan competidores como Nike sugiere que hay factores macro o de consumo afectando al sector entero, no solo problemas internos de Lululemon. Este es un ejemplo clásico de cómo las expectativas mueven más los precios que los resultados pasados.",
       "tags": [
-        "inteligencia artificial",
-        "mercado laboral",
-        "empresas"
+        "consumo",
+        "acciones",
+        "guía de ganancias"
       ],
-      "source_name": "Inc.com",
-      "source_url": "https://www.inc.com/marcel-schwantes/gartner-companies-rehire-workers-replaced-ai-leadership-lesson/91405844",
-      "published_at": "2026-09-16T09:37:38Z",
+      "source_name": "24/7 Wall St.",
+      "source_url": "https://247wallst.com/investing/2026/09/16/lululemon-just-dropped-18-in-a-month-is-it-time-to-sell/",
+      "published_at": "2026-09-16T19:02:51Z",
       "tickers": [
-        "IT"
+        "LULU",
+        "NKE"
+      ]
+    },
+    {
+      "id": "moodys-upgrade-performance-food",
+      "type": "economia",
+      "title": "Moody's mejoró la calificación de deuda de Performance Food Group tras una reducción significativa de su endeudamiento",
+      "summary": "Moody's Ratings subió la calificación de las notas senior no garantizadas de Performance Food Group de B1 a Ba3, reflejando una reducción importante de su deuda y mejores tasas de recuperación esperadas para esos bonos. La calificación corporativa familiar Ba2 fue confirmada, respaldada por un buen desempeño operativo.",
+      "detail": "Las calificadoras como Moody's evalúan la capacidad de una empresa de repagar su deuda y asignan notas que afectan el costo al que esa empresa puede endeudarse. Una mejora en la calificación generalmente reduce el rendimiento exigido por los inversores en los bonos de esa empresa, lo que abarata su financiamiento. Este mecanismo es fundamental para entender el mercado de bonos corporativos.",
+      "tags": [
+        "calificación crediticia",
+        "bonos",
+        "deuda"
+      ],
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/stock-market-news/moodys-upgrades-performance-food-notes-on-debt-paydown-93CH-4904389",
+      "published_at": "2026-09-16T20:43:33Z",
+      "tickers": [
+        "MCO"
       ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.530",
-      "valor_num": 1530.0,
-      "delta_pct": 0.0
+      "valor": "$1.535",
+      "valor_num": 1535.0,
+      "delta_pct": 0.33
     },
     {
       "label": "DÓLAR BLUE",
@@ -202,33 +187,33 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.533",
-      "valor_num": 1533.2,
-      "delta_pct": -0.23
+      "valor": "$1.542",
+      "valor_num": 1542.1,
+      "delta_pct": 0.35
     },
     {
       "label": "CCL",
-      "valor": "$1.595",
-      "valor_num": 1594.6,
-      "delta_pct": -0.18
+      "valor": "$1.600",
+      "valor_num": 1600.2,
+      "delta_pct": 0.17
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 76.190",
-      "valor_num": 76190.0,
-      "delta_pct": -0.93
+      "valor": "US$ 75.946",
+      "valor_num": 75946.0,
+      "delta_pct": 0.75
     },
     {
       "label": "S&P 500",
-      "valor": "7.586",
-      "valor_num": 7585.73,
-      "delta_pct": -1.14
+      "valor": "7.552",
+      "valor_num": 7551.81,
+      "delta_pct": -1.11
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.388",
-      "valor_num": 4388.0,
-      "delta_pct": -0.47
+      "valor": "US$ 4.302",
+      "valor_num": 4302.5,
+      "delta_pct": -2.41
     }
   ]
 }
