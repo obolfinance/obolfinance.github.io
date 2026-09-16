@@ -58,13 +58,27 @@ jobs:
           fi
 
       - name: Abrir, actualizar o cerrar el Issue
+        # Que un error de la API de GitHub no pinte la corrida de rojo: el aviso
+        # es un accesorio, el chequeo real es el paso anterior. Se reintenta y,
+        # si igual falla, queda como warning en el resumen.
         if: always()
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
           RESULTADO: ${{ steps.revisar.outcome }}
         run: |
-          set -euo pipefail
+          set -uo pipefail
+
+          reintentar() {
+            for intento in 1 2 3; do
+              if "$@"; then return 0; fi
+              echo "::warning::la API de GitHub fallo (intento $intento)"
+              sleep 5
+            done
+            return 1
+          }
+
           TITULO="Monitoreo del sitio: algo falló"
           ETIQUETA="monitoreo"
           CORRIDA="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
@@ -82,12 +96,12 @@ jobs:
 
           if [ "$RESULTADO" = "success" ]; then
             if [ -n "$ABIERTO" ]; then
-              gh issue close "$ABIERTO" --comment "Todo volvió a pasar en la corrida del $(date -u +%F): $CORRIDA"
+              reintentar gh issue close "$ABIERTO" --comment "Todo volvió a pasar en la corrida del $(date -u +%F): $CORRIDA"
             fi
           elif [ -n "$ABIERTO" ]; then
-            gh issue comment "$ABIERTO" --body-file "$CUERPO"
+            reintentar gh issue comment "$ABIERTO" --body-file "$CUERPO"
           else
-            gh issue create --title "$TITULO" --label "$ETIQUETA" --body-file "$CUERPO"
+            reintentar gh issue create --title "$TITULO" --label "$ETIQUETA" --body-file "$CUERPO"
           fi
 
       - name: Marcar la corrida como fallida
