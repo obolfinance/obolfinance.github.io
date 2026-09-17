@@ -1,185 +1,187 @@
 {
-  "generated_at": "2026-09-17T12:01:20.659954+00:00",
+  "generated_at": "2026-09-17T22:01:19.318854+00:00",
   "items": [
     {
-      "id": "eaton-datacenter-growth-2026",
-      "type": "empresa",
-      "title": "Eaton sube sus proyecciones de crecimiento gracias al boom de los data centers",
-      "summary": "Eaton (ETN) elevó su perspectiva de crecimiento orgánico para 2026 al 12%, impulsada por la demanda explosiva de infraestructura para data centers y centros de IA. El CEO destacó adquisiciones estratégicas y una posible superación de su objetivo de ingresos eléctricos de u$s31.000 millones para 2030.",
-      "detail": "Este caso muestra cómo una tendencia tecnológica —el crecimiento de la IA y los data centers— impacta directamente en empresas industriales que fabrican equipos eléctricos. Cuando una compañía sube su guidance (proyección de resultados), suele ser una señal positiva para el mercado y puede impulsar el precio de su acción. Es un ejemplo claro de cómo sectores aparentemente distintos (tecnología e industria) están cada vez más interconectados.",
+      "id": "fomc-ai-rate-hikes-morgan-stanley",
+      "type": "discurso",
+      "title": "Morgan Stanley: las subas de tasas no van a frenar el ciclo de la IA",
+      "summary": "Lisa Shalett, directora de inversiones de Morgan Stanley Wealth Management, dijo que el ciclo de inteligencia artificial no se va a ver afectado por las recientes subas de tasas de la Reserva Federal, tras la última decisión del FOMC.",
+      "detail": "Cuando la Fed sube tasas, el costo del dinero aumenta y eso suele perjudicar a empresas de tecnología que dependen de financiamiento barato. Sin embargo, Shalett argumenta que el impulso de la IA es tan fuerte que puede resistir ese contexto. Esta distinción es clave para aprender a analizar cómo las decisiones de política monetaria impactan de forma distinta en cada sector del mercado.",
       "tags": [
-        "industria",
-        "tecnología",
-        "data centers"
+        "tasas de interés",
+        "inteligencia artificial",
+        "política monetaria"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/technology/articles/eaton-sees-best-years-ahead-090210065.html",
-      "published_at": "2026-09-17T09:02:47Z",
-      "tickers": [
-        "ETN"
-      ]
-    },
-    {
-      "id": "applied-materials-india-5b-2026",
-      "type": "empresa",
-      "title": "Applied Materials invertirá u$s5.000 millones en India para desarrollar la industria de semiconductores",
-      "summary": "Applied Materials anunció una inversión de u$s5.000 millones en India durante la próxima década, enfocada en investigación, cadena de suministro y desarrollo de talento, en el marco del evento SEMICON India. El país proyecta que su consumo de semiconductores llegará a u$s110.000 millones para 2030.",
-      "detail": "Los semiconductores son el corazón de toda la tecnología moderna, y la disputa geopolítica por su producción es uno de los temas centrales de la economía global. Esta inversión refleja el intento de India de posicionarse como alternativa a China en la cadena de suministro tecnológica. Para quienes aprenden finanzas, es un ejemplo de cómo las decisiones geopolíticas y los incentivos gubernamentales pueden atraer capital privado masivo hacia un país.",
-      "tags": [
-        "semiconductores",
-        "inversión",
-        "geopolítica"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/technology/articles/applied-materials-invest-5-billion-081539478.html",
-      "published_at": "2026-09-17T08:15:55Z",
-      "tickers": [
-        "AMAT"
-      ]
-    },
-    {
-      "id": "wells-fargo-applied-digital-overweight-2026",
-      "type": "mercado",
-      "title": "Wells Fargo inicia cobertura de Applied Digital con objetivo de u$s50, más del doble del precio actual",
-      "summary": "Wells Fargo comenzó a cubrir Applied Digital (APLD) con una calificación 'overweight' y un precio objetivo de u$s50, cuando la acción cotiza en u$s24,39. El banco destacó el respaldo de contratos con grandes clientes como Meta y Oracle.",
-      "detail": "Cuando un banco de inversión inicia cobertura con una calificación positiva, envía una señal al mercado sobre el potencial de una acción. Un precio objetivo que implica más del 100% de upside es inusualmente optimista y refleja expectativas de crecimiento muy fuertes. Esto también ilustra el concepto de 'valor de activos netos descontado': el banco cree que el mercado está subvalorando los activos contratados de la empresa.",
-      "tags": [
-        "análisis bursátil",
-        "data centers",
-        "upside"
-      ],
-      "source_name": "Investing.com UK",
-      "source_url": "https://uk.investing.com/news/stock-market-news/wells-fargo-initiates-applied-digital-stock-with-overweight-rating-93CH-4872766",
-      "published_at": "2026-09-17T10:10:55Z",
-      "tickers": [
-        "APLD"
-      ]
-    },
-    {
-      "id": "palo-alto-bernstein-downgrade-2026",
-      "type": "mercado",
-      "title": "Bernstein baja la recomendación de Palo Alto Networks pero sube fuerte su precio objetivo",
-      "summary": "Bernstein rebajó a Palo Alto Networks (PANW) de 'Outperform' a 'Market Perform', pero al mismo tiempo elevó su precio objetivo de u$s253 a u$s351. La empresa de ciberseguridad genera el 67% de sus ingresos en América.",
-      "detail": "Este movimiento parece contradictorio: bajar la recomendación y subir el precio objetivo al mismo tiempo. Esto suele ocurrir cuando el analista considera que la acción ya subió tanto que alcanzó su potencial de corto plazo, pero reconoce que la compañía vale más de lo que estimaba antes. Es un buen ejemplo para entender que 'precio objetivo' y 'recomendación' son dos variables distintas en el análisis bursátil.",
-      "tags": [
-        "ciberseguridad",
-        "análisis bursátil",
-        "rating"
-      ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/bernstein-downgrades-palo-alto-networks-to-market-perform-from-outperform-adjusts-pt-to-351-from--ce785bd3db8ef026",
-      "published_at": "2026-09-17T09:23:26Z",
-      "tickers": [
-        "PANW"
-      ]
-    },
-    {
-      "id": "microsoft-legal-licensing-2026",
-      "type": "empresa",
-      "title": "Un juez obliga a Microsoft a revelar documentos internos en un caso sobre licencias de software de segunda mano",
-      "summary": "Un tribunal ordenó a Microsoft divulgar comunicaciones internas de sus ejecutivos en un litigio con el revendedor ValueLicensing, relacionado con licencias de software usadas. El caso se acerca a un juicio por responsabilidad, y una presentación interna de 2013 es clave en la causa.",
-      "detail": "Los conflictos legales pueden representar un riesgo significativo para empresas grandes como Microsoft, ya que pueden derivar en multas, cambios en modelos de negocios o daño reputacional. Este caso toca el tema antimonopolio, que es central en la regulación de las grandes tecnológicas. Para quienes aprenden finanzas, es importante considerar el 'riesgo legal' como parte del análisis de una empresa.",
-      "tags": [
-        "riesgo legal",
-        "antimonopolio",
-        "tecnología"
-      ],
-      "source_name": "The Register",
-      "source_url": "https://www.theregister.com/legal/2026/09/17/judge-orders-microsoft-to-spill-internal-docs-and-scour-execs-comms-in-secondhand-licensing-case/5296820",
-      "published_at": "2026-09-17T08:30:55Z",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "morgan-stanley-dallas-expansion-2026",
-      "type": "empresa",
-      "title": "Morgan Stanley avanza con sus planes de expansión en Dallas: invertirá u$s1.200 millones en una nueva torre",
-      "summary": "Morgan Stanley está renovando 50.000 pies cuadrados en Dallas como sede transitoria mientras planea ocupar una nueva torre de u$s1.200 millones en Uptown para 2031, donde creará 1.500 empleos y tendrá 700.000 pies cuadrados de oficinas.",
-      "detail": "La decisión de un banco de inversión global de expandir su presencia en una ciudad específica refleja expectativas de crecimiento a largo plazo y confianza en esa economía regional. También muestra cómo las grandes corporaciones piensan en horizontes de inversión de varios años. Para quien aprende finanzas, es un ejemplo de cómo las empresas asignan capital con visión estratégica más allá del corto plazo.",
-      "tags": [
-        "expansión",
-        "inversión",
-        "banca"
-      ],
-      "source_name": "Yahoo",
-      "source_url": "https://www.yahoo.com/news/videos/morgan-stanleys-billion-dollar-plans-090549105.html",
-      "published_at": "2026-09-17T09:05:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/video/2026/09/17/ai-cycle-will-not-be-slowed-by-rate-hikes-says-morgan-stanleys-lisa-shalett.html",
+      "published_at": "2026-09-17T19:57:05Z",
       "tickers": [
         "MS"
       ]
     },
     {
-      "id": "truist-midamerica-apartment-rates-2026",
-      "type": "mercado",
-      "title": "Truist recorta el precio objetivo de Mid-America Apartment por las tasas de interés más altas",
-      "summary": "Truist Securities bajó su precio objetivo para Mid-America Apartment (MAA) de u$s146 a u$s132, aunque mantuvo su recomendación de compra. El motivo fue la revisión a la baja de estimaciones de ingresos para 2026 y 2027 debido a tasas de interés más elevadas.",
-      "detail": "Este artículo ilustra uno de los mecanismos más importantes en finanzas: las tasas de interés altas afectan negativamente a los REITs (fondos de inversión inmobiliaria) porque encarecen su financiamiento y hacen menos atractivos sus dividendos frente a bonos del Tesoro. Es un ejemplo directo de cómo la política monetaria impacta en sectores específicos del mercado de acciones.",
-      "tags": [
-        "tasas de interés",
-        "real estate",
-        "REIT"
-      ],
-      "source_name": "Investing.com Canada",
-      "source_url": "https://ca.investing.com/news/stock-market-news/truist-cuts-midamerica-apartment-stock-price-target-on-rates-93CH-4842975",
-      "published_at": "2026-09-17T10:04:59Z",
-      "tickers": [
-        "MAA"
-      ]
-    },
-    {
-      "id": "philip-morris-value-report-2025",
+      "id": "softbank-openai-loan-apollo",
       "type": "empresa",
-      "title": "Philip Morris reporta que el 41,5% de sus ingresos ya viene de productos sin humo",
-      "summary": "Philip Morris International publicó su reporte de valor 2025, donde destacó que alrededor de 43,5 millones de adultos usan sus productos libres de humo, los cuales representaron el 41,5% de sus ingresos netos anuales totales. La compañía también presentó su nuevo plan estratégico 'Value Plan 2030+'.",
-      "detail": "La transformación de Philip Morris es un caso de estudio sobre cómo una empresa puede reinventarse ante cambios regulatorios, sociales y de mercado. La transición de cigarrillos hacia productos alternativos afecta tanto su perfil de riesgo como sus perspectivas de crecimiento. Para quienes aprenden finanzas, es un ejemplo de cómo evaluar la evolución del modelo de negocios de una compañía al analizar su potencial de largo plazo.",
+      "title": "SoftBank quiere más plata para apostar fuerte por OpenAI",
+      "summary": "SoftBank está negociando con Apollo Global Management para ampliar un préstamo a su Vision Fund II, de u$s 5.400 millones a posiblemente u$s 9.000 millones, con el objetivo de financiar su apuesta de u$s 64.600 millones en OpenAI, en la que ya invirtió u$s 30.000 millones este año y tiene un 13% de participación.",
+      "detail": "Este caso muestra cómo los grandes fondos usan deuda (apalancamiento) para multiplicar su capacidad de inversión en activos de alto riesgo como startups de IA. Cuando una empresa toma más deuda para invertir, potencia las ganancias potenciales pero también los riesgos, algo que preocupó a la calificadora S&P. Es un ejemplo concreto de cómo funciona el capital privado y la financiación de empresas tecnológicas no cotizantes.",
       "tags": [
-        "transformación empresarial",
-        "tabaco",
-        "estrategia"
+        "capital privado",
+        "inteligencia artificial",
+        "deuda"
       ],
-      "source_name": "Times Kuwait",
-      "source_url": "https://timeskuwait.com/philip-morris-international-presents-its-value-report-2025-change-in-motion/",
-      "published_at": "2026-09-17T09:47:51Z",
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/private-markets/26/09/61854473/softbank-wants-more-firepower-for-its-64-6-billion-openai-bet",
+      "published_at": "2026-09-17T18:48:25Z",
       "tickers": [
-        "PM"
+        "APO"
       ]
     },
     {
-      "id": "citigroup-downgrades-boston-scientific-2026",
+      "id": "blackstone-real-estate-secondary-sale",
       "type": "mercado",
-      "title": "Citigroup baja su recomendación para Boston Scientific y recorta el precio objetivo de u$s57 a u$s50",
-      "summary": "Citigroup degradó a Boston Scientific (BSX) de 'Buy' a 'Neutral' y redujo su precio objetivo de u$s57 a u$s50. La empresa se especializa en equipos médicos para las áreas cardiovascular, cirugía y neuromodulación.",
-      "detail": "Un downgrade de un banco grande como Citi puede tener impacto inmediato en el precio de una acción, ya que muchos inversores institucionales siguen estas recomendaciones. La diferencia entre 'Buy' y 'Neutral' es relevante: 'Neutral' significa que el analista no espera que la acción supere al mercado. Es un buen ejemplo para entender cómo las calificaciones de analistas funcionan como señales de mercado.",
+      "title": "Blackstone explora vender parte de su fondo inmobiliario de u$s 11.000 millones",
+      "summary": "Blackstone está evaluando una venta en el mercado secundario de su fondo inmobiliario BPP U.S. de u$s 11.000 millones, para que los inversores existentes puedan salir. La movida responde a problemas de rendimiento y a las subas de tasas desde 2022.",
+      "detail": "El mercado secundario de fondos permite a los inversores vender su participación antes de que el fondo cierre, algo útil cuando el activo no rinde como esperaban o necesitan liquidez. Las subas de tasas encarecen el crédito y reducen el valor de los activos inmobiliarios, lo que explica por qué muchos inversores quieren salir. Entender esto ayuda a ver cómo las tasas de interés afectan no solo a las acciones sino también a los activos reales.",
       "tags": [
-        "downgrade",
-        "salud",
-        "análisis bursátil"
+        "real estate",
+        "tasas de interés",
+        "fondos de inversión"
       ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/citigroup-downgrades-boston-scientific-to-neutral-from-buy-adjusts-price-target-to-50-from-57-ce785bd3db81f524",
-      "published_at": "2026-09-17T09:31:05Z",
+      "source_name": "Bisnow",
+      "source_url": "https://www.bisnow.com/news/national/capital-markets/blackstone-property-partners-secondary-market",
+      "published_at": "2026-09-17T18:54:33Z",
       "tickers": [
-        "BSX",
-        "C"
+        "BX",
+        "IVZ"
       ]
     },
     {
-      "id": "amazon-efund-position-2026",
+      "id": "pepsico-yearly-low-demand",
       "type": "mercado",
-      "title": "Una gestora de fondos china tomó una posición de u$s66 millones en acciones de Amazon",
-      "summary": "E Fund Management Co. Ltd., una gestora china, compró 277.655 acciones de Amazon por aproximadamente u$s66,2 millones, convirtiendo a la empresa en el 1,5% de su portafolio. Los analistas mantienen un consenso de 'Moderate Buy' con un precio objetivo promedio de u$s323,26.",
-      "detail": "El movimiento de grandes fondos institucionales en acciones de empresas globales como Amazon es relevante porque estas decisiones mueven volúmenes importantes y pueden influir en los precios. Además, que un fondo chino invierta en Amazon refleja la naturaleza global de los mercados de capitales: el dinero fluye hacia donde hay expectativas de rentabilidad, independientemente de tensiones geopolíticas. Es un ejemplo de cómo rastrear los flujos institucionales puede dar pistas sobre el sentimiento del mercado.",
+      "title": "PepsiCo tocó su mínimo del año por caída en la demanda y costos más altos",
+      "summary": "Las acciones de PepsiCo alcanzaron un nuevo mínimo anual por la combinación de menor demanda en Norteamérica, mayores costos de insumos y preocupaciones sobre márgenes. La compañía además está reduciendo operaciones en una planta embotelladora de la Costa Este.",
+      "detail": "El caso de PepsiCo ilustra cómo una empresa puede tener finanzas saludables y seguir pagando dividendos, pero aun así ver caer su acción si el mercado anticipa problemas de rentabilidad futura. El aumento de costos de insumos (como azúcar o aluminio) comprime los márgenes, y si la demanda también baja, la presión sobre las ganancias se duplica. Este mecanismo es fundamental para entender por qué el precio de una acción no siempre refleja el estado actual de la empresa sino las expectativas.",
       "tags": [
-        "institucionales",
-        "Amazon",
-        "flujos de capital"
+        "consumo masivo",
+        "márgenes",
+        "acciones"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-e-fund-management-co-ltd-takes-position-in-amazoncom-inc-amzn-2026-09-17/",
-      "published_at": "2026-09-17T08:06:42Z",
+      "source_name": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com/us/stocks/consumer/why-did-pepsico-nasdaqpep-just-hit-a-new-yearly-low",
+      "published_at": "2026-09-17T19:26:25Z",
       "tickers": [
-        "AMZN"
+        "PEP"
+      ]
+    },
+    {
+      "id": "exxon-joliet-refinery-flood",
+      "type": "economia",
+      "title": "Inundación afectó una refinería clave de ExxonMobil en Illinois",
+      "summary": "Una inundación superó las bombas de la refinería de ExxonMobil en Joliet, Illinois, que procesa 275.000 barriles por día y es un proveedor clave de combustible para el Medio Oeste de EE.UU. El incidente suma presión a un mercado global de combustibles ya ajustado, con conflictos internacionales y precios del diésel en alza.",
+      "detail": "Las refinerías grandes son eslabones críticos en la cadena de suministro de combustibles: cuando una para, puede afectar los precios del combustible en toda una región. Este evento muestra cómo los factores climáticos y operativos pueden impactar en los mercados de commodities energéticos, algo relevante para Argentina que importa y exporta energía. Además, ilustra el concepto de mercado ajustado (tight market), donde cualquier interrupción genera movimientos de precios más pronunciados.",
+      "tags": [
+        "energía",
+        "commodities",
+        "petróleo"
+      ],
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/exxon-mobil-says-floodwater-overwhelmed-pump-at-joliet-illinois-refinery-2026-09-17/",
+      "published_at": "2026-09-17T19:20:01Z",
+      "tickers": [
+        "XOM"
+      ]
+    },
+    {
+      "id": "lockheed-gm-patriot-parts",
+      "type": "empresa",
+      "title": "Lockheed Martin recibió los primeros componentes de misiles Patriot fabricados por General Motors",
+      "summary": "Lockheed Martin recibió el primer lote de piezas para interceptores Patriot producidas por General Motors, menos de un mes después de firmar el acuerdo de manufactura. El Pentágono busca acelerar la producción de sistemas de defensa ante la alta demanda global, especialmente por parte de Ucrania.",
+      "detail": "Este caso muestra cómo la demanda geopolítica puede activar acuerdos de producción inusuales: una automotriz fabricando partes de misiles. Para los inversores, el sector de defensa suele tener contratos gubernamentales estables que dan visibilidad de ingresos a largo plazo. También ilustra cómo los conflictos bélicos impactan en la cadena de suministro industrial y en las valuaciones de empresas del sector.",
+      "tags": [
+        "defensa",
+        "manufactura",
+        "geopolítica"
+      ],
+      "source_name": "WTVB",
+      "source_url": "https://wtvbam.com/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
+      "published_at": "2026-09-17T18:25:28Z",
+      "tickers": [
+        "LMT",
+        "GM",
+        "GD"
+      ]
+    },
+    {
+      "id": "texas-instruments-dividend-boost",
+      "type": "empresa",
+      "title": "Texas Instruments aumentó su dividendo y manda una señal de confianza al mercado",
+      "summary": "Texas Instruments (TXN) anunció un aumento en su dividendo para accionistas, lo que refleja la confianza de la empresa en su capacidad de generar caja y en su salud financiera de largo plazo.",
+      "detail": "Cuando una empresa sube su dividendo, generalmente está señalando que espera que sus ganancias y flujo de caja se mantengan o crezcan. Para inversores que buscan ingresos pasivos, los dividendos crecientes son una señal positiva. TXN opera en el sector de semiconductores, que es cíclico, por lo que mantener y aumentar dividendos en ese contexto tiene un peso especial como indicador de solidez.",
+      "tags": [
+        "dividendos",
+        "semiconductores",
+        "flujo de caja"
+      ],
+      "source_name": "TipRanks",
+      "source_url": "https://www.tipranks.com/news/company-announcements/texas-instruments-boosts-dividend-signals-confidence-ahead",
+      "published_at": "2026-09-17T20:34:32Z",
+      "tickers": [
+        "TXN"
+      ]
+    },
+    {
+      "id": "rbc-kraft-heinz-upside-2027",
+      "type": "mercado",
+      "title": "RBC ve un potencial de suba del 29% en Kraft Heinz de cara a 2027",
+      "summary": "RBC Capital inició cobertura de Kraft Heinz (KHC) con recomendación de Outperform y un precio objetivo de u$s 32, lo que implica un 29% de suba. El banco proyecta una recuperación significativa para 2027, impulsada por cambios estratégicos y mayores inversiones.",
+      "detail": "Cuando un banco de inversión inicia cobertura con una recomendación positiva y un precio objetivo, está haciendo una apuesta pública sobre el valor futuro de la empresa. Esto suele mover el precio de la acción porque los inversores le dan peso a ese análisis. Aprender a interpretar los reportes de analistas —qué implica un 'Outperform', cómo se calcula un precio objetivo— es una habilidad clave en finanzas.",
+      "tags": [
+        "análisis de acciones",
+        "consumo masivo",
+        "valuación"
+      ],
+      "source_name": "Yahoo Finance Singapore",
+      "source_url": "https://sg.finance.yahoo.com/news/rbc-sees-29-upside-kraft-190839263.html",
+      "published_at": "2026-09-17T19:09:28Z",
+      "tickers": [
+        "KHC"
+      ]
+    },
+    {
+      "id": "caesars-ftc-merger-review",
+      "type": "empresa",
+      "title": "La FTC pide más información sobre la fusión de Caesars y Fertitta por u$s 17.600 millones",
+      "summary": "Caesars Entertainment reveló que la Comisión Federal de Comercio (FTC) solicitó más información sobre su fusión con Fertitta Entertainment, valorada en u$s 17.600 millones. Además, dos directores del board renunciaron, incluyendo representantes del inversor activista Carl Icahn.",
+      "detail": "Cuando la FTC emite una 'segunda solicitud' de información, es señal de que la fusión está bajo escrutinio regulatorio profundo, lo que puede demorar o incluso bloquear la operación. Este proceso ilustra cómo los reguladores tienen poder para condicionar las grandes fusiones y adquisiciones. Para los accionistas, la incertidumbre regulatoria suele presionar el precio de la acción de la empresa adquirida.",
+      "tags": [
+        "fusiones y adquisiciones",
+        "regulación",
+        "casino"
+      ],
+      "source_name": "CDC Gaming",
+      "source_url": "https://cdcgaming.com/caesars-confirms-ftc-seeks-more-merger-details-two-board-members-step-down/",
+      "published_at": "2026-09-17T18:55:17Z",
+      "tickers": [
+        "CZR"
+      ]
+    },
+    {
+      "id": "procter-gamble-consumer-spending-cools",
+      "type": "mercado",
+      "title": "Procter & Gamble aparece como refugio si el gasto del consumidor se enfría",
+      "summary": "Con la confianza del consumidor cayendo, Procter & Gamble (PG) se presenta como una opción defensiva por sus 70 años consecutivos de aumentos de dividendos y su portfolio de productos de consumo básico esenciales. Su acción está por debajo del máximo de 52 semanas, lo que hace más atractivo su rendimiento por dividendo.",
+      "detail": "Las acciones defensivas como las de consumo básico tienden a caer menos en períodos de incertidumbre económica porque la gente sigue comprando jabón, shampoo o pañales sin importar el contexto. Entender la diferencia entre acciones cíclicas y defensivas es fundamental para construir carteras resilientes. El concepto de 'dividend yield' —dividendo anual dividido por el precio de la acción— es una métrica clave que conviene incorporar desde temprano.",
+      "tags": [
+        "acciones defensivas",
+        "dividendos",
+        "consumo básico"
+      ],
+      "source_name": "Currently.com",
+      "source_url": "https://currently.att.yahoo.com/att/why-investors-may-want-buy-190114459.html",
+      "published_at": "2026-09-17T19:01:14Z",
+      "tickers": [
+        "PG"
       ]
     }
   ],
@@ -192,39 +194,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.560",
-      "valor_num": 1560.0,
-      "delta_pct": 0.0
+      "valor": "$1.555",
+      "valor_num": 1555.0,
+      "delta_pct": -0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.542",
-      "valor_num": 1542.1,
-      "delta_pct": 0.58
+      "valor": "$1.535",
+      "valor_num": 1534.7,
+      "delta_pct": 0.1
     },
     {
       "label": "CCL",
-      "valor": "$1.600",
-      "valor_num": 1600.2,
-      "delta_pct": 0.35
+      "valor": "$1.593",
+      "valor_num": 1593.4,
+      "delta_pct": -0.08
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 76.323",
-      "valor_num": 76323.0,
-      "delta_pct": 0.17
+      "valor": "US$ 76.376",
+      "valor_num": 76376.0,
+      "delta_pct": 0.57
     },
     {
       "label": "S&P 500",
-      "valor": "7.552",
-      "valor_num": 7551.81,
-      "delta_pct": -1.11
+      "valor": "7.638",
+      "valor_num": 7637.76,
+      "delta_pct": 0.61
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.375",
-      "valor_num": 4375.3,
-      "delta_pct": 0.54
+      "valor": "US$ 4.381",
+      "valor_num": 4380.6,
+      "delta_pct": 0.66
     }
   ]
 }
