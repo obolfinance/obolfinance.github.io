@@ -1,174 +1,185 @@
 {
-  "generated_at": "2026-09-16T22:01:20.140200+00:00",
+  "generated_at": "2026-09-17T12:01:20.659954+00:00",
   "items": [
     {
-      "id": "fed-prime-rate-hike-sept2026",
-      "type": "economia",
-      "title": "La Fed subió tasas y los bancos siguieron: la tasa prime volvió a 7%",
-      "summary": "Tras la decisión de la Reserva Federal de subir su tasa de referencia, grandes bancos como JPMorgan, KeyCorp y BNY aumentaron su tasa prime de 6,75% a 7%, efectiva desde el 17 de septiembre de 2026. Esto encarece el crédito para consumidores y empresas en Estados Unidos.",
-      "detail": "La tasa prime es la tasa base que los bancos usan para fijar el costo de préstamos a particulares y empresas. Cuando la Fed sube su tasa de referencia, los bancos trasladan ese costo al mercado casi de inmediato. Este mecanismo muestra cómo las decisiones de un banco central afectan directamente al crédito de toda una economía, algo clave para entender por qué las reuniones de la Fed mueven mercados globales, incluyendo el de bonos y acciones argentinos.",
+      "id": "eaton-datacenter-growth-2026",
+      "type": "empresa",
+      "title": "Eaton sube sus proyecciones de crecimiento gracias al boom de los data centers",
+      "summary": "Eaton (ETN) elevó su perspectiva de crecimiento orgánico para 2026 al 12%, impulsada por la demanda explosiva de infraestructura para data centers y centros de IA. El CEO destacó adquisiciones estratégicas y una posible superación de su objetivo de ingresos eléctricos de u$s31.000 millones para 2030.",
+      "detail": "Este caso muestra cómo una tendencia tecnológica —el crecimiento de la IA y los data centers— impacta directamente en empresas industriales que fabrican equipos eléctricos. Cuando una compañía sube su guidance (proyección de resultados), suele ser una señal positiva para el mercado y puede impulsar el precio de su acción. Es un ejemplo claro de cómo sectores aparentemente distintos (tecnología e industria) están cada vez más interconectados.",
       "tags": [
-        "tasas de interés",
-        "Fed",
-        "crédito"
-      ],
-      "source_name": "1470 & 100.3 WMBD",
-      "source_url": "https://wmbdradio.com/2026/09/16/keycorp-raises-prime-rate-after-fed-decision/",
-      "published_at": "2026-09-16T19:49:29Z",
-      "tickers": [
-        "KEY",
-        "JPM",
-        "BK",
-        "WFC",
-        "BAC"
-      ]
-    },
-    {
-      "id": "bank-of-america-fees-drop",
-      "type": "mercado",
-      "title": "Bank of America cayó 1,4% tras proyectar una baja de hasta 20% en sus comisiones de banca de inversión",
-      "summary": "El CEO de Bank of America proyectó que las comisiones de banca de inversión del tercer trimestre estarían entre 1.600 y 1.800 millones de dólares, una caída de entre 10% y 20% respecto al año anterior. Las acciones del banco bajaron 1,4% ante la noticia.",
-      "detail": "La banca de inversión genera ingresos ayudando a empresas a emitir acciones, bonos o hacer fusiones. Cuando esas actividades se desaceleran —por tasas altas o incertidumbre económica—, los ingresos por comisiones caen. Aunque este segmento representa solo el 7% de los ingresos totales de Bank of America, el mercado reaccionó negativamente, lo que ilustra cómo una sola guía prospectiva puede mover el precio de una acción.",
-      "tags": [
-        "banca",
-        "comisiones",
-        "acciones"
+        "industria",
+        "tecnología",
+        "data centers"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-falls-1-4-202439682.html",
-      "published_at": "2026-09-16T20:25:02Z",
+      "source_url": "https://finance.yahoo.com/technology/articles/eaton-sees-best-years-ahead-090210065.html",
+      "published_at": "2026-09-17T09:02:47Z",
       "tickers": [
-        "BAC"
+        "ETN"
       ]
     },
     {
-      "id": "huntington-outlook-rates",
-      "type": "economia",
-      "title": "Un banco mediano de EE.UU. recortó sus proyecciones por tasas altas y menor rentabilidad en préstamos",
-      "summary": "Huntington Bancshares revisó a la baja sus expectativas de rentabilidad para 2026 y 2027, afectado por tasas de interés más altas que encarecen sus depósitos y por la competencia que reduce el rendimiento de sus préstamos. El CEO reconoció turbulencia en el corto plazo, aunque mantuvo una visión positiva a largo plazo.",
-      "detail": "Este caso ilustra el dilema que enfrentan los bancos cuando las tasas suben: por un lado, cobran más por los préstamos, pero también pagan más por los depósitos y enfrentan mayor competencia. Si la diferencia entre lo que cobran y lo que pagan se achica, el negocio bancario se complica. Es un ejemplo real de cómo el entorno de tasas altas impacta directamente en la rentabilidad del sistema financiero.",
-      "tags": [
-        "bancos",
-        "tasas de interés",
-        "rentabilidad"
-      ],
-      "source_name": "American Banker",
-      "source_url": "https://www.americanbanker.com/news/huntington-tempers-outlook-due-to-higher-rates-lower-yields",
-      "published_at": "2026-09-16T20:16:07Z",
-      "tickers": [
-        "HBAN"
-      ]
-    },
-    {
-      "id": "generac-amazon-deal",
+      "id": "applied-materials-india-5b-2026",
       "type": "empresa",
-      "title": "Generac se disparó 18% tras firmar un acuerdo de 8.000 millones de dólares con Amazon para generadores en data centers",
-      "summary": "Generac Holdings anunció un acuerdo de largo plazo con Amazon por 8.000 millones de dólares para proveer generadores de respaldo a sus centros de datos, con entregas iniciales de 2.400 millones en 2027 y 2028. Las acciones de Generac subieron 18% en el mercado extrabursátil tras el anuncio.",
-      "detail": "Los data centers que sostienen la inteligencia artificial y la nube consumen cantidades enormes de electricidad y necesitan respaldo energético permanente. Este acuerdo muestra cómo el boom de la IA genera oportunidades concretas para empresas industriales que no son tecnológicas. Para quien aprende finanzas, es un ejemplo claro de cómo un solo anuncio contractual puede mover drásticamente el precio de una acción.",
+      "title": "Applied Materials invertirá u$s5.000 millones en India para desarrollar la industria de semiconductores",
+      "summary": "Applied Materials anunció una inversión de u$s5.000 millones en India durante la próxima década, enfocada en investigación, cadena de suministro y desarrollo de talento, en el marco del evento SEMICON India. El país proyecta que su consumo de semiconductores llegará a u$s110.000 millones para 2030.",
+      "detail": "Los semiconductores son el corazón de toda la tecnología moderna, y la disputa geopolítica por su producción es uno de los temas centrales de la economía global. Esta inversión refleja el intento de India de posicionarse como alternativa a China en la cadena de suministro tecnológica. Para quienes aprenden finanzas, es un ejemplo de cómo las decisiones geopolíticas y los incentivos gubernamentales pueden atraer capital privado masivo hacia un país.",
       "tags": [
-        "IA",
-        "energía",
-        "acciones"
+        "semiconductores",
+        "inversión",
+        "geopolítica"
       ],
-      "source_name": "Investing.com Canada",
-      "source_url": "https://ca.investing.com/news/stock-market-news/generac-stock-surges-18-on-8b-amazon-supply-deal-4842460",
-      "published_at": "2026-09-16T20:37:58Z",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/technology/articles/applied-materials-invest-5-billion-081539478.html",
+      "published_at": "2026-09-17T08:15:55Z",
       "tickers": [
-        "GNRC",
-        "AMZN"
+        "AMAT"
       ]
     },
     {
-      "id": "blackstone-alphabet-ai-loan",
-      "type": "empresa",
-      "title": "Un consorcio de bancos prestó 22.000 millones de dólares para un venture de IA entre Blackstone y Alphabet",
-      "summary": "Diez bancos, incluyendo Goldman Sachs y Barclays, otorgaron un préstamo de 22.000 millones de dólares para financiar Crux AI, una empresa conjunta de nube entre Blackstone y Alphabet. El dinero se usará para comprar unidades de procesamiento tensorial (TPUs) fabricadas por Google, con los chips y contratos de clientes como garantía.",
-      "detail": "Este es uno de los préstamos de deuda más grandes para operaciones de inteligencia artificial, y muestra cómo el financiamiento bancario tradicional está siendo el motor detrás del crecimiento de la infraestructura de IA. El hecho de que se usen los chips como garantía es un concepto financiero importante: los activos físicos o contractuales respaldando deuda. También ilustra la creciente escala de inversiones que requiere la IA a nivel global.",
+      "id": "wells-fargo-applied-digital-overweight-2026",
+      "type": "mercado",
+      "title": "Wells Fargo inicia cobertura de Applied Digital con objetivo de u$s50, más del doble del precio actual",
+      "summary": "Wells Fargo comenzó a cubrir Applied Digital (APLD) con una calificación 'overweight' y un precio objetivo de u$s50, cuando la acción cotiza en u$s24,39. El banco destacó el respaldo de contratos con grandes clientes como Meta y Oracle.",
+      "detail": "Cuando un banco de inversión inicia cobertura con una calificación positiva, envía una señal al mercado sobre el potencial de una acción. Un precio objetivo que implica más del 100% de upside es inusualmente optimista y refleja expectativas de crecimiento muy fuertes. Esto también ilustra el concepto de 'valor de activos netos descontado': el banco cree que el mercado está subvalorando los activos contratados de la empresa.",
       "tags": [
-        "IA",
-        "deuda",
+        "análisis bursátil",
+        "data centers",
+        "upside"
+      ],
+      "source_name": "Investing.com UK",
+      "source_url": "https://uk.investing.com/news/stock-market-news/wells-fargo-initiates-applied-digital-stock-with-overweight-rating-93CH-4872766",
+      "published_at": "2026-09-17T10:10:55Z",
+      "tickers": [
+        "APLD"
+      ]
+    },
+    {
+      "id": "palo-alto-bernstein-downgrade-2026",
+      "type": "mercado",
+      "title": "Bernstein baja la recomendación de Palo Alto Networks pero sube fuerte su precio objetivo",
+      "summary": "Bernstein rebajó a Palo Alto Networks (PANW) de 'Outperform' a 'Market Perform', pero al mismo tiempo elevó su precio objetivo de u$s253 a u$s351. La empresa de ciberseguridad genera el 67% de sus ingresos en América.",
+      "detail": "Este movimiento parece contradictorio: bajar la recomendación y subir el precio objetivo al mismo tiempo. Esto suele ocurrir cuando el analista considera que la acción ya subió tanto que alcanzó su potencial de corto plazo, pero reconoce que la compañía vale más de lo que estimaba antes. Es un buen ejemplo para entender que 'precio objetivo' y 'recomendación' son dos variables distintas en el análisis bursátil.",
+      "tags": [
+        "ciberseguridad",
+        "análisis bursátil",
+        "rating"
+      ],
+      "source_name": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com/news/bernstein-downgrades-palo-alto-networks-to-market-perform-from-outperform-adjusts-pt-to-351-from--ce785bd3db8ef026",
+      "published_at": "2026-09-17T09:23:26Z",
+      "tickers": [
+        "PANW"
+      ]
+    },
+    {
+      "id": "microsoft-legal-licensing-2026",
+      "type": "empresa",
+      "title": "Un juez obliga a Microsoft a revelar documentos internos en un caso sobre licencias de software de segunda mano",
+      "summary": "Un tribunal ordenó a Microsoft divulgar comunicaciones internas de sus ejecutivos en un litigio con el revendedor ValueLicensing, relacionado con licencias de software usadas. El caso se acerca a un juicio por responsabilidad, y una presentación interna de 2013 es clave en la causa.",
+      "detail": "Los conflictos legales pueden representar un riesgo significativo para empresas grandes como Microsoft, ya que pueden derivar en multas, cambios en modelos de negocios o daño reputacional. Este caso toca el tema antimonopolio, que es central en la regulación de las grandes tecnológicas. Para quienes aprenden finanzas, es importante considerar el 'riesgo legal' como parte del análisis de una empresa.",
+      "tags": [
+        "riesgo legal",
+        "antimonopolio",
         "tecnología"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/banks-provide-22-billion-loan-for-blackstone-and-alphabet-ai-venture--bloomberg-93CH-4904384",
-      "published_at": "2026-09-16T19:49:53Z",
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/legal/2026/09/17/judge-orders-microsoft-to-spill-internal-docs-and-scour-execs-comms-in-secondhand-licensing-case/5296820",
+      "published_at": "2026-09-17T08:30:55Z",
       "tickers": [
-        "BX",
-        "GOOGL",
-        "GS"
+        "MSFT"
       ]
     },
     {
-      "id": "boeing-737-max-production",
+      "id": "morgan-stanley-dallas-expansion-2026",
       "type": "empresa",
-      "title": "Boeing admitió que le está costando más de lo esperado estabilizar la producción del 737 MAX y sus acciones cayeron",
-      "summary": "El CEO de Boeing, Kelly Ortberg, reconoció que alcanzar el ritmo de producción de 47 aviones por mes del 737 MAX está tomando más tiempo del previsto, lo que generó una caída en el precio de las acciones. La empresa apunta a subir luego a 52 unidades mensuales y espera la certificación del 737-10 \"muy pronto\", aunque ya lleva varios años de retraso.",
-      "detail": "Boeing es uno de los dos grandes fabricantes de aviones comerciales del mundo y sus problemas de producción afectan a aerolíneas y cadenas de suministro globales. Para quien aprende finanzas, este caso muestra cómo las demoras operativas y la incertidumbre sobre la ejecución de planes se traducen directamente en caídas bursátiles, ya que los inversores descuentan riesgos futuros en el precio actual de la acción.",
+      "title": "Morgan Stanley avanza con sus planes de expansión en Dallas: invertirá u$s1.200 millones en una nueva torre",
+      "summary": "Morgan Stanley está renovando 50.000 pies cuadrados en Dallas como sede transitoria mientras planea ocupar una nueva torre de u$s1.200 millones en Uptown para 2031, donde creará 1.500 empleos y tendrá 700.000 pies cuadrados de oficinas.",
+      "detail": "La decisión de un banco de inversión global de expandir su presencia en una ciudad específica refleja expectativas de crecimiento a largo plazo y confianza en esa economía regional. También muestra cómo las grandes corporaciones piensan en horizontes de inversión de varios años. Para quien aprende finanzas, es un ejemplo de cómo las empresas asignan capital con visión estratégica más allá del corto plazo.",
       "tags": [
-        "manufactura",
-        "acciones",
-        "producción"
+        "expansión",
+        "inversión",
+        "banca"
       ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/boeing-ceo-says-it-is-taking-longer-stabilize-737-max-output-shares-slide-2026-09-16/",
-      "published_at": "2026-09-16T19:18:07Z",
+      "source_name": "Yahoo",
+      "source_url": "https://www.yahoo.com/news/videos/morgan-stanleys-billion-dollar-plans-090549105.html",
+      "published_at": "2026-09-17T09:05:00Z",
       "tickers": [
-        "BA"
+        "MS"
       ]
     },
     {
-      "id": "sgf-diamondback-stake-sale",
+      "id": "truist-midamerica-apartment-rates-2026",
       "type": "mercado",
-      "title": "Una family office vendió acciones de Diamondback Energy por 1.900 millones de dólares",
-      "summary": "SGF Capital, la family office del fundador de Endeavor Energy Resources, vendió 9,1 millones de acciones de Diamondback Energy por aproximadamente 1.900 millones de dólares, a un precio de 205,80 dólares por acción, un descuento del 2,7% respecto al cierre anterior. Las acciones habían sido adquiridas en la fusión de 2024 entre Endeavor y Diamondback.",
-      "detail": "Las ventas de grandes bloques de acciones a descuento son comunes cuando un inversor institucional necesita liquidez sin mover demasiado el mercado. El descuento del 2,7% es el costo de vender rápido una posición enorme. Este tipo de operaciones, conocidas como block trades, son relevantes para entender cómo los grandes inversores administran sus portafolios y cómo esas ventas pueden presionar el precio de una acción en el corto plazo.",
+      "title": "Truist recorta el precio objetivo de Mid-America Apartment por las tasas de interés más altas",
+      "summary": "Truist Securities bajó su precio objetivo para Mid-America Apartment (MAA) de u$s146 a u$s132, aunque mantuvo su recomendación de compra. El motivo fue la revisión a la baja de estimaciones de ingresos para 2026 y 2027 debido a tasas de interés más elevadas.",
+      "detail": "Este artículo ilustra uno de los mecanismos más importantes en finanzas: las tasas de interés altas afectan negativamente a los REITs (fondos de inversión inmobiliaria) porque encarecen su financiamiento y hacen menos atractivos sus dividendos frente a bonos del Tesoro. Es un ejemplo directo de cómo la política monetaria impacta en sectores específicos del mercado de acciones.",
       "tags": [
-        "energía",
-        "block trade",
-        "acciones"
+        "tasas de interés",
+        "real estate",
+        "REIT"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/sgf-capital-sells-19-billion-stake-in-diamondback-energy-93CH-4904368",
-      "published_at": "2026-09-16T19:50:47Z",
+      "source_name": "Investing.com Canada",
+      "source_url": "https://ca.investing.com/news/stock-market-news/truist-cuts-midamerica-apartment-stock-price-target-on-rates-93CH-4842975",
+      "published_at": "2026-09-17T10:04:59Z",
       "tickers": [
-        "FANG"
+        "MAA"
       ]
     },
     {
-      "id": "lululemon-caida-guidance",
+      "id": "philip-morris-value-report-2025",
+      "type": "empresa",
+      "title": "Philip Morris reporta que el 41,5% de sus ingresos ya viene de productos sin humo",
+      "summary": "Philip Morris International publicó su reporte de valor 2025, donde destacó que alrededor de 43,5 millones de adultos usan sus productos libres de humo, los cuales representaron el 41,5% de sus ingresos netos anuales totales. La compañía también presentó su nuevo plan estratégico 'Value Plan 2030+'.",
+      "detail": "La transformación de Philip Morris es un caso de estudio sobre cómo una empresa puede reinventarse ante cambios regulatorios, sociales y de mercado. La transición de cigarrillos hacia productos alternativos afecta tanto su perfil de riesgo como sus perspectivas de crecimiento. Para quienes aprenden finanzas, es un ejemplo de cómo evaluar la evolución del modelo de negocios de una compañía al analizar su potencial de largo plazo.",
+      "tags": [
+        "transformación empresarial",
+        "tabaco",
+        "estrategia"
+      ],
+      "source_name": "Times Kuwait",
+      "source_url": "https://timeskuwait.com/philip-morris-international-presents-its-value-report-2025-change-in-motion/",
+      "published_at": "2026-09-17T09:47:51Z",
+      "tickers": [
+        "PM"
+      ]
+    },
+    {
+      "id": "citigroup-downgrades-boston-scientific-2026",
       "type": "mercado",
-      "title": "Lululemon bajó 18% en un mes tras recortar por segunda vez su guía de ganancias para el año",
-      "summary": "Las acciones de Lululemon acumularon una caída del 18% en el último mes luego de que la compañía redujera significativamente su proyección de ganancias por acción para todo el año. El sector de ropa deportiva en general mostró debilidad, con Nike y On Holding también en baja.",
-      "detail": "Cuando una empresa recorta su guía de ganancias —es decir, avisa que va a ganar menos de lo que había prometido—, el mercado castiga fuerte la acción porque los inversores ajustan a la baja el valor que le asignan. El hecho de que también caigan competidores como Nike sugiere que hay factores macro o de consumo afectando al sector entero, no solo problemas internos de Lululemon. Este es un ejemplo clásico de cómo las expectativas mueven más los precios que los resultados pasados.",
+      "title": "Citigroup baja su recomendación para Boston Scientific y recorta el precio objetivo de u$s57 a u$s50",
+      "summary": "Citigroup degradó a Boston Scientific (BSX) de 'Buy' a 'Neutral' y redujo su precio objetivo de u$s57 a u$s50. La empresa se especializa en equipos médicos para las áreas cardiovascular, cirugía y neuromodulación.",
+      "detail": "Un downgrade de un banco grande como Citi puede tener impacto inmediato en el precio de una acción, ya que muchos inversores institucionales siguen estas recomendaciones. La diferencia entre 'Buy' y 'Neutral' es relevante: 'Neutral' significa que el analista no espera que la acción supere al mercado. Es un buen ejemplo para entender cómo las calificaciones de analistas funcionan como señales de mercado.",
       "tags": [
-        "consumo",
-        "acciones",
-        "guía de ganancias"
+        "downgrade",
+        "salud",
+        "análisis bursátil"
       ],
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/16/lululemon-just-dropped-18-in-a-month-is-it-time-to-sell/",
-      "published_at": "2026-09-16T19:02:51Z",
+      "source_name": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com/news/citigroup-downgrades-boston-scientific-to-neutral-from-buy-adjusts-price-target-to-50-from-57-ce785bd3db81f524",
+      "published_at": "2026-09-17T09:31:05Z",
       "tickers": [
-        "LULU",
-        "NKE"
+        "BSX",
+        "C"
       ]
     },
     {
-      "id": "moodys-upgrade-performance-food",
-      "type": "economia",
-      "title": "Moody's mejoró la calificación de deuda de Performance Food Group tras una reducción significativa de su endeudamiento",
-      "summary": "Moody's Ratings subió la calificación de las notas senior no garantizadas de Performance Food Group de B1 a Ba3, reflejando una reducción importante de su deuda y mejores tasas de recuperación esperadas para esos bonos. La calificación corporativa familiar Ba2 fue confirmada, respaldada por un buen desempeño operativo.",
-      "detail": "Las calificadoras como Moody's evalúan la capacidad de una empresa de repagar su deuda y asignan notas que afectan el costo al que esa empresa puede endeudarse. Una mejora en la calificación generalmente reduce el rendimiento exigido por los inversores en los bonos de esa empresa, lo que abarata su financiamiento. Este mecanismo es fundamental para entender el mercado de bonos corporativos.",
+      "id": "amazon-efund-position-2026",
+      "type": "mercado",
+      "title": "Una gestora de fondos china tomó una posición de u$s66 millones en acciones de Amazon",
+      "summary": "E Fund Management Co. Ltd., una gestora china, compró 277.655 acciones de Amazon por aproximadamente u$s66,2 millones, convirtiendo a la empresa en el 1,5% de su portafolio. Los analistas mantienen un consenso de 'Moderate Buy' con un precio objetivo promedio de u$s323,26.",
+      "detail": "El movimiento de grandes fondos institucionales en acciones de empresas globales como Amazon es relevante porque estas decisiones mueven volúmenes importantes y pueden influir en los precios. Además, que un fondo chino invierta en Amazon refleja la naturaleza global de los mercados de capitales: el dinero fluye hacia donde hay expectativas de rentabilidad, independientemente de tensiones geopolíticas. Es un ejemplo de cómo rastrear los flujos institucionales puede dar pistas sobre el sentimiento del mercado.",
       "tags": [
-        "calificación crediticia",
-        "bonos",
-        "deuda"
+        "institucionales",
+        "Amazon",
+        "flujos de capital"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/moodys-upgrades-performance-food-notes-on-debt-paydown-93CH-4904389",
-      "published_at": "2026-09-16T20:43:33Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-e-fund-management-co-ltd-takes-position-in-amazoncom-inc-amzn-2026-09-17/",
+      "published_at": "2026-09-17T08:06:42Z",
       "tickers": [
-        "MCO"
+        "AMZN"
       ]
     }
   ],
@@ -183,25 +194,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.560",
       "valor_num": 1560.0,
-      "delta_pct": 0.32
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.542",
       "valor_num": 1542.1,
-      "delta_pct": 0.35
+      "delta_pct": 0.58
     },
     {
       "label": "CCL",
       "valor": "$1.600",
       "valor_num": 1600.2,
-      "delta_pct": 0.17
+      "delta_pct": 0.35
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 75.946",
-      "valor_num": 75946.0,
-      "delta_pct": 0.75
+      "valor": "US$ 76.323",
+      "valor_num": 76323.0,
+      "delta_pct": 0.17
     },
     {
       "label": "S&P 500",
@@ -211,9 +222,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.302",
-      "valor_num": 4302.5,
-      "delta_pct": -2.41
+      "valor": "US$ 4.375",
+      "valor_num": 4375.3,
+      "delta_pct": 0.54
     }
   ]
 }
