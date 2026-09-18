@@ -1,187 +1,190 @@
 {
-  "generated_at": "2026-09-17T22:01:19.318854+00:00",
+  "generated_at": "2026-09-18T12:01:36.939177+00:00",
   "items": [
     {
-      "id": "fomc-ai-rate-hikes-morgan-stanley",
-      "type": "discurso",
-      "title": "Morgan Stanley: las subas de tasas no van a frenar el ciclo de la IA",
-      "summary": "Lisa Shalett, directora de inversiones de Morgan Stanley Wealth Management, dijo que el ciclo de inteligencia artificial no se va a ver afectado por las recientes subas de tasas de la Reserva Federal, tras la última decisión del FOMC.",
-      "detail": "Cuando la Fed sube tasas, el costo del dinero aumenta y eso suele perjudicar a empresas de tecnología que dependen de financiamiento barato. Sin embargo, Shalett argumenta que el impulso de la IA es tan fuerte que puede resistir ese contexto. Esta distinción es clave para aprender a analizar cómo las decisiones de política monetaria impactan de forma distinta en cada sector del mercado.",
-      "tags": [
-        "tasas de interés",
-        "inteligencia artificial",
-        "política monetaria"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/video/2026/09/17/ai-cycle-will-not-be-slowed-by-rate-hikes-says-morgan-stanleys-lisa-shalett.html",
-      "published_at": "2026-09-17T19:57:05Z",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "id": "softbank-openai-loan-apollo",
+      "id": "pnc-financial-outlook-2026",
       "type": "empresa",
-      "title": "SoftBank quiere más plata para apostar fuerte por OpenAI",
-      "summary": "SoftBank está negociando con Apollo Global Management para ampliar un préstamo a su Vision Fund II, de u$s 5.400 millones a posiblemente u$s 9.000 millones, con el objetivo de financiar su apuesta de u$s 64.600 millones en OpenAI, en la que ya invirtió u$s 30.000 millones este año y tiene un 13% de participación.",
-      "detail": "Este caso muestra cómo los grandes fondos usan deuda (apalancamiento) para multiplicar su capacidad de inversión en activos de alto riesgo como startups de IA. Cuando una empresa toma más deuda para invertir, potencia las ganancias potenciales pero también los riesgos, algo que preocupó a la calificadora S&P. Es un ejemplo concreto de cómo funciona el capital privado y la financiación de empresas tecnológicas no cotizantes.",
+      "title": "PNC Financial reafirma su perspectiva con crecimiento en préstamos e inversión en IA",
+      "summary": "PNC Financial Services reafirmó su proyección para el tercer trimestre y el año completo, apoyada en el gasto del consumidor, la demanda de crédito comercial y mejores indicadores de calidad crediticia. Además, la entidad está invirtiendo fuertemente en inteligencia artificial, tecnología y expansión de sucursales.",
+      "detail": "Cuando un banco grande como PNC reafirma su outlook, le manda una señal al mercado de que su negocio está en línea con lo esperado, lo que suele estabilizar o impulsar su acción. El crecimiento en préstamos comerciales y tarjetas refleja que empresas y consumidores siguen gastando, un dato clave para leer la salud de la economía. La apuesta por IA en banca muestra cómo el sector financiero busca reducir costos y mejorar márgenes a futuro.",
       "tags": [
-        "capital privado",
+        "bancos",
         "inteligencia artificial",
-        "deuda"
+        "crédito"
       ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/markets/private-markets/26/09/61854473/softbank-wants-more-firepower-for-its-64-6-billion-openai-bet",
-      "published_at": "2026-09-17T18:48:25Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/event-pnc-financial-reaffirms-outlook-as-loans-fees-and-ai-investments-gain-momentum-2026-09-18/",
+      "published_at": "2026-09-18T11:07:06Z",
       "tickers": [
-        "APO"
+        "PNC"
       ]
     },
     {
-      "id": "blackstone-real-estate-secondary-sale",
-      "type": "mercado",
-      "title": "Blackstone explora vender parte de su fondo inmobiliario de u$s 11.000 millones",
-      "summary": "Blackstone está evaluando una venta en el mercado secundario de su fondo inmobiliario BPP U.S. de u$s 11.000 millones, para que los inversores existentes puedan salir. La movida responde a problemas de rendimiento y a las subas de tasas desde 2022.",
-      "detail": "El mercado secundario de fondos permite a los inversores vender su participación antes de que el fondo cierre, algo útil cuando el activo no rinde como esperaban o necesitan liquidez. Las subas de tasas encarecen el crédito y reducen el valor de los activos inmobiliarios, lo que explica por qué muchos inversores quieren salir. Entender esto ayuda a ver cómo las tasas de interés afectan no solo a las acciones sino también a los activos reales.",
-      "tags": [
-        "real estate",
-        "tasas de interés",
-        "fondos de inversión"
-      ],
-      "source_name": "Bisnow",
-      "source_url": "https://www.bisnow.com/news/national/capital-markets/blackstone-property-partners-secondary-market",
-      "published_at": "2026-09-17T18:54:33Z",
-      "tickers": [
-        "BX",
-        "IVZ"
-      ]
-    },
-    {
-      "id": "pepsico-yearly-low-demand",
-      "type": "mercado",
-      "title": "PepsiCo tocó su mínimo del año por caída en la demanda y costos más altos",
-      "summary": "Las acciones de PepsiCo alcanzaron un nuevo mínimo anual por la combinación de menor demanda en Norteamérica, mayores costos de insumos y preocupaciones sobre márgenes. La compañía además está reduciendo operaciones en una planta embotelladora de la Costa Este.",
-      "detail": "El caso de PepsiCo ilustra cómo una empresa puede tener finanzas saludables y seguir pagando dividendos, pero aun así ver caer su acción si el mercado anticipa problemas de rentabilidad futura. El aumento de costos de insumos (como azúcar o aluminio) comprime los márgenes, y si la demanda también baja, la presión sobre las ganancias se duplica. Este mecanismo es fundamental para entender por qué el precio de una acción no siempre refleja el estado actual de la empresa sino las expectativas.",
-      "tags": [
-        "consumo masivo",
-        "márgenes",
-        "acciones"
-      ],
-      "source_name": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com/us/stocks/consumer/why-did-pepsico-nasdaqpep-just-hit-a-new-yearly-low",
-      "published_at": "2026-09-17T19:26:25Z",
-      "tickers": [
-        "PEP"
-      ]
-    },
-    {
-      "id": "exxon-joliet-refinery-flood",
+      "id": "aerolíneas-costos-combustible-2026",
       "type": "economia",
-      "title": "Inundación afectó una refinería clave de ExxonMobil en Illinois",
-      "summary": "Una inundación superó las bombas de la refinería de ExxonMobil en Joliet, Illinois, que procesa 275.000 barriles por día y es un proveedor clave de combustible para el Medio Oeste de EE.UU. El incidente suma presión a un mercado global de combustibles ya ajustado, con conflictos internacionales y precios del diésel en alza.",
-      "detail": "Las refinerías grandes son eslabones críticos en la cadena de suministro de combustibles: cuando una para, puede afectar los precios del combustible en toda una región. Este evento muestra cómo los factores climáticos y operativos pueden impactar en los mercados de commodities energéticos, algo relevante para Argentina que importa y exporta energía. Además, ilustra el concepto de mercado ajustado (tight market), donde cualquier interrupción genera movimientos de precios más pronunciados.",
+      "title": "Aerolíneas advierten subas de tarifas y menos vuelos por el alza del combustible",
+      "summary": "Ejecutivos de American Airlines y Southwest Airlines anticiparon aumentos en los precios de los pasajes y recortes en la capacidad operativa como respuesta al fuerte encarecimiento del combustible. Ambas compañías también están apostando por ampliar sus ofertas premium para proteger sus márgenes de ganancia.",
+      "detail": "El combustible es el principal costo variable de las aerolíneas, por lo que cuando sube, el impacto en los márgenes es inmediato. La estrategia de reducir vuelos y subir tarifas busca equilibrar oferta y demanda para trasladar parte del costo al pasajero. Apostar por servicios premium es una forma de mejorar el ingreso por asiento sin necesariamente volar más. Este tipo de decisiones empresariales muestra cómo el precio de una materia prima (el petróleo) impacta en la economía real y en el bolsillo de las personas.",
       "tags": [
-        "energía",
-        "commodities",
-        "petróleo"
+        "aerolíneas",
+        "combustible",
+        "inflación"
       ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/exxon-mobil-says-floodwater-overwhelmed-pump-at-joliet-illinois-refinery-2026-09-17/",
-      "published_at": "2026-09-17T19:20:01Z",
+      "source_name": "The Business Journals",
+      "source_url": "https://www.bizjournals.com/dallas/news/2026/09/18/airlines-fares-capacity-fuel-american-southwest.html",
+      "published_at": "2026-09-18T11:00:49Z",
       "tickers": [
-        "XOM"
+        "LUV",
+        "DAL"
       ]
     },
     {
-      "id": "lockheed-gm-patriot-parts",
+      "id": "microsoft-xbox-cloud-gaming-caps-2026",
       "type": "empresa",
-      "title": "Lockheed Martin recibió los primeros componentes de misiles Patriot fabricados por General Motors",
-      "summary": "Lockheed Martin recibió el primer lote de piezas para interceptores Patriot producidas por General Motors, menos de un mes después de firmar el acuerdo de manufactura. El Pentágono busca acelerar la producción de sistemas de defensa ante la alta demanda global, especialmente por parte de Ucrania.",
-      "detail": "Este caso muestra cómo la demanda geopolítica puede activar acuerdos de producción inusuales: una automotriz fabricando partes de misiles. Para los inversores, el sector de defensa suele tener contratos gubernamentales estables que dan visibilidad de ingresos a largo plazo. También ilustra cómo los conflictos bélicos impactan en la cadena de suministro industrial y en las valuaciones de empresas del sector.",
+      "title": "Microsoft limitará las horas de juego en la nube para sus suscriptores de Game Pass desde noviembre",
+      "summary": "Microsoft implementará límites mensuales de uso para Xbox Cloud Gaming a partir de noviembre, poniendo fin al acceso ilimitado. Los distintos planes de Game Pass tendrán entre 5 y 15 horas de streaming por mes, con la opción de comprar horas adicionales.",
+      "detail": "Esta decisión refleja la tensión entre crecer en usuarios y controlar los costos de infraestructura, que en el caso del gaming en la nube son muy elevados. Para los inversores, es una señal de que Microsoft está buscando mejorar la rentabilidad de su división de gaming, aunque arriesga perder suscriptores frente a competidores como Nvidia. Es un ejemplo clásico de cómo una empresa ajusta su modelo de negocio para equilibrar crecimiento y márgenes, algo central en el análisis financiero de empresas tecnológicas.",
       "tags": [
-        "defensa",
-        "manufactura",
-        "geopolítica"
+        "tecnología",
+        "Microsoft",
+        "gaming"
       ],
-      "source_name": "WTVB",
-      "source_url": "https://wtvbam.com/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
-      "published_at": "2026-09-17T18:25:28Z",
+      "source_name": "Foreign Policy Journal",
+      "source_url": "https://www.foreignpolicyjournal.com/2026/09/18/microsoft-nasdaq-msft-caps-xbox-cloud-gaming-hours-for-game-pass-subscribers-starting-november/",
+      "published_at": "2026-09-18T10:47:54Z",
       "tickers": [
-        "LMT",
-        "GM",
-        "GD"
+        "MSFT",
+        "NVDA"
       ]
     },
     {
-      "id": "texas-instruments-dividend-boost",
+      "id": "boeing-faa-exencion-777f-2026",
       "type": "empresa",
-      "title": "Texas Instruments aumentó su dividendo y manda una señal de confianza al mercado",
-      "summary": "Texas Instruments (TXN) anunció un aumento en su dividendo para accionistas, lo que refleja la confianza de la empresa en su capacidad de generar caja y en su salud financiera de largo plazo.",
-      "detail": "Cuando una empresa sube su dividendo, generalmente está señalando que espera que sus ganancias y flujo de caja se mantengan o crezcan. Para inversores que buscan ingresos pasivos, los dividendos crecientes son una señal positiva. TXN opera en el sector de semiconductores, que es cíclico, por lo que mantener y aumentar dividendos en ese contexto tiene un peso especial como indicador de solidez.",
+      "title": "La FAA le otorgó a Boeing una exención para vender 35 aviones de carga 777F pese a futuras restricciones de eficiencia",
+      "summary": "La Administración Federal de Aviación de EE.UU. autorizó a Boeing a comercializar 35 unidades adicionales del carguero 777F, eximiéndolo de normas de eficiencia de combustible que entrarán en vigor en el futuro. La exención es válida hasta el 1° de enero de 2031 y apunta a garantizar el suministro de cargueros grandes mientras se retrasa el nuevo modelo 777-8F.",
+      "detail": "Boeing está atravesando un período complejo, por lo que noticias como esta son relevantes para sus inversores: le permiten sostener ingresos por ventas de un modelo existente mientras desarrolla el sucesor. La FAA justificó la medida en la necesidad de asegurar disponibilidad de aviones de carga y proteger empleos en EE.UU. Entender cómo las regulaciones gubernamentales pueden afectar las ventas y los ingresos de una empresa es clave en el análisis de acciones del sector industrial.",
       "tags": [
-        "dividendos",
-        "semiconductores",
-        "flujo de caja"
+        "Boeing",
+        "regulación",
+        "aviación"
       ],
-      "source_name": "TipRanks",
-      "source_url": "https://www.tipranks.com/news/company-announcements/texas-instruments-boosts-dividend-signals-confidence-ahead",
-      "published_at": "2026-09-17T20:34:32Z",
+      "source_name": "AeroTime",
+      "source_url": "https://www.aerotime.aero/articles/faa-boeing-exemption-fuel-efficiency-limits-777f",
+      "published_at": "2026-09-18T09:21:09Z",
       "tickers": [
-        "TXN"
+        "BA"
       ]
     },
     {
-      "id": "rbc-kraft-heinz-upside-2027",
+      "id": "retail-reits-fed-tasas-2026",
       "type": "mercado",
-      "title": "RBC ve un potencial de suba del 29% en Kraft Heinz de cara a 2027",
-      "summary": "RBC Capital inició cobertura de Kraft Heinz (KHC) con recomendación de Outperform y un precio objetivo de u$s 32, lo que implica un 29% de suba. El banco proyecta una recuperación significativa para 2027, impulsada por cambios estratégicos y mayores inversiones.",
-      "detail": "Cuando un banco de inversión inicia cobertura con una recomendación positiva y un precio objetivo, está haciendo una apuesta pública sobre el valor futuro de la empresa. Esto suele mover el precio de la acción porque los inversores le dan peso a ese análisis. Aprender a interpretar los reportes de analistas —qué implica un 'Outperform', cómo se calcula un precio objetivo— es una habilidad clave en finanzas.",
+      "title": "Los REITs de retail resisten la suba de tasas de la Fed con demanda sólida de inquilinos",
+      "summary": "A pesar de la suba de tasas de la Reserva Federal, analistas destacan que REITs de retail como Regency Centers, Phillips Edison, Tanger y Curbline Properties tienen perspectivas de crecimiento, impulsados por alta demanda de inquilinos y escasa construcción nueva.",
+      "detail": "Los REITs (fondos de inversión en bienes raíces) suelen verse presionados cuando suben las tasas de interés, porque se encarece su financiamiento y resultan menos atractivos frente a bonos. Sin embargo, si la demanda de sus propiedades es fuerte y la oferta limitada, pueden sostener buenos resultados. Este es un ejemplo de cómo analizar el impacto de la política monetaria en distintas clases de activos, algo esencial para diversificar una cartera de inversiones.",
       "tags": [
-        "análisis de acciones",
-        "consumo masivo",
+        "REITs",
+        "tasas de interés",
+        "real estate"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/real-estate/articles/zacks-analyst-blog-highlights-regency-083700896.html",
+      "published_at": "2026-09-18T08:37:21Z",
+      "tickers": [
+        "REG"
+      ]
+    },
+    {
+      "id": "general-motors-moderate-buy-2026",
+      "type": "empresa",
+      "title": "General Motors recibe recomendación de compra moderada pese a señales mixtas del mercado",
+      "summary": "Veintitrés casas de análisis le otorgan a General Motors una recomendación promedio de \"Compra Moderada\" con un precio objetivo de US$101,82, por encima de su cotización actual de US$86,49. Sin embargo, la compañía enfrenta ventas de acciones por parte de directivos, un recall significativo y cuestionamientos por su limitada línea de híbridos.",
+      "detail": "Cuando el precio objetivo de los analistas supera el precio de mercado, sugiere que el consenso considera que la acción está subvaluada, lo que puede atraer inversores. Pero las señales mixtas —como las ventas de insiders— son una señal de alerta que los inversores suelen seguir de cerca, ya que quienes están adentro de la empresa conocen mejor su situación real. Además, el debate sobre híbridos muestra cómo la transición energética está impactando las perspectivas de las automotrices tradicionales.",
+      "tags": [
+        "automotriz",
+        "analistas",
         "valuación"
       ],
-      "source_name": "Yahoo Finance Singapore",
-      "source_url": "https://sg.finance.yahoo.com/news/rbc-sees-29-upside-kraft-190839263.html",
-      "published_at": "2026-09-17T19:09:28Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/consensus-general-motors-company-nyse-gm-given-average-recommendation-of-moderate-buy-by-brokerages-2026-09-18/",
+      "published_at": "2026-09-18T08:32:16Z",
       "tickers": [
-        "KHC"
+        "GM"
       ]
     },
     {
-      "id": "caesars-ftc-merger-review",
-      "type": "empresa",
-      "title": "La FTC pide más información sobre la fusión de Caesars y Fertitta por u$s 17.600 millones",
-      "summary": "Caesars Entertainment reveló que la Comisión Federal de Comercio (FTC) solicitó más información sobre su fusión con Fertitta Entertainment, valorada en u$s 17.600 millones. Además, dos directores del board renunciaron, incluyendo representantes del inversor activista Carl Icahn.",
-      "detail": "Cuando la FTC emite una 'segunda solicitud' de información, es señal de que la fusión está bajo escrutinio regulatorio profundo, lo que puede demorar o incluso bloquear la operación. Este proceso ilustra cómo los reguladores tienen poder para condicionar las grandes fusiones y adquisiciones. Para los accionistas, la incertidumbre regulatoria suele presionar el precio de la acción de la empresa adquirida.",
-      "tags": [
-        "fusiones y adquisiciones",
-        "regulación",
-        "casino"
-      ],
-      "source_name": "CDC Gaming",
-      "source_url": "https://cdcgaming.com/caesars-confirms-ftc-seeks-more-merger-details-two-board-members-step-down/",
-      "published_at": "2026-09-17T18:55:17Z",
-      "tickers": [
-        "CZR"
-      ]
-    },
-    {
-      "id": "procter-gamble-consumer-spending-cools",
+      "id": "nykredit-wells-fargo-netflix-metlife-2026",
       "type": "mercado",
-      "title": "Procter & Gamble aparece como refugio si el gasto del consumidor se enfría",
-      "summary": "Con la confianza del consumidor cayendo, Procter & Gamble (PG) se presenta como una opción defensiva por sus 70 años consecutivos de aumentos de dividendos y su portfolio de productos de consumo básico esenciales. Su acción está por debajo del máximo de 52 semanas, lo que hace más atractivo su rendimiento por dividendo.",
-      "detail": "Las acciones defensivas como las de consumo básico tienden a caer menos en períodos de incertidumbre económica porque la gente sigue comprando jabón, shampoo o pañales sin importar el contexto. Entender la diferencia entre acciones cíclicas y defensivas es fundamental para construir carteras resilientes. El concepto de 'dividend yield' —dividendo anual dividido por el precio de la acción— es una métrica clave que conviene incorporar desde temprano.",
+      "title": "El fondo danés Nykredit invirtió cientos de millones de dólares en acciones de grandes empresas estadounidenses",
+      "summary": "Nykredit A/S, una institución financiera danesa, realizó nuevas inversiones millonarias en compañías como Wells Fargo (US$191 millones), MetLife (US$178 millones), Netflix (US$105 millones) y CVS Health (US$209 millones) durante el segundo trimestre.",
+      "detail": "Los movimientos de grandes inversores institucionales son señales que el mercado sigue de cerca, porque implican análisis profundos y pueden indicar confianza en determinados sectores o economías. El hecho de que un fondo europeo apueste fuerte por acciones bancarias, de salud y entretenimiento de EE.UU. refleja que los mercados americanos siguen siendo atractivos para el capital global. Para alguien que aprende finanzas, entender cómo fluye el dinero institucional ayuda a interpretar las tendencias del mercado.",
       "tags": [
-        "acciones defensivas",
-        "dividendos",
-        "consumo básico"
+        "inversión institucional",
+        "Wall Street",
+        "fondos"
       ],
-      "source_name": "Currently.com",
-      "source_url": "https://currently.att.yahoo.com/att/why-investors-may-want-buy-190114459.html",
-      "published_at": "2026-09-17T19:01:14Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-makes-new-19109-million-investment-in-wells-fargo-company-wfc-2026-09-18/",
+      "published_at": "2026-09-18T08:12:47Z",
+      "tickers": [
+        "WFC",
+        "MET",
+        "NFLX",
+        "CVS"
+      ]
+    },
+    {
+      "id": "procter-gamble-despidos-impuesto-acciones-2026",
+      "type": "economia",
+      "title": "P&G recortó 5.000 empleos y sus trabajadores enfrentan una decisión clave sobre sus acciones y los impuestos",
+      "summary": "Procter & Gamble redujo su plantilla en unas 5.000 personas como parte de una reestructuración. El artículo advierte que los empleados que se van con acciones de la empresa en su 401(k) pueden perder un beneficio impositivo importante si transfieren todo a una cuenta IRA sin considerar la regla de la \"apreciación neta no realizada\".",
+      "detail": "Este caso ilustra que las decisiones financieras personales tienen consecuencias impositivas enormes que muchas veces se ignoran. La diferencia entre transferir acciones a una IRA versus retirarlas en especie puede costar decenas de miles de dólares en impuestos. Aunque el sistema tributario es el de EE.UU., el principio es universal: antes de mover activos financieros, siempre hay que entender el impacto impositivo. Es un ejemplo práctico de finanzas personales aplicadas a situaciones de vida real.",
+      "tags": [
+        "finanzas personales",
+        "impuestos",
+        "reestructuración"
+      ],
+      "source_name": "24/7 Wall St.",
+      "source_url": "https://247wallst.com/personal-finance/social-security/2026/09/18/pg-has-cut-5000-jobs-so-far-at-60-a-worker-leaving-with-company-stock-can-lose-a-capital-gains-tax-break-by-rolling-everything-into-an-ira/",
+      "published_at": "2026-09-18T10:03:00Z",
       "tickers": [
         "PG"
+      ]
+    },
+    {
+      "id": "nuclear-avanzado-ia-demanda-2026",
+      "type": "economia",
+      "title": "La demanda de IA dispara la carrera por desarrollar reactores nucleares avanzados",
+      "summary": "Según S&P Global, la creciente demanda energética impulsada por la inteligencia artificial está acelerando la competencia para desarrollar y comercializar reactores nucleares de nueva generación. El informe también destaca el aumento del comercio mundial de bienes y los desafíos que enfrentan los gestores de activos europeos.",
+      "detail": "La IA requiere enormes cantidades de energía para sus centros de datos, lo que está generando una demanda sin precedentes de fuentes de electricidad confiables y de baja emisión de carbono. Esto convierte al sector nuclear en una apuesta de inversión relevante a mediano plazo, algo que los mercados ya están incorporando en las valuaciones de empresas del sector energético. Para quien aprende finanzas, es un ejemplo de cómo una tendencia tecnológica puede redefinir la demanda en sectores aparentemente no relacionados.",
+      "tags": [
+        "energía nuclear",
+        "inteligencia artificial",
+        "infraestructura"
+      ],
+      "source_name": "S&P Global",
+      "source_url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-sep-18-2026",
+      "published_at": "2026-09-18T11:02:33Z",
+      "tickers": [
+        "CEG",
+        "ENPH"
+      ]
+    },
+    {
+      "id": "sysco-notas-senior-jetro-2026",
+      "type": "empresa",
+      "title": "Sysco emite deuda por cientos de millones para financiar la compra de Jetro Restaurant Depot",
+      "summary": "Sysco Corporation lanzó una oferta de bonos senior con vencimientos de entre 2029 y 2066 para financiar la adquisición de Jetro Restaurant Depot. La mayoría de los títulos tienen una cláusula de rescate obligatorio si la operación no se concreta, al 101% del valor nominal.",
+      "detail": "Emitir deuda para financiar una adquisición es una práctica habitual en finanzas corporativas, pero implica que la empresa asume nuevos compromisos de pago que impactan en su balance. La cláusula de rescate obligatorio protege a los inversores: si la compra no ocurre, recuperan su dinero con una pequeña prima. Esto muestra cómo las empresas estructuran operaciones complejas usando el mercado de capitales, y por qué entender los bonos corporativos es clave para analizar una compañía.",
+      "tags": [
+        "bonos corporativos",
+        "fusiones",
+        "deuda"
+      ],
+      "source_name": "StreetInsider",
+      "source_url": "https://www.streetinsider.com/SEC+Filings/Form+424B5+SYSCO+CORP/27077869.html",
+      "published_at": "2026-09-18T10:14:02Z",
+      "tickers": [
+        "SYY"
       ]
     }
   ],
@@ -190,7 +193,7 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.535",
       "valor_num": 1535.0,
-      "delta_pct": 0.33
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
@@ -202,19 +205,19 @@
       "label": "MEP",
       "valor": "$1.535",
       "valor_num": 1534.7,
-      "delta_pct": 0.1
+      "delta_pct": -0.48
     },
     {
       "label": "CCL",
       "valor": "$1.593",
       "valor_num": 1593.4,
-      "delta_pct": -0.08
+      "delta_pct": -0.42
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 76.376",
-      "valor_num": 76376.0,
-      "delta_pct": 0.57
+      "valor": "US$ 77.991",
+      "valor_num": 77991.0,
+      "delta_pct": 2.09
     },
     {
       "label": "S&P 500",
@@ -224,9 +227,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.381",
-      "valor_num": 4380.6,
-      "delta_pct": 0.66
+      "valor": "US$ 4.414",
+      "valor_num": 4413.6,
+      "delta_pct": 1.42
     }
   ]
 }
