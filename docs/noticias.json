@@ -1,190 +1,190 @@
 {
-  "generated_at": "2026-09-18T12:01:36.939177+00:00",
+  "generated_at": "2026-09-18T22:01:32.698520+00:00",
   "items": [
     {
-      "id": "pnc-financial-outlook-2026",
-      "type": "empresa",
-      "title": "PNC Financial reafirma su perspectiva con crecimiento en préstamos e inversión en IA",
-      "summary": "PNC Financial Services reafirmó su proyección para el tercer trimestre y el año completo, apoyada en el gasto del consumidor, la demanda de crédito comercial y mejores indicadores de calidad crediticia. Además, la entidad está invirtiendo fuertemente en inteligencia artificial, tecnología y expansión de sucursales.",
-      "detail": "Cuando un banco grande como PNC reafirma su outlook, le manda una señal al mercado de que su negocio está en línea con lo esperado, lo que suele estabilizar o impulsar su acción. El crecimiento en préstamos comerciales y tarjetas refleja que empresas y consumidores siguen gastando, un dato clave para leer la salud de la economía. La apuesta por IA en banca muestra cómo el sector financiero busca reducir costos y mejorar márgenes a futuro.",
-      "tags": [
-        "bancos",
-        "inteligencia artificial",
-        "crédito"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/event-pnc-financial-reaffirms-outlook-as-loans-fees-and-ai-investments-gain-momentum-2026-09-18/",
-      "published_at": "2026-09-18T11:07:06Z",
-      "tickers": [
-        "PNC"
-      ]
-    },
-    {
-      "id": "aerolíneas-costos-combustible-2026",
-      "type": "economia",
-      "title": "Aerolíneas advierten subas de tarifas y menos vuelos por el alza del combustible",
-      "summary": "Ejecutivos de American Airlines y Southwest Airlines anticiparon aumentos en los precios de los pasajes y recortes en la capacidad operativa como respuesta al fuerte encarecimiento del combustible. Ambas compañías también están apostando por ampliar sus ofertas premium para proteger sus márgenes de ganancia.",
-      "detail": "El combustible es el principal costo variable de las aerolíneas, por lo que cuando sube, el impacto en los márgenes es inmediato. La estrategia de reducir vuelos y subir tarifas busca equilibrar oferta y demanda para trasladar parte del costo al pasajero. Apostar por servicios premium es una forma de mejorar el ingreso por asiento sin necesariamente volar más. Este tipo de decisiones empresariales muestra cómo el precio de una materia prima (el petróleo) impacta en la economía real y en el bolsillo de las personas.",
-      "tags": [
-        "aerolíneas",
-        "combustible",
-        "inflación"
-      ],
-      "source_name": "The Business Journals",
-      "source_url": "https://www.bizjournals.com/dallas/news/2026/09/18/airlines-fares-capacity-fuel-american-southwest.html",
-      "published_at": "2026-09-18T11:00:49Z",
-      "tickers": [
-        "LUV",
-        "DAL"
-      ]
-    },
-    {
-      "id": "microsoft-xbox-cloud-gaming-caps-2026",
-      "type": "empresa",
-      "title": "Microsoft limitará las horas de juego en la nube para sus suscriptores de Game Pass desde noviembre",
-      "summary": "Microsoft implementará límites mensuales de uso para Xbox Cloud Gaming a partir de noviembre, poniendo fin al acceso ilimitado. Los distintos planes de Game Pass tendrán entre 5 y 15 horas de streaming por mes, con la opción de comprar horas adicionales.",
-      "detail": "Esta decisión refleja la tensión entre crecer en usuarios y controlar los costos de infraestructura, que en el caso del gaming en la nube son muy elevados. Para los inversores, es una señal de que Microsoft está buscando mejorar la rentabilidad de su división de gaming, aunque arriesga perder suscriptores frente a competidores como Nvidia. Es un ejemplo clásico de cómo una empresa ajusta su modelo de negocio para equilibrar crecimiento y márgenes, algo central en el análisis financiero de empresas tecnológicas.",
-      "tags": [
-        "tecnología",
-        "Microsoft",
-        "gaming"
-      ],
-      "source_name": "Foreign Policy Journal",
-      "source_url": "https://www.foreignpolicyjournal.com/2026/09/18/microsoft-nasdaq-msft-caps-xbox-cloud-gaming-hours-for-game-pass-subscribers-starting-november/",
-      "published_at": "2026-09-18T10:47:54Z",
-      "tickers": [
-        "MSFT",
-        "NVDA"
-      ]
-    },
-    {
-      "id": "boeing-faa-exencion-777f-2026",
-      "type": "empresa",
-      "title": "La FAA le otorgó a Boeing una exención para vender 35 aviones de carga 777F pese a futuras restricciones de eficiencia",
-      "summary": "La Administración Federal de Aviación de EE.UU. autorizó a Boeing a comercializar 35 unidades adicionales del carguero 777F, eximiéndolo de normas de eficiencia de combustible que entrarán en vigor en el futuro. La exención es válida hasta el 1° de enero de 2031 y apunta a garantizar el suministro de cargueros grandes mientras se retrasa el nuevo modelo 777-8F.",
-      "detail": "Boeing está atravesando un período complejo, por lo que noticias como esta son relevantes para sus inversores: le permiten sostener ingresos por ventas de un modelo existente mientras desarrolla el sucesor. La FAA justificó la medida en la necesidad de asegurar disponibilidad de aviones de carga y proteger empleos en EE.UU. Entender cómo las regulaciones gubernamentales pueden afectar las ventas y los ingresos de una empresa es clave en el análisis de acciones del sector industrial.",
-      "tags": [
-        "Boeing",
-        "regulación",
-        "aviación"
-      ],
-      "source_name": "AeroTime",
-      "source_url": "https://www.aerotime.aero/articles/faa-boeing-exemption-fuel-efficiency-limits-777f",
-      "published_at": "2026-09-18T09:21:09Z",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "retail-reits-fed-tasas-2026",
+      "id": "netflix-wells-fargo-downgrade",
       "type": "mercado",
-      "title": "Los REITs de retail resisten la suba de tasas de la Fed con demanda sólida de inquilinos",
-      "summary": "A pesar de la suba de tasas de la Reserva Federal, analistas destacan que REITs de retail como Regency Centers, Phillips Edison, Tanger y Curbline Properties tienen perspectivas de crecimiento, impulsados por alta demanda de inquilinos y escasa construcción nueva.",
-      "detail": "Los REITs (fondos de inversión en bienes raíces) suelen verse presionados cuando suben las tasas de interés, porque se encarece su financiamiento y resultan menos atractivos frente a bonos. Sin embargo, si la demanda de sus propiedades es fuerte y la oferta limitada, pueden sostener buenos resultados. Este es un ejemplo de cómo analizar el impacto de la política monetaria en distintas clases de activos, algo esencial para diversificar una cartera de inversiones.",
+      "title": "Netflix cayó casi 5% tras una baja de calificación de Wells Fargo",
+      "summary": "Wells Fargo bajó su recomendación sobre las acciones de Netflix y redujo su precio objetivo, argumentando que las tendencias de engagement de los usuarios están cayendo y que falta contenido original fuerte. Las acciones de la plataforma cayeron casi un 5%.",
+      "detail": "Cuando un banco importante como Wells Fargo baja su calificación de una acción, muchos inversores institucionales reaccionan vendiendo, lo que presiona el precio a la baja. Este caso muestra cómo las métricas de uso (engagement) son tan importantes para valorar una empresa de contenido como los ingresos: si los usuarios ven menos contenido, el modelo de suscripción se debilita. Es un ejemplo clásico de cómo el análisis de analistas mueve mercados.",
       "tags": [
-        "REITs",
-        "tasas de interés",
-        "real estate"
+        "acciones",
+        "análisis",
+        "entretenimiento"
+      ],
+      "source_name": "The Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/business/digital/netflix-stock-falls-wells-fargo-downgrade-engagement-trends-1236705628/",
+      "published_at": "2026-09-18T20:25:49Z",
+      "tickers": [
+        "NFLX",
+        "WFC"
+      ]
+    },
+    {
+      "id": "cybersecurity-stocks-ai-gains",
+      "type": "mercado",
+      "title": "Acciones de ciberseguridad subieron fuerte tras alertas sobre riesgos de la IA",
+      "summary": "CrowdStrike, Palo Alto Networks y Okta tuvieron ganancias semanales importantes luego de que los CEOs de Anthropic y OpenAI advirtieran sobre los riesgos del avance acelerado de la inteligencia artificial. Los inversores interpretaron esas alertas como señal de mayor demanda de protección de infraestructura.",
+      "detail": "Cuando líderes del sector IA advierten sobre riesgos, el mercado suele reaccionar aumentando la inversión en empresas que protegen esa infraestructura, es decir, las de ciberseguridad. Esto ilustra cómo las declaraciones de figuras clave pueden mover sectores enteros, y cómo el crecimiento de una tecnología arrastra a industrias relacionadas. Es un buen ejemplo de flujo de capital sectorial impulsado por narrativas del mercado.",
+      "tags": [
+        "ciberseguridad",
+        "inteligencia artificial",
+        "tecnología"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/real-estate/articles/zacks-analyst-blog-highlights-regency-083700896.html",
-      "published_at": "2026-09-18T08:37:21Z",
+      "source_url": "https://finance.yahoo.com/markets/article/crowdstrike-palo-alto-networks-and-cybersecurity-stocks-post-strong-weekly-gains-after-ai-freak-out-moment-142352398.html",
+      "published_at": "2026-09-18T20:10:46Z",
       "tickers": [
-        "REG"
+        "CRWD",
+        "PANW"
       ]
     },
     {
-      "id": "general-motors-moderate-buy-2026",
-      "type": "empresa",
-      "title": "General Motors recibe recomendación de compra moderada pese a señales mixtas del mercado",
-      "summary": "Veintitrés casas de análisis le otorgan a General Motors una recomendación promedio de \"Compra Moderada\" con un precio objetivo de US$101,82, por encima de su cotización actual de US$86,49. Sin embargo, la compañía enfrenta ventas de acciones por parte de directivos, un recall significativo y cuestionamientos por su limitada línea de híbridos.",
-      "detail": "Cuando el precio objetivo de los analistas supera el precio de mercado, sugiere que el consenso considera que la acción está subvaluada, lo que puede atraer inversores. Pero las señales mixtas —como las ventas de insiders— son una señal de alerta que los inversores suelen seguir de cerca, ya que quienes están adentro de la empresa conocen mejor su situación real. Además, el debate sobre híbridos muestra cómo la transición energética está impactando las perspectivas de las automotrices tradicionales.",
+      "id": "spacex-morgan-stanley-ai",
+      "type": "mercado",
+      "title": "Morgan Stanley mantiene su apuesta por SpaceX pese a la caída de 33% desde su máximo",
+      "summary": "Las acciones de SpaceX cayeron un 33% desde su punto más alto, pero Morgan Stanley mantiene una recomendación de compra con un precio objetivo de 300 dólares, lo que implicaría una suba del 106%. El banco destaca el potencial de la compañía en infraestructura de IA como principal motor de valor.",
+      "detail": "Este artículo muestra cómo los analistas de bancos de inversión construyen tesis de largo plazo basadas en negocios emergentes, no solo en el modelo actual de la empresa. Morgan Stanley apuesta a que SpaceX puede competir en infraestructura de IA de forma más barata y eficiente que sus rivales. Para alguien que aprende finanzas, es un ejemplo de valoración por potencial futuro versus resultados presentes, y de cómo una caída de precio puede coexistir con una visión alcista.",
       "tags": [
-        "automotriz",
-        "analistas",
+        "acciones",
+        "inteligencia artificial",
+        "valoración"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-33-high-195000333.html",
+      "published_at": "2026-09-18T20:09:31Z",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "id": "doj-blackrock-statestreet-antitrust",
+      "type": "economia",
+      "title": "El Departamento de Justicia de EE.UU. evalúa sumarse a la demanda antimonopolio contra BlackRock y State Street",
+      "summary": "El DOJ considera intervenir en una demanda liderada por Texas y otros 12 estados contra BlackRock y State Street, que acusa a estos gigantes de gestión de activos de usar su poder de mercado y membresías en coaliciones climáticas para restringir la producción de carbón y elevar los precios de energía.",
+      "detail": "BlackRock y State Street son dos de los mayores gestores de fondos del mundo, con posiciones accionarias en miles de empresas. Esta demanda cuestiona si las estrategias de inversión ESG (ambiental, social y de gobernanza) pueden constituir una coordinación anticompetitiva. Si el gobierno federal se suma, el caso escala significativamente y podría redefinir cómo los grandes fondos ejercen influencia en las empresas que poseen, algo relevante para entender el poder de los inversores institucionales.",
+      "tags": [
+        "regulación",
+        "fondos de inversión",
+        "ESG"
+      ],
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/stock-market-news/doj-weighs-joining-state-antitrust-suit-against-blackrock-and-state-street-report-4907813",
+      "published_at": "2026-09-18T19:44:42Z",
+      "tickers": [
+        "STT"
+      ]
+    },
+    {
+      "id": "newmont-ubs-price-target",
+      "type": "mercado",
+      "title": "UBS sube su precio objetivo para Newmont, la mayor minera de oro del mundo",
+      "summary": "UBS elevó su precio objetivo para Newmont de 120 a 155 dólares, manteniendo su recomendación de compra. El banco anticipa que la compañía podría devolver más de 7.000 millones de dólares a sus accionistas en 2026.",
+      "detail": "Newmont es la mayor productora de oro del mundo, por lo que sus perspectivas están directamente ligadas al precio del metal y a la demanda global de activos refugio. Cuando un banco sube el precio objetivo tras resolver una incertidumbre clave (en este caso, el pago al proyecto Fourmile), es una señal de mayor visibilidad sobre los flujos futuros. Para alguien que aprende finanzas, este artículo ilustra cómo las devoluciones de capital (dividendos y recompras) influyen en la valoración de una empresa.",
+      "tags": [
+        "oro",
+        "minería",
+        "dividendos"
+      ],
+      "source_name": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com/news/newmont-price-target-raised-ubs-182600504.html",
+      "published_at": "2026-09-18T18:41:00Z",
+      "tickers": [
+        "NEM"
+      ]
+    },
+    {
+      "id": "amazon-costco-tariff-suits",
+      "type": "economia",
+      "title": "Amazon, Costco y otras empresas se oponen a unificar demandas por reembolsos de aranceles",
+      "summary": "Amazon, Costco y más de una docena de empresas se oponen a centralizar al menos 25 demandas de clientes que piden reembolsos por aranceles pagados. Argumentan que cada caso tiene particularidades muy distintas y que unificarlos no sería eficiente.",
+      "detail": "Este caso muestra cómo los aranceles al comercio internacional tienen consecuencias legales y financieras concretas para las empresas: si los tribunales ordenan reembolsos masivos, el impacto en los resultados puede ser significativo. Para alguien que aprende finanzas, es un ejemplo de riesgo legal (litigios) como factor que afecta la valuación de una empresa, y de cómo las políticas comerciales generan disputas que tardan años en resolverse.",
+      "tags": [
+        "aranceles",
+        "comercio",
+        "riesgo legal"
+      ],
+      "source_name": "CFO Dive",
+      "source_url": "https://www.cfodive.com/news/amazon-companies-fighting-centralized-tariff-refund-suits-costco-cfo/830814/",
+      "published_at": "2026-09-18T20:56:39Z",
+      "tickers": [
+        "AMZN",
+        "COST",
+        "WMT"
+      ]
+    },
+    {
+      "id": "adobe-nuevo-ceo",
+      "type": "empresa",
+      "title": "Adobe nombró a su próximo CEO en medio de la presión creciente de la IA",
+      "summary": "Anil Chakravarthy fue designado como el nuevo presidente y CEO de Adobe, reemplazando a Shantanu Narayen a partir del 1 de diciembre. Lleva seis años en la compañía y lideró el negocio de Experiencia Digital, lo que le da conocimiento profundo de la empresa en un momento de fuerte competencia en el mercado de IA.",
+      "detail": "El cambio de CEO en una empresa grande como Adobe siempre genera atención del mercado, especialmente cuando el contexto competitivo es difícil. Elegir a alguien interno busca transmitir estabilidad y continuidad, una señal que los inversores suelen valorar. Este caso es útil para entender cómo la gobernanza corporativa y el liderazgo impactan en la percepción del mercado sobre el futuro de una empresa.",
+      "tags": [
+        "tecnología",
+        "liderazgo",
+        "IA"
+      ],
+      "source_name": "Inc.com",
+      "source_url": "https://www.inc.com/dan-schawbel/adobe-new-ceo-challenges/91407749",
+      "published_at": "2026-09-18T19:06:13Z",
+      "tickers": [
+        "ADBE"
+      ]
+    },
+    {
+      "id": "howmet-aerospace-retorno",
+      "type": "mercado",
+      "title": "Howmet Aerospace: cómo el interés compuesto convirtió 1.000 dólares en más de 7.400 en cinco años",
+      "summary": "Howmet Aerospace tuvo un retorno anualizado del 49,65% en los últimos cinco años. Quien hubiese invertido 1.000 dólares hace cinco años, hoy tendría más de 7.400, gracias al efecto del interés compuesto.",
+      "detail": "Este artículo es un ejemplo concreto del poder del interés compuesto: un retorno del 49,65% anual durante cinco años multiplica por más de siete veces el capital inicial. Sin embargo, es importante notar que rendimientos pasados no garantizan resultados futuros. Para alguien que aprende finanzas, sirve para visualizar cómo el tiempo y la tasa de retorno interactúan, y por qué la elección del activo importa tanto como el horizonte de inversión.",
+      "tags": [
+        "interés compuesto",
+        "acciones",
+        "retorno"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/news/26/09/61882439/here-s-how-much-1000-invested-howmet-aerospace-5-years-ago-would-be-worth-today",
+      "published_at": "2026-09-18T21:00:31Z",
+      "tickers": [
+        "HWM"
+      ]
+    },
+    {
+      "id": "kkr-mcvey-compounding",
+      "type": "discurso",
+      "title": "El CIO de KKR llamó al interés compuesto \"la octava maravilla del mundo\"",
+      "summary": "Henry McVey, director de inversiones del balance de KKR, participó en Bloomberg Money y habló sobre mercados privados, asignación de activos y planificación financiera a largo plazo. Destacó el poder del interés compuesto como el concepto más transformador de las finanzas personales.",
+      "detail": "KKR es uno de los fondos de inversión alternativa más grandes del mundo, por lo que las opiniones de su CIO tienen peso en el mercado. La referencia al interés compuesto como herramienta clave de largo plazo es un concepto fundamental para cualquier persona que esté aprendiendo finanzas: pequeñas diferencias en rendimiento o tiempo pueden generar resultados enormemente distintos. Es un recordatorio de por qué invertir temprano y de forma consistente es una estrategia poderosa.",
+      "tags": [
+        "interés compuesto",
+        "inversión",
+        "largo plazo"
+      ],
+      "source_name": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com/news/compounding-is-8th-wonder-of-the-world-says-kkr-s-mcvey-ce785adadc80f223",
+      "published_at": "2026-09-18T19:50:50Z",
+      "tickers": [
+        "KKR"
+      ]
+    },
+    {
+      "id": "intel-skhynix-chips",
+      "type": "mercado",
+      "title": "Intel y SK Hynix subieron fuerte tras rumores de asociación en chips de memoria en EE.UU.",
+      "summary": "Las acciones de Intel y SK Hynix se dispararon esta semana ante reportes de posibles acuerdos de fabricación de chips de memoria en EE.UU., específicamente en el complejo de Intel en Ohio. Analistas consideran a SK Hynix una mejor oportunidad por su liderazgo en chips de alta velocidad para IA y su menor valuación.",
+      "detail": "El sector de semiconductores es clave para entender la economía global actual: los chips de memoria de alta velocidad (HBM) son esenciales para los sistemas de inteligencia artificial. Este artículo muestra cómo los rumores de acuerdos industriales pueden mover acciones significativamente, y también introduce el concepto de ratio precio/ganancias (P/E) como herramienta para comparar si una acción está cara o barata respecto a sus competidoras.",
+      "tags": [
+        "semiconductores",
+        "inteligencia artificial",
         "valuación"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/consensus-general-motors-company-nyse-gm-given-average-recommendation-of-moderate-buy-by-brokerages-2026-09-18/",
-      "published_at": "2026-09-18T08:32:16Z",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-sk-hynix-chip-191000596.html",
+      "published_at": "2026-09-18T19:21:20Z",
       "tickers": [
-        "GM"
-      ]
-    },
-    {
-      "id": "nykredit-wells-fargo-netflix-metlife-2026",
-      "type": "mercado",
-      "title": "El fondo danés Nykredit invirtió cientos de millones de dólares en acciones de grandes empresas estadounidenses",
-      "summary": "Nykredit A/S, una institución financiera danesa, realizó nuevas inversiones millonarias en compañías como Wells Fargo (US$191 millones), MetLife (US$178 millones), Netflix (US$105 millones) y CVS Health (US$209 millones) durante el segundo trimestre.",
-      "detail": "Los movimientos de grandes inversores institucionales son señales que el mercado sigue de cerca, porque implican análisis profundos y pueden indicar confianza en determinados sectores o economías. El hecho de que un fondo europeo apueste fuerte por acciones bancarias, de salud y entretenimiento de EE.UU. refleja que los mercados americanos siguen siendo atractivos para el capital global. Para alguien que aprende finanzas, entender cómo fluye el dinero institucional ayuda a interpretar las tendencias del mercado.",
-      "tags": [
-        "inversión institucional",
-        "Wall Street",
-        "fondos"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-makes-new-19109-million-investment-in-wells-fargo-company-wfc-2026-09-18/",
-      "published_at": "2026-09-18T08:12:47Z",
-      "tickers": [
-        "WFC",
-        "MET",
-        "NFLX",
-        "CVS"
-      ]
-    },
-    {
-      "id": "procter-gamble-despidos-impuesto-acciones-2026",
-      "type": "economia",
-      "title": "P&G recortó 5.000 empleos y sus trabajadores enfrentan una decisión clave sobre sus acciones y los impuestos",
-      "summary": "Procter & Gamble redujo su plantilla en unas 5.000 personas como parte de una reestructuración. El artículo advierte que los empleados que se van con acciones de la empresa en su 401(k) pueden perder un beneficio impositivo importante si transfieren todo a una cuenta IRA sin considerar la regla de la \"apreciación neta no realizada\".",
-      "detail": "Este caso ilustra que las decisiones financieras personales tienen consecuencias impositivas enormes que muchas veces se ignoran. La diferencia entre transferir acciones a una IRA versus retirarlas en especie puede costar decenas de miles de dólares en impuestos. Aunque el sistema tributario es el de EE.UU., el principio es universal: antes de mover activos financieros, siempre hay que entender el impacto impositivo. Es un ejemplo práctico de finanzas personales aplicadas a situaciones de vida real.",
-      "tags": [
-        "finanzas personales",
-        "impuestos",
-        "reestructuración"
-      ],
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/personal-finance/social-security/2026/09/18/pg-has-cut-5000-jobs-so-far-at-60-a-worker-leaving-with-company-stock-can-lose-a-capital-gains-tax-break-by-rolling-everything-into-an-ira/",
-      "published_at": "2026-09-18T10:03:00Z",
-      "tickers": [
-        "PG"
-      ]
-    },
-    {
-      "id": "nuclear-avanzado-ia-demanda-2026",
-      "type": "economia",
-      "title": "La demanda de IA dispara la carrera por desarrollar reactores nucleares avanzados",
-      "summary": "Según S&P Global, la creciente demanda energética impulsada por la inteligencia artificial está acelerando la competencia para desarrollar y comercializar reactores nucleares de nueva generación. El informe también destaca el aumento del comercio mundial de bienes y los desafíos que enfrentan los gestores de activos europeos.",
-      "detail": "La IA requiere enormes cantidades de energía para sus centros de datos, lo que está generando una demanda sin precedentes de fuentes de electricidad confiables y de baja emisión de carbono. Esto convierte al sector nuclear en una apuesta de inversión relevante a mediano plazo, algo que los mercados ya están incorporando en las valuaciones de empresas del sector energético. Para quien aprende finanzas, es un ejemplo de cómo una tendencia tecnológica puede redefinir la demanda en sectores aparentemente no relacionados.",
-      "tags": [
-        "energía nuclear",
-        "inteligencia artificial",
-        "infraestructura"
-      ],
-      "source_name": "S&P Global",
-      "source_url": "https://www.spglobal.com/en/research-insights/market-insights/daily-update-sep-18-2026",
-      "published_at": "2026-09-18T11:02:33Z",
-      "tickers": [
-        "CEG",
-        "ENPH"
-      ]
-    },
-    {
-      "id": "sysco-notas-senior-jetro-2026",
-      "type": "empresa",
-      "title": "Sysco emite deuda por cientos de millones para financiar la compra de Jetro Restaurant Depot",
-      "summary": "Sysco Corporation lanzó una oferta de bonos senior con vencimientos de entre 2029 y 2066 para financiar la adquisición de Jetro Restaurant Depot. La mayoría de los títulos tienen una cláusula de rescate obligatorio si la operación no se concreta, al 101% del valor nominal.",
-      "detail": "Emitir deuda para financiar una adquisición es una práctica habitual en finanzas corporativas, pero implica que la empresa asume nuevos compromisos de pago que impactan en su balance. La cláusula de rescate obligatorio protege a los inversores: si la compra no ocurre, recuperan su dinero con una pequeña prima. Esto muestra cómo las empresas estructuran operaciones complejas usando el mercado de capitales, y por qué entender los bonos corporativos es clave para analizar una compañía.",
-      "tags": [
-        "bonos corporativos",
-        "fusiones",
-        "deuda"
-      ],
-      "source_name": "StreetInsider",
-      "source_url": "https://www.streetinsider.com/SEC+Filings/Form+424B5+SYSCO+CORP/27077869.html",
-      "published_at": "2026-09-18T10:14:02Z",
-      "tickers": [
-        "SYY"
+        "INTC",
+        "SKHY",
+        "NVDA"
       ]
     }
   ],
@@ -197,39 +197,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.555",
-      "valor_num": 1555.0,
-      "delta_pct": -0.32
+      "valor": "$1.550",
+      "valor_num": 1550.0,
+      "delta_pct": -0.64
     },
     {
       "label": "MEP",
-      "valor": "$1.535",
-      "valor_num": 1534.7,
-      "delta_pct": -0.48
+      "valor": "$1.540",
+      "valor_num": 1540.1,
+      "delta_pct": -0.13
     },
     {
       "label": "CCL",
-      "valor": "$1.593",
-      "valor_num": 1593.4,
-      "delta_pct": -0.42
+      "valor": "$1.598",
+      "valor_num": 1598.1,
+      "delta_pct": -0.13
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.991",
-      "valor_num": 77991.0,
-      "delta_pct": 2.09
+      "valor": "US$ 81.213",
+      "valor_num": 81213.0,
+      "delta_pct": 6.39
     },
     {
       "label": "S&P 500",
-      "valor": "7.638",
-      "valor_num": 7637.76,
-      "delta_pct": 0.61
+      "valor": "7.650",
+      "valor_num": 7650.5,
+      "delta_pct": -0.08
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.414",
-      "valor_num": 4413.6,
-      "delta_pct": 1.42
+      "valor": "US$ 4.416",
+      "valor_num": 4415.9,
+      "delta_pct": 1.47
     }
   ]
 }
