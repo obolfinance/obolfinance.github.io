@@ -1,190 +1,167 @@
 {
-  "generated_at": "2026-09-18T22:01:32.698520+00:00",
+  "generated_at": "2026-09-19T12:01:19.139962+00:00",
   "items": [
     {
-      "id": "netflix-wells-fargo-downgrade",
+      "id": "unp-ubs-upgrade-q2-2026",
       "type": "mercado",
-      "title": "Netflix cayó casi 5% tras una baja de calificación de Wells Fargo",
-      "summary": "Wells Fargo bajó su recomendación sobre las acciones de Netflix y redujo su precio objetivo, argumentando que las tendencias de engagement de los usuarios están cayendo y que falta contenido original fuerte. Las acciones de la plataforma cayeron casi un 5%.",
-      "detail": "Cuando un banco importante como Wells Fargo baja su calificación de una acción, muchos inversores institucionales reaccionan vendiendo, lo que presiona el precio a la baja. Este caso muestra cómo las métricas de uso (engagement) son tan importantes para valorar una empresa de contenido como los ingresos: si los usuarios ven menos contenido, el modelo de suscripción se debilita. Es un ejemplo clásico de cómo el análisis de analistas mueve mercados.",
+      "title": "Union Pacific sube tras upgrade de UBS y resultados sólidos del segundo trimestre",
+      "summary": "UBS mejoró su recomendación sobre Union Pacific (UNP) a 'Compra' y subió su precio objetivo a $339, después de que la compañía reportara ingresos por $6.900 millones en el segundo trimestre de 2026, un 12% más que el año anterior, y una ganancia neta de $2.000 millones, un 6% más.",
+      "detail": "Cuando un banco de inversión importante como UBS sube su recomendación sobre una acción, eso suele generar demanda porque muchos fondos siguen esas señales. El precio objetivo refleja cuánto cree el analista que vale la acción; si está por encima del precio actual, indica que ven margen de suba. Union Pacific es una empresa ferroviaria clave en EE.UU., y su desempeño es un termómetro de la economía real: si transporta más mercancías, la economía está activa.",
       "tags": [
         "acciones",
-        "análisis",
-        "entretenimiento"
+        "transporte",
+        "resultados"
       ],
-      "source_name": "The Hollywood Reporter",
-      "source_url": "https://www.hollywoodreporter.com/business/digital/netflix-stock-falls-wells-fargo-downgrade-engagement-trends-1236705628/",
-      "published_at": "2026-09-18T20:25:49Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-gains-after-ubs-upgrade-and-solid-second-quarter/70130768",
+      "published_at": "2026-09-19T10:06:34Z",
       "tickers": [
-        "NFLX",
-        "WFC"
+        "UNP"
       ]
     },
     {
-      "id": "cybersecurity-stocks-ai-gains",
-      "type": "mercado",
-      "title": "Acciones de ciberseguridad subieron fuerte tras alertas sobre riesgos de la IA",
-      "summary": "CrowdStrike, Palo Alto Networks y Okta tuvieron ganancias semanales importantes luego de que los CEOs de Anthropic y OpenAI advirtieran sobre los riesgos del avance acelerado de la inteligencia artificial. Los inversores interpretaron esas alertas como señal de mayor demanda de protección de infraestructura.",
-      "detail": "Cuando líderes del sector IA advierten sobre riesgos, el mercado suele reaccionar aumentando la inversión en empresas que protegen esa infraestructura, es decir, las de ciberseguridad. Esto ilustra cómo las declaraciones de figuras clave pueden mover sectores enteros, y cómo el crecimiento de una tecnología arrastra a industrias relacionadas. Es un buen ejemplo de flujo de capital sectorial impulsado por narrativas del mercado.",
-      "tags": [
-        "ciberseguridad",
-        "inteligencia artificial",
-        "tecnología"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/article/crowdstrike-palo-alto-networks-and-cybersecurity-stocks-post-strong-weekly-gains-after-ai-freak-out-moment-142352398.html",
-      "published_at": "2026-09-18T20:10:46Z",
-      "tickers": [
-        "CRWD",
-        "PANW"
-      ]
-    },
-    {
-      "id": "spacex-morgan-stanley-ai",
-      "type": "mercado",
-      "title": "Morgan Stanley mantiene su apuesta por SpaceX pese a la caída de 33% desde su máximo",
-      "summary": "Las acciones de SpaceX cayeron un 33% desde su punto más alto, pero Morgan Stanley mantiene una recomendación de compra con un precio objetivo de 300 dólares, lo que implicaría una suba del 106%. El banco destaca el potencial de la compañía en infraestructura de IA como principal motor de valor.",
-      "detail": "Este artículo muestra cómo los analistas de bancos de inversión construyen tesis de largo plazo basadas en negocios emergentes, no solo en el modelo actual de la empresa. Morgan Stanley apuesta a que SpaceX puede competir en infraestructura de IA de forma más barata y eficiente que sus rivales. Para alguien que aprende finanzas, es un ejemplo de valoración por potencial futuro versus resultados presentes, y de cómo una caída de precio puede coexistir con una visión alcista.",
-      "tags": [
-        "acciones",
-        "inteligencia artificial",
-        "valoración"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-33-high-195000333.html",
-      "published_at": "2026-09-18T20:09:31Z",
-      "tickers": [
-        "MS"
-      ]
-    },
-    {
-      "id": "doj-blackrock-statestreet-antitrust",
-      "type": "economia",
-      "title": "El Departamento de Justicia de EE.UU. evalúa sumarse a la demanda antimonopolio contra BlackRock y State Street",
-      "summary": "El DOJ considera intervenir en una demanda liderada por Texas y otros 12 estados contra BlackRock y State Street, que acusa a estos gigantes de gestión de activos de usar su poder de mercado y membresías en coaliciones climáticas para restringir la producción de carbón y elevar los precios de energía.",
-      "detail": "BlackRock y State Street son dos de los mayores gestores de fondos del mundo, con posiciones accionarias en miles de empresas. Esta demanda cuestiona si las estrategias de inversión ESG (ambiental, social y de gobernanza) pueden constituir una coordinación anticompetitiva. Si el gobierno federal se suma, el caso escala significativamente y podría redefinir cómo los grandes fondos ejercen influencia en las empresas que poseen, algo relevante para entender el poder de los inversores institucionales.",
-      "tags": [
-        "regulación",
-        "fondos de inversión",
-        "ESG"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/doj-weighs-joining-state-antitrust-suit-against-blackrock-and-state-street-report-4907813",
-      "published_at": "2026-09-18T19:44:42Z",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "id": "newmont-ubs-price-target",
-      "type": "mercado",
-      "title": "UBS sube su precio objetivo para Newmont, la mayor minera de oro del mundo",
-      "summary": "UBS elevó su precio objetivo para Newmont de 120 a 155 dólares, manteniendo su recomendación de compra. El banco anticipa que la compañía podría devolver más de 7.000 millones de dólares a sus accionistas en 2026.",
-      "detail": "Newmont es la mayor productora de oro del mundo, por lo que sus perspectivas están directamente ligadas al precio del metal y a la demanda global de activos refugio. Cuando un banco sube el precio objetivo tras resolver una incertidumbre clave (en este caso, el pago al proyecto Fourmile), es una señal de mayor visibilidad sobre los flujos futuros. Para alguien que aprende finanzas, este artículo ilustra cómo las devoluciones de capital (dividendos y recompras) influyen en la valoración de una empresa.",
-      "tags": [
-        "oro",
-        "minería",
-        "dividendos"
-      ],
-      "source_name": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com/news/newmont-price-target-raised-ubs-182600504.html",
-      "published_at": "2026-09-18T18:41:00Z",
-      "tickers": [
-        "NEM"
-      ]
-    },
-    {
-      "id": "amazon-costco-tariff-suits",
-      "type": "economia",
-      "title": "Amazon, Costco y otras empresas se oponen a unificar demandas por reembolsos de aranceles",
-      "summary": "Amazon, Costco y más de una docena de empresas se oponen a centralizar al menos 25 demandas de clientes que piden reembolsos por aranceles pagados. Argumentan que cada caso tiene particularidades muy distintas y que unificarlos no sería eficiente.",
-      "detail": "Este caso muestra cómo los aranceles al comercio internacional tienen consecuencias legales y financieras concretas para las empresas: si los tribunales ordenan reembolsos masivos, el impacto en los resultados puede ser significativo. Para alguien que aprende finanzas, es un ejemplo de riesgo legal (litigios) como factor que afecta la valuación de una empresa, y de cómo las políticas comerciales generan disputas que tardan años en resolverse.",
-      "tags": [
-        "aranceles",
-        "comercio",
-        "riesgo legal"
-      ],
-      "source_name": "CFO Dive",
-      "source_url": "https://www.cfodive.com/news/amazon-companies-fighting-centralized-tariff-refund-suits-costco-cfo/830814/",
-      "published_at": "2026-09-18T20:56:39Z",
-      "tickers": [
-        "AMZN",
-        "COST",
-        "WMT"
-      ]
-    },
-    {
-      "id": "adobe-nuevo-ceo",
+      "id": "analog-devices-deuda-resultados-2026",
       "type": "empresa",
-      "title": "Adobe nombró a su próximo CEO en medio de la presión creciente de la IA",
-      "summary": "Anil Chakravarthy fue designado como el nuevo presidente y CEO de Adobe, reemplazando a Shantanu Narayen a partir del 1 de diciembre. Lleva seis años en la compañía y lideró el negocio de Experiencia Digital, lo que le da conocimiento profundo de la empresa en un momento de fuerte competencia en el mercado de IA.",
-      "detail": "El cambio de CEO en una empresa grande como Adobe siempre genera atención del mercado, especialmente cuando el contexto competitivo es difícil. Elegir a alguien interno busca transmitir estabilidad y continuidad, una señal que los inversores suelen valorar. Este caso es útil para entender cómo la gobernanza corporativa y el liderazgo impactan en la percepción del mercado sobre el futuro de una empresa.",
-      "tags": [
-        "tecnología",
-        "liderazgo",
-        "IA"
-      ],
-      "source_name": "Inc.com",
-      "source_url": "https://www.inc.com/dan-schawbel/adobe-new-ceo-challenges/91407749",
-      "published_at": "2026-09-18T19:06:13Z",
-      "tickers": [
-        "ADBE"
-      ]
-    },
-    {
-      "id": "howmet-aerospace-retorno",
-      "type": "mercado",
-      "title": "Howmet Aerospace: cómo el interés compuesto convirtió 1.000 dólares en más de 7.400 en cinco años",
-      "summary": "Howmet Aerospace tuvo un retorno anualizado del 49,65% en los últimos cinco años. Quien hubiese invertido 1.000 dólares hace cinco años, hoy tendría más de 7.400, gracias al efecto del interés compuesto.",
-      "detail": "Este artículo es un ejemplo concreto del poder del interés compuesto: un retorno del 49,65% anual durante cinco años multiplica por más de siete veces el capital inicial. Sin embargo, es importante notar que rendimientos pasados no garantizan resultados futuros. Para alguien que aprende finanzas, sirve para visualizar cómo el tiempo y la tasa de retorno interactúan, y por qué la elección del activo importa tanto como el horizonte de inversión.",
-      "tags": [
-        "interés compuesto",
-        "acciones",
-        "retorno"
-      ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/news/26/09/61882439/here-s-how-much-1000-invested-howmet-aerospace-5-years-ago-would-be-worth-today",
-      "published_at": "2026-09-18T21:00:31Z",
-      "tickers": [
-        "HWM"
-      ]
-    },
-    {
-      "id": "kkr-mcvey-compounding",
-      "type": "discurso",
-      "title": "El CIO de KKR llamó al interés compuesto \"la octava maravilla del mundo\"",
-      "summary": "Henry McVey, director de inversiones del balance de KKR, participó en Bloomberg Money y habló sobre mercados privados, asignación de activos y planificación financiera a largo plazo. Destacó el poder del interés compuesto como el concepto más transformador de las finanzas personales.",
-      "detail": "KKR es uno de los fondos de inversión alternativa más grandes del mundo, por lo que las opiniones de su CIO tienen peso en el mercado. La referencia al interés compuesto como herramienta clave de largo plazo es un concepto fundamental para cualquier persona que esté aprendiendo finanzas: pequeñas diferencias en rendimiento o tiempo pueden generar resultados enormemente distintos. Es un recordatorio de por qué invertir temprano y de forma consistente es una estrategia poderosa.",
-      "tags": [
-        "interés compuesto",
-        "inversión",
-        "largo plazo"
-      ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/compounding-is-8th-wonder-of-the-world-says-kkr-s-mcvey-ce785adadc80f223",
-      "published_at": "2026-09-18T19:50:50Z",
-      "tickers": [
-        "KKR"
-      ]
-    },
-    {
-      "id": "intel-skhynix-chips",
-      "type": "mercado",
-      "title": "Intel y SK Hynix subieron fuerte tras rumores de asociación en chips de memoria en EE.UU.",
-      "summary": "Las acciones de Intel y SK Hynix se dispararon esta semana ante reportes de posibles acuerdos de fabricación de chips de memoria en EE.UU., específicamente en el complejo de Intel en Ohio. Analistas consideran a SK Hynix una mejor oportunidad por su liderazgo en chips de alta velocidad para IA y su menor valuación.",
-      "detail": "El sector de semiconductores es clave para entender la economía global actual: los chips de memoria de alta velocidad (HBM) son esenciales para los sistemas de inteligencia artificial. Este artículo muestra cómo los rumores de acuerdos industriales pueden mover acciones significativamente, y también introduce el concepto de ratio precio/ganancias (P/E) como herramienta para comparar si una acción está cara o barata respecto a sus competidoras.",
+      "title": "Analog Devices emitió deuda por $3.000 millones tras superar las expectativas de ganancias",
+      "summary": "Analog Devices, fabricante de semiconductores, lanzó notas de deuda por $3.000 millones después de reportar resultados trimestrales mejores a lo esperado. Los fondos se destinarán a su crecimiento industrial, fabricación propia e investigación en automatización, inteligencia artificial y electrificación.",
+      "detail": "Emitir deuda tras buenos resultados es una estrategia común: la empresa aprovecha la confianza del mercado para financiarse a tasas más favorables. Sin embargo, más deuda implica mayores gastos financieros futuros, lo que puede presionar las ganancias si los ingresos no crecen al ritmo esperado. Los semiconductores son un sector clave porque sus chips están en casi todos los dispositivos y procesos industriales modernos.",
       "tags": [
         "semiconductores",
-        "inteligencia artificial",
-        "valuación"
+        "deuda",
+        "tecnología"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-sk-hynix-chip-191000596.html",
-      "published_at": "2026-09-18T19:21:20Z",
+      "source_name": "Simply Wall Street",
+      "source_url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/what-analog-devices-earnings-beat-means-for-shareholders",
+      "published_at": "2026-09-19T08:44:05Z",
       "tickers": [
-        "INTC",
-        "SKHY",
-        "NVDA"
+        "ADI"
+      ]
+    },
+    {
+      "id": "pepsico-accion-52-semanas-2026",
+      "type": "mercado",
+      "title": "PepsiCo cayó a mínimo de 52 semanas en medio de preocupaciones por demanda y márgenes",
+      "summary": "Las acciones de PepsiCo tocaron su precio más bajo en un año ante preocupaciones por menor demanda, presión sobre los márgenes y el posible impacto de los medicamentos para bajar de peso (GLP-1) en las ventas de snacks. A pesar de eso, la compañía reportó ganancias trimestrales por encima de las estimaciones y declaró un dividendo trimestral de $1,48 por acción.",
+      "detail": "El caso de PepsiCo ilustra cómo factores externos pueden pesar sobre una acción incluso cuando los resultados son buenos. Los medicamentos GLP-1, que reducen el apetito, son una amenaza emergente para empresas de alimentos ultraprocesados porque podrían reducir el consumo de snacks a largo plazo. Además, los márgenes —la diferencia entre lo que cuesta producir y lo que se vende— son clave para entender la rentabilidad real de una empresa.",
+      "tags": [
+        "consumo",
+        "acciones",
+        "dividendos"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-stake-in-pepsico-inc-pep-2026-09-19/",
+      "published_at": "2026-09-19T08:10:43Z",
+      "tickers": [
+        "PEP"
+      ]
+    },
+    {
+      "id": "jpmorgan-resultados-dividendo-2026",
+      "type": "empresa",
+      "title": "JPMorgan Chase superó estimaciones con ganancias por acción de $6,14 y subió su dividendo",
+      "summary": "JPMorgan Chase reportó ganancias de $6,14 por acción y un crecimiento de ingresos del 27,7% respecto al año anterior, superando las expectativas del mercado. Además, aumentó su dividendo trimestral a $1,65 por acción.",
+      "detail": "JPMorgan es el banco más grande de EE.UU. y sus resultados son un indicador importante de la salud del sistema financiero. Un crecimiento de ingresos del 27,7% es extraordinario para un banco de este tamaño y suele reflejar altas tasas de interés que mejoran sus márgenes. El dividendo creciente es una señal de confianza de la dirección en la solidez futura de la empresa.",
+      "tags": [
+        "bancos",
+        "dividendos",
+        "resultados"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/congress-rep-c-scott-franklin-sells-off-jpmorgan-chase-co-nyse-jpm-shares-2026-09-19/",
+      "published_at": "2026-09-19T09:07:25Z",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "id": "mcdonalds-dividendo-50-anos-2026",
+      "type": "empresa",
+      "title": "McDonald's aumentó su dividendo por 50° año consecutivo y sigue atrayendo inversores institucionales",
+      "summary": "McDonald's elevó su dividendo trimestral por 50° año consecutivo y superó las estimaciones de ganancias del último trimestre. El fondo danés Nykredit A/S compró 239.500 acciones valuadas en aproximadamente $64,7 millones, sumándose a inversores institucionales que ya controlan el 70,29% de la empresa.",
+      "detail": "Que una empresa aumente su dividendo durante 50 años seguidos la convierte en lo que se llama un 'Dividend King', una categoría muy valorada por inversores de largo plazo. Esto indica que la compañía genera flujo de caja estable y predecible en distintos ciclos económicos. Para alguien aprendiendo finanzas, McDonald's es un ejemplo clásico de empresa defensiva: sus ventas son relativamente resistentes a las recesiones.",
+      "tags": [
+        "dividendos",
+        "consumo",
+        "inversión"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-takes-position-in-mcdonalds-corporation-mcd-2026-09-19/",
+      "published_at": "2026-09-19T08:10:53Z",
+      "tickers": [
+        "MCD"
+      ]
+    },
+    {
+      "id": "ibm-crecimiento-cuantico-ai-2026",
+      "type": "empresa",
+      "title": "IBM suma $73,5 millones de un nuevo inversor institucional, pero enfrenta dudas por su perspectiva de crecimiento",
+      "summary": "Nykredit A/S compró 261.487 acciones de IBM por aproximadamente $73,5 millones. Sin embargo, la empresa enfrenta preocupaciones por una menor perspectiva de crecimiento para 2026 y caída en sus ingresos de infraestructura, a pesar de avances en computación cuántica e inteligencia artificial, incluyendo un contrato federal por $1.000 millones.",
+      "detail": "IBM es un ejemplo interesante de empresa en transición: históricamente dominó el hardware y los servicios IT tradicionales, pero ahora apuesta fuerte a la computación cuántica y la IA. Cuando una empresa reduce su perspectiva de crecimiento, el mercado suele castigar la acción aunque los contratos sean grandes, porque los inversores miran hacia adelante. Entender esta diferencia entre valor presente y expectativas futuras es central en finanzas.",
+      "tags": [
+        "tecnología",
+        "IA",
+        "acciones"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-buys-shares-of-261487-international-business-machines-corporation-ibm-2026-09-19/",
+      "published_at": "2026-09-19T07:53:21Z",
+      "tickers": [
+        "IBM"
+      ]
+    },
+    {
+      "id": "american-express-ganancias-crecimiento-2026",
+      "type": "empresa",
+      "title": "American Express reportó ganancias de $4,53 por acción con un crecimiento de ingresos del 10% anual",
+      "summary": "American Express superó las estimaciones del mercado con ganancias de $4,53 por acción y un crecimiento de ingresos del 10% respecto al año anterior. El fondo Nykredit A/S adquirió 174.573 acciones por aproximadamente $59 millones, llevando la participación institucional total al 84,33%.",
+      "detail": "American Express opera un modelo de negocio diferente al de Visa o Mastercard: además de procesar pagos, también emite tarjetas y asume el riesgo crediticio. Eso hace que sus ingresos sean más sensibles al gasto del consumidor y a las tasas de interés. Un crecimiento del 10% en ingresos para una empresa de este tamaño es una señal de demanda de crédito y consumo saludables en EE.UU.",
+      "tags": [
+        "finanzas",
+        "consumo",
+        "resultados"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-174573-shares-in-american-express-company-axp-purchased-by-nykredit-a-s-2026-09-19/",
+      "published_at": "2026-09-19T08:03:11Z",
+      "tickers": [
+        "AXP"
+      ]
+    },
+    {
+      "id": "dollar-tree-bofa-inversion-recompra-2026",
+      "type": "empresa",
+      "title": "Bank of America invirtió $109 millones en Dollar Tree, que autorizó recompra de acciones por $2.500 millones",
+      "summary": "Bank of America adquirió una nueva posición en Dollar Tree por aproximadamente $109,47 millones, comprando 905.120 acciones. La cadena de tiendas de descuento reportó resultados trimestrales por encima de las estimaciones y autorizó un programa de recompra de acciones por $2.500 millones.",
+      "detail": "Las recompras de acciones son una forma en que las empresas devuelven valor a los accionistas: al comprar sus propias acciones en el mercado, reducen la cantidad en circulación y aumentan la ganancia por acción. Que Bank of America, un gigante financiero, entre con una posición de $109 millones es una señal de confianza en el sector minorista de descuento, que tiende a crecer en períodos de menor poder adquisitivo del consumidor.",
+      "tags": [
+        "retail",
+        "recompra",
+        "inversión"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-makes-new-10947-million-investment-in-dollar-tree-inc-dltr-2026-09-19/",
+      "published_at": "2026-09-19T07:49:54Z",
+      "tickers": [
+        "DLTR",
+        "BAC"
+      ]
+    },
+    {
+      "id": "fortinet-ciberseguridad-gasto-2026",
+      "type": "mercado",
+      "title": "Fortinet gana protagonismo por el gasto sostenido en ciberseguridad empresarial",
+      "summary": "El interés en Fortinet (FTNT) crece porque las empresas siguen invirtiendo en ciberseguridad incluso cuando recortan otros gastos tecnológicos. Su posicionamiento en hardware, software y servicios de seguridad lo diferencia en un mercado que prioriza necesidades esenciales sobre el entusiasmo por la IA.",
+      "detail": "La ciberseguridad es considerada un gasto no discrecional para las empresas: no pueden simplemente dejar de proteger sus sistemas aunque el presupuesto esté ajustado. Esto hace que compañías como Fortinet sean más defensivas que otras tecnológicas, con ingresos más predecibles. Para inversores, distinguir entre sectores 'cíclicos' —que dependen del ciclo económico— y 'defensivos' es una habilidad clave.",
+      "tags": [
+        "ciberseguridad",
+        "tecnología",
+        "acciones"
+      ],
+      "source_name": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com/us/stocks/technology/what-is-changing-the-conversation-around-fortinet-ftnt",
+      "published_at": "2026-09-19T07:56:07Z",
+      "tickers": [
+        "FTNT"
       ]
     }
   ],
@@ -199,25 +176,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.550",
       "valor_num": 1550.0,
-      "delta_pct": -0.64
+      "delta_pct": -0.32
     },
     {
       "label": "MEP",
       "valor": "$1.540",
       "valor_num": 1540.1,
-      "delta_pct": -0.13
+      "delta_pct": 0.35
     },
     {
       "label": "CCL",
       "valor": "$1.598",
       "valor_num": 1598.1,
-      "delta_pct": -0.13
+      "delta_pct": 0.29
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.213",
-      "valor_num": 81213.0,
-      "delta_pct": 6.39
+      "valor": "US$ 81.273",
+      "valor_num": 81273.0,
+      "delta_pct": 4.2
     },
     {
       "label": "S&P 500",
@@ -227,9 +204,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.416",
-      "valor_num": 4415.9,
-      "delta_pct": 1.47
+      "valor": "US$ 4.425",
+      "valor_num": 4424.9,
+      "delta_pct": 1.68
     }
   ]
 }
