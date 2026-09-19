@@ -1,167 +1,169 @@
 {
-  "generated_at": "2026-09-19T12:01:19.139962+00:00",
+  "generated_at": "2026-09-19T22:01:17.404670+00:00",
   "items": [
     {
-      "id": "unp-ubs-upgrade-q2-2026",
+      "id": "bofa-sp500-target",
       "type": "mercado",
-      "title": "Union Pacific sube tras upgrade de UBS y resultados sólidos del segundo trimestre",
-      "summary": "UBS mejoró su recomendación sobre Union Pacific (UNP) a 'Compra' y subió su precio objetivo a $339, después de que la compañía reportara ingresos por $6.900 millones en el segundo trimestre de 2026, un 12% más que el año anterior, y una ganancia neta de $2.000 millones, un 6% más.",
-      "detail": "Cuando un banco de inversión importante como UBS sube su recomendación sobre una acción, eso suele generar demanda porque muchos fondos siguen esas señales. El precio objetivo refleja cuánto cree el analista que vale la acción; si está por encima del precio actual, indica que ven margen de suba. Union Pacific es una empresa ferroviaria clave en EE.UU., y su desempeño es un termómetro de la economía real: si transporta más mercancías, la economía está activa.",
+      "title": "Bank of America proyecta el S&P 500 en 7.800 puntos a 12 meses",
+      "summary": "Bank of America fijó su objetivo de 12 meses para el S&P 500 en 7.800 puntos, lo que implica solo un 2% de suba desde los niveles actuales, y elevó su estimación de fin de año a 7.400. La estratega Savita Subramanian advirtió sobre riesgos como inflación, política de la Fed y condiciones crediticias, señalando que la mitad de sus indicadores de mercado bajista ya se activaron.",
+      "detail": "Cuando un banco grande como Bank of America publica un objetivo para el S&P 500, el mercado lo toma como señal sobre las expectativas de crecimiento corporativo y el apetito por el riesgo. Que la proyección muestre apenas un 2% de upside sugiere que los analistas ven el mercado cerca de su valor justo, sin grandes catalizadores al alza. Los 'indicadores de mercado bajista' que mencionan son señales técnicas y fundamentales que históricamente anticiparon caídas; que la mitad esté activada es una advertencia moderada para los inversores. Entender estos pronósticos ayuda a dimensionar el riesgo antes de invertir en activos globales.",
       "tags": [
-        "acciones",
-        "transporte",
-        "resultados"
+        "S&P 500",
+        "mercado",
+        "riesgo"
       ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/union-pacific-stock-gains-after-ubs-upgrade-and-solid-second-quarter/70130768",
-      "published_at": "2026-09-19T10:06:34Z",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sets-12-month-134200044.html",
+      "published_at": "2026-09-19T13:50:34Z",
       "tickers": [
-        "UNP"
+        "BAC"
       ]
     },
     {
-      "id": "analog-devices-deuda-resultados-2026",
-      "type": "empresa",
-      "title": "Analog Devices emitió deuda por $3.000 millones tras superar las expectativas de ganancias",
-      "summary": "Analog Devices, fabricante de semiconductores, lanzó notas de deuda por $3.000 millones después de reportar resultados trimestrales mejores a lo esperado. Los fondos se destinarán a su crecimiento industrial, fabricación propia e investigación en automatización, inteligencia artificial y electrificación.",
-      "detail": "Emitir deuda tras buenos resultados es una estrategia común: la empresa aprovecha la confianza del mercado para financiarse a tasas más favorables. Sin embargo, más deuda implica mayores gastos financieros futuros, lo que puede presionar las ganancias si los ingresos no crecen al ritmo esperado. Los semiconductores son un sector clave porque sus chips están en casi todos los dispositivos y procesos industriales modernos.",
+      "id": "bessent-china-reunion",
+      "type": "reunion",
+      "title": "El Tesoro de EEUU y China se reúnen en la sede de JPMorgan antes de la cumbre Trump-Xi",
+      "summary": "El secretario del Tesoro de EEUU, Scott Bessent, y el vicepremier chino He Lifeng se reunieron el domingo en la sede de JPMorgan en Nueva York para tratar temas de seguridad en IA, comercio y economía. El encuentro ocurrió días antes de que el presidente Trump reciba al presidente chino Xi Jinping en la Casa Blanca.",
+      "detail": "Las reuniones entre altos funcionarios de EEUU y China son eventos clave para los mercados globales porque de ellas pueden surgir acuerdos comerciales, cambios arancelarios o tensiones que afectan a empresas de todo el mundo, incluidas las que operan en Argentina. El hecho de que se aborde la seguridad en IA, además del comercio, muestra que la disputa entre ambas potencias va más allá de los aranceles y se extiende a la tecnología. Para alguien que aprende finanzas, estos encuentros diplomáticos son parte del contexto macroeconómico que mueve mercados.",
       "tags": [
-        "semiconductores",
-        "deuda",
-        "tecnología"
+        "geopolítica",
+        "comercio",
+        "EEUU-China"
       ],
-      "source_name": "Simply Wall Street",
-      "source_url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/what-analog-devices-earnings-beat-means-for-shareholders",
-      "published_at": "2026-09-19T08:44:05Z",
-      "tickers": [
-        "ADI"
-      ]
-    },
-    {
-      "id": "pepsico-accion-52-semanas-2026",
-      "type": "mercado",
-      "title": "PepsiCo cayó a mínimo de 52 semanas en medio de preocupaciones por demanda y márgenes",
-      "summary": "Las acciones de PepsiCo tocaron su precio más bajo en un año ante preocupaciones por menor demanda, presión sobre los márgenes y el posible impacto de los medicamentos para bajar de peso (GLP-1) en las ventas de snacks. A pesar de eso, la compañía reportó ganancias trimestrales por encima de las estimaciones y declaró un dividendo trimestral de $1,48 por acción.",
-      "detail": "El caso de PepsiCo ilustra cómo factores externos pueden pesar sobre una acción incluso cuando los resultados son buenos. Los medicamentos GLP-1, que reducen el apetito, son una amenaza emergente para empresas de alimentos ultraprocesados porque podrían reducir el consumo de snacks a largo plazo. Además, los márgenes —la diferencia entre lo que cuesta producir y lo que se vende— son clave para entender la rentabilidad real de una empresa.",
-      "tags": [
-        "consumo",
-        "acciones",
-        "dividendos"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-stake-in-pepsico-inc-pep-2026-09-19/",
-      "published_at": "2026-09-19T08:10:43Z",
-      "tickers": [
-        "PEP"
-      ]
-    },
-    {
-      "id": "jpmorgan-resultados-dividendo-2026",
-      "type": "empresa",
-      "title": "JPMorgan Chase superó estimaciones con ganancias por acción de $6,14 y subió su dividendo",
-      "summary": "JPMorgan Chase reportó ganancias de $6,14 por acción y un crecimiento de ingresos del 27,7% respecto al año anterior, superando las expectativas del mercado. Además, aumentó su dividendo trimestral a $1,65 por acción.",
-      "detail": "JPMorgan es el banco más grande de EE.UU. y sus resultados son un indicador importante de la salud del sistema financiero. Un crecimiento de ingresos del 27,7% es extraordinario para un banco de este tamaño y suele reflejar altas tasas de interés que mejoran sus márgenes. El dividendo creciente es una señal de confianza de la dirección en la solidez futura de la empresa.",
-      "tags": [
-        "bancos",
-        "dividendos",
-        "resultados"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/congress-rep-c-scott-franklin-sells-off-jpmorgan-chase-co-nyse-jpm-shares-2026-09-19/",
-      "published_at": "2026-09-19T09:07:25Z",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-2026-09-19/",
+      "published_at": "2026-09-19T18:36:28Z",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "id": "mcdonalds-dividendo-50-anos-2026",
-      "type": "empresa",
-      "title": "McDonald's aumentó su dividendo por 50° año consecutivo y sigue atrayendo inversores institucionales",
-      "summary": "McDonald's elevó su dividendo trimestral por 50° año consecutivo y superó las estimaciones de ganancias del último trimestre. El fondo danés Nykredit A/S compró 239.500 acciones valuadas en aproximadamente $64,7 millones, sumándose a inversores institucionales que ya controlan el 70,29% de la empresa.",
-      "detail": "Que una empresa aumente su dividendo durante 50 años seguidos la convierte en lo que se llama un 'Dividend King', una categoría muy valorada por inversores de largo plazo. Esto indica que la compañía genera flujo de caja estable y predecible en distintos ciclos económicos. Para alguien aprendiendo finanzas, McDonald's es un ejemplo clásico de empresa defensiva: sus ventas son relativamente resistentes a las recesiones.",
+      "id": "netflix-downgrade-wells-fargo",
+      "type": "mercado",
+      "title": "Wells Fargo bajó la recomendación de Netflix por caída en el engagement de usuarios",
+      "summary": "Wells Fargo rebajó su recomendación sobre las acciones de Netflix a 'underweight' (infraponderar) y recortó su precio objetivo, citando una caída del 8% en el tiempo de visualización por suscriptor en el primer semestre del año. Las acciones de Netflix cayeron casi un 5% el viernes y acumulan una pérdida del 25% en lo que va del año.",
+      "detail": "Un 'downgrade' de un banco de inversión es cuando los analistas reducen su recomendación sobre una acción, señalando que esperan un peor desempeño relativo. En el caso de Netflix, la baja en el engagement (tiempo que los usuarios pasan viendo contenido) es una métrica clave porque anticipa posibles cancelaciones de suscripciones y menor crecimiento de ingresos. Esto ilustra cómo los analistas usan datos operativos, no solo financieros, para valuar empresas de tecnología y entretenimiento. Para un inversor, entender por qué baja una acción —no solo que bajó— es fundamental.",
       "tags": [
-        "dividendos",
-        "consumo",
-        "inversión"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-takes-position-in-mcdonalds-corporation-mcd-2026-09-19/",
-      "published_at": "2026-09-19T08:10:53Z",
-      "tickers": [
-        "MCD"
-      ]
-    },
-    {
-      "id": "ibm-crecimiento-cuantico-ai-2026",
-      "type": "empresa",
-      "title": "IBM suma $73,5 millones de un nuevo inversor institucional, pero enfrenta dudas por su perspectiva de crecimiento",
-      "summary": "Nykredit A/S compró 261.487 acciones de IBM por aproximadamente $73,5 millones. Sin embargo, la empresa enfrenta preocupaciones por una menor perspectiva de crecimiento para 2026 y caída en sus ingresos de infraestructura, a pesar de avances en computación cuántica e inteligencia artificial, incluyendo un contrato federal por $1.000 millones.",
-      "detail": "IBM es un ejemplo interesante de empresa en transición: históricamente dominó el hardware y los servicios IT tradicionales, pero ahora apuesta fuerte a la computación cuántica y la IA. Cuando una empresa reduce su perspectiva de crecimiento, el mercado suele castigar la acción aunque los contratos sean grandes, porque los inversores miran hacia adelante. Entender esta diferencia entre valor presente y expectativas futuras es central en finanzas.",
-      "tags": [
+        "acciones",
         "tecnología",
-        "IA",
-        "acciones"
+        "análisis"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-buys-shares-of-261487-international-business-machines-corporation-ibm-2026-09-19/",
-      "published_at": "2026-09-19T07:53:21Z",
+      "source_name": "Investopedia",
+      "source_url": "https://www.investopedia.com/market-update-netflix-stock-gets-downgraded-by-wells-fargo-on-worrying-engagement-trends-nflx-12128200",
+      "published_at": "2026-09-19T20:39:16Z",
       "tickers": [
-        "IBM"
+        "NFLX",
+        "WFC"
       ]
     },
     {
-      "id": "american-express-ganancias-crecimiento-2026",
+      "id": "sp-global-openzeppelin",
       "type": "empresa",
-      "title": "American Express reportó ganancias de $4,53 por acción con un crecimiento de ingresos del 10% anual",
-      "summary": "American Express superó las estimaciones del mercado con ganancias de $4,53 por acción y un crecimiento de ingresos del 10% respecto al año anterior. El fondo Nykredit A/S adquirió 174.573 acciones por aproximadamente $59 millones, llevando la participación institucional total al 84,33%.",
-      "detail": "American Express opera un modelo de negocio diferente al de Visa o Mastercard: además de procesar pagos, también emite tarjetas y asume el riesgo crediticio. Eso hace que sus ingresos sean más sensibles al gasto del consumidor y a las tasas de interés. Un crecimiento del 10% en ingresos para una empresa de este tamaño es una señal de demanda de crédito y consumo saludables en EE.UU.",
+      "title": "S&P Global compra OpenZeppelin, gigante de seguridad blockchain",
+      "summary": "S&P Global anunció la adquisición de OpenZeppelin, una firma líder en seguridad de contratos inteligentes cuyo código de código abierto respaldó más de 37 billones de dólares en valor transferido. Con esta compra, S&P Global busca fortalecer su presencia en el mercado de activos digitales y finanzas descentralizadas.",
+      "detail": "S&P Global es una de las empresas más influyentes en finanzas tradicionales: produce índices bursátiles, calificaciones crediticias y datos de mercado. Que compre una empresa de seguridad blockchain muestra cómo las finanzas tradicionales están integrando activos digitales de forma seria. OpenZeppelin es el estándar de seguridad en contratos inteligentes, usada por proyectos DeFi de todo el mundo. Esta adquisición puede acelerar la tokenización de activos reales y dar más credibilidad institucional al ecosistema cripto.",
       "tags": [
-        "finanzas",
-        "consumo",
-        "resultados"
+        "cripto",
+        "blockchain",
+        "adquisición"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-174573-shares-in-american-express-company-axp-purchased-by-nykredit-a-s-2026-09-19/",
-      "published_at": "2026-09-19T08:03:11Z",
+      "source_name": "CryptoPotato",
+      "source_url": "https://cryptopotato.com/massive-crypto-acquisition-why-sp-global-is-buying-blockchain-security-giant-openzeppelin/",
+      "published_at": "2026-09-19T20:12:50Z",
       "tickers": [
-        "AXP"
+        "SPGI"
       ]
     },
     {
-      "id": "dollar-tree-bofa-inversion-recompra-2026",
+      "id": "equinix-ai-data-centers",
       "type": "empresa",
-      "title": "Bank of America invirtió $109 millones en Dollar Tree, que autorizó recompra de acciones por $2.500 millones",
-      "summary": "Bank of America adquirió una nueva posición en Dollar Tree por aproximadamente $109,47 millones, comprando 905.120 acciones. La cadena de tiendas de descuento reportó resultados trimestrales por encima de las estimaciones y autorizó un programa de recompra de acciones por $2.500 millones.",
-      "detail": "Las recompras de acciones son una forma en que las empresas devuelven valor a los accionistas: al comprar sus propias acciones en el mercado, reducen la cantidad en circulación y aumentan la ganancia por acción. Que Bank of America, un gigante financiero, entre con una posición de $109 millones es una señal de confianza en el sector minorista de descuento, que tiende a crecer en períodos de menor poder adquisitivo del consumidor.",
+      "title": "Equinix dice que la IA está disparando la demanda de centros de datos",
+      "summary": "Ejecutivos de Equinix señalaron que la inteligencia artificial está acelerando significativamente la demanda de capacidad en centros de datos de alta densidad y servicios de interconexión. La empresa proyecta un crecimiento anual de entre 9% y 12% en fondos operativos ajustados por acción hasta 2029.",
+      "detail": "Equinix es uno de los mayores operadores de centros de datos del mundo, y su negocio es relevante porque la IA requiere infraestructura física enorme para funcionar. Cuando una empresa de este tipo reporta crecimiento sostenido y da proyecciones positivas a varios años, es una señal del estado real de la inversión en tecnología a nivel global. Para alguien que aprende finanzas, esto muestra cómo una tendencia tecnológica (IA) se traduce en resultados concretos para empresas de infraestructura, un sector muchas veces ignorado.",
       "tags": [
-        "retail",
+        "inteligencia artificial",
+        "centros de datos",
+        "tecnología"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/event-equinix-sees-ai-driving-data-center-demand-interconnection-growth-2026-09-19/",
+      "published_at": "2026-09-19T20:06:36Z",
+      "tickers": [
+        "EQIX",
+        "NVDA"
+      ]
+    },
+    {
+      "id": "keycorp-outlook-2026",
+      "type": "empresa",
+      "title": "KeyCorp reafirma su perspectiva 2026 con crecimiento en préstamos y comisiones",
+      "summary": "KeyCorp reafirmó su outlook para 2026, esperando un crecimiento de préstamos comerciales en el extremo alto de su rango objetivo del 4-5% y un aumento de depósitos superior al 2% en el segundo semestre. El banco también elevó su proyección de crecimiento de ingresos por comisiones al 4-5% e indicó que espera subas de tasas de interés en el contexto económico actual.",
+      "detail": "El outlook de un banco regional como KeyCorp es una ventana al estado de la economía real: si los préstamos crecen, significa que empresas y personas están pidiendo financiamiento, lo que refleja confianza económica. La mención de que esperan subas de tasas es clave, ya que las tasas de interés afectan el costo del crédito en todo el mundo, incluyendo la deuda argentina. Aprender a leer los reportes de bancos ayuda a entender el ciclo económico y las condiciones de crédito globales.",
+      "tags": [
+        "banca",
+        "tasas de interés",
+        "crédito"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/keycorp-reaffirms-2026-outlook-loan-170204026.html",
+      "published_at": "2026-09-19T17:02:45Z",
+      "tickers": [
+        "KEY"
+      ]
+    },
+    {
+      "id": "dollar-tree-buyback",
+      "type": "empresa",
+      "title": "Dollar Tree recibe apoyo de Bank of America y analistas suben su precio objetivo",
+      "summary": "Las acciones de Dollar Tree (DLTR) ganaron impulso después de que Bank of America revelara una posición de 109 millones de dólares en la empresa, y analistas de Raymond James y Goldman Sachs elevaron sus precios objetivo. La compañía reportó resultados del segundo trimestre que superaron las estimaciones y autorizó un programa de recompra de acciones por 2.500 millones de dólares.",
+      "detail": "Las recompras de acciones (buybacks) son una herramienta que usan las empresas para devolver valor a sus accionistas: compran sus propias acciones en el mercado, lo que reduce la cantidad circulante y puede subir el precio. Que Bank of America tome una posición importante en una empresa es una señal que el mercado interpreta como confianza institucional. Para alguien que aprende finanzas, este caso muestra cómo varios factores (resultados, compras institucionales, recomendaciones de analistas) se combinan para mover el precio de una acción.",
+      "tags": [
+        "acciones",
         "recompra",
-        "inversión"
+        "retail"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-bank-of-america-corp-de-makes-new-10947-million-investment-in-dollar-tree-inc-dltr-2026-09-19/",
-      "published_at": "2026-09-19T07:49:54Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-tree-inc-stock-gains-support-as-bank-of-america-stakes-109/70132909",
+      "published_at": "2026-09-19T14:48:40Z",
       "tickers": [
         "DLTR",
         "BAC"
       ]
     },
     {
-      "id": "fortinet-ciberseguridad-gasto-2026",
-      "type": "mercado",
-      "title": "Fortinet gana protagonismo por el gasto sostenido en ciberseguridad empresarial",
-      "summary": "El interés en Fortinet (FTNT) crece porque las empresas siguen invirtiendo en ciberseguridad incluso cuando recortan otros gastos tecnológicos. Su posicionamiento en hardware, software y servicios de seguridad lo diferencia en un mercado que prioriza necesidades esenciales sobre el entusiasmo por la IA.",
-      "detail": "La ciberseguridad es considerada un gasto no discrecional para las empresas: no pueden simplemente dejar de proteger sus sistemas aunque el presupuesto esté ajustado. Esto hace que compañías como Fortinet sean más defensivas que otras tecnológicas, con ingresos más predecibles. Para inversores, distinguir entre sectores 'cíclicos' —que dependen del ciclo económico— y 'defensivos' es una habilidad clave.",
+      "id": "kroger-antitrust-giant-eagle",
+      "type": "empresa",
+      "title": "Kroger enfrenta mayor escrutinio antimonopolio por su plan de comprar Giant Eagle",
+      "summary": "Kroger está bajo mayor revisión antimonopolio en Columbus, Ohio, por su intención de adquirir la cadena de supermercados Giant Eagle debido a la superposición de locales en esa área. Los reguladores esperan exigir la venta de varias tiendas para aprobar la fusión, lo que complica la estrategia de expansión de Kroger.",
+      "detail": "Las leyes antimonopolio buscan evitar que una empresa acumule tanto poder de mercado que pueda perjudicar a consumidores o competidores. Cuando una fusión es bloqueada o condicionada por reguladores, puede obligar a la empresa a vender activos, cambiar su estrategia o incluso abandonar el acuerdo. Este caso es un buen ejemplo de cómo el entorno regulatorio afecta directamente las decisiones de inversión y la valuación de las acciones de una compañía.",
       "tags": [
-        "ciberseguridad",
-        "tecnología",
-        "acciones"
+        "fusiones",
+        "regulación",
+        "retail"
       ],
-      "source_name": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com/us/stocks/technology/what-is-changing-the-conversation-around-fortinet-ftnt",
-      "published_at": "2026-09-19T07:56:07Z",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-draws-tougher-antitrust-151235803.html",
+      "published_at": "2026-09-19T15:24:01Z",
       "tickers": [
-        "FTNT"
+        "KR"
+      ]
+    },
+    {
+      "id": "paypal-probe-lawsuits",
+      "type": "empresa",
+      "title": "PayPal enfrenta una nueva investigación en medio de demandas de accionistas",
+      "summary": "La firma legal Kahn Swick & Foti abrió una investigación sobre los directivos de PayPal por posibles incumplimientos de deberes fiduciarios, sumándose a una demanda colectiva federal y varias demandas de accionistas. Las acciones legales surgen tras un reporte del cuarto trimestre de 2025 que decepcionó al mercado con resultados más débiles de lo esperado en su negocio de Branded Checkout.",
+      "detail": "Cuando una empresa enfrenta demandas de accionistas por declaraciones supuestamente engañosas, se pone en juego la confianza del mercado en su management. Los deberes fiduciarios son las obligaciones legales que tienen los directivos de actuar en el mejor interés de los accionistas; cuando se los acusa de violarlos, es una señal de alerta de gobernanza. Este tipo de situaciones suele generar volatilidad en el precio de la acción y puede derivar en cambios de liderazgo o compensaciones millonarias.",
+      "tags": [
+        "acciones",
+        "gobernanza",
+        "legal"
+      ],
+      "source_name": "STL.News",
+      "source_url": "https://www.stl.news/paypal-faces-new-probe-amid-shareholder-lawsuits/",
+      "published_at": "2026-09-19T13:11:37Z",
+      "tickers": [
+        "PYPL"
       ]
     }
   ],
@@ -192,9 +194,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.273",
-      "valor_num": 81273.0,
-      "delta_pct": 4.2
+      "valor": "US$ 81.096",
+      "valor_num": 81096.0,
+      "delta_pct": -0.17
     },
     {
       "label": "S&P 500",
