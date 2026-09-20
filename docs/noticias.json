@@ -1,169 +1,151 @@
 {
-  "generated_at": "2026-09-19T22:01:17.404670+00:00",
+  "generated_at": "2026-09-20T12:01:26.406191+00:00",
   "items": [
     {
-      "id": "bofa-sp500-target",
-      "type": "mercado",
-      "title": "Bank of America proyecta el S&P 500 en 7.800 puntos a 12 meses",
-      "summary": "Bank of America fijó su objetivo de 12 meses para el S&P 500 en 7.800 puntos, lo que implica solo un 2% de suba desde los niveles actuales, y elevó su estimación de fin de año a 7.400. La estratega Savita Subramanian advirtió sobre riesgos como inflación, política de la Fed y condiciones crediticias, señalando que la mitad de sus indicadores de mercado bajista ya se activaron.",
-      "detail": "Cuando un banco grande como Bank of America publica un objetivo para el S&P 500, el mercado lo toma como señal sobre las expectativas de crecimiento corporativo y el apetito por el riesgo. Que la proyección muestre apenas un 2% de upside sugiere que los analistas ven el mercado cerca de su valor justo, sin grandes catalizadores al alza. Los 'indicadores de mercado bajista' que mencionan son señales técnicas y fundamentales que históricamente anticiparon caídas; que la mitad esté activada es una advertencia moderada para los inversores. Entender estos pronósticos ayuda a dimensionar el riesgo antes de invertir en activos globales.",
+      "id": "fed-speakers-costco-earnings-week",
+      "type": "reunion",
+      "title": "La Fed sale a hablar y empresas clave reportan ganancias",
+      "summary": "Esta semana los mercados van a estar atentos a los discursos de funcionarios de la Reserva Federal de EE.UU. en distintas conferencias, tras la reciente suba de tasas. Al mismo tiempo, empresas de consumo masivo como Costco, General Mills y Darden Restaurants presentan sus resultados trimestrales, y Meta habla de su estrategia de IA.",
+      "detail": "Cuando la Fed sube las tasas de interés, los mercados quedan muy sensibles a cualquier señal sobre qué viene después. Los discursos de los funcionarios del banco central sirven para 'leer entre líneas' si van a seguir subiendo, pausar o bajar las tasas. A su vez, los resultados de empresas de consumo masivo son un termómetro de cómo está gastando la gente, lo que también influye en las decisiones de política monetaria.",
       "tags": [
-        "S&P 500",
-        "mercado",
-        "riesgo"
+        "Fed",
+        "tasas",
+        "consumo"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sets-12-month-134200044.html",
-      "published_at": "2026-09-19T13:50:34Z",
+      "source_name": "Investopedia",
+      "source_url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-costco-other-consumer-companies-report-u-s-central-bankers-hit-the-conference-circuit-12125238",
+      "published_at": "2026-09-20T08:41:04Z",
       "tickers": [
-        "BAC"
+        "COST",
+        "GIS",
+        "META",
+        "DRI"
       ]
     },
     {
-      "id": "bessent-china-reunion",
-      "type": "reunion",
-      "title": "El Tesoro de EEUU y China se reúnen en la sede de JPMorgan antes de la cumbre Trump-Xi",
-      "summary": "El secretario del Tesoro de EEUU, Scott Bessent, y el vicepremier chino He Lifeng se reunieron el domingo en la sede de JPMorgan en Nueva York para tratar temas de seguridad en IA, comercio y economía. El encuentro ocurrió días antes de que el presidente Trump reciba al presidente chino Xi Jinping en la Casa Blanca.",
-      "detail": "Las reuniones entre altos funcionarios de EEUU y China son eventos clave para los mercados globales porque de ellas pueden surgir acuerdos comerciales, cambios arancelarios o tensiones que afectan a empresas de todo el mundo, incluidas las que operan en Argentina. El hecho de que se aborde la seguridad en IA, además del comercio, muestra que la disputa entre ambas potencias va más allá de los aranceles y se extiende a la tecnología. Para alguien que aprende finanzas, estos encuentros diplomáticos son parte del contexto macroeconómico que mueve mercados.",
+      "id": "jpmorgan-strong-earnings-dividend",
+      "type": "empresa",
+      "title": "JPMorgan Chase superó expectativas y subió su dividendo",
+      "summary": "JPMorgan Chase reportó resultados trimestrales que superaron las estimaciones de analistas tanto en ganancias como en ingresos, y además aumentó su dividendo trimestral. Los analistas mantienen una visión positiva sobre la acción, destacando el crecimiento en banca de inversión y operaciones de trading.",
+      "detail": "JPMorgan es el banco más grande de EE.UU. y sus resultados son considerados un indicador de la salud del sistema financiero global. Cuando un banco de esta escala supera expectativas y sube el dividendo, es una señal de que tiene confianza en su flujo de caja futuro. Para alguien que aprende finanzas, esto ilustra cómo las ganancias corporativas y los dividendos influyen en el precio de las acciones y en la percepción del riesgo del sector bancario.",
       "tags": [
-        "geopolítica",
-        "comercio",
-        "EEUU-China"
+        "bancos",
+        "dividendo",
+        "ganancias"
       ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-2026-09-19/",
-      "published_at": "2026-09-19T18:36:28Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-jpmorgan-chase-co-jpm-is-peak-asset-management-llcs-7th-largest-position-2026-09-20/",
+      "published_at": "2026-09-20T07:45:31Z",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "id": "netflix-downgrade-wells-fargo",
-      "type": "mercado",
-      "title": "Wells Fargo bajó la recomendación de Netflix por caída en el engagement de usuarios",
-      "summary": "Wells Fargo rebajó su recomendación sobre las acciones de Netflix a 'underweight' (infraponderar) y recortó su precio objetivo, citando una caída del 8% en el tiempo de visualización por suscriptor en el primer semestre del año. Las acciones de Netflix cayeron casi un 5% el viernes y acumulan una pérdida del 25% en lo que va del año.",
-      "detail": "Un 'downgrade' de un banco de inversión es cuando los analistas reducen su recomendación sobre una acción, señalando que esperan un peor desempeño relativo. En el caso de Netflix, la baja en el engagement (tiempo que los usuarios pasan viendo contenido) es una métrica clave porque anticipa posibles cancelaciones de suscripciones y menor crecimiento de ingresos. Esto ilustra cómo los analistas usan datos operativos, no solo financieros, para valuar empresas de tecnología y entretenimiento. Para un inversor, entender por qué baja una acción —no solo que bajó— es fundamental.",
+      "id": "general-motors-institucional-compra",
+      "type": "empresa",
+      "title": "General Motors: compras institucionales y desafíos mixtos",
+      "summary": "El fondo danés Nykredit adquirió acciones de General Motors por unos 24,8 millones de dólares. La automotriz reportó resultados trimestrales sólidos, con contratos de defensa y buenas ventas de camionetas, aunque enfrenta un recall masivo de SUVs y ventas de acciones por parte de insiders.",
+      "detail": "Las compras de inversores institucionales grandes como fondos de pensión o gestoras de activos suelen interpretarse como una señal de confianza en una empresa. Sin embargo, el hecho de que insiders (directivos de la propia compañía) vendan acciones al mismo tiempo puede ser una señal de cautela. Este tipo de análisis —comparar lo que hacen los grandes fondos versus los propios ejecutivos— es una herramienta clave en el análisis de acciones.",
       "tags": [
-        "acciones",
+        "automotriz",
+        "institucionales",
+        "insiders"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-322106-shares-in-general-motors-company-gm-bought-by-nykredit-a-s-2026-09-20/",
+      "published_at": "2026-09-20T08:10:52Z",
+      "tickers": [
+        "GM"
+      ]
+    },
+    {
+      "id": "amazon-buy-ratings-institucional",
+      "type": "empresa",
+      "title": "Amazon sigue siendo favorita: 56 analistas recomiendan comprar",
+      "summary": "Un fondo de inversión cuantitativo compró acciones de Amazon por casi 15 millones de dólares. En total, 56 analistas de Wall Street tienen recomendación de compra sobre la acción, con un precio objetivo promedio de 321 dólares.",
+      "detail": "Cuando la mayoría de los analistas coinciden en recomendar una acción, eso refleja un consenso positivo sobre las perspectivas del negocio. Amazon es relevante para aprender finanzas porque combina e-commerce, computación en la nube (AWS) e inteligencia artificial, lo que la hace una empresa con múltiples fuentes de ingresos. El precio objetivo promedio de los analistas es una herramienta útil para entender cuánto 'potencial de suba' ve el mercado en una acción.",
+      "tags": [
         "tecnología",
-        "análisis"
+        "consenso",
+        "analistas"
       ],
-      "source_name": "Investopedia",
-      "source_url": "https://www.investopedia.com/market-update-netflix-stock-gets-downgraded-by-wells-fargo-on-worrying-engagement-trends-nflx-12128200",
-      "published_at": "2026-09-19T20:39:16Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-quantbot-technologies-lp-makes-new-1469-million-investment-in-amazoncom-inc-amzn-2026-09-20/",
+      "published_at": "2026-09-20T07:41:04Z",
       "tickers": [
-        "NFLX",
-        "WFC"
+        "AMZN"
       ]
     },
     {
-      "id": "sp-global-openzeppelin",
+      "id": "first-solar-institucional-energia",
       "type": "empresa",
-      "title": "S&P Global compra OpenZeppelin, gigante de seguridad blockchain",
-      "summary": "S&P Global anunció la adquisición de OpenZeppelin, una firma líder en seguridad de contratos inteligentes cuyo código de código abierto respaldó más de 37 billones de dólares en valor transferido. Con esta compra, S&P Global busca fortalecer su presencia en el mercado de activos digitales y finanzas descentralizadas.",
-      "detail": "S&P Global es una de las empresas más influyentes en finanzas tradicionales: produce índices bursátiles, calificaciones crediticias y datos de mercado. Que compre una empresa de seguridad blockchain muestra cómo las finanzas tradicionales están integrando activos digitales de forma seria. OpenZeppelin es el estándar de seguridad en contratos inteligentes, usada por proyectos DeFi de todo el mundo. Esta adquisición puede acelerar la tokenización de activos reales y dar más credibilidad institucional al ecosistema cripto.",
+      "title": "Fondos institucionales apuestan por First Solar en energía solar",
+      "summary": "El fondo danés Nykredit compró acciones de First Solar por unos 13,55 millones de dólares. Los analistas mantienen una recomendación de compra moderada con un precio objetivo promedio de 266 dólares, por encima del precio actual de alrededor de 196 dólares.",
+      "detail": "First Solar es una de las principales fabricantes de paneles solares de EE.UU. y su desempeño está muy ligado a las políticas de energía limpia y los subsidios gubernamentales. La diferencia entre el precio actual y el precio objetivo de los analistas se llama 'upside potencial' y es uno de los indicadores que usan los inversores para evaluar si una acción está barata o cara. La entrada de fondos institucionales también puede generar mayor liquidez y estabilidad en el precio.",
       "tags": [
-        "cripto",
-        "blockchain",
-        "adquisición"
+        "energía solar",
+        "institucionales",
+        "precio objetivo"
       ],
-      "source_name": "CryptoPotato",
-      "source_url": "https://cryptopotato.com/massive-crypto-acquisition-why-sp-global-is-buying-blockchain-security-giant-openzeppelin/",
-      "published_at": "2026-09-19T20:12:50Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-takes-1355-million-position-in-first-solar-inc-fslr-2026-09-20/",
+      "published_at": "2026-09-20T08:11:06Z",
       "tickers": [
-        "SPGI"
+        "FSLR"
       ]
     },
     {
-      "id": "equinix-ai-data-centers",
+      "id": "intuit-ia-crecimiento-hold",
       "type": "empresa",
-      "title": "Equinix dice que la IA está disparando la demanda de centros de datos",
-      "summary": "Ejecutivos de Equinix señalaron que la inteligencia artificial está acelerando significativamente la demanda de capacidad en centros de datos de alta densidad y servicios de interconexión. La empresa proyecta un crecimiento anual de entre 9% y 12% en fondos operativos ajustados por acción hasta 2029.",
-      "detail": "Equinix es uno de los mayores operadores de centros de datos del mundo, y su negocio es relevante porque la IA requiere infraestructura física enorme para funcionar. Cuando una empresa de este tipo reporta crecimiento sostenido y da proyecciones positivas a varios años, es una señal del estado real de la inversión en tecnología a nivel global. Para alguien que aprende finanzas, esto muestra cómo una tendencia tecnológica (IA) se traduce en resultados concretos para empresas de infraestructura, un sector muchas veces ignorado.",
+      "title": "Intuit apuesta a la IA pero los analistas son cautelosos",
+      "summary": "Nykredit compró acciones de Intuit por 21,1 millones de dólares. La empresa de software financiero superó expectativas de ganancias con un EPS de 4,03 dólares e ingresos de 4,35 mil millones, y subió su dividendo trimestral a 1,38 dólares por acción, aunque la acción bajó un 3,2% y los analistas tienen en promedio una recomendación de 'mantener'.",
+      "detail": "Intuit es dueña de productos como QuickBooks y TurboTax, usados por millones de pymes y personas para gestionar sus finanzas. El hecho de que haya superado resultados pero la acción igualmente caiga ilustra un concepto clave: a veces el mercado ya tiene las buenas noticias 'descontadas' en el precio. La estrategia de IA como motor de crecimiento es un tema que atraviesa a muchas empresas tecnológicas hoy.",
       "tags": [
+        "software",
         "inteligencia artificial",
-        "centros de datos",
+        "dividendo"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-purchases-new-shares-in-intuit-inc-intu-2026-09-20/",
+      "published_at": "2026-09-20T07:44:45Z",
+      "tickers": [
+        "INTU"
+      ]
+    },
+    {
+      "id": "synopsys-revenue-42pct-yoy",
+      "type": "empresa",
+      "title": "Synopsys creció 42% en ingresos pero sus insiders venden acciones",
+      "summary": "Nykredit compró acciones de Synopsys por 23,2 millones de dólares. La empresa de software para diseño de semiconductores reportó un crecimiento del 42,4% en ingresos respecto al año anterior, aunque insiders vendieron cerca de 38 millones de dólares en acciones recientemente y el papel abrió a la baja.",
+      "detail": "Synopsys provee herramientas esenciales para diseñar los chips que usan empresas como Nvidia o Apple, por lo que su crecimiento está muy ligado al auge de los semiconductores e inteligencia artificial. La venta de acciones por parte de insiders no siempre indica problemas —puede ser por razones personales—, pero combinada con una apertura a la baja a pesar de buenos resultados, es una señal que los inversores atentos suelen monitorear para evaluar el sentimiento del mercado.",
+      "tags": [
+        "semiconductores",
+        "insiders",
         "tecnología"
       ],
       "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/event-equinix-sees-ai-driving-data-center-demand-interconnection-growth-2026-09-19/",
-      "published_at": "2026-09-19T20:06:36Z",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-51916-shares-in-synopsys-inc-snps-acquired-by-nykredit-a-s-2026-09-20/",
+      "published_at": "2026-09-20T08:09:55Z",
       "tickers": [
-        "EQIX",
-        "NVDA"
+        "SNPS"
       ]
     },
     {
-      "id": "keycorp-outlook-2026",
+      "id": "philip-morris-dividendo-institucional",
       "type": "empresa",
-      "title": "KeyCorp reafirma su perspectiva 2026 con crecimiento en préstamos y comisiones",
-      "summary": "KeyCorp reafirmó su outlook para 2026, esperando un crecimiento de préstamos comerciales en el extremo alto de su rango objetivo del 4-5% y un aumento de depósitos superior al 2% en el segundo semestre. El banco también elevó su proyección de crecimiento de ingresos por comisiones al 4-5% e indicó que espera subas de tasas de interés en el contexto económico actual.",
-      "detail": "El outlook de un banco regional como KeyCorp es una ventana al estado de la economía real: si los préstamos crecen, significa que empresas y personas están pidiendo financiamiento, lo que refleja confianza económica. La mención de que esperan subas de tasas es clave, ya que las tasas de interés afectan el costo del crédito en todo el mundo, incluyendo la deuda argentina. Aprender a leer los reportes de bancos ayuda a entender el ciclo económico y las condiciones de crédito globales.",
+      "title": "Philip Morris sube dividendo y atrae a fondos institucionales",
+      "summary": "Nykredit adquirió acciones de Philip Morris International por unos 22 millones de dólares. La tabacalera aumentó su dividendo trimestral a 1,60 dólares por acción y los analistas mantienen una recomendación de compra moderada con un precio objetivo promedio de 205,89 dólares.",
+      "detail": "Philip Morris es un ejemplo clásico de acción 'defensiva': una empresa de consumo básico que genera flujos de caja estables y paga dividendos consistentes, incluso en épocas de incertidumbre económica. Los inversores que buscan ingresos pasivos suelen mirar el rendimiento del dividendo (dividend yield) como indicador clave. Este tipo de acciones tiende a ser menos volátil que las tecnológicas, lo que las hace atractivas en contextos de tasas altas.",
       "tags": [
-        "banca",
-        "tasas de interés",
-        "crédito"
+        "dividendo",
+        "consumo defensivo",
+        "institucionales"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/keycorp-reaffirms-2026-outlook-loan-170204026.html",
-      "published_at": "2026-09-19T17:02:45Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-buys-new-shares-in-philip-morris-international-inc-pm-2026-09-20/",
+      "published_at": "2026-09-20T08:09:38Z",
       "tickers": [
-        "KEY"
-      ]
-    },
-    {
-      "id": "dollar-tree-buyback",
-      "type": "empresa",
-      "title": "Dollar Tree recibe apoyo de Bank of America y analistas suben su precio objetivo",
-      "summary": "Las acciones de Dollar Tree (DLTR) ganaron impulso después de que Bank of America revelara una posición de 109 millones de dólares en la empresa, y analistas de Raymond James y Goldman Sachs elevaron sus precios objetivo. La compañía reportó resultados del segundo trimestre que superaron las estimaciones y autorizó un programa de recompra de acciones por 2.500 millones de dólares.",
-      "detail": "Las recompras de acciones (buybacks) son una herramienta que usan las empresas para devolver valor a sus accionistas: compran sus propias acciones en el mercado, lo que reduce la cantidad circulante y puede subir el precio. Que Bank of America tome una posición importante en una empresa es una señal que el mercado interpreta como confianza institucional. Para alguien que aprende finanzas, este caso muestra cómo varios factores (resultados, compras institucionales, recomendaciones de analistas) se combinan para mover el precio de una acción.",
-      "tags": [
-        "acciones",
-        "recompra",
-        "retail"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dollar-tree-inc-stock-gains-support-as-bank-of-america-stakes-109/70132909",
-      "published_at": "2026-09-19T14:48:40Z",
-      "tickers": [
-        "DLTR",
-        "BAC"
-      ]
-    },
-    {
-      "id": "kroger-antitrust-giant-eagle",
-      "type": "empresa",
-      "title": "Kroger enfrenta mayor escrutinio antimonopolio por su plan de comprar Giant Eagle",
-      "summary": "Kroger está bajo mayor revisión antimonopolio en Columbus, Ohio, por su intención de adquirir la cadena de supermercados Giant Eagle debido a la superposición de locales en esa área. Los reguladores esperan exigir la venta de varias tiendas para aprobar la fusión, lo que complica la estrategia de expansión de Kroger.",
-      "detail": "Las leyes antimonopolio buscan evitar que una empresa acumule tanto poder de mercado que pueda perjudicar a consumidores o competidores. Cuando una fusión es bloqueada o condicionada por reguladores, puede obligar a la empresa a vender activos, cambiar su estrategia o incluso abandonar el acuerdo. Este caso es un buen ejemplo de cómo el entorno regulatorio afecta directamente las decisiones de inversión y la valuación de las acciones de una compañía.",
-      "tags": [
-        "fusiones",
-        "regulación",
-        "retail"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-draws-tougher-antitrust-151235803.html",
-      "published_at": "2026-09-19T15:24:01Z",
-      "tickers": [
-        "KR"
-      ]
-    },
-    {
-      "id": "paypal-probe-lawsuits",
-      "type": "empresa",
-      "title": "PayPal enfrenta una nueva investigación en medio de demandas de accionistas",
-      "summary": "La firma legal Kahn Swick & Foti abrió una investigación sobre los directivos de PayPal por posibles incumplimientos de deberes fiduciarios, sumándose a una demanda colectiva federal y varias demandas de accionistas. Las acciones legales surgen tras un reporte del cuarto trimestre de 2025 que decepcionó al mercado con resultados más débiles de lo esperado en su negocio de Branded Checkout.",
-      "detail": "Cuando una empresa enfrenta demandas de accionistas por declaraciones supuestamente engañosas, se pone en juego la confianza del mercado en su management. Los deberes fiduciarios son las obligaciones legales que tienen los directivos de actuar en el mejor interés de los accionistas; cuando se los acusa de violarlos, es una señal de alerta de gobernanza. Este tipo de situaciones suele generar volatilidad en el precio de la acción y puede derivar en cambios de liderazgo o compensaciones millonarias.",
-      "tags": [
-        "acciones",
-        "gobernanza",
-        "legal"
-      ],
-      "source_name": "STL.News",
-      "source_url": "https://www.stl.news/paypal-faces-new-probe-amid-shareholder-lawsuits/",
-      "published_at": "2026-09-19T13:11:37Z",
-      "tickers": [
-        "PYPL"
+        "PM"
       ]
     }
   ],
@@ -178,25 +160,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.550",
       "valor_num": 1550.0,
-      "delta_pct": -0.32
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.540",
       "valor_num": 1540.1,
-      "delta_pct": 0.35
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
       "valor": "$1.598",
       "valor_num": 1598.1,
-      "delta_pct": 0.29
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.096",
-      "valor_num": 81096.0,
-      "delta_pct": -0.17
+      "valor": "US$ 80.448",
+      "valor_num": 80448.0,
+      "delta_pct": -1.02
     },
     {
       "label": "S&P 500",
@@ -208,7 +190,7 @@
       "label": "ORO (ONZA)",
       "valor": "US$ 4.425",
       "valor_num": 4424.9,
-      "delta_pct": 1.68
+      "delta_pct": 2.13
     }
   ]
 }
