@@ -1,190 +1,180 @@
 {
-  "generated_at": "2026-09-20T22:01:17.934105+00:00",
+  "generated_at": "2026-09-21T12:01:24.313954+00:00",
   "items": [
     {
-      "id": "morgan-stanley-marathon-petroleum",
+      "id": "morgan-stanley-sp500-drop",
       "type": "mercado",
-      "title": "Morgan Stanley ve a Marathon Petroleum rompiendo nuevos máximos",
-      "summary": "Morgan Stanley subió su precio objetivo para Marathon Petroleum (MPC) de $265 a $453 y reiteró su recomendación de compra, impulsado por expectativas de márgenes de refinación globales elevados debido a tensiones geopolíticas. Los analistas creen que el rally de la acción tiene más recorrido, apoyado también por la estrategia de retorno al accionista y su participación en MPLX.",
-      "detail": "Cuando un banco de inversión como Morgan Stanley sube drásticamente su precio objetivo, está señalando que espera que los fundamentos de la empresa mejoren significativamente. En este caso, los márgenes de refinación (la diferencia entre el costo del crudo y el precio de venta de los combustibles) estarían siendo impulsados por tensiones geopolíticas que restringen la oferta global. Este tipo de análisis muestra cómo eventos políticos internacionales se traducen directamente en oportunidades o riesgos para sectores específicos de la bolsa.",
+      "title": "Morgan Stanley advierte una posible caída del 7% en las acciones estadounidenses",
+      "summary": "Estrategas de Morgan Stanley, liderados por Michael Wilson, alertan que el S&P 500 podría caer hasta un 7% en el corto plazo, llegando a los 7.100 puntos, por el aumento en los precios de energía y la volatilidad en el mercado de bonos. Sin embargo, siguen esperando una recuperación hacia fin de año hasta los 8.000 puntos, impulsada por resultados corporativos sólidos.",
+      "detail": "Este tipo de advertencias de bancos de inversión importantes como Morgan Stanley mueven el mercado porque los grandes fondos toman decisiones basadas en estas perspectivas. La relación entre el precio de la energía y las acciones es clave: cuando la energía sube, aumenta la inflación, lo que presiona a los bancos centrales a mantener tasas altas, encareciendo el crédito y reduciendo el valor presente de las ganancias futuras de las empresas. Entender cómo los bonos, la energía y las acciones se interconectan es fundamental para leer el humor del mercado global.",
+      "tags": [
+        "S&P 500",
+        "bonos",
+        "riesgo"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-wilson-says-us-082353803.html",
+      "published_at": "2026-09-21T08:24:45Z",
+      "tickers": [
+        "MS",
+        "JPM",
+        "GS",
+        "BAC"
+      ]
+    },
+    {
+      "id": "chevron-exxon-lng",
+      "type": "empresa",
+      "title": "Chevron y ExxonMobil apuestan fuerte al gas natural licuado (GNL)",
+      "summary": "En la conferencia Gastech en Bangkok, Chevron anunció que apunta a 20 millones de toneladas métricas de capacidad de GNL en cuatro continentes, mientras que ExxonMobil elevó su proyección de ventas de GNL para 2030 a 50 millones de toneladas por año. Ambas gigantes del petróleo ven en las disrupciones geopolíticas actuales una razón para invertir más, no menos, en esta fuente de energía.",
+      "detail": "El GNL es gas natural enfriado hasta estado líquido para poder transportarlo en barcos, y se convirtió en un activo estratégico clave desde que la guerra en Ucrania alteró los flujos de energía globales. Cuando dos de las mayores empresas energéticas del mundo hacen anuncios similares el mismo día, es una señal de que el sector considera que la demanda de largo plazo es sólida. Para un inversor, esto implica que los activos vinculados a energía pueden mantener su valor incluso en escenarios de tensión geopolítica prolongada.",
       "tags": [
         "energía",
-        "análisis bursátil",
-        "geopolítica"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-marathon-petroleum-154726182.html",
-      "published_at": "2026-09-20T16:13:05Z",
-      "tickers": [
-        "MPC",
-        "MS",
-        "VLO"
-      ]
-    },
-    {
-      "id": "delta-non-cabin-revenue",
-      "type": "empresa",
-      "title": "Delta Air Lines llega al 61% de ingresos fuera de la cabina económica en 2026",
-      "summary": "Delta Air Lines logró que el 61% de sus ingresos en 2026 provengan de fuera de la cabina principal, gracias al crecimiento en cabinas premium, programas de fidelidad y tarjetas de crédito co-branded. Esta diversificación apunta a reducir la exposición a la volatilidad típica de los pasajes económicos y hacer las ganancias más previsibles.",
-      "detail": "Las aerolíneas son negocios muy cíclicos: cuando la economía cae, la gente deja de volar en clase económica. Sin embargo, los pasajeros premium y los programas de millas tienden a ser más estables. Al diversificar sus fuentes de ingreso, Delta busca que sus resultados financieros sean menos volátiles, lo que generalmente hace a una empresa más atractiva para los inversores. Este es un ejemplo claro de cómo una empresa puede mejorar la 'calidad' de sus ganancias sin necesariamente crecer en volumen.",
-      "tags": [
-        "aerolíneas",
-        "diversificación",
-        "ganancias"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/deltas-non-main-cabin-revenue-145000624.html",
-      "published_at": "2026-09-20T14:50:53Z",
-      "tickers": [
-        "DAL"
-      ]
-    },
-    {
-      "id": "axon-convertible-notes",
-      "type": "empresa",
-      "title": "Axon Enterprise emite $1.000 millones en bonos convertibles sin interés",
-      "summary": "Axon Enterprise colocó $1.000 millones en bonos convertibles con tasa 0% con vencimiento en 2031, esperando retener unos $886 millones tras costos y coberturas. Esta estrategia le permite obtener financiamiento sin pagar intereses periódicos, preservando caja para inversiones o adquisiciones.",
-      "detail": "Un bono convertible con cupón cero significa que la empresa no paga intereses regulares, pero el inversor puede convertir el bono en acciones en el futuro. El 'costo real' para la empresa no es cero: está en la posible dilución futura de los accionistas si los bonos se convierten en acciones. Esta herramienta es muy usada por empresas de crecimiento que prefieren preservar liquidez hoy y apostar a que su acción valdrá más en el futuro. Entender estos instrumentos es clave para analizar cómo las empresas se financian.",
-      "tags": [
-        "bonos convertibles",
-        "financiamiento",
-        "liquidez"
+        "GNL",
+        "commodities"
       ],
       "source_name": "Insider Monkey",
-      "source_url": "https://www.insidermonkey.com/news/axon-enterprise-axon-prices-1b-of-zero-coupon-notes-what-is-the-real-cost-1838897/",
-      "published_at": "2026-09-20T19:47:40Z",
+      "source_url": "https://www.insidermonkey.com/news/same-conference-same-day-same-bet-chevron-and-exxonmobil-double-down-on-lng-1840047/",
+      "published_at": "2026-09-21T10:10:14Z",
       "tickers": [
-        "AXON"
+        "CVX",
+        "XOM"
       ]
     },
     {
-      "id": "jpmorgan-dividendo",
-      "type": "empresa",
-      "title": "JPMorgan Chase sube su dividendo trimestral a $1,65 por acción",
-      "summary": "JPMorgan Chase sostiene su cotización cerca de $349,67 respaldado por un aumento de su dividendo trimestral a $1,65 por acción, lo que implica un pago anualizado de $6,60. Sin embargo, el banco reportó flujo de caja libre negativo de $147.780 millones en FY2025, un dato que los inversores deben tener en cuenta.",
-      "detail": "El dividendo es una señal de confianza de la dirección en la solidez financiera de la empresa, pero no es el único indicador a mirar. El flujo de caja libre negativo puede indicar que el banco está invirtiendo mucho o que sus operaciones consumen más efectivo del que generan, lo cual es relevante para evaluar la sostenibilidad del dividendo a largo plazo. Para quien aprende finanzas, este caso ilustra que un dividendo creciente y un flujo de caja negativo pueden coexistir, y que hay que analizar ambos juntos.",
-      "tags": [
-        "dividendos",
-        "bancos",
-        "flujo de caja"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/jpmorgan-chase-stock-holds-firm-as-dividend-increase-supports-income-story/70137397",
-      "published_at": "2026-09-20T12:18:56Z",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "id": "coca-cola-inversion-infraestructura",
-      "type": "empresa",
-      "title": "Coca-Cola invierte $10.000 millones en infraestructura en EE.UU. hasta 2030",
-      "summary": "Coca-Cola anunció una inversión de $10.000 millones en infraestructura en Estados Unidos hasta 2030, que incluye plantas de manufactura, distribución y oficinas en varios estados. El proyecto genera demanda de servicios públicos e infraestructura regional, mostrando cómo una empresa privada puede impulsar la actividad económica local.",
-      "detail": "Cuando una empresa grande anuncia un plan de inversión de esta magnitud, el impacto no se limita a ella: genera demanda de materiales de construcción, energía, logística y empleo en toda la cadena. Esto se llama efecto multiplicador. Para un inversor, este tipo de anuncios puede ser una señal de confianza en el crecimiento futuro del negocio y también una oportunidad para identificar otras empresas que se benefician indirectamente, como proveedores de insumos o servicios.",
-      "tags": [
-        "inversión",
-        "manufactura",
-        "economía real"
-      ],
-      "source_name": "CRE Daily",
-      "source_url": "https://www.credaily.com/briefs/coca-colas-10b-buildout-fuels-industrial-demand/",
-      "published_at": "2026-09-20T12:19:21Z",
-      "tickers": [
-        "KO"
-      ]
-    },
-    {
-      "id": "goldman-sachs-real-estate",
-      "type": "empresa",
-      "title": "Goldman Sachs compra un edificio de apartamentos de lujo en Washington D.C. por $147 millones",
-      "summary": "Una filial de Goldman Sachs adquirió un edificio de 269 apartamentos en Washington D.C. por $147 millones, financiando $70 millones con un préstamo del Fondo de Pensiones de Maestros del Estado de Nueva York. El inmueble fue vendido por una filial de Mid-America Apartment Communities, que enfrenta una demanda por cargos ilegales.",
-      "detail": "Este movimiento muestra cómo los grandes bancos de inversión participan activamente en el mercado inmobiliario como activo alternativo. Usar deuda (el préstamo de $70 millones) para financiar parte de la compra es una estrategia llamada apalancamiento, que amplifica tanto las ganancias como los riesgos potenciales. También es interesante ver cómo fondos de pensiones participan como prestamistas en operaciones inmobiliarias, diversificando sus carteras más allá de las acciones y bonos tradicionales.",
-      "tags": [
-        "real estate",
-        "apalancamiento",
-        "inversión alternativa"
-      ],
-      "source_name": "Yield PRO",
-      "source_url": "https://yieldpro.com/2026/09/1499-massachusetts-ave-nw/",
-      "published_at": "2026-09-20T15:30:47Z",
-      "tickers": [
-        "GS",
-        "MAA"
-      ]
-    },
-    {
-      "id": "nu-holdings-sofi-bancos-digitales",
-      "type": "empresa",
-      "title": "Analistas predicen que los bancos digitales como Nu Holdings y SoFi superarán a JPMorgan en los próximos dos años",
-      "summary": "Un análisis sugiere que bancos digitales como SoFi Technologies y Nu Holdings podrían crecer mucho más rápido que JPMorgan Chase en los próximos dos años. Nu Holdings expande su presencia en América Latina y planea ingresar al mercado estadounidense, mientras SoFi amplía su app y productos financieros.",
-      "detail": "Los bancos digitales tienen estructuras de costos más bajas que los tradicionales porque no necesitan sucursales físicas, lo que les permite ofrecer mejores tasas y crecer más rápido. Nu Holdings es especialmente relevante para los argentinos ya que opera en Brasil, México y Colombia, mercados con características similares a los de Argentina. Este caso ilustra cómo la tecnología está transformando el sector financiero y creando nuevos competidores para los bancos establecidos.",
-      "tags": [
-        "fintech",
-        "banca digital",
-        "América Latina"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/prediction-best-performing-big-bank-155000750.html",
-      "published_at": "2026-09-20T15:49:18Z",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "id": "synchrony-gasto-consumidor",
-      "type": "economia",
-      "title": "Synchrony Financial reporta gasto resiliente y confirma perspectivas de crecimiento",
-      "summary": "Synchrony Financial, una empresa de crédito al consumo, reportó un crecimiento de compras en dígitos altos en el tercer trimestre, liderado por clientes de mejor calidad crediticia. La compañía reafirmó sus expectativas de crecimiento de cartera para fin de año y anticipa mejor apalancamiento operativo desde 2027.",
-      "detail": "El gasto con tarjeta de crédito es uno de los termómetros más usados para medir la salud del consumidor estadounidense. Que el crecimiento esté liderado por clientes 'super-prime' y 'prime' (los de mejor historial crediticio) indica que el consumo es más selectivo, lo que puede anticipar cierta cautela en los segmentos de menor ingreso. Para quienes aprenden finanzas, este tipo de dato macro sectorial ayuda a entender cómo la política monetaria y el nivel de empleo se reflejan en el comportamiento del crédito.",
-      "tags": [
-        "crédito al consumo",
-        "gasto",
-        "macro"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/synchrony-financial-sees-resilient-spending-180219397.html",
-      "published_at": "2026-09-20T18:02:35Z",
-      "tickers": [
-        "SYF",
-        "WMT",
-        "LOW"
-      ]
-    },
-    {
-      "id": "newmont-oro-balance",
+      "id": "nvidia-compras-institucionales",
       "type": "mercado",
-      "title": "Newmont, la mayor minera de oro, sube 23,6% en el año pero cae levemente en la última sesión",
-      "summary": "Las acciones de Newmont Corp (NEM) cayeron un 0,87% el 18 de septiembre de 2026, aunque acumulan una suba del 23,6% en lo que va del año. La empresa mejoró su balance: redujo su ratio deuda/activos al 8,8% y aumentó su nivel de caja.",
-      "detail": "Newmont es la mayor minera de oro del mundo y sus acciones suelen usarse como referencia para seguir la tendencia del precio del metal. Cuando el oro sube, Newmont generalmente se beneficia, pero la valuación de la acción también depende de sus costos de producción y su nivel de deuda. La mejora en el balance (menos deuda, más caja) reduce el riesgo financiero de la empresa, lo que la hace más atractiva para los inversores en contextos de incertidumbre global.",
+      "title": "Inversores institucionales siguen acumulando acciones de NVIDIA",
+      "summary": "SWS Partners aumentó su participación en NVIDIA un 13,7% durante el segundo trimestre, llevando su tenencia a 83.644 acciones valuadas en 16,7 millones de dólares. La empresa reportó ganancias trimestrales ajustadas de 2,22 dólares por acción con ingresos de 96,22 mil millones de dólares, y los analistas de Wall Street mantienen una recomendación de compra con un precio objetivo promedio de 324,34 dólares.",
+      "detail": "NVIDIA es considerada hoy una empresa central en la ola de inteligencia artificial, ya que fabrica los chips más usados para entrenar modelos de IA. Que los inversores institucionales sigan comprando sus acciones muestra confianza en que esa demanda continuará. Para alguien aprendiendo finanzas, es un buen ejemplo de cómo una tendencia tecnológica (la IA) se traduce en valuaciones muy altas para empresas específicas del sector semiconductores.",
+      "tags": [
+        "semiconductores",
+        "inteligencia artificial",
+        "institucionales"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-acquired-by-sws-partners-2026-09-21/",
+      "published_at": "2026-09-21T08:13:36Z",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "INTC",
+        "AVGO"
+      ]
+    },
+    {
+      "id": "broadcom-vs-peers",
+      "type": "mercado",
+      "title": "Broadcom destaca en rentabilidad pero con señales de sobrevaluación frente a sus competidores",
+      "summary": "Un análisis comparativo de Broadcom (AVGO) con sus pares del sector de semiconductores muestra que la empresa tiene métricas de rentabilidad y crecimiento muy fuertes (ROE, EBITDA, crecimiento de ingresos), pero sus ratios de valuación como el P/E y el P/S sugieren que podría estar cara en relación al sector. También se destaca su favorable relación deuda-capital.",
+      "detail": "Los ratios de valuación como el P/E (precio sobre ganancias) sirven para comparar si una acción está cara o barata respecto a lo que genera. Cuando una empresa tiene buenos fundamentos pero un P/E muy alto, el mercado ya está \"descontando\" un futuro muy optimista, lo que deja poco margen si los resultados decepcionan. Este tipo de análisis comparativo entre pares es una herramienta clave para tomar decisiones de inversión más informadas.",
+      "tags": [
+        "semiconductores",
+        "valuación",
+        "análisis"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/news/26/09/61888986/insights-broadcom-s-performance-versus-peers-semiconductors-amp-semiconductor-equipment-sector",
+      "published_at": "2026-09-21T09:58:52Z",
+      "tickers": [
+        "AVGO",
+        "NVDA",
+        "MU",
+        "AMD",
+        "TXN"
+      ]
+    },
+    {
+      "id": "salesforce-precios-ia",
+      "type": "empresa",
+      "title": "Salesforce busca cobrar por resultados de IA, pero todavía no sabe cómo",
+      "summary": "Salesforce está explorando nuevos modelos de precios para sus productos de inteligencia artificial, alejándose del tradicional cobro por usuario hacia esquemas basados en consumo o en resultados concretos obtenidos por los agentes de IA. Los analistas esperan que el modelo de cobro por resultados se vuelva más común hacia 2030, pero medir esos resultados sigue siendo el gran desafío.",
+      "detail": "El modelo de negocio de una empresa de software afecta directamente su capacidad de generar ingresos predecibles y crecer. Pasar de cobrar por licencia (ingreso fijo) a cobrar por resultado (ingreso variable) implica mayor riesgo pero también mayor potencial si la IA demuestra valor real. Este debate es clave para entender cómo la irrupción de la IA está redefiniendo las reglas de negocio en el sector tecnológico.",
+      "tags": [
+        "inteligencia artificial",
+        "software",
+        "modelos de negocio"
+      ],
+      "source_name": "The Register",
+      "source_url": "https://www.theregister.com/software/2026/09/21/salesforce-wants-to-charge-for-ai-outcomes-but-first-it-needs-to-figure-out-how/5297402",
+      "published_at": "2026-09-21T10:07:00Z",
+      "tickers": [
+        "CRM"
+      ]
+    },
+    {
+      "id": "jpmorgan-resultados",
+      "type": "empresa",
+      "title": "JPMorgan Chase reportó ganancias sólidas con ingresos que crecieron casi 28% interanual",
+      "summary": "JPMorgan Chase registró ganancias por acción de 6,14 dólares y sus ingresos crecieron un 27,7% respecto al año anterior, alcanzando los 58,02 mil millones de dólares. El banco también aumentó su dividendo trimestral a 1,65 dólares por acción, y los analistas mantienen una recomendación de compra moderada con un precio objetivo promedio de 359,96 dólares.",
+      "detail": "JPMorgan es el banco más grande de Estados Unidos y sus resultados son vistos como un termómetro de la salud del sistema financiero americano. Un crecimiento de ingresos del 28% en un contexto de tasas altas refleja que la banca se beneficia de márgenes de interés más amplios. Para un inversor, los dividendos crecientes son una señal positiva de solidez financiera y compromiso con el accionista.",
+      "tags": [
+        "banca",
+        "dividendos",
+        "ganancias"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-sells-40705-shares-of-jpmorgan-chase-co-jpm-2026-09-21/",
+      "published_at": "2026-09-21T08:14:40Z",
+      "tickers": [
+        "JPM",
+        "BAC",
+        "MS"
+      ]
+    },
+    {
+      "id": "hut8-digital-realty-cobertura",
+      "type": "empresa",
+      "title": "Rothschild Redburn inicia cobertura en activos de IA y cripto con visiones opuestas",
+      "summary": "La firma Rothschild Redburn inició cobertura de Digital Realty Trust (centros de datos) con recomendación de compra y un precio objetivo de 227 dólares, sugiriendo un alza potencial del 25%. En cambio, para Hut 8 Mining —una minera de Bitcoin que migra hacia infraestructura de IA— inició con calificación neutral y precio objetivo de 96 dólares, señalando que la acción ya cotiza por encima de ese valor.",
+      "detail": "Que un banco de inversión inicie cobertura de una empresa es un evento importante porque pone esa acción en el radar de más inversores institucionales. Digital Realty es relevante porque los centros de datos son la infraestructura física detrás de la IA, un sector con demanda creciente. Hut 8 representa la evolución del negocio cripto hacia servicios de computación de alto rendimiento, lo que muestra cómo la industria blockchain está buscando nuevos modelos para justificar su valor.",
+      "tags": [
+        "datos",
+        "cripto",
+        "cobertura analistas"
+      ],
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/analyst-ratings/rothschild-redburn-initiates-hut-8-stock-with-neutral-rating-93CH-4908378",
+      "published_at": "2026-09-21T08:08:24Z",
+      "tickers": [
+        "DLR",
+        "HUT"
+      ]
+    },
+    {
+      "id": "mombak-carbono-salesforce",
+      "type": "empresa",
+      "title": "Startup brasileña de carbono suma a Salesforce como comprador de créditos y capta nuevo fondo",
+      "summary": "La empresa brasileña Mombak cerró la primera parte de su segundo fondo de reforestación, con el objetivo de recaudar 150 millones de dólares para restaurar el Amazonas. También firmó un acuerdo con Salesforce para la compra de créditos de carbono, sumándose a otras grandes tecnológicas que ya participan en este mercado.",
+      "detail": "El mercado de créditos de carbono permite a empresas compensar sus emisiones pagando por proyectos que absorben CO2, como la reforestación. Que empresas como Salesforce participen activamente en este mercado muestra que la sostenibilidad ya no es solo imagen corporativa, sino una parte real de la estrategia financiera de las grandes compañías. Para quien aprende finanzas, este es un ejemplo de cómo los activos ambientales se están convirtiendo en una nueva clase de inversión.",
+      "tags": [
+        "carbono",
+        "sustentabilidad",
+        "Brasil"
+      ],
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/sustainability/climate-energy/brazils-mombak-raises-new-fund-adds-salesforce-carbon-credit-buyer-2026-09-21/",
+      "published_at": "2026-09-21T08:04:00Z",
+      "tickers": [
+        "CRM"
+      ]
+    },
+    {
+      "id": "kinross-gold-resultados",
+      "type": "mercado",
+      "title": "Kinross Gold reportó ganancias que superaron expectativas con ingresos 29,5% más altos",
+      "summary": "Kinross Gold registró ganancias trimestrales de 0,71 dólares por acción, superando las estimaciones de los analistas, con ingresos que crecieron un 29,5% interanual hasta alcanzar los 2,22 mil millones de dólares. Además, la firma danesa Nykredit realizó una nueva inversión de 10,71 millones de dólares en la compañía.",
+      "detail": "Las empresas mineras de oro suelen tener buen desempeño cuando los inversores buscan refugio ante incertidumbre económica o inflación, ya que el precio del oro tiende a subir en esos contextos. Un crecimiento de ingresos del 29,5% en una minera generalmente refleja una combinación de mayor producción y precios del metal más altos. Para alguien que aprende finanzas, el oro y las acciones mineras son una clase de activo importante para entender cómo diversificar una cartera.",
       "tags": [
         "oro",
         "minería",
-        "balance"
+        "commodities"
       ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/newmont-corp-stock-edges-lower-as-investors-weigh-valuation-and-recent/70137398",
-      "published_at": "2026-09-20T12:39:39Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-makes-new-1071-million-investment-in-kinross-gold-corporation-kgc-2026-09-21/",
+      "published_at": "2026-09-21T07:58:42Z",
       "tickers": [
-        "NEM"
-      ]
-    },
-    {
-      "id": "morgan-stanley-compras-recomendadas",
-      "type": "mercado",
-      "title": "Morgan Stanley recomienda comprar acciones como Warner Music ante cualquier baja",
-      "summary": "Analistas de Morgan Stanley identificaron varias acciones atractivas, entre ellas Warner Music Group, Darden Restaurants, SiTime y EchoStar, recomendando aprovechar cualquier caída para comprar. El banco destacó la biblioteca musical subvaluada de Warner Music y el portafolio de marcas de Darden, entre otros argumentos.",
-      "detail": "Cuando un banco de inversión de primer nivel como Morgan Stanley emite recomendaciones de compra 'en cualquier baja', está señalando una convicción fuerte en el valor de largo plazo de esas acciones. Este tipo de recomendaciones son seguidas de cerca por inversores institucionales y pueden influir en el precio de las acciones. Para quien aprende a invertir, es importante entender que estas opiniones son análisis, no certezas, y que conviene entender el razonamiento detrás antes de tomar decisiones.",
-      "tags": [
-        "recomendaciones",
-        "análisis bursátil",
-        "bancos de inversión"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/20/buy-stocks-such-as-warner-music-morgan-stanley-says-.html",
-      "published_at": "2026-09-20T12:15:36Z",
-      "tickers": [
-        "MS",
-        "DRI"
+        "KGC"
       ]
     }
   ],
@@ -215,9 +205,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 80.888",
-      "valor_num": 80888.0,
-      "delta_pct": -0.26
+      "valor": "US$ 84.753",
+      "valor_num": 84753.0,
+      "delta_pct": 5.36
     },
     {
       "label": "S&P 500",
@@ -227,9 +217,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.425",
-      "valor_num": 4424.9,
-      "delta_pct": 2.13
+      "valor": "US$ 4.404",
+      "valor_num": 4404.0,
+      "delta_pct": 0.38
     }
   ]
 }
