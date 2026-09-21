@@ -1,180 +1,192 @@
 {
-  "generated_at": "2026-09-21T12:01:24.313954+00:00",
+  "generated_at": "2026-09-21T22:01:22.854274+00:00",
   "items": [
     {
-      "id": "morgan-stanley-sp500-drop",
-      "type": "mercado",
-      "title": "Morgan Stanley advierte una posible caída del 7% en las acciones estadounidenses",
-      "summary": "Estrategas de Morgan Stanley, liderados por Michael Wilson, alertan que el S&P 500 podría caer hasta un 7% en el corto plazo, llegando a los 7.100 puntos, por el aumento en los precios de energía y la volatilidad en el mercado de bonos. Sin embargo, siguen esperando una recuperación hacia fin de año hasta los 8.000 puntos, impulsada por resultados corporativos sólidos.",
-      "detail": "Este tipo de advertencias de bancos de inversión importantes como Morgan Stanley mueven el mercado porque los grandes fondos toman decisiones basadas en estas perspectivas. La relación entre el precio de la energía y las acciones es clave: cuando la energía sube, aumenta la inflación, lo que presiona a los bancos centrales a mantener tasas altas, encareciendo el crédito y reduciendo el valor presente de las ganancias futuras de las empresas. Entender cómo los bonos, la energía y las acciones se interconectan es fundamental para leer el humor del mercado global.",
+      "id": "trump-xi-summit-morgan-stanley",
+      "type": "reunion",
+      "title": "Expectativas bajas para la cumbre Trump-Xi, según Morgan Stanley",
+      "summary": "Ariana Salvatore, directora de política pública de Morgan Stanley, advierte que no hay que esperar grandes resultados del encuentro entre Trump y Xi Jinping. Su análisis apunta a un clima de cautela respecto de lo que puede salir de esa reunión.",
+      "detail": "Las cumbres entre potencias como EE.UU. y China mueven mercados porque sus acuerdos (o desacuerdos) afectan el comercio global, los aranceles y la confianza inversora. Cuando analistas de grandes bancos bajan las expectativas, están alertando que el mercado no debería descontar un acuerdo positivo. Esto es útil para entender cómo el 'ruido político' puede generar volatilidad sin necesariamente cambiar los fundamentos económicos.",
       "tags": [
-        "S&P 500",
-        "bonos",
-        "riesgo"
+        "geopolítica",
+        "comercio",
+        "EE.UU.-China"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-wilson-says-us-082353803.html",
-      "published_at": "2026-09-21T08:24:45Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/video/2026/09/21/bar-is-pretty-low-for-trump-xi-summit-says-morgan-stanleys-ariana-salvatore.html",
+      "published_at": "2026-09-21T21:00:35Z",
       "tickers": [
-        "MS",
-        "JPM",
-        "GS",
-        "BAC"
-      ]
-    },
-    {
-      "id": "chevron-exxon-lng",
-      "type": "empresa",
-      "title": "Chevron y ExxonMobil apuestan fuerte al gas natural licuado (GNL)",
-      "summary": "En la conferencia Gastech en Bangkok, Chevron anunció que apunta a 20 millones de toneladas métricas de capacidad de GNL en cuatro continentes, mientras que ExxonMobil elevó su proyección de ventas de GNL para 2030 a 50 millones de toneladas por año. Ambas gigantes del petróleo ven en las disrupciones geopolíticas actuales una razón para invertir más, no menos, en esta fuente de energía.",
-      "detail": "El GNL es gas natural enfriado hasta estado líquido para poder transportarlo en barcos, y se convirtió en un activo estratégico clave desde que la guerra en Ucrania alteró los flujos de energía globales. Cuando dos de las mayores empresas energéticas del mundo hacen anuncios similares el mismo día, es una señal de que el sector considera que la demanda de largo plazo es sólida. Para un inversor, esto implica que los activos vinculados a energía pueden mantener su valor incluso en escenarios de tensión geopolítica prolongada.",
-      "tags": [
-        "energía",
-        "GNL",
-        "commodities"
-      ],
-      "source_name": "Insider Monkey",
-      "source_url": "https://www.insidermonkey.com/news/same-conference-same-day-same-bet-chevron-and-exxonmobil-double-down-on-lng-1840047/",
-      "published_at": "2026-09-21T10:10:14Z",
-      "tickers": [
-        "CVX",
-        "XOM"
-      ]
-    },
-    {
-      "id": "nvidia-compras-institucionales",
-      "type": "mercado",
-      "title": "Inversores institucionales siguen acumulando acciones de NVIDIA",
-      "summary": "SWS Partners aumentó su participación en NVIDIA un 13,7% durante el segundo trimestre, llevando su tenencia a 83.644 acciones valuadas en 16,7 millones de dólares. La empresa reportó ganancias trimestrales ajustadas de 2,22 dólares por acción con ingresos de 96,22 mil millones de dólares, y los analistas de Wall Street mantienen una recomendación de compra con un precio objetivo promedio de 324,34 dólares.",
-      "detail": "NVIDIA es considerada hoy una empresa central en la ola de inteligencia artificial, ya que fabrica los chips más usados para entrenar modelos de IA. Que los inversores institucionales sigan comprando sus acciones muestra confianza en que esa demanda continuará. Para alguien aprendiendo finanzas, es un buen ejemplo de cómo una tendencia tecnológica (la IA) se traduce en valuaciones muy altas para empresas específicas del sector semiconductores.",
-      "tags": [
-        "semiconductores",
-        "inteligencia artificial",
-        "institucionales"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-acquired-by-sws-partners-2026-09-21/",
-      "published_at": "2026-09-21T08:13:36Z",
-      "tickers": [
-        "NVDA",
-        "AMD",
-        "INTC",
-        "AVGO"
-      ]
-    },
-    {
-      "id": "broadcom-vs-peers",
-      "type": "mercado",
-      "title": "Broadcom destaca en rentabilidad pero con señales de sobrevaluación frente a sus competidores",
-      "summary": "Un análisis comparativo de Broadcom (AVGO) con sus pares del sector de semiconductores muestra que la empresa tiene métricas de rentabilidad y crecimiento muy fuertes (ROE, EBITDA, crecimiento de ingresos), pero sus ratios de valuación como el P/E y el P/S sugieren que podría estar cara en relación al sector. También se destaca su favorable relación deuda-capital.",
-      "detail": "Los ratios de valuación como el P/E (precio sobre ganancias) sirven para comparar si una acción está cara o barata respecto a lo que genera. Cuando una empresa tiene buenos fundamentos pero un P/E muy alto, el mercado ya está \"descontando\" un futuro muy optimista, lo que deja poco margen si los resultados decepcionan. Este tipo de análisis comparativo entre pares es una herramienta clave para tomar decisiones de inversión más informadas.",
-      "tags": [
-        "semiconductores",
-        "valuación",
-        "análisis"
-      ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/news/26/09/61888986/insights-broadcom-s-performance-versus-peers-semiconductors-amp-semiconductor-equipment-sector",
-      "published_at": "2026-09-21T09:58:52Z",
-      "tickers": [
-        "AVGO",
-        "NVDA",
-        "MU",
-        "AMD",
-        "TXN"
-      ]
-    },
-    {
-      "id": "salesforce-precios-ia",
-      "type": "empresa",
-      "title": "Salesforce busca cobrar por resultados de IA, pero todavía no sabe cómo",
-      "summary": "Salesforce está explorando nuevos modelos de precios para sus productos de inteligencia artificial, alejándose del tradicional cobro por usuario hacia esquemas basados en consumo o en resultados concretos obtenidos por los agentes de IA. Los analistas esperan que el modelo de cobro por resultados se vuelva más común hacia 2030, pero medir esos resultados sigue siendo el gran desafío.",
-      "detail": "El modelo de negocio de una empresa de software afecta directamente su capacidad de generar ingresos predecibles y crecer. Pasar de cobrar por licencia (ingreso fijo) a cobrar por resultado (ingreso variable) implica mayor riesgo pero también mayor potencial si la IA demuestra valor real. Este debate es clave para entender cómo la irrupción de la IA está redefiniendo las reglas de negocio en el sector tecnológico.",
-      "tags": [
-        "inteligencia artificial",
-        "software",
-        "modelos de negocio"
-      ],
-      "source_name": "The Register",
-      "source_url": "https://www.theregister.com/software/2026/09/21/salesforce-wants-to-charge-for-ai-outcomes-but-first-it-needs-to-figure-out-how/5297402",
-      "published_at": "2026-09-21T10:07:00Z",
-      "tickers": [
-        "CRM"
-      ]
-    },
-    {
-      "id": "jpmorgan-resultados",
-      "type": "empresa",
-      "title": "JPMorgan Chase reportó ganancias sólidas con ingresos que crecieron casi 28% interanual",
-      "summary": "JPMorgan Chase registró ganancias por acción de 6,14 dólares y sus ingresos crecieron un 27,7% respecto al año anterior, alcanzando los 58,02 mil millones de dólares. El banco también aumentó su dividendo trimestral a 1,65 dólares por acción, y los analistas mantienen una recomendación de compra moderada con un precio objetivo promedio de 359,96 dólares.",
-      "detail": "JPMorgan es el banco más grande de Estados Unidos y sus resultados son vistos como un termómetro de la salud del sistema financiero americano. Un crecimiento de ingresos del 28% en un contexto de tasas altas refleja que la banca se beneficia de márgenes de interés más amplios. Para un inversor, los dividendos crecientes son una señal positiva de solidez financiera y compromiso con el accionista.",
-      "tags": [
-        "banca",
-        "dividendos",
-        "ganancias"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-sells-40705-shares-of-jpmorgan-chase-co-jpm-2026-09-21/",
-      "published_at": "2026-09-21T08:14:40Z",
-      "tickers": [
-        "JPM",
-        "BAC",
         "MS"
       ]
     },
     {
-      "id": "hut8-digital-realty-cobertura",
-      "type": "empresa",
-      "title": "Rothschild Redburn inicia cobertura en activos de IA y cripto con visiones opuestas",
-      "summary": "La firma Rothschild Redburn inició cobertura de Digital Realty Trust (centros de datos) con recomendación de compra y un precio objetivo de 227 dólares, sugiriendo un alza potencial del 25%. En cambio, para Hut 8 Mining —una minera de Bitcoin que migra hacia infraestructura de IA— inició con calificación neutral y precio objetivo de 96 dólares, señalando que la acción ya cotiza por encima de ese valor.",
-      "detail": "Que un banco de inversión inicie cobertura de una empresa es un evento importante porque pone esa acción en el radar de más inversores institucionales. Digital Realty es relevante porque los centros de datos son la infraestructura física detrás de la IA, un sector con demanda creciente. Hut 8 representa la evolución del negocio cripto hacia servicios de computación de alto rendimiento, lo que muestra cómo la industria blockchain está buscando nuevos modelos para justificar su valor.",
-      "tags": [
-        "datos",
-        "cripto",
-        "cobertura analistas"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/analyst-ratings/rothschild-redburn-initiates-hut-8-stock-with-neutral-rating-93CH-4908378",
-      "published_at": "2026-09-21T08:08:24Z",
-      "tickers": [
-        "DLR",
-        "HUT"
-      ]
-    },
-    {
-      "id": "mombak-carbono-salesforce",
-      "type": "empresa",
-      "title": "Startup brasileña de carbono suma a Salesforce como comprador de créditos y capta nuevo fondo",
-      "summary": "La empresa brasileña Mombak cerró la primera parte de su segundo fondo de reforestación, con el objetivo de recaudar 150 millones de dólares para restaurar el Amazonas. También firmó un acuerdo con Salesforce para la compra de créditos de carbono, sumándose a otras grandes tecnológicas que ya participan en este mercado.",
-      "detail": "El mercado de créditos de carbono permite a empresas compensar sus emisiones pagando por proyectos que absorben CO2, como la reforestación. Que empresas como Salesforce participen activamente en este mercado muestra que la sostenibilidad ya no es solo imagen corporativa, sino una parte real de la estrategia financiera de las grandes compañías. Para quien aprende finanzas, este es un ejemplo de cómo los activos ambientales se están convirtiendo en una nueva clase de inversión.",
-      "tags": [
-        "carbono",
-        "sustentabilidad",
-        "Brasil"
-      ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/sustainability/climate-energy/brazils-mombak-raises-new-fund-adds-salesforce-carbon-credit-buyer-2026-09-21/",
-      "published_at": "2026-09-21T08:04:00Z",
-      "tickers": [
-        "CRM"
-      ]
-    },
-    {
-      "id": "kinross-gold-resultados",
+      "id": "amd-1-trillion-club",
       "type": "mercado",
-      "title": "Kinross Gold reportó ganancias que superaron expectativas con ingresos 29,5% más altos",
-      "summary": "Kinross Gold registró ganancias trimestrales de 0,71 dólares por acción, superando las estimaciones de los analistas, con ingresos que crecieron un 29,5% interanual hasta alcanzar los 2,22 mil millones de dólares. Además, la firma danesa Nykredit realizó una nueva inversión de 10,71 millones de dólares en la compañía.",
-      "detail": "Las empresas mineras de oro suelen tener buen desempeño cuando los inversores buscan refugio ante incertidumbre económica o inflación, ya que el precio del oro tiende a subir en esos contextos. Un crecimiento de ingresos del 29,5% en una minera generalmente refleja una combinación de mayor producción y precios del metal más altos. Para alguien que aprende finanzas, el oro y las acciones mineras son una clase de activo importante para entender cómo diversificar una cartera.",
+      "title": "AMD alcanzó el billón de dólares de capitalización, superando a Intel",
+      "summary": "AMD llegó por primera vez a una valuación de 1 billón de dólares, impulsada por su negocio de inteligencia artificial y centros de datos. Las acciones de la compañía subieron más de 180% en lo que va del año, dejando muy atrás a su histórico rival Intel.",
+      "detail": "La capitalización bursátil es el valor total que el mercado le asigna a una empresa: refleja expectativas de ganancias futuras, no solo el presente. Que AMD supere el billón muestra cómo la demanda de chips para IA redistribuye el poder en el sector tecnológico. Para quien aprende finanzas, este caso ilustra cómo una empresa puede ganar o perder posición relativa en años, dependiendo de a qué tendencia apuesta. Nvidia sigue siendo significativamente mayor, lo que da perspectiva sobre la escala del fenómeno IA.",
       "tags": [
-        "oro",
-        "minería",
-        "commodities"
+        "tecnología",
+        "inteligencia artificial",
+        "semiconductores"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-makes-new-1071-million-investment-in-kinross-gold-corporation-kgc-2026-09-21/",
-      "published_at": "2026-09-21T07:58:42Z",
+      "source_name": "Notebookcheck",
+      "source_url": "https://www.notebookcheck.net/AMD-joins-the-1-trillion-club-leaving-Intel-behind.1404984.0.html",
+      "published_at": "2026-09-21T19:18:44Z",
       "tickers": [
-        "KGC"
+        "AMD",
+        "INTC",
+        "NVDA"
+      ]
+    },
+    {
+      "id": "gartner-ai-spending-2026",
+      "type": "economia",
+      "title": "El gasto mundial en IA llegará a 2,67 billones de dólares en 2026",
+      "summary": "Según Gartner, el gasto global en inteligencia artificial alcanzará los 2,67 billones de dólares en 2026, un 49,5% más que en 2025. La mayor parte de esa inversión —casi 1,5 billones— va a infraestructura, no a los modelos de IA en sí.",
+      "detail": "Este dato muestra que la 'fiebre del oro' de la IA no está concentrada en las empresas que hacen los modelos, sino en quienes construyen la infraestructura que los sostiene: servidores, chips, redes. Para un inversor en formación, es clave distinguir entre dónde está la narrativa y dónde está el dinero real. Además, un crecimiento del 49,5% en un año es una señal de que esta tendencia todavía está en etapas tempranas de adopción masiva.",
+      "tags": [
+        "inteligencia artificial",
+        "tecnología",
+        "inversión"
+      ],
+      "source_name": "THE Journal",
+      "source_url": "https://thejournal.com/articles/2026/09/21/gartner-worldwide-ai-spending-to-reach-2-67-trillion-in-2026.aspx",
+      "published_at": "2026-09-21T20:19:26Z",
+      "tickers": [
+        "IT"
+      ]
+    },
+    {
+      "id": "lululemon-stock-slump",
+      "type": "mercado",
+      "title": "Lululemon cayó más del 53% en 2026 y refleja una caída general del consumo",
+      "summary": "Las acciones de Lululemon se derrumbaron más de 53% en lo que va del año, con ingresos del segundo trimestre por debajo de las expectativas y caída en ventas comparables. Analistas ven el problema no solo en la marca, sino en una contracción generalizada del gasto de los consumidores.",
+      "detail": "Cuando una empresa de consumo discrecional —productos que la gente compra cuando le sobra plata— cae fuerte, puede ser señal de que los hogares están apretando el cinturón. Este caso muestra cómo los resultados de una empresa sirven como termómetro de la economía real. El hecho de que el inversor Michael Burry haya tomado una posición contraria (apostando a que el precio está exagerado) ilustra cómo distintos inversores pueden leer el mismo dato de manera opuesta.",
+      "tags": [
+        "consumo",
+        "acciones",
+        "recesión"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/large-cap/26/09/61908710/lululemon-stock-collapse-broader-spending-squeeze",
+      "published_at": "2026-09-21T20:15:16Z",
+      "tickers": [
+        "LULU",
+        "NKE"
+      ]
+    },
+    {
+      "id": "moderna-pipeline-updates",
+      "type": "mercado",
+      "title": "Moderna tocó un máximo de tres años antes de presentar datos clave de su tratamiento contra el melanoma",
+      "summary": "Las acciones de Moderna alcanzaron su nivel más alto en tres años en anticipación a actualizaciones de su pipeline, especialmente sobre su candidato para tratar el melanoma en combinación con Keytruda de Merck. La empresa presentará datos de Fase 3 en foros de salud próximos.",
+      "detail": "En el sector farmacéutico, los ensayos clínicos son eventos de alto impacto: un resultado positivo puede disparar una acción, mientras que uno negativo puede hundirla. La Fase 3 es la última antes de buscar aprobación regulatoria, lo que explica la expectativa del mercado. Este caso es útil para entender el concepto de 'catalizador': un evento futuro concreto que el mercado anticipa y que genera movimiento de precio antes de que ocurra.",
+      "tags": [
+        "farmacéutica",
+        "biotecnología",
+        "ensayos clínicos"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/healthcare/articles/moderna-mrna-soars-fresh-high-191331309.html",
+      "published_at": "2026-09-21T19:41:54Z",
+      "tickers": [
+        "MRNA",
+        "MRK"
+      ]
+    },
+    {
+      "id": "airline-stocks-oil-prices",
+      "type": "mercado",
+      "title": "Las aerolíneas subieron hasta 5% pese a una falla técnica en aeropuertos de Nueva York",
+      "summary": "Las acciones de United Airlines, Delta, American y Southwest subieron el lunes a pesar de un corte de telecomunicaciones que paralizó temporalmente los aeropuertos neoyorquinos. Los inversores priorizaron la baja en el precio del petróleo como señal positiva para el sector.",
+      "detail": "El precio del petróleo es uno de los costos más importantes para las aerolíneas: cuando baja, sus márgenes mejoran. Este caso ilustra cómo el mercado pondera distintos factores al mismo tiempo y no siempre reacciona a la noticia más llamativa. Aprender a separar el ruido del día (la falla técnica) de los drivers estructurales (precio del combustible) es una habilidad clave en análisis financiero.",
+      "tags": [
+        "aerolíneas",
+        "petróleo",
+        "mercados"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/09/61909427/airline-stocks-unbothered-by-ground-stop-delays-ual-up-5",
+      "published_at": "2026-09-21T20:43:30Z",
+      "tickers": [
+        "UAL",
+        "DAL",
+        "LUV"
+      ]
+    },
+    {
+      "id": "meta-muse-chatgpt",
+      "type": "empresa",
+      "title": "La app de IA de Meta, Muse, supera los primeros días de ChatGPT en móviles",
+      "summary": "Muse, la nueva aplicación de inteligencia artificial de Meta, tuvo más descargas y usuarios activos diarios que ChatGPT en sus primeros doce días, según datos de Apptopia. El resultado sugiere que Meta podría tener otro gran éxito en aplicaciones de IA.",
+      "detail": "El número de descargas y usuarios activos en los primeros días es un indicador clave para evaluar el potencial de una app nueva. Meta tiene una ventaja competitiva enorme: puede promocionar Muse entre los miles de millones de usuarios de Instagram, WhatsApp y Facebook. Este caso muestra cómo las grandes plataformas usan su base instalada como motor de distribución, algo que empresas más chicas no pueden replicar fácilmente.",
+      "tags": [
+        "inteligencia artificial",
+        "tecnología",
+        "competencia"
+      ],
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "published_at": "2026-09-21T19:19:23Z",
+      "tickers": [
+        "META",
+        "GOOG"
+      ]
+    },
+    {
+      "id": "duke-energy-gas-plant-denied",
+      "type": "economia",
+      "title": "Reguladores de Carolina del Norte le negaron a Duke Energy construir una nueva planta de gas",
+      "summary": "La Comisión de Servicios Públicos de Carolina del Norte rechazó la solicitud de Duke Energy para construir una planta de gas de 584 millones de dólares, argumentando que la empresa no justificó suficientemente la necesidad ni cómo los centros de datos contribuirían a pagar los costos. Es una decisión inusual para el organismo regulador.",
+      "detail": "Este caso muestra la tensión entre la demanda energética de los centros de datos de IA y quién paga esa infraestructura. Los reguladores están cuestionando si los consumidores residenciales deben subsidiar la expansión eléctrica que beneficia principalmente a grandes empresas tecnológicas. Para quienes aprenden finanzas, es un ejemplo de riesgo regulatorio: una decisión gubernamental puede bloquear inversiones millonarias planificadas, afectando las proyecciones de ingresos de una empresa.",
+      "tags": [
+        "energía",
+        "regulación",
+        "centros de datos"
+      ],
+      "source_name": "WUNC News",
+      "source_url": "https://www.wunc.org/environment/2026-09-21/nc-utilities-commission-denies-duke-energy-gas-plant",
+      "published_at": "2026-09-21T19:43:44Z",
+      "tickers": [
+        "DUK"
+      ]
+    },
+    {
+      "id": "marvell-investor-day-morgan-stanley",
+      "type": "reunion",
+      "title": "Morgan Stanley sube el precio objetivo de Marvell antes de su Investor Day del 6 de octubre",
+      "summary": "Morgan Stanley elevó su precio objetivo para Marvell Technology de 246 a 268 dólares, manteniendo la recomendación de Hold, en anticipación al Investor Day de la compañía el 6 de octubre. El analista espera una reacción positiva del mercado impulsada por oportunidades en conectividad y la asociación con Google.",
+      "detail": "Un 'Investor Day' es un evento donde la empresa presenta su estrategia y proyecciones directamente a inversores y analistas. Cuando un banco de inversión sube su precio objetivo antes de ese evento, está señalando que espera información que justifique una valuación mayor. Para quienes aprenden finanzas, es útil entender cómo estos eventos funcionan como catalizadores de precio y cómo los analistas posicionan sus recomendaciones antes de que ocurran.",
+      "tags": [
+        "semiconductores",
+        "analistas",
+        "inteligencia artificial"
+      ],
+      "source_name": "TipRanks",
+      "source_url": "https://www.tipranks.com/news/marvell-stock-mrvl-rises-as-morgan-stanley-lifts-price-target-ahead-of-oct-6-investor-day",
+      "published_at": "2026-09-21T19:11:07Z",
+      "tickers": [
+        "MRVL",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "fifth-third-comerica-merge-stadium",
+      "type": "empresa",
+      "title": "Tras la fusión de Fifth Third con Comerica, el estadio de los Detroit Tigers cambia de nombre",
+      "summary": "El estadio Comerica Park de los Detroit Tigers pasará a llamarse Fifth Third Park a partir de 2027, como resultado de la fusión entre Fifth Third Bancorp y Comerica Bank. Con la fusión, Fifth Third se convirtió en el mayor tenedor de depósitos minoristas en Michigan.",
+      "detail": "Los acuerdos de naming rights de estadios son una consecuencia visible de fusiones bancarias: cuando una empresa absorbe a otra, hereda sus contratos y activos, incluyendo patrocinios de alto perfil. Este caso es un ejemplo práctico de cómo las fusiones y adquisiciones reconfiguran el mercado y la presencia de marca. Para quien aprende finanzas, ilustra que las M&A no son solo números contables, sino que tienen impacto real en la identidad corporativa y la estrategia de marketing.",
+      "tags": [
+        "fusiones",
+        "banca",
+        "M&A"
+      ],
+      "source_name": "Fifth Third Bancorp - Investor Relations",
+      "source_url": "https://ir.53.com/news/news-details/2026/Fifth-Third-and-Detroit-Tigers-Introduce-Fifth-Third-Park-New-Name-for-the-Home-of-the-Tigers/default.aspx",
+      "published_at": "2026-09-21T19:35:19Z",
+      "tickers": [
+        "FITB"
       ]
     }
   ],
@@ -193,33 +205,33 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.540",
-      "valor_num": 1540.1,
-      "delta_pct": 0.0
+      "valor": "$1.536",
+      "valor_num": 1536.5,
+      "delta_pct": -0.23
     },
     {
       "label": "CCL",
-      "valor": "$1.598",
-      "valor_num": 1598.1,
-      "delta_pct": 0.0
+      "valor": "$1.596",
+      "valor_num": 1596.4,
+      "delta_pct": -0.11
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 84.753",
-      "valor_num": 84753.0,
-      "delta_pct": 5.36
+      "valor": "US$ 86.617",
+      "valor_num": 86617.0,
+      "delta_pct": 7.07
     },
     {
       "label": "S&P 500",
-      "valor": "7.650",
-      "valor_num": 7650.5,
-      "delta_pct": -0.08
+      "valor": "7.765",
+      "valor_num": 7764.7,
+      "delta_pct": 1.9
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.404",
-      "valor_num": 4404.0,
-      "delta_pct": 0.38
+      "valor": "US$ 4.381",
+      "valor_num": 4381.0,
+      "delta_pct": -0.15
     }
   ]
 }
