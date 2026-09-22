@@ -1,192 +1,150 @@
 {
-  "generated_at": "2026-09-21T22:01:22.854274+00:00",
+  "generated_at": "2026-09-22T12:01:17.023913+00:00",
   "items": [
     {
-      "id": "trump-xi-summit-morgan-stanley",
-      "type": "reunion",
-      "title": "Expectativas bajas para la cumbre Trump-Xi, según Morgan Stanley",
-      "summary": "Ariana Salvatore, directora de política pública de Morgan Stanley, advierte que no hay que esperar grandes resultados del encuentro entre Trump y Xi Jinping. Su análisis apunta a un clima de cautela respecto de lo que puede salir de esa reunión.",
-      "detail": "Las cumbres entre potencias como EE.UU. y China mueven mercados porque sus acuerdos (o desacuerdos) afectan el comercio global, los aranceles y la confianza inversora. Cuando analistas de grandes bancos bajan las expectativas, están alertando que el mercado no debería descontar un acuerdo positivo. Esto es útil para entender cómo el 'ruido político' puede generar volatilidad sin necesariamente cambiar los fundamentos económicos.",
+      "id": "ubs-boa-conference-2026",
+      "type": "discurso",
+      "title": "El CEO de UBS habló sobre crecimiento, regulación y AI en conferencia bancaria",
+      "summary": "El CEO de UBS, Sergio Ermotti, participó en la conferencia anual de CEOs financieros de Bank of America y destacó el buen momento del banco en gestión de patrimonio y banca de inversión. También expresó preocupación por nuevas reglas de capital en Suiza que podrían afectar a los accionistas, y confirmó que la integración de Credit Suisse está casi terminada.",
+      "detail": "Cuando un CEO de un banco global habla en una conferencia importante, el mercado presta atención porque puede anticipar cambios en estrategia o riesgos regulatorios. En este caso, las posibles nuevas exigencias de capital en Suiza son relevantes porque más capital inmovilizado implica menos retornos para los accionistas vía dividendos o recompras. La mención de inversiones en AI también muestra cómo los grandes bancos están adaptando su modelo de negocio a la tecnología.",
       "tags": [
-        "geopolítica",
-        "comercio",
-        "EE.UU.-China"
+        "banca",
+        "regulación",
+        "inteligencia artificial"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/video/2026/09/21/bar-is-pretty-low-for-trump-xi-summit-says-morgan-stanleys-ariana-salvatore.html",
-      "published_at": "2026-09-21T21:00:35Z",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/transcripts/ubs-at-bank-of-america-financials-conference-growth-meets-capital-pressure-93CH-4910194",
+      "published_at": "2026-09-22T10:04:07Z",
       "tickers": [
-        "MS"
+        "BAC",
+        "MSFT"
       ]
     },
     {
-      "id": "amd-1-trillion-club",
-      "type": "mercado",
-      "title": "AMD alcanzó el billón de dólares de capitalización, superando a Intel",
-      "summary": "AMD llegó por primera vez a una valuación de 1 billón de dólares, impulsada por su negocio de inteligencia artificial y centros de datos. Las acciones de la compañía subieron más de 180% en lo que va del año, dejando muy atrás a su histórico rival Intel.",
-      "detail": "La capitalización bursátil es el valor total que el mercado le asigna a una empresa: refleja expectativas de ganancias futuras, no solo el presente. Que AMD supere el billón muestra cómo la demanda de chips para IA redistribuye el poder en el sector tecnológico. Para quien aprende finanzas, este caso ilustra cómo una empresa puede ganar o perder posición relativa en años, dependiendo de a qué tendencia apuesta. Nvidia sigue siendo significativamente mayor, lo que da perspectiva sobre la escala del fenómeno IA.",
-      "tags": [
-        "tecnología",
-        "inteligencia artificial",
-        "semiconductores"
-      ],
-      "source_name": "Notebookcheck",
-      "source_url": "https://www.notebookcheck.net/AMD-joins-the-1-trillion-club-leaving-Intel-behind.1404984.0.html",
-      "published_at": "2026-09-21T19:18:44Z",
-      "tickers": [
-        "AMD",
-        "INTC",
-        "NVDA"
-      ]
-    },
-    {
-      "id": "gartner-ai-spending-2026",
+      "id": "home-depot-mercado-inmobiliario-2026",
       "type": "economia",
-      "title": "El gasto mundial en IA llegará a 2,67 billones de dólares en 2026",
-      "summary": "Según Gartner, el gasto global en inteligencia artificial alcanzará los 2,67 billones de dólares en 2026, un 49,5% más que en 2025. La mayor parte de esa inversión —casi 1,5 billones— va a infraestructura, no a los modelos de IA en sí.",
-      "detail": "Este dato muestra que la 'fiebre del oro' de la IA no está concentrada en las empresas que hacen los modelos, sino en quienes construyen la infraestructura que los sostiene: servidores, chips, redes. Para un inversor en formación, es clave distinguir entre dónde está la narrativa y dónde está el dinero real. Además, un crecimiento del 49,5% en un año es una señal de que esta tendencia todavía está en etapas tempranas de adopción masiva.",
+      "title": "El CFO de Home Depot alerta: el mercado inmobiliario de EE.UU. está \"congelado\"",
+      "summary": "El director financiero de Home Depot describió el mercado de viviendas en EE.UU. como \"congelado\", con solo el 2,8% de las casas cambiando de manos en los primeros nueve meses de 2025, el nivel más bajo en cuatro años. Esta parálisis impacta directamente a empresas como Home Depot, que dependen de que la gente compre, venda y refaccione propiedades.",
+      "detail": "Cuando las personas no compran ni venden casas, tampoco gastan en materiales de construcción, electrodomésticos ni renovaciones. Esto afecta los ingresos de retailers como Home Depot. Un mercado inmobiliario estancado suele ser consecuencia de tasas de interés altas que encarecen las hipotecas, lo que a su vez frena la actividad económica en varios sectores. Este tipo de dato es clave para entender cómo la política monetaria de la Fed impacta en la economía real.",
       "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "inversión"
+        "real estate",
+        "consumo",
+        "tasas de interés"
       ],
-      "source_name": "THE Journal",
-      "source_url": "https://thejournal.com/articles/2026/09/21/gartner-worldwide-ai-spending-to-reach-2-67-trillion-in-2026.aspx",
-      "published_at": "2026-09-21T20:19:26Z",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
+      "published_at": "2026-09-22T10:45:00Z",
       "tickers": [
-        "IT"
+        "HD"
       ]
     },
     {
-      "id": "lululemon-stock-slump",
+      "id": "san-francisco-truth-social-demanda-2026",
       "type": "mercado",
-      "title": "Lululemon cayó más del 53% en 2026 y refleja una caída general del consumo",
-      "summary": "Las acciones de Lululemon se derrumbaron más de 53% en lo que va del año, con ingresos del segundo trimestre por debajo de las expectativas y caída en ventas comparables. Analistas ven el problema no solo en la marca, sino en una contracción generalizada del gasto de los consumidores.",
-      "detail": "Cuando una empresa de consumo discrecional —productos que la gente compra cuando le sobra plata— cae fuerte, puede ser señal de que los hogares están apretando el cinturón. Este caso muestra cómo los resultados de una empresa sirven como termómetro de la economía real. El hecho de que el inversor Michael Burry haya tomado una posición contraria (apostando a que el precio está exagerado) ilustra cómo distintos inversores pueden leer el mismo dato de manera opuesta.",
+      "title": "San Francisco demanda a Trump Media por vender acceso anticipado a posts que mueven mercados",
+      "summary": "La ciudad de San Francisco inició una demanda contra Trump Media & Technology Group por su servicio \"Truth API\", que cobra hasta 100.000 dólares por mes para acceder antes que nadie a los posteos de Donald Trump en Truth Social. El argumento es que esto permite a inversores ricos operar con ventaja informativa, perjudicando al inversor común.",
+      "detail": "Esta noticia toca un concepto central en finanzas: la equidad en el acceso a la información. Los mercados financieros funcionan mejor cuando todos los participantes acceden a la misma información al mismo tiempo. Vender acceso anticipado a declaraciones de una figura política influyente puede considerarse una forma de información privilegiada. Es un caso que ilustra los límites entre el discurso público, la información de mercado y la regulación financiera.",
+      "tags": [
+        "regulación",
+        "información privilegiada",
+        "mercados"
+      ],
+      "source_name": "The New York Times",
+      "source_url": "https://www.nytimes.com/2026/09/22/us/san-francisco-lawsuit-truth-social-early-access.html",
+      "published_at": "2026-09-22T08:48:11Z",
+      "tickers": [
+        "DJT"
+      ]
+    },
+    {
+      "id": "kkr-akrapoint-2026",
+      "type": "empresa",
+      "title": "KKR lanzó una financiera de 350 millones de dólares para pequeñas empresas",
+      "summary": "KKR creó Akrapoint Commercial Capital, una nueva compañía que otorgará préstamos de entre 250.000 y 5 millones de dólares a pequeñas y medianas empresas para financiar equipos industriales. La iniciativa se financia a través del segundo fondo de finanzas basadas en activos de KKR.",
+      "detail": "KKR es uno de los fondos de private equity más grandes del mundo. Cuando una firma así lanza un vehículo nuevo, señala que ve oportunidad de retorno en ese segmento. Los préstamos respaldados por activos físicos (como maquinaria) son considerados más seguros porque el bien sirve de garantía. Este movimiento también muestra cómo el capital privado está ocupando espacios que antes eran exclusivos de los bancos tradicionales.",
+      "tags": [
+        "private equity",
+        "crédito",
+        "pymes"
+      ],
+      "source_name": "WSJ",
+      "source_url": "https://www.wsj.com/pro/private-equity/kkr-builds-350-million-equipment-finance-firm-akrapoint-commercial-capital-a9e755bd",
+      "published_at": "2026-09-22T10:51:32Z",
+      "tickers": [
+        "KKR"
+      ]
+    },
+    {
+      "id": "idp-blackstone-rechazo-2026",
+      "type": "empresa",
+      "title": "IDP Education rechazó la oferta de compra de Blackstone por casi 500 millones de dólares",
+      "summary": "La empresa australiana IDP Education rechazó una oferta mejorada de Blackstone valuada en aproximadamente 494 millones de dólares, calificándola de \"altamente oportunista\" y por debajo del valor real del negocio. Las acciones de IDP igualmente subieron un 20,7% con la noticia.",
+      "detail": "Cuando una empresa rechaza una oferta de adquisición, está diciendo que cree que vale más de lo que el comprador ofrece. Blackstone, un gigante del capital privado, suele aprovechar momentos de debilidad en sectores para comprar barato. El hecho de que las acciones hayan subido igual muestra que el mercado interpreta el rechazo como una señal de que podría venir una oferta más alta. Este tipo de situaciones enseña cómo funcionan las fusiones y adquisiciones en la práctica.",
+      "tags": [
+        "adquisiciones",
+        "private equity",
+        "valuación"
+      ],
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/asia-pacific/australias-idp-rejects-blackstones-494-million-takeover-offer-2026-09-22/",
+      "published_at": "2026-09-22T08:24:11Z",
+      "tickers": [
+        "BX"
+      ]
+    },
+    {
+      "id": "mcdonalds-minimo-52-semanas-2026",
+      "type": "mercado",
+      "title": "McDonald's tocó su mínimo en 52 semanas por caída en ventas y tráfico",
+      "summary": "Las acciones de McDonald's cayeron a un nuevo mínimo de 52 semanas en 246,52 dólares, afectadas por la desaceleración en ventas y tráfico en sus locales de EE.UU. En respuesta, la compañía está ajustando su estrategia operativa y probando menús más pequeños. Los analistas mantienen una recomendación de compra moderada con un precio objetivo de 317,04 dólares.",
+      "detail": "Un mínimo de 52 semanas es una señal técnica relevante: indica que el mercado está castigando a la empresa más que en cualquier momento del último año. En el caso de McDonald's, la caída refleja preocupaciones sobre el consumidor: si la gente gasta menos en comida rápida, puede ser síntoma de presión económica general. A su vez, la diferencia entre el precio actual y el precio objetivo de los analistas muestra cuánto potencial de recuperación ven los profesionales.",
       "tags": [
         "consumo",
         "acciones",
-        "recesión"
+        "resultados"
       ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/markets/large-cap/26/09/61908710/lululemon-stock-collapse-broader-spending-squeeze",
-      "published_at": "2026-09-21T20:15:16Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/price-mcdonalds-nyse-mcd-reaches-new-52-week-low-heres-why-2026-09-22/",
+      "published_at": "2026-09-22T08:47:07Z",
       "tickers": [
-        "LULU",
-        "NKE"
+        "MCD"
       ]
     },
     {
-      "id": "moderna-pipeline-updates",
-      "type": "mercado",
-      "title": "Moderna tocó un máximo de tres años antes de presentar datos clave de su tratamiento contra el melanoma",
-      "summary": "Las acciones de Moderna alcanzaron su nivel más alto en tres años en anticipación a actualizaciones de su pipeline, especialmente sobre su candidato para tratar el melanoma en combinación con Keytruda de Merck. La empresa presentará datos de Fase 3 en foros de salud próximos.",
-      "detail": "En el sector farmacéutico, los ensayos clínicos son eventos de alto impacto: un resultado positivo puede disparar una acción, mientras que uno negativo puede hundirla. La Fase 3 es la última antes de buscar aprobación regulatoria, lo que explica la expectativa del mercado. Este caso es útil para entender el concepto de 'catalizador': un evento futuro concreto que el mercado anticipa y que genera movimiento de precio antes de que ocurra.",
+      "id": "halliburton-venezuela-mou-2026",
+      "type": "empresa",
+      "title": "Halliburton firmó acuerdos para desarrollar el sector energético en Venezuela",
+      "summary": "Halliburton firmó memorandos de entendimiento con la brasileña Eneva y la venezolana WESCA para avanzar en el desarrollo de oportunidades energéticas en Venezuela. Esto ocurre luego de que la Asamblea Nacional venezolana aprobara un acuerdo petrolero que otorga acceso a una porción importante de las reservas del país a una empresa privada estadounidense.",
+      "detail": "Venezuela tiene una de las mayores reservas de petróleo del mundo, pero su industria está muy deteriorada. La entrada de empresas como Halliburton señala una posible reapertura del mercado venezolano al capital privado internacional, lo que puede tener implicancias geopolíticas y de precios del petróleo. Para quien aprende finanzas, es un ejemplo de cómo el riesgo político y la oportunidad económica coexisten en mercados emergentes con recursos naturales.",
       "tags": [
-        "farmacéutica",
-        "biotecnología",
-        "ensayos clínicos"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/healthcare/articles/moderna-mrna-soars-fresh-high-191331309.html",
-      "published_at": "2026-09-21T19:41:54Z",
-      "tickers": [
-        "MRNA",
-        "MRK"
-      ]
-    },
-    {
-      "id": "airline-stocks-oil-prices",
-      "type": "mercado",
-      "title": "Las aerolíneas subieron hasta 5% pese a una falla técnica en aeropuertos de Nueva York",
-      "summary": "Las acciones de United Airlines, Delta, American y Southwest subieron el lunes a pesar de un corte de telecomunicaciones que paralizó temporalmente los aeropuertos neoyorquinos. Los inversores priorizaron la baja en el precio del petróleo como señal positiva para el sector.",
-      "detail": "El precio del petróleo es uno de los costos más importantes para las aerolíneas: cuando baja, sus márgenes mejoran. Este caso ilustra cómo el mercado pondera distintos factores al mismo tiempo y no siempre reacciona a la noticia más llamativa. Aprender a separar el ruido del día (la falla técnica) de los drivers estructurales (precio del combustible) es una habilidad clave en análisis financiero.",
-      "tags": [
-        "aerolíneas",
         "petróleo",
-        "mercados"
-      ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/09/61909427/airline-stocks-unbothered-by-ground-stop-delays-ual-up-5",
-      "published_at": "2026-09-21T20:43:30Z",
-      "tickers": [
-        "UAL",
-        "DAL",
-        "LUV"
-      ]
-    },
-    {
-      "id": "meta-muse-chatgpt",
-      "type": "empresa",
-      "title": "La app de IA de Meta, Muse, supera los primeros días de ChatGPT en móviles",
-      "summary": "Muse, la nueva aplicación de inteligencia artificial de Meta, tuvo más descargas y usuarios activos diarios que ChatGPT en sus primeros doce días, según datos de Apptopia. El resultado sugiere que Meta podría tener otro gran éxito en aplicaciones de IA.",
-      "detail": "El número de descargas y usuarios activos en los primeros días es un indicador clave para evaluar el potencial de una app nueva. Meta tiene una ventaja competitiva enorme: puede promocionar Muse entre los miles de millones de usuarios de Instagram, WhatsApp y Facebook. Este caso muestra cómo las grandes plataformas usan su base instalada como motor de distribución, algo que empresas más chicas no pueden replicar fácilmente.",
-      "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "competencia"
-      ],
-      "source_name": "TechCrunch",
-      "source_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "published_at": "2026-09-21T19:19:23Z",
-      "tickers": [
-        "META",
-        "GOOG"
-      ]
-    },
-    {
-      "id": "duke-energy-gas-plant-denied",
-      "type": "economia",
-      "title": "Reguladores de Carolina del Norte le negaron a Duke Energy construir una nueva planta de gas",
-      "summary": "La Comisión de Servicios Públicos de Carolina del Norte rechazó la solicitud de Duke Energy para construir una planta de gas de 584 millones de dólares, argumentando que la empresa no justificó suficientemente la necesidad ni cómo los centros de datos contribuirían a pagar los costos. Es una decisión inusual para el organismo regulador.",
-      "detail": "Este caso muestra la tensión entre la demanda energética de los centros de datos de IA y quién paga esa infraestructura. Los reguladores están cuestionando si los consumidores residenciales deben subsidiar la expansión eléctrica que beneficia principalmente a grandes empresas tecnológicas. Para quienes aprenden finanzas, es un ejemplo de riesgo regulatorio: una decisión gubernamental puede bloquear inversiones millonarias planificadas, afectando las proyecciones de ingresos de una empresa.",
-      "tags": [
         "energía",
-        "regulación",
-        "centros de datos"
+        "geopolítica"
       ],
-      "source_name": "WUNC News",
-      "source_url": "https://www.wunc.org/environment/2026-09-21/nc-utilities-commission-denies-duke-energy-gas-plant",
-      "published_at": "2026-09-21T19:43:44Z",
+      "source_name": "Egypt Oil & Gas",
+      "source_url": "https://egyptoil-gas.com/news/halliburton-signs-mous-for-developing-energy-sector-in-venezuela/",
+      "published_at": "2026-09-22T08:41:30Z",
       "tickers": [
-        "DUK"
+        "HAL",
+        "XOM"
       ]
     },
     {
-      "id": "marvell-investor-day-morgan-stanley",
-      "type": "reunion",
-      "title": "Morgan Stanley sube el precio objetivo de Marvell antes de su Investor Day del 6 de octubre",
-      "summary": "Morgan Stanley elevó su precio objetivo para Marvell Technology de 246 a 268 dólares, manteniendo la recomendación de Hold, en anticipación al Investor Day de la compañía el 6 de octubre. El analista espera una reacción positiva del mercado impulsada por oportunidades en conectividad y la asociación con Google.",
-      "detail": "Un 'Investor Day' es un evento donde la empresa presenta su estrategia y proyecciones directamente a inversores y analistas. Cuando un banco de inversión sube su precio objetivo antes de ese evento, está señalando que espera información que justifique una valuación mayor. Para quienes aprenden finanzas, es útil entender cómo estos eventos funcionan como catalizadores de precio y cómo los analistas posicionan sus recomendaciones antes de que ocurran.",
+      "id": "cantor-fitzgerald-microsoft-servicenow-2026",
+      "type": "mercado",
+      "title": "Cantor Fitzgerald sube los precios objetivo de Microsoft y ServiceNow por el impulso de la AI",
+      "summary": "El banco de inversión Cantor Fitzgerald elevó el precio objetivo de Microsoft a 608 dólares y el de ServiceNow a 174 dólares, ambos con recomendación de sobreponderar, destacando el crecimiento de Azure y las iniciativas de inteligencia artificial como principales motores.",
+      "detail": "Cuando una firma de análisis sube su precio objetivo, está diciendo que espera que la acción valga más en los próximos 12 meses. En este caso, el argumento central es el crecimiento impulsado por la AI, especialmente en servicios de nube como Azure de Microsoft. Esto es útil para entender cómo los analistas valoran empresas tecnológicas: no solo por sus ganancias actuales, sino por su capacidad de crecer en segmentos de alta demanda.",
       "tags": [
-        "semiconductores",
-        "analistas",
-        "inteligencia artificial"
+        "tecnología",
+        "inteligencia artificial",
+        "analistas"
       ],
-      "source_name": "TipRanks",
-      "source_url": "https://www.tipranks.com/news/marvell-stock-mrvl-rises-as-morgan-stanley-lifts-price-target-ahead-of-oct-6-investor-day",
-      "published_at": "2026-09-21T19:11:07Z",
+      "source_name": "SuaraGarut.ID",
+      "source_url": "https://suaragarut.id/en/cantor-fitzgerald-raises-tech-targets",
+      "published_at": "2026-09-22T09:08:40Z",
       "tickers": [
-        "MRVL",
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "fifth-third-comerica-merge-stadium",
-      "type": "empresa",
-      "title": "Tras la fusión de Fifth Third con Comerica, el estadio de los Detroit Tigers cambia de nombre",
-      "summary": "El estadio Comerica Park de los Detroit Tigers pasará a llamarse Fifth Third Park a partir de 2027, como resultado de la fusión entre Fifth Third Bancorp y Comerica Bank. Con la fusión, Fifth Third se convirtió en el mayor tenedor de depósitos minoristas en Michigan.",
-      "detail": "Los acuerdos de naming rights de estadios son una consecuencia visible de fusiones bancarias: cuando una empresa absorbe a otra, hereda sus contratos y activos, incluyendo patrocinios de alto perfil. Este caso es un ejemplo práctico de cómo las fusiones y adquisiciones reconfiguran el mercado y la presencia de marca. Para quien aprende finanzas, ilustra que las M&A no son solo números contables, sino que tienen impacto real en la identidad corporativa y la estrategia de marketing.",
-      "tags": [
-        "fusiones",
-        "banca",
-        "M&A"
-      ],
-      "source_name": "Fifth Third Bancorp - Investor Relations",
-      "source_url": "https://ir.53.com/news/news-details/2026/Fifth-Third-and-Detroit-Tigers-Introduce-Fifth-Third-Park-New-Name-for-the-Home-of-the-Tigers/default.aspx",
-      "published_at": "2026-09-21T19:35:19Z",
-      "tickers": [
-        "FITB"
+        "NOW"
       ]
     }
   ],
@@ -217,9 +175,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 86.617",
-      "valor_num": 86617.0,
-      "delta_pct": 7.07
+      "valor": "US$ 85.947",
+      "valor_num": 85947.0,
+      "delta_pct": 1.32
     },
     {
       "label": "S&P 500",
@@ -229,9 +187,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.381",
-      "valor_num": 4381.0,
-      "delta_pct": -0.15
+      "valor": "US$ 4.357",
+      "valor_num": 4357.4,
+      "delta_pct": -0.96
     }
   ]
 }
