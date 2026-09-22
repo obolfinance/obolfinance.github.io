@@ -1,150 +1,187 @@
 {
-  "generated_at": "2026-09-22T12:01:17.023913+00:00",
+  "generated_at": "2026-09-22T22:01:22.959954+00:00",
   "items": [
     {
-      "id": "ubs-boa-conference-2026",
-      "type": "discurso",
-      "title": "El CEO de UBS habló sobre crecimiento, regulación y AI en conferencia bancaria",
-      "summary": "El CEO de UBS, Sergio Ermotti, participó en la conferencia anual de CEOs financieros de Bank of America y destacó el buen momento del banco en gestión de patrimonio y banca de inversión. También expresó preocupación por nuevas reglas de capital en Suiza que podrían afectar a los accionistas, y confirmó que la integración de Credit Suisse está casi terminada.",
-      "detail": "Cuando un CEO de un banco global habla en una conferencia importante, el mercado presta atención porque puede anticipar cambios en estrategia o riesgos regulatorios. En este caso, las posibles nuevas exigencias de capital en Suiza son relevantes porque más capital inmovilizado implica menos retornos para los accionistas vía dividendos o recompras. La mención de inversiones en AI también muestra cómo los grandes bancos están adaptando su modelo de negocio a la tecnología.",
+      "id": "fed-rate-hike-financials",
+      "type": "mercado",
+      "title": "La Fed subió tasas y cayeron acciones de bancos y financieras",
+      "summary": "Varias acciones financieras como Morgan Stanley, Ameriprise y Northern Trust bajaron tras la suba de 25 puntos básicos en la tasa de interés de la Reserva Federal de EE.UU. La medida busca frenar la inflación, pero preocupa a los inversores por el impacto en la demanda de crédito y el riesgo de morosidad.",
+      "detail": "Cuando la Fed sube las tasas, los bancos enfrentan una doble presión: por un lado, se encarece el crédito y la gente pide menos préstamos; por otro, aumenta el riesgo de que los deudores existentes no puedan pagar. Por eso, las acciones del sector financiero suelen reaccionar negativamente ante subas de tasas. Este mecanismo es clave para entender cómo la política monetaria impacta directamente en la rentabilidad de las empresas y en los mercados.",
       "tags": [
-        "banca",
-        "regulación",
-        "inteligencia artificial"
+        "tasas de interés",
+        "bancos",
+        "política monetaria"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/transcripts/ubs-at-bank-of-america-financials-conference-growth-meets-capital-pressure-93CH-4910194",
-      "published_at": "2026-09-22T10:04:07Z",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-northern-trust-ameriprise-203746620.html",
+      "published_at": "2026-09-22T20:38:43Z",
       "tickers": [
-        "BAC",
+        "AMP",
+        "NTRS",
+        "MS"
+      ]
+    },
+    {
+      "id": "microsoft-dividendo-ia",
+      "type": "empresa",
+      "title": "Microsoft subió su dividendo 8% pero la inversión en IA genera dudas",
+      "summary": "Microsoft aumentó su dividendo trimestral un 8%, hasta 0,98 dólares por acción, manteniendo una racha de 20 años de crecimiento en pagos a accionistas. Sin embargo, el enorme gasto en infraestructura de inteligencia artificial presiona el flujo de caja libre y podría limitar futuros aumentos si la IA no genera ingresos acordes.",
+      "detail": "Un dividendo creciente es señal de solidez financiera, pero tiene un costo: requiere efectivo disponible. Cuando una empresa invierte fuerte en tecnología —como Microsoft con la IA— puede verse obligada a elegir entre seguir invirtiendo o seguir pagando dividendos. Este es un ejemplo clásico de la tensión entre crecimiento y retorno al accionista, un concepto central en finanzas corporativas.",
+      "tags": [
+        "dividendos",
+        "inteligencia artificial",
+        "Microsoft"
+      ],
+      "source_name": "Insider Monkey",
+      "source_url": "https://www.insidermonkey.com/news/microsoft-msft-raises-its-dividend-8-does-ai-spending-change-the-investment-case-1839989/",
+      "published_at": "2026-09-22T19:16:56Z",
+      "tickers": [
         "MSFT"
       ]
     },
     {
-      "id": "home-depot-mercado-inmobiliario-2026",
-      "type": "economia",
-      "title": "El CFO de Home Depot alerta: el mercado inmobiliario de EE.UU. está \"congelado\"",
-      "summary": "El director financiero de Home Depot describió el mercado de viviendas en EE.UU. como \"congelado\", con solo el 2,8% de las casas cambiando de manos en los primeros nueve meses de 2025, el nivel más bajo en cuatro años. Esta parálisis impacta directamente a empresas como Home Depot, que dependen de que la gente compre, venda y refaccione propiedades.",
-      "detail": "Cuando las personas no compran ni venden casas, tampoco gastan en materiales de construcción, electrodomésticos ni renovaciones. Esto afecta los ingresos de retailers como Home Depot. Un mercado inmobiliario estancado suele ser consecuencia de tasas de interés altas que encarecen las hipotecas, lo que a su vez frena la actividad económica en varios sectores. Este tipo de dato es clave para entender cómo la política monetaria de la Fed impacta en la economía real.",
+      "id": "apple-vs-nvidia-ia",
+      "type": "empresa",
+      "title": "Apple desafía a Nvidia con Macs que procesan IA sin cobrar por uso",
+      "summary": "Apple presentó sus nuevas Macs como una alternativa para que empresas corran modelos de IA de forma local, sin pagar tarifas por uso en la nube que sí cobra el modelo de Nvidia. La estrategia apunta a competir con el dominio de Nvidia en infraestructura de IA, ofreciendo hardware de compra única en lugar de servicios continuos.",
+      "detail": "El negocio de Nvidia se basa en que las empresas paguen por usar sus chips en centros de datos, generando ingresos recurrentes. Apple propone la alternativa opuesta: comprás el hardware una vez y procesás todo localmente. Esta disputa ilustra dos modelos de negocio muy distintos —venta de hardware versus servicios— y cómo la IA está redefiniendo quiénes son los grandes ganadores tecnológicos.",
       "tags": [
-        "real estate",
-        "consumo",
-        "tasas de interés"
+        "inteligencia artificial",
+        "tecnología",
+        "competencia"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
-      "published_at": "2026-09-22T10:45:00Z",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/apple-takes-aim-nvidia-ai-193250242.html",
+      "published_at": "2026-09-22T19:13:25Z",
       "tickers": [
-        "HD"
+        "AAPL",
+        "NVDA"
       ]
     },
     {
-      "id": "san-francisco-truth-social-demanda-2026",
-      "type": "mercado",
-      "title": "San Francisco demanda a Trump Media por vender acceso anticipado a posts que mueven mercados",
-      "summary": "La ciudad de San Francisco inició una demanda contra Trump Media & Technology Group por su servicio \"Truth API\", que cobra hasta 100.000 dólares por mes para acceder antes que nadie a los posteos de Donald Trump en Truth Social. El argumento es que esto permite a inversores ricos operar con ventaja informativa, perjudicando al inversor común.",
-      "detail": "Esta noticia toca un concepto central en finanzas: la equidad en el acceso a la información. Los mercados financieros funcionan mejor cuando todos los participantes acceden a la misma información al mismo tiempo. Vender acceso anticipado a declaraciones de una figura política influyente puede considerarse una forma de información privilegiada. Es un caso que ilustra los límites entre el discurso público, la información de mercado y la regulación financiera.",
+      "id": "royal-caribbean-sandals",
+      "type": "empresa",
+      "title": "Royal Caribbean negocia comprar Sandals Resorts y su acción cayó 5,4%",
+      "summary": "Royal Caribbean está en negociaciones para adquirir una participación mayoritaria en Sandals Resorts, la cadena de hoteles de lujo del Caribe, en una operación valuada en torno a los 6.000 millones de dólares. La noticia hizo caer las acciones de la compañía un 5,4%, ya que los inversores mostraron cautela ante la diversificación fuera del negocio de cruceros.",
+      "detail": "Cuando una empresa anuncia una gran adquisición, su acción suele caer porque el mercado teme que pague demasiado o que se complique gestionando un negocio diferente al suyo. En este caso, Royal Caribbean quiere expandirse al turismo terrestre, lo que implica riesgos operativos nuevos. Esta reacción del mercado es un ejemplo clásico de cómo las fusiones y adquisiciones generan incertidumbre en el corto plazo.",
+      "tags": [
+        "fusiones",
+        "turismo",
+        "acciones"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/price-royal-caribbean-cruises-nyse-rcl-trading-down-54-heres-why-2026-09-22/",
+      "published_at": "2026-09-22T18:53:06Z",
+      "tickers": [
+        "RCL"
+      ]
+    },
+    {
+      "id": "micron-ganancias-tech-barata",
+      "type": "empresa",
+      "title": "Micron proyecta ganancias 10 veces mayores y sigue siendo la tech más barata",
+      "summary": "Micron Technology espera reportar ganancias casi 10 veces superiores a las del año anterior, pero su acción cotiza a solo 7,3 veces las ganancias futuras, la valuación más baja entre las grandes tecnológicas estadounidenses. Esta diferencia se explica por la naturaleza cíclica del negocio de chips de memoria, donde los períodos de alta rentabilidad suelen alternarse con caídas.",
+      "detail": "El ratio precio/ganancias (P/E) es una de las métricas más usadas para saber si una acción está cara o barata. Que Micron tenga un P/E bajo a pesar del crecimiento explosivo refleja que el mercado desconfía de que esa rentabilidad se sostenga en el tiempo, dado el historial de ciclos en la industria de semiconductores. Aprender a distinguir entre crecimiento temporal y estructural es fundamental para evaluar inversiones.",
+      "tags": [
+        "semiconductores",
+        "valuación",
+        "ganancias"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/tech/26/09/61930540/micron-third-quarter-earnings-10x-jump-cheapest-tech-stock",
+      "published_at": "2026-09-22T18:10:54Z",
+      "tickers": [
+        "MU"
+      ]
+    },
+    {
+      "id": "abbott-acuerdo-doj",
+      "type": "empresa",
+      "title": "Abbott pagará casi 385 millones de dólares por irregularidades en plantas de fórmula infantil",
+      "summary": "Abbott Laboratories acordó pagar casi 385 millones de dólares para resolver una demanda del Departamento de Justicia de EE.UU. por condiciones insalubres en dos de sus plantas productoras de fórmula infantil. Las denuncias originales fueron presentadas por exempleados de la empresa.",
+      "detail": "Los acuerdos con reguladores o el gobierno son eventos relevantes para los inversores porque implican costos extraordinarios que reducen las ganancias y pueden dañar la reputación de la empresa. Además, señalan riesgos regulatorios: si una compañía opera en industrias muy controladas —como alimentos o medicamentos— el cumplimiento normativo es clave para su valuación a largo plazo.",
       "tags": [
         "regulación",
-        "información privilegiada",
-        "mercados"
+        "farmacéutica",
+        "multas"
       ],
-      "source_name": "The New York Times",
-      "source_url": "https://www.nytimes.com/2026/09/22/us/san-francisco-lawsuit-truth-social-early-access.html",
-      "published_at": "2026-09-22T08:48:11Z",
+      "source_name": "Compliance Week",
+      "source_url": "https://www.complianceweek.com/top-stories/abbott-to-pay-almost-385m-in-doj-settlement-over-infant-formula-plant-allegations/",
+      "published_at": "2026-09-22T19:50:42Z",
       "tickers": [
-        "DJT"
+        "ABT"
       ]
     },
     {
-      "id": "kkr-akrapoint-2026",
+      "id": "qualcomm-snapdragon-gen6",
       "type": "empresa",
-      "title": "KKR lanzó una financiera de 350 millones de dólares para pequeñas empresas",
-      "summary": "KKR creó Akrapoint Commercial Capital, una nueva compañía que otorgará préstamos de entre 250.000 y 5 millones de dólares a pequeñas y medianas empresas para financiar equipos industriales. La iniciativa se financia a través del segundo fondo de finanzas basadas en activos de KKR.",
-      "detail": "KKR es uno de los fondos de private equity más grandes del mundo. Cuando una firma así lanza un vehículo nuevo, señala que ve oportunidad de retorno en ese segmento. Los préstamos respaldados por activos físicos (como maquinaria) son considerados más seguros porque el bien sirve de garantía. Este movimiento también muestra cómo el capital privado está ocupando espacios que antes eran exclusivos de los bancos tradicionales.",
+      "title": "Qualcomm presentó sus nuevos chips premium con IA avanzada para celulares",
+      "summary": "Qualcomm anunció los Snapdragon 8 Elite Extreme Gen 6 y 8 Elite Gen 6, sus chips más potentes para smartphones, fabricados en proceso de 2 nanómetros y diseñados para correr aplicaciones de inteligencia artificial directamente en el dispositivo. La estrategia apunta a llevar estas capacidades a una gama más amplia de celulares premium.",
+      "detail": "Los chips son el corazón de los smartphones y Qualcomm es uno de sus principales proveedores globales. Cada generación de chips más potente impulsa el reemplazo de dispositivos y aumenta los ingresos de la empresa. Seguir los lanzamientos de semiconductores ayuda a entender los ciclos tecnológicos y cómo impactan en las cadenas de valor globales.",
       "tags": [
-        "private equity",
-        "crédito",
-        "pymes"
+        "semiconductores",
+        "inteligencia artificial",
+        "tecnología"
       ],
-      "source_name": "WSJ",
-      "source_url": "https://www.wsj.com/pro/private-equity/kkr-builds-350-million-equipment-finance-firm-akrapoint-commercial-capital-a9e755bd",
-      "published_at": "2026-09-22T10:51:32Z",
+      "source_name": "The Shortcut",
+      "source_url": "https://www.theshortcut.com/p/qualcomm-announces-snapdragon-8-elite-extreme-gen-6-and-8-elite-gen-6-its-newest-premium-mobile-chips",
+      "published_at": "2026-09-22T20:00:49Z",
+      "tickers": [
+        "QCOM"
+      ]
+    },
+    {
+      "id": "kkr-logistica-uk",
+      "type": "mercado",
+      "title": "KKR compró un portafolio de 8 activos logísticos en el Reino Unido",
+      "summary": "KKR y Mirastar adquirieron un portafolio de ocho propiedades logísticas en el Reino Unido con una superficie total de 2,7 millones de pies cuadrados, comprándoselo a fondos de Ares Management. La operación se completó el 22 de septiembre de 2026.",
+      "detail": "Las grandes gestoras de fondos como KKR invierten en activos reales —como galpones logísticos— porque generan ingresos estables vía alquileres y se benefician del crecimiento del comercio electrónico. Este tipo de operaciones muestra cómo el capital privado global busca activos físicos como refugio y fuente de retornos, un concepto útil para entender la diversificación de portafolios.",
+      "tags": [
+        "real estate",
+        "capital privado",
+        "logística"
+      ],
+      "source_name": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com/news/mirastar-real-estate-investment-management-limited-and-kkr-co-inc-acquired-a-2-7-million-square-ce785ad9d98afe20",
+      "published_at": "2026-09-22T20:54:12Z",
       "tickers": [
         "KKR"
       ]
     },
     {
-      "id": "idp-blackstone-rechazo-2026",
+      "id": "bristol-myers-despidos",
       "type": "empresa",
-      "title": "IDP Education rechazó la oferta de compra de Blackstone por casi 500 millones de dólares",
-      "summary": "La empresa australiana IDP Education rechazó una oferta mejorada de Blackstone valuada en aproximadamente 494 millones de dólares, calificándola de \"altamente oportunista\" y por debajo del valor real del negocio. Las acciones de IDP igualmente subieron un 20,7% con la noticia.",
-      "detail": "Cuando una empresa rechaza una oferta de adquisición, está diciendo que cree que vale más de lo que el comprador ofrece. Blackstone, un gigante del capital privado, suele aprovechar momentos de debilidad en sectores para comprar barato. El hecho de que las acciones hayan subido igual muestra que el mercado interpreta el rechazo como una señal de que podría venir una oferta más alta. Este tipo de situaciones enseña cómo funcionan las fusiones y adquisiciones en la práctica.",
+      "title": "Bristol Myers Squibb recortó otros 265 empleos en su sede de Nueva Jersey",
+      "summary": "Bristol Myers Squibb anunció 265 nuevos despidos en su sede central de Nueva Jersey, llevando el total de recortes en ese estado a más de 700 en lo que va del año. La medida forma parte de un plan de reducción de costos que busca ahorrar 2.000 millones de dólares anuales para fines de 2027.",
+      "detail": "Los planes de reducción de costos son comunes en grandes corporaciones que buscan mejorar sus márgenes o redirigir recursos hacia áreas más rentables. En el sector farmacéutico, esto suele ocurrir cuando los ingresos de medicamentos maduros caen y es necesario financiar nuevos desarrollos. Para los inversores, estos anuncios pueden ser señales tanto de dificultades como de una reestructuración estratégica.",
       "tags": [
-        "adquisiciones",
-        "private equity",
-        "valuación"
+        "farmacéutica",
+        "recortes",
+        "costos"
       ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/world/asia-pacific/australias-idp-rejects-blackstones-494-million-takeover-offer-2026-09-22/",
-      "published_at": "2026-09-22T08:24:11Z",
+      "source_name": "Fierce Pharma",
+      "source_url": "https://www.fiercepharma.com/pharma/bristol-myers-cuts-another-265-jobs-tied-new-jersey-headquarters",
+      "published_at": "2026-09-22T18:59:26Z",
       "tickers": [
-        "BX"
+        "BMY"
       ]
     },
     {
-      "id": "mcdonalds-minimo-52-semanas-2026",
-      "type": "mercado",
-      "title": "McDonald's tocó su mínimo en 52 semanas por caída en ventas y tráfico",
-      "summary": "Las acciones de McDonald's cayeron a un nuevo mínimo de 52 semanas en 246,52 dólares, afectadas por la desaceleración en ventas y tráfico en sus locales de EE.UU. En respuesta, la compañía está ajustando su estrategia operativa y probando menús más pequeños. Los analistas mantienen una recomendación de compra moderada con un precio objetivo de 317,04 dólares.",
-      "detail": "Un mínimo de 52 semanas es una señal técnica relevante: indica que el mercado está castigando a la empresa más que en cualquier momento del último año. En el caso de McDonald's, la caída refleja preocupaciones sobre el consumidor: si la gente gasta menos en comida rápida, puede ser síntoma de presión económica general. A su vez, la diferencia entre el precio actual y el precio objetivo de los analistas muestra cuánto potencial de recuperación ven los profesionales.",
-      "tags": [
-        "consumo",
-        "acciones",
-        "resultados"
-      ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/price-mcdonalds-nyse-mcd-reaches-new-52-week-low-heres-why-2026-09-22/",
-      "published_at": "2026-09-22T08:47:07Z",
-      "tickers": [
-        "MCD"
-      ]
-    },
-    {
-      "id": "halliburton-venezuela-mou-2026",
+      "id": "microsoft-accionistas-sec",
       "type": "empresa",
-      "title": "Halliburton firmó acuerdos para desarrollar el sector energético en Venezuela",
-      "summary": "Halliburton firmó memorandos de entendimiento con la brasileña Eneva y la venezolana WESCA para avanzar en el desarrollo de oportunidades energéticas en Venezuela. Esto ocurre luego de que la Asamblea Nacional venezolana aprobara un acuerdo petrolero que otorga acceso a una porción importante de las reservas del país a una empresa privada estadounidense.",
-      "detail": "Venezuela tiene una de las mayores reservas de petróleo del mundo, pero su industria está muy deteriorada. La entrada de empresas como Halliburton señala una posible reapertura del mercado venezolano al capital privado internacional, lo que puede tener implicancias geopolíticas y de precios del petróleo. Para quien aprende finanzas, es un ejemplo de cómo el riesgo político y la oportunidad económica coexisten en mercados emergentes con recursos naturales.",
+      "title": "Microsoft garantizará los derechos de propuesta de accionistas hasta 2027",
+      "summary": "Microsoft acordó mantener los umbrales actuales para que los accionistas puedan presentar propuestas a voto hasta 2027, incluso si la SEC flexibiliza sus normas en ese sentido. El acuerdo busca proteger el poder de los inversores individuales y podría servir de modelo para otras empresas.",
+      "detail": "El derecho de los accionistas a presentar propuestas es una herramienta clave de gobierno corporativo: permite que inversores minoritarios influyan en decisiones estratégicas de las empresas. Si la SEC reduce ese marco regulatorio, las grandes corporaciones quedarían con más autonomía frente a sus accionistas. Que Microsoft elija ir más allá de lo que exige el regulador es relevante para entender cómo el gobierno corporativo impacta en la confianza de los inversores.",
       "tags": [
-        "petróleo",
-        "energía",
-        "geopolítica"
+        "gobierno corporativo",
+        "accionistas",
+        "regulación"
       ],
-      "source_name": "Egypt Oil & Gas",
-      "source_url": "https://egyptoil-gas.com/news/halliburton-signs-mous-for-developing-energy-sector-in-venezuela/",
-      "published_at": "2026-09-22T08:41:30Z",
+      "source_name": "U.S. News & World Report",
+      "source_url": "https://www.usnews.com/news/top-news/articles/2026-09-22/exclusive-microsoft-to-keep-shareholder-proposal-rights-through-2027-even-as-sec-reduces-oversight",
+      "published_at": "2026-09-22T20:17:00Z",
       "tickers": [
-        "HAL",
-        "XOM"
-      ]
-    },
-    {
-      "id": "cantor-fitzgerald-microsoft-servicenow-2026",
-      "type": "mercado",
-      "title": "Cantor Fitzgerald sube los precios objetivo de Microsoft y ServiceNow por el impulso de la AI",
-      "summary": "El banco de inversión Cantor Fitzgerald elevó el precio objetivo de Microsoft a 608 dólares y el de ServiceNow a 174 dólares, ambos con recomendación de sobreponderar, destacando el crecimiento de Azure y las iniciativas de inteligencia artificial como principales motores.",
-      "detail": "Cuando una firma de análisis sube su precio objetivo, está diciendo que espera que la acción valga más en los próximos 12 meses. En este caso, el argumento central es el crecimiento impulsado por la AI, especialmente en servicios de nube como Azure de Microsoft. Esto es útil para entender cómo los analistas valoran empresas tecnológicas: no solo por sus ganancias actuales, sino por su capacidad de crecer en segmentos de alta demanda.",
-      "tags": [
-        "tecnología",
-        "inteligencia artificial",
-        "analistas"
-      ],
-      "source_name": "SuaraGarut.ID",
-      "source_url": "https://suaragarut.id/en/cantor-fitzgerald-raises-tech-targets",
-      "published_at": "2026-09-22T09:08:40Z",
-      "tickers": [
-        "NOW"
+        "MSFT"
       ]
     }
   ],
@@ -157,39 +194,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.550",
-      "valor_num": 1550.0,
-      "delta_pct": 0.0
+      "valor": "$1.555",
+      "valor_num": 1555.0,
+      "delta_pct": 0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.536",
-      "valor_num": 1536.5,
+      "valor": "$1.537",
+      "valor_num": 1536.6,
       "delta_pct": -0.23
     },
     {
       "label": "CCL",
-      "valor": "$1.596",
-      "valor_num": 1596.4,
-      "delta_pct": -0.11
+      "valor": "$1.598",
+      "valor_num": 1598.3,
+      "delta_pct": 0.01
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 85.947",
-      "valor_num": 85947.0,
-      "delta_pct": 1.32
+      "valor": "US$ 86.204",
+      "valor_num": 86204.0,
+      "delta_pct": -0.46
     },
     {
       "label": "S&P 500",
       "valor": "7.765",
-      "valor_num": 7764.7,
-      "delta_pct": 1.9
+      "valor_num": 7764.64,
+      "delta_pct": 2.36
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.357",
-      "valor_num": 4357.4,
-      "delta_pct": -0.96
+      "valor": "US$ 4.396",
+      "valor_num": 4396.2,
+      "delta_pct": -0.08
     }
   ]
 }
