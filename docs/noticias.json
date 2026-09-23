@@ -1,187 +1,185 @@
 {
-  "generated_at": "2026-09-22T22:01:22.959954+00:00",
+  "generated_at": "2026-09-23T12:01:22.564488+00:00",
   "items": [
     {
-      "id": "fed-rate-hike-financials",
-      "type": "mercado",
-      "title": "La Fed subió tasas y cayeron acciones de bancos y financieras",
-      "summary": "Varias acciones financieras como Morgan Stanley, Ameriprise y Northern Trust bajaron tras la suba de 25 puntos básicos en la tasa de interés de la Reserva Federal de EE.UU. La medida busca frenar la inflación, pero preocupa a los inversores por el impacto en la demanda de crédito y el riesgo de morosidad.",
-      "detail": "Cuando la Fed sube las tasas, los bancos enfrentan una doble presión: por un lado, se encarece el crédito y la gente pide menos préstamos; por otro, aumenta el riesgo de que los deudores existentes no puedan pagar. Por eso, las acciones del sector financiero suelen reaccionar negativamente ante subas de tasas. Este mecanismo es clave para entender cómo la política monetaria impacta directamente en la rentabilidad de las empresas y en los mercados.",
+      "id": "citigroup-q2-2026",
+      "type": "empresa",
+      "title": "Citigroup ganó 45% más en el segundo trimestre y anunció recompra de acciones por USD 30.000 millones",
+      "summary": "Citigroup reportó una ganancia neta de USD 5.800 millones en el segundo trimestre de 2026, un 45% más que el año anterior, con ingresos de USD 24.800 millones. Además, anunció un aumento del dividendo del 12% y un plan de recompra de acciones por USD 30.000 millones.",
+      "detail": "Cuando un banco grande como Citigroup anuncia una recompra de acciones masiva, está diciendo que cree que sus propias acciones están baratas y que tiene caja de sobra. Esto suele subir el precio de las acciones porque reduce la cantidad en circulación. El aumento del dividendo, por su parte, atrae a inversores que buscan ingresos regulares. Juntos, estos movimientos son señales de confianza de la empresa en su propia salud financiera.",
       "tags": [
-        "tasas de interés",
         "bancos",
-        "política monetaria"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-northern-trust-ameriprise-203746620.html",
-      "published_at": "2026-09-22T20:38:43Z",
-      "tickers": [
-        "AMP",
-        "NTRS",
-        "MS"
-      ]
-    },
-    {
-      "id": "microsoft-dividendo-ia",
-      "type": "empresa",
-      "title": "Microsoft subió su dividendo 8% pero la inversión en IA genera dudas",
-      "summary": "Microsoft aumentó su dividendo trimestral un 8%, hasta 0,98 dólares por acción, manteniendo una racha de 20 años de crecimiento en pagos a accionistas. Sin embargo, el enorme gasto en infraestructura de inteligencia artificial presiona el flujo de caja libre y podría limitar futuros aumentos si la IA no genera ingresos acordes.",
-      "detail": "Un dividendo creciente es señal de solidez financiera, pero tiene un costo: requiere efectivo disponible. Cuando una empresa invierte fuerte en tecnología —como Microsoft con la IA— puede verse obligada a elegir entre seguir invirtiendo o seguir pagando dividendos. Este es un ejemplo clásico de la tensión entre crecimiento y retorno al accionista, un concepto central en finanzas corporativas.",
-      "tags": [
         "dividendos",
-        "inteligencia artificial",
-        "Microsoft"
+        "recompra de acciones"
       ],
-      "source_name": "Insider Monkey",
-      "source_url": "https://www.insidermonkey.com/news/microsoft-msft-raises-its-dividend-8-does-ai-spending-change-the-investment-case-1839989/",
-      "published_at": "2026-09-22T19:16:56Z",
+      "source_name": "MarketScreener",
+      "source_url": "https://www.marketscreener.com/news/citigroup-quarterly-financial-report-citigroup-inc-2nd-quarter-2026-earnings-report-en-ce785ad9dd80f523",
+      "published_at": "2026-09-23T11:04:32Z",
       "tickers": [
-        "MSFT"
+        "C"
       ]
     },
     {
-      "id": "apple-vs-nvidia-ia",
+      "id": "boeing-price-target-cut",
       "type": "empresa",
-      "title": "Apple desafía a Nvidia con Macs que procesan IA sin cobrar por uso",
-      "summary": "Apple presentó sus nuevas Macs como una alternativa para que empresas corran modelos de IA de forma local, sin pagar tarifas por uso en la nube que sí cobra el modelo de Nvidia. La estrategia apunta a competir con el dominio de Nvidia en infraestructura de IA, ofreciendo hardware de compra única en lugar de servicios continuos.",
-      "detail": "El negocio de Nvidia se basa en que las empresas paguen por usar sus chips en centros de datos, generando ingresos recurrentes. Apple propone la alternativa opuesta: comprás el hardware una vez y procesás todo localmente. Esta disputa ilustra dos modelos de negocio muy distintos —venta de hardware versus servicios— y cómo la IA está redefiniendo quiénes son los grandes ganadores tecnológicos.",
+      "title": "Jefferies bajó el precio objetivo de Boeing de USD 295 a USD 265",
+      "summary": "El banco de inversión Jefferies recortó su precio objetivo para Boeing, citando una leve reducción en el flujo de caja libre esperado, aunque mantuvo su recomendación de compra. El promedio de los analistas tiene un precio objetivo de USD 273,69 para la acción.",
+      "detail": "Un recorte de precio objetivo por parte de un banco de inversión no significa necesariamente que la acción sea mala, sino que el analista ajustó sus proyecciones financieras. El concepto clave acá es el 'flujo de caja libre': es el dinero que le queda a una empresa después de pagar sus gastos e inversiones. Para empresas industriales como Boeing, este número es crucial porque muestra si el negocio genera efectivo real, más allá de las ganancias contables.",
       "tags": [
-        "inteligencia artificial",
+        "aeronáutica",
+        "analistas",
+        "flujo de caja"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/boeing-stock-falls-as-jefferies-cuts-its-price-target/70166082",
+      "published_at": "2026-09-23T11:00:00Z",
+      "tickers": [
+        "BA"
+      ]
+    },
+    {
+      "id": "delta-airlines-earnings",
+      "type": "empresa",
+      "title": "Delta Air Lines superó expectativas con ingresos de USD 17.670 millones y se beneficia de la caída del petróleo",
+      "summary": "Las acciones de Delta subieron 1,72% luego de que la aerolínea reportara ingresos trimestrales de USD 17.670 millones, por encima de lo esperado por los analistas. La baja en el precio del petróleo es vista como un factor positivo para el sector.",
+      "detail": "El petróleo es uno de los principales costos de las aerolíneas, por eso cuando su precio baja, los márgenes de ganancia mejoran aunque los ingresos no cambien. Esta relación entre el precio de una materia prima y la rentabilidad de una industria es un ejemplo clásico de cómo los mercados de commodities impactan directamente en empresas de otros sectores. Es un mecanismo útil para entender cómo se conectan distintos mercados.",
+      "tags": [
+        "aerolíneas",
+        "petróleo",
+        "resultados"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/delta-air-lines-stock-gains-1-72-percent-as-earnings-near/70165633",
+      "published_at": "2026-09-23T11:13:00Z",
+      "tickers": [
+        "DAL"
+      ]
+    },
+    {
+      "id": "southwest-earnings-beat",
+      "type": "empresa",
+      "title": "Southwest Airlines ganó USD 0,94 por acción, casi el doble de lo que esperaban los analistas",
+      "summary": "Southwest Airlines reportó ganancias por acción de USD 0,94 en el tercer trimestre, superando ampliamente el consenso de USD 0,52. Los ingresos también superaron expectativas, alcanzando USD 8.720 millones.",
+      "detail": "Cuando una empresa supera tan ampliamente las estimaciones de los analistas, el mercado suele reaccionar con subas en el precio de la acción. El 'consenso' es el promedio de las proyecciones de muchos analistas, y alejarse tanto de ese número hacia arriba indica que el negocio está funcionando mejor de lo que el mercado anticipaba. Este tipo de sorpresa positiva es uno de los motores más comunes de movimientos bruscos en acciones.",
+      "tags": [
+        "aerolíneas",
+        "ganancias",
+        "sorpresa positiva"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southwest-airlines-stock-gains-0-71-percent-as-earnings-beat-estimates/70165831",
+      "published_at": "2026-09-23T10:33:52Z",
+      "tickers": [
+        "LUV"
+      ]
+    },
+    {
+      "id": "fortinet-revenue-growth",
+      "type": "empresa",
+      "title": "Fortinet creció 26% en ingresos y subió su proyección anual",
+      "summary": "Fortinet reportó ingresos de USD 2.050 millones, un 26% más que el año anterior, y elevó su perspectiva de ingresos para todo 2026 a un rango de entre USD 8.020 y USD 8.180 millones. La acción cerró cerca de su máximo anual.",
+      "detail": "Cuando una empresa no solo supera los resultados pasados sino que también sube su 'guidance' o proyección futura, es una señal doble de confianza. En el sector de ciberseguridad, el crecimiento de billings de SASE (un modelo de seguridad en la nube) refleja la tendencia de empresas adoptando soluciones digitales integradas. Esto importa porque muestra cómo sectores tecnológicos específicos siguen creciendo incluso en entornos económicos complejos.",
+      "tags": [
+        "ciberseguridad",
         "tecnología",
-        "competencia"
+        "guidance"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/technology/ai/articles/apple-takes-aim-nvidia-ai-193250242.html",
-      "published_at": "2026-09-22T19:13:25Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fortinet-stock-closes-at-usd-174-26-near-its-yearly-high/70166000",
+      "published_at": "2026-09-23T10:52:03Z",
       "tickers": [
-        "AAPL",
-        "NVDA"
+        "FTNT"
       ]
     },
     {
-      "id": "royal-caribbean-sandals",
-      "type": "empresa",
-      "title": "Royal Caribbean negocia comprar Sandals Resorts y su acción cayó 5,4%",
-      "summary": "Royal Caribbean está en negociaciones para adquirir una participación mayoritaria en Sandals Resorts, la cadena de hoteles de lujo del Caribe, en una operación valuada en torno a los 6.000 millones de dólares. La noticia hizo caer las acciones de la compañía un 5,4%, ya que los inversores mostraron cautela ante la diversificación fuera del negocio de cruceros.",
-      "detail": "Cuando una empresa anuncia una gran adquisición, su acción suele caer porque el mercado teme que pague demasiado o que se complique gestionando un negocio diferente al suyo. En este caso, Royal Caribbean quiere expandirse al turismo terrestre, lo que implica riesgos operativos nuevos. Esta reacción del mercado es un ejemplo clásico de cómo las fusiones y adquisiciones generan incertidumbre en el corto plazo.",
+      "id": "chevron-institutional-buying",
+      "type": "mercado",
+      "title": "State Street aumentó su posición en Chevron a más de 159 millones de acciones valuadas en USD 28.000 millones",
+      "summary": "State Street Corp incrementó su tenencia en Chevron en un 3,9% durante el segundo trimestre, acumulando más de 159 millones de acciones por un valor de USD 28.000 millones. Chevron reportó ganancias sólidas, aunque analistas señalan preocupación por precios débiles del crudo y ventas de insiders.",
+      "detail": "Los movimientos de grandes inversores institucionales como State Street son seguidos de cerca porque mueven volúmenes enormes y suelen hacer análisis profundos antes de actuar. Sin embargo, el hecho de que insiders de la propia empresa vendan acciones al mismo tiempo que un institucional compra genera una señal mixta: alguien de adentro reduce su exposición mientras alguien de afuera apuesta. Aprender a leer estas señales contrapuestas es clave en el análisis de acciones.",
       "tags": [
-        "fusiones",
-        "turismo",
-        "acciones"
+        "energía",
+        "inversores institucionales",
+        "petróleo"
       ],
       "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/price-royal-caribbean-cruises-nyse-rcl-trading-down-54-heres-why-2026-09-22/",
-      "published_at": "2026-09-22T18:53:06Z",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-boosts-stock-position-in-chevron-corporation-cvx-2026-09-22/",
+      "published_at": "2026-09-23T10:48:19Z",
       "tickers": [
-        "RCL"
+        "CVX",
+        "STT"
       ]
     },
     {
-      "id": "micron-ganancias-tech-barata",
+      "id": "lululemon-fraud-investigation",
       "type": "empresa",
-      "title": "Micron proyecta ganancias 10 veces mayores y sigue siendo la tech más barata",
-      "summary": "Micron Technology espera reportar ganancias casi 10 veces superiores a las del año anterior, pero su acción cotiza a solo 7,3 veces las ganancias futuras, la valuación más baja entre las grandes tecnológicas estadounidenses. Esta diferencia se explica por la naturaleza cíclica del negocio de chips de memoria, donde los períodos de alta rentabilidad suelen alternarse con caídas.",
-      "detail": "El ratio precio/ganancias (P/E) es una de las métricas más usadas para saber si una acción está cara o barata. Que Micron tenga un P/E bajo a pesar del crecimiento explosivo refleja que el mercado desconfía de que esa rentabilidad se sostenga en el tiempo, dado el historial de ciclos en la industria de semiconductores. Aprender a distinguir entre crecimiento temporal y estructural es fundamental para evaluar inversiones.",
+      "title": "Investigan a Lululemon por posible fraude de valores tras caída de sus acciones",
+      "summary": "Un estudio de abogados lanzó una investigación contra Lululemon por posible fraude de valores, luego de que la empresa revelara problemas de crecimiento, caída de márgenes y reducción de su guía financiera. Inversores que sufrieron pérdidas están siendo convocados a sumarse.",
+      "detail": "El fraude de valores ocurre cuando una empresa divulga información falsa o incompleta al mercado y los inversores toman decisiones basadas en esos datos incorrectos. Cuando luego se revelan los problemas reales y la acción cae bruscamente, quienes compraron al precio inflado pueden reclamar daños. Este tipo de investigaciones son comunes en EE.UU. y muestran que los mercados tienen mecanismos legales para proteger a los inversores cuando hay falta de transparencia.",
       "tags": [
-        "semiconductores",
-        "valuación",
-        "ganancias"
+        "fraude",
+        "transparencia",
+        "acciones"
       ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/markets/tech/26/09/61930540/micron-third-quarter-earnings-10x-jump-cheapest-tech-stock",
-      "published_at": "2026-09-22T18:10:54Z",
+      "source_name": "GlobeNewswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/23/3367258/0/en/lulu-stock-notification-lululemon-is-being-investigated-for-securities-fraud-after-growth-issues-disclosed-investors-are-alerted-to-contact-bfa-law.html",
+      "published_at": "2026-09-23T10:06:43Z",
       "tickers": [
-        "MU"
+        "LULU"
       ]
     },
     {
-      "id": "abbott-acuerdo-doj",
+      "id": "apple-iphone-18-pro",
       "type": "empresa",
-      "title": "Abbott pagará casi 385 millones de dólares por irregularidades en plantas de fórmula infantil",
-      "summary": "Abbott Laboratories acordó pagar casi 385 millones de dólares para resolver una demanda del Departamento de Justicia de EE.UU. por condiciones insalubres en dos de sus plantas productoras de fórmula infantil. Las denuncias originales fueron presentadas por exempleados de la empresa.",
-      "detail": "Los acuerdos con reguladores o el gobierno son eventos relevantes para los inversores porque implican costos extraordinarios que reducen las ganancias y pueden dañar la reputación de la empresa. Además, señalan riesgos regulatorios: si una compañía opera en industrias muy controladas —como alimentos o medicamentos— el cumplimiento normativo es clave para su valuación a largo plazo.",
+      "title": "Apple lanzó el iPhone 18 Pro con mejoras en cámara y batería junto a su primer teléfono plegable",
+      "summary": "Apple presentó el iPhone 18 Pro y Pro Max junto al iPhone Duo, su primer dispositivo plegable, reorientando su ciclo de lanzamientos hacia productos de alta gama. Los críticos destacan mejoras significativas en cámara y autonomía de batería.",
+      "detail": "Los lanzamientos de productos de Apple son eventos con impacto directo en sus acciones y en toda su cadena de suministro global. Cuando Apple apuesta por un segmento nuevo como los plegables, está compitiendo directamente con Samsung y otros fabricantes, lo que puede mover también las acciones de sus competidores y proveedores. Para un inversor, entender cómo los ciclos de producto de una empresa afectan sus ingresos futuros es una habilidad fundamental.",
       "tags": [
-        "regulación",
-        "farmacéutica",
-        "multas"
+        "Apple",
+        "tecnología",
+        "lanzamiento"
       ],
-      "source_name": "Compliance Week",
-      "source_url": "https://www.complianceweek.com/top-stories/abbott-to-pay-almost-385m-in-doj-settlement-over-infant-formula-plant-allegations/",
-      "published_at": "2026-09-22T19:50:42Z",
+      "source_name": "Bloomberg",
+      "source_url": "https://www.bloomberg.com/news/features/2026-09-23/apple-iphone-18-pro-review-camera-and-battery-upgrades-improved-performance",
+      "published_at": "2026-09-23T10:15:00Z",
       "tickers": [
-        "ABT"
+        "AAPL"
       ]
     },
     {
-      "id": "qualcomm-snapdragon-gen6",
+      "id": "sp-global-ratings",
       "type": "empresa",
-      "title": "Qualcomm presentó sus nuevos chips premium con IA avanzada para celulares",
-      "summary": "Qualcomm anunció los Snapdragon 8 Elite Extreme Gen 6 y 8 Elite Gen 6, sus chips más potentes para smartphones, fabricados en proceso de 2 nanómetros y diseñados para correr aplicaciones de inteligencia artificial directamente en el dispositivo. La estrategia apunta a llevar estas capacidades a una gama más amplia de celulares premium.",
-      "detail": "Los chips son el corazón de los smartphones y Qualcomm es uno de sus principales proveedores globales. Cada generación de chips más potente impulsa el reemplazo de dispositivos y aumenta los ingresos de la empresa. Seguir los lanzamientos de semiconductores ayuda a entender los ciclos tecnológicos y cómo impactan en las cadenas de valor globales.",
+      "title": "S&P Global cerró en USD 404,59 con consenso de analistas que ve un potencial de suba del 29%",
+      "summary": "Las acciones de S&P Global cerraron en USD 404,59, sostenidas por el crecimiento de su negocio de calificaciones crediticias y datos. Los analistas tienen un precio objetivo promedio de USD 523,59, lo que implica un potencial de suba considerable.",
+      "detail": "S&P Global es una empresa clave en los mercados financieros globales porque emite las calificaciones crediticias que usan gobiernos y empresas de todo el mundo para acceder a financiamiento, incluyendo Argentina. Cuanto mejor es la calificación, más barato resulta endeudarse. Entender el negocio de las calificadoras ayuda a comprender por qué las notas que emiten sobre países tienen tanto impacto en sus economías.",
       "tags": [
-        "semiconductores",
-        "inteligencia artificial",
-        "tecnología"
+        "calificadoras",
+        "mercados",
+        "datos financieros"
       ],
-      "source_name": "The Shortcut",
-      "source_url": "https://www.theshortcut.com/p/qualcomm-announces-snapdragon-8-elite-extreme-gen-6-and-8-elite-gen-6-its-newest-premium-mobile-chips",
-      "published_at": "2026-09-22T20:00:49Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/s-and-p-global-stock-gains-as-ratings-growth-supports-earnings/70165574",
+      "published_at": "2026-09-23T10:07:00Z",
       "tickers": [
-        "QCOM"
+        "SPGI"
       ]
     },
     {
-      "id": "kkr-logistica-uk",
+      "id": "nasdaq-record-high",
       "type": "mercado",
-      "title": "KKR compró un portafolio de 8 activos logísticos en el Reino Unido",
-      "summary": "KKR y Mirastar adquirieron un portafolio de ocho propiedades logísticas en el Reino Unido con una superficie total de 2,7 millones de pies cuadrados, comprándoselo a fondos de Ares Management. La operación se completó el 22 de septiembre de 2026.",
-      "detail": "Las grandes gestoras de fondos como KKR invierten en activos reales —como galpones logísticos— porque generan ingresos estables vía alquileres y se benefician del crecimiento del comercio electrónico. Este tipo de operaciones muestra cómo el capital privado global busca activos físicos como refugio y fuente de retornos, un concepto útil para entender la diversificación de portafolios.",
+      "title": "El Nasdaq cerró en un récord histórico de 27.244 puntos",
+      "summary": "El índice Nasdaq Composite alcanzó un nuevo máximo histórico al cerrar en 27.244,28 puntos, con una suba del 0,45%. El dato surge de una nota sobre Arch Capital, cuya acción bajó 0,87% ese mismo día, quedando rezagada respecto al índice.",
+      "detail": "El Nasdaq es el índice bursátil donde cotizan la mayoría de las grandes empresas tecnológicas del mundo como Apple, Nvidia y Microsoft. Cuando el Nasdaq marca un récord, suele reflejar optimismo sobre el crecimiento económico y la tecnología a nivel global. Para alguien en Argentina que invierte en CEDEARs o en fondos que replican índices internacionales, el nivel del Nasdaq impacta directamente en el valor de esas inversiones.",
       "tags": [
-        "real estate",
-        "capital privado",
-        "logística"
+        "Nasdaq",
+        "récord",
+        "mercado global"
       ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/mirastar-real-estate-investment-management-limited-and-kkr-co-inc-acquired-a-2-7-million-square-ce785ad9d98afe20",
-      "published_at": "2026-09-22T20:54:12Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/arch-capital-group-stock-slips-as-nasdaq-reaches-a-record-close/70164901",
+      "published_at": "2026-09-23T10:52:00Z",
       "tickers": [
-        "KKR"
-      ]
-    },
-    {
-      "id": "bristol-myers-despidos",
-      "type": "empresa",
-      "title": "Bristol Myers Squibb recortó otros 265 empleos en su sede de Nueva Jersey",
-      "summary": "Bristol Myers Squibb anunció 265 nuevos despidos en su sede central de Nueva Jersey, llevando el total de recortes en ese estado a más de 700 en lo que va del año. La medida forma parte de un plan de reducción de costos que busca ahorrar 2.000 millones de dólares anuales para fines de 2027.",
-      "detail": "Los planes de reducción de costos son comunes en grandes corporaciones que buscan mejorar sus márgenes o redirigir recursos hacia áreas más rentables. En el sector farmacéutico, esto suele ocurrir cuando los ingresos de medicamentos maduros caen y es necesario financiar nuevos desarrollos. Para los inversores, estos anuncios pueden ser señales tanto de dificultades como de una reestructuración estratégica.",
-      "tags": [
-        "farmacéutica",
-        "recortes",
-        "costos"
-      ],
-      "source_name": "Fierce Pharma",
-      "source_url": "https://www.fiercepharma.com/pharma/bristol-myers-cuts-another-265-jobs-tied-new-jersey-headquarters",
-      "published_at": "2026-09-22T18:59:26Z",
-      "tickers": [
-        "BMY"
-      ]
-    },
-    {
-      "id": "microsoft-accionistas-sec",
-      "type": "empresa",
-      "title": "Microsoft garantizará los derechos de propuesta de accionistas hasta 2027",
-      "summary": "Microsoft acordó mantener los umbrales actuales para que los accionistas puedan presentar propuestas a voto hasta 2027, incluso si la SEC flexibiliza sus normas en ese sentido. El acuerdo busca proteger el poder de los inversores individuales y podría servir de modelo para otras empresas.",
-      "detail": "El derecho de los accionistas a presentar propuestas es una herramienta clave de gobierno corporativo: permite que inversores minoritarios influyan en decisiones estratégicas de las empresas. Si la SEC reduce ese marco regulatorio, las grandes corporaciones quedarían con más autonomía frente a sus accionistas. Que Microsoft elija ir más allá de lo que exige el regulador es relevante para entender cómo el gobierno corporativo impacta en la confianza de los inversores.",
-      "tags": [
-        "gobierno corporativo",
-        "accionistas",
-        "regulación"
-      ],
-      "source_name": "U.S. News & World Report",
-      "source_url": "https://www.usnews.com/news/top-news/articles/2026-09-22/exclusive-microsoft-to-keep-shareholder-proposal-rights-through-2027-even-as-sec-reduces-oversight",
-      "published_at": "2026-09-22T20:17:00Z",
-      "tickers": [
-        "MSFT"
+        "ACGL"
       ]
     }
   ],
@@ -202,19 +200,19 @@
       "label": "MEP",
       "valor": "$1.537",
       "valor_num": 1536.6,
-      "delta_pct": -0.23
+      "delta_pct": 0.01
     },
     {
       "label": "CCL",
       "valor": "$1.598",
       "valor_num": 1598.3,
-      "delta_pct": 0.01
+      "delta_pct": 0.12
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 86.204",
-      "valor_num": 86204.0,
-      "delta_pct": -0.46
+      "valor": "US$ 85.636",
+      "valor_num": 85636.0,
+      "delta_pct": -0.38
     },
     {
       "label": "S&P 500",
@@ -224,9 +222,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.396",
-      "valor_num": 4396.2,
-      "delta_pct": -0.08
+      "valor": "US$ 4.344",
+      "valor_num": 4344.2,
+      "delta_pct": -1.82
     }
   ]
 }
