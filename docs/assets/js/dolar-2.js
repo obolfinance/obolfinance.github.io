@@ -122,7 +122,13 @@ function buildCards(){
   CASAS.forEach(function(c){
     var r = byCasa[c.casa];
     if (!r) return;
-    var big = state.mode === 'venta' ? r.venta : (r.compra || r.venta);
+    // El tarjeta no es un mercado: es el oficial con los impuestos de los
+    // consumos en moneda extranjera. No se compra ni se vende, asi que el
+    // valor de compra que manda la API —el oficial comprador con el mismo
+    // recargo— no corresponde a ninguna operacion real. La tarjeta muestra
+    // siempre lo que se paga, con el boton donde este.
+    var esTarjeta = c.casa === 'tarjeta';
+    var big = esTarjeta || state.mode === 'venta' ? r.venta : (r.compra || r.venta);
     var other = state.mode === 'venta' ? (r.compra || r.venta) : r.venta;
     var otherLabel = state.mode === 'venta' ? 'compra' : 'venta';
     var brecha = (oficial && c.casa !== 'oficial') ? ((r.venta / oficial - 1) * 100) : 0;
@@ -146,7 +152,7 @@ function buildCards(){
       + '<div style="height:100%;border-radius:999px;width:' + gapW + '%;background:' + c.accent + ';transition:width .9s cubic-bezier(.22,.61,.36,1);"></div>'
       + '</div>'
       + '<div style="display:flex;justify-content:space-between;margin-top:9px;font-weight:700;font-size:12px;color:#8892a6;">'
-      + '<span>' + otherLabel + ' $' + num(other, 2) + '</span><span>' + gapNote + '</span>'
+      + (esTarjeta ? '<span>no se compra ni se vende</span>' : '<span>' + otherLabel + ' $' + num(other, 2) + '</span>') + '<span>' + gapNote + '</span>'
       + '</div></div>';
   });
 
