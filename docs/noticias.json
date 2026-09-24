@@ -1,185 +1,150 @@
 {
-  "generated_at": "2026-09-23T12:01:22.564488+00:00",
+  "generated_at": "2026-09-24T12:01:05.417146+00:00",
   "items": [
     {
-      "id": "citigroup-q2-2026",
+      "id": "meli-state-street-stake",
       "type": "empresa",
-      "title": "Citigroup ganó 45% más en el segundo trimestre y anunció recompra de acciones por USD 30.000 millones",
-      "summary": "Citigroup reportó una ganancia neta de USD 5.800 millones en el segundo trimestre de 2026, un 45% más que el año anterior, con ingresos de USD 24.800 millones. Además, anunció un aumento del dividendo del 12% y un plan de recompra de acciones por USD 30.000 millones.",
-      "detail": "Cuando un banco grande como Citigroup anuncia una recompra de acciones masiva, está diciendo que cree que sus propias acciones están baratas y que tiene caja de sobra. Esto suele subir el precio de las acciones porque reduce la cantidad en circulación. El aumento del dividendo, por su parte, atrae a inversores que buscan ingresos regulares. Juntos, estos movimientos son señales de confianza de la empresa en su propia salud financiera.",
+      "title": "State Street aumentó su posición en MercadoLibre",
+      "summary": "State Street Corp subió su participación en MercadoLibre un 7,7% en el segundo trimestre, llegando a tener acciones valuadas en unos 780 millones de dólares. MercadoLibre reportó resultados trimestrales sólidos, superando expectativas con ganancias por acción de 9,19 dólares e ingresos de 10.170 millones de dólares.",
+      "detail": "Cuando fondos institucionales grandes como State Street aumentan su posición en una empresa, suele interpretarse como una señal de confianza en su crecimiento futuro. MercadoLibre es una empresa latinoamericana que cotiza en Wall Street, por lo que su desempeño financiero y la percepción de los inversores globales impacta directamente en el mercado de la región. Entender cómo los grandes fondos mueven sus posiciones es clave para aprender a leer el mercado institucional.",
       "tags": [
-        "bancos",
-        "dividendos",
-        "recompra de acciones"
-      ],
-      "source_name": "MarketScreener",
-      "source_url": "https://www.marketscreener.com/news/citigroup-quarterly-financial-report-citigroup-inc-2nd-quarter-2026-earnings-report-en-ce785ad9dd80f523",
-      "published_at": "2026-09-23T11:04:32Z",
-      "tickers": [
-        "C"
-      ]
-    },
-    {
-      "id": "boeing-price-target-cut",
-      "type": "empresa",
-      "title": "Jefferies bajó el precio objetivo de Boeing de USD 295 a USD 265",
-      "summary": "El banco de inversión Jefferies recortó su precio objetivo para Boeing, citando una leve reducción en el flujo de caja libre esperado, aunque mantuvo su recomendación de compra. El promedio de los analistas tiene un precio objetivo de USD 273,69 para la acción.",
-      "detail": "Un recorte de precio objetivo por parte de un banco de inversión no significa necesariamente que la acción sea mala, sino que el analista ajustó sus proyecciones financieras. El concepto clave acá es el 'flujo de caja libre': es el dinero que le queda a una empresa después de pagar sus gastos e inversiones. Para empresas industriales como Boeing, este número es crucial porque muestra si el negocio genera efectivo real, más allá de las ganancias contables.",
-      "tags": [
-        "aeronáutica",
-        "analistas",
-        "flujo de caja"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/boeing-stock-falls-as-jefferies-cuts-its-price-target/70166082",
-      "published_at": "2026-09-23T11:00:00Z",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "delta-airlines-earnings",
-      "type": "empresa",
-      "title": "Delta Air Lines superó expectativas con ingresos de USD 17.670 millones y se beneficia de la caída del petróleo",
-      "summary": "Las acciones de Delta subieron 1,72% luego de que la aerolínea reportara ingresos trimestrales de USD 17.670 millones, por encima de lo esperado por los analistas. La baja en el precio del petróleo es vista como un factor positivo para el sector.",
-      "detail": "El petróleo es uno de los principales costos de las aerolíneas, por eso cuando su precio baja, los márgenes de ganancia mejoran aunque los ingresos no cambien. Esta relación entre el precio de una materia prima y la rentabilidad de una industria es un ejemplo clásico de cómo los mercados de commodities impactan directamente en empresas de otros sectores. Es un mecanismo útil para entender cómo se conectan distintos mercados.",
-      "tags": [
-        "aerolíneas",
-        "petróleo",
+        "MercadoLibre",
+        "inversión institucional",
         "resultados"
       ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/delta-air-lines-stock-gains-1-72-percent-as-earnings-near/70165633",
-      "published_at": "2026-09-23T11:13:00Z",
-      "tickers": [
-        "DAL"
-      ]
-    },
-    {
-      "id": "southwest-earnings-beat",
-      "type": "empresa",
-      "title": "Southwest Airlines ganó USD 0,94 por acción, casi el doble de lo que esperaban los analistas",
-      "summary": "Southwest Airlines reportó ganancias por acción de USD 0,94 en el tercer trimestre, superando ampliamente el consenso de USD 0,52. Los ingresos también superaron expectativas, alcanzando USD 8.720 millones.",
-      "detail": "Cuando una empresa supera tan ampliamente las estimaciones de los analistas, el mercado suele reaccionar con subas en el precio de la acción. El 'consenso' es el promedio de las proyecciones de muchos analistas, y alejarse tanto de ese número hacia arriba indica que el negocio está funcionando mejor de lo que el mercado anticipaba. Este tipo de sorpresa positiva es uno de los motores más comunes de movimientos bruscos en acciones.",
-      "tags": [
-        "aerolíneas",
-        "ganancias",
-        "sorpresa positiva"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/southwest-airlines-stock-gains-0-71-percent-as-earnings-beat-estimates/70165831",
-      "published_at": "2026-09-23T10:33:52Z",
-      "tickers": [
-        "LUV"
-      ]
-    },
-    {
-      "id": "fortinet-revenue-growth",
-      "type": "empresa",
-      "title": "Fortinet creció 26% en ingresos y subió su proyección anual",
-      "summary": "Fortinet reportó ingresos de USD 2.050 millones, un 26% más que el año anterior, y elevó su perspectiva de ingresos para todo 2026 a un rango de entre USD 8.020 y USD 8.180 millones. La acción cerró cerca de su máximo anual.",
-      "detail": "Cuando una empresa no solo supera los resultados pasados sino que también sube su 'guidance' o proyección futura, es una señal doble de confianza. En el sector de ciberseguridad, el crecimiento de billings de SASE (un modelo de seguridad en la nube) refleja la tendencia de empresas adoptando soluciones digitales integradas. Esto importa porque muestra cómo sectores tecnológicos específicos siguen creciendo incluso en entornos económicos complejos.",
-      "tags": [
-        "ciberseguridad",
-        "tecnología",
-        "guidance"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fortinet-stock-closes-at-usd-174-26-near-its-yearly-high/70166000",
-      "published_at": "2026-09-23T10:52:03Z",
-      "tickers": [
-        "FTNT"
-      ]
-    },
-    {
-      "id": "chevron-institutional-buying",
-      "type": "mercado",
-      "title": "State Street aumentó su posición en Chevron a más de 159 millones de acciones valuadas en USD 28.000 millones",
-      "summary": "State Street Corp incrementó su tenencia en Chevron en un 3,9% durante el segundo trimestre, acumulando más de 159 millones de acciones por un valor de USD 28.000 millones. Chevron reportó ganancias sólidas, aunque analistas señalan preocupación por precios débiles del crudo y ventas de insiders.",
-      "detail": "Los movimientos de grandes inversores institucionales como State Street son seguidos de cerca porque mueven volúmenes enormes y suelen hacer análisis profundos antes de actuar. Sin embargo, el hecho de que insiders de la propia empresa vendan acciones al mismo tiempo que un institucional compra genera una señal mixta: alguien de adentro reduce su exposición mientras alguien de afuera apuesta. Aprender a leer estas señales contrapuestas es clave en el análisis de acciones.",
-      "tags": [
-        "energía",
-        "inversores institucionales",
-        "petróleo"
-      ],
       "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-boosts-stock-position-in-chevron-corporation-cvx-2026-09-22/",
-      "published_at": "2026-09-23T10:48:19Z",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-state-street-corp-increases-stock-holdings-in-mercadolibre-inc-meli-2026-09-24/",
+      "published_at": "2026-09-24T08:37:21Z",
       "tickers": [
-        "CVX",
+        "MELI",
         "STT"
       ]
     },
     {
-      "id": "lululemon-fraud-investigation",
+      "id": "uber-delivery-hero-takeover",
       "type": "empresa",
-      "title": "Investigan a Lululemon por posible fraude de valores tras caída de sus acciones",
-      "summary": "Un estudio de abogados lanzó una investigación contra Lululemon por posible fraude de valores, luego de que la empresa revelara problemas de crecimiento, caída de márgenes y reducción de su guía financiera. Inversores que sufrieron pérdidas están siendo convocados a sumarse.",
-      "detail": "El fraude de valores ocurre cuando una empresa divulga información falsa o incompleta al mercado y los inversores toman decisiones basadas en esos datos incorrectos. Cuando luego se revelan los problemas reales y la acción cae bruscamente, quienes compraron al precio inflado pueden reclamar daños. Este tipo de investigaciones son comunes en EE.UU. y muestran que los mercados tienen mecanismos legales para proteger a los inversores cuando hay falta de transparencia.",
+      "title": "Uber ofrece 14.800 millones de dólares para comprar Delivery Hero",
+      "summary": "Uber presentó una oferta de adquisición de 14.800 millones de dólares por Delivery Hero, la empresa alemana de delivery de comida. Ante la oferta, Delivery Hero canceló los planes de salida de su CEO fundador, Niklas Östberg, cuyo contrato se extendió hasta abril de 2029.",
+      "detail": "Las adquisiciones (o takeovers) son operaciones donde una empresa compra a otra, generalmente pagando una prima sobre el precio de mercado. Este movimiento de Uber muestra cómo las grandes plataformas tecnológicas buscan expandirse comprando competidores. Para un inversor, estos anuncios suelen disparar el precio de las acciones de la empresa comprada y afectar también a la compradora, dependiendo del precio pagado.",
       "tags": [
-        "fraude",
-        "transparencia",
-        "acciones"
+        "fusiones",
+        "Uber",
+        "delivery"
       ],
-      "source_name": "GlobeNewswire",
-      "source_url": "https://www.globenewswire.com/news-release/2026/09/23/3367258/0/en/lulu-stock-notification-lululemon-is-being-investigated-for-securities-fraud-after-growth-issues-disclosed-investors-are-alerted-to-contact-bfa-law.html",
-      "published_at": "2026-09-23T10:06:43Z",
+      "source_name": "WSJ",
+      "source_url": "https://www.wsj.com/business/delivery-hero-cancels-ceo-exit-plans-due-to-ubers-14-8-billion-takeover-bid-de155bf8",
+      "published_at": "2026-09-24T08:11:05Z",
       "tickers": [
-        "LULU"
+        "UBER"
       ]
     },
     {
-      "id": "apple-iphone-18-pro",
+      "id": "amazon-earnings-institucionales",
       "type": "empresa",
-      "title": "Apple lanzó el iPhone 18 Pro con mejoras en cámara y batería junto a su primer teléfono plegable",
-      "summary": "Apple presentó el iPhone 18 Pro y Pro Max junto al iPhone Duo, su primer dispositivo plegable, reorientando su ciclo de lanzamientos hacia productos de alta gama. Los críticos destacan mejoras significativas en cámara y autonomía de batería.",
-      "detail": "Los lanzamientos de productos de Apple son eventos con impacto directo en sus acciones y en toda su cadena de suministro global. Cuando Apple apuesta por un segmento nuevo como los plegables, está compitiendo directamente con Samsung y otros fabricantes, lo que puede mover también las acciones de sus competidores y proveedores. Para un inversor, entender cómo los ciclos de producto de una empresa afectan sus ingresos futuros es una habilidad fundamental.",
+      "title": "Amazon superó expectativas con ganancias por acción de 5,75 dólares",
+      "summary": "Amazon reportó resultados trimestrales sólidos, con ganancias por acción de 5,75 dólares y un crecimiento de ingresos del 19,6% interanual, superando las estimaciones de los analistas. Fondos institucionales como Wedbush y Polar Asset Management aumentaron sus posiciones en la compañía.",
+      "detail": "Cuando una empresa como Amazon supera las expectativas del mercado, los analistas suelen revisar al alza sus precios objetivo, lo que puede atraer más inversores. El hecho de que múltiples fondos institucionales estén comprando acciones refuerza esa confianza. AWS (la división de nube) y la inteligencia artificial son los motores de crecimiento que más siguen los inversores globales hoy en día.",
       "tags": [
-        "Apple",
-        "tecnología",
-        "lanzamiento"
+        "Amazon",
+        "resultados",
+        "tecnología"
       ],
-      "source_name": "Bloomberg",
-      "source_url": "https://www.bloomberg.com/news/features/2026-09-23/apple-iphone-18-pro-review-camera-and-battery-upgrades-improved-performance",
-      "published_at": "2026-09-23T10:15:00Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/filing-amazoncom-inc-amzn-shares-acquired-by-wedbush-fund-advisers-llc-2026-09-24/",
+      "published_at": "2026-09-24T08:08:55Z",
       "tickers": [
-        "AAPL"
+        "AMZN"
       ]
     },
     {
-      "id": "sp-global-ratings",
+      "id": "pnc-earnings-beat-stock-falls",
       "type": "empresa",
-      "title": "S&P Global cerró en USD 404,59 con consenso de analistas que ve un potencial de suba del 29%",
-      "summary": "Las acciones de S&P Global cerraron en USD 404,59, sostenidas por el crecimiento de su negocio de calificaciones crediticias y datos. Los analistas tienen un precio objetivo promedio de USD 523,59, lo que implica un potencial de suba considerable.",
-      "detail": "S&P Global es una empresa clave en los mercados financieros globales porque emite las calificaciones crediticias que usan gobiernos y empresas de todo el mundo para acceder a financiamiento, incluyendo Argentina. Cuanto mejor es la calificación, más barato resulta endeudarse. Entender el negocio de las calificadoras ayuda a comprender por qué las notas que emiten sobre países tienen tanto impacto en sus economías.",
+      "title": "PNC Financial ganó más de lo esperado, pero su acción cayó igual",
+      "summary": "PNC Financial reportó ganancias ajustadas por acción de 4,85 dólares frente a un consenso de 4,46 dólares, e ingresos de 6.880 millones de dólares que también superaron las estimaciones. Aun así, la acción bajó un 1,72% el 23 de septiembre de 2026.",
+      "detail": "Este caso ilustra un fenómeno común en los mercados: 'comprar el rumor, vender el hecho'. A veces las acciones caen después de buenos resultados porque el mercado ya había descontado ese buen desempeño en el precio previo. También puede reflejar preocupaciones sobre el futuro, como márgenes o contexto económico, más allá de los números actuales.",
       "tags": [
-        "calificadoras",
-        "mercados",
-        "datos financieros"
+        "bancos",
+        "resultados",
+        "Wall Street"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/s-and-p-global-stock-gains-as-ratings-growth-supports-earnings/70165574",
-      "published_at": "2026-09-23T10:07:00Z",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/pnc-stock-falls-after-quarterly-earnings-beat-estimates/70176288",
+      "published_at": "2026-09-24T08:37:30Z",
       "tickers": [
-        "SPGI"
+        "PNC"
       ]
     },
     {
-      "id": "nasdaq-record-high",
+      "id": "morgan-stanley-diesel-ban-gas",
+      "type": "economia",
+      "title": "Morgan Stanley advierte que una prohibición de exportar diésel subiría el precio de la nafta",
+      "summary": "Analistas de Morgan Stanley alertaron que una eventual prohibición de exportar diésel en Estados Unidos —debatida por los altos precios actuales— terminaría encareciendo también la nafta. Esto ocurriría porque las refinerías producen ambos combustibles de forma conjunta, y al reducir una producción, bajan las dos.",
+      "detail": "Este análisis muestra cómo las políticas energéticas tienen efectos encadenados no siempre obvios. La producción conjunta de combustibles en las refinerías significa que no se puede controlar el volumen de uno sin afectar al otro. Para Argentina, donde los precios de los combustibles tienen impacto directo en la inflación y el transporte, entender estas dinámicas globales es relevante para anticipar presiones de costos.",
+      "tags": [
+        "energía",
+        "combustibles",
+        "política económica"
+      ],
+      "source_name": "OilPrice.com",
+      "source_url": "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Says-Diesel-Export-Ban-Would-Push-US-Gas-Prices-Higher.html",
+      "published_at": "2026-09-24T09:07:06Z",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "id": "trump-crypto-portfolio",
       "type": "mercado",
-      "title": "El Nasdaq cerró en un récord histórico de 27.244 puntos",
-      "summary": "El índice Nasdaq Composite alcanzó un nuevo máximo histórico al cerrar en 27.244,28 puntos, con una suba del 0,45%. El dato surge de una nota sobre Arch Capital, cuya acción bajó 0,87% ese mismo día, quedando rezagada respecto al índice.",
-      "detail": "El Nasdaq es el índice bursátil donde cotizan la mayoría de las grandes empresas tecnológicas del mundo como Apple, Nvidia y Microsoft. Cuando el Nasdaq marca un récord, suele reflejar optimismo sobre el crecimiento económico y la tecnología a nivel global. Para alguien en Argentina que invierte en CEDEARs o en fondos que replican índices internacionales, el nivel del Nasdaq impacta directamente en el valor de esas inversiones.",
+      "title": "El portafolio de Trump operó acciones de Coinbase y empresas cripto en julio",
+      "summary": "Las cuentas de inversión de Donald Trump realizaron 1.152 transacciones en julio, incluyendo compras de acciones de Coinbase (COIN) y operaciones en Strategy (MSTR), además de ventas en empresas de minería de Bitcoin. La Casa Blanca aclaró que gestores externos toman las decisiones de inversión de forma independiente.",
+      "detail": "La exposición de figuras políticas de alto perfil a activos cripto genera debate sobre conflictos de interés y puede mover el mercado cuando se hace pública. Para quienes aprenden finanzas, este caso también ilustra cómo se puede tener exposición indirecta a Bitcoin a través de acciones de empresas del ecosistema cripto, sin comprar la criptomoneda directamente.",
       "tags": [
-        "Nasdaq",
-        "récord",
-        "mercado global"
+        "criptomonedas",
+        "Bitcoin",
+        "política"
+      ],
+      "source_name": "DailyCoin",
+      "source_url": "https://dailycoin.com/trump-crypto-portfolio-coin-mstr-mara-cleanspark-trades/",
+      "published_at": "2026-09-24T09:59:49Z",
+      "tickers": [
+        "COIN"
+      ]
+    },
+    {
+      "id": "us-bancorp-earnings-dividend",
+      "type": "empresa",
+      "title": "U.S. Bancorp reportó ganancias un 22% mayores y subió su dividendo",
+      "summary": "U.S. Bancorp publicó resultados del segundo trimestre con ganancias diluidas por acción de 1,35 dólares, un 22% más que el año anterior, e ingresos netos de 7.700 millones de dólares. Además, aumentó su dividendo trimestral un 3,8%, llevándolo a 0,54 dólares por acción.",
+      "detail": "El crecimiento de dividendos en un banco grande es una señal de salud financiera y confianza en los flujos de caja futuros. Los dividendos son una forma de que las empresas retribuyan a sus accionistas, y su aumento sostenido suele ser bien valorado por inversores de largo plazo. Sin embargo, que la acción haya bajado un 1,62% igual que PNC muestra que el contexto general del sector bancario puede pesar más que los resultados individuales.",
+      "tags": [
+        "bancos",
+        "dividendos",
+        "resultados"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/arch-capital-group-stock-slips-as-nasdaq-reaches-a-record-close/70164901",
-      "published_at": "2026-09-23T10:52:00Z",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/u-s-bancorp-stock-reports-stronger-q2-earnings-as-dividend-rises/70177045",
+      "published_at": "2026-09-24T10:35:11Z",
       "tickers": [
-        "ACGL"
+        "USB"
+      ]
+    },
+    {
+      "id": "rtx-pratt-whitney-gtf-united",
+      "type": "empresa",
+      "title": "Pratt & Whitney entregó el primer avión con su nuevo motor GTF Advantage a United Airlines",
+      "summary": "RTX entregó a United Airlines el primer Airbus A321XLR equipado con el motor GTF Advantage, que ofrece hasta el doble de vida útil en servicio y entre 4% y 8% más de empuje al despegue respecto al modelo anterior. Pratt & Whitney planea migrar toda su línea de producción PW1100G-JM a esta especificación para 2028.",
+      "detail": "Las mejoras en eficiencia de motores aeronáuticos impactan directamente en los costos operativos de las aerolíneas, que son uno de sus principales gastos. Para una empresa como RTX, ganar contratos de mantenimiento y entrega de nuevos motores genera ingresos recurrentes de largo plazo. Este tipo de noticias muestra cómo la innovación tecnológica puede ser una ventaja competitiva sostenible y una fuente de valor para los inversores.",
+      "tags": [
+        "aeronáutica",
+        "tecnología",
+        "contratos"
+      ],
+      "source_name": "RTX",
+      "source_url": "https://www.rtx.com/news/news-center/2026/09/24/rtxs-pratt-whitney-marks-delivery-of-first-gtf-advantage-powered-aircraft-to-u",
+      "published_at": "2026-09-24T10:15:27Z",
+      "tickers": [
+        "RTX",
+        "UAL"
       ]
     }
   ],
@@ -192,39 +157,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.555",
-      "valor_num": 1555.0,
+      "valor": "$1.560",
+      "valor_num": 1560.0,
       "delta_pct": 0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.537",
-      "valor_num": 1536.6,
-      "delta_pct": 0.01
+      "valor": "$1.543",
+      "valor_num": 1542.9,
+      "delta_pct": 0.41
     },
     {
       "label": "CCL",
-      "valor": "$1.598",
-      "valor_num": 1598.3,
-      "delta_pct": 0.12
+      "valor": "$1.607",
+      "valor_num": 1607.1,
+      "delta_pct": 0.55
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 85.636",
-      "valor_num": 85636.0,
-      "delta_pct": -0.38
+      "valor": "US$ 83.414",
+      "valor_num": 83414.0,
+      "delta_pct": -2.59
     },
     {
       "label": "S&P 500",
-      "valor": "7.765",
-      "valor_num": 7764.64,
-      "delta_pct": 2.36
+      "valor": "7.706",
+      "valor_num": 7706.03,
+      "delta_pct": 2.04
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.344",
-      "valor_num": 4344.2,
-      "delta_pct": -1.82
+      "valor": "US$ 4.295",
+      "valor_num": 4295.1,
+      "delta_pct": -2.03
     }
   ]
 }
