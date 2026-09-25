@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "plazo-fijo-tasa-real-negativa-mecanismo",
+      "titulo": "Plazo fijo al 23% con inflación al 33,5%: qué te está pasando",
+      "bajada": "La tasa que te muestra el banco es nominal. La que te importa es la real. Te explico la diferencia con números y sin fórmulas raras.",
+      "categoria": "Ahorro",
+      "mundo": "ahorro",
+      "fecha": "2026-09-25"
+    },
+    {
       "slug": "tasa-nominal-real-efectiva-que-significa",
       "titulo": "TNA, TEA y CFT: por qué la misma tasa dice tres cosas distintas",
       "bajada": "La misma operación puede figurar como 23%, 25% o 60% según la sigla que usen. Acá está la traducción de TNA, TEA y CFT, con ejemplos.",
