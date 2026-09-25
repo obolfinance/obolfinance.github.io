@@ -1,198 +1,161 @@
 {
-  "generated_at": "2026-09-25T12:01:43.051896+00:00",
+  "generated_at": "2026-09-25T22:01:16.365643+00:00",
   "items": [
     {
-      "id": "morgan-stanley-dolar-2026",
+      "id": "semis-treasury-yields-2026-09-25",
       "type": "mercado",
-      "title": "Morgan Stanley cambió su pronóstico sobre el dólar y ahora espera que se fortalezca",
-      "summary": "Morgan Stanley reconoció que sus predicciones anteriores sobre el dólar estadounidense estaban equivocadas. Ahora esperan que la moneda se fortalezca, impulsada por el alza en los rendimientos de los bonos del Tesoro y las expectativas de suba de tasas de la Reserva Federal, lo que llevó al índice del dólar a un máximo de ocho semanas.",
-      "detail": "Cuando los rendimientos de los bonos del Tesoro suben, los inversores de todo el mundo compran más activos en dólares para aprovechar esos retornos, lo que aumenta la demanda de la moneda y la fortalece. Para Argentina, un dólar más fuerte a nivel global impacta directamente en el precio de las materias primas que exporta el país y en el costo de su deuda en moneda extranjera. Este caso también muestra que hasta los bancos de inversión más grandes del mundo se equivocan en sus proyecciones, algo clave para entender los límites del análisis financiero.",
+      "title": "Las tasas del Tesoro de EE.UU. superaron el 5,1% y golpearon a las acciones tecnológicas",
+      "summary": "Las acciones de varias empresas de semiconductores como Western Digital cayeron después de que el rendimiento del bono del Tesoro a 10 años superara el 5,1%, impulsado por un índice de actividad económica (PMI compuesto) más fuerte de lo esperado en septiembre. Las valuaciones altas de las tecnológicas son muy sensibles a las tasas de interés.",
+      "detail": "Cuando las tasas de los bonos del Tesoro suben, el valor presente de las ganancias futuras de las empresas tecnológicas se reduce, porque esas ganancias se 'descuentan' a una tasa mayor. Esto explica por qué las empresas con múltiplos de valuación altos (es decir, que valen mucho en relación a sus ganancias actuales) son las más afectadas. Un PMI más fuerte sugiere que la economía sigue activa, lo que puede llevar a la Reserva Federal a mantener tasas altas por más tiempo, presionando aún más a estas acciones.",
       "tags": [
-        "dólar",
         "tasas de interés",
-        "Fed"
+        "tecnología",
+        "bonos"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96",
-      "published_at": "2026-09-25T10:46:12Z",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-formfactor-penguin-solutions-212858821.html",
+      "published_at": "2026-09-25T21:28:45Z",
       "tickers": [
-        "MS"
+        "WDC",
+        "MU",
+        "PENG"
       ]
     },
     {
-      "id": "sp500-futuros-premarket-2026",
-      "type": "mercado",
-      "title": "Los futuros del S&P 500 suben en el premercado con Akamai liderando las ganancias",
-      "summary": "Los futuros del S&P 500 operaban al alza en el premercado. Akamai Technologies trepó casi un 20% y Corteva subió un 5,7%, antes de la apertura del mercado estadounidense.",
-      "detail": "Los futuros del S&P 500 permiten operar antes de que abra la bolsa y anticipan hacia dónde podría moverse el mercado. Cuando suben con fuerza, suelen indicar que los inversores tienen una expectativa positiva para la jornada. Movimientos fuertes en acciones individuales, como el 20% de Akamai, generalmente responden a noticias puntuales de la empresa, como resultados o anuncios estratégicos. Entender estos movimientos premarket es útil para quien quiere leer el humor general del mercado antes de que arranque la rueda.",
-      "tags": [
-        "S&P 500",
-        "acciones",
-        "mercado"
-      ],
-      "source_name": "Barron's",
-      "source_url": "https://www.barrons.com/articles/s-p-500-futures-climb-in-premarket-trading-akamai-technologies-corteva-lead-92b6b563",
-      "published_at": "2026-09-25T11:30:37Z",
-      "tickers": [
-        "AKAM",
-        "CTVA",
-        "EQIX"
-      ]
-    },
-    {
-      "id": "fedex-caida-target-jpmorgan-2026",
+      "id": "tesla-semi-deliveries-2026-09-25",
       "type": "empresa",
-      "title": "FedEx cayó más del 4% tras una baja en el precio objetivo de JPMorgan",
-      "summary": "Las acciones de FedEx bajaron un 4,10% hasta USD 279,54 luego de que JPMorgan recortara su precio objetivo de USD 460 a USD 400. A pesar de la reducción, el nuevo objetivo todavía implica una suba potencial del 43% respecto al precio actual.",
-      "detail": "Que un banco de inversión como JPMorgan baje su precio objetivo no significa necesariamente que la empresa esté mal: en este caso, FedEx reportó ingresos anuales de USD 94.700 millones. Sin embargo, el mercado reacciona rápido ante estas señales, ya que muchos fondos e inversores institucionales ajustan sus posiciones en base a estas recomendaciones. Este ejemplo muestra cómo los análisis de Wall Street pueden mover el precio de una acción incluso cuando los fundamentals de la empresa son sólidos.",
+      "title": "Tesla empezó a entregar sus camiones eléctricos Semi tras años de retrasos",
+      "summary": "Tesla comenzó a entregar sus camiones pesados Semi a clientes como PepsiCo y DHL, años después del anuncio original de Elon Musk en 2017. El modelo de largo alcance promete hasta 500 millas por carga y la compañía planea producir 50.000 unidades por año en su planta de Nevada.",
+      "detail": "La entrega de un producto largo tiempo prometido es un evento clave para cualquier empresa, ya que transforma expectativas en ingresos reales. Para Tesla, que cotiza en bolsa con una valuación muy alta basada en su potencial futuro, cumplir con hitos de producción es fundamental para justificar su precio de acción. Además, el mercado de camiones pesados es enorme y representa una nueva fuente de ingresos diversificada más allá de los autos de consumo.",
       "tags": [
-        "acciones",
-        "analistas",
-        "logística"
+        "vehículos eléctricos",
+        "producción",
+        "Tesla"
       ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-falls-4-10-percent-after-target-cut/70183517",
-      "published_at": "2026-09-25T11:39:38Z",
+      "source_name": "Fox Business",
+      "source_url": "https://www.foxbusiness.com/markets/tesla-begins-delivering-semi-trucks-customers-after-years-delays",
+      "published_at": "2026-09-25T20:31:00Z",
       "tickers": [
-        "FDX"
+        "TSLA"
       ]
     },
     {
-      "id": "coca-cola-dividendo-modelo-negocio-2026",
+      "id": "merck-daiichi-lung-cancer-2026-09-25",
       "type": "empresa",
-      "title": "El modelo de negocio que explica por qué Coca-Cola lleva más de 60 años pagando dividendos crecientes",
-      "summary": "Coca-Cola mantiene un historial de más de 60 años aumentando sus dividendos gracias a su modelo de negocio 'asset-light': en lugar de fabricar las bebidas, vende concentrados y jarabes a embotelladoras, lo que le genera altos márgenes y mucho flujo de caja libre. Esto la diferencia de competidoras como PepsiCo, que tienen mayores necesidades de reinversión.",
-      "detail": "El flujo de caja libre es la plata que le queda a una empresa después de pagar sus gastos e inversiones, y es lo que realmente sostiene el pago de dividendos. Un modelo 'asset-light' significa que la empresa no necesita invertir mucho en fábricas ni equipos, lo que libera más efectivo. Para quien aprende finanzas, este caso ilustra por qué no alcanza con mirar las ganancias contables: hay que analizar cómo genera y usa el dinero la empresa. El artículo también advierte sobre el ratio de pago de dividendos sobre ganancias, que conviene monitorear.",
+      "title": "Merck y Daiichi Sankyo retiraron su solicitud de aprobación para un tratamiento contra el cáncer de pulmón",
+      "summary": "Merck y Daiichi Sankyo retiraron la solicitud de aprobación acelerada ante la FDA para su terapia experimental contra el cáncer de pulmón de células pequeñas, luego de que la agencia determinara que los datos de estudios intermedios no eran suficientes. La droga estaba destinada a pacientes cuya enfermedad empeoró tras la quimioterapia estándar.",
+      "detail": "La aprobación de la FDA es una de las noticias más importantes para una empresa farmacéutica, ya que habilita la comercialización de un producto y puede impactar enormemente en sus ingresos futuros. Un retiro de solicitud suele interpretarse negativamente por el mercado, porque indica que el camino hacia la aprobación es más largo o incierto de lo esperado. Esto muestra el alto riesgo regulatorio que enfrentan las inversiones en el sector de salud y biotecnología.",
       "tags": [
-        "dividendos",
-        "flujo de caja",
-        "modelo de negocio"
+        "farmacéuticas",
+        "FDA",
+        "salud"
       ],
-      "source_name": "24/7 Wall St.",
-      "source_url": "https://247wallst.com/investing/2026/09/25/coca-colas-secret-dividend-weapon-is-a-business-model-most-investors-overlook/",
-      "published_at": "2026-09-25T11:34:10Z",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/merck-daiichi-sankyo-withdraw-us-application-lung-cancer-drug-2026-09-25/",
+      "published_at": "2026-09-25T20:38:00Z",
+      "tickers": [
+        "MRK"
+      ]
+    },
+    {
+      "id": "coca-cola-gehring-hire-2026-09-25",
+      "type": "empresa",
+      "title": "Coca-Cola sumó al directivo de Monster Beverage para liderar sus operaciones en Norteamérica",
+      "summary": "Coca-Cola contrató a Rob Gehring, ex responsable del negocio en las Américas de Monster Beverage, para dirigir sus operaciones en Norteamérica desde el 1° de diciembre. La movida busca sostener el crecimiento de la compañía en un contexto donde el alza en precios de nafta y alimentos presiona el gasto de los consumidores estadounidenses.",
+      "detail": "El liderazgo ejecutivo tiene un impacto real en la estrategia de una empresa y en cómo el mercado percibe su capacidad de adaptación. Traer a alguien de Monster, cuyas ventas crecieron un 20% en el segundo trimestre, sugiere que Coca-Cola quiere aprender de ese modelo de innovación y expansión. En períodos de presión sobre el consumidor, las empresas de consumo masivo necesitan renovarse para mantener márgenes y volumen de ventas.",
+      "tags": [
+        "consumo masivo",
+        "estrategia",
+        "liderazgo"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
+      "published_at": "2026-09-25T20:34:00Z",
       "tickers": [
         "KO",
-        "PEP",
-        "KDP"
+        "MNST"
       ]
     },
     {
-      "id": "blackstone-nvidia-edificio-2026",
+      "id": "applovin-class-action-2026-09-25",
       "type": "empresa",
-      "title": "Blackstone pagó USD 95 millones por un edificio alquilado a Nvidia valorado por su capacidad eléctrica",
-      "summary": "Blackstone Real Estate compró un edificio de investigación en California por USD 95 millones, totalmente alquilado a Nvidia hasta 2036. El valor del inmueble no está dado por sus metros cuadrados sino por sus 10 megawatts de capacidad eléctrica instalada, un recurso escaso y crítico para la industria de inteligencia artificial.",
-      "detail": "Este caso muestra cómo la demanda de IA está cambiando las reglas de valuación en el mercado inmobiliario: la electricidad disponible se volvió un activo estratégico más valioso que la ubicación o el tamaño del edificio. Para un inversor que aprende finanzas, es un ejemplo concreto de cómo una tendencia tecnológica (el boom de la IA) puede crear oportunidades de inversión en sectores inesperados como el real estate. También refleja la importancia de entender los activos subyacentes de una inversión más allá de los indicadores tradicionales.",
+      "title": "Demanda colectiva contra AppLovin por supuestas declaraciones falsas sobre su IA",
+      "summary": "El estudio jurídico Rosen Law Firm presentó una demanda colectiva contra AppLovin (NASDAQ: APP) en nombre de inversores que compraron acciones entre febrero y agosto de 2026, alegando que la empresa hizo declaraciones falsas o engañosas sobre sus modelos de inteligencia artificial. La fecha límite para sumarse como demandante principal es el 16 de noviembre de 2026.",
+      "detail": "Las demandas colectivas de valores (securities class action) ocurren cuando inversores alegan haber sido perjudicados por información engañosa que distorsionó el precio de una acción. Este tipo de litigio puede tener un impacto significativo en la cotización de la empresa y generar costos legales importantes. Para alguien que aprende finanzas, es un recordatorio de que las declaraciones públicas de las empresas sobre tecnología y negocios tienen consecuencias legales y de mercado concretas.",
       "tags": [
+        "demanda",
         "inteligencia artificial",
-        "real estate",
-        "infraestructura"
+        "acciones"
       ],
-      "source_name": "tech-insider.org",
-      "source_url": "https://tech-insider.org/blackstone-95-million-nvidia-building-sunnyvale-2026/",
-      "published_at": "2026-09-25T10:58:22Z",
+      "source_name": "TMX Newsfile",
+      "source_url": "https://www.newsfilecorp.com/release/315903/ROSEN-A-LEADING-INVESTOR-RIGHTS-LAW-FIRM-Encourages-AppLovin-Corporation-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-APP",
+      "published_at": "2026-09-25T20:51:52Z",
       "tickers": [
-        "BX",
+        "APP"
+      ]
+    },
+    {
+      "id": "alibaba-uber-revenue-comparison-2026-09-25",
+      "type": "economia",
+      "title": "Alibaba y Uber: cómo navegan el boom de la IA con modelos de negocio muy distintos",
+      "summary": "Un análisis compara la evolución trimestral de ingresos de Alibaba y Uber, destacando que Alibaba invierte fuertemente en infraestructura de IA afectando su ganancia neta, mientras Uber expande sus iniciativas de vehículos autónomos y hace crecer su negocio de delivery.",
+      "detail": "Comparar empresas de distintos sectores que compiten por el mismo capital inversor es una habilidad clave en finanzas. Alibaba y Uber muestran dos estrategias diferentes ante el auge de la IA: una que sacrifica rentabilidad a corto plazo por posicionamiento tecnológico, y otra que busca expandir servicios. Entender estas diferencias ayuda a evaluar en qué tipo de empresa y riesgo está invirtiendo uno.",
+      "tags": [
+        "tecnología",
+        "inteligencia artificial",
+        "ingresos"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-vs-uber-technologies-204548738.html",
+      "published_at": "2026-09-25T20:46:44Z",
+      "tickers": [
+        "UBER",
         "NVDA"
       ]
     },
     {
-      "id": "c3ai-restructuracion-precios-2026",
+      "id": "oklo-reactor-criticality-2026-09-25",
       "type": "empresa",
-      "title": "C3.ai reestructura su negocio y cambia su modelo de precios en medio de caída de ingresos",
-      "summary": "C3.ai está pasando por una reestructuración profunda que incluye reducción de personal y un cambio hacia un modelo de cobro por uso real, en lugar de contratos fijos. La empresa enfrenta ingresos en caída, pérdidas importantes y una demanda colectiva de accionistas.",
-      "detail": "El cambio a un modelo de precios por consumo busca que más clientes adopten el producto sin comprometerse a contratos grandes por adelantado, pero tiene como contrapartida ingresos menos predecibles para la empresa. Este caso es útil para entender los desafíos de construir un negocio sostenible en el sector de software de IA empresarial, donde la competencia es intensa y las promesas del sector no siempre se traducen en rentabilidad. También ilustra el concepto de reestructuración corporativa y cómo los inversores reaccionan ante señales de inestabilidad en una empresa.",
+      "title": "El reactor de prueba de Oklo alcanzó la criticalidad y marca un hito para la energía nuclear avanzada",
+      "summary": "El reactor de prueba de isótopos de Oklo logró la criticalidad —es decir, una reacción nuclear autosostenida— en Lockhart, Texas, convirtiéndose en el quinto reactor autorizado por el Departamento de Energía de EE.UU. en lograrlo. El proyecto pasó de un sitio vacío a este hito en menos de un año.",
+      "detail": "La criticalidad es el primer paso operativo crítico para cualquier reactor nuclear: significa que la reacción en cadena puede mantenerse sola, lo que valida el diseño del reactor. Para los inversores, este tipo de hito tecnológico es importante porque reduce la incertidumbre sobre si una tecnología funcionará, algo central en empresas de energía nuclear avanzada que cotizan en bolsa. El sector nuclear está recibiendo creciente atención como fuente de energía limpia y confiable para alimentar centros de datos de IA.",
+      "tags": [
+        "energía nuclear",
+        "tecnología",
+        "hitos"
+      ],
+      "source_name": "American Nuclear Society -- ANS",
+      "source_url": "https://www.ans.org/news/article-8277/oklos-isotope-test-reactor-achieves-criticality/",
+      "published_at": "2026-09-25T21:19:11Z",
+      "tickers": [
+        "OKLO"
+      ]
+    },
+    {
+      "id": "salesforce-dreamforce-ai-agents-2026-09-25",
+      "type": "empresa",
+      "title": "Dreamforce 2026: Salesforce pone el foco en resultados concretos de sus agentes de IA",
+      "summary": "En la conferencia anual Dreamforce 2026, Salesforce presentó sus agentes de inteligencia artificial integrados en una plataforma empresarial completa, con precios basados en resultados y Slack como hub central para estos agentes. El mensaje principal fue que la IA ya no está en fase de demostración sino de impacto medible en los negocios.",
+      "detail": "Los eventos de presentación de grandes empresas tecnológicas como Dreamforce son seguidos de cerca por el mercado porque revelan la hoja de ruta de productos y la estrategia de monetización. El modelo de precios basado en resultados (outcome-based pricing) es relevante porque cambia cómo se valúan estos servicios y puede impactar en los ingresos futuros de Salesforce. Para alguien que aprende finanzas, entender cómo una empresa evoluciona su modelo de negocio es clave para analizar su potencial de crecimiento.",
       "tags": [
         "inteligencia artificial",
-        "software",
-        "reestructuración"
+        "tecnología",
+        "conferencia"
       ],
-      "source_name": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com/us/stocks/artificial-intelligence/can-c3ai-nyseai-steady-its-business-with-a-pricing-reset",
-      "published_at": "2026-09-25T11:28:19Z",
+      "source_name": "SiliconANGLE",
+      "source_url": "https://siliconangle.com/2026/09/25/ai-agents-dreamforce-2026-from-demos-outcomes-dreamforce/",
+      "published_at": "2026-09-25T20:38:53Z",
       "tickers": [
-        "AI"
-      ]
-    },
-    {
-      "id": "deere-resultados-bofa-2026",
-      "type": "empresa",
-      "title": "Deere & Co. cayó un 2% pese a que BofA subió su precio objetivo y la empresa mejoró su guidance",
-      "summary": "Las acciones de Deere & Co. bajaron un 2,05% a pesar de que Bank of America elevó su precio objetivo a USD 715 y la compañía reportó ingresos trimestrales de USD 12.610 millones, un 4,9% más que el año anterior, además de mejorar su proyección de ganancias para 2026.",
-      "detail": "Este caso ilustra una dinámica común en los mercados: cuando una acción ya cotiza cerca de su máximo anual, buenas noticias no siempre generan subas porque muchos inversores aprovechan para vender y tomar ganancias. Se conoce como 'sell the news' y muestra que el precio de una acción refleja expectativas futuras, no solo resultados pasados. Para alguien aprendiendo finanzas, es un ejemplo clave de por qué el contexto del precio importa tanto como los fundamentos de la empresa.",
-      "tags": [
-        "acciones",
-        "resultados",
-        "maquinaria agrícola"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/deere-and-co-stock-falls-2-05-percent-as-bofa-lifts-target/70183420",
-      "published_at": "2026-09-25T11:23:59Z",
-      "tickers": [
-        "DE"
-      ]
-    },
-    {
-      "id": "cigna-openai-salud-2026",
-      "type": "empresa",
-      "title": "Cigna se asocia con OpenAI para usar inteligencia artificial en el cuidado de pacientes con cáncer",
-      "summary": "La aseguradora de salud Cigna anunció una alianza con OpenAI para desarrollar herramientas de IA que ayuden a identificar necesidades de pacientes con enfermedades complejas, empezando por oncología. Los modelos de razonamiento de OpenAI se integrarán en los sistemas clínicos de Cigna para mejorar la coordinación del cuidado y personalizar la atención.",
-      "detail": "Las alianzas entre grandes empresas de salud y compañías de IA marcan una tendencia creciente de incorporar tecnología en sectores tradicionales, lo que puede cambiar tanto la eficiencia operativa como los modelos de negocio. Para un inversor, estas noticias son relevantes porque pueden anticipar cambios en los costos y márgenes de las aseguradoras, así como en la valoración de las empresas de IA involucradas. También es un ejemplo de cómo la IA está expandiéndose más allá del sector tecnológico hacia industrias como la salud.",
-      "tags": [
-        "inteligencia artificial",
-        "salud",
-        "alianzas"
-      ],
-      "source_name": "Digital Health News",
-      "source_url": "https://www.digitalhealthnews.com/cigna-group-and-openai-partner-to-support-patients-with-complex-conditions",
-      "published_at": "2026-09-25T11:08:12Z",
-      "tickers": [
-        "CI"
-      ]
-    },
-    {
-      "id": "palo-alto-venta-insider-2026",
-      "type": "mercado",
-      "title": "Un director de Palo Alto Networks vendió USD 7,5 millones en acciones, generando alertas entre inversores",
-      "summary": "Un director independiente de Palo Alto Networks vendió acciones por USD 7,5 millones, equivalente al 6% de su tenencia en la empresa. Aunque la compañía tiene alta participación accionaria de sus directivos, el patrón reciente muestra más ventas que compras por parte de insiders.",
-      "detail": "Las transacciones de insiders (directivos y directores que compran o venden acciones de su propia empresa) son un indicador que muchos inversores siguen de cerca, porque quienes están adentro de la empresa tienen más información que el mercado. Ventas grandes no siempre implican problemas: pueden ser por razones personales o fiscales. Pero cuando el patrón es consistentemente vendedor, puede ser una señal de precaución. Este tipo de análisis forma parte del seguimiento fundamental de una empresa.",
-      "tags": [
-        "insiders",
-        "ciberseguridad",
-        "acciones"
-      ],
-      "source_name": "Simply Wall Street",
-      "source_url": "https://simplywall.st/stocks/us/software/nasdaq-panw/palo-alto-networks/news/dont-ignore-the-insider-selling-in-palo-alto-networks-1",
-      "published_at": "2026-09-25T10:42:32Z",
-      "tickers": [
-        "PANW"
-      ]
-    },
-    {
-      "id": "fox-resultados-fiscal-2026",
-      "type": "empresa",
-      "title": "Fox Corporation creció un 5% en ingresos en el año fiscal 2026 y mejoró su EBITDA ajustado",
-      "summary": "Fox Corporation reportó ingresos de USD 17.126 millones para el año fiscal 2026, un 5% más que el año anterior, y un EBITDA ajustado de USD 3.906 millones, con una suba del 8%. A pesar de esto, la acción cotizaba a USD 63,84, por debajo de su máximo de 52 semanas, y los analistas mantienen una recomendación de compra moderada con un precio objetivo de USD 77,67.",
-      "detail": "El EBITDA ajustado es una medida de rentabilidad operativa que excluye intereses, impuestos, depreciaciones y amortizaciones, y se usa mucho para comparar empresas de distintos tamaños o sectores. Que la acción esté por debajo de su máximo anual pese a buenos resultados puede indicar que el mercado ya había descontado esas mejoras o que hay factores externos que pesan sobre el sector de medios. Este caso sirve para entender cómo los resultados financieros se conectan con las valuaciones del mercado.",
-      "tags": [
-        "medios",
-        "resultados",
-        "EBITDA"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-posts-fiscal-2026-revenue-growth/70182930",
-      "published_at": "2026-09-25T11:56:00Z",
-      "tickers": [
-        "FOXA"
+        "CRM"
       ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.540",
-      "valor_num": 1540.0,
-      "delta_pct": 0.33
+      "valor": "$1.545",
+      "valor_num": 1545.0,
+      "delta_pct": 0.65
     },
     {
       "label": "DÓLAR BLUE",
@@ -202,33 +165,33 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.546",
-      "valor_num": 1545.6,
-      "delta_pct": 0.17
+      "valor": "$1.557",
+      "valor_num": 1557.3,
+      "delta_pct": 0.93
     },
     {
       "label": "CCL",
-      "valor": "$1.614",
-      "valor_num": 1614.3,
-      "delta_pct": 0.45
+      "valor": "$1.617",
+      "valor_num": 1616.6,
+      "delta_pct": 0.59
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 84.597",
-      "valor_num": 84597.0,
-      "delta_pct": 1.4
+      "valor": "US$ 83.833",
+      "valor_num": 83833.0,
+      "delta_pct": -0.58
     },
     {
       "label": "S&P 500",
-      "valor": "7.704",
-      "valor_num": 7704.13,
-      "delta_pct": 0.87
+      "valor": "7.743",
+      "valor_num": 7743.41,
+      "delta_pct": 1.21
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.340",
-      "valor_num": 4340.0,
-      "delta_pct": -1.0
+      "valor": "US$ 4.320",
+      "valor_num": 4320.5,
+      "delta_pct": -1.45
     }
   ]
 }
