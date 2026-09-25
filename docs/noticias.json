@@ -1,186 +1,189 @@
 {
-  "generated_at": "2026-09-24T22:01:22.132227+00:00",
+  "generated_at": "2026-09-25T12:01:43.051896+00:00",
   "items": [
     {
-      "id": "tmobile-dividend-raise",
+      "id": "morgan-stanley-dolar-2026",
       "type": "mercado",
-      "title": "T-Mobile sube su dividendo trimestral un 15%",
-      "summary": "T-Mobile anunció un aumento del 15% en su dividendo trimestral, pasando de u$s1,02 a u$s1,17 por acción, pagadero el 10 de diciembre de 2026. Es una señal de confianza de la empresa en su flujo de caja futuro.",
-      "detail": "Cuando una empresa sube su dividendo, está diciendo que espera generar suficiente dinero para sostener ese pago en el tiempo. Un aumento del 15% es significativo y suele atraer a inversores que buscan ingresos regulares. Para quienes aprenden finanzas, los dividendos son una forma clave de retorno además de la suba del precio de la acción.",
+      "title": "Morgan Stanley cambió su pronóstico sobre el dólar y ahora espera que se fortalezca",
+      "summary": "Morgan Stanley reconoció que sus predicciones anteriores sobre el dólar estadounidense estaban equivocadas. Ahora esperan que la moneda se fortalezca, impulsada por el alza en los rendimientos de los bonos del Tesoro y las expectativas de suba de tasas de la Reserva Federal, lo que llevó al índice del dólar a un máximo de ocho semanas.",
+      "detail": "Cuando los rendimientos de los bonos del Tesoro suben, los inversores de todo el mundo compran más activos en dólares para aprovechar esos retornos, lo que aumenta la demanda de la moneda y la fortalece. Para Argentina, un dólar más fuerte a nivel global impacta directamente en el precio de las materias primas que exporta el país y en el costo de su deuda en moneda extranjera. Este caso también muestra que hasta los bancos de inversión más grandes del mundo se equivocan en sus proyecciones, algo clave para entender los límites del análisis financiero.",
       "tags": [
-        "dividendos",
-        "telecomunicaciones",
-        "acciones"
+        "dólar",
+        "tasas de interés",
+        "Fed"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/company-news/tmobile-raises-quarterly-dividend-15-to-117-per-share-93CH-4916104",
-      "published_at": "2026-09-24T20:42:28Z",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96",
+      "published_at": "2026-09-25T10:46:12Z",
       "tickers": [
-        "TMUS"
+        "MS"
       ]
     },
     {
-      "id": "meta-ai-videogames",
-      "type": "empresa",
-      "title": "Meta lanzó herramientas de IA para juegos y cayeron las acciones del sector",
-      "summary": "Acciones de empresas de videojuegos como Take-Two, Unity y Roblox bajaron después de que Meta anunciara nuevas herramientas de inteligencia artificial para el desarrollo de juegos móviles. El mercado interpretó el movimiento de Meta como una amenaza competitiva para el sector.",
-      "detail": "Cuando una empresa grande como Meta entra en un segmento con herramientas propias, el mercado anticipa que puede quitarle negocio a los jugadores actuales, y eso se refleja en caídas de precios. Este tipo de reacción muestra cómo los anuncios de competidores afectan valuaciones, incluso antes de que haya impacto real en los números. Es un ejemplo clásico de cómo el mercado descuenta expectativas futuras.",
+      "id": "sp500-futuros-premarket-2026",
+      "type": "mercado",
+      "title": "Los futuros del S&P 500 suben en el premercado con Akamai liderando las ganancias",
+      "summary": "Los futuros del S&P 500 operaban al alza en el premercado. Akamai Technologies trepó casi un 20% y Corteva subió un 5,7%, antes de la apertura del mercado estadounidense.",
+      "detail": "Los futuros del S&P 500 permiten operar antes de que abra la bolsa y anticipan hacia dónde podría moverse el mercado. Cuando suben con fuerza, suelen indicar que los inversores tienen una expectativa positiva para la jornada. Movimientos fuertes en acciones individuales, como el 20% de Akamai, generalmente responden a noticias puntuales de la empresa, como resultados o anuncios estratégicos. Entender estos movimientos premarket es útil para quien quiere leer el humor general del mercado antes de que arranque la rueda.",
       "tags": [
-        "inteligencia artificial",
-        "videojuegos",
-        "competencia"
+        "S&P 500",
+        "acciones",
+        "mercado"
       ],
       "source_name": "Barron's",
-      "source_url": "https://www.barrons.com/articles/meta-ai-videogame-stocks-roblox-c867b86a",
-      "published_at": "2026-09-24T20:51:51Z",
+      "source_url": "https://www.barrons.com/articles/s-p-500-futures-climb-in-premarket-trading-akamai-technologies-corteva-lead-92b6b563",
+      "published_at": "2026-09-25T11:30:37Z",
       "tickers": [
-        "META",
-        "TTWO"
+        "AKAM",
+        "CTVA",
+        "EQIX"
       ]
     },
     {
-      "id": "hyundai-ford-hibridos",
-      "type": "economia",
-      "title": "Hyundai le gana terreno a Ford en EE.UU. gracias al boom de los autos híbridos",
-      "summary": "Cox Automotive proyecta que Hyundai, Kia y Genesis superarán en ventas a Ford en el tercer trimestre de 2026, impulsadas por la fuerte demanda de vehículos híbridos, que ya representan más del 16% de las ventas en EE.UU. Las ventas de autos eléctricos, en cambio, cayeron respecto al año anterior.",
-      "detail": "El desplazamiento de marcas tradicionales como Ford por parte de asiáticas como Hyundai refleja cómo los cambios en preferencias de consumo afectan la posición competitiva de las empresas y, en consecuencia, sus acciones. El avance de los híbridos sobre los eléctricos también muestra que las transiciones tecnológicas rara vez son lineales, algo importante para entender cómo evaluar empresas del sector automotriz.",
-      "tags": [
-        "autos",
-        "híbridos",
-        "consumo"
-      ],
-      "source_name": "Autoweek",
-      "source_url": "https://www.autoweek.com/news/a73874538/hyundai-overtakes-ford-q3-sales/",
-      "published_at": "2026-09-24T20:17:25Z",
-      "tickers": [
-        "F",
-        "GM"
-      ]
-    },
-    {
-      "id": "starbucks-cierre-locales",
+      "id": "fedex-caida-target-jpmorgan-2026",
       "type": "empresa",
-      "title": "Starbucks cierra alrededor de 250 locales en Norteamérica",
-      "summary": "Starbucks anunció el cierre de aproximadamente 250 locales en Norteamérica antes de que termine la semana del 24 de septiembre de 2026. La medida forma parte de una reestructuración de su red de tiendas.",
-      "detail": "Los cierres masivos de locales suelen ser una señal de que una empresa está ajustando costos o repensando su modelo de negocio. Para inversores, es clave entender si el cierre es una señal de debilidad o una decisión estratégica para mejorar la rentabilidad. En el caso de cadenas minoristas, la cantidad de locales es un indicador seguido de cerca por el mercado.",
+      "title": "FedEx cayó más del 4% tras una baja en el precio objetivo de JPMorgan",
+      "summary": "Las acciones de FedEx bajaron un 4,10% hasta USD 279,54 luego de que JPMorgan recortara su precio objetivo de USD 460 a USD 400. A pesar de la reducción, el nuevo objetivo todavía implica una suba potencial del 43% respecto al precio actual.",
+      "detail": "Que un banco de inversión como JPMorgan baje su precio objetivo no significa necesariamente que la empresa esté mal: en este caso, FedEx reportó ingresos anuales de USD 94.700 millones. Sin embargo, el mercado reacciona rápido ante estas señales, ya que muchos fondos e inversores institucionales ajustan sus posiciones en base a estas recomendaciones. Este ejemplo muestra cómo los análisis de Wall Street pueden mover el precio de una acción incluso cuando los fundamentals de la empresa son sólidos.",
       "tags": [
-        "retail",
-        "reestructuración",
-        "costos"
+        "acciones",
+        "analistas",
+        "logística"
       ],
-      "source_name": "Herald Times Reporter",
-      "source_url": "https://www.htrnews.com/story/money/2026/09/24/will-starbucks-closures-impact-manitowoc-and-two-rivers-coffee-shops/91923374007/",
-      "published_at": "2026-09-24T20:16:41Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-falls-4-10-percent-after-target-cut/70183517",
+      "published_at": "2026-09-25T11:39:38Z",
       "tickers": [
-        "SBUX"
+        "FDX"
       ]
     },
     {
-      "id": "smurfit-westrock-cmpc-chile",
+      "id": "coca-cola-dividendo-modelo-negocio-2026",
       "type": "empresa",
-      "title": "Smurfit Westrock compra operaciones de CMPC en Chile por u$s420 millones",
-      "summary": "La empresa Smurfit Westrock acordó adquirir el negocio de cartón corrugado de la chilena CMPC en Chile por u$s420 millones, incluyendo una planta papelera, tres plantas de corrugado y una de bandejas moldeadas. La operación busca fortalecer su presencia en América Latina.",
-      "detail": "Las adquisiciones en Latinoamérica por parte de multinacionales son relevantes para entender cómo las empresas globales valoran la región. Para quienes aprenden finanzas, este tipo de operación muestra cómo una empresa puede crecer comprando activos existentes en lugar de construirlos desde cero, y cómo se integran las cadenas de producción. Además, involucra a una empresa chilena, lo que lo hace cercano al contexto regional.",
+      "title": "El modelo de negocio que explica por qué Coca-Cola lleva más de 60 años pagando dividendos crecientes",
+      "summary": "Coca-Cola mantiene un historial de más de 60 años aumentando sus dividendos gracias a su modelo de negocio 'asset-light': en lugar de fabricar las bebidas, vende concentrados y jarabes a embotelladoras, lo que le genera altos márgenes y mucho flujo de caja libre. Esto la diferencia de competidoras como PepsiCo, que tienen mayores necesidades de reinversión.",
+      "detail": "El flujo de caja libre es la plata que le queda a una empresa después de pagar sus gastos e inversiones, y es lo que realmente sostiene el pago de dividendos. Un modelo 'asset-light' significa que la empresa no necesita invertir mucho en fábricas ni equipos, lo que libera más efectivo. Para quien aprende finanzas, este caso ilustra por qué no alcanza con mirar las ganancias contables: hay que analizar cómo genera y usa el dinero la empresa. El artículo también advierte sobre el ratio de pago de dividendos sobre ganancias, que conviene monitorear.",
       "tags": [
-        "adquisiciones",
-        "latinoamérica",
-        "manufactura"
+        "dividendos",
+        "flujo de caja",
+        "modelo de negocio"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/company-news/smurfit-westrock-to-acquire-cmpcs-chile-operations-for-420m-93CH-4913932",
-      "published_at": "2026-09-24T21:07:50Z",
+      "source_name": "24/7 Wall St.",
+      "source_url": "https://247wallst.com/investing/2026/09/25/coca-colas-secret-dividend-weapon-is-a-business-model-most-investors-overlook/",
+      "published_at": "2026-09-25T11:34:10Z",
       "tickers": [
-        "SW"
+        "KO",
+        "PEP",
+        "KDP"
       ]
     },
     {
-      "id": "hca-fraude-investigacion",
+      "id": "blackstone-nvidia-edificio-2026",
       "type": "empresa",
-      "title": "HCA Healthcare bajo investigación por posible fraude bursátil",
-      "summary": "El estudio jurídico Pomerantz LLP investiga a HCA Healthcare por posible fraude en valores, luego de que la empresa recortara significativamente su guía de ganancias para 2026, lo que generó una caída de casi 7% en su acción. El recorte se atribuye a un cambio desfavorable en la mezcla de pagadores que redujo ingresos en u$s400 millones en el segundo trimestre.",
-      "detail": "Cuando una empresa baja drásticamente sus proyecciones de ganancias, el mercado reacciona con fuerza porque los inversores habían tomado decisiones basadas en las estimaciones anteriores. La investigación por fraude agrega otra capa de riesgo, ya que implica que la empresa podría haber ocultado información relevante. Este caso es un buen ejemplo de por qué la transparencia y la consistencia en las guías de resultados son tan importantes para la confianza del mercado.",
+      "title": "Blackstone pagó USD 95 millones por un edificio alquilado a Nvidia valorado por su capacidad eléctrica",
+      "summary": "Blackstone Real Estate compró un edificio de investigación en California por USD 95 millones, totalmente alquilado a Nvidia hasta 2036. El valor del inmueble no está dado por sus metros cuadrados sino por sus 10 megawatts de capacidad eléctrica instalada, un recurso escaso y crítico para la industria de inteligencia artificial.",
+      "detail": "Este caso muestra cómo la demanda de IA está cambiando las reglas de valuación en el mercado inmobiliario: la electricidad disponible se volvió un activo estratégico más valioso que la ubicación o el tamaño del edificio. Para un inversor que aprende finanzas, es un ejemplo concreto de cómo una tendencia tecnológica (el boom de la IA) puede crear oportunidades de inversión en sectores inesperados como el real estate. También refleja la importancia de entender los activos subyacentes de una inversión más allá de los indicadores tradicionales.",
       "tags": [
-        "fraude",
+        "inteligencia artificial",
+        "real estate",
+        "infraestructura"
+      ],
+      "source_name": "tech-insider.org",
+      "source_url": "https://tech-insider.org/blackstone-95-million-nvidia-building-sunnyvale-2026/",
+      "published_at": "2026-09-25T10:58:22Z",
+      "tickers": [
+        "BX",
+        "NVDA"
+      ]
+    },
+    {
+      "id": "c3ai-restructuracion-precios-2026",
+      "type": "empresa",
+      "title": "C3.ai reestructura su negocio y cambia su modelo de precios en medio de caída de ingresos",
+      "summary": "C3.ai está pasando por una reestructuración profunda que incluye reducción de personal y un cambio hacia un modelo de cobro por uso real, en lugar de contratos fijos. La empresa enfrenta ingresos en caída, pérdidas importantes y una demanda colectiva de accionistas.",
+      "detail": "El cambio a un modelo de precios por consumo busca que más clientes adopten el producto sin comprometerse a contratos grandes por adelantado, pero tiene como contrapartida ingresos menos predecibles para la empresa. Este caso es útil para entender los desafíos de construir un negocio sostenible en el sector de software de IA empresarial, donde la competencia es intensa y las promesas del sector no siempre se traducen en rentabilidad. También ilustra el concepto de reestructuración corporativa y cómo los inversores reaccionan ante señales de inestabilidad en una empresa.",
+      "tags": [
+        "inteligencia artificial",
+        "software",
+        "reestructuración"
+      ],
+      "source_name": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com/us/stocks/artificial-intelligence/can-c3ai-nyseai-steady-its-business-with-a-pricing-reset",
+      "published_at": "2026-09-25T11:28:19Z",
+      "tickers": [
+        "AI"
+      ]
+    },
+    {
+      "id": "deere-resultados-bofa-2026",
+      "type": "empresa",
+      "title": "Deere & Co. cayó un 2% pese a que BofA subió su precio objetivo y la empresa mejoró su guidance",
+      "summary": "Las acciones de Deere & Co. bajaron un 2,05% a pesar de que Bank of America elevó su precio objetivo a USD 715 y la compañía reportó ingresos trimestrales de USD 12.610 millones, un 4,9% más que el año anterior, además de mejorar su proyección de ganancias para 2026.",
+      "detail": "Este caso ilustra una dinámica común en los mercados: cuando una acción ya cotiza cerca de su máximo anual, buenas noticias no siempre generan subas porque muchos inversores aprovechan para vender y tomar ganancias. Se conoce como 'sell the news' y muestra que el precio de una acción refleja expectativas futuras, no solo resultados pasados. Para alguien aprendiendo finanzas, es un ejemplo clave de por qué el contexto del precio importa tanto como los fundamentos de la empresa.",
+      "tags": [
+        "acciones",
+        "resultados",
+        "maquinaria agrícola"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/deere-and-co-stock-falls-2-05-percent-as-bofa-lifts-target/70183420",
+      "published_at": "2026-09-25T11:23:59Z",
+      "tickers": [
+        "DE"
+      ]
+    },
+    {
+      "id": "cigna-openai-salud-2026",
+      "type": "empresa",
+      "title": "Cigna se asocia con OpenAI para usar inteligencia artificial en el cuidado de pacientes con cáncer",
+      "summary": "La aseguradora de salud Cigna anunció una alianza con OpenAI para desarrollar herramientas de IA que ayuden a identificar necesidades de pacientes con enfermedades complejas, empezando por oncología. Los modelos de razonamiento de OpenAI se integrarán en los sistemas clínicos de Cigna para mejorar la coordinación del cuidado y personalizar la atención.",
+      "detail": "Las alianzas entre grandes empresas de salud y compañías de IA marcan una tendencia creciente de incorporar tecnología en sectores tradicionales, lo que puede cambiar tanto la eficiencia operativa como los modelos de negocio. Para un inversor, estas noticias son relevantes porque pueden anticipar cambios en los costos y márgenes de las aseguradoras, así como en la valoración de las empresas de IA involucradas. También es un ejemplo de cómo la IA está expandiéndose más allá del sector tecnológico hacia industrias como la salud.",
+      "tags": [
+        "inteligencia artificial",
         "salud",
-        "ganancias"
+        "alianzas"
       ],
-      "source_name": "Pluang",
-      "source_url": "https://pluang.com/en/news-feed/peringatan-investor-pomerantz-lawan-hca-healthcare",
-      "published_at": "2026-09-24T20:27:45Z",
+      "source_name": "Digital Health News",
+      "source_url": "https://www.digitalhealthnews.com/cigna-group-and-openai-partner-to-support-patients-with-complex-conditions",
+      "published_at": "2026-09-25T11:08:12Z",
       "tickers": [
-        "HCA"
+        "CI"
       ]
     },
     {
-      "id": "corning-investigacion-fraude",
-      "type": "empresa",
-      "title": "Corning bajo la lupa por posible fraude tras anunciar emisión de acciones por u$s2.000 millones",
-      "summary": "Pomerantz LLP investiga posibles reclamos por fraude en valores contra Corning Incorporated (GLW) después de que el anuncio de una oferta de acciones por u$s2.000 millones provocara una fuerte caída en el precio de su acción.",
-      "detail": "Las emisiones de acciones diluyen la participación de los accionistas existentes, lo que suele bajar el precio del papel. Si el mercado cree que la empresa no reveló oportunamente su necesidad de capital, puede derivar en investigaciones por fraude. Este caso ilustra uno de los riesgos clave de invertir en acciones: la dilución y la importancia de la información oportuna.",
+      "id": "palo-alto-venta-insider-2026",
+      "type": "mercado",
+      "title": "Un director de Palo Alto Networks vendió USD 7,5 millones en acciones, generando alertas entre inversores",
+      "summary": "Un director independiente de Palo Alto Networks vendió acciones por USD 7,5 millones, equivalente al 6% de su tenencia en la empresa. Aunque la compañía tiene alta participación accionaria de sus directivos, el patrón reciente muestra más ventas que compras por parte de insiders.",
+      "detail": "Las transacciones de insiders (directivos y directores que compran o venden acciones de su propia empresa) son un indicador que muchos inversores siguen de cerca, porque quienes están adentro de la empresa tienen más información que el mercado. Ventas grandes no siempre implican problemas: pueden ser por razones personales o fiscales. Pero cuando el patrón es consistentemente vendedor, puede ser una señal de precaución. Este tipo de análisis forma parte del seguimiento fundamental de una empresa.",
       "tags": [
-        "emisión de acciones",
-        "fraude",
-        "dilución"
-      ],
-      "source_name": "PR Newswire",
-      "source_url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-corning-incorporated---glw-302889638.html",
-      "published_at": "2026-09-24T20:17:37Z",
-      "tickers": [
-        "GLW"
-      ]
-    },
-    {
-      "id": "zscaler-cro-cambio",
-      "type": "empresa",
-      "title": "Zscaler cae más de 4% tras anunciar un cambio en su liderazgo comercial",
-      "summary": "Las acciones de Zscaler (ZS) bajaron más de 4% en el mercado after-hours luego de que la empresa anunciara que su Director de Ingresos (CRO), Mike Rich, deja el cargo por razones personales y será reemplazado por Ross Tackett a partir del 1° de octubre de 2026.",
-      "detail": "Los cambios en puestos clave de liderazgo comercial, como el CRO, suelen generar incertidumbre en el mercado porque esta persona es responsable de las ventas y el crecimiento de ingresos. Una caída del 4% por este anuncio muestra cuánto peso le da el mercado a la estabilidad del equipo directivo, especialmente en empresas tecnológicas donde el crecimiento futuro es el principal driver de valuación.",
-      "tags": [
-        "tecnología",
-        "liderazgo",
+        "insiders",
+        "ciberseguridad",
         "acciones"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/zscaler-stock-falls-on-cro-leadership-change-4916149",
-      "published_at": "2026-09-24T20:23:05Z",
+      "source_name": "Simply Wall Street",
+      "source_url": "https://simplywall.st/stocks/us/software/nasdaq-panw/palo-alto-networks/news/dont-ignore-the-insider-selling-in-palo-alto-networks-1",
+      "published_at": "2026-09-25T10:42:32Z",
       "tickers": [
-        "ZS"
+        "PANW"
       ]
     },
     {
-      "id": "oracle-gartner-lider",
+      "id": "fox-resultados-fiscal-2026",
       "type": "empresa",
-      "title": "Oracle es reconocida como líder en automatización de marketing por Gartner por 14° año consecutivo",
-      "summary": "Oracle fue nombrada líder en el Cuadrante Mágico de Gartner para plataformas de automatización de marketing B2B por decimocuarta vez consecutiva, destacando sus capacidades de inteligencia artificial y automatización empresarial.",
-      "detail": "El reconocimiento de Gartner es una referencia importante en la industria tecnológica que influye en las decisiones de compra de grandes empresas. Mantener el liderazgo por 14 años consecutivos sugiere una ventaja competitiva sostenida, algo que los inversores valoran porque reduce el riesgo de que la empresa pierda clientes frente a competidores. Para quienes estudian finanzas, entender las ventajas competitivas (o 'moat') es clave para evaluar negocios.",
+      "title": "Fox Corporation creció un 5% en ingresos en el año fiscal 2026 y mejoró su EBITDA ajustado",
+      "summary": "Fox Corporation reportó ingresos de USD 17.126 millones para el año fiscal 2026, un 5% más que el año anterior, y un EBITDA ajustado de USD 3.906 millones, con una suba del 8%. A pesar de esto, la acción cotizaba a USD 63,84, por debajo de su máximo de 52 semanas, y los analistas mantienen una recomendación de compra moderada con un precio objetivo de USD 77,67.",
+      "detail": "El EBITDA ajustado es una medida de rentabilidad operativa que excluye intereses, impuestos, depreciaciones y amortizaciones, y se usa mucho para comparar empresas de distintos tamaños o sectores. Que la acción esté por debajo de su máximo anual pese a buenos resultados puede indicar que el mercado ya había descontado esas mejoras o que hay factores externos que pesan sobre el sector de medios. Este caso sirve para entender cómo los resultados financieros se conectan con las valuaciones del mercado.",
       "tags": [
-        "tecnología",
-        "inteligencia artificial",
-        "ventaja competitiva"
+        "medios",
+        "resultados",
+        "EBITDA"
       ],
-      "source_name": "Oracle Blogs",
-      "source_url": "https://blogs.oracle.com/cx/oracle-named-a-leader-in-the-2026-gartner-magic-quadrant-for-b2b-marketing-automation-platforms",
-      "published_at": "2026-09-24T20:29:27Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-posts-fiscal-2026-revenue-growth/70182930",
+      "published_at": "2026-09-25T11:56:00Z",
       "tickers": [
-        "ORCL"
-      ]
-    },
-    {
-      "id": "jbhunt-investigacion-fraude",
-      "type": "empresa",
-      "title": "J.B. Hunt cae 13% tras advertir baja en ganancias y enfrenta investigación por fraude",
-      "summary": "J.B. Hunt Transport Services sufrió una caída del 13,3% en su acción después de advertir que sus ganancias del tercer trimestre de 2026 podrían caer entre 5% y 10%, citando el aumento en el precio del gasoil y gastos inesperados en conductores. Pomerantz LLP investiga posibles irregularidades en la divulgación de esta información.",
-      "detail": "La caída brusca de una acción ante una advertencia de ganancias es un fenómeno frecuente en el mercado: los inversores castigan a las empresas que no cumplen con las expectativas previas. Que además se abra una investigación por fraude sugiere que el mercado cree que la información negativa debió haberse revelado antes. Este caso combina dos conceptos clave: el impacto de los costos operativos en los resultados y la importancia de la transparencia corporativa.",
-      "tags": [
-        "transporte",
-        "ganancias",
-        "fraude"
-      ],
-      "source_name": "PR Newswire",
-      "source_url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-jb-hunt-transport-services-inc--jbht-302889633.html",
-      "published_at": "2026-09-24T20:16:45Z",
-      "tickers": [
-        "JBHT"
+        "FOXA"
       ]
     }
   ],
@@ -195,25 +198,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.560",
       "valor_num": 1560.0,
-      "delta_pct": 0.32
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.546",
       "valor_num": 1545.6,
-      "delta_pct": 0.59
+      "delta_pct": 0.17
     },
     {
       "label": "CCL",
       "valor": "$1.614",
       "valor_num": 1614.3,
-      "delta_pct": 1.0
+      "delta_pct": 0.45
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 84.333",
-      "valor_num": 84333.0,
-      "delta_pct": -0.09
+      "valor": "US$ 84.597",
+      "valor_num": 84597.0,
+      "delta_pct": 1.4
     },
     {
       "label": "S&P 500",
@@ -223,9 +226,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.310",
-      "valor_num": 4310.1,
-      "delta_pct": -1.68
+      "valor": "US$ 4.340",
+      "valor_num": 4340.0,
+      "delta_pct": -1.0
     }
   ]
 }
