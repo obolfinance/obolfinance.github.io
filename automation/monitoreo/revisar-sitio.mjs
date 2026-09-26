@@ -136,6 +136,22 @@ async function noticias() {
     const items = Array.isArray(j.items) ? j.items : [];
     const raros = items.filter((it) => !TIPOS_NOTICIA.includes(it.type) || (it.source_url && !String(it.source_url).startsWith('https://')));
     anotar('Noticias', 'noticias con forma valida', items.length > 0 && raros.length === 0, items.length + ' noticias, ' + raros.length + ' con tipo o link invalido');
+
+    // Que la noticia sea nueva, no el articulo. Varios agregadores publican hoy
+    // resumenes de cosas de hace meses: el job los filtra por fecha_evento, y
+    // esto avisa si alguna igual se coló. El limite del job son 7 dias; aca 10,
+    // para no avisar por una corrida que quedo vieja unas horas.
+    const DIAS = 10;
+    const sinFecha = items.filter((it) => !/^d{4}-d{2}-d{2}/.test(String(it.fecha_evento || '')));
+    const viejas = items.filter((it) => {
+      const f = Date.parse(String(it.fecha_evento || '').slice(0, 10));
+      if (!Number.isFinite(f)) return false;
+      return (Date.now() - f) / 86400000 > DIAS;
+    });
+    anotar('Noticias', 'todas dicen cuando paso el hecho', sinFecha.length === 0,
+      sinFecha.length ? sinFecha.length + ' sin fecha_evento: ' + sinFecha.slice(0, 2).map((it) => String(it.title).slice(0, 50)).join(' | ') : items.length + ' con fecha');
+    anotar('Noticias', 'ninguna cuenta algo de hace mas de ' + DIAS + ' dias', viejas.length === 0,
+      viejas.length ? viejas.slice(0, 3).map((it) => String(it.title).slice(0, 45) + ' (' + it.fecha_evento + ')').join(' | ') : 'la mas vieja esta dentro del limite');
   } catch (e) {
     anotar('Noticias', 'noticias.json', false, e.message);
   }
