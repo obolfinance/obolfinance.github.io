@@ -142,12 +142,16 @@ async function noticias() {
     // esto avisa si alguna igual se coló. El limite del job son 7 dias; aca 10,
     // para no avisar por una corrida que quedo vieja unas horas.
     const DIAS = 10;
-    const sinFecha = items.filter((it) => !/^d{4}-d{2}-d{2}/.test(String(it.fecha_evento || '')));
-    const viejas = items.filter((it) => {
-      const f = Date.parse(String(it.fecha_evento || '').slice(0, 10));
-      if (!Number.isFinite(f)) return false;
-      return (Date.now() - f) / 86400000 > DIAS;
-    });
+    // Ida y vuelta, y no solo Date.parse: node acepta "2026-02-31" y lo corre
+    // al 3 de marzo sin avisar. Si el texto no vuelve igual, no es una fecha.
+    const cuando = (it) => {
+      const txt = String(it.fecha_evento || '').slice(0, 10);
+      const t = Date.parse(txt);
+      if (!Number.isFinite(t)) return NaN;
+      return new Date(t).toISOString().slice(0, 10) === txt ? t : NaN;
+    };
+    const sinFecha = items.filter((it) => !Number.isFinite(cuando(it)));
+    const viejas = items.filter((it) => Number.isFinite(cuando(it)) && (Date.now() - cuando(it)) / 86400000 > DIAS);
     anotar('Noticias', 'todas dicen cuando paso el hecho', sinFecha.length === 0,
       sinFecha.length ? sinFecha.length + ' sin fecha_evento: ' + sinFecha.slice(0, 2).map((it) => String(it.title).slice(0, 50)).join(' | ') : items.length + ' con fecha');
     anotar('Noticias', 'ninguna cuenta algo de hace mas de ' + DIAS + ' dias', viejas.length === 0,
