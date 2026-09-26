@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-26T22:01:29.919116+00:00",
+  "generated_at": "2026-09-26T23:29:20.808099+00:00",
   "items": [
     {
-      "id": "costco-tariff-refunds",
+      "id": "costco-tariff-refunds-2026",
       "type": "empresa",
-      "title": "Costco recibió $184 millones en reembolsos de aranceles y los usa para bajar precios",
-      "summary": "Costco recibió $184 millones en reembolsos de aranceles durante su cuarto trimestre y destinó la mayor parte a bajar precios para sus socios en alimentos y otros productos. La empresa espera recibir montos similares en trimestres futuros, con impacto hasta el año fiscal 2027.",
-      "detail": "Los aranceles son impuestos que los gobiernos cobran sobre productos importados. Cuando esos aranceles se devuelven, las empresas pueden trasladar ese ahorro a precios más bajos o quedárselo como ganancia. En este caso, Costco eligió la primera opción, lo que es una señal de su modelo de negocio centrado en el volumen y la fidelización de clientes. Esta decisión también muestra cómo la política comercial (aranceles) puede afectar directamente los resultados de empresas grandes y, en cascada, los precios que pagan los consumidores.",
+      "title": "Costco recibió USD 184 millones en reembolsos de aranceles y los volcó en bajar precios",
+      "summary": "Costco anunció que recibió USD 184 millones en reembolsos de aranceles durante su cuarto trimestre y que la mayoría de ese dinero se reinvirtió para bajar precios a sus socios en alimentos y otros productos. La empresa espera recibir montos similares en trimestres futuros, lo que seguirá impactando sus resultados hasta 2027.",
+      "detail": "Los aranceles son impuestos que los países cobran sobre productos importados. Cuando un gobierno los reduce o los devuelve, las empresas que los pagaron pueden recibir reembolsos. En este caso, Costco eligió trasladar ese beneficio a sus clientes bajando precios, lo que es una estrategia de fidelización muy característica del modelo de negocio de la compañía. Para alguien que aprende finanzas, es un ejemplo claro de cómo las políticas comerciales y arancelarias afectan directamente los resultados de las empresas y sus decisiones de negocio.",
       "tags": [
         "aranceles",
         "consumo",
@@ -15,175 +15,147 @@
       "source_name": "New York Post",
       "source_url": "https://nypost.com/2026/09/26/business/costco-receives-184m-in-tariff-refunds/",
       "published_at": "2026-09-26T18:48:22Z",
+      "fecha_evento": "2026-09-26",
       "tickers": [
         "COST"
       ]
     },
     {
-      "id": "boeing-737-max-software-glitch",
+      "id": "boeing-737-max-software-glitch-2026",
       "type": "empresa",
-      "title": "Boeing detectó una falla de software en el 737 MAX que puede afectar la navegación",
-      "summary": "Boeing identificó un bug en el sistema de navegación automática del 737 MAX que podría causar fallas durante ciertos aterrizajes, específicamente cuando los pilotos cambian la ruta de vuelo. La compañía ya está trabajando para resolver el problema.",
-      "detail": "Para los inversores, este tipo de noticias importa porque Boeing ya arrastra una historia de problemas con el 737 MAX que le costaron miles de millones de dólares y dañaron su reputación. Cada nueva falla técnica puede generar costos adicionales, demoras en entregas y presión regulatoria. Además, afecta a aerolíneas como Southwest y United que operan estos aviones, lo que puede impactar en sus propios resultados. Seguir este tipo de noticias ayuda a entender cómo los riesgos operativos se traducen en riesgo financiero.",
+      "title": "Boeing detectó un error de software en el 737 MAX que podría afectar la navegación automática",
+      "summary": "Boeing identificó un fallo en el software del 737 MAX que podría hacer fallar el sistema de navegación automática durante ciertos aterrizajes, especialmente cuando los pilotos cambian su ruta de vuelo. La compañía está trabajando para resolver el problema.",
+      "detail": "Los problemas técnicos recurrentes en el 737 MAX son relevantes para los inversores porque afectan la reputación de Boeing, pueden generar costos legales y de corrección, y pueden impactar los pedidos futuros de aerolíneas. Para quien aprende finanzas, este tipo de noticias muestra cómo los riesgos operativos y de seguridad de una empresa se traducen en riesgo para el valor de sus acciones. Las aerolíneas que operan estos aviones, como United y Southwest, también pueden verse afectadas.",
       "tags": [
+        "Boeing",
         "aviación",
-        "riesgo",
-        "manufactura"
+        "riesgo operativo"
       ],
       "source_name": "Seeking Alpha",
       "source_url": "https://seekingalpha.com/news/4647379-boeing-identifies-737-max-software-glitch-could-impact-navigation",
       "published_at": "2026-09-26T18:46:00Z",
+      "fecha_evento": "2026-09-26",
       "tickers": [
         "BA",
-        "LUV",
-        "UAL"
+        "UAL",
+        "LUV"
       ]
     },
     {
-      "id": "apple-patent-57b",
+      "id": "salesforce-salesbleed-agentforce-2026",
       "type": "empresa",
-      "title": "Un jurado ordenó a Apple pagar US$5.700 millones por infringir patentes de vibración táctil",
-      "summary": "Un jurado estadounidense condenó a Apple a pagar más de $5.700 millones a la empresa Taction por usar sin permiso tecnología de retroalimentación háptica (vibración táctil) en el iPhone y el Apple Watch. Apple anunció que va a apelar la decisión, alegando que su tecnología es diferente.",
-      "detail": "Esta es la condena por infracción de patente más grande de la historia de EE.UU., lo que la convierte en un evento financiero relevante. Para Apple, $5.700 millones es una cifra significativa aunque manejable dado su tamaño, pero el precedente legal puede abrir la puerta a más demandas similares. Además, ilustra el concepto de riesgo legal como factor de valuación: cuando una empresa enfrenta litigios de esta magnitud, los inversores deben considerar ese pasivo potencial al analizar su precio de acción.",
+      "title": "Salesforce parcheó tres fallas críticas de seguridad en su plataforma de inteligencia artificial Agentforce",
+      "summary": "Salesforce corrigió tres vulnerabilidades graves en Agentforce, su plataforma de agentes de IA, que permitían a atacantes robar datos de clientes y suplantar identidades sin que el usuario hiciera nada. Las fallas, conocidas como 'SalesBleed', fueron descubiertas por la empresa de seguridad Zenity Labs.",
+      "detail": "Los agentes de IA son programas que actúan de forma autónoma en nombre de las empresas y tienen acceso a datos sensibles. Cuando estos sistemas tienen vulnerabilidades, el riesgo no es solo técnico sino también reputacional y financiero para la empresa. Este caso ilustra un riesgo emergente en el sector tecnológico: a medida que las empresas adoptan IA, los problemas de seguridad pueden convertirse en un factor clave a la hora de evaluar inversiones en compañías del sector.",
       "tags": [
-        "patentes",
-        "Apple",
-        "litigio"
+        "inteligencia artificial",
+        "ciberseguridad",
+        "tecnología"
       ],
-      "source_name": "Українські Національні Новини (УНН)",
-      "source_url": "https://unn.ua/en/news/apple-has-been-ordered-to-pay-a-record-dollar57-billion-in-a-case-concerning-a-patent-for-haptic-feedback-technology",
-      "published_at": "2026-09-26T16:49:44Z",
+      "source_name": "tech-insider.org",
+      "source_url": "https://tech-insider.org/salesforce-salesbleed-agentforce-ai-flaws-2026/",
+      "published_at": "2026-09-26T18:25:44Z",
+      "fecha_evento": "2026-09-26",
       "tickers": [
-        "AAPL"
+        "CRM"
+      ]
+    },
+    {
+      "id": "jpmorgan-qatar-partnership-2026",
+      "type": "empresa",
+      "title": "JPMorgan avanza en una alianza estratégica con el fondo soberano de Qatar",
+      "summary": "JPMorgan Chase está desarrollando una asociación significativa con la Qatar Investment Authority, al tiempo que subió su dividendo trimestral e implementó nuevos controles de datos digitales. Los analistas proyectan un crecimiento importante en ingresos y ganancias para el banco hacia 2029.",
+      "detail": "Los fondos soberanos como el Qatar Investment Authority son vehículos de inversión de los gobiernos y representan enormes flujos de capital global. Cuando un banco de la talla de JPMorgan establece una alianza con uno de ellos, puede significar acceso a negocios de gestión de activos, financiamiento de proyectos y flujos de inversión muy grandes. Para quien aprende finanzas, este tipo de acuerdos muestra cómo los bancos grandes generan ingresos más allá de los préstamos tradicionales.",
+      "tags": [
+        "banca",
+        "fondos soberanos",
+        "dividendos"
+      ],
+      "source_name": "Simply Wall Street",
+      "source_url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/qatar-partnership-could-be-a-game-changer-for-jpmorgan-stock",
+      "published_at": "2026-09-26T20:48:51Z",
+      "fecha_evento": "2026-09-26",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "id": "vail-resorts-earnings-preview-q4-2026",
+      "type": "reunion",
+      "title": "Vail Resorts presentará sus resultados del cuarto trimestre el 28 de septiembre",
+      "summary": "Vail Resorts (MTN) publicará sus resultados del Q4 2026 el próximo 28 de septiembre. Los analistas esperan ingresos de USD 274,3 millones y una pérdida por acción de USD 5,31. El precio objetivo promedio de los analistas es de USD 153.",
+      "detail": "Los reportes de ganancias trimestrales son momentos clave en los mercados porque revelan si una empresa cumplió, superó o decepcionó las expectativas del mercado, lo que puede mover fuertemente el precio de la acción. El cuarto trimestre de Vail Resorts suele mostrar pérdidas porque la temporada de esquí ya terminó, lo que es un ejemplo de cómo la estacionalidad afecta los resultados de ciertas empresas. Seguir estas fechas ayuda a entender el ciclo de vida de los reportes corporativos.",
+      "tags": [
+        "resultados",
+        "turismo",
+        "estacionalidad"
+      ],
+      "source_name": "Quiver Quantitative",
+      "source_url": "https://www.quiverquant.com/news/VAIL+RESORTS+Q4+2026+Earnings+Preview%3A+Recent+%24MTN+Insider+Trading%2C+Hedge+Fund+Activity%2C+and+More",
+      "published_at": "2026-09-26T21:05:32Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "MTN"
       ]
     },
     {
       "id": "pepsico-underperformance-2026",
       "type": "mercado",
-      "title": "PepsiCo bajó 10% en 2026 mientras el S&P 500 subió 13%: ¿qué está pasando?",
-      "summary": "Las acciones de PepsiCo acumulan una caída del 10% en lo que va de 2026 y están 33% por debajo de su máximo de 2023, muy por detrás del S&P 500 (+13%) y de su rival Coca-Cola (+25%). El motivo principal es un crecimiento orgánico de ventas más lento y presiones del sector consumo masivo como la inflación y cambios en los gustos de los consumidores.",
-      "detail": "Este caso es un buen ejemplo de cómo dos empresas del mismo sector pueden tener desempeños muy distintos. Coca-Cola logró crecer más rápido en ventas orgánicas, lo que el mercado premió con una suba de 25%. PepsiCo, en cambio, no pudo mantener ese ritmo. Esto muestra que no alcanza con ser una empresa grande y conocida para que su acción suba: la velocidad de crecimiento y la capacidad de adaptarse al mercado son factores clave que los inversores valoran.",
+      "title": "PepsiCo acumula una caída del 10% en 2026 mientras el S&P 500 sube 13%",
+      "summary": "Las acciones de PepsiCo bajaron un 10% en lo que va de 2026 y acumulan una caída del 33% desde su máximo de 2023, muy por debajo del alza del 13% del S&P 500 y del casi 25% de Coca-Cola. El menor crecimiento orgánico de ventas y los cambios en los hábitos de consumo son los principales factores detrás de este rezago.",
+      "detail": "Comparar el rendimiento de una acción contra un índice como el S&P 500 se llama 'análisis relativo' y es una herramienta fundamental para los inversores. El caso de PepsiCo vs. Coca-Cola muestra cómo dos empresas del mismo sector pueden tener desempeños muy distintos según sus estrategias y capacidad de crecimiento. Para alguien que aprende finanzas, este ejemplo ilustra por qué no alcanza con elegir un sector; hay que analizar cada empresa dentro de ese sector.",
       "tags": [
-        "consumo",
-        "comparativa",
-        "acciones"
+        "consumo masivo",
+        "acciones",
+        "comparación sectorial"
       ],
       "source_name": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-pepsicos-stock-down-10-183500475.html",
       "published_at": "2026-09-26T18:42:15Z",
+      "fecha_evento": "2026-09-26",
       "tickers": [
         "PEP",
         "KO"
       ]
     },
     {
-      "id": "cleanspark-deuda-bitcoin",
-      "type": "empresa",
-      "title": "CleanSpark cerró un financiamiento de US$2.276 millones para expandir infraestructura de datos y cripto",
-      "summary": "CleanSpark, una minera de Bitcoin que cotiza en bolsa, cerró una emisión de deuda por $2.276 mil millones, uno de los mayores del sector en el año. Los fondos se usarán para expandir centros de datos y refinanciar deuda existente, apuntando también a computación de alto rendimiento e inteligencia artificial.",
-      "detail": "Este movimiento ilustra cómo las empresas de cripto están evolucionando: ya no solo minan Bitcoin, sino que buscan diversificarse hacia infraestructura de IA para reducir su dependencia de la volatilidad del precio del cripto. La emisión de deuda en lugar de vender acciones o Bitcoin indica que la empresa prefiere preservar sus activos existentes y apostar al crecimiento con apalancamiento. Para quien aprende finanzas, es un buen ejemplo de cómo las decisiones de financiamiento reflejan la estrategia y el apetito por el riesgo de una compañía.",
-      "tags": [
-        "cripto",
-        "deuda",
-        "inteligencia artificial"
-      ],
-      "source_name": "TradingView",
-      "source_url": "https://www.tradingview.com/news/newsbtc:d03b324b5094b:0-cleanspark-closes-2-276b-debt-financing-as-miner-builds-for-its-next-expansion/",
-      "published_at": "2026-09-26T16:29:57Z",
-      "tickers": [
-        "CLSK"
-      ]
-    },
-    {
-      "id": "caterpillar-ai-data-centers",
-      "type": "empresa",
-      "title": "Caterpillar se beneficia del boom de la IA por la demanda de generadores para centros de datos",
-      "summary": "Caterpillar, conocida por sus máquinas de construcción y minería, está experimentando una fuerte demanda de sus equipos de generación eléctrica para abastecer los centros de datos impulsados por la inteligencia artificial. La empresa acumula un récord de pedidos en construcción, minería y energía.",
-      "detail": "Este caso muestra uno de los fenómenos más interesantes del mercado actual: empresas industriales \"tradicionales\" que se convierten en beneficiarias indirectas del boom de la IA. Los centros de datos necesitan enormes cantidades de energía eléctrica confiable, y Caterpillar provee los generadores. Esto amplía el análisis de la IA más allá de empresas tech como Nvidia o Microsoft, e ilustra el concepto de \"cadena de valor\": identificar quiénes ganan en toda la cadena de un gran tendencia, no solo los protagonistas obvios.",
-      "tags": [
-        "inteligencia artificial",
-        "infraestructura",
-        "industria"
-      ],
-      "source_name": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com/us/stocks/infrastructure-and-real-estate/caterpillar-nysecat-rides-record-backlog-and-data-center-power-demand-in-ai-fueled-run",
-      "published_at": "2026-09-26T16:20:14Z",
-      "tickers": [
-        "CAT"
-      ]
-    },
-    {
-      "id": "general-mills-q1-resultados",
-      "type": "empresa",
-      "title": "General Mills superó las estimaciones del primer trimestre, pero su problema de crecimiento persiste",
-      "summary": "General Mills superó levemente las expectativas de analistas en el primer trimestre de su año fiscal 2027, aunque sus ventas y ganancias cayeron respecto al año anterior. La empresa reafirmó una guía anual de ganancias por acción por debajo del año fiscal 2026, lo que evidencia un problema de crecimiento estructural.",
-      "detail": "Cuando una empresa \"supera estimaciones\" pero igual muestra caídas en ventas y ganancias, hay una distinción importante: el mercado juzga a las empresas en relación a las expectativas, no solo en términos absolutos. Si la barra estaba baja y la empresa la pasó, la acción puede reaccionar positivamente de todas formas. Pero el hecho de que General Mills proyecte ganancias menores que el año pasado indica que el negocio no está creciendo, lo cual es una señal de alerta para inversores de largo plazo que buscan empresas en expansión.",
-      "tags": [
-        "resultados",
-        "consumo",
-        "crecimiento"
-      ],
-      "source_name": "Insider Monkey",
-      "source_url": "https://www.insidermonkey.com/news/general-mills-gis-beats-q1-estimates-but-its-growth-problem-remains-1844758/",
-      "published_at": "2026-09-26T16:58:00Z",
-      "tickers": [
-        "GIS"
-      ]
-    },
-    {
-      "id": "salesforce-agentforce-fallas-ia",
-      "type": "empresa",
-      "title": "Salesforce parchó tres fallas críticas en su plataforma de agentes de IA que permitían robar datos",
-      "summary": "Salesforce corrigió tres vulnerabilidades graves en su plataforma de IA Agentforce, apodadas \"SalesBleed\", que permitían a atacantes robar datos de clientes y suplantar identidades de agentes sin necesidad de interacción del usuario. Las fallas fueron descubiertas por la firma de seguridad Zenity Labs.",
-      "detail": "Este incidente pone de relieve un riesgo emergente en el mundo financiero y tecnológico: los agentes de inteligencia artificial tienen acceso a grandes volúmenes de datos sensibles de empresas, y sus vulnerabilidades pueden tener consecuencias muy serias. Para inversores, los ciberataques y fallas de seguridad representan un riesgo regulatorio, reputacional y financiero real. Además, muestra que a medida que las empresas adoptan IA, los riesgos también escalan y deben ser parte del análisis al evaluar una inversión en compañías tecnológicas.",
-      "tags": [
-        "inteligencia artificial",
-        "ciberseguridad",
-        "riesgo"
-      ],
-      "source_name": "https://tech-insider.org/",
-      "source_url": "https://tech-insider.org/salesforce-salesbleed-agentforce-ai-flaws-2026/",
-      "published_at": "2026-09-26T18:25:44Z",
-      "tickers": [
-        "CRM"
-      ]
-    },
-    {
-      "id": "berkshire-lennar-homebuilders",
+      "id": "berkshire-lennar-homebuilders-2026",
       "type": "mercado",
-      "title": "Berkshire Hathaway aumentó su posición en Lennar y puso el foco en las constructoras de viviendas",
-      "summary": "La decisión de Berkshire Hathaway de incrementar su inversión en Lennar generó atención sobre el sector de construcción de viviendas en EE.UU., en un contexto de tasas hipotecarias elevadas. El artículo analiza tres constructoras —KB Home, Lennar y NVR— y sus estrategias frente a las condiciones actuales del mercado.",
-      "detail": "Cuando Berkshire Hathaway, el fondo dirigido por Warren Buffett, aumenta una posición, el mercado lo interpreta como una señal positiva sobre ese sector. En este caso, el movimiento llama la atención sobre las constructoras de viviendas a pesar de que las tasas hipotecarias altas encarecen los créditos y suelen frenar la demanda inmobiliaria. Es un buen ejemplo de inversión contrarian: apostar por un sector que enfrenta vientos en contra porque se cree que el precio ya refleja las malas noticias y el potencial de recuperación es atractivo.",
+      "title": "Berkshire Hathaway aumentó su posición en Lennar y pone el foco en el sector constructor de viviendas",
+      "summary": "La decisión de Berkshire Hathaway de incrementar su inversión en Lennar generó atención sobre el sector de construcción de viviendas en EE.UU., en un contexto de tasas hipotecarias elevadas. Otras constructoras como KB Home y NVR también están en la mira de los analistas.",
+      "detail": "Cuando Berkshire Hathaway, la compañía de Warren Buffett, aumenta su participación en una empresa, el mercado lo toma como una señal relevante porque Buffett es reconocido por sus análisis fundamentales de largo plazo. El sector de construcción de viviendas es muy sensible a las tasas de interés: cuando las hipotecas son caras, menos gente compra casas, lo que impacta a las constructoras. Este caso es útil para entender cómo las decisiones de grandes inversores mueven el mercado.",
       "tags": [
-        "real estate",
-        "Berkshire",
-        "tasas"
+        "vivienda",
+        "tasas de interés",
+        "Berkshire"
       ],
       "source_name": "Simply Wall Street",
       "source_url": "https://simplywall.st/stocks/us/consumer-durables/nyse-kbh/kb-home/news/3-homebuilder-stocks-to-watch-after-berkshire-boosted-lennar",
       "published_at": "2026-09-26T18:27:31Z",
+      "fecha_evento": "2026-09-26",
       "tickers": [
-        "KBH",
         "LEN",
+        "KBH",
         "NVR"
       ]
     },
     {
-      "id": "first-solar-52-week-low",
-      "type": "mercado",
-      "title": "First Solar se acerca a su mínimo de 52 semanas por el aumento de las tasas del Tesoro de EE.UU.",
-      "summary": "Las acciones de First Solar cayeron significativamente y se acercan a su mínimo de 52 semanas, principalmente por el efecto de las tasas de interés más altas en EE.UU., que encarecen el financiamiento de proyectos solares. Algunos analistas consideran que la acción cotiza por debajo de su valor intrínseco, con un precio justo estimado en $263.",
-      "detail": "Este caso ilustra una relación clave en finanzas: cuando suben las tasas de interés, los proyectos de energías renovables se vuelven menos atractivos porque dependen mucho del financiamiento a largo plazo, cuyo costo aumenta. Además, el sector enfrenta incertidumbre sobre posibles cambios en políticas de subsidios como los créditos fiscales de la sección 45X. Entender cómo las tasas impactan sectores específicos es fundamental para analizar cualquier portafolio de inversión.",
+      "id": "titan-international-venta-itm-2026",
+      "type": "empresa",
+      "title": "Titan International vende su negocio de orugas por USD 207 millones para reducir deuda",
+      "summary": "Titan International acordó vender su división ITM Undercarriage a USCO por aproximadamente USD 207 millones en efectivo, más un pago adicional de hasta USD 6 millones según resultados de 2026. El cierre de la operación se espera para enero de 2027, y los fondos se destinarán a reducir deuda y financiar crecimiento estratégico.",
+      "detail": "Vender una división de negocios para reducir deuda es una estrategia que las empresas usan cuando quieren mejorar su balance financiero y enfocarse en sus negocios principales. Para quien aprende finanzas, este es un ejemplo clásico de 'desinversión': la empresa sacrifica ingresos futuros de esa unidad a cambio de liquidez inmediata y menor carga financiera. El nivel de deuda de una empresa es uno de los indicadores más importantes para evaluar su salud financiera.",
       "tags": [
-        "energía solar",
-        "tasas de interés",
-        "valuación"
+        "desinversión",
+        "deuda",
+        "fusiones y adquisiciones"
       ],
-      "source_name": "Simply Wall Street",
-      "source_url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-fslr/first-solar/news/first-solar-fslr-slides-toward-a-52-week-low-is-the-stock-no",
-      "published_at": "2026-09-26T17:47:54Z",
+      "source_name": "TradingView",
+      "source_url": "https://www.tradingview.com/news/tradingview:a226473a6fe92:0-titan-international-to-sell-itm-undercarriage-business-to-usco-for-207-million-plus-earnout/",
+      "published_at": "2026-09-26T19:23:52Z",
+      "fecha_evento": "2026-09-26",
       "tickers": [
-        "FSLR"
+        "TWI"
       ]
     }
   ],
@@ -214,9 +186,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 84.137",
-      "valor_num": 84137.0,
-      "delta_pct": 0.41
+      "valor": "US$ 84.354",
+      "valor_num": 84354.0,
+      "delta_pct": 0.35
     },
     {
       "label": "S&P 500",
