@@ -1,152 +1,156 @@
 {
-  "generated_at": "2026-09-25T22:01:16.365643+00:00",
+  "generated_at": "2026-09-26T12:01:13.059159+00:00",
   "items": [
     {
-      "id": "semis-treasury-yields-2026-09-25",
-      "type": "mercado",
-      "title": "Las tasas del Tesoro de EE.UU. superaron el 5,1% y golpearon a las acciones tecnológicas",
-      "summary": "Las acciones de varias empresas de semiconductores como Western Digital cayeron después de que el rendimiento del bono del Tesoro a 10 años superara el 5,1%, impulsado por un índice de actividad económica (PMI compuesto) más fuerte de lo esperado en septiembre. Las valuaciones altas de las tecnológicas son muy sensibles a las tasas de interés.",
-      "detail": "Cuando las tasas de los bonos del Tesoro suben, el valor presente de las ganancias futuras de las empresas tecnológicas se reduce, porque esas ganancias se 'descuentan' a una tasa mayor. Esto explica por qué las empresas con múltiplos de valuación altos (es decir, que valen mucho en relación a sus ganancias actuales) son las más afectadas. Un PMI más fuerte sugiere que la economía sigue activa, lo que puede llevar a la Reserva Federal a mantener tasas altas por más tiempo, presionando aún más a estas acciones.",
-      "tags": [
-        "tasas de interés",
-        "tecnología",
-        "bonos"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-formfactor-penguin-solutions-212858821.html",
-      "published_at": "2026-09-25T21:28:45Z",
-      "tickers": [
-        "WDC",
-        "MU",
-        "PENG"
-      ]
-    },
-    {
-      "id": "tesla-semi-deliveries-2026-09-25",
+      "id": "paramount-skydance-nyse",
       "type": "empresa",
-      "title": "Tesla empezó a entregar sus camiones eléctricos Semi tras años de retrasos",
-      "summary": "Tesla comenzó a entregar sus camiones pesados Semi a clientes como PepsiCo y DHL, años después del anuncio original de Elon Musk en 2017. El modelo de largo alcance promete hasta 500 millas por carga y la compañía planea producir 50.000 unidades por año en su planta de Nevada.",
-      "detail": "La entrega de un producto largo tiempo prometido es un evento clave para cualquier empresa, ya que transforma expectativas en ingresos reales. Para Tesla, que cotiza en bolsa con una valuación muy alta basada en su potencial futuro, cumplir con hitos de producción es fundamental para justificar su precio de acción. Además, el mercado de camiones pesados es enorme y representa una nueva fuente de ingresos diversificada más allá de los autos de consumo.",
+      "title": "Paramount Skydance se muda del Nasdaq al NYSE",
+      "summary": "Paramount Skydance anunció que va a trasladar la cotización de sus acciones clase B del Nasdaq a la Bolsa de Nueva York (NYSE). El cambio está previsto para el 6 de octubre, en medio de la finalización de su megafusión con Warner Bros valorada en 110 mil millones de dólares.",
+      "detail": "Cambiar de bolsa no es algo que pase todos los días: implica cumplir nuevos requisitos de listado y puede afectar la visibilidad y liquidez de una acción. En este caso, el movimiento coincide con una fusión enorme, lo que muestra cómo las empresas reorganizan su estructura corporativa cuando cambian de escala. Para alguien que aprende finanzas, es un buen ejemplo de que las bolsas compiten entre sí por atraer empresas grandes, y que una fusión puede desencadenar cambios en múltiples frentes al mismo tiempo.",
       "tags": [
-        "vehículos eléctricos",
-        "producción",
-        "Tesla"
-      ],
-      "source_name": "Fox Business",
-      "source_url": "https://www.foxbusiness.com/markets/tesla-begins-delivering-semi-trucks-customers-after-years-delays",
-      "published_at": "2026-09-25T20:31:00Z",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "merck-daiichi-lung-cancer-2026-09-25",
-      "type": "empresa",
-      "title": "Merck y Daiichi Sankyo retiraron su solicitud de aprobación para un tratamiento contra el cáncer de pulmón",
-      "summary": "Merck y Daiichi Sankyo retiraron la solicitud de aprobación acelerada ante la FDA para su terapia experimental contra el cáncer de pulmón de células pequeñas, luego de que la agencia determinara que los datos de estudios intermedios no eran suficientes. La droga estaba destinada a pacientes cuya enfermedad empeoró tras la quimioterapia estándar.",
-      "detail": "La aprobación de la FDA es una de las noticias más importantes para una empresa farmacéutica, ya que habilita la comercialización de un producto y puede impactar enormemente en sus ingresos futuros. Un retiro de solicitud suele interpretarse negativamente por el mercado, porque indica que el camino hacia la aprobación es más largo o incierto de lo esperado. Esto muestra el alto riesgo regulatorio que enfrentan las inversiones en el sector de salud y biotecnología.",
-      "tags": [
-        "farmacéuticas",
-        "FDA",
-        "salud"
-      ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/legal/litigation/merck-daiichi-sankyo-withdraw-us-application-lung-cancer-drug-2026-09-25/",
-      "published_at": "2026-09-25T20:38:00Z",
-      "tickers": [
-        "MRK"
-      ]
-    },
-    {
-      "id": "coca-cola-gehring-hire-2026-09-25",
-      "type": "empresa",
-      "title": "Coca-Cola sumó al directivo de Monster Beverage para liderar sus operaciones en Norteamérica",
-      "summary": "Coca-Cola contrató a Rob Gehring, ex responsable del negocio en las Américas de Monster Beverage, para dirigir sus operaciones en Norteamérica desde el 1° de diciembre. La movida busca sostener el crecimiento de la compañía en un contexto donde el alza en precios de nafta y alimentos presiona el gasto de los consumidores estadounidenses.",
-      "detail": "El liderazgo ejecutivo tiene un impacto real en la estrategia de una empresa y en cómo el mercado percibe su capacidad de adaptación. Traer a alguien de Monster, cuyas ventas crecieron un 20% en el segundo trimestre, sugiere que Coca-Cola quiere aprender de ese modelo de innovación y expansión. En períodos de presión sobre el consumidor, las empresas de consumo masivo necesitan renovarse para mantener márgenes y volumen de ventas.",
-      "tags": [
-        "consumo masivo",
-        "estrategia",
-        "liderazgo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
-      "published_at": "2026-09-25T20:34:00Z",
-      "tickers": [
-        "KO",
-        "MNST"
-      ]
-    },
-    {
-      "id": "applovin-class-action-2026-09-25",
-      "type": "empresa",
-      "title": "Demanda colectiva contra AppLovin por supuestas declaraciones falsas sobre su IA",
-      "summary": "El estudio jurídico Rosen Law Firm presentó una demanda colectiva contra AppLovin (NASDAQ: APP) en nombre de inversores que compraron acciones entre febrero y agosto de 2026, alegando que la empresa hizo declaraciones falsas o engañosas sobre sus modelos de inteligencia artificial. La fecha límite para sumarse como demandante principal es el 16 de noviembre de 2026.",
-      "detail": "Las demandas colectivas de valores (securities class action) ocurren cuando inversores alegan haber sido perjudicados por información engañosa que distorsionó el precio de una acción. Este tipo de litigio puede tener un impacto significativo en la cotización de la empresa y generar costos legales importantes. Para alguien que aprende finanzas, es un recordatorio de que las declaraciones públicas de las empresas sobre tecnología y negocios tienen consecuencias legales y de mercado concretas.",
-      "tags": [
-        "demanda",
-        "inteligencia artificial",
+        "fusiones",
+        "bolsa",
         "acciones"
       ],
-      "source_name": "TMX Newsfile",
-      "source_url": "https://www.newsfilecorp.com/release/315903/ROSEN-A-LEADING-INVESTOR-RIGHTS-LAW-FIRM-Encourages-AppLovin-Corporation-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-APP",
-      "published_at": "2026-09-25T20:51:52Z",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/legal/government/paramount-skydance-move-stock-listing-nyse-nasdaq-2026-09-25/",
+      "published_at": "2026-09-26T08:40:58Z",
       "tickers": [
-        "APP"
+        "PSKY",
+        "WBD"
       ]
     },
     {
-      "id": "alibaba-uber-revenue-comparison-2026-09-25",
+      "id": "morgan-stanley-prediction-market",
+      "type": "empresa",
+      "title": "Morgan Stanley es el primer gran banco de Wall Street en apostar por los mercados de predicción",
+      "summary": "Morgan Stanley se convirtió en el primer banco importante de Wall Street en asociarse formalmente con una iniciativa de mercado de predicción, al unirse con NEXTPredict. El objetivo es potenciar sus servicios de asesoramiento usando datos y tecnología.",
+      "detail": "Los mercados de predicción son plataformas donde los participantes apuestan dinero sobre el resultado de eventos futuros, y sus precios se interpretan como probabilidades. Que un banco del tamaño de Morgan Stanley entre en este espacio indica que estas herramientas están ganando legitimidad como fuente de información financiera. Para quien aprende finanzas, es interesante ver cómo los grandes bancos buscan nuevas fuentes de ingresos basadas en datos, más allá de los productos tradicionales.",
+      "tags": [
+        "banca",
+        "tecnología",
+        "innovación"
+      ],
+      "source_name": "Yahoo Finance Singapore",
+      "source_url": "https://sg.finance.yahoo.com/news/morgan-stanley-ms-joins-prediction-100851041.html",
+      "published_at": "2026-09-26T10:12:40Z",
+      "tickers": [
+        "MS",
+        "JPM",
+        "GS"
+      ]
+    },
+    {
+      "id": "texas-instruments-ai-demanda",
+      "type": "mercado",
+      "title": "Texas Instruments se beneficia del boom de la IA y sube cerca de máximos",
+      "summary": "Texas Instruments (TXN) cotiza cerca de los 278 dólares, impulsada por la mayor demanda en inteligencia artificial, centros de datos, industria y sector automotriz. La empresa también incrementó su dividendo recientemente.",
+      "detail": "Texas Instruments fabrica semiconductores analógicos y embebidos que son la base de muchísimos dispositivos electrónicos. Cuando la demanda de IA crece, también crece la necesidad de chips de todo tipo, no solo los más famosos como los de Nvidia. Entender esta cadena de valor ayuda a ver que el boom tecnológico beneficia a empresas que no siempre están en el centro de atención. El principal riesgo mencionado es una posible corrección de inventarios en el sector, algo común en ciclos de semiconductores.",
+      "tags": [
+        "semiconductores",
+        "inteligencia artificial",
+        "dividendos"
+      ],
+      "source_name": "FXLeaders",
+      "source_url": "https://www.fxleaders.com/news/2026/09/26/texas-instruments-stock-forecast-txn-breakout-279-ai-demand/",
+      "published_at": "2026-09-26T08:39:07Z",
+      "tickers": [
+        "TXN"
+      ]
+    },
+    {
+      "id": "sumitomo-mitsui-japon-vpbank",
+      "type": "mercado",
+      "title": "El banco japonés Sumitomo Mitsui subió más de 4% impulsado por tasas y expansión en Vietnam",
+      "summary": "Las acciones de Sumitomo Mitsui Financial Group (SMFG) subieron 4,29% el 25 de septiembre, empujadas por la suba de los rendimientos de los bonos del gobierno japonés y por noticias de que el banco estudia aumentar su participación en el banco vietnamita VPBank del 15% al 20%. Las ganancias del grupo crecieron un 33,4% en el trimestre que cerró en junio de 2026.",
+      "detail": "Cuando suben las tasas de interés, los bancos suelen ganar más dinero porque la diferencia entre lo que cobran por préstamos y lo que pagan por depósitos (margen de intermediación) se amplía. Esto explica por qué la suba de rendimientos de los bonos japoneses impactó positivamente en las acciones del banco. Además, la expansión en mercados emergentes como Vietnam muestra cómo los bancos grandes buscan crecer donde hay más potencial. Es un buen ejemplo de cómo las decisiones de política monetaria de un banco central afectan directamente al sector bancario.",
+      "tags": [
+        "banca",
+        "Japan",
+        "tasas de interés"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sumitomo-mitsui-financial-group-stock-gains-4-29-percent-on-september-25/70186030",
+      "published_at": "2026-09-26T09:53:23Z",
+      "tickers": [
+        "SMFG"
+      ]
+    },
+    {
+      "id": "lockheed-martin-contratos-defensa",
+      "type": "empresa",
+      "title": "Lockheed Martin ganó un contrato de 1.200 millones de dólares y superó estimaciones de ganancias",
+      "summary": "Lockheed Martin reportó ganancias por acción de 7,94 dólares e ingresos de 20.060 millones, un 10,5% más que el año anterior. Además, obtuvo un nuevo contrato del Ejército de EE.UU. por 1.200 millones de dólares para misiles de precisión.",
+      "detail": "Lockheed Martin es una de las mayores empresas de defensa del mundo, por lo que sus contratos gubernamentales son una señal del nivel de gasto militar de EE.UU. y sus aliados. Cuando una empresa supera las estimaciones de analistas en ganancias e ingresos, el mercado suele reaccionar positivamente porque confirma que el negocio marcha mejor de lo esperado. Para quien aprende finanzas, este caso ilustra cómo los contratos de largo plazo con gobiernos dan visibilidad y previsibilidad a los ingresos de una empresa.",
+      "tags": [
+        "defensa",
+        "ganancias",
+        "contratos"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/consensus-lockheed-martin-corporation-nyse-lmt-receives-average-recommendation-of-hold-from-analysts-2026-09-26/",
+      "published_at": "2026-09-26T08:47:41Z",
+      "tickers": [
+        "LMT"
+      ]
+    },
+    {
+      "id": "nxp-semiconductors-objetivo-precio",
+      "type": "mercado",
+      "title": "NXP Semiconductors tiene potencial alcista significativo según los analistas",
+      "summary": "Los analistas tienen un precio objetivo promedio de 305,65 dólares para NXP Semiconductors (NXPI), muy por encima de su cotización actual de 238,08 dólares. La empresa superó las estimaciones del último trimestre y pagó dividendo trimestral de 1,014 dólares por acción.",
+      "detail": "El precio objetivo que fijan los analistas es una estimación de cuánto debería valer una acción en los próximos 12 meses según sus modelos de valuación. Cuando hay una brecha grande entre el precio actual y ese objetivo, puede indicar que el mercado no está reflejando todo el valor potencial de la empresa, o que los analistas son demasiado optimistas. NXP fabrica chips para autos y dispositivos conectados, sectores con alta demanda, lo que explica el optimismo. Es un buen ejercicio para entender cómo se usan los precios objetivo en el análisis de acciones.",
+      "tags": [
+        "semiconductores",
+        "analistas",
+        "valuación"
+      ],
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/consensus-nxp-semiconductors-nv-nasdaq-nxpi-stock-has-consensus-target-price-of-30565-according-to-analysts-2026-09-26/",
+      "published_at": "2026-09-26T08:35:13Z",
+      "tickers": [
+        "NXPI"
+      ]
+    },
+    {
+      "id": "procter-gamble-dividendos-pasivos",
       "type": "economia",
-      "title": "Alibaba y Uber: cómo navegan el boom de la IA con modelos de negocio muy distintos",
-      "summary": "Un análisis compara la evolución trimestral de ingresos de Alibaba y Uber, destacando que Alibaba invierte fuertemente en infraestructura de IA afectando su ganancia neta, mientras Uber expande sus iniciativas de vehículos autónomos y hace crecer su negocio de delivery.",
-      "detail": "Comparar empresas de distintos sectores que compiten por el mismo capital inversor es una habilidad clave en finanzas. Alibaba y Uber muestran dos estrategias diferentes ante el auge de la IA: una que sacrifica rentabilidad a corto plazo por posicionamiento tecnológico, y otra que busca expandir servicios. Entender estas diferencias ayuda a evaluar en qué tipo de empresa y riesgo está invirtiendo uno.",
+      "title": "Invertir 100 dólares por mes en Procter & Gamble podría generar casi 2.000 dólares en dividendos en 10 años",
+      "summary": "Un análisis estima que invertir 100 dólares mensuales en acciones de Procter & Gamble (PG) a lo largo de 10 años generaría aproximadamente 1.951 dólares en ingresos acumulados por dividendos. La empresa tiene un historial de 70 años aumentando sus dividendos de forma consecutiva.",
+      "detail": "Este tipo de análisis ilustra el concepto de inversión sistemática o 'dollar-cost averaging': invertir montos fijos de forma regular sin importar el precio del momento. P&G es considerada una acción defensiva porque vende productos de consumo básico que la gente compra siempre, lo que da estabilidad a sus ganancias y dividendos. Para alguien que empieza en finanzas, es un ejemplo concreto de cómo el tiempo y la constancia pueden construir ingresos pasivos, aunque la cifra no incluye la revalorización del capital ni futuros aumentos de dividendo.",
       "tags": [
-        "tecnología",
-        "inteligencia artificial",
-        "ingresos"
+        "dividendos",
+        "inversión",
+        "consumo"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/alibaba-group-vs-uber-technologies-204548738.html",
-      "published_at": "2026-09-25T20:46:44Z",
+      "source_name": "The Motley Fool",
+      "source_url": "https://www.fool.com/investing/2026/09/26/procter-gamble-stock-passive-dividend-income/",
+      "published_at": "2026-09-26T10:33:23Z",
       "tickers": [
-        "UBER",
-        "NVDA"
+        "PG"
       ]
     },
     {
-      "id": "oklo-reactor-criticality-2026-09-25",
-      "type": "empresa",
-      "title": "El reactor de prueba de Oklo alcanzó la criticalidad y marca un hito para la energía nuclear avanzada",
-      "summary": "El reactor de prueba de isótopos de Oklo logró la criticalidad —es decir, una reacción nuclear autosostenida— en Lockhart, Texas, convirtiéndose en el quinto reactor autorizado por el Departamento de Energía de EE.UU. en lograrlo. El proyecto pasó de un sitio vacío a este hito en menos de un año.",
-      "detail": "La criticalidad es el primer paso operativo crítico para cualquier reactor nuclear: significa que la reacción en cadena puede mantenerse sola, lo que valida el diseño del reactor. Para los inversores, este tipo de hito tecnológico es importante porque reduce la incertidumbre sobre si una tecnología funcionará, algo central en empresas de energía nuclear avanzada que cotizan en bolsa. El sector nuclear está recibiendo creciente atención como fuente de energía limpia y confiable para alimentar centros de datos de IA.",
+      "id": "wells-fargo-upgrades-industriales",
+      "type": "mercado",
+      "title": "Wells Fargo mejoró la calificación de varias empresas industriales al mismo tiempo",
+      "summary": "Wells Fargo actualizó las calificaciones de varias compañías industriales y de manufactura en una misma jornada: subió a 'strong buy' a Johnson Controls y Emerson Electric, y elevó a 'hold' a 3M, Rockwell Automation y Parker-Hannifin. En cambio, bajó a 'strong sell' a Otis Worldwide.",
+      "detail": "Cuando un banco de inversión importante como Wells Fargo actualiza múltiples calificaciones del mismo sector en un día, generalmente refleja un cambio en su visión sobre ese sector o sobre el ciclo económico. Las calificaciones de analistas ('buy', 'hold', 'sell') influyen en las decisiones de inversores institucionales y pueden mover los precios de las acciones. Para alguien que aprende finanzas, es útil entender que estas calificaciones son opiniones fundamentadas en análisis, no certezas, y que distintos analistas pueden tener visiones opuestas sobre la misma empresa.",
       "tags": [
-        "energía nuclear",
-        "tecnología",
-        "hitos"
+        "analistas",
+        "industria",
+        "calificaciones"
       ],
-      "source_name": "American Nuclear Society -- ANS",
-      "source_url": "https://www.ans.org/news/article-8277/oklos-isotope-test-reactor-achieves-criticality/",
-      "published_at": "2026-09-25T21:19:11Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-johnson-controls-international-nyse-jci-raised-to-strong-buy-at-wells-fargo-company-2026-09-26/",
+      "published_at": "2026-09-26T10:38:14Z",
       "tickers": [
-        "OKLO"
-      ]
-    },
-    {
-      "id": "salesforce-dreamforce-ai-agents-2026-09-25",
-      "type": "empresa",
-      "title": "Dreamforce 2026: Salesforce pone el foco en resultados concretos de sus agentes de IA",
-      "summary": "En la conferencia anual Dreamforce 2026, Salesforce presentó sus agentes de inteligencia artificial integrados en una plataforma empresarial completa, con precios basados en resultados y Slack como hub central para estos agentes. El mensaje principal fue que la IA ya no está en fase de demostración sino de impacto medible en los negocios.",
-      "detail": "Los eventos de presentación de grandes empresas tecnológicas como Dreamforce son seguidos de cerca por el mercado porque revelan la hoja de ruta de productos y la estrategia de monetización. El modelo de precios basado en resultados (outcome-based pricing) es relevante porque cambia cómo se valúan estos servicios y puede impactar en los ingresos futuros de Salesforce. Para alguien que aprende finanzas, entender cómo una empresa evoluciona su modelo de negocio es clave para analizar su potencial de crecimiento.",
-      "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "conferencia"
-      ],
-      "source_name": "SiliconANGLE",
-      "source_url": "https://siliconangle.com/2026/09/25/ai-agents-dreamforce-2026-from-demos-outcomes-dreamforce/",
-      "published_at": "2026-09-25T20:38:53Z",
-      "tickers": [
-        "CRM"
+        "JCI",
+        "MMM",
+        "ROK",
+        "OTIS",
+        "EMR",
+        "PH"
       ]
     }
   ],
@@ -155,7 +159,7 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.545",
       "valor_num": 1545.0,
-      "delta_pct": 0.65
+      "delta_pct": 0.32
     },
     {
       "label": "DÓLAR BLUE",
@@ -167,19 +171,19 @@
       "label": "MEP",
       "valor": "$1.557",
       "valor_num": 1557.3,
-      "delta_pct": 0.93
+      "delta_pct": 0.76
     },
     {
       "label": "CCL",
       "valor": "$1.617",
       "valor_num": 1616.6,
-      "delta_pct": 0.59
+      "delta_pct": 0.14
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.833",
-      "valor_num": 83833.0,
-      "delta_pct": -0.58
+      "valor": "US$ 84.161",
+      "valor_num": 84161.0,
+      "delta_pct": -0.51
     },
     {
       "label": "S&P 500",
@@ -189,9 +193,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.320",
-      "valor_num": 4320.5,
-      "delta_pct": -1.45
+      "valor": "US$ 4.321",
+      "valor_num": 4321.2,
+      "delta_pct": -1.43
     }
   ]
 }
