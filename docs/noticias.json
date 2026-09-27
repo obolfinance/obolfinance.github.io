@@ -1,161 +1,138 @@
 {
-  "generated_at": "2026-09-26T23:29:20.808099+00:00",
+  "generated_at": "2026-09-27T12:01:28.515357+00:00",
   "items": [
     {
-      "id": "costco-tariff-refunds-2026",
+      "id": "apple-patent-verdict-haptics",
       "type": "empresa",
-      "title": "Costco recibió USD 184 millones en reembolsos de aranceles y los volcó en bajar precios",
-      "summary": "Costco anunció que recibió USD 184 millones en reembolsos de aranceles durante su cuarto trimestre y que la mayoría de ese dinero se reinvirtió para bajar precios a sus socios en alimentos y otros productos. La empresa espera recibir montos similares en trimestres futuros, lo que seguirá impactando sus resultados hasta 2027.",
-      "detail": "Los aranceles son impuestos que los países cobran sobre productos importados. Cuando un gobierno los reduce o los devuelve, las empresas que los pagaron pueden recibir reembolsos. En este caso, Costco eligió trasladar ese beneficio a sus clientes bajando precios, lo que es una estrategia de fidelización muy característica del modelo de negocio de la compañía. Para alguien que aprende finanzas, es un ejemplo claro de cómo las políticas comerciales y arancelarias afectan directamente los resultados de las empresas y sus decisiones de negocio.",
+      "title": "Apple deberá pagar u$s 5.700 millones por infringir patentes de vibración táctil",
+      "summary": "Un jurado federal en San Diego condenó a Apple a pagar más de u$s 5.700 millones a la firma Taction Technology por usar sin permiso sus patentes de feedback háptico en iPhones y Apple Watches. Es uno de los veredictos por patentes más grandes contra una empresa tecnológica. Apple anunció que va a apelar la decisión.",
+      "detail": "Este caso muestra cómo los litigios por propiedad intelectual pueden generar obligaciones millonarias para empresas grandes, afectando directamente su valuación en bolsa. Para alguien que aprende finanzas, es importante entender que estos riesgos legales son parte del análisis fundamental de una acción: aunque Apple tenga ingresos enormes, una condena de esta magnitud puede pesar en su cotización y en la confianza de los inversores. La decisión de apelar es habitual en estos casos y puede dilatar el impacto financiero real por años.",
       "tags": [
-        "aranceles",
-        "consumo",
-        "resultados"
-      ],
-      "source_name": "New York Post",
-      "source_url": "https://nypost.com/2026/09/26/business/costco-receives-184m-in-tariff-refunds/",
-      "published_at": "2026-09-26T18:48:22Z",
-      "fecha_evento": "2026-09-26",
-      "tickers": [
-        "COST"
-      ]
-    },
-    {
-      "id": "boeing-737-max-software-glitch-2026",
-      "type": "empresa",
-      "title": "Boeing detectó un error de software en el 737 MAX que podría afectar la navegación automática",
-      "summary": "Boeing identificó un fallo en el software del 737 MAX que podría hacer fallar el sistema de navegación automática durante ciertos aterrizajes, especialmente cuando los pilotos cambian su ruta de vuelo. La compañía está trabajando para resolver el problema.",
-      "detail": "Los problemas técnicos recurrentes en el 737 MAX son relevantes para los inversores porque afectan la reputación de Boeing, pueden generar costos legales y de corrección, y pueden impactar los pedidos futuros de aerolíneas. Para quien aprende finanzas, este tipo de noticias muestra cómo los riesgos operativos y de seguridad de una empresa se traducen en riesgo para el valor de sus acciones. Las aerolíneas que operan estos aviones, como United y Southwest, también pueden verse afectadas.",
-      "tags": [
-        "Boeing",
-        "aviación",
-        "riesgo operativo"
-      ],
-      "source_name": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com/news/4647379-boeing-identifies-737-max-software-glitch-could-impact-navigation",
-      "published_at": "2026-09-26T18:46:00Z",
-      "fecha_evento": "2026-09-26",
-      "tickers": [
-        "BA",
-        "UAL",
-        "LUV"
-      ]
-    },
-    {
-      "id": "salesforce-salesbleed-agentforce-2026",
-      "type": "empresa",
-      "title": "Salesforce parcheó tres fallas críticas de seguridad en su plataforma de inteligencia artificial Agentforce",
-      "summary": "Salesforce corrigió tres vulnerabilidades graves en Agentforce, su plataforma de agentes de IA, que permitían a atacantes robar datos de clientes y suplantar identidades sin que el usuario hiciera nada. Las fallas, conocidas como 'SalesBleed', fueron descubiertas por la empresa de seguridad Zenity Labs.",
-      "detail": "Los agentes de IA son programas que actúan de forma autónoma en nombre de las empresas y tienen acceso a datos sensibles. Cuando estos sistemas tienen vulnerabilidades, el riesgo no es solo técnico sino también reputacional y financiero para la empresa. Este caso ilustra un riesgo emergente en el sector tecnológico: a medida que las empresas adoptan IA, los problemas de seguridad pueden convertirse en un factor clave a la hora de evaluar inversiones en compañías del sector.",
-      "tags": [
-        "inteligencia artificial",
-        "ciberseguridad",
+        "patentes",
+        "litigio",
         "tecnología"
       ],
-      "source_name": "tech-insider.org",
-      "source_url": "https://tech-insider.org/salesforce-salesbleed-agentforce-ai-flaws-2026/",
-      "published_at": "2026-09-26T18:25:44Z",
-      "fecha_evento": "2026-09-26",
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/tech/26/09/62011847/apple-hit-with-5-7-billion-patent-verdict-over-iphone-apple-watch-haptics",
+      "published_at": "2026-09-27T09:46:15Z",
+      "fecha_evento": "2026-09-27",
       "tickers": [
-        "CRM"
+        "AAPL"
       ]
     },
     {
-      "id": "jpmorgan-qatar-partnership-2026",
+      "id": "cintas-record-revenue-q1-2027",
       "type": "empresa",
-      "title": "JPMorgan avanza en una alianza estratégica con el fondo soberano de Qatar",
-      "summary": "JPMorgan Chase está desarrollando una asociación significativa con la Qatar Investment Authority, al tiempo que subió su dividendo trimestral e implementó nuevos controles de datos digitales. Los analistas proyectan un crecimiento importante en ingresos y ganancias para el banco hacia 2029.",
-      "detail": "Los fondos soberanos como el Qatar Investment Authority son vehículos de inversión de los gobiernos y representan enormes flujos de capital global. Cuando un banco de la talla de JPMorgan establece una alianza con uno de ellos, puede significar acceso a negocios de gestión de activos, financiamiento de proyectos y flujos de inversión muy grandes. Para quien aprende finanzas, este tipo de acuerdos muestra cómo los bancos grandes generan ingresos más allá de los préstamos tradicionales.",
-      "tags": [
-        "banca",
-        "fondos soberanos",
-        "dividendos"
-      ],
-      "source_name": "Simply Wall Street",
-      "source_url": "https://simplywall.st/stocks/us/banks/nyse-jpm/jpmorgan-chase/news/qatar-partnership-could-be-a-game-changer-for-jpmorgan-stock",
-      "published_at": "2026-09-26T20:48:51Z",
-      "fecha_evento": "2026-09-26",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "id": "vail-resorts-earnings-preview-q4-2026",
-      "type": "reunion",
-      "title": "Vail Resorts presentará sus resultados del cuarto trimestre el 28 de septiembre",
-      "summary": "Vail Resorts (MTN) publicará sus resultados del Q4 2026 el próximo 28 de septiembre. Los analistas esperan ingresos de USD 274,3 millones y una pérdida por acción de USD 5,31. El precio objetivo promedio de los analistas es de USD 153.",
-      "detail": "Los reportes de ganancias trimestrales son momentos clave en los mercados porque revelan si una empresa cumplió, superó o decepcionó las expectativas del mercado, lo que puede mover fuertemente el precio de la acción. El cuarto trimestre de Vail Resorts suele mostrar pérdidas porque la temporada de esquí ya terminó, lo que es un ejemplo de cómo la estacionalidad afecta los resultados de ciertas empresas. Seguir estas fechas ayuda a entender el ciclo de vida de los reportes corporativos.",
+      "title": "Cintas reportó ingresos récord de u$s 3.010 millones en el primer trimestre de su año fiscal 2027",
+      "summary": "Cintas logró su mayor facturación trimestral histórica, con u$s 3.010 millones en el primer trimestre fiscal 2027, un 10,9% más que el año anterior. La empresa también mejoró sus proyecciones de ingresos y ganancias para todo el año. La adquisición propuesta de UniFirst todavía está bajo revisión de la FTC y se espera cerrar antes de fin de 2026.",
+      "detail": "Cuando una empresa supera sus propios récords de ingresos y además sube su guidance (proyección anual), es una señal positiva para los inversores porque sugiere que el negocio crece de forma sostenida. El hecho de que los márgenes brutos también mejoraron indica mayor eficiencia, no solo más ventas. La revisión regulatoria de la FTC sobre la adquisición de UniFirst es un ejemplo clásico de riesgo en operaciones de M&A (fusiones y adquisiciones), donde el Estado puede bloquear o condicionar la compra.",
       "tags": [
         "resultados",
-        "turismo",
-        "estacionalidad"
+        "fusiones",
+        "consumo"
       ],
-      "source_name": "Quiver Quantitative",
-      "source_url": "https://www.quiverquant.com/news/VAIL+RESORTS+Q4+2026+Earnings+Preview%3A+Recent+%24MTN+Insider+Trading%2C+Hedge+Fund+Activity%2C+and+More",
-      "published_at": "2026-09-26T21:05:32Z",
-      "fecha_evento": "2026-09-28",
+      "source_name": "Pulse 2.0",
+      "source_url": "https://pulse2.com/cintas-reports-record-3-01-billion-in-q1-revenue-and-raises-fiscal-2027-outlook/",
+      "published_at": "2026-09-27T10:16:23Z",
+      "fecha_evento": "2026-09-27",
       "tickers": [
-        "MTN"
+        "CTAS"
       ]
     },
     {
-      "id": "pepsico-underperformance-2026",
-      "type": "mercado",
-      "title": "PepsiCo acumula una caída del 10% en 2026 mientras el S&P 500 sube 13%",
-      "summary": "Las acciones de PepsiCo bajaron un 10% en lo que va de 2026 y acumulan una caída del 33% desde su máximo de 2023, muy por debajo del alza del 13% del S&P 500 y del casi 25% de Coca-Cola. El menor crecimiento orgánico de ventas y los cambios en los hábitos de consumo son los principales factores detrás de este rezago.",
-      "detail": "Comparar el rendimiento de una acción contra un índice como el S&P 500 se llama 'análisis relativo' y es una herramienta fundamental para los inversores. El caso de PepsiCo vs. Coca-Cola muestra cómo dos empresas del mismo sector pueden tener desempeños muy distintos según sus estrategias y capacidad de crecimiento. Para alguien que aprende finanzas, este ejemplo ilustra por qué no alcanza con elegir un sector; hay que analizar cada empresa dentro de ese sector.",
+      "id": "pepsico-chip-prices-earnings",
+      "type": "empresa",
+      "title": "PepsiCo vuelve a subir los precios de algunas papas fritas antes de presentar resultados el 8 de octubre",
+      "summary": "PepsiCo está aumentando nuevamente los precios de algunas marcas de snacks, siete meses después de haberlos bajado, citando inflación como motivo. La movida llega justo antes de su reporte de ganancias del tercer trimestre, previsto para el 8 de octubre. La acción de la empresa acumula una caída del 14% en el período reciente.",
+      "detail": "Esta noticia ilustra el dilema clásico que enfrentan empresas de consumo masivo: subir precios para proteger márgenes, pero arriesgando perder volumen de ventas si los consumidores se van a marcas más baratas. Los inversores van a mirar de cerca el reporte del 8 de octubre para ver si la estrategia de precios funcionó sin sacrificar participación de mercado. La caída del 14% en la acción refleja que el mercado ya descontó parte de esa incertidumbre.",
       "tags": [
-        "consumo masivo",
-        "acciones",
-        "comparación sectorial"
+        "consumo",
+        "inflación",
+        "resultados"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-pepsicos-stock-down-10-183500475.html",
-      "published_at": "2026-09-26T18:42:15Z",
-      "fecha_evento": "2026-09-26",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-raising-chip-prices-cut-093513203.html",
+      "published_at": "2026-09-27T09:12:09Z",
+      "fecha_evento": "2026-09-27",
       "tickers": [
-        "PEP",
-        "KO"
+        "PEP"
       ]
     },
     {
-      "id": "berkshire-lennar-homebuilders-2026",
-      "type": "mercado",
-      "title": "Berkshire Hathaway aumentó su posición en Lennar y pone el foco en el sector constructor de viviendas",
-      "summary": "La decisión de Berkshire Hathaway de incrementar su inversión en Lennar generó atención sobre el sector de construcción de viviendas en EE.UU., en un contexto de tasas hipotecarias elevadas. Otras constructoras como KB Home y NVR también están en la mira de los analistas.",
-      "detail": "Cuando Berkshire Hathaway, la compañía de Warren Buffett, aumenta su participación en una empresa, el mercado lo toma como una señal relevante porque Buffett es reconocido por sus análisis fundamentales de largo plazo. El sector de construcción de viviendas es muy sensible a las tasas de interés: cuando las hipotecas son caras, menos gente compra casas, lo que impacta a las constructoras. Este caso es útil para entender cómo las decisiones de grandes inversores mueven el mercado.",
-      "tags": [
-        "vivienda",
-        "tasas de interés",
-        "Berkshire"
-      ],
-      "source_name": "Simply Wall Street",
-      "source_url": "https://simplywall.st/stocks/us/consumer-durables/nyse-kbh/kb-home/news/3-homebuilder-stocks-to-watch-after-berkshire-boosted-lennar",
-      "published_at": "2026-09-26T18:27:31Z",
-      "fecha_evento": "2026-09-26",
-      "tickers": [
-        "LEN",
-        "KBH",
-        "NVR"
-      ]
-    },
-    {
-      "id": "titan-international-venta-itm-2026",
+      "id": "qualcomm-apple-snapdragon-ai",
       "type": "empresa",
-      "title": "Titan International vende su negocio de orugas por USD 207 millones para reducir deuda",
-      "summary": "Titan International acordó vender su división ITM Undercarriage a USCO por aproximadamente USD 207 millones en efectivo, más un pago adicional de hasta USD 6 millones según resultados de 2026. El cierre de la operación se espera para enero de 2027, y los fondos se destinarán a reducir deuda y financiar crecimiento estratégico.",
-      "detail": "Vender una división de negocios para reducir deuda es una estrategia que las empresas usan cuando quieren mejorar su balance financiero y enfocarse en sus negocios principales. Para quien aprende finanzas, este es un ejemplo clásico de 'desinversión': la empresa sacrifica ingresos futuros de esa unidad a cambio de liquidez inmediata y menor carga financiera. El nivel de deuda de una empresa es uno de los indicadores más importantes para evaluar su salud financiera.",
+      "title": "Qualcomm renueva su licencia de patentes con Apple y lanza chips de IA para competir con el A20 Pro",
+      "summary": "Qualcomm renovó su acuerdo de licencias con Apple y presentó nuevos chips Snapdragon con foco en inteligencia artificial, diseñados para competir directamente con el chip A20 Pro de Apple. Apple también estaría desarrollando un rastreador de actividad física sin pantalla y un accesorio tipo colgante con IA integrada. Además, Apple está comercializando sus nuevas Mac como herramientas eficientes para ejecutar modelos de IA.",
+      "detail": "La renovación de licencias entre Qualcomm y Apple es relevante porque elimina incertidumbre legal entre dos gigantes del sector, lo que suele ser bien recibido por el mercado. La carrera por los chips de IA muestra cómo la industria tecnológica está apostando fuerte a la inteligencia artificial como próximo motor de crecimiento. Para inversores, entender qué empresas tienen ventaja en hardware de IA ayuda a evaluar quiénes pueden capturar más valor en los próximos años.",
       "tags": [
-        "desinversión",
-        "deuda",
-        "fusiones y adquisiciones"
+        "chips",
+        "inteligencia artificial",
+        "tecnología"
       ],
-      "source_name": "TradingView",
-      "source_url": "https://www.tradingview.com/news/tradingview:a226473a6fe92:0-titan-international-to-sell-itm-undercarriage-business-to-usco-for-207-million-plus-earnout/",
-      "published_at": "2026-09-26T19:23:52Z",
-      "fecha_evento": "2026-09-26",
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/tech/26/09/62011935/qualcomm-takes-on-apples-new-chip-fitness-tracker-updated-macs-and-more-this-week-in-appleverse",
+      "published_at": "2026-09-27T10:59:08Z",
+      "fecha_evento": "2026-09-27",
       "tickers": [
-        "TWI"
+        "AAPL",
+        "QCOM"
+      ]
+    },
+    {
+      "id": "nvidia-patent-game-optimization-ai",
+      "type": "empresa",
+      "title": "Nvidia presentó una patente de IA para ayudar a los desarrolladores a optimizar videojuegos",
+      "summary": "Nvidia registró una patente para una herramienta de inteligencia artificial que permite a los desarrolladores diagnosticar y optimizar el código de videojuegos mediante una interfaz de chat. La solución apunta a resolver el problema generalizado de juegos mal optimizados para PC. La herramienta requeriría supervisión humana para evitar errores del código generado por IA.",
+      "detail": "Las patentes son activos estratégicos que protegen la innovación de una empresa y pueden generar ingresos futuros a través de licencias o bloquear a competidores. En el caso de Nvidia, seguir expandiendo su ecosistema de IA más allá de los chips de hardware refuerza su posición dominante en el sector. Para alguien que aprende finanzas, esto es un ejemplo de cómo la innovación se traduce en ventajas competitivas que los inversores valoran al analizar una acción.",
+      "tags": [
+        "inteligencia artificial",
+        "patentes",
+        "videojuegos"
+      ],
+      "source_name": "Notebookcheck",
+      "source_url": "https://www.notebookcheck.net/A-new-AI-patent-by-Nvidia-may-solve-developer-woes-surrounding-game-optimization.1409705.0.html",
+      "published_at": "2026-09-27T08:47:36Z",
+      "fecha_evento": "2026-09-27",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "epa-repeal-climate-power-plants",
+      "type": "economia",
+      "title": "La EPA propone derogar normas climáticas de la era Biden para plantas de energía, lo que podría aumentar emisiones",
+      "summary": "La Agencia de Protección Ambiental de EE.UU. (EPA) propone eliminar regulaciones de la era Biden que obligaban a las plantas de carbón y gas a capturar carbono o cerrar. El gobierno Trump impulsa el cambio en nombre de proteger la energía americana. Grupos ambientalistas y de salud pública ya anunciaron que van a impugnar la medida.",
+      "detail": "Las regulaciones ambientales afectan directamente los costos operativos de las empresas energéticas: eliminarlas puede mejorar sus márgenes en el corto plazo, pero también genera incertidumbre legal por los litigios que se anticipan. Para inversores en el sector energético, cambios regulatorios de este tipo son una variable clave del análisis porque pueden alterar la rentabilidad futura de las empresas. También ilustra cómo las decisiones de política pública impactan en los mercados financieros.",
+      "tags": [
+        "regulación",
+        "energía",
+        "política"
+      ],
+      "source_name": "The State",
+      "source_url": "https://www.thestate.com/news/article317399790.html",
+      "published_at": "2026-09-27T09:10:08Z",
+      "fecha_evento": "2026-09-27",
+      "tickers": [
+        "SO"
+      ]
+    },
+    {
+      "id": "pepsico-earnings-oct8-reunion",
+      "type": "reunion",
+      "title": "PepsiCo presenta sus resultados del tercer trimestre el 8 de octubre",
+      "summary": "PepsiCo tiene programada la presentación de sus ganancias del tercer trimestre para el 8 de octubre. Los analistas van a seguir de cerca el desempeño del volumen de ventas de snacks en América del Norte y si la empresa confirma su guía de ganancias anuales. La acción acumula una caída del 14% en el período reciente.",
+      "detail": "Los reportes de ganancias trimestrales son eventos clave en el calendario financiero porque revelan si una empresa cumplió, superó o quedó por debajo de las expectativas del mercado. En el caso de PepsiCo, el dato más importante será si la reciente suba de precios afectó el volumen vendido, ya que perder participación de mercado puede ser más dañino que un margen menor. Aprender a seguir estos eventos ayuda a anticipar movimientos de precios en las acciones.",
+      "tags": [
+        "resultados",
+        "consumo",
+        "calendario"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/pepsico-raising-chip-prices-cut-093513203.html",
+      "published_at": "2026-09-27T09:12:09Z",
+      "fecha_evento": "2026-10-08",
+      "tickers": [
+        "PEP"
       ]
     }
   ],
@@ -164,7 +141,7 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.545",
       "valor_num": 1545.0,
-      "delta_pct": 0.32
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
@@ -176,19 +153,19 @@
       "label": "MEP",
       "valor": "$1.557",
       "valor_num": 1557.3,
-      "delta_pct": 0.76
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
       "valor": "$1.617",
       "valor_num": 1616.6,
-      "delta_pct": 0.14
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 84.354",
-      "valor_num": 84354.0,
-      "delta_pct": 0.35
+      "valor": "US$ 84.875",
+      "valor_num": 84875.0,
+      "delta_pct": 0.85
     },
     {
       "label": "S&P 500",
@@ -200,7 +177,7 @@
       "label": "ORO (ONZA)",
       "valor": "US$ 4.321",
       "valor_num": 4321.2,
-      "delta_pct": -1.43
+      "delta_pct": -1.26
     }
   ]
 }
