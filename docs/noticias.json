@@ -1,159 +1,158 @@
 {
-  "generated_at": "2026-09-28T12:01:21.202998+00:00",
+  "generated_at": "2026-09-28T22:01:13.424865+00:00",
   "items": [
     {
-      "id": "mag7-ai-bond-market-threat",
-      "type": "mercado",
-      "title": "El creador del término 'Magnificent 7' advierte que las grandes tech están en riesgo",
-      "summary": "Michael Hartnett, el analista que acuñó el término 'Magnificent 7', advierte que las grandes tecnológicas están perdiendo su mayor ventaja: generar mucho efectivo sin necesidad de endeudarse. Las inversiones masivas en IA las están volviendo dependientes del mercado de bonos, lo que las expone a las subidas de tasas de interés.",
-      "detail": "Durante años, empresas como Apple, Amazon, Google y Meta se destacaron por tener caja abundante y poca deuda, lo que las hacía casi inmunes a los movimientos de tasas. Ahora, para financiar la carrera de la IA, están recurriendo al mercado de bonos: si las tasas suben, sus costos de financiamiento aumentan y sus valuaciones se comprimen. Esto es clave para entender finanzas: el precio de una acción depende en parte de cuánto 'cuesta' el dinero en el mercado. Además, Hartnett sugiere que los bancos centrales podrían intervenir para estabilizar los bonos si la situación se complica, lo que muestra la conexión entre política monetaria, mercado de deuda y acciones tecnológicas.",
-      "tags": [
-        "tecnología",
-        "bonos",
-        "IA"
-      ],
-      "source_name": "Fortune",
-      "source_url": "https://fortune.com/2026/09/28/mag-7-under-threat-ai-investment-bond-yields/",
-      "published_at": "2026-09-28T11:02:32Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "AAPL",
-        "AMZN",
-        "GOOGL",
-        "META"
-      ]
-    },
-    {
-      "id": "general-motors-competencia-china",
-      "type": "discurso",
-      "title": "El CFO de General Motors advierte que se preparan para más competencia en EE.UU.",
-      "summary": "El director financiero de General Motors, Paul Jacobson, dijo que la empresa está ajustando su estructura de costos para enfrentar una mayor competencia en el mercado estadounidense. El contexto: fabricantes internacionales presionados por los chinos en sus mercados locales podrían volcarse a vender más en EE.UU., y Trump abrió la puerta a que marcas chinas produzcan en suelo americano si emplean trabajadores locales.",
-      "detail": "Este tipo de declaraciones de un CFO son señales importantes para los inversores porque anticipan cambios estratégicos en los costos y márgenes de la empresa. En finanzas, cuando una industria enfrenta más competencia, los márgenes de ganancia tienden a caer. La mención de China en el mercado automotriz también conecta con temas de política comercial y aranceles, factores que impactan directamente en la rentabilidad de empresas manufactureras globales como GM.",
-      "tags": [
-        "automotriz",
-        "competencia",
-        "China"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-cfo-says-company-103953110.html",
-      "published_at": "2026-09-28T10:40:13Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "GM"
-      ]
-    },
-    {
-      "id": "first-solar-upgrade-keybanc",
-      "type": "mercado",
-      "title": "First Solar sube tras un upgrade de KeyBanc después de caer 32% en el año",
-      "summary": "Las acciones de First Solar subieron en el pre-market luego de que KeyBanc mejorara su recomendación de 'Subponderar' a 'Neutral', argumentando que la caída del 32% en lo que va del año hace que la valuación sea más atractiva. KeyBanc destacó que los créditos fiscales por manufactura avanzada y el efectivo de la empresa aportan aproximadamente 135 dólares por acción a su valor.",
-      "detail": "Un 'upgrade' de analistas (mejorar la calificación de una acción) suele generar movimientos de precio inmediatos porque los inversores institucionales ajustan sus posiciones en base a esas recomendaciones. Este caso también ilustra un concepto clave: a veces una acción cae tanto que su valuación se vuelve atractiva aunque los fundamentos no hayan cambiado radicalmente. Los créditos fiscales por manufactura son un ejemplo de cómo la política fiscal de un gobierno puede impactar directamente en el valor de una empresa.",
-      "tags": [
-        "energía solar",
-        "valuación",
-        "analistas"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-shares-rise-keybanc-102645791.html",
-      "published_at": "2026-09-28T10:26:30Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "FSLR"
-      ]
-    },
-    {
-      "id": "microsoft-copilot-rediseno",
+      "id": "amd-world-labs-acquisition",
       "type": "empresa",
-      "title": "Microsoft rediseña Copilot con un agente de IA que trabaja de forma autónoma",
-      "summary": "Microsoft lanzó una nueva versión de su app Copilot con tres grandes novedades: 'Code' para crear aplicaciones con lenguaje natural, 'Autopilot' (un agente de IA que opera de forma permanente y autónoma con su propia identidad), y una pantalla unificada que integra Word, Excel y PowerPoint. El objetivo es convertir a Copilot en el sistema operativo de trabajo potenciado por IA.",
-      "detail": "Microsoft está apostando fuerte a que la IA no sea una herramienta opcional sino el núcleo de cómo trabajamos. Desde una perspectiva financiera, esto es relevante porque Microsoft cobra por estos servicios a empresas (modelo B2B), lo que puede traducirse en ingresos recurrentes significativos. Además, la competencia en el espacio de agentes de IA es intensa, con Google, OpenAI y otros jugadores, por lo que estos lanzamientos influyen en cómo los inversores perciben el liderazgo tecnológico de la empresa.",
+      "title": "AMD compra la firma de IA World Labs por USD 8.200 millones",
+      "summary": "AMD anunció la compra de World Labs, una empresa especializada en inteligencia artificial, en una operación totalmente en acciones valuada en unos USD 8.200 millones. Con este movimiento, AMD suma capacidades en modelos de inteligencia espacial y aprendizaje robótico. La cofundadora y CEO de World Labs, Fei-Fei Li, pasará a ser vicepresidenta ejecutiva y científica jefe de AMD.",
+      "detail": "Las grandes adquisiciones en el sector tecnológico suelen ser señales de hacia dónde creen las empresas que va el negocio. AMD apuesta fuerte a que la IA no solo es software, sino también hardware especializado. Que paguen USD 8.200 millones en acciones (no en efectivo) implica que diluyen a sus accionistas actuales, pero evitan gastar caja. Incorporar a Fei-Fei Li, una de las figuras más reconocidas del mundo de la IA, también tiene un peso simbólico y estratégico importante.",
       "tags": [
-        "IA",
-        "Microsoft",
+        "inteligencia artificial",
+        "fusiones",
+        "semiconductores"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/09/62036208/amd-to-buy-ai-firm-world-labs-in-8-2-billion-deal",
+      "published_at": "2026-09-28T20:41:01Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "AMD"
+      ]
+    },
+    {
+      "id": "qualcomm-caida-venta-insider",
+      "type": "mercado",
+      "title": "Qualcomm cae 7,2% tras la venta de acciones por parte de su CEO",
+      "summary": "Las acciones de Qualcomm bajaron un 7,2% después de que trascendiera que su CEO, Cristiano Amon, vendió 20.000 acciones por casi USD 4 millones a través de planes de trading prearreglados. La caída se da en un contexto de presión general sobre el sector de semiconductores y debilidad en el mercado de celulares. Los analistas tienen al papel con recomendación de \"mantener\" y un precio objetivo consensuado de USD 204,10.",
+      "detail": "Las ventas de acciones por parte de insiders (ejecutivos o directores) a veces generan señales negativas en el mercado, aunque en este caso se trata de un plan prearreglado (Rule 10b5-1), que se arma con anticipación y no necesariamente refleja una visión negativa del ejecutivo sobre la empresa. Sin embargo, combinado con un selloff sectorial en semiconductores, el mercado reaccionó con fuerza. Aprender a distinguir ventas planificadas de ventas oportunistas es clave para interpretar correctamente estas noticias.",
+      "tags": [
+        "semiconductores",
+        "insider selling",
         "tecnología"
       ],
-      "source_name": "Technology Org",
-      "source_url": "https://www.technology.org/2026/09/28/microsoft-copilot-code-autopilot-agent-office/",
-      "published_at": "2026-09-28T10:12:29Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/price-qualcomm-nasdaq-qcom-shares-down-72-on-insider-selling-2026-09-28/",
+      "published_at": "2026-09-28T21:03:19Z",
       "fecha_evento": "2026-09-28",
       "tickers": [
-        "MSFT"
+        "QCOM"
       ]
     },
     {
-      "id": "netapp-adquisicion-peakaio",
+      "id": "exxon-guyana-millon-barriles",
       "type": "empresa",
-      "title": "NetApp compra Peak:AIo para reforzar su apuesta en infraestructura de IA",
-      "summary": "NetApp anunció la adquisición de Peak:AIo, una plataforma de almacenamiento de datos diseñada para IA, en su tercera compra en tres meses. La integración busca mejorar el soporte de almacenamiento de alto rendimiento para nubes de IA y clusters de GPUs.",
-      "detail": "Las adquisiciones frecuentes en el sector tech son una señal de que una empresa quiere crecer rápidamente en un área estratégica, en este caso la infraestructura para IA. Para un inversor, ver que una empresa hace varias compras en poco tiempo puede ser positivo (acceso a nueva tecnología y clientes) o negativo (riesgo de integración y gasto elevado). Este caso también ilustra cómo la demanda de GPUs y almacenamiento para IA está impulsando una ola de consolidación en el sector tecnológico.",
-      "tags": [
-        "IA",
-        "adquisición",
-        "tecnología"
-      ],
-      "source_name": "SDxCentral",
-      "source_url": "https://www.sdxcentral.com/news/netapp-expands-ai-infra-push-with-peakaio-acquisition/",
-      "published_at": "2026-09-28T10:25:04Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "NTAP"
-      ]
-    },
-    {
-      "id": "caesars-merger-fertitta",
-      "type": "empresa",
-      "title": "Accionistas de Caesars aprueban la fusión con Fertitta Entertainment por USD 31 por acción",
-      "summary": "Los accionistas de Caesars Entertainment aprobaron la fusión con Fertitta Entertainment, que implica un pago en efectivo de USD 31 por acción. Sin embargo, la acción cerró a USD 29,59, por debajo del precio pactado, porque la revisión regulatoria de la FTC (el organismo antimonopolio de EE.UU.) todavía está en curso y el cierre de la operación es incierto.",
-      "detail": "Este caso es un ejemplo clásico de 'arbitraje de fusiones': cuando se anuncia una fusión, el precio de la acción suele subir pero no llega exactamente al precio de compra porque existe riesgo de que la operación no se concrete. Ese descuento refleja la probabilidad de que los reguladores bloqueen el acuerdo. La FTC en EE.UU. tiene poder para frenar fusiones si considera que reducen la competencia, lo que es un factor clave de riesgo en este tipo de operaciones.",
-      "tags": [
-        "fusión",
-        "regulación",
-        "acciones"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/caesars-entertainment-stock-trails-usd-31-00-merger-payout-after-vote/70191784",
-      "published_at": "2026-09-28T10:47:00Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "CZR"
-      ]
-    },
-    {
-      "id": "slb-contratos-arabia-saudita",
-      "type": "empresa",
-      "title": "SLB se quedó con contratos de perforación en Arabia Saudita pese al contexto bélico",
-      "summary": "SLB (ex Schlumberger) ganó cuatro contratos integrados de construcción de pozos en Arabia Saudita para entregar más de 450 pozos en los próximos tres años, a pesar de que el conflicto regional afectó sus ingresos en Medio Oriente. Los proyectos activos de petróleo y gas en Arabia Saudita superan los USD 41.000 millones.",
-      "detail": "Arabia Saudita es uno de los mayores productores de petróleo del mundo, y sus decisiones de inversión en infraestructura energética impactan en la oferta global de crudo, lo que a su vez afecta los precios del petróleo. Para alguien aprendiendo finanzas, este tipo de contratos muestra cómo las empresas de servicios energéticos como SLB dependen de los planes de expansión de los grandes productores. El contexto geopolítico (conflicto regional, ataques a infraestructura) es un factor de riesgo que los inversores en el sector energético siempre deben considerar.",
+      "title": "ExxonMobil alcanza 1.000 millones de barriles producidos en Guyana",
+      "summary": "ExxonMobil anunció que sus operaciones en el bloque Stabroek, en Guyana, superaron los 1.000 millones de barriles de petróleo producidos, menos de siete años después de iniciar la producción. La acción subió un 1,21% en la jornada del 28 de septiembre, también impulsada por una mejora de precio objetivo de TD Cowen, que lo llevó de USD 168 a USD 180. Próximos proyectos como Uaru y Whiptail buscan seguir expandiendo la capacidad productiva.",
+      "detail": "Guyana se convirtió en uno de los descubrimientos petroleros más importantes de las últimas décadas, y ExxonMobil es el principal operador. Alcanzar 1.000 millones de barriles es un hito operativo que muestra la escala del negocio. Para quienes siguen el mercado de energía, este tipo de anuncios sirve para entender cómo las grandes petroleras diversifican su producción geográficamente y reducen riesgos. Las mejoras de precio objetivo por parte de analistas, como la de TD Cowen, también suelen generar movimientos en el precio de la acción.",
       "tags": [
         "petróleo",
         "energía",
-        "geopolítica"
+        "producción"
       ],
-      "source_name": "Industrial Info Resources",
-      "source_url": "https://www.industrialinfo.com/iirenergy/industry-news/article/saudi-arabia-hands-out-oil-and-gas-production-well-contracts-to-slb-during-war--362979",
-      "published_at": "2026-09-28T10:09:36Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/exxon-mobil-stock-at-usd-162-53-on-september-28-2026/70195247",
+      "published_at": "2026-09-28T20:22:00Z",
       "fecha_evento": "2026-09-28",
       "tickers": [
-        "SLB"
+        "XOM"
       ]
     },
     {
-      "id": "eldorado-gold-skouries-grid",
+      "id": "tmobile-dividendo-aumento",
       "type": "empresa",
-      "title": "La mina Skouries de Eldorado Gold se conectó a la red eléctrica y apunta a producción comercial en el cuarto trimestre",
-      "summary": "Eldorado Gold anunció que su mina Skouries en Grecia fue conectada exitosamente a la red eléctrica nacional, un hito clave previo a la producción comercial que se espera para el cuarto trimestre de 2026. La mina proyecta producir en promedio 140.000 onzas de oro y 67 millones de libras de cobre por año a lo largo de su vida útil.",
-      "detail": "La conexión a la red eléctrica es un paso técnico fundamental para que una mina pase de la fase de construcción a la producción comercial. Para los inversores en mineras, estos hitos operativos son señales de que la empresa está en camino de generar ingresos reales. El oro y el cobre son commodities relevantes: el primero como reserva de valor y el segundo como insumo industrial clave, especialmente en la transición energética. Monitorear el progreso de minas grandes ayuda a entender cómo se forman los precios de estos metales.",
+      "title": "T-Mobile sube su dividendo trimestral un 15%",
+      "summary": "T-Mobile US anunció un aumento del 15% en su dividendo trimestral, que pasó a USD 1,17 por acción, pagadero el 10 de diciembre de 2026. La acción subió un 0,84% en la jornada. La empresa también agendó su llamada de resultados del tercer trimestre para el 28 de octubre de 2026.",
+      "detail": "Un aumento de dividendo es una señal que los directorios suelen dar cuando tienen confianza en la generación futura de caja de la empresa. En este caso, un salto del 15% es significativo. Para inversores que buscan ingresos pasivos, los dividendos son una parte central del retorno total de una acción. También es útil entender que cuando una empresa sube el dividendo, el mercado generalmente lo toma como una señal positiva sobre su salud financiera.",
       "tags": [
-        "minería",
-        "oro",
-        "cobre"
+        "dividendos",
+        "telecomunicaciones",
+        "acciones"
       ],
-      "source_name": "Stock Titan",
-      "source_url": "https://www.stocktitan.net/news/EGO/eldorado-gold-announces-completion-of-skouries-mine-2asqx1bvwhxa.html",
-      "published_at": "2026-09-28T11:15:06Z",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/t-mobile-us-stock-last-trades-at-usd-166-82-on-september-28-2026/70194638",
+      "published_at": "2026-09-28T20:26:00Z",
       "fecha_evento": "2026-09-28",
       "tickers": [
-        "EGO"
+        "TMUS"
+      ]
+    },
+    {
+      "id": "norfolk-southern-union-pacific-fusion",
+      "type": "empresa",
+      "title": "La fusión entre Norfolk Southern y Union Pacific supera otro obstáculo regulatorio",
+      "summary": "El regulador ferroviario estadounidense (Surface Transportation Board) rechazó los pedidos para desestimar la solicitud de fusión entre Norfolk Southern y Union Pacific, lo que le da luz verde para continuar el proceso. Las empresas también cerraron un acuerdo de \"empleos de por vida\" con un sindicato ferroviario importante. La operación se espera completar en la segunda mitad de 2027.",
+      "detail": "Las fusiones entre grandes empresas de infraestructura, como las ferroviarias, requieren aprobación de reguladores que analizan el impacto competitivo. Que el regulador rechace los pedidos de desestimación es una buena señal para quienes impulsan la fusión. Este tipo de operaciones impacta en los precios de las acciones de ambas compañías y también en sectores relacionados, como el transporte de cargas. Para aprender finanzas, es un buen ejemplo de cómo el riesgo regulatorio puede afectar el valor de una empresa durante meses o años.",
+      "tags": [
+        "fusiones",
+        "ferroviarias",
+        "regulación"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/norfolk-southern-stock-last-trades-at-usd-312-88-on-september-28-2026/70194617",
+      "published_at": "2026-09-28T20:22:00Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "NSC",
+        "UNP"
+      ]
+    },
+    {
+      "id": "blackstone-jefe-private-equity-se-va",
+      "type": "empresa",
+      "title": "El histórico jefe de private equity de Blackstone deja la firma tras 28 años",
+      "summary": "Joe Baratta, el líder histórico del negocio de private equity de Blackstone, dejará la firma a fin de año después de 28 años. Su salida se suma a otros cambios de liderazgo recientes en la empresa. Blackstone administra aproximadamente USD 450.000 millones solo en su unidad de private equity y USD 1,3 billones en activos totales.",
+      "detail": "Blackstone es uno de los fondos de inversión alternativos más grandes del mundo, y los cambios en su liderazgo son seguidos de cerca por el mercado financiero global. El private equity es un tipo de inversión en empresas que no cotizan en bolsa, y entender cómo funcionan estos fondos es clave para comprender una parte importante del sistema financiero. La salida de una figura tan central puede generar incertidumbre sobre la estrategia futura, aunque la firma parece haber distribuido el poder entre un equipo más amplio.",
+      "tags": [
+        "private equity",
+        "Blackstone",
+        "liderazgo"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/private-markets/26/09/62035507/blackstones-450-billion-private-equity-business-loses-its-longtime-chief",
+      "published_at": "2026-09-28T20:19:42Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "BX"
+      ]
+    },
+    {
+      "id": "paramount-skydance-cambio-bolsa",
+      "type": "empresa",
+      "title": "Paramount Skydance mudará sus acciones de Nasdaq a la NYSE",
+      "summary": "Paramount Skydance anunció que trasladará el listado de sus acciones Clase B desde Nasdaq a la Bolsa de Nueva York (NYSE), con inicio de operaciones esperado alrededor del 6 de octubre de 2026. También anticipó una distribución de warrants alrededor del 13 de octubre, condicionada a la adquisición de Warner Bros. Discovery. La acción subió un 2,66% en la jornada.",
+      "detail": "El cambio de bolsa donde cotiza una acción puede tener implicancias prácticas en términos de visibilidad, liquidez y base inversora. La mención de warrants vinculados a una posible adquisición de Warner Bros. Discovery indica que Paramount Skydance sigue en proceso de consolidación en el sector de medios. Para alguien que aprende finanzas, este caso muestra cómo las fusiones y reorganizaciones corporativas pueden involucrar instrumentos financieros complejos como los warrants.",
+      "tags": [
+        "medios",
+        "fusiones",
+        "bolsa"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/paramount-skydance-stock-at-usd-10-22-on-september-28-2026/70194628",
+      "published_at": "2026-09-28T20:24:00Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "PSKY",
+        "WBD"
+      ]
+    },
+    {
+      "id": "general-dynamics-riesgo-tasas",
+      "type": "mercado",
+      "title": "Piper Sandler pone a General Dynamics en su lista de riesgo por tasas de interés altas",
+      "summary": "El banco de inversión Piper Sandler incluyó a General Dynamics en una lista de empresas vulnerables al alza de tasas de interés, dado que la compañía tiene USD 7.000 millones de deuda y el 54% vence en los próximos cinco años. Eso podría obligar a refinanciar a tasas más caras. A pesar de esto, General Dynamics mostró buenos resultados operativos recientemente.",
+      "detail": "Cuando las tasas de interés son altas, las empresas con mucha deuda enfrentan un mayor costo al renovar o refinanciar sus obligaciones. Esto puede reducir sus ganancias y presionar el precio de sus acciones. Este tipo de análisis por parte de bancos de inversión es relevante para entender cómo el contexto de política monetaria impacta directamente en empresas concretas, incluso en sectores considerados sólidos como el de defensa.",
+      "tags": [
+        "tasas de interés",
+        "deuda corporativa",
+        "defensa"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/large-cap/26/09/62035892/this-blue-chip-defense-prime-lands-on-piper-sandlers-rate-risk-list",
+      "published_at": "2026-09-28T20:29:59Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "GD"
       ]
     }
   ],
@@ -166,39 +165,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.560",
-      "valor_num": 1560.0,
-      "delta_pct": 0.0
+      "valor": "$1.565",
+      "valor_num": 1565.0,
+      "delta_pct": 0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.557",
-      "valor_num": 1557.3,
-      "delta_pct": 0.0
+      "valor": "$1.556",
+      "valor_num": 1556.5,
+      "delta_pct": -0.05
     },
     {
       "label": "CCL",
-      "valor": "$1.617",
-      "valor_num": 1616.6,
-      "delta_pct": 0.0
+      "valor": "$1.620",
+      "valor_num": 1619.6,
+      "delta_pct": 0.19
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.052",
-      "valor_num": 83052.0,
-      "delta_pct": -2.17
+      "valor": "US$ 83.230",
+      "valor_num": 83230.0,
+      "delta_pct": -1.74
     },
     {
       "label": "S&P 500",
-      "valor": "7.743",
-      "valor_num": 7743.41,
-      "delta_pct": 1.21
+      "valor": "7.684",
+      "valor_num": 7683.69,
+      "delta_pct": -1.04
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.183",
-      "valor_num": 4183.0,
-      "delta_pct": -3.14
+      "valor": "US$ 4.148",
+      "valor_num": 4148.5,
+      "delta_pct": -3.93
     }
   ]
 }
