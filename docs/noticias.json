@@ -1,179 +1,159 @@
 {
-  "generated_at": "2026-09-27T22:01:19.864846+00:00",
+  "generated_at": "2026-09-28T12:01:21.202998+00:00",
   "items": [
     {
-      "id": "txn-dividend-2026",
-      "type": "empresa",
-      "title": "Texas Instruments sube su dividendo un 7% y lleva 23 años seguidos aumentándolo",
-      "summary": "Texas Instruments anunció un aumento del 7% en su dividendo trimestral, que pasa a $1,52 por acción (equivale a $6,08 anuales), extendiendo a 23 años su racha de incrementos consecutivos. La mejora está respaldada por un crecimiento significativo en el flujo de caja operativo y libre de la compañía.",
-      "detail": "Una racha de 23 años de aumentos de dividendos es una señal fuerte de solidez financiera: significa que la empresa generó suficiente caja para remunerar a sus accionistas incluso en años difíciles. Para alguien que aprende finanzas, esto ilustra el concepto de 'dividend growth investing': buscar empresas que no solo pagan dividendos, sino que los aumentan consistentemente. También muestra que el flujo de caja libre (dinero que sobra después de invertir en el negocio) es el indicador clave para evaluar si un dividendo es sostenible.",
+      "id": "mag7-ai-bond-market-threat",
+      "type": "mercado",
+      "title": "El creador del término 'Magnificent 7' advierte que las grandes tech están en riesgo",
+      "summary": "Michael Hartnett, el analista que acuñó el término 'Magnificent 7', advierte que las grandes tecnológicas están perdiendo su mayor ventaja: generar mucho efectivo sin necesidad de endeudarse. Las inversiones masivas en IA las están volviendo dependientes del mercado de bonos, lo que las expone a las subidas de tasas de interés.",
+      "detail": "Durante años, empresas como Apple, Amazon, Google y Meta se destacaron por tener caja abundante y poca deuda, lo que las hacía casi inmunes a los movimientos de tasas. Ahora, para financiar la carrera de la IA, están recurriendo al mercado de bonos: si las tasas suben, sus costos de financiamiento aumentan y sus valuaciones se comprimen. Esto es clave para entender finanzas: el precio de una acción depende en parte de cuánto 'cuesta' el dinero en el mercado. Además, Hartnett sugiere que los bancos centrales podrían intervenir para estabilizar los bonos si la situación se complica, lo que muestra la conexión entre política monetaria, mercado de deuda y acciones tecnológicas.",
       "tags": [
-        "dividendos",
-        "semiconductores",
-        "flujo de caja"
+        "tecnología",
+        "bonos",
+        "IA"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-extends-dividend-growth-201910763.html",
-      "published_at": "2026-09-27T20:20:21Z",
-      "fecha_evento": "2026-09-27",
+      "source_name": "Fortune",
+      "source_url": "https://fortune.com/2026/09/28/mag-7-under-threat-ai-investment-bond-yields/",
+      "published_at": "2026-09-28T11:02:32Z",
+      "fecha_evento": "2026-09-28",
       "tickers": [
-        "TXN"
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "META"
       ]
     },
     {
-      "id": "walmart-digital-labels-2026",
-      "type": "empresa",
-      "title": "Walmart aclaró que sus nuevas etiquetas digitales no usarán datos personales para fijar precios",
-      "summary": "El CEO de Walmart, John Furner, afirmó que la cadena no va a usar información personal, historial de compras ni disposición a pagar de cada cliente para determinar precios, a pesar de expandir sus etiquetas digitales en góndolas en todas sus tiendas. El modelo de 'precios bajos todos los días' seguirá siendo uniforme para todos los compradores.",
-      "detail": "La expansión de etiquetas digitales genera preguntas sobre 'precios dinámicos' o 'personalizados', una práctica en la que empresas cobran diferente según quién compra o a qué hora. Esto es relevante porque toca directamente al consumidor y tiene implicancias regulatorias. Para quienes aprenden finanzas, el caso muestra cómo las decisiones operativas de un retailer gigante pueden afectar su imagen y generar presión regulatoria, lo que a su vez impacta en la percepción de valor de la acción.",
+      "id": "general-motors-competencia-china",
+      "type": "discurso",
+      "title": "El CFO de General Motors advierte que se preparan para más competencia en EE.UU.",
+      "summary": "El director financiero de General Motors, Paul Jacobson, dijo que la empresa está ajustando su estructura de costos para enfrentar una mayor competencia en el mercado estadounidense. El contexto: fabricantes internacionales presionados por los chinos en sus mercados locales podrían volcarse a vender más en EE.UU., y Trump abrió la puerta a que marcas chinas produzcan en suelo americano si emplean trabajadores locales.",
+      "detail": "Este tipo de declaraciones de un CFO son señales importantes para los inversores porque anticipan cambios estratégicos en los costos y márgenes de la empresa. En finanzas, cuando una industria enfrenta más competencia, los márgenes de ganancia tienden a caer. La mención de China en el mercado automotriz también conecta con temas de política comercial y aranceles, factores que impactan directamente en la rentabilidad de empresas manufactureras globales como GM.",
       "tags": [
-        "retail",
-        "precios",
-        "tecnología"
-      ],
-      "source_name": "Bozeman Daily Chronicle",
-      "source_url": "https://www.bozemandailychronicle.com/wire/business/walmart-says-its-not-using-personal-information-to-set-prices-as-it-expands-digital-shelf/article_660ced17-b9bc-5ad0-810c-3d77684bf960.html",
-      "published_at": "2026-09-27T19:59:39Z",
-      "fecha_evento": "2026-09-27",
-      "tickers": [
-        "WMT"
-      ]
-    },
-    {
-      "id": "sp-global-openzeppelin-2026",
-      "type": "empresa",
-      "title": "S&P Global compra OpenZeppelin y apuesta fuerte a las finanzas en blockchain",
-      "summary": "S&P Global anunció la adquisición de OpenZeppelin, una empresa de seguridad para contratos inteligentes cuya tecnología respalda más de 37 billones de dólares en valor transferido. El movimiento busca posicionar a S&P Global en los mercados de activos tokenizados, y complementa una inversión reciente de 110 millones de dólares en el proveedor de datos cripto Kaiko.",
-      "detail": "S&P Global es una de las empresas más influyentes en finanzas tradicionales: provee calificaciones crediticias, índices (como el S&P 500) y datos de mercado. Que esta compañía apueste a blockchain y contratos inteligentes es una señal de que la industria financiera tradicional está tomando en serio la tokenización de activos. Para alguien que aprende finanzas, esto ilustra cómo los mercados evolucionan y cómo las grandes instituciones se posicionan anticipando cambios tecnológicos.",
-      "tags": [
-        "blockchain",
-        "fusiones",
-        "mercados digitales"
-      ],
-      "source_name": "Insider Monkey",
-      "source_url": "https://www.insidermonkey.com/news/sp-global-expands-into-onchain-finance-with-openzeppelin-deal-1843359/",
-      "published_at": "2026-09-27T20:17:41Z",
-      "fecha_evento": "2026-09-27",
-      "tickers": [
-        "SPGI"
-      ]
-    },
-    {
-      "id": "china-nvidia-alibaba-2026",
-      "type": "economia",
-      "title": "China estudia autorizar a Alibaba y ByteDance a comprar chips Nvidia RTX Pro 5500",
-      "summary": "El Ministerio de Industria y Tecnología de China estaría evaluando permitir que grandes empresas tech del país, como Alibaba y ByteDance, compren la GPU RTX Pro 5500 de Nvidia. Esto ocurre en medio de restricciones de exportación vigentes de Estados Unidos y regulaciones chinas propias sobre chips avanzados.",
-      "detail": "Las restricciones de exportación de chips de EE.UU. hacia China son un eje central de la tensión geopolítica entre ambas potencias. Para alguien que aprende finanzas, este caso muestra cómo las decisiones de política exterior afectan directamente los negocios de empresas tecnológicas globales como Nvidia. Si China habilita estas compras, podría ser positivo para los ingresos de Nvidia; si las restringe aún más, el impacto es el contrario. Es un ejemplo claro de 'riesgo geopolítico' como factor que mueve acciones.",
-      "tags": [
-        "geopolítica",
-        "semiconductores",
+        "automotriz",
+        "competencia",
         "China"
       ],
-      "source_name": "Briefs Finance",
-      "source_url": "https://www.briefs.co/news/china-may-greenlight-alibaba-and-bytedance-to-buy-nvidia-s-r/",
-      "published_at": "2026-09-27T19:03:57Z",
-      "fecha_evento": "2026-09-27",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-cfo-says-company-103953110.html",
+      "published_at": "2026-09-28T10:40:13Z",
+      "fecha_evento": "2026-09-28",
       "tickers": [
-        "NVDA",
-        "BABA"
+        "GM"
       ]
     },
     {
-      "id": "boeing-737-software-2026",
-      "type": "empresa",
-      "title": "Boeing detectó un bug de software en el 737 MAX que puede desactivar el piloto automático",
-      "summary": "Boeing informó a la FAA y a las aerolíneas sobre un problema de software en algunos 737 MAX que podría hacer que el sistema de guía de vuelo automático se desconecte tras una aproximación fallida, requiriendo que el piloto aterrice de forma manual. La compañía está desarrollando una solución permanente y aseguró que los procedimientos existentes permiten operar el avión con seguridad.",
-      "detail": "Boeing es una de las empresas industriales más importantes del mundo y sus problemas de seguridad tienen un historial de impacto directo en su cotización y reputación. Para quienes aprenden finanzas, el caso ilustra el 'riesgo operativo' y 'riesgo regulatorio': un problema técnico puede derivar en investigaciones de organismos como la FAA, lo que genera incertidumbre para inversores. También muestra cómo la confianza del mercado en una empresa depende no solo de sus números sino de factores como la seguridad de sus productos.",
-      "tags": [
-        "aviación",
-        "riesgo operativo",
-        "regulación"
-      ],
-      "source_name": "MyNorthwest.com",
-      "source_url": "https://mynorthwest.com/local/software-glitch-raises-safety-concerns-boeing-737-max/4280464",
-      "published_at": "2026-09-27T16:17:52Z",
-      "fecha_evento": "2026-09-27",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "starbucks-cierres-2026",
-      "type": "empresa",
-      "title": "Starbucks anunció el cierre de cientos de locales en Estados Unidos",
-      "summary": "Starbucks planea cerrar cientos de tiendas en EE.UU. por bajo rendimiento financiero o mala experiencia para clientes y empleados. Entre las afectadas hay cinco sucursales en el área de Dallas-Fort Worth.",
-      "detail": "Los cierres masivos de locales son una señal de que una empresa está en proceso de reestructuración: busca mejorar la rentabilidad eliminando puntos de venta que consumen recursos sin generar suficientes ingresos. Para quien aprende finanzas, esto muestra cómo se analiza la eficiencia de una red de tiendas y cómo una decisión operativa puede ser positiva para los márgenes de la empresa a largo plazo, aunque a corto plazo implique costos de cierre.",
-      "tags": [
-        "retail",
-        "reestructuración",
-        "rentabilidad"
-      ],
-      "source_name": "The Business Journals",
-      "source_url": "https://www.bizjournals.com/dallas/news/2026/09/27/starbucks-closores-dallas-fort-worth-wylie-sachse.html",
-      "published_at": "2026-09-27T17:42:31Z",
-      "fecha_evento": "2026-09-27",
-      "tickers": [
-        "SBUX"
-      ]
-    },
-    {
-      "id": "intel-rally-septiembre-2026",
+      "id": "first-solar-upgrade-keybanc",
       "type": "mercado",
-      "title": "Intel subió más del 40% en septiembre y acumula un 250% en lo que va del año",
-      "summary": "Las acciones de Intel fueron de las más rentables del S&P 500 en 2026, con una suba superior al 40% solo en septiembre y un alza acumulada del 250% en el año. Sin embargo, analistas advierten que la acción ya cotiza a múltiplos muy elevados (84 veces las ganancias estimadas para este año), lo que históricamente suele anticipar correcciones o la necesidad de un crecimiento excepcional para justificar el precio.",
-      "detail": "Una suba del 250% en un año lleva a una pregunta clave en finanzas: ¿el precio refleja fundamentos o es especulación? Cuando una acción cotiza a 84 veces sus ganancias, el mercado está pagando muy caro esperando un crecimiento futuro enorme. Si ese crecimiento no llega, la corrección puede ser brusca. Este caso es ideal para entender el concepto de 'valuación' y por qué el precio de una acción no siempre refleja el valor real del negocio.",
+      "title": "First Solar sube tras un upgrade de KeyBanc después de caer 32% en el año",
+      "summary": "Las acciones de First Solar subieron en el pre-market luego de que KeyBanc mejorara su recomendación de 'Subponderar' a 'Neutral', argumentando que la caída del 32% en lo que va del año hace que la valuación sea más atractiva. KeyBanc destacó que los créditos fiscales por manufactura avanzada y el efectivo de la empresa aportan aproximadamente 135 dólares por acción a su valor.",
+      "detail": "Un 'upgrade' de analistas (mejorar la calificación de una acción) suele generar movimientos de precio inmediatos porque los inversores institucionales ajustan sus posiciones en base a esas recomendaciones. Este caso también ilustra un concepto clave: a veces una acción cae tanto que su valuación se vuelve atractiva aunque los fundamentos no hayan cambiado radicalmente. Los créditos fiscales por manufactura son un ejemplo de cómo la política fiscal de un gobierno puede impactar directamente en el valor de una empresa.",
       "tags": [
-        "semiconductores",
+        "energía solar",
         "valuación",
-        "S&P 500"
+        "analistas"
       ],
       "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-surged-over-40-165200996.html",
-      "published_at": "2026-09-27T16:52:21Z",
-      "fecha_evento": "2026-09-27",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/first-solar-shares-rise-keybanc-102645791.html",
+      "published_at": "2026-09-28T10:26:30Z",
+      "fecha_evento": "2026-09-28",
       "tickers": [
-        "INTC",
-        "NVDA",
-        "AMD"
+        "FSLR"
       ]
     },
     {
-      "id": "apollo-blackstone-credito-privado-2026",
-      "type": "mercado",
-      "title": "Apollo, Blackstone y Blue Owl caen en bolsa pese a que se calman los temores en crédito privado",
-      "summary": "Las acciones de grandes gestoras de crédito privado como Apollo Global, Blackstone y Blue Owl bajaron durante el mes pese a que las señales de rescates masivos de fondos se fueron disipando. La suba de los rendimientos de los bonos del Tesoro de EE.UU. y la exposición al sector de inteligencia artificial (con dudas sobre demoras en proyectos) presionaron sus cotizaciones, aunque las compañías mostraron crecimiento sólido en ingresos en el último trimestre.",
-      "detail": "El crédito privado es una de las industrias financieras de mayor crecimiento a nivel global: estas firmas prestan dinero a empresas que no acceden al mercado de bonos tradicional. Cuando suben las tasas de los bonos del Tesoro de EE.UU., se encarece el financiamiento para sus empresas deudoras y los inversores pueden preferir bonos seguros en lugar de fondos de crédito privado. Para quienes aprenden finanzas, esto ilustra la relación entre tasas de interés y valuación de activos alternativos.",
-      "tags": [
-        "crédito privado",
-        "tasas de interés",
-        "Wall Street"
-      ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/markets/equities/26/09/62012444/apollo-global-blue-owl-and-blackstone-shares-slide-even-as-private-credit-fears-fade",
-      "published_at": "2026-09-27T19:51:15Z",
-      "fecha_evento": "2026-09-27",
-      "tickers": [
-        "APO",
-        "BX"
-      ]
-    },
-    {
-      "id": "marvel-35-billion-box-office-2026",
+      "id": "microsoft-copilot-rediseno",
       "type": "empresa",
-      "title": "Marvel Studios superó los 35.000 millones de dólares en taquilla global con el reestreno de 'Endgame'",
-      "summary": "El reestreno de 'Avengers Endgame: Encore' debutó en el primer puesto de la taquilla global con unos 86 millones de dólares estimados, llevando el total acumulado de Marvel Studios (en 38 películas) por encima de los 35.000 millones de dólares. El reestreno también funcionó como adelanto del próximo film 'Avengers: Doomsday', con Robert Downey Jr. en un nuevo rol.",
-      "detail": "Para Disney, la capacidad de relanzar contenido existente y generar ingresos millonarios sin los costos de producción de una película nueva muestra el valor de las franquicias consolidadas como activo estratégico. Desde el punto de vista financiero, esto ilustra el concepto de 'propiedad intelectual' como fuente de ingresos recurrentes: un mismo activo puede monetizarse múltiples veces. También muestra cómo el 'marketing de anticipación' (usar el reestreno para promover una película futura) genera valor adicional.",
+      "title": "Microsoft rediseña Copilot con un agente de IA que trabaja de forma autónoma",
+      "summary": "Microsoft lanzó una nueva versión de su app Copilot con tres grandes novedades: 'Code' para crear aplicaciones con lenguaje natural, 'Autopilot' (un agente de IA que opera de forma permanente y autónoma con su propia identidad), y una pantalla unificada que integra Word, Excel y PowerPoint. El objetivo es convertir a Copilot en el sistema operativo de trabajo potenciado por IA.",
+      "detail": "Microsoft está apostando fuerte a que la IA no sea una herramienta opcional sino el núcleo de cómo trabajamos. Desde una perspectiva financiera, esto es relevante porque Microsoft cobra por estos servicios a empresas (modelo B2B), lo que puede traducirse en ingresos recurrentes significativos. Además, la competencia en el espacio de agentes de IA es intensa, con Google, OpenAI y otros jugadores, por lo que estos lanzamientos influyen en cómo los inversores perciben el liderazgo tecnológico de la empresa.",
       "tags": [
-        "entretenimiento",
-        "franquicia",
-        "taquilla"
+        "IA",
+        "Microsoft",
+        "tecnología"
       ],
-      "source_name": "The Walt Disney Company",
-      "source_url": "https://thewaltdisneycompany.com/news/avengers-endgame-encore-box-office/",
-      "published_at": "2026-09-27T18:18:49Z",
-      "fecha_evento": "2026-09-27",
+      "source_name": "Technology Org",
+      "source_url": "https://www.technology.org/2026/09/28/microsoft-copilot-code-autopilot-agent-office/",
+      "published_at": "2026-09-28T10:12:29Z",
+      "fecha_evento": "2026-09-28",
       "tickers": [
-        "DIS"
+        "MSFT"
+      ]
+    },
+    {
+      "id": "netapp-adquisicion-peakaio",
+      "type": "empresa",
+      "title": "NetApp compra Peak:AIo para reforzar su apuesta en infraestructura de IA",
+      "summary": "NetApp anunció la adquisición de Peak:AIo, una plataforma de almacenamiento de datos diseñada para IA, en su tercera compra en tres meses. La integración busca mejorar el soporte de almacenamiento de alto rendimiento para nubes de IA y clusters de GPUs.",
+      "detail": "Las adquisiciones frecuentes en el sector tech son una señal de que una empresa quiere crecer rápidamente en un área estratégica, en este caso la infraestructura para IA. Para un inversor, ver que una empresa hace varias compras en poco tiempo puede ser positivo (acceso a nueva tecnología y clientes) o negativo (riesgo de integración y gasto elevado). Este caso también ilustra cómo la demanda de GPUs y almacenamiento para IA está impulsando una ola de consolidación en el sector tecnológico.",
+      "tags": [
+        "IA",
+        "adquisición",
+        "tecnología"
+      ],
+      "source_name": "SDxCentral",
+      "source_url": "https://www.sdxcentral.com/news/netapp-expands-ai-infra-push-with-peakaio-acquisition/",
+      "published_at": "2026-09-28T10:25:04Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "NTAP"
+      ]
+    },
+    {
+      "id": "caesars-merger-fertitta",
+      "type": "empresa",
+      "title": "Accionistas de Caesars aprueban la fusión con Fertitta Entertainment por USD 31 por acción",
+      "summary": "Los accionistas de Caesars Entertainment aprobaron la fusión con Fertitta Entertainment, que implica un pago en efectivo de USD 31 por acción. Sin embargo, la acción cerró a USD 29,59, por debajo del precio pactado, porque la revisión regulatoria de la FTC (el organismo antimonopolio de EE.UU.) todavía está en curso y el cierre de la operación es incierto.",
+      "detail": "Este caso es un ejemplo clásico de 'arbitraje de fusiones': cuando se anuncia una fusión, el precio de la acción suele subir pero no llega exactamente al precio de compra porque existe riesgo de que la operación no se concrete. Ese descuento refleja la probabilidad de que los reguladores bloqueen el acuerdo. La FTC en EE.UU. tiene poder para frenar fusiones si considera que reducen la competencia, lo que es un factor clave de riesgo en este tipo de operaciones.",
+      "tags": [
+        "fusión",
+        "regulación",
+        "acciones"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/caesars-entertainment-stock-trails-usd-31-00-merger-payout-after-vote/70191784",
+      "published_at": "2026-09-28T10:47:00Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "CZR"
+      ]
+    },
+    {
+      "id": "slb-contratos-arabia-saudita",
+      "type": "empresa",
+      "title": "SLB se quedó con contratos de perforación en Arabia Saudita pese al contexto bélico",
+      "summary": "SLB (ex Schlumberger) ganó cuatro contratos integrados de construcción de pozos en Arabia Saudita para entregar más de 450 pozos en los próximos tres años, a pesar de que el conflicto regional afectó sus ingresos en Medio Oriente. Los proyectos activos de petróleo y gas en Arabia Saudita superan los USD 41.000 millones.",
+      "detail": "Arabia Saudita es uno de los mayores productores de petróleo del mundo, y sus decisiones de inversión en infraestructura energética impactan en la oferta global de crudo, lo que a su vez afecta los precios del petróleo. Para alguien aprendiendo finanzas, este tipo de contratos muestra cómo las empresas de servicios energéticos como SLB dependen de los planes de expansión de los grandes productores. El contexto geopolítico (conflicto regional, ataques a infraestructura) es un factor de riesgo que los inversores en el sector energético siempre deben considerar.",
+      "tags": [
+        "petróleo",
+        "energía",
+        "geopolítica"
+      ],
+      "source_name": "Industrial Info Resources",
+      "source_url": "https://www.industrialinfo.com/iirenergy/industry-news/article/saudi-arabia-hands-out-oil-and-gas-production-well-contracts-to-slb-during-war--362979",
+      "published_at": "2026-09-28T10:09:36Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "SLB"
+      ]
+    },
+    {
+      "id": "eldorado-gold-skouries-grid",
+      "type": "empresa",
+      "title": "La mina Skouries de Eldorado Gold se conectó a la red eléctrica y apunta a producción comercial en el cuarto trimestre",
+      "summary": "Eldorado Gold anunció que su mina Skouries en Grecia fue conectada exitosamente a la red eléctrica nacional, un hito clave previo a la producción comercial que se espera para el cuarto trimestre de 2026. La mina proyecta producir en promedio 140.000 onzas de oro y 67 millones de libras de cobre por año a lo largo de su vida útil.",
+      "detail": "La conexión a la red eléctrica es un paso técnico fundamental para que una mina pase de la fase de construcción a la producción comercial. Para los inversores en mineras, estos hitos operativos son señales de que la empresa está en camino de generar ingresos reales. El oro y el cobre son commodities relevantes: el primero como reserva de valor y el segundo como insumo industrial clave, especialmente en la transición energética. Monitorear el progreso de minas grandes ayuda a entender cómo se forman los precios de estos metales.",
+      "tags": [
+        "minería",
+        "oro",
+        "cobre"
+      ],
+      "source_name": "Stock Titan",
+      "source_url": "https://www.stocktitan.net/news/EGO/eldorado-gold-announces-completion-of-skouries-mine-2asqx1bvwhxa.html",
+      "published_at": "2026-09-28T11:15:06Z",
+      "fecha_evento": "2026-09-28",
+      "tickers": [
+        "EGO"
       ]
     }
   ],
@@ -204,9 +184,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 84.659",
-      "valor_num": 84659.0,
-      "delta_pct": 0.61
+      "valor": "US$ 83.052",
+      "valor_num": 83052.0,
+      "delta_pct": -2.17
     },
     {
       "label": "S&P 500",
@@ -216,9 +196,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.321",
-      "valor_num": 4321.2,
-      "delta_pct": -1.26
+      "valor": "US$ 4.183",
+      "valor_num": 4183.0,
+      "delta_pct": -3.14
     }
   ]
 }
