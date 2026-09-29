@@ -1,157 +1,156 @@
 {
-  "generated_at": "2026-09-29T12:01:08.437269+00:00",
+  "generated_at": "2026-09-29T22:01:08.642206+00:00",
   "items": [
     {
-      "id": "zim-hapag-lloyd-sale-rejected",
+      "id": "tesla-credit-30b",
       "type": "empresa",
-      "title": "El gobierno israelí recomendaría bloquear la venta de ZIM a Hapag-Lloyd",
-      "summary": "Las acciones de ZIM Integrated Shipping cayeron 3,6% después de que trascendiera que la oficina del primer ministro israelí recomendaría rechazar la venta de la compañía a Hapag-Lloyd por u$s 4.200 millones.",
-      "detail": "Las fusiones y adquisiciones en sectores considerados estratégicos —como el transporte marítimo— suelen requerir aprobación gubernamental. Cuando un gobierno interviene para bloquear una venta, el mercado reacciona rápido: el precio de la empresa target cae porque la operación que le daba valor (la prima de adquisición) se cae. Este caso ilustra cómo el riesgo regulatorio o político puede afectar el precio de una acción incluso antes de que haya una decisión oficial.",
+      "title": "Tesla aseguró USD 30.000 millones en líneas de crédito para robotaxis y expansión",
+      "summary": "Tesla cerró acuerdos de crédito por USD 30.000 millones, incluyendo un préstamo a término de USD 20.000 millones de desembolso diferido. El dinero apuntaría a financiar su fuerte plan de inversión en infraestructura y el desarrollo de su negocio de robotaxis.",
+      "detail": "Cuando una empresa necesita capital para crecer, puede emitir acciones (diluyendo a los accionistas) o endeudarse. Tesla eligió la deuda, lo que sugiere que confía en generar flujo de caja suficiente para repagar. El tamaño del crédito —USD 30.000 millones— es enorme y señala que la apuesta por los robotaxis requiere inversiones masivas en el corto plazo. Para inversores, esto implica más apalancamiento financiero, lo que puede amplificar tanto las ganancias como los riesgos.",
       "tags": [
-        "fusiones",
-        "transporte marítimo",
-        "riesgo político"
+        "deuda",
+        "robotaxis",
+        "inversión"
+      ],
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/autos-transportation/tesla-lines-up-30-billion-credit-lines-capex-robotaxi-push-accelerate-2026-09-29/",
+      "published_at": "2026-09-29T20:49:02Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "sp-upgrade-wells-fargo",
+      "type": "mercado",
+      "title": "S&P subió la calificación crediticia de Wells Fargo a A-",
+      "summary": "La agencia calificadora S&P Global mejoró la nota de crédito de Wells Fargo de BBB+ a A-, reconociendo las mejoras en su gestión de riesgos y gobierno corporativo. Esto ocurre después de que el banco central de EE.UU. (la Fed) levantara el tope de activos que pesaba sobre el banco.",
+      "detail": "Las calificaciones crediticias determinan a qué tasa puede endeudarse una empresa: mejor nota, menor costo financiero. Que S&P suba la nota de Wells Fargo implica que el mercado la considera menos riesgosa, lo que puede bajar sus costos de financiamiento y atraer más inversores institucionales. El levantamiento del límite de activos por parte de la Fed es clave: permitirá al banco crecer su balance y captar más clientes, algo que tenía vedado por años a raíz de escándalos previos.",
+      "tags": [
+        "calificación crediticia",
+        "bancos",
+        "riesgo"
+      ],
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/stock-market-news/sp-upgrades-wells-fargo-to-a-following-risk-management-overhauls-4923630",
+      "published_at": "2026-09-29T21:12:05Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "WFC"
+      ]
+    },
+    {
+      "id": "microsoft-openai-dots",
+      "type": "empresa",
+      "title": "Microsoft integra los agentes de IA autónomos de OpenAI en las empresas",
+      "summary": "Microsoft y OpenAI anunciaron la integración de los nuevos agentes de IA autónomos \"Dots\" —impulsados por GPT-6 Astra— dentro del ecosistema corporativo de Microsoft, incluyendo Teams y herramientas de seguridad. La idea es que las empresas puedan gestionar estos \"trabajadores de IA\" con los mismos controles que usan para sus empleados humanos.",
+      "detail": "La incorporación de agentes de IA autónomos al entorno empresarial representa un paso más allá del chatbot: estas herramientas pueden tomar decisiones y ejecutar tareas sin intervención humana constante. Para Microsoft, posicionarse como la capa de control y seguridad de estos agentes —sin importar quién los desarrolle— es una jugada estratégica enorme que puede consolidar su rol en el mercado corporativo. Esto tiene implicancias directas en valuaciones, ya que el mercado suele premiar a quienes controlan infraestructura clave.",
+      "tags": [
+        "inteligencia artificial",
+        "tecnología",
+        "empresas"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/prediction-markets/26/09/62066468/microsoft-openai-dots-ai-workers-enterprise",
+      "published_at": "2026-09-29T20:33:26Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "id": "ameriprise-buyback-55b",
+      "type": "empresa",
+      "title": "Ameriprise Financial autorizó recompra de acciones por USD 5.500 millones",
+      "summary": "El directorio de Ameriprise Financial aprobó un programa de recompra de acciones por USD 5.500 millones, vigente hasta septiembre de 2028, que se suma a unos USD 1.100 millones que quedaban de la autorización anterior.",
+      "detail": "Las recompras de acciones son una forma en que las empresas devuelven capital a sus accionistas: al comprar sus propias acciones en el mercado, reducen la cantidad en circulación y, si las ganancias se mantienen, el valor por acción sube. Un programa de este tamaño señala que la empresa considera que sus acciones están bien valuadas o subvaluadas, y que tiene confianza en su flujo de caja futuro. Es una señal que el mercado suele interpretar positivamente.",
+      "tags": [
+        "recompra de acciones",
+        "capital",
+        "dividendos"
+      ],
+      "source_name": "Investing.com Canada",
+      "source_url": "https://ca.investing.com/news/stock-market-news/ameriprise-financial-board-authorizes-55-billion-buyback-93CH-4858672",
+      "published_at": "2026-09-29T20:26:42Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "AMP"
+      ]
+    },
+    {
+      "id": "phillips66-teamsters-strike",
+      "type": "economia",
+      "title": "Trabajadores de la refinería Phillips 66 autorizaron una huelga con el 92% de los votos",
+      "summary": "El sindicato Teamsters Local 877 de la refinería Phillips 66 en Bayway votó con el 92% a favor de autorizar una huelga. Los 385 trabajadores reclaman mejores salarios, beneficios y condiciones laborales, y el acuerdo colectivo vence el 1° de octubre.",
+      "detail": "Las huelgas en refinerías pueden afectar la producción de combustible y, en consecuencia, los precios del petróleo refinado a nivel regional. Para quienes estudian finanzas, este tipo de conflictos laborales es un ejemplo de riesgo operativo que puede impactar en los resultados de una empresa y en el precio de sus acciones. Además, muestra cómo las negociaciones salariales en sectores estratégicos se relacionan con la inflación y los costos de producción.",
+      "tags": [
+        "huelga",
+        "energía",
+        "riesgo operativo"
+      ],
+      "source_name": "International Brotherhood of Teamsters",
+      "source_url": "https://teamster.org/2026/09/phillips-66-teamsters-overwhelmingly-authorize-strike/",
+      "published_at": "2026-09-29T20:35:03Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "PSX"
+      ]
+    },
+    {
+      "id": "bmy-liver-safety-admilparant",
+      "type": "empresa",
+      "title": "Bristol Myers Squibb detectó un problema de seguridad hepática en el ensayo de fase 3 de admilparant",
+      "summary": "Se identificó un posible problema de seguridad en el hígado dentro de los protocolos del ensayo clínico de fase 3 en Europa del fármaco admilparant de Bristol Myers Squibb, que se estudia para tratar la fibrosis pulmonar idiopática.",
+      "detail": "Los ensayos clínicos de fase 3 son la última etapa antes de que un medicamento pueda pedir aprobación regulatoria; un problema de seguridad en esta etapa puede retrasar o cancelar el lanzamiento del producto. Para las compañías farmacéuticas, estos eventos suelen impactar fuertemente en el precio de sus acciones porque afectan las proyecciones de ingresos futuros. Este tipo de noticias ilustra el riesgo específico de invertir en empresas del sector salud, donde un solo resultado de ensayo puede cambiar radicalmente la valuación.",
+      "tags": [
+        "farmacéutica",
+        "ensayo clínico",
+        "riesgo"
       ],
       "source_name": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com/news/4647709-zim-integrated-falls-on-report-prime-ministers-office-recommends-rejecting-sale",
-      "published_at": "2026-09-29T11:25:38Z",
+      "source_url": "https://seekingalpha.com/news/4648211-potential-liver-safety-issue-seen-phase-3-trial-bristol-admilparant",
+      "published_at": "2026-09-29T20:42:54Z",
       "fecha_evento": "2026-09-29",
       "tickers": [
-        "ZIM",
-        "HPGLY"
+        "BMY"
       ]
     },
     {
-      "id": "pg-ai-manufactura-global",
-      "type": "empresa",
-      "title": "Procter & Gamble lleva su sistema de IA para reducir desperdicios a todo el mundo",
-      "summary": "P&G está implementando globalmente un sistema de inspección de calidad con inteligencia artificial desarrollado junto a Siemens, que redujo el desperdicio de producción entre un 10% y un 20%. La iniciativa es parte de un programa que apunta a ahorros de hasta u$s 1.500 millones.",
-      "detail": "Este caso muestra cómo las grandes empresas usan la IA no solo para vender más, sino para recortar costos internos. Reducir el desperdicio en la manufactura mejora los márgenes de ganancia sin necesidad de subir precios ni aumentar ventas. Para un inversor, estas iniciativas de eficiencia son señales de que la compañía cuida su rentabilidad a largo plazo, lo que puede sostener o mejorar el valor de la acción.",
-      "tags": [
-        "inteligencia artificial",
-        "manufactura",
-        "eficiencia"
-      ],
-      "source_name": "PYMNTS.com",
-      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/pg-takes-its-ai-scrap-killer-global/",
-      "published_at": "2026-09-29T11:03:30Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "PG"
-      ]
-    },
-    {
-      "id": "moody-zandi-ai-deuda-eeuu",
-      "type": "economia",
-      "title": "El economista jefe de Moody's dice que la IA podría ayudar a EE.UU. a reducir su deuda de u$s 40 billones",
-      "summary": "Mark Zandi, economista jefe de Moody's Analytics, sostuvo que el crecimiento económico impulsado por la inteligencia artificial podría aumentar la productividad y los ingresos fiscales, ayudando a EE.UU. a enfrentar su deuda nacional de u$s 40 billones. Sin embargo, aclaró que la IA no reemplaza las decisiones difíciles sobre gasto e impuestos.",
-      "detail": "La deuda pública de EE.UU. es un tema clave para los mercados globales: si los inversores dudan de la capacidad del país de pagar, suben las tasas de los bonos del Tesoro, lo que encarece el crédito en todo el mundo. La idea de que la IA pueda mejorar la productividad y generar más recaudación es optimista pero debatida —el propio CBO es más escéptico—. Para alguien que aprende finanzas, este debate ilustra cómo las expectativas de crecimiento futuro afectan las decisiones de política fiscal hoy.",
-      "tags": [
-        "deuda pública",
-        "inteligencia artificial",
-        "economía EE.UU."
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/economy/policy/articles/moodys-mark-zandi-says-ai-110000510.html",
-      "published_at": "2026-09-29T11:01:40Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "MCO"
-      ]
-    },
-    {
-      "id": "carmax-resultados-q2-2027",
-      "type": "empresa",
-      "title": "CarMax superó expectativas y sus acciones subieron más del 2%",
-      "summary": "CarMax reportó resultados del segundo trimestre fiscal 2027 por encima de lo esperado, con ganancias por acción de u$s 1,16 e ingresos de u$s 7.880 millones. La empresa también anunció que retomará la recompra de acciones.",
-      "detail": "Cuando una empresa supera las estimaciones de los analistas en ganancias y ventas, el mercado suele premiarla con una suba del precio de la acción —como ocurrió acá con el alza del 2% en el pre-market—. El anuncio de recompra de acciones es una señal adicional: significa que la empresa cree que su propio papel está barato y tiene caja suficiente para comprarlo. Ambas señales juntas generan confianza en los inversores.",
-      "tags": [
-        "resultados trimestrales",
-        "recompra de acciones",
-        "consumo"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/carmax-shares-rise-over-2-104304345.html",
-      "published_at": "2026-09-29T10:44:26Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "KMX"
-      ]
-    },
-    {
-      "id": "cintas-revenue-growth-q1-2027",
-      "type": "empresa",
-      "title": "Cintas creció 10,9% en ingresos y superó las expectativas del mercado",
-      "summary": "Cintas reportó un crecimiento de ingresos del 10,9% interanual en el primer trimestre fiscal 2027, alcanzando u$s 3.010 millones, por encima de las previsiones de Wall Street. Truist Securities elevó su precio objetivo para la acción de u$s 225 a u$s 230, manteniendo una recomendación de compra.",
-      "detail": "Cintas es una empresa de servicios corporativos (uniformes, limpieza, seguridad) que suele usarse como indicador de la salud del mercado laboral: si más empresas contratan empleados, más uniformes y servicios necesitan. Un crecimiento tan sólido en ingresos, sumado a la revisión al alza del precio objetivo por parte de un banco, refleja confianza en que la economía sigue activa. También se menciona la esperada adquisición de UniFirst como catalizador futuro.",
-      "tags": [
-        "resultados trimestrales",
-        "servicios corporativos",
-        "mercado laboral"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cintas-stock-reports-10-9-percent-revenue-growth/70197584",
-      "published_at": "2026-09-29T11:00:52Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "CTAS"
-      ]
-    },
-    {
-      "id": "wyndham-buyback-400m",
-      "type": "empresa",
-      "title": "Wyndham Hotels amplió su programa de recompra de acciones en u$s 400 millones",
-      "summary": "El directorio de Wyndham Hotels & Resorts aprobó un aumento de u$s 400 millones en su programa de recompra de acciones, sin fecha de vencimiento definida. La cadena opera unas 8.400 propiedades en 100 países.",
-      "detail": "Un programa de recompra de acciones (buyback) implica que la empresa usa su propio dinero para comprar sus acciones en el mercado, lo que reduce la cantidad circulante y puede aumentar el valor de las que quedan. Es una señal de que el directorio confía en la generación de caja de la compañía y considera que la acción está a buen precio. Para alguien que aprende finanzas, es un mecanismo importante para entender cómo las empresas distribuyen valor a sus accionistas además de los dividendos.",
-      "tags": [
-        "recompra de acciones",
-        "hoteles",
-        "retorno al accionista"
-      ],
-      "source_name": "TradingView",
-      "source_url": "https://www.tradingview.com/news/seekingalpha:581c71ef8094b:0-wyndham-hotels-boosts-share-buyback-by-400m/",
-      "published_at": "2026-09-29T10:46:04Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "WH"
-      ]
-    },
-    {
-      "id": "qualcomm-saudi-ai",
-      "type": "empresa",
-      "title": "Qualcomm ve en el boom de IA de Arabia Saudita una gran oportunidad de negocios",
-      "summary": "Qualcomm identificó a Arabia Saudita como un mercado clave para su tecnología de IA de bajo consumo energético, especialmente en centros de datos soberanos y aplicaciones industriales. La empresa también colabora con Aramco y apunta al sector de robótica.",
-      "detail": "Arabia Saudita está invirtiendo fuertemente en infraestructura de IA como parte de su plan de diversificación económica más allá del petróleo. Para Qualcomm, que fabrica chips de alta eficiencia energética, esto representa una oportunidad comercial concreta. Este caso ilustra cómo el gasto en IA a nivel estatal genera negocios para empresas de semiconductores, un sector que cada vez más inversores siguen de cerca por su rol central en la economía digital.",
-      "tags": [
-        "inteligencia artificial",
-        "semiconductores",
-        "Arabia Saudita"
-      ],
-      "source_name": "Arab News",
-      "source_url": "https://www.arabnews.com/saudi-arabia/qualcomm-views-saudi-ai-boom-as-opportunity-for-industrial-tech-and-power-efficiency-3003154",
-      "published_at": "2026-09-29T11:03:39Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "QCOM"
-      ]
-    },
-    {
-      "id": "melius-downgrades-mcdonalds",
+      "id": "morgan-stanley-market-breadth",
       "type": "mercado",
-      "title": "Melius Research rebajó la calificación de McDonald's a \"venta fuerte\"",
-      "summary": "La firma de análisis Melius Research degradó su recomendación sobre McDonald's a \"strong sell\", en medio de caídas en ventas comparables, presión inflacionaria y los costos de su nueva estrategia de expansión. Las acciones de la cadena cotizan cerca de su mínimo de 52 semanas.",
-      "detail": "Cuando una firma de análisis importante baja su recomendación sobre una acción —especialmente a una categoría tan negativa como 'venta fuerte'— suele generar presión vendedora en el mercado. En el caso de McDonald's, los analistas señalan que las ventas en locales ya existentes están cayendo, lo que es una métrica clave para el sector de comida rápida. Entender por qué una empresa puede tener ganancias por acción que superan estimaciones pero igual preocupar al mercado (porque los ingresos totales decepcionan) es una lección valiosa sobre cómo leer resultados trimestrales.",
+      "title": "Morgan Stanley advierte que el mercado se está concentrando en las acciones de mayor calidad",
+      "summary": "Chris Toomey, de Morgan Stanley, señaló que el mercado accionario estadounidense está mostrando un «ancho» cada vez más reducido: menos acciones lideran las subas y los inversores se refugian en compañías de mayor calidad.",
+      "detail": "El \"ancho de mercado\" mide cuántas acciones participan de una tendencia alcista. Cuando sube solo un grupo pequeño de empresas de alta calidad y el resto se queda atrás, suele ser una señal de cautela: el rally puede ser frágil. Entender este concepto es clave para no confundir que \"el índice sube\" con que \"todas las acciones suben\". Para un inversor, diversificar en momentos de baja amplitud puede ser más importante que nunca.",
       "tags": [
-        "calificación de analistas",
-        "consumo",
-        "ventas comparables"
+        "mercado",
+        "calidad",
+        "diversificación"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-melius-research-upgrades-mcdonalds-nyse-mcd-to-strong-sell-2026-09-29/",
-      "published_at": "2026-09-29T11:02:40Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/video/2026/09/29/market-breadth-narrowing-into-higher-quality-names-says-morgan-stanleys-chris-toomey.html",
+      "published_at": "2026-09-29T20:41:58Z",
       "fecha_evento": "2026-09-29",
       "tickers": [
-        "MCD"
+        "MS"
+      ]
+    },
+    {
+      "id": "kkr-resultados-q3-noviembre",
+      "type": "reunion",
+      "title": "KKR publicará sus resultados del tercer trimestre el 9 de noviembre",
+      "summary": "KKR & Co. anunció que dará a conocer sus resultados financieros del tercer trimestre de 2026 antes de la apertura de la bolsa el 9 de noviembre, seguido de una conferencia telefónica a las 10 a.m. ET.",
+      "detail": "KKR es uno de los mayores fondos de inversión alternativa del mundo, con exposición en private equity, infraestructura y seguros. Sus resultados son un termómetro del apetito global por activos alternativos y del costo del capital para adquisiciones. Seguir los reportes de este tipo de firmas ayuda a entender cómo fluye el dinero institucional a nivel global, algo relevante incluso para mercados emergentes como el argentino.",
+      "tags": [
+        "private equity",
+        "resultados",
+        "inversión alternativa"
+      ],
+      "source_name": "Stock Titan",
+      "source_url": "https://www.stocktitan.net/news/KKR/kkr-co-inc-to-announce-third-quarter-2026-nbz1y2vq5bu7.html",
+      "published_at": "2026-09-29T20:17:35Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "KKR"
       ]
     }
   ],
@@ -164,33 +163,33 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.565",
-      "valor_num": 1565.0,
-      "delta_pct": 0.32
+      "valor": "$1.560",
+      "valor_num": 1560.0,
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
-      "valor": "$1.556",
-      "valor_num": 1556.5,
-      "delta_pct": -0.05
+      "valor": "$1.557",
+      "valor_num": 1557.0,
+      "delta_pct": -0.02
     },
     {
       "label": "CCL",
-      "valor": "$1.620",
-      "valor_num": 1619.6,
-      "delta_pct": 0.19
+      "valor": "$1.617",
+      "valor_num": 1617.4,
+      "delta_pct": 0.05
     },
     {
       "label": "S&P 500",
-      "valor": "7.684",
-      "valor_num": 7683.69,
-      "delta_pct": -1.04
+      "valor": "7.671",
+      "valor_num": 7670.84,
+      "delta_pct": -1.21
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.188",
-      "valor_num": 4188.2,
-      "delta_pct": -2.55
+      "valor": "US$ 4.215",
+      "valor_num": 4215.0,
+      "delta_pct": -1.93
     }
   ]
 }
