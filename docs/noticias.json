@@ -1,158 +1,157 @@
 {
-  "generated_at": "2026-09-28T22:01:13.424865+00:00",
+  "generated_at": "2026-09-29T12:01:08.437269+00:00",
   "items": [
     {
-      "id": "amd-world-labs-acquisition",
+      "id": "zim-hapag-lloyd-sale-rejected",
       "type": "empresa",
-      "title": "AMD compra la firma de IA World Labs por USD 8.200 millones",
-      "summary": "AMD anunció la compra de World Labs, una empresa especializada en inteligencia artificial, en una operación totalmente en acciones valuada en unos USD 8.200 millones. Con este movimiento, AMD suma capacidades en modelos de inteligencia espacial y aprendizaje robótico. La cofundadora y CEO de World Labs, Fei-Fei Li, pasará a ser vicepresidenta ejecutiva y científica jefe de AMD.",
-      "detail": "Las grandes adquisiciones en el sector tecnológico suelen ser señales de hacia dónde creen las empresas que va el negocio. AMD apuesta fuerte a que la IA no solo es software, sino también hardware especializado. Que paguen USD 8.200 millones en acciones (no en efectivo) implica que diluyen a sus accionistas actuales, pero evitan gastar caja. Incorporar a Fei-Fei Li, una de las figuras más reconocidas del mundo de la IA, también tiene un peso simbólico y estratégico importante.",
+      "title": "El gobierno israelí recomendaría bloquear la venta de ZIM a Hapag-Lloyd",
+      "summary": "Las acciones de ZIM Integrated Shipping cayeron 3,6% después de que trascendiera que la oficina del primer ministro israelí recomendaría rechazar la venta de la compañía a Hapag-Lloyd por u$s 4.200 millones.",
+      "detail": "Las fusiones y adquisiciones en sectores considerados estratégicos —como el transporte marítimo— suelen requerir aprobación gubernamental. Cuando un gobierno interviene para bloquear una venta, el mercado reacciona rápido: el precio de la empresa target cae porque la operación que le daba valor (la prima de adquisición) se cae. Este caso ilustra cómo el riesgo regulatorio o político puede afectar el precio de una acción incluso antes de que haya una decisión oficial.",
       "tags": [
-        "inteligencia artificial",
         "fusiones",
-        "semiconductores"
+        "transporte marítimo",
+        "riesgo político"
       ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/09/62036208/amd-to-buy-ai-firm-world-labs-in-8-2-billion-deal",
-      "published_at": "2026-09-28T20:41:01Z",
-      "fecha_evento": "2026-09-28",
+      "source_name": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com/news/4647709-zim-integrated-falls-on-report-prime-ministers-office-recommends-rejecting-sale",
+      "published_at": "2026-09-29T11:25:38Z",
+      "fecha_evento": "2026-09-29",
       "tickers": [
-        "AMD"
+        "ZIM",
+        "HPGLY"
       ]
     },
     {
-      "id": "qualcomm-caida-venta-insider",
-      "type": "mercado",
-      "title": "Qualcomm cae 7,2% tras la venta de acciones por parte de su CEO",
-      "summary": "Las acciones de Qualcomm bajaron un 7,2% después de que trascendiera que su CEO, Cristiano Amon, vendió 20.000 acciones por casi USD 4 millones a través de planes de trading prearreglados. La caída se da en un contexto de presión general sobre el sector de semiconductores y debilidad en el mercado de celulares. Los analistas tienen al papel con recomendación de \"mantener\" y un precio objetivo consensuado de USD 204,10.",
-      "detail": "Las ventas de acciones por parte de insiders (ejecutivos o directores) a veces generan señales negativas en el mercado, aunque en este caso se trata de un plan prearreglado (Rule 10b5-1), que se arma con anticipación y no necesariamente refleja una visión negativa del ejecutivo sobre la empresa. Sin embargo, combinado con un selloff sectorial en semiconductores, el mercado reaccionó con fuerza. Aprender a distinguir ventas planificadas de ventas oportunistas es clave para interpretar correctamente estas noticias.",
+      "id": "pg-ai-manufactura-global",
+      "type": "empresa",
+      "title": "Procter & Gamble lleva su sistema de IA para reducir desperdicios a todo el mundo",
+      "summary": "P&G está implementando globalmente un sistema de inspección de calidad con inteligencia artificial desarrollado junto a Siemens, que redujo el desperdicio de producción entre un 10% y un 20%. La iniciativa es parte de un programa que apunta a ahorros de hasta u$s 1.500 millones.",
+      "detail": "Este caso muestra cómo las grandes empresas usan la IA no solo para vender más, sino para recortar costos internos. Reducir el desperdicio en la manufactura mejora los márgenes de ganancia sin necesidad de subir precios ni aumentar ventas. Para un inversor, estas iniciativas de eficiencia son señales de que la compañía cuida su rentabilidad a largo plazo, lo que puede sostener o mejorar el valor de la acción.",
       "tags": [
-        "semiconductores",
-        "insider selling",
-        "tecnología"
+        "inteligencia artificial",
+        "manufactura",
+        "eficiencia"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/price-qualcomm-nasdaq-qcom-shares-down-72-on-insider-selling-2026-09-28/",
-      "published_at": "2026-09-28T21:03:19Z",
-      "fecha_evento": "2026-09-28",
+      "source_name": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/pg-takes-its-ai-scrap-killer-global/",
+      "published_at": "2026-09-29T11:03:30Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "PG"
+      ]
+    },
+    {
+      "id": "moody-zandi-ai-deuda-eeuu",
+      "type": "economia",
+      "title": "El economista jefe de Moody's dice que la IA podría ayudar a EE.UU. a reducir su deuda de u$s 40 billones",
+      "summary": "Mark Zandi, economista jefe de Moody's Analytics, sostuvo que el crecimiento económico impulsado por la inteligencia artificial podría aumentar la productividad y los ingresos fiscales, ayudando a EE.UU. a enfrentar su deuda nacional de u$s 40 billones. Sin embargo, aclaró que la IA no reemplaza las decisiones difíciles sobre gasto e impuestos.",
+      "detail": "La deuda pública de EE.UU. es un tema clave para los mercados globales: si los inversores dudan de la capacidad del país de pagar, suben las tasas de los bonos del Tesoro, lo que encarece el crédito en todo el mundo. La idea de que la IA pueda mejorar la productividad y generar más recaudación es optimista pero debatida —el propio CBO es más escéptico—. Para alguien que aprende finanzas, este debate ilustra cómo las expectativas de crecimiento futuro afectan las decisiones de política fiscal hoy.",
+      "tags": [
+        "deuda pública",
+        "inteligencia artificial",
+        "economía EE.UU."
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/economy/policy/articles/moodys-mark-zandi-says-ai-110000510.html",
+      "published_at": "2026-09-29T11:01:40Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "MCO"
+      ]
+    },
+    {
+      "id": "carmax-resultados-q2-2027",
+      "type": "empresa",
+      "title": "CarMax superó expectativas y sus acciones subieron más del 2%",
+      "summary": "CarMax reportó resultados del segundo trimestre fiscal 2027 por encima de lo esperado, con ganancias por acción de u$s 1,16 e ingresos de u$s 7.880 millones. La empresa también anunció que retomará la recompra de acciones.",
+      "detail": "Cuando una empresa supera las estimaciones de los analistas en ganancias y ventas, el mercado suele premiarla con una suba del precio de la acción —como ocurrió acá con el alza del 2% en el pre-market—. El anuncio de recompra de acciones es una señal adicional: significa que la empresa cree que su propio papel está barato y tiene caja suficiente para comprarlo. Ambas señales juntas generan confianza en los inversores.",
+      "tags": [
+        "resultados trimestrales",
+        "recompra de acciones",
+        "consumo"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/carmax-shares-rise-over-2-104304345.html",
+      "published_at": "2026-09-29T10:44:26Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "KMX"
+      ]
+    },
+    {
+      "id": "cintas-revenue-growth-q1-2027",
+      "type": "empresa",
+      "title": "Cintas creció 10,9% en ingresos y superó las expectativas del mercado",
+      "summary": "Cintas reportó un crecimiento de ingresos del 10,9% interanual en el primer trimestre fiscal 2027, alcanzando u$s 3.010 millones, por encima de las previsiones de Wall Street. Truist Securities elevó su precio objetivo para la acción de u$s 225 a u$s 230, manteniendo una recomendación de compra.",
+      "detail": "Cintas es una empresa de servicios corporativos (uniformes, limpieza, seguridad) que suele usarse como indicador de la salud del mercado laboral: si más empresas contratan empleados, más uniformes y servicios necesitan. Un crecimiento tan sólido en ingresos, sumado a la revisión al alza del precio objetivo por parte de un banco, refleja confianza en que la economía sigue activa. También se menciona la esperada adquisición de UniFirst como catalizador futuro.",
+      "tags": [
+        "resultados trimestrales",
+        "servicios corporativos",
+        "mercado laboral"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cintas-stock-reports-10-9-percent-revenue-growth/70197584",
+      "published_at": "2026-09-29T11:00:52Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "CTAS"
+      ]
+    },
+    {
+      "id": "wyndham-buyback-400m",
+      "type": "empresa",
+      "title": "Wyndham Hotels amplió su programa de recompra de acciones en u$s 400 millones",
+      "summary": "El directorio de Wyndham Hotels & Resorts aprobó un aumento de u$s 400 millones en su programa de recompra de acciones, sin fecha de vencimiento definida. La cadena opera unas 8.400 propiedades en 100 países.",
+      "detail": "Un programa de recompra de acciones (buyback) implica que la empresa usa su propio dinero para comprar sus acciones en el mercado, lo que reduce la cantidad circulante y puede aumentar el valor de las que quedan. Es una señal de que el directorio confía en la generación de caja de la compañía y considera que la acción está a buen precio. Para alguien que aprende finanzas, es un mecanismo importante para entender cómo las empresas distribuyen valor a sus accionistas además de los dividendos.",
+      "tags": [
+        "recompra de acciones",
+        "hoteles",
+        "retorno al accionista"
+      ],
+      "source_name": "TradingView",
+      "source_url": "https://www.tradingview.com/news/seekingalpha:581c71ef8094b:0-wyndham-hotels-boosts-share-buyback-by-400m/",
+      "published_at": "2026-09-29T10:46:04Z",
+      "fecha_evento": "2026-09-29",
+      "tickers": [
+        "WH"
+      ]
+    },
+    {
+      "id": "qualcomm-saudi-ai",
+      "type": "empresa",
+      "title": "Qualcomm ve en el boom de IA de Arabia Saudita una gran oportunidad de negocios",
+      "summary": "Qualcomm identificó a Arabia Saudita como un mercado clave para su tecnología de IA de bajo consumo energético, especialmente en centros de datos soberanos y aplicaciones industriales. La empresa también colabora con Aramco y apunta al sector de robótica.",
+      "detail": "Arabia Saudita está invirtiendo fuertemente en infraestructura de IA como parte de su plan de diversificación económica más allá del petróleo. Para Qualcomm, que fabrica chips de alta eficiencia energética, esto representa una oportunidad comercial concreta. Este caso ilustra cómo el gasto en IA a nivel estatal genera negocios para empresas de semiconductores, un sector que cada vez más inversores siguen de cerca por su rol central en la economía digital.",
+      "tags": [
+        "inteligencia artificial",
+        "semiconductores",
+        "Arabia Saudita"
+      ],
+      "source_name": "Arab News",
+      "source_url": "https://www.arabnews.com/saudi-arabia/qualcomm-views-saudi-ai-boom-as-opportunity-for-industrial-tech-and-power-efficiency-3003154",
+      "published_at": "2026-09-29T11:03:39Z",
+      "fecha_evento": "2026-09-29",
       "tickers": [
         "QCOM"
       ]
     },
     {
-      "id": "exxon-guyana-millon-barriles",
-      "type": "empresa",
-      "title": "ExxonMobil alcanza 1.000 millones de barriles producidos en Guyana",
-      "summary": "ExxonMobil anunció que sus operaciones en el bloque Stabroek, en Guyana, superaron los 1.000 millones de barriles de petróleo producidos, menos de siete años después de iniciar la producción. La acción subió un 1,21% en la jornada del 28 de septiembre, también impulsada por una mejora de precio objetivo de TD Cowen, que lo llevó de USD 168 a USD 180. Próximos proyectos como Uaru y Whiptail buscan seguir expandiendo la capacidad productiva.",
-      "detail": "Guyana se convirtió en uno de los descubrimientos petroleros más importantes de las últimas décadas, y ExxonMobil es el principal operador. Alcanzar 1.000 millones de barriles es un hito operativo que muestra la escala del negocio. Para quienes siguen el mercado de energía, este tipo de anuncios sirve para entender cómo las grandes petroleras diversifican su producción geográficamente y reducen riesgos. Las mejoras de precio objetivo por parte de analistas, como la de TD Cowen, también suelen generar movimientos en el precio de la acción.",
-      "tags": [
-        "petróleo",
-        "energía",
-        "producción"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/exxon-mobil-stock-at-usd-162-53-on-september-28-2026/70195247",
-      "published_at": "2026-09-28T20:22:00Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "XOM"
-      ]
-    },
-    {
-      "id": "tmobile-dividendo-aumento",
-      "type": "empresa",
-      "title": "T-Mobile sube su dividendo trimestral un 15%",
-      "summary": "T-Mobile US anunció un aumento del 15% en su dividendo trimestral, que pasó a USD 1,17 por acción, pagadero el 10 de diciembre de 2026. La acción subió un 0,84% en la jornada. La empresa también agendó su llamada de resultados del tercer trimestre para el 28 de octubre de 2026.",
-      "detail": "Un aumento de dividendo es una señal que los directorios suelen dar cuando tienen confianza en la generación futura de caja de la empresa. En este caso, un salto del 15% es significativo. Para inversores que buscan ingresos pasivos, los dividendos son una parte central del retorno total de una acción. También es útil entender que cuando una empresa sube el dividendo, el mercado generalmente lo toma como una señal positiva sobre su salud financiera.",
-      "tags": [
-        "dividendos",
-        "telecomunicaciones",
-        "acciones"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/t-mobile-us-stock-last-trades-at-usd-166-82-on-september-28-2026/70194638",
-      "published_at": "2026-09-28T20:26:00Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "TMUS"
-      ]
-    },
-    {
-      "id": "norfolk-southern-union-pacific-fusion",
-      "type": "empresa",
-      "title": "La fusión entre Norfolk Southern y Union Pacific supera otro obstáculo regulatorio",
-      "summary": "El regulador ferroviario estadounidense (Surface Transportation Board) rechazó los pedidos para desestimar la solicitud de fusión entre Norfolk Southern y Union Pacific, lo que le da luz verde para continuar el proceso. Las empresas también cerraron un acuerdo de \"empleos de por vida\" con un sindicato ferroviario importante. La operación se espera completar en la segunda mitad de 2027.",
-      "detail": "Las fusiones entre grandes empresas de infraestructura, como las ferroviarias, requieren aprobación de reguladores que analizan el impacto competitivo. Que el regulador rechace los pedidos de desestimación es una buena señal para quienes impulsan la fusión. Este tipo de operaciones impacta en los precios de las acciones de ambas compañías y también en sectores relacionados, como el transporte de cargas. Para aprender finanzas, es un buen ejemplo de cómo el riesgo regulatorio puede afectar el valor de una empresa durante meses o años.",
-      "tags": [
-        "fusiones",
-        "ferroviarias",
-        "regulación"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/norfolk-southern-stock-last-trades-at-usd-312-88-on-september-28-2026/70194617",
-      "published_at": "2026-09-28T20:22:00Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "NSC",
-        "UNP"
-      ]
-    },
-    {
-      "id": "blackstone-jefe-private-equity-se-va",
-      "type": "empresa",
-      "title": "El histórico jefe de private equity de Blackstone deja la firma tras 28 años",
-      "summary": "Joe Baratta, el líder histórico del negocio de private equity de Blackstone, dejará la firma a fin de año después de 28 años. Su salida se suma a otros cambios de liderazgo recientes en la empresa. Blackstone administra aproximadamente USD 450.000 millones solo en su unidad de private equity y USD 1,3 billones en activos totales.",
-      "detail": "Blackstone es uno de los fondos de inversión alternativos más grandes del mundo, y los cambios en su liderazgo son seguidos de cerca por el mercado financiero global. El private equity es un tipo de inversión en empresas que no cotizan en bolsa, y entender cómo funcionan estos fondos es clave para comprender una parte importante del sistema financiero. La salida de una figura tan central puede generar incertidumbre sobre la estrategia futura, aunque la firma parece haber distribuido el poder entre un equipo más amplio.",
-      "tags": [
-        "private equity",
-        "Blackstone",
-        "liderazgo"
-      ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/markets/private-markets/26/09/62035507/blackstones-450-billion-private-equity-business-loses-its-longtime-chief",
-      "published_at": "2026-09-28T20:19:42Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "BX"
-      ]
-    },
-    {
-      "id": "paramount-skydance-cambio-bolsa",
-      "type": "empresa",
-      "title": "Paramount Skydance mudará sus acciones de Nasdaq a la NYSE",
-      "summary": "Paramount Skydance anunció que trasladará el listado de sus acciones Clase B desde Nasdaq a la Bolsa de Nueva York (NYSE), con inicio de operaciones esperado alrededor del 6 de octubre de 2026. También anticipó una distribución de warrants alrededor del 13 de octubre, condicionada a la adquisición de Warner Bros. Discovery. La acción subió un 2,66% en la jornada.",
-      "detail": "El cambio de bolsa donde cotiza una acción puede tener implicancias prácticas en términos de visibilidad, liquidez y base inversora. La mención de warrants vinculados a una posible adquisición de Warner Bros. Discovery indica que Paramount Skydance sigue en proceso de consolidación en el sector de medios. Para alguien que aprende finanzas, este caso muestra cómo las fusiones y reorganizaciones corporativas pueden involucrar instrumentos financieros complejos como los warrants.",
-      "tags": [
-        "medios",
-        "fusiones",
-        "bolsa"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/paramount-skydance-stock-at-usd-10-22-on-september-28-2026/70194628",
-      "published_at": "2026-09-28T20:24:00Z",
-      "fecha_evento": "2026-09-28",
-      "tickers": [
-        "PSKY",
-        "WBD"
-      ]
-    },
-    {
-      "id": "general-dynamics-riesgo-tasas",
+      "id": "melius-downgrades-mcdonalds",
       "type": "mercado",
-      "title": "Piper Sandler pone a General Dynamics en su lista de riesgo por tasas de interés altas",
-      "summary": "El banco de inversión Piper Sandler incluyó a General Dynamics en una lista de empresas vulnerables al alza de tasas de interés, dado que la compañía tiene USD 7.000 millones de deuda y el 54% vence en los próximos cinco años. Eso podría obligar a refinanciar a tasas más caras. A pesar de esto, General Dynamics mostró buenos resultados operativos recientemente.",
-      "detail": "Cuando las tasas de interés son altas, las empresas con mucha deuda enfrentan un mayor costo al renovar o refinanciar sus obligaciones. Esto puede reducir sus ganancias y presionar el precio de sus acciones. Este tipo de análisis por parte de bancos de inversión es relevante para entender cómo el contexto de política monetaria impacta directamente en empresas concretas, incluso en sectores considerados sólidos como el de defensa.",
+      "title": "Melius Research rebajó la calificación de McDonald's a \"venta fuerte\"",
+      "summary": "La firma de análisis Melius Research degradó su recomendación sobre McDonald's a \"strong sell\", en medio de caídas en ventas comparables, presión inflacionaria y los costos de su nueva estrategia de expansión. Las acciones de la cadena cotizan cerca de su mínimo de 52 semanas.",
+      "detail": "Cuando una firma de análisis importante baja su recomendación sobre una acción —especialmente a una categoría tan negativa como 'venta fuerte'— suele generar presión vendedora en el mercado. En el caso de McDonald's, los analistas señalan que las ventas en locales ya existentes están cayendo, lo que es una métrica clave para el sector de comida rápida. Entender por qué una empresa puede tener ganancias por acción que superan estimaciones pero igual preocupar al mercado (porque los ingresos totales decepcionan) es una lección valiosa sobre cómo leer resultados trimestrales.",
       "tags": [
-        "tasas de interés",
-        "deuda corporativa",
-        "defensa"
+        "calificación de analistas",
+        "consumo",
+        "ventas comparables"
       ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/markets/large-cap/26/09/62035892/this-blue-chip-defense-prime-lands-on-piper-sandlers-rate-risk-list",
-      "published_at": "2026-09-28T20:29:59Z",
-      "fecha_evento": "2026-09-28",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-melius-research-upgrades-mcdonalds-nyse-mcd-to-strong-sell-2026-09-29/",
+      "published_at": "2026-09-29T11:02:40Z",
+      "fecha_evento": "2026-09-29",
       "tickers": [
-        "GD"
+        "MCD"
       ]
     }
   ],
@@ -182,12 +181,6 @@
       "delta_pct": 0.19
     },
     {
-      "label": "BITCOIN",
-      "valor": "US$ 83.230",
-      "valor_num": 83230.0,
-      "delta_pct": -1.74
-    },
-    {
       "label": "S&P 500",
       "valor": "7.684",
       "valor_num": 7683.69,
@@ -195,9 +188,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.148",
-      "valor_num": 4148.5,
-      "delta_pct": -3.93
+      "valor": "US$ 4.188",
+      "valor_num": 4188.2,
+      "delta_pct": -2.55
     }
   ]
 }
