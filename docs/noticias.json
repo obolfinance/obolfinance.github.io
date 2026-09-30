@@ -1,166 +1,167 @@
 {
-  "generated_at": "2026-09-30T12:01:06.026355+00:00",
+  "generated_at": "2026-09-30T22:01:04.926786+00:00",
   "items": [
     {
-      "id": "lilly-retatrutide-triumph2",
+      "id": "lululemon-wilson-board-delay",
       "type": "empresa",
-      "title": "Eli Lilly presentó resultados prometedores de su nuevo fármaco para diabetes y obesidad",
-      "summary": "Eli Lilly anunció los resultados detallados del ensayo clínico de fase 3 de retatrutide, su droga experimental de triple acción hormonal. Los pacientes con diabetes tipo 2 y obesidad perdieron hasta un 20,8% de su peso en promedio en 80 semanas y redujeron significativamente sus niveles de azúcar en sangre.",
-      "detail": "Eli Lilly compite en el mercado de fármacos GLP-1 (para diabetes y obesidad) junto a Novo Nordisk, un segmento que viene siendo uno de los más calientes de la industria farmacéutica. Resultados tan fuertes en fase 3 suelen impactar positivamente en el precio de la acción porque acercan al fármaco a la aprobación regulatoria y a su comercialización. Para alguien que aprende finanzas, este caso muestra cómo los ensayos clínicos son catalizadores clave del valor de una empresa farmacéutica.",
+      "title": "Lululemon y su fundador no se ponen de acuerdo para renovar el directorio",
+      "summary": "Lululemon y su fundador Chip Wilson extendieron el plazo para nombrar un nuevo miembro del directorio, que vencía el 1° de octubre. La demora llega en un momento complicado: las acciones de la empresa perdieron más de la mitad de su valor en lo que va del año, en parte por la caída en la demanda de ropa deportiva athleisure.",
+      "detail": "El gobierno corporativo (quién toma decisiones en una empresa) importa mucho para los inversores. Cuando un fundador con mucho poder y la empresa no se ponen de acuerdo en algo tan básico como elegir un director, es una señal de tensión interna que puede afectar la estrategia. Además, la caída del 50% en el precio de la acción muestra cómo los cambios en los gustos del consumidor pueden golpear duramente a empresas que dependen de una sola tendencia de moda.",
       "tags": [
-        "farmacéutica",
+        "gobierno corporativo",
         "acciones",
-        "innovación"
+        "consumo"
       ],
-      "source_name": "Eli Lilly",
-      "source_url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-substantial-weight",
-      "published_at": "2026-09-30T10:43:31Z",
+      "source_name": "Financial Post",
+      "source_url": "https://business.financialpost.com/news/retail-marketing/lululemon-chip-wilson-delaying-naming-new-board-member",
+      "published_at": "2026-09-30T20:47:07Z",
       "fecha_evento": "2026-09-30",
       "tickers": [
-        "LLY"
+        "LULU"
       ]
     },
     {
-      "id": "ackman-netflix-reinversion",
-      "type": "discurso",
-      "title": "Bill Ackman volvió a invertir en Netflix y la llama un negocio extraordinario",
-      "summary": "El reconocido inversor Bill Ackman recompró acciones de Netflix a través de su fondo Pershing Square después de haberlas vendido en 2022. Ackman considera que Netflix ganó la guerra del streaming y que el precio bajó a niveles razonables a fines de 2025 y principios de 2026.",
-      "detail": "Bill Ackman es uno de los inversores activistas más seguidos del mundo, por lo que sus movimientos suelen influir en la percepción del mercado sobre una acción. Este caso ilustra el concepto de 'value investing': comprar cuando el precio cae a una valuación que el inversor considera atractiva. También muestra que hasta los grandes inversores venden y recompran las mismas acciones según cómo cambia el precio respecto al valor percibido.",
-      "tags": [
-        "inversión",
-        "streaming",
-        "value investing"
-      ],
-      "source_name": "TradingView",
-      "source_url": "https://www.tradingview.com/news/benzinga:764a0db38094b:0-bill-ackman-happy-to-be-back-in-netflix-stock-again-amazing-business-with-a-very-dominant-position/",
-      "published_at": "2026-09-30T10:41:16Z",
-      "fecha_evento": "2026-09-30",
-      "tickers": [
-        "NFLX",
-        "PS"
-      ]
-    },
-    {
-      "id": "moderna-coo-oncologia",
-      "type": "empresa",
-      "title": "Moderna crea el puesto de COO para apoyar su expansión en oncología",
-      "summary": "Moderna anunció la creación del cargo de Director de Operaciones (COO) y la incorporación de Juan Andres en ese rol a partir del 5 de octubre de 2026. La empresa busca apoyar su crecimiento más allá de las vacunas, avanzando en tratamientos contra el cáncer y nuevas enfermedades infecciosas.",
-      "detail": "Moderna se hizo conocida globalmente por su vacuna de ARN mensajero contra el COVID-19, pero desde entonces su cotización cayó fuertemente al desacelerarse esa demanda. La expansión hacia oncología es una apuesta estratégica para diversificar ingresos. La creación de un COO indica que la empresa está escalando operaciones, lo que es una señal que los inversores suelen leer como preparación para una nueva etapa de crecimiento.",
-      "tags": [
-        "farmacéutica",
-        "oncología",
-        "management"
-      ],
-      "source_name": "ACCESS Newswire",
-      "source_url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/moderna-adds-chief-operating-officer-role-as-company-expands-into-onc-1228888",
-      "published_at": "2026-09-30T11:06:01Z",
-      "fecha_evento": "2026-09-30",
-      "tickers": [
-        "MRNA"
-      ]
-    },
-    {
-      "id": "stifel-generac-amazon-datacenters",
+      "id": "vici-properties-52-week-low",
       "type": "mercado",
-      "title": "Stifel sube el precio objetivo de Generac por un acuerdo con Amazon y el boom de los data centers",
-      "summary": "El banco de inversión Stifel elevó su precio objetivo para Generac Holdings de $285 a $290, manteniendo una recomendación de compra. El impulso viene de un acuerdo reciente de Generac con Amazon y la acelerada expansión de data centers, que aumentan la demanda de sistemas de energía.",
-      "detail": "Generac es conocida por fabricar generadores eléctricos de respaldo para hogares y empresas. El crecimiento explosivo de los data centers —necesarios para la inteligencia artificial— requiere grandes volúmenes de energía confiable, lo que beneficia directamente a empresas como Generac. Este caso muestra cómo una tendencia macro (el auge de la IA) puede impulsar sectores inesperados como el de equipos energéticos industriales.",
+      "title": "Vici Properties toca su mínimo en 52 semanas con una caída del 30%",
+      "summary": "Las acciones de Vici Properties (VICI), un fondo de inversión inmobiliaria (REIT) especializado en casinos y entretenimiento, cayeron a su nivel más bajo en un año: USD 22,95, con una baja del 30% en los últimos doce meses. A pesar de la caída, analistas señalan que la acción luce barata con un ratio P/E de 8,94 y un dividendo del 7,93%.",
+      "detail": "Los REITs son empresas que invierten en propiedades y distribuyen la mayoría de sus ganancias como dividendos. Cuando las tasas de interés suben, los REITs suelen caer porque los inversores prefieren bonos que ofrecen rendimientos similares con menos riesgo. Un dividendo alto como el de VICI puede ser atractivo, pero también puede ser una señal de que el mercado desconfía de la sostenibilidad del negocio. Este caso ilustra la tensión entre valuación baja y riesgo sectorial.",
       "tags": [
-        "energía",
-        "data centers",
-        "analistas"
+        "REIT",
+        "dividendos",
+        "tasas de interés"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/analyst-ratings/stifel-raises-generac-stock-price-target-on-amazon-deal-data-center-growth-93CH-4924593",
-      "published_at": "2026-09-30T10:36:52Z",
+      "source_name": "Investing.com UK",
+      "source_url": "https://uk.investing.com/news/stock-market-news/vici-properties-stock-hits-52week-low-at-2295-93CH-4890247",
+      "published_at": "2026-09-30T20:48:05Z",
       "fecha_evento": "2026-09-30",
       "tickers": [
-        "GNRC"
+        "VICI"
       ]
     },
     {
-      "id": "scotiabank-nextera-pt",
-      "type": "mercado",
-      "title": "Scotiabank bajó su precio objetivo para NextEra Energy de $110 a $99",
-      "summary": "El banco canadiense Scotiabank redujo su precio objetivo para NextEra Energy, la mayor empresa de energías renovables de Estados Unidos, aunque mantuvo una calificación positiva ('Sector Outperform'). La acción sigue siendo recomendada pero con una valuación más conservadora.",
-      "detail": "NextEra Energy es considerada un referente del sector de energía limpia en EE.UU. Cuando un banco baja su precio objetivo sin cambiar la recomendación, está diciendo que la acción vale menos de lo que estimaba antes, pero sigue siendo atractiva. Para alguien que aprende finanzas, esto muestra la diferencia entre el 'precio objetivo' (lo que el analista cree que vale) y la 'recomendación' (si conviene comprar, mantener o vender).",
-      "tags": [
-        "energía renovable",
-        "analistas",
-        "valuación"
-      ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/scotiabank-adjusts-pt-on-nextera-energy-to-99-from-110-keeps-sector-outperform-rating-ce785ad2df8af220",
-      "published_at": "2026-09-30T10:15:14Z",
-      "fecha_evento": "2026-09-30",
-      "tickers": [
-        "NEE"
-      ]
-    },
-    {
-      "id": "evercore-pepsico-pt-baja",
-      "type": "mercado",
-      "title": "Evercore e JPMorgan bajaron sus perspectivas sobre PepsiCo",
-      "summary": "Evercore ISI redujo su precio objetivo para PepsiCo de $150 a $135, mientras que JPMorgan directamente bajó su calificación a 'Neutral'. Ambos bancos mantienen una visión más cautelosa sobre la empresa de alimentos y bebidas.",
-      "detail": "Cuando dos firmas importantes ajustan a la baja sus proyecciones sobre una empresa grande como PepsiCo en simultáneo, suele reflejar preocupaciones sobre el crecimiento de sus ventas o presión en sus márgenes de ganancia. PepsiCo es un ejemplo clásico de acción 'defensiva', elegida por inversores que buscan estabilidad. Ver cómo los analistas cambian sus opiniones y por qué es un ejercicio clave para entender cómo funciona el mercado de renta variable.",
-      "tags": [
-        "consumo",
-        "analistas",
-        "calificaciones"
-      ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/evercore-isi-adjusts-price-target-on-pepsico-to-135-from-150-keeps-in-line-rating-ce785ad2df8df524",
-      "published_at": "2026-09-30T10:20:12Z",
-      "fecha_evento": "2026-09-30",
-      "tickers": [
-        "PEP"
-      ]
-    },
-    {
-      "id": "prudential-rebrand-wealth",
+      "id": "netapp-novus-ai-architecture",
       "type": "empresa",
-      "title": "Prudential Financial relanzó su negocio de asesoramiento como 'Prudential Wealth Advisors'",
-      "summary": "Prudential Financial cambió el nombre de su división de asesoramiento financiero en EE.UU. a Prudential Wealth Advisors, reflejando una expansión hacia servicios de gestión integral de patrimonio. Los activos bajo gestión de esa unidad crecieron más del 60% en menos de tres años, llegando a $44.000 millones.",
-      "detail": "El cambio de marca no es solo cosmético: indica que Prudential está apuntando a captar clientes con más patrimonio y ofrecer servicios más completos más allá del seguro de vida. El crecimiento del 60% en activos bajo gestión en menos de tres años es una señal de que la estrategia viene funcionando. Para quien aprende finanzas, este caso muestra cómo las grandes compañías de seguros compiten con bancos y gestoras de fondos en el negocio de la gestión de patrimonio.",
+      "title": "NetApp lanzó una nueva arquitectura para potenciar cargas de trabajo de inteligencia artificial a gran escala",
+      "summary": "NetApp presentó Novus, una arquitectura de datos diseñada para maximizar el uso de GPUs en proyectos de inteligencia artificial a escala masiva. El CEO George Kurian afirmó que la solución resuelve el problema de que los sistemas de almacenamiento tradicionales no pueden seguir el ritmo de los procesadores de IA modernos.",
+      "detail": "Las GPUs son los chips que procesan los cálculos de inteligencia artificial, y su tiempo es muy caro. Si el sistema de almacenamiento de datos es lento, la GPU queda ociosa y se desperdicia dinero. NetApp apunta a resolver ese cuello de botella, lo que muestra cómo las empresas de infraestructura tecnológica compiten por capturar valor en el boom de la IA, más allá de Nvidia que fabrica los chips.",
       "tags": [
-        "gestión de patrimonio",
-        "seguros",
-        "activos"
+        "inteligencia artificial",
+        "tecnología",
+        "infraestructura"
       ],
-      "source_name": "Coverager",
-      "source_url": "https://coverager.com/prudential-advisors-rebrands-as-prudential-wealth-advisors/",
-      "published_at": "2026-09-30T11:07:31Z",
+      "source_name": "CRN",
+      "source_url": "https://www.crn.com/news/ai/2026/netapp-ceo-george-kurian-we-are-light-years-ahead-of-everybody-else-in-cloud-ai",
+      "published_at": "2026-09-30T20:28:58Z",
       "fecha_evento": "2026-09-30",
       "tickers": [
-        "PRU"
+        "NTAP",
+        "NVDA",
+        "ORCL"
       ]
     },
     {
-      "id": "avalanche-treasury-venta-avax",
+      "id": "cvs-health-dividendo-trimestral",
       "type": "empresa",
-      "title": "Avalanche Treasury vendió más de 2 millones de tokens AVAX por $15 millones para reducir deuda",
-      "summary": "Avalanche Treasury Corporation completó el 23 de septiembre de 2026 la venta de más de 2 millones de tokens AVAX en tres tramos, obteniendo $15 millones. El objetivo fue reducir deuda y cubrir gastos operativos generales.",
-      "detail": "Este tipo de operación muestra cómo las empresas vinculadas a criptomonedas pueden usar sus propios tokens como activo para financiarse, similar a cómo una empresa tradicional emite acciones o vende activos para obtener liquidez. La venta de grandes volúmenes de un token puede generar presión bajista en su precio de mercado. Es un ejemplo concreto de la relación entre las decisiones corporativas y el precio de los activos digitales.",
+      "title": "CVS Health confirmó su dividendo trimestral de USD 0,665 por acción",
+      "summary": "El directorio de CVS Health aprobó un dividendo trimestral de USD 0,665 por acción, pagadero el 2 de noviembre de 2026 a los accionistas registrados al 22 de octubre. CVS es una de las principales empresas de salud y farmacias minoristas de Estados Unidos.",
+      "detail": "Los dividendos son pagos regulares que las empresas hacen a sus accionistas como forma de distribuir ganancias. Cuando una empresa mantiene su dividendo estable, es una señal de que confía en la solidez de su flujo de caja. Para quienes aprenden a invertir, los dividendos son una forma concreta de entender cómo las acciones generan ingresos pasivos, más allá de la suba del precio.",
       "tags": [
-        "cripto",
-        "AVAX",
-        "liquidez"
+        "dividendos",
+        "acciones",
+        "salud"
       ],
-      "source_name": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com/us/news/announcements/avalanche-treasury-sells-over-2-million-avax-tokens-for-15-million-in-three-tranche-deal",
-      "published_at": "2026-09-30T10:57:35Z",
-      "fecha_evento": "2026-09-23",
+      "source_name": "PR Newswire",
+      "source_url": "https://www.prnewswire.com/news-releases/cvs-health-declares-quarterly-dividend-302894998.html",
+      "published_at": "2026-09-30T20:26:15Z",
+      "fecha_evento": "2026-09-30",
       "tickers": [
-        "AVAT"
+        "CVS"
+      ]
+    },
+    {
+      "id": "rockwell-automation-guidance-q3",
+      "type": "empresa",
+      "title": "Rockwell Automation subió su guidance 2026 después de crecer 8% en ventas en el tercer trimestre",
+      "summary": "Rockwell Automation reportó ventas de USD 2.313 millones en su tercer trimestre fiscal, un alza del 8%, con una ganancia ajustada por acción de USD 3,49. Con esos resultados, la empresa elevó sus proyecciones de ventas y ganancias para todo el año 2026.",
+      "detail": "Cuando una empresa sube su 'guidance' (proyección oficial de resultados futuros), suele ser una señal positiva para el mercado porque indica que el negocio va mejor de lo esperado. Sin embargo, en este caso los analistas de Deutsche Bank subieron su precio objetivo mientras Goldman Sachs lo bajó, lo que muestra que incluso con buenas noticias puede haber visiones opuestas sobre si la acción ya está cara o barata.",
+      "tags": [
+        "resultados trimestrales",
+        "manufactura",
+        "guidance"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/rockwell-automation-stock-raises-2026-guidance-after-q3-growth/70206512",
+      "published_at": "2026-09-30T20:16:26Z",
+      "fecha_evento": "2026-09-30",
+      "tickers": [
+        "ROK"
+      ]
+    },
+    {
+      "id": "logistic-properties-peru-sale",
+      "type": "empresa",
+      "title": "Logistic Properties of the Americas vendió un parque logístico en Perú por USD 145 millones",
+      "summary": "Logistic Properties of the Americas (LPA) cerró la venta de su Parque Logístico Lima Sur en Perú por USD 145 millones, un precio casi 20% por encima de su valor contable. La empresa planea reinvertir los fondos en su cartera de proyectos en México y seguirá administrando el parque para el comprador.",
+      "detail": "Vender un activo por encima de su valor contable genera una ganancia de capital y libera fondos para nuevas inversiones, lo que puede ser muy positivo para los accionistas. Este caso también ilustra cómo las empresas de logística en América Latina atraen capital institucional internacional, algo relevante para entender el mercado inmobiliario regional y cómo los fondos de inversión operan en países como Perú y México.",
+      "tags": [
+        "real estate",
+        "América Latina",
+        "inversión"
+      ],
+      "source_name": "Stock Titan",
+      "source_url": "https://www.stocktitan.net/sec-filings/LPA/6-k-logistic-properties-of-the-americas-current-report-foreign-issuer-fac023468fe9.html",
+      "published_at": "2026-09-30T20:14:28Z",
+      "fecha_evento": "2026-09-30",
+      "tickers": [
+        "LPA"
+      ]
+    },
+    {
+      "id": "charles-river-investor-day-2030",
+      "type": "empresa",
+      "title": "Charles River Laboratories reafirmó sus proyecciones 2026 y presentó metas hasta 2030",
+      "summary": "En su Investor Day del 24 de septiembre, Charles River Laboratories ratificó su guidance financiero para 2026 en el extremo superior de sus rangos anteriores y presentó objetivos de largo plazo para 2030, incluyendo crecimiento orgánico de ingresos y un margen operativo no-GAAP específico.",
+      "detail": "Un 'Investor Day' es un evento donde una empresa presenta su estrategia a inversores y analistas. Reafirmar el guidance en el extremo superior de la banda proyectada es una señal de confianza de la gerencia en el negocio. Las metas a 2030 dan un horizonte de largo plazo que permite evaluar si la empresa tiene un plan creíble de crecimiento sostenido, algo clave al analizar acciones como inversión de largo plazo.",
+      "tags": [
+        "guidance",
+        "biotecnología",
+        "largo plazo"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/charles-river-laboratories-stock-company-reaffirms-2026-guidance-and-sets/70206270",
+      "published_at": "2026-09-30T21:27:00Z",
+      "fecha_evento": "2026-09-24",
+      "tickers": [
+        "CRL"
+      ]
+    },
+    {
+      "id": "inogen-venta-oxigeno-rotech",
+      "type": "empresa",
+      "title": "Inogen venderá su negocio de alquiler de oxígeno en EE.UU. a Rotech por hasta USD 25 millones",
+      "summary": "Inogen anunció la venta de su división de alquiler de oxígeno domiciliario en Estados Unidos a Rotech Healthcare por hasta USD 25 millones en efectivo, con cierre esperado en el cuarto trimestre de 2026. Con la desinversión, la empresa busca concentrarse en innovación respiratoria y también amplió su programa de recompra de acciones a USD 45 millones.",
+      "detail": "Cuando una empresa vende una división de su negocio, se dice que hace una 'desinversión' o 'divestiture'. Esto puede ser positivo si le permite enfocarse en áreas más rentables o con mayor potencial de crecimiento. La ampliación del programa de recompra de acciones es otra señal de confianza de la empresa en sí misma: al recomprar sus propias acciones, reduce la cantidad en circulación y puede aumentar el valor de las restantes.",
+      "tags": [
+        "desinversión",
+        "salud",
+        "recompra de acciones"
+      ],
+      "source_name": "Investing.com UK",
+      "source_url": "https://uk.investing.com/news/stock-market-news/inogen-to-sell-us-oxygen-rental-business-to-rotech-for-25m-93CH-4890302",
+      "published_at": "2026-09-30T20:14:25Z",
+      "fecha_evento": "2026-09-30",
+      "tickers": [
+        "INGN"
       ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.545",
-      "valor_num": 1545.0,
-      "delta_pct": 0.0
+      "valor": "$1.540",
+      "valor_num": 1540.0,
+      "delta_pct": -0.32
     },
     {
       "label": "DÓLAR BLUE",
@@ -170,33 +171,33 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.557",
-      "valor_num": 1557.0,
-      "delta_pct": 0.03
+      "valor": "$1.549",
+      "valor_num": 1548.7,
+      "delta_pct": -0.5
     },
     {
       "label": "CCL",
-      "valor": "$1.617",
-      "valor_num": 1617.4,
-      "delta_pct": -0.14
+      "valor": "$1.614",
+      "valor_num": 1614.2,
+      "delta_pct": -0.33
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.816",
-      "valor_num": 83816.0,
-      "delta_pct": -0.61
+      "valor": "US$ 83.716",
+      "valor_num": 83716.0,
+      "delta_pct": 0.29
     },
     {
       "label": "S&P 500",
-      "valor": "7.671",
-      "valor_num": 7670.84,
-      "delta_pct": -1.21
+      "valor": "7.652",
+      "valor_num": 7651.54,
+      "delta_pct": -0.71
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.216",
-      "valor_num": 4216.3,
-      "delta_pct": -2.43
+      "valor": "US$ 4.189",
+      "valor_num": 4189.1,
+      "delta_pct": -3.06
     }
   ]
 }
