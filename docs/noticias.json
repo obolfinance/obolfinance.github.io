@@ -1,156 +1,157 @@
 {
-  "generated_at": "2026-09-29T22:01:08.642206+00:00",
+  "generated_at": "2026-09-30T12:01:06.026355+00:00",
   "items": [
     {
-      "id": "tesla-credit-30b",
+      "id": "lilly-retatrutide-triumph2",
       "type": "empresa",
-      "title": "Tesla aseguró USD 30.000 millones en líneas de crédito para robotaxis y expansión",
-      "summary": "Tesla cerró acuerdos de crédito por USD 30.000 millones, incluyendo un préstamo a término de USD 20.000 millones de desembolso diferido. El dinero apuntaría a financiar su fuerte plan de inversión en infraestructura y el desarrollo de su negocio de robotaxis.",
-      "detail": "Cuando una empresa necesita capital para crecer, puede emitir acciones (diluyendo a los accionistas) o endeudarse. Tesla eligió la deuda, lo que sugiere que confía en generar flujo de caja suficiente para repagar. El tamaño del crédito —USD 30.000 millones— es enorme y señala que la apuesta por los robotaxis requiere inversiones masivas en el corto plazo. Para inversores, esto implica más apalancamiento financiero, lo que puede amplificar tanto las ganancias como los riesgos.",
-      "tags": [
-        "deuda",
-        "robotaxis",
-        "inversión"
-      ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/autos-transportation/tesla-lines-up-30-billion-credit-lines-capex-robotaxi-push-accelerate-2026-09-29/",
-      "published_at": "2026-09-29T20:49:02Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "sp-upgrade-wells-fargo",
-      "type": "mercado",
-      "title": "S&P subió la calificación crediticia de Wells Fargo a A-",
-      "summary": "La agencia calificadora S&P Global mejoró la nota de crédito de Wells Fargo de BBB+ a A-, reconociendo las mejoras en su gestión de riesgos y gobierno corporativo. Esto ocurre después de que el banco central de EE.UU. (la Fed) levantara el tope de activos que pesaba sobre el banco.",
-      "detail": "Las calificaciones crediticias determinan a qué tasa puede endeudarse una empresa: mejor nota, menor costo financiero. Que S&P suba la nota de Wells Fargo implica que el mercado la considera menos riesgosa, lo que puede bajar sus costos de financiamiento y atraer más inversores institucionales. El levantamiento del límite de activos por parte de la Fed es clave: permitirá al banco crecer su balance y captar más clientes, algo que tenía vedado por años a raíz de escándalos previos.",
-      "tags": [
-        "calificación crediticia",
-        "bancos",
-        "riesgo"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/stock-market-news/sp-upgrades-wells-fargo-to-a-following-risk-management-overhauls-4923630",
-      "published_at": "2026-09-29T21:12:05Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "WFC"
-      ]
-    },
-    {
-      "id": "microsoft-openai-dots",
-      "type": "empresa",
-      "title": "Microsoft integra los agentes de IA autónomos de OpenAI en las empresas",
-      "summary": "Microsoft y OpenAI anunciaron la integración de los nuevos agentes de IA autónomos \"Dots\" —impulsados por GPT-6 Astra— dentro del ecosistema corporativo de Microsoft, incluyendo Teams y herramientas de seguridad. La idea es que las empresas puedan gestionar estos \"trabajadores de IA\" con los mismos controles que usan para sus empleados humanos.",
-      "detail": "La incorporación de agentes de IA autónomos al entorno empresarial representa un paso más allá del chatbot: estas herramientas pueden tomar decisiones y ejecutar tareas sin intervención humana constante. Para Microsoft, posicionarse como la capa de control y seguridad de estos agentes —sin importar quién los desarrolle— es una jugada estratégica enorme que puede consolidar su rol en el mercado corporativo. Esto tiene implicancias directas en valuaciones, ya que el mercado suele premiar a quienes controlan infraestructura clave.",
-      "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "empresas"
-      ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/markets/prediction-markets/26/09/62066468/microsoft-openai-dots-ai-workers-enterprise",
-      "published_at": "2026-09-29T20:33:26Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "ameriprise-buyback-55b",
-      "type": "empresa",
-      "title": "Ameriprise Financial autorizó recompra de acciones por USD 5.500 millones",
-      "summary": "El directorio de Ameriprise Financial aprobó un programa de recompra de acciones por USD 5.500 millones, vigente hasta septiembre de 2028, que se suma a unos USD 1.100 millones que quedaban de la autorización anterior.",
-      "detail": "Las recompras de acciones son una forma en que las empresas devuelven capital a sus accionistas: al comprar sus propias acciones en el mercado, reducen la cantidad en circulación y, si las ganancias se mantienen, el valor por acción sube. Un programa de este tamaño señala que la empresa considera que sus acciones están bien valuadas o subvaluadas, y que tiene confianza en su flujo de caja futuro. Es una señal que el mercado suele interpretar positivamente.",
-      "tags": [
-        "recompra de acciones",
-        "capital",
-        "dividendos"
-      ],
-      "source_name": "Investing.com Canada",
-      "source_url": "https://ca.investing.com/news/stock-market-news/ameriprise-financial-board-authorizes-55-billion-buyback-93CH-4858672",
-      "published_at": "2026-09-29T20:26:42Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "AMP"
-      ]
-    },
-    {
-      "id": "phillips66-teamsters-strike",
-      "type": "economia",
-      "title": "Trabajadores de la refinería Phillips 66 autorizaron una huelga con el 92% de los votos",
-      "summary": "El sindicato Teamsters Local 877 de la refinería Phillips 66 en Bayway votó con el 92% a favor de autorizar una huelga. Los 385 trabajadores reclaman mejores salarios, beneficios y condiciones laborales, y el acuerdo colectivo vence el 1° de octubre.",
-      "detail": "Las huelgas en refinerías pueden afectar la producción de combustible y, en consecuencia, los precios del petróleo refinado a nivel regional. Para quienes estudian finanzas, este tipo de conflictos laborales es un ejemplo de riesgo operativo que puede impactar en los resultados de una empresa y en el precio de sus acciones. Además, muestra cómo las negociaciones salariales en sectores estratégicos se relacionan con la inflación y los costos de producción.",
-      "tags": [
-        "huelga",
-        "energía",
-        "riesgo operativo"
-      ],
-      "source_name": "International Brotherhood of Teamsters",
-      "source_url": "https://teamster.org/2026/09/phillips-66-teamsters-overwhelmingly-authorize-strike/",
-      "published_at": "2026-09-29T20:35:03Z",
-      "fecha_evento": "2026-09-29",
-      "tickers": [
-        "PSX"
-      ]
-    },
-    {
-      "id": "bmy-liver-safety-admilparant",
-      "type": "empresa",
-      "title": "Bristol Myers Squibb detectó un problema de seguridad hepática en el ensayo de fase 3 de admilparant",
-      "summary": "Se identificó un posible problema de seguridad en el hígado dentro de los protocolos del ensayo clínico de fase 3 en Europa del fármaco admilparant de Bristol Myers Squibb, que se estudia para tratar la fibrosis pulmonar idiopática.",
-      "detail": "Los ensayos clínicos de fase 3 son la última etapa antes de que un medicamento pueda pedir aprobación regulatoria; un problema de seguridad en esta etapa puede retrasar o cancelar el lanzamiento del producto. Para las compañías farmacéuticas, estos eventos suelen impactar fuertemente en el precio de sus acciones porque afectan las proyecciones de ingresos futuros. Este tipo de noticias ilustra el riesgo específico de invertir en empresas del sector salud, donde un solo resultado de ensayo puede cambiar radicalmente la valuación.",
+      "title": "Eli Lilly presentó resultados prometedores de su nuevo fármaco para diabetes y obesidad",
+      "summary": "Eli Lilly anunció los resultados detallados del ensayo clínico de fase 3 de retatrutide, su droga experimental de triple acción hormonal. Los pacientes con diabetes tipo 2 y obesidad perdieron hasta un 20,8% de su peso en promedio en 80 semanas y redujeron significativamente sus niveles de azúcar en sangre.",
+      "detail": "Eli Lilly compite en el mercado de fármacos GLP-1 (para diabetes y obesidad) junto a Novo Nordisk, un segmento que viene siendo uno de los más calientes de la industria farmacéutica. Resultados tan fuertes en fase 3 suelen impactar positivamente en el precio de la acción porque acercan al fármaco a la aprobación regulatoria y a su comercialización. Para alguien que aprende finanzas, este caso muestra cómo los ensayos clínicos son catalizadores clave del valor de una empresa farmacéutica.",
       "tags": [
         "farmacéutica",
-        "ensayo clínico",
-        "riesgo"
+        "acciones",
+        "innovación"
       ],
-      "source_name": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com/news/4648211-potential-liver-safety-issue-seen-phase-3-trial-bristol-admilparant",
-      "published_at": "2026-09-29T20:42:54Z",
-      "fecha_evento": "2026-09-29",
+      "source_name": "Eli Lilly",
+      "source_url": "https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-substantial-weight",
+      "published_at": "2026-09-30T10:43:31Z",
+      "fecha_evento": "2026-09-30",
       "tickers": [
-        "BMY"
+        "LLY"
       ]
     },
     {
-      "id": "morgan-stanley-market-breadth",
+      "id": "ackman-netflix-reinversion",
+      "type": "discurso",
+      "title": "Bill Ackman volvió a invertir en Netflix y la llama un negocio extraordinario",
+      "summary": "El reconocido inversor Bill Ackman recompró acciones de Netflix a través de su fondo Pershing Square después de haberlas vendido en 2022. Ackman considera que Netflix ganó la guerra del streaming y que el precio bajó a niveles razonables a fines de 2025 y principios de 2026.",
+      "detail": "Bill Ackman es uno de los inversores activistas más seguidos del mundo, por lo que sus movimientos suelen influir en la percepción del mercado sobre una acción. Este caso ilustra el concepto de 'value investing': comprar cuando el precio cae a una valuación que el inversor considera atractiva. También muestra que hasta los grandes inversores venden y recompran las mismas acciones según cómo cambia el precio respecto al valor percibido.",
+      "tags": [
+        "inversión",
+        "streaming",
+        "value investing"
+      ],
+      "source_name": "TradingView",
+      "source_url": "https://www.tradingview.com/news/benzinga:764a0db38094b:0-bill-ackman-happy-to-be-back-in-netflix-stock-again-amazing-business-with-a-very-dominant-position/",
+      "published_at": "2026-09-30T10:41:16Z",
+      "fecha_evento": "2026-09-30",
+      "tickers": [
+        "NFLX",
+        "PS"
+      ]
+    },
+    {
+      "id": "moderna-coo-oncologia",
+      "type": "empresa",
+      "title": "Moderna crea el puesto de COO para apoyar su expansión en oncología",
+      "summary": "Moderna anunció la creación del cargo de Director de Operaciones (COO) y la incorporación de Juan Andres en ese rol a partir del 5 de octubre de 2026. La empresa busca apoyar su crecimiento más allá de las vacunas, avanzando en tratamientos contra el cáncer y nuevas enfermedades infecciosas.",
+      "detail": "Moderna se hizo conocida globalmente por su vacuna de ARN mensajero contra el COVID-19, pero desde entonces su cotización cayó fuertemente al desacelerarse esa demanda. La expansión hacia oncología es una apuesta estratégica para diversificar ingresos. La creación de un COO indica que la empresa está escalando operaciones, lo que es una señal que los inversores suelen leer como preparación para una nueva etapa de crecimiento.",
+      "tags": [
+        "farmacéutica",
+        "oncología",
+        "management"
+      ],
+      "source_name": "ACCESS Newswire",
+      "source_url": "https://www.accessnewswire.com/newsroom/en/healthcare-and-pharmaceutical/moderna-adds-chief-operating-officer-role-as-company-expands-into-onc-1228888",
+      "published_at": "2026-09-30T11:06:01Z",
+      "fecha_evento": "2026-09-30",
+      "tickers": [
+        "MRNA"
+      ]
+    },
+    {
+      "id": "stifel-generac-amazon-datacenters",
       "type": "mercado",
-      "title": "Morgan Stanley advierte que el mercado se está concentrando en las acciones de mayor calidad",
-      "summary": "Chris Toomey, de Morgan Stanley, señaló que el mercado accionario estadounidense está mostrando un «ancho» cada vez más reducido: menos acciones lideran las subas y los inversores se refugian en compañías de mayor calidad.",
-      "detail": "El \"ancho de mercado\" mide cuántas acciones participan de una tendencia alcista. Cuando sube solo un grupo pequeño de empresas de alta calidad y el resto se queda atrás, suele ser una señal de cautela: el rally puede ser frágil. Entender este concepto es clave para no confundir que \"el índice sube\" con que \"todas las acciones suben\". Para un inversor, diversificar en momentos de baja amplitud puede ser más importante que nunca.",
+      "title": "Stifel sube el precio objetivo de Generac por un acuerdo con Amazon y el boom de los data centers",
+      "summary": "El banco de inversión Stifel elevó su precio objetivo para Generac Holdings de $285 a $290, manteniendo una recomendación de compra. El impulso viene de un acuerdo reciente de Generac con Amazon y la acelerada expansión de data centers, que aumentan la demanda de sistemas de energía.",
+      "detail": "Generac es conocida por fabricar generadores eléctricos de respaldo para hogares y empresas. El crecimiento explosivo de los data centers —necesarios para la inteligencia artificial— requiere grandes volúmenes de energía confiable, lo que beneficia directamente a empresas como Generac. Este caso muestra cómo una tendencia macro (el auge de la IA) puede impulsar sectores inesperados como el de equipos energéticos industriales.",
       "tags": [
-        "mercado",
-        "calidad",
-        "diversificación"
+        "energía",
+        "data centers",
+        "analistas"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/video/2026/09/29/market-breadth-narrowing-into-higher-quality-names-says-morgan-stanleys-chris-toomey.html",
-      "published_at": "2026-09-29T20:41:58Z",
-      "fecha_evento": "2026-09-29",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/analyst-ratings/stifel-raises-generac-stock-price-target-on-amazon-deal-data-center-growth-93CH-4924593",
+      "published_at": "2026-09-30T10:36:52Z",
+      "fecha_evento": "2026-09-30",
       "tickers": [
-        "MS"
+        "GNRC"
       ]
     },
     {
-      "id": "kkr-resultados-q3-noviembre",
-      "type": "reunion",
-      "title": "KKR publicará sus resultados del tercer trimestre el 9 de noviembre",
-      "summary": "KKR & Co. anunció que dará a conocer sus resultados financieros del tercer trimestre de 2026 antes de la apertura de la bolsa el 9 de noviembre, seguido de una conferencia telefónica a las 10 a.m. ET.",
-      "detail": "KKR es uno de los mayores fondos de inversión alternativa del mundo, con exposición en private equity, infraestructura y seguros. Sus resultados son un termómetro del apetito global por activos alternativos y del costo del capital para adquisiciones. Seguir los reportes de este tipo de firmas ayuda a entender cómo fluye el dinero institucional a nivel global, algo relevante incluso para mercados emergentes como el argentino.",
+      "id": "scotiabank-nextera-pt",
+      "type": "mercado",
+      "title": "Scotiabank bajó su precio objetivo para NextEra Energy de $110 a $99",
+      "summary": "El banco canadiense Scotiabank redujo su precio objetivo para NextEra Energy, la mayor empresa de energías renovables de Estados Unidos, aunque mantuvo una calificación positiva ('Sector Outperform'). La acción sigue siendo recomendada pero con una valuación más conservadora.",
+      "detail": "NextEra Energy es considerada un referente del sector de energía limpia en EE.UU. Cuando un banco baja su precio objetivo sin cambiar la recomendación, está diciendo que la acción vale menos de lo que estimaba antes, pero sigue siendo atractiva. Para alguien que aprende finanzas, esto muestra la diferencia entre el 'precio objetivo' (lo que el analista cree que vale) y la 'recomendación' (si conviene comprar, mantener o vender).",
       "tags": [
-        "private equity",
-        "resultados",
-        "inversión alternativa"
+        "energía renovable",
+        "analistas",
+        "valuación"
       ],
-      "source_name": "Stock Titan",
-      "source_url": "https://www.stocktitan.net/news/KKR/kkr-co-inc-to-announce-third-quarter-2026-nbz1y2vq5bu7.html",
-      "published_at": "2026-09-29T20:17:35Z",
-      "fecha_evento": "2026-11-09",
+      "source_name": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com/news/scotiabank-adjusts-pt-on-nextera-energy-to-99-from-110-keeps-sector-outperform-rating-ce785ad2df8af220",
+      "published_at": "2026-09-30T10:15:14Z",
+      "fecha_evento": "2026-09-30",
       "tickers": [
-        "KKR"
+        "NEE"
+      ]
+    },
+    {
+      "id": "evercore-pepsico-pt-baja",
+      "type": "mercado",
+      "title": "Evercore e JPMorgan bajaron sus perspectivas sobre PepsiCo",
+      "summary": "Evercore ISI redujo su precio objetivo para PepsiCo de $150 a $135, mientras que JPMorgan directamente bajó su calificación a 'Neutral'. Ambos bancos mantienen una visión más cautelosa sobre la empresa de alimentos y bebidas.",
+      "detail": "Cuando dos firmas importantes ajustan a la baja sus proyecciones sobre una empresa grande como PepsiCo en simultáneo, suele reflejar preocupaciones sobre el crecimiento de sus ventas o presión en sus márgenes de ganancia. PepsiCo es un ejemplo clásico de acción 'defensiva', elegida por inversores que buscan estabilidad. Ver cómo los analistas cambian sus opiniones y por qué es un ejercicio clave para entender cómo funciona el mercado de renta variable.",
+      "tags": [
+        "consumo",
+        "analistas",
+        "calificaciones"
+      ],
+      "source_name": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com/news/evercore-isi-adjusts-price-target-on-pepsico-to-135-from-150-keeps-in-line-rating-ce785ad2df8df524",
+      "published_at": "2026-09-30T10:20:12Z",
+      "fecha_evento": "2026-09-30",
+      "tickers": [
+        "PEP"
+      ]
+    },
+    {
+      "id": "prudential-rebrand-wealth",
+      "type": "empresa",
+      "title": "Prudential Financial relanzó su negocio de asesoramiento como 'Prudential Wealth Advisors'",
+      "summary": "Prudential Financial cambió el nombre de su división de asesoramiento financiero en EE.UU. a Prudential Wealth Advisors, reflejando una expansión hacia servicios de gestión integral de patrimonio. Los activos bajo gestión de esa unidad crecieron más del 60% en menos de tres años, llegando a $44.000 millones.",
+      "detail": "El cambio de marca no es solo cosmético: indica que Prudential está apuntando a captar clientes con más patrimonio y ofrecer servicios más completos más allá del seguro de vida. El crecimiento del 60% en activos bajo gestión en menos de tres años es una señal de que la estrategia viene funcionando. Para quien aprende finanzas, este caso muestra cómo las grandes compañías de seguros compiten con bancos y gestoras de fondos en el negocio de la gestión de patrimonio.",
+      "tags": [
+        "gestión de patrimonio",
+        "seguros",
+        "activos"
+      ],
+      "source_name": "Coverager",
+      "source_url": "https://coverager.com/prudential-advisors-rebrands-as-prudential-wealth-advisors/",
+      "published_at": "2026-09-30T11:07:31Z",
+      "fecha_evento": "2026-09-30",
+      "tickers": [
+        "PRU"
+      ]
+    },
+    {
+      "id": "avalanche-treasury-venta-avax",
+      "type": "empresa",
+      "title": "Avalanche Treasury vendió más de 2 millones de tokens AVAX por $15 millones para reducir deuda",
+      "summary": "Avalanche Treasury Corporation completó el 23 de septiembre de 2026 la venta de más de 2 millones de tokens AVAX en tres tramos, obteniendo $15 millones. El objetivo fue reducir deuda y cubrir gastos operativos generales.",
+      "detail": "Este tipo de operación muestra cómo las empresas vinculadas a criptomonedas pueden usar sus propios tokens como activo para financiarse, similar a cómo una empresa tradicional emite acciones o vende activos para obtener liquidez. La venta de grandes volúmenes de un token puede generar presión bajista en su precio de mercado. Es un ejemplo concreto de la relación entre las decisiones corporativas y el precio de los activos digitales.",
+      "tags": [
+        "cripto",
+        "AVAX",
+        "liquidez"
+      ],
+      "source_name": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com/us/news/announcements/avalanche-treasury-sells-over-2-million-avax-tokens-for-15-million-in-three-tranche-deal",
+      "published_at": "2026-09-30T10:57:35Z",
+      "fecha_evento": "2026-09-23",
+      "tickers": [
+        "AVAT"
       ]
     }
   ],
@@ -165,19 +166,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.560",
       "valor_num": 1560.0,
-      "delta_pct": 0.0
+      "delta_pct": -0.32
     },
     {
       "label": "MEP",
       "valor": "$1.557",
       "valor_num": 1557.0,
-      "delta_pct": -0.02
+      "delta_pct": 0.03
     },
     {
       "label": "CCL",
       "valor": "$1.617",
       "valor_num": 1617.4,
-      "delta_pct": 0.05
+      "delta_pct": -0.14
+    },
+    {
+      "label": "BITCOIN",
+      "valor": "US$ 83.816",
+      "valor_num": 83816.0,
+      "delta_pct": -0.61
     },
     {
       "label": "S&P 500",
@@ -187,9 +194,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.215",
-      "valor_num": 4215.0,
-      "delta_pct": -1.93
+      "valor": "US$ 4.216",
+      "valor_num": 4216.3,
+      "delta_pct": -2.43
     }
   ]
 }
