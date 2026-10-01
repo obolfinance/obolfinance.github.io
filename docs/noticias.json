@@ -1,203 +1,199 @@
 {
-  "generated_at": "2026-09-30T22:01:04.926786+00:00",
+  "generated_at": "2026-10-01T22:01:18.756742+00:00",
   "items": [
     {
-      "id": "lululemon-wilson-board-delay",
-      "type": "empresa",
-      "title": "Lululemon y su fundador no se ponen de acuerdo para renovar el directorio",
-      "summary": "Lululemon y su fundador Chip Wilson extendieron el plazo para nombrar un nuevo miembro del directorio, que vencía el 1° de octubre. La demora llega en un momento complicado: las acciones de la empresa perdieron más de la mitad de su valor en lo que va del año, en parte por la caída en la demanda de ropa deportiva athleisure.",
-      "detail": "El gobierno corporativo (quién toma decisiones en una empresa) importa mucho para los inversores. Cuando un fundador con mucho poder y la empresa no se ponen de acuerdo en algo tan básico como elegir un director, es una señal de tensión interna que puede afectar la estrategia. Además, la caída del 50% en el precio de la acción muestra cómo los cambios en los gustos del consumidor pueden golpear duramente a empresas que dependen de una sola tendencia de moda.",
+      "id": "googl-drop-160b",
+      "type": "mercado",
+      "title": "Google perdió USD 160.000 millones de valor en una sola sesión",
+      "summary": "Las acciones de Google (GOOGL) cayeron casi un 4% en el after-hours, borrando unos USD 160.000 millones de capitalización bursátil en una sola jornada. Los inversores siguen de cerca si el precio va a estabilizarse o continuar bajando en la próxima rueda regular.",
+      "detail": "Una caída del 4% en una empresa del tamaño de Google es un movimiento inusual y llama la atención del mercado global. La capitalización bursátil mide cuánto vale una empresa según su precio de acción multiplicado por la cantidad de acciones; cuando esa cifra baja USD 160.000 millones en horas, muestra cuán rápido puede destruirse valor en los mercados. Para quien aprende finanzas, este caso ilustra el concepto de volatilidad y por qué el after-hours —la negociación fuera del horario habitual— puede generar movimientos bruscos con menos volumen de operaciones.",
       "tags": [
-        "gobierno corporativo",
+        "tecnología",
         "acciones",
+        "volatilidad"
+      ],
+      "source_name": "24/7 Wall St.",
+      "source_url": "https://247wallst.com/cards/google-googl-price-swing-01m3wmbtyeqrrtrp1yw9b840pd",
+      "published_at": "2026-10-01T21:04:00Z",
+      "fecha_evento": "2026-10-01",
+      "tickers": [
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "cop-venture-global-lng",
+      "type": "empresa",
+      "title": "ConocoPhillips firmó un acuerdo de GNL por 20 años con Venture Global",
+      "summary": "ConocoPhillips y Venture Global cerraron un contrato de suministro de gas natural licuado (GNL) por 20 años: ConocoPhillips comprará 1 millón de toneladas anuales a partir de 2030. La noticia impulsó las acciones de Venture Global un 3%.",
+      "detail": "Los acuerdos de largo plazo en energía son clave para entender cómo las empresas se aseguran ingresos futuros y reducen la incertidumbre. Para ConocoPhillips, este contrato diversifica su cartera energética en un contexto donde conflictos geopolíticos afectan otras fuentes de GNL. Para Venture Global, significa ingresos garantizados durante dos décadas, lo que da previsibilidad a su negocio y puede facilitar financiamiento. Este tipo de contratos también muestra cómo la demanda global de energía moldea acuerdos de enorme escala.",
+      "tags": [
+        "energía",
+        "GNL",
+        "contratos"
+      ],
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/stock-market-news/venture-global-jumps-on-conocophillips-lng-supply-deal-4928481",
+      "published_at": "2026-10-01T21:11:09Z",
+      "fecha_evento": "2026-10-01",
+      "tickers": [
+        "COP"
+      ]
+    },
+    {
+      "id": "berkshire-buffett-chairman-emeritus",
+      "type": "empresa",
+      "title": "Berkshire Hathaway nombró a Warren Buffett presidente emérito y formalizó su sucesión",
+      "summary": "Berkshire Hathaway designó a Warren Buffett como presidente emérito, con Howard G. Buffett asumiendo como presidente del directorio y Greg Abel continuando como CEO. La empresa también reportó un alza del 16% en sus ganancias operativas del segundo trimestre de 2026.",
+      "detail": "La sucesión en una de las empresas más emblemáticas del mundo es una noticia de peso para cualquier persona que aprende finanzas: muestra cómo las grandes compañías planifican la transición de liderazgo para no afectar la confianza del mercado. Warren Buffett es considerado el inversor más influyente de la historia, y su figura estuvo ligada al valor de Berkshire durante décadas. Este cambio también ilustra el concepto de riesgo de persona clave: cuando el valor de una empresa depende mucho de un individuo, su salida puede impactar al mercado.",
+      "tags": [
+        "sucesión",
+        "liderazgo",
+        "Buffett"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/berkshire-hathaway-names-buffett-chairman-emeritus-berkshire-hathaway/70209283",
+      "published_at": "2026-10-01T20:28:03Z",
+      "fecha_evento": "2026-10-01",
+      "tickers": [
+        "BRK-A"
+      ]
+    },
+    {
+      "id": "morgan-stanley-yields-growth",
+      "type": "discurso",
+      "title": "Morgan Stanley: la suba de tasas de los bonos refleja mejores perspectivas de crecimiento",
+      "summary": "Daniel Skelly, directivo de Morgan Stanley Wealth Management, dijo en CNBC que el aumento en los rendimientos de los bonos es una señal de mejores expectativas de crecimiento económico, no necesariamente algo negativo para los mercados.",
+      "detail": "Cuando los rendimientos (yields) de los bonos suben, muchos inversores lo interpretan como una señal de alarma porque encarece el crédito y puede presionar a las acciones. Sin embargo, Skelly ofrece otra lectura: si las tasas suben porque la economía crece más fuerte, eso puede ser positivo. Esta distinción es fundamental en finanzas: el mismo dato puede tener interpretaciones muy distintas según el contexto. Para alguien que aprende, entender por qué suben los yields —¿inflación o crecimiento?— es clave para leer el mercado correctamente.",
+      "tags": [
+        "bonos",
+        "tasas",
+        "crecimiento"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/video/2026/10/01/rising-yields-are-reflecting-better-growth-says-morgan-stanleys-daniel-skelly.html",
+      "published_at": "2026-10-01T20:56:40Z",
+      "fecha_evento": "2026-10-01",
+      "tickers": [
+        "MS"
+      ]
+    },
+    {
+      "id": "mcdonalds-media-network",
+      "type": "empresa",
+      "title": "McDonald's lanzó su propia red de publicidad y empieza a vender avisos en los drive-thru",
+      "summary": "McDonald's anunció el lanzamiento de su red publicitaria propia, vendiendo espacios en las pantallas digitales de sus locales —incluyendo los tableros de pedidos del drive-thru— con el objetivo de que el negocio valga USD 1.000 millones. La iniciativa aprovecha la infraestructura existente para generar ingresos adicionales.",
+      "detail": "Las grandes cadenas de consumo masivo están desarrollando sus propios negocios de publicidad digital, siguiendo el camino de Amazon y Walmart. Esto se llama 'retail media' y consiste en monetizar los datos y las pantallas que ya tienen frente a millones de clientes. Para McDonald's, es una forma de diversificar ingresos sin grandes inversiones nuevas. Este movimiento muestra cómo las empresas buscan nuevas fuentes de rentabilidad más allá de su negocio principal, algo que los inversores valoran al analizar el potencial de crecimiento a largo plazo.",
+      "tags": [
+        "publicidad",
+        "diversificación",
         "consumo"
       ],
-      "source_name": "Financial Post",
-      "source_url": "https://business.financialpost.com/news/retail-marketing/lululemon-chip-wilson-delaying-naming-new-board-member",
-      "published_at": "2026-09-30T20:47:07Z",
-      "fecha_evento": "2026-09-30",
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/media-advertising/articles/mcdonald-mcd-launches-media-network-202945306.html",
+      "published_at": "2026-10-01T20:30:03Z",
+      "fecha_evento": "2026-10-01",
       "tickers": [
-        "LULU"
+        "MCD"
       ]
     },
     {
-      "id": "vici-properties-52-week-low",
-      "type": "mercado",
-      "title": "Vici Properties toca su mínimo en 52 semanas con una caída del 30%",
-      "summary": "Las acciones de Vici Properties (VICI), un fondo de inversión inmobiliaria (REIT) especializado en casinos y entretenimiento, cayeron a su nivel más bajo en un año: USD 22,95, con una baja del 30% en los últimos doce meses. A pesar de la caída, analistas señalan que la acción luce barata con un ratio P/E de 8,94 y un dividendo del 7,93%.",
-      "detail": "Los REITs son empresas que invierten en propiedades y distribuyen la mayoría de sus ganancias como dividendos. Cuando las tasas de interés suben, los REITs suelen caer porque los inversores prefieren bonos que ofrecen rendimientos similares con menos riesgo. Un dividendo alto como el de VICI puede ser atractivo, pero también puede ser una señal de que el mercado desconfía de la sostenibilidad del negocio. Este caso ilustra la tensión entre valuación baja y riesgo sectorial.",
-      "tags": [
-        "REIT",
-        "dividendos",
-        "tasas de interés"
-      ],
-      "source_name": "Investing.com UK",
-      "source_url": "https://uk.investing.com/news/stock-market-news/vici-properties-stock-hits-52week-low-at-2295-93CH-4890247",
-      "published_at": "2026-09-30T20:48:05Z",
-      "fecha_evento": "2026-09-30",
-      "tickers": [
-        "VICI"
-      ]
-    },
-    {
-      "id": "netapp-novus-ai-architecture",
+      "id": "federal-realty-summit-508m",
       "type": "empresa",
-      "title": "NetApp lanzó una nueva arquitectura para potenciar cargas de trabajo de inteligencia artificial a gran escala",
-      "summary": "NetApp presentó Novus, una arquitectura de datos diseñada para maximizar el uso de GPUs en proyectos de inteligencia artificial a escala masiva. El CEO George Kurian afirmó que la solución resuelve el problema de que los sistemas de almacenamiento tradicionales no pueden seguir el ritmo de los procesadores de IA modernos.",
-      "detail": "Las GPUs son los chips que procesan los cálculos de inteligencia artificial, y su tiempo es muy caro. Si el sistema de almacenamiento de datos es lento, la GPU queda ociosa y se desperdicia dinero. NetApp apunta a resolver ese cuello de botella, lo que muestra cómo las empresas de infraestructura tecnológica compiten por capturar valor en el boom de la IA, más allá de Nvidia que fabrica los chips.",
-      "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "infraestructura"
-      ],
-      "source_name": "CRN",
-      "source_url": "https://www.crn.com/news/ai/2026/netapp-ceo-george-kurian-we-are-light-years-ahead-of-everybody-else-in-cloud-ai",
-      "published_at": "2026-09-30T20:28:58Z",
-      "fecha_evento": "2026-09-30",
-      "tickers": [
-        "NTAP",
-        "NVDA",
-        "ORCL"
-      ]
-    },
-    {
-      "id": "cvs-health-dividendo-trimestral",
-      "type": "empresa",
-      "title": "CVS Health confirmó su dividendo trimestral de USD 0,665 por acción",
-      "summary": "El directorio de CVS Health aprobó un dividendo trimestral de USD 0,665 por acción, pagadero el 2 de noviembre de 2026 a los accionistas registrados al 22 de octubre. CVS es una de las principales empresas de salud y farmacias minoristas de Estados Unidos.",
-      "detail": "Los dividendos son pagos regulares que las empresas hacen a sus accionistas como forma de distribuir ganancias. Cuando una empresa mantiene su dividendo estable, es una señal de que confía en la solidez de su flujo de caja. Para quienes aprenden a invertir, los dividendos son una forma concreta de entender cómo las acciones generan ingresos pasivos, más allá de la suba del precio.",
-      "tags": [
-        "dividendos",
-        "acciones",
-        "salud"
-      ],
-      "source_name": "PR Newswire",
-      "source_url": "https://www.prnewswire.com/news-releases/cvs-health-declares-quarterly-dividend-302894998.html",
-      "published_at": "2026-09-30T20:26:15Z",
-      "fecha_evento": "2026-09-30",
-      "tickers": [
-        "CVS"
-      ]
-    },
-    {
-      "id": "rockwell-automation-guidance-q3",
-      "type": "empresa",
-      "title": "Rockwell Automation subió su guidance 2026 después de crecer 8% en ventas en el tercer trimestre",
-      "summary": "Rockwell Automation reportó ventas de USD 2.313 millones en su tercer trimestre fiscal, un alza del 8%, con una ganancia ajustada por acción de USD 3,49. Con esos resultados, la empresa elevó sus proyecciones de ventas y ganancias para todo el año 2026.",
-      "detail": "Cuando una empresa sube su 'guidance' (proyección oficial de resultados futuros), suele ser una señal positiva para el mercado porque indica que el negocio va mejor de lo esperado. Sin embargo, en este caso los analistas de Deutsche Bank subieron su precio objetivo mientras Goldman Sachs lo bajó, lo que muestra que incluso con buenas noticias puede haber visiones opuestas sobre si la acción ya está cara o barata.",
-      "tags": [
-        "resultados trimestrales",
-        "manufactura",
-        "guidance"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/rockwell-automation-stock-raises-2026-guidance-after-q3-growth/70206512",
-      "published_at": "2026-09-30T20:16:26Z",
-      "fecha_evento": "2026-09-30",
-      "tickers": [
-        "ROK"
-      ]
-    },
-    {
-      "id": "logistic-properties-peru-sale",
-      "type": "empresa",
-      "title": "Logistic Properties of the Americas vendió un parque logístico en Perú por USD 145 millones",
-      "summary": "Logistic Properties of the Americas (LPA) cerró la venta de su Parque Logístico Lima Sur en Perú por USD 145 millones, un precio casi 20% por encima de su valor contable. La empresa planea reinvertir los fondos en su cartera de proyectos en México y seguirá administrando el parque para el comprador.",
-      "detail": "Vender un activo por encima de su valor contable genera una ganancia de capital y libera fondos para nuevas inversiones, lo que puede ser muy positivo para los accionistas. Este caso también ilustra cómo las empresas de logística en América Latina atraen capital institucional internacional, algo relevante para entender el mercado inmobiliario regional y cómo los fondos de inversión operan en países como Perú y México.",
+      "title": "Federal Realty compró un shopping en Alabama por USD 508 millones",
+      "summary": "Federal Realty Investment Trust adquirió The Summit, el centro comercial más visitado de Alabama, por USD 508 millones. El complejo de 870.000 metros cuadrados tiene más de 110 inquilinos y recibe casi 9 millones de visitas anuales.",
+      "detail": "Esta operación es un ejemplo de adquisición en el sector de real estate comercial (REITs). Los REITs son fondos que invierten en propiedades y distribuyen ganancias a sus accionistas; sus métricas clave no son las ganancias netas tradicionales sino el FFO (Funds From Operations), que mide el flujo de caja generado por los inmuebles. Federal Realty espera que esta compra sea 'accretiva' al FFO, es decir, que sume valor por acción desde el primer momento. Para quien aprende finanzas, este caso ilustra cómo se valúan y financian grandes transacciones inmobiliarias.",
       "tags": [
         "real estate",
-        "América Latina",
-        "inversión"
+        "REIT",
+        "adquisición"
       ],
-      "source_name": "Stock Titan",
-      "source_url": "https://www.stocktitan.net/sec-filings/LPA/6-k-logistic-properties-of-the-americas-current-report-foreign-issuer-fac023468fe9.html",
-      "published_at": "2026-09-30T20:14:28Z",
-      "fecha_evento": "2026-09-30",
+      "source_name": "PR Newswire",
+      "source_url": "https://www.prnewswire.com/news-releases/federal-realty-acquires-the-summit-alabamas-premier-retail-destination-302896582.html",
+      "published_at": "2026-10-01T20:35:40Z",
+      "fecha_evento": "2026-10-01",
       "tickers": [
-        "LPA"
+        "FRT"
       ]
     },
     {
-      "id": "charles-river-investor-day-2030",
-      "type": "empresa",
-      "title": "Charles River Laboratories reafirmó sus proyecciones 2026 y presentó metas hasta 2030",
-      "summary": "En su Investor Day del 24 de septiembre, Charles River Laboratories ratificó su guidance financiero para 2026 en el extremo superior de sus rangos anteriores y presentó objetivos de largo plazo para 2030, incluyendo crecimiento orgánico de ingresos y un margen operativo no-GAAP específico.",
-      "detail": "Un 'Investor Day' es un evento donde una empresa presenta su estrategia a inversores y analistas. Reafirmar el guidance en el extremo superior de la banda proyectada es una señal de confianza de la gerencia en el negocio. Las metas a 2030 dan un horizonte de largo plazo que permite evaluar si la empresa tiene un plan creíble de crecimiento sostenido, algo clave al analizar acciones como inversión de largo plazo.",
+      "id": "september-2026-market-recap",
+      "type": "mercado",
+      "title": "Los mercados globales cerraron septiembre mayormente en rojo por inflación y tasas altas",
+      "summary": "Según un reporte de CBIZ, los mercados globales tuvieron retornos mayormente negativos en septiembre de 2026, afectados por preocupaciones inflacionarias y tasas de interés altas. La excepción fueron las acciones de crecimiento de gran capitalización en EE.UU.; las acciones de pequeñas empresas, los mercados internacionales y los bonos cayeron.",
+      "detail": "Septiembre suele ser históricamente un mes difícil para los mercados, y este año el combo de inflación persistente con tasas altas volvió a golpear. Cuando las tasas suben, los bonos existentes pierden valor y las acciones —especialmente las de empresas chicas o de mercados emergentes— se ven presionadas porque el costo de financiarse aumenta. Para alguien en Argentina, esto es relevante: un mundo con tasas altas en dólares suele implicar salida de capitales de mercados emergentes y presión sobre monedas locales.",
       "tags": [
-        "guidance",
-        "biotecnología",
-        "largo plazo"
+        "mercados globales",
+        "tasas",
+        "inflación"
       ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/charles-river-laboratories-stock-company-reaffirms-2026-guidance-and-sets/70206270",
-      "published_at": "2026-09-30T21:27:00Z",
-      "fecha_evento": "2026-09-24",
-      "tickers": [
-        "CRL"
-      ]
+      "source_name": "CBIZ",
+      "source_url": "https://www.cbiz.com/insights/report/september-2026-recap-on-the-margin",
+      "published_at": "2026-10-01T20:38:06Z",
+      "fecha_evento": "2026-09-30",
+      "tickers": []
     },
     {
-      "id": "inogen-venta-oxigeno-rotech",
-      "type": "empresa",
-      "title": "Inogen venderá su negocio de alquiler de oxígeno en EE.UU. a Rotech por hasta USD 25 millones",
-      "summary": "Inogen anunció la venta de su división de alquiler de oxígeno domiciliario en Estados Unidos a Rotech Healthcare por hasta USD 25 millones en efectivo, con cierre esperado en el cuarto trimestre de 2026. Con la desinversión, la empresa busca concentrarse en innovación respiratoria y también amplió su programa de recompra de acciones a USD 45 millones.",
-      "detail": "Cuando una empresa vende una división de su negocio, se dice que hace una 'desinversión' o 'divestiture'. Esto puede ser positivo si le permite enfocarse en áreas más rentables o con mayor potencial de crecimiento. La ampliación del programa de recompra de acciones es otra señal de confianza de la empresa en sí misma: al recomprar sus propias acciones, reduce la cantidad en circulación y puede aumentar el valor de las restantes.",
+      "id": "first-solar-put-options",
+      "type": "mercado",
+      "title": "First Solar cae a mínimos de 12 meses y los inversores apuestan a que seguirá bajando",
+      "summary": "Las acciones de First Solar (FSLR) bajaron a USD 172,11, cerca de su mínimo de los últimos 12 meses, en medio de mayores rendimientos de bonos y revisiones a la baja en las estimaciones de ganancias. Se detectó una inusual compra de opciones put, lo que indica que muchos inversores esperan que el precio siga cayendo.",
+      "detail": "Las opciones put son contratos que dan el derecho de vender un activo a un precio determinado; cuando muchos inversores las compran, es señal de que anticipan caídas o quieren cubrirse ante ellas. Este movimiento en First Solar —empresa de paneles solares— muestra cómo factores macroeconómicos como la suba de tasas impactan incluso a sectores de energía renovable que dependen de financiamiento barato para crecer. Para quien aprende finanzas, es un buen ejemplo de cómo leer el mercado de opciones como termómetro del sentimiento inversor.",
       "tags": [
-        "desinversión",
-        "salud",
-        "recompra de acciones"
+        "opciones",
+        "energía solar",
+        "sentimiento"
       ],
-      "source_name": "Investing.com UK",
-      "source_url": "https://uk.investing.com/news/stock-market-news/inogen-to-sell-us-oxygen-rental-business-to-rotech-for-25m-93CH-4890302",
-      "published_at": "2026-09-30T20:14:25Z",
-      "fecha_evento": "2026-09-30",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/options-first-solar-nasdaq-fslr-stock-sees-heavy-put-option-buying-2026-10-01/",
+      "published_at": "2026-10-01T20:46:00Z",
+      "fecha_evento": "2026-10-01",
       "tickers": [
-        "INGN"
+        "FSLR"
       ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.540",
-      "valor_num": 1540.0,
-      "delta_pct": -0.32
+      "valor": "$1.545",
+      "valor_num": 1545.0,
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.560",
-      "valor_num": 1560.0,
+      "valor": "$1.555",
+      "valor_num": 1555.0,
       "delta_pct": -0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.549",
-      "valor_num": 1548.7,
-      "delta_pct": -0.5
+      "valor": "$1.556",
+      "valor_num": 1556.0,
+      "delta_pct": -0.06
     },
     {
       "label": "CCL",
-      "valor": "$1.614",
-      "valor_num": 1614.2,
-      "delta_pct": -0.33
+      "valor": "$1.625",
+      "valor_num": 1624.8,
+      "delta_pct": 0.46
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.716",
-      "valor_num": 83716.0,
-      "delta_pct": 0.29
+      "valor": "US$ 84.529",
+      "valor_num": 84529.0,
+      "delta_pct": 0.96
     },
     {
       "label": "S&P 500",
-      "valor": "7.652",
-      "valor_num": 7651.54,
-      "delta_pct": -0.71
+      "valor": "7.666",
+      "valor_num": 7666.45,
+      "delta_pct": -0.49
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.189",
-      "valor_num": 4189.1,
-      "delta_pct": -3.06
+      "valor": "US$ 4.208",
+      "valor_num": 4207.8,
+      "delta_pct": 0.95
     }
   ]
 }
