@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "interes-compuesto-y-el-tiempo",
+      "titulo": "Interés compuesto: por qué el tiempo pesa más que el monto",
+      "bajada": "El interés compuesto no es magia: es una suma que se repite. Te explicamos cómo funciona, por qué el plazo manda y cuándo juega en contra.",
+      "categoria": "Inversión",
+      "mundo": "inversion",
+      "fecha": "2026-10-02"
+    },
+    {
       "slug": "plazo-fijo-tasa-real-negativa-mecanismo",
       "titulo": "Plazo fijo al 23% con inflación al 33,5%: qué te está pasando",
       "bajada": "La tasa que te muestra el banco es nominal. La que te importa es la real. Te explico la diferencia con números y sin fórmulas raras.",
