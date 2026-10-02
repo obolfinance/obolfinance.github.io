@@ -1,220 +1,225 @@
 {
-  "generated_at": "2026-10-02T12:01:42.926914+00:00",
+  "generated_at": "2026-10-02T22:01:26.549709+00:00",
   "items": [
     {
-      "id": "rtx-raytheon-sm6-contract",
+      "id": "amazon-ai-chips-spv-2026",
       "type": "empresa",
-      "title": "La Marina de EE.UU. le dio a Raytheon un contrato de USD 24.400 millones para misiles",
-      "summary": "La Marina de EE.UU. adjudicó a Raytheon (parte de RTX) un contrato de hasta USD 24.400 millones para producir misiles interceptores Standard Missile-6, con el objetivo de reponer reservas agotadas. Es parte de un esfuerzo más amplio del Pentágono para acelerar la producción de municiones. Igualmente, ejecutivos de la industria advierten que la falta de fondos aprobados por el Congreso puede frenar las inversiones necesarias.",
-      "detail": "Los contratos de defensa de esta escala son señales clave del gasto público militar de EE.UU. Para quien aprende finanzas, importa entender que estos contratos garantizan ingresos predecibles para empresas como RTX durante años, lo que reduce su riesgo como inversión. También ilustra cómo las decisiones del gobierno (política fiscal y de defensa) impactan directamente en el valor de acciones del sector. La mención de fondos no apropiados por el Congreso muestra que un contrato firmado no siempre garantiza el flujo de caja inmediato.",
+      "title": "Amazon planea vender u$s8.000M en chips de IA y alquilarlos de vuelta",
+      "summary": "Amazon estaría por transferir unos 8.000 millones de dólares en chips de IA Grace Blackwell a un vehículo de inversión especial (SPV) y luego arrendar esos mismos chips. La maniobra sacaría esa deuda de su balance, mejorando su ratio deuda/patrimonio y su calificación crediticia.",
+      "detail": "Esta operación se llama 'sale-leaseback' y es una herramienta financiera clásica: vendés un activo para mejorar tus métricas de balance, pero seguís usándolo pagando un alquiler. En el mundo tech es novedoso porque aplica esa lógica a chips de IA, un activo que antes era puramente operativo. Para quien aprende finanzas, muestra cómo las grandes empresas gestionan activamente su estructura de capital, no solo su negocio. También muestra el rol de los inversores externos que compran deuda y equity del SPV buscando rendimiento.",
       "tags": [
-        "defensa",
-        "gasto público",
-        "contratos"
+        "tecnología",
+        "balance",
+        "inteligencia artificial"
       ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/aerospace-defense/us-navy-awards-rtxs-raytheon-244-billion-contract-standard-missile-6-amid-2026-10-01/",
-      "published_at": "2026-10-02T11:14:18Z",
-      "fecha_evento": "2026-10-01",
-      "tickers": [
-        "RTX"
-      ]
-    },
-    {
-      "id": "walmart-precios-digitales",
-      "type": "discurso",
-      "title": "El CEO de Walmart prometió no usar precios dinámicos según el perfil del cliente",
-      "summary": "El CEO de Walmart, John Furner, se comprometió públicamente a no usar tecnología de precios digitales para cobrarle más a cada cliente según sus ingresos, historial de compras o algoritmos. La compañía mantendrá su estrategia de \"Precios Bajos Todos los Días\", garantizando el mismo precio para todos en una misma tienda. El tema está bajo la lupa de reguladores preocupados por la llamada \"surveillance pricing\".",
-      "detail": "Los precios dinámicos o personalizados son una práctica donde las empresas ajustan lo que cobran según datos del comprador, algo tecnológicamente posible con etiquetas digitales. Este caso muestra cómo las grandes empresas enfrentan presión regulatoria y de consumidores sobre el uso de datos. Para alguien que aprende finanzas, es un ejemplo de cómo decisiones estratégicas de una empresa pueden afectar su reputación y relación con reguladores, con impacto potencial en su acción. Walmart es una de las mayores empresas del mundo por capitalización bursátil, así que sus declaraciones mueven mercados.",
-      "tags": [
-        "retail",
-        "regulación",
-        "precios"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/economy/policy/articles/won-t-walmart-ceo-vows-104500738.html",
-      "published_at": "2026-10-02T11:10:25Z",
+      "source_name": "SiliconANGLE",
+      "source_url": "https://siliconangle.com/2026/10/02/report-amazon-to-offload-8b-worth-of-ai-chips-lease-them-back/",
+      "published_at": "2026-10-02T20:29:16Z",
       "fecha_evento": "2026-10-02",
       "tickers": [
-        "WMT"
+        "AMZN",
+        "NVDA"
       ]
     },
     {
-      "id": "ai-wall-street-demanda-skills",
-      "type": "economia",
-      "title": "La demanda de habilidades de IA en bancos de Wall Street creció un 1.721% este año",
-      "summary": "Los bancos más grandes de EE.UU., como JPMorgan, Citigroup y Capital One, aumentaron sus ofertas laborales de IA un 49% este año, con un salto del 1.721% en la búsqueda de especialistas en \"orquestación de agentes\" de IA. Estos roles combinan conocimiento técnico con dominio financiero y habilidades blandas, y pagan sueldos medios de alrededor de USD 190.000 para gerentes. Ante la dificultad de contratar externamente, los bancos también invierten en reentrenar a sus propios empleados.",
-      "detail": "La adopción masiva de agentes de IA en finanzas marca un salto cualitativo: ya no se trata de chatbots simples sino de sistemas que ejecutan tareas complejas dentro de operaciones bancarias. Esto redefine qué habilidades son valiosas en el mercado laboral financiero, un dato clave para quienes estudian finanzas hoy. También muestra cómo la tecnología presiona a las instituciones financieras a transformarse, con impacto en sus costos, eficiencia y competitividad. Para inversores, entender esta tendencia ayuda a anticipar qué empresas y sectores pueden ganar o perder relevancia.",
-      "tags": [
-        "inteligencia artificial",
-        "banca",
-        "empleo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/02/ai-skills-most-in-demand-at-jpmorgan-chase-citigroup-capital-one.html",
-      "published_at": "2026-10-02T11:02:19Z",
-      "fecha_evento": "2026-10-02",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "id": "fox-roku-doj-revision",
+      "id": "transdigm-adquisicion-prince-izant",
       "type": "empresa",
-      "title": "La adquisición de Roku por Fox enfrenta una revisión extendida del Departamento de Justicia de EE.UU.",
-      "summary": "El Departamento de Justicia de EE.UU. extendió por 30 días su revisión regulatoria sobre la propuesta compra de Roku por parte de Fox Corp. A pesar de eso, Fox todavía espera cerrar la operación en la primera mitad de 2027. La empresa reportó ingresos de más de USD 17.000 millones en el año fiscal 2026, un crecimiento del 5%.",
-      "detail": "Las fusiones y adquisiciones entre empresas grandes requieren aprobación regulatoria, y el escrutinio del Departamento de Justicia puede demorar o incluso bloquear una operación. Este caso muestra cómo el riesgo regulatorio es un factor real que los inversores deben considerar al analizar una fusión. Para quien aprende finanzas, es un ejemplo clásico de cómo la incertidumbre sobre el cierre de un deal puede afectar el precio de las acciones involucradas. Fox y Roku son actores relevantes en el mercado de medios y streaming globalmente.",
+      "title": "TransDigm compró Prince & Izant por más de u$s1.000M",
+      "summary": "TransDigm Group adquirió Prince & Izant, empresa especializada en aleaciones y componentes metálicos para aeroespacial y defensa, por aproximadamente 1.066 millones de dólares pagados en efectivo. Se espera que la compañía adquirida genere unos 390 millones de dólares en ingresos durante el año calendario 2026.",
+      "detail": "Las adquisiciones pagadas 'en efectivo' muestran la fortaleza de caja de una empresa, pero también su apuesta estratégica: TransDigm paga una prima para sumar ingresos y capacidad productiva en sectores de alta demanda como defensa y aeroespacial. Para el inversor, importa analizar si el precio pagado es razonable respecto a los ingresos proyectados —en este caso, pagaron cerca de 2,7 veces los ingresos anuales esperados—. Este tipo de operaciones suelen mover el precio de la acción porque cambian el perfil de riesgo y crecimiento de la empresa.",
       "tags": [
         "fusiones",
+        "aeroespacial",
+        "efectivo"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/transdigm-group-stock-after-hours-at-eur-968-25-minus-0-82-percent-versus/70218386",
+      "published_at": "2026-10-02T20:30:07Z",
+      "fecha_evento": "2026-10-02",
+      "tickers": [
+        "TDG"
+      ]
+    },
+    {
+      "id": "intel-high-na-produccion",
+      "type": "empresa",
+      "title": "Intel sube 2,1% al pasar su tecnología High-NA a producción",
+      "summary": "Las acciones de Intel subieron 2,1% después de que su programa de fabricación High-NA —desarrollado junto a ASML— dejó la etapa de pruebas y entró en producción para algunos componentes de sus próximos procesadores Panther Lake. Sin embargo, los inversores siguen esperando evidencia concreta de rendimientos competitivos y pedidos de clientes.",
+      "detail": "La tecnología High-NA es la frontera más avanzada en fabricación de semiconductores: permite grabar circuitos más pequeños y eficientes. Que Intel la lleve a producción real es una señal positiva para su negocio de fundición (fabricar chips para terceros), donde compite con TSMC y Samsung. Para quien aprende finanzas, esto ilustra cómo un hito tecnológico puede mover el precio de una acción incluso antes de que haya resultados económicos concretos, porque el mercado descuenta expectativas futuras. El riesgo es que los inversores castiguen si los rendimientos o los clientes no llegan.",
+      "tags": [
+        "semiconductores",
+        "tecnología",
+        "producción"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-gain-2-1-195535139.html",
+      "published_at": "2026-10-02T19:56:40Z",
+      "fecha_evento": "2026-10-02",
+      "tickers": [
+        "INTC"
+      ]
+    },
+    {
+      "id": "abbvie-gobierno-piloto-descuentos",
+      "type": "empresa",
+      "title": "AbbVie se suma a un programa piloto del gobierno de EE.UU. para reformar descuentos en medicamentos",
+      "summary": "AbbVie participará desde el 1° de enero de 2027 en un programa piloto federal para probar un nuevo sistema de reembolsos bajo el programa 340B, que busca más transparencia en los precios de medicamentos y evitar descuentos duplicados. También se sumaron otras farmacéuticas grandes como Amgen, AstraZeneca, Pfizer y Bristol Myers Squibb.",
+      "detail": "El programa 340B obliga a los fabricantes a ofrecer medicamentos con descuento a ciertos hospitales y clínicas que atienden pacientes de bajos recursos. Las disputas por descuentos duplicados llevan años en los tribunales y afectan los márgenes de las farmacéuticas. Esta reforma piloto importa porque cualquier cambio en cómo se calculan esos descuentos impacta directamente en los ingresos de empresas como AbbVie o Pfizer. Para el inversor, es una señal de que el marco regulatorio de precios en salud en EE.UU. sigue evolucionando, lo que representa un riesgo y a la vez una oportunidad de mayor certeza.",
+      "tags": [
+        "salud",
         "regulación",
-        "medios"
+        "farmacéuticas"
       ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corp-faces-roku-review-fox-corp-stock-gains-1-02-percent/70215011",
-      "published_at": "2026-10-02T11:07:42Z",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/legal/litigation/abbvie-joins-us-government-pilot-test-drug-discount-rebates-2026-10-02/",
+      "published_at": "2026-10-02T21:13:36Z",
       "fecha_evento": "2026-10-02",
       "tickers": [
-        "FOX"
+        "ABBV",
+        "AMGN",
+        "PFE",
+        "BMY"
       ]
     },
     {
-      "id": "guggenheim-danaher-target",
+      "id": "darden-resultados-q1-fy27",
       "type": "empresa",
-      "title": "Guggenheim subió su precio objetivo para Danaher a USD 250 y la empresa tiene nueva CEO",
-      "summary": "Guggenheim elevó su precio objetivo para las acciones de Danaher (DHR) de USD 200 a USD 250, manteniendo una recomendación de compra. El ajuste coincide con un cambio de liderazgo: Julie Sawyer Montgomery asumió como nueva CEO. La empresa publicará sus resultados del tercer trimestre de 2026 el 21 de octubre.",
-      "detail": "Cuando un banco de inversión sube su precio objetivo para una acción, está indicando que espera que el valor de esa empresa crezca más de lo que pensaba antes. En este caso, el cambio de liderazgo en Danaher —una empresa global de tecnología científica— es un factor que los analistas están evaluando. Para quien aprende finanzas, este tipo de noticia enseña cómo los cambios en la conducción de una empresa y las expectativas de resultados futuros influyen en la valuación de sus acciones. El reporte del Q3 el 21 de octubre será un momento clave para ver si las expectativas se cumplen.",
+      "title": "Darden Restaurants: ventas subieron 5,1% pero las ganancias cayeron",
+      "summary": "Darden Restaurants reportó ventas por 3.200 millones de dólares en el primer trimestre fiscal 2027, un 5,1% más que el año anterior, impulsadas por nuevos restaurantes y crecimiento en ventas por local. Sin embargo, las ganancias de operaciones continuas cayeron 9,2% y el EPS diluido bajó a 2,05 dólares. La empresa proyecta ventas anuales de entre 13.600 y 13.750 millones para FY27.",
+      "detail": "Este resultado muestra una situación que aparece mucho en finanzas: una empresa puede crecer en ventas y aun así ganar menos, porque los costos suben más rápido que los ingresos. Para el inversor, lo que importa no es solo el top-line (ventas) sino el bottom-line (ganancias netas). Que Darden haya autorizado un programa de recompra de acciones por 1.500 millones es una señal de que la dirección confía en el futuro, aunque el mercado puede tomar con cautela la caída de márgenes. Darden es dueña de cadenas como Olive Garden y LongHorn Steakhouse, por lo que sus resultados reflejan el gasto del consumidor norteamericano.",
       "tags": [
-        "análisis bursátil",
-        "liderazgo",
-        "valuación"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/guggenheim-raises-target-for-danaher-stock-from-usd-200-00-to-usd-250-00/70215063",
-      "published_at": "2026-10-02T11:16:28Z",
-      "fecha_evento": "2026-10-02",
-      "tickers": [
-        "DHR"
-      ]
-    },
-    {
-      "id": "goldman-sachs-cboe-upgrade",
-      "type": "mercado",
-      "title": "Goldman Sachs mejoró su recomendación sobre Cboe Global Markets",
-      "summary": "Goldman Sachs subió su recomendación sobre Cboe Global Markets (CBOE) de \"Vender\" a \"Neutral\", aunque ajustó levemente su precio objetivo de USD 304 a USD 300. Cboe, que opera bolsas de opciones y futuros, firmó nuevos contratos binarios con Robinhood y extendió su acuerdo con S&P Dow Jones Indices.",
-      "detail": "Cboe es uno de los operadores de mercados financieros más importantes del mundo, donde se negocian opciones y derivados. Que Goldman Sachs —uno de los bancos de inversión más influyentes— cambie su recomendación de venta a neutral es una señal relevante para el mercado. Para quien aprende finanzas, esto ilustra cómo las calificaciones de los analistas de grandes bancos impactan en los precios de las acciones y en la percepción del mercado sobre una empresa. La alianza con Robinhood también muestra cómo los nuevos actores del retail investing se integran con las infraestructuras tradicionales del mercado.",
-      "tags": [
-        "mercados",
-        "analistas",
-        "opciones"
-      ],
-      "source_name": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com/news/goldman-sachs-upgrades-cboe-global-markets-to-neutral-from-sell-adjusts-pt-to-300-from-304-ce785ddade8ff120",
-      "published_at": "2026-10-02T11:10:38Z",
-      "fecha_evento": "2026-10-02",
-      "tickers": [
-        "CBOE"
-      ]
-    },
-    {
-      "id": "state-street-q3-earnings-preview",
-      "type": "reunion",
-      "title": "State Street publicará sus resultados del tercer trimestre el 14 de octubre",
-      "summary": "State Street Corporation (STT) presentará sus ganancias del tercer trimestre el 14 de octubre. Los analistas esperan ganancias de USD 3,66 por acción e ingresos de USD 4.040 millones. Bancos como JP Morgan, Evercore, Citigroup y Morgan Stanley ya actualizaron sus precios objetivo al alza tras los sólidos resultados del segundo trimestre.",
-      "detail": "Los reportes de resultados trimestrales de los grandes bancos son eventos muy seguidos por el mercado, ya que dan señales sobre la salud del sistema financiero en general. State Street es un banco custodio global que maneja activos de grandes instituciones, por lo que sus números reflejan tendencias amplias del mercado. Para alguien que aprende finanzas, ver cómo los analistas ajustan sus estimaciones antes de un reporte es una forma de entender el proceso de valuación y expectativas del mercado. El hecho de que varios bancos hayan subido sus objetivos sugiere optimismo previo al reporte.",
-      "tags": [
-        "bancos",
+        "consumo",
         "resultados",
-        "expectativas"
+        "restaurantes"
       ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62128654/state-street-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
-      "published_at": "2026-10-02T10:33:21Z",
-      "fecha_evento": "2026-10-14",
-      "tickers": [
-        "STT"
-      ]
-    },
-    {
-      "id": "fortinet-zero-day-fortimail",
-      "type": "empresa",
-      "title": "Fortinet alertó sobre una vulnerabilidad crítica en su plataforma de email que ya está siendo explotada",
-      "summary": "Fortinet emitió una advertencia sobre una falla de seguridad crítica (puntuación 9,8 sobre 10) en su plataforma FortiMail, que está siendo activamente explotada por atacantes. La vulnerabilidad permite a hackers no autenticados escribir archivos arbitrarios en los sistemas afectados. Fortinet recomendó medidas de mitigación mientras trabaja en parches para algunas versiones.",
-      "detail": "Las vulnerabilidades de día cero (zero-day) son fallas de seguridad que se explotan antes de que exista un parche disponible, lo que las hace especialmente peligrosas. Para quien aprende finanzas, este tipo de noticias es importante porque los incidentes de ciberseguridad pueden afectar el precio de las acciones de la empresa involucrada y de sus clientes. También muestra el riesgo operacional que enfrentan las empresas de tecnología: una falla crítica puede erosionar la confianza del mercado rápidamente. Fortinet cotiza en bolsa y sus acciones pueden reaccionar a este tipo de anuncios.",
-      "tags": [
-        "ciberseguridad",
-        "riesgo",
-        "tecnología"
-      ],
-      "source_name": "The Register",
-      "source_url": "https://www.theregister.com/security/2026/10/02/fortinet-sounds-the-alarm-over-actively-exploited-fortimail-zero-day/5300803",
-      "published_at": "2026-10-02T10:54:49Z",
+      "source_name": "Stock Titan",
+      "source_url": "https://www.stocktitan.net/sec-filings/DRI/10-q-darden-restaurants-inc-quarterly-earnings-report-04dfbae82a86.html",
+      "published_at": "2026-10-02T20:03:08Z",
       "fecha_evento": "2026-10-02",
       "tickers": [
-        "FTNT"
+        "DRI"
       ]
     },
     {
-      "id": "nextera-energy-plan-20gw",
+      "id": "sumitomo-mitsui-smbc-nikko",
       "type": "empresa",
-      "title": "NextEra Energy presentó un plan de 20,5 GW en oportunidades de generación de energía",
-      "summary": "NextEra Energy delineó oportunidades de generación federal de 20,5 GW, incluyendo 16 GW ya asegurados con Japón y Corea, enfocados en gas y almacenamiento de energía. La empresa reafirmó su objetivo de crecer un 8% anual en ganancias por acción hasta 2032. Sus resultados del segundo trimestre de 2026 superaron las estimaciones de los analistas.",
-      "detail": "NextEra Energy es la mayor empresa de energías renovables del mundo por capitalización bursátil, lo que la convierte en un termómetro clave del sector energético global. Para quien aprende finanzas, los acuerdos internacionales de esta escala muestran cómo las empresas de energía están capitalizando la demanda global de generación limpia y confiable. La meta de crecimiento del 8% anual en EPS hasta 2032 es una guía importante para inversores de largo plazo. Además, los acuerdos con países como Japón y Corea señalan tendencias en la geopolítica energética que impactan en mercados globales.",
+      "title": "Sumitomo Mitsui reorganiza su negocio de valores con una nueva holding",
+      "summary": "El grupo japonés Sumitomo Mitsui Financial Group (SMFG) anunció un acuerdo para convertir a SMBC Nikko Securities en subsidiaria indirecta mediante un canje de acciones, creando una nueva holding que supervisará su negocio de renta variable mayorista en Japón, incluyendo una joint venture con Jefferies Financial Group.",
+      "detail": "Las reorganizaciones corporativas como esta suelen buscar mayor eficiencia operativa y claridad en la estructura de mando, especialmente cuando se involucran negocios con socios externos como Jefferies. Para alguien que aprende finanzas, esto ilustra cómo los grandes bancos internacionales usan holdings y joint ventures para gestionar negocios complejos y separar riesgos. SMFG es uno de los mayores grupos financieros de Japón y su movimiento en banca de inversión es relevante para entender cómo los bancos asiáticos compiten en mercados globales de capitales.",
       "tags": [
-        "energía",
-        "renovables",
-        "crecimiento"
+        "banca",
+        "Japón",
+        "fusiones"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nextera-energy-outlines-20-5-gw-plan-and-nextera-energy-stock-costs-eur/70214877",
-      "published_at": "2026-10-02T10:41:18Z",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/sumitomo-mitsui-financial-group-stock-after-hours-at-eur-22-50-plus-0-00/70217628",
+      "published_at": "2026-10-02T20:11:00Z",
       "fecha_evento": "2026-10-02",
       "tickers": [
-        "NEE"
+        "SMFG"
+      ]
+    },
+    {
+      "id": "stryker-investigacion-inversores",
+      "type": "empresa",
+      "title": "Investigan a Stryker por presuntamente haber engañado a inversores sobre problemas de fabricación",
+      "summary": "Una firma de valores está investigando a Stryker Corporation por haber supuestamente inducido a error a inversores sobre problemas de manufactura en su negocio de vascular periférico. La acción cayó fuerte luego de que el CFO reconociera que el problema —que el CEO había dicho que estaba resuelto— seguía sin solucionarse.",
+      "detail": "Este caso ilustra un riesgo clave en inversiones en empresas: el riesgo de información asimétrica, donde los directivos saben más que el mercado. Cuando esa brecha se revela —especialmente si implica declaraciones contradictorias entre ejecutivos— el mercado castiga con caídas bruscas. Las investigaciones de este tipo pueden derivar en demandas colectivas de accionistas (class actions) y multas regulatorias. Para quien aprende finanzas, es un ejemplo concreto de por qué la transparencia corporativa y la confianza en el management son factores críticos al evaluar una acción.",
+      "tags": [
+        "fraude",
+        "manufactura",
+        "acciones"
+      ],
+      "source_name": "Pluang",
+      "source_url": "https://pluang.com/en/news-feed/investigasi-syk-pemulihan-kerugian-investor-stryker",
+      "published_at": "2026-10-02T20:35:36Z",
+      "fecha_evento": "2026-10-02",
+      "tickers": [
+        "SYK"
+      ]
+    },
+    {
+      "id": "trimble-prestamo-500m-bofa",
+      "type": "empresa",
+      "title": "Trimble aseguró una línea de crédito de u$s500M con Bank of America",
+      "summary": "Trimble (TRMB) firmó el 2 de octubre de 2026 una nueva línea de crédito a plazo de hasta 500 millones de dólares con Bank of America, sin haber tomado fondos aún. La empresa puede realizar hasta cuatro desembolsos antes del 29 de enero de 2027, con vencimiento dos años después de cada extracción.",
+      "detail": "Una línea de crédito 'delayed draw' es un préstamo acordado pero no desembolsado: la empresa tiene el dinero disponible si lo necesita, sin pagar intereses hasta usarlo. Esto le da flexibilidad financiera para aprovechar oportunidades —como adquisiciones— sin apurarse. Para el inversor, es una señal de que Trimble podría estar preparándose para un movimiento estratégico. También muestra cómo las empresas gestionan su liquidez: mantener acceso al crédito es tan importante como tener efectivo en caja.",
+      "tags": [
+        "crédito",
+        "liquidez",
+        "corporativo"
+      ],
+      "source_name": "TradingView",
+      "source_url": "https://www.tradingview.com/news/tradingview:d126c737a1a82:0-trimble-secures-500-million-delayed-draw-term-loan-facility-led-by-bank-of-america/",
+      "published_at": "2026-10-02T20:13:05Z",
+      "fecha_evento": "2026-10-02",
+      "tickers": [
+        "TRMB",
+        "BAC"
+      ]
+    },
+    {
+      "id": "csx-resultados-q3-octubre",
+      "type": "reunion",
+      "title": "CSX publicará resultados del tercer trimestre el 21 de octubre",
+      "summary": "CSX Corp. anunció que dará a conocer sus resultados financieros del tercer trimestre de 2026 el 21 de octubre, después del cierre del mercado, seguido de una conferencia con analistas.",
+      "detail": "Las presentaciones de resultados trimestrales (earnings releases) son eventos clave en el calendario financiero: mueven fuertemente el precio de las acciones porque el mercado compara los números reales contra las expectativas previas. CSX es una de las mayores empresas ferroviarias de carga de EE.UU., por lo que sus resultados también dan señales sobre la actividad económica y el comercio interno norteamericano. Seguir este tipo de calendarios es un hábito básico para cualquier inversor activo.",
+      "tags": [
+        "resultados",
+        "ferroviaria",
+        "calendario"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/nachboerse/csx-corp-stock-after-hours-at-eur-42-13-plus-1-79-percent-versus-prior/70217931",
+      "published_at": "2026-10-02T20:58:00Z",
+      "fecha_evento": "2026-10-21",
+      "tickers": [
+        "CSX"
       ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.545",
-      "valor_num": 1545.0,
-      "delta_pct": 0.32
+      "valor": "$1.540",
+      "valor_num": 1540.0,
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.555",
-      "valor_num": 1555.0,
-      "delta_pct": -0.32
+      "valor": "$1.560",
+      "valor_num": 1560.0,
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
-      "valor": "$1.556",
-      "valor_num": 1556.0,
-      "delta_pct": 0.47
+      "valor": "$1.552",
+      "valor_num": 1551.9,
+      "delta_pct": 0.21
     },
     {
       "label": "CCL",
-      "valor": "$1.625",
-      "valor_num": 1624.8,
-      "delta_pct": 0.66
+      "valor": "$1.624",
+      "valor_num": 1623.8,
+      "delta_pct": 0.59
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 86.418",
-      "valor_num": 86418.0,
-      "delta_pct": 2.95
+      "valor": "US$ 84.511",
+      "valor_num": 84511.0,
+      "delta_pct": -0.04
     },
     {
       "label": "S&P 500",
-      "valor": "7.666",
-      "valor_num": 7666.45,
-      "delta_pct": -0.49
+      "valor": "7.723",
+      "valor_num": 7722.72,
+      "delta_pct": -0.27
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.208",
-      "valor_num": 4207.7,
-      "delta_pct": 0.94
+      "valor": "US$ 4.172",
+      "valor_num": 4172.1,
+      "delta_pct": 0.09
     }
   ]
 }
