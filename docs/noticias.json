@@ -1,157 +1,140 @@
 {
-  "generated_at": "2026-10-04T12:01:08.037280+00:00",
+  "generated_at": "2026-10-04T22:01:08.892282+00:00",
   "items": [
     {
-      "id": "cisco-ai-q4-2026",
+      "id": "gm-q3-sales-20261004",
       "type": "empresa",
-      "title": "Cisco subió 3% impulsada por pedidos de infraestructura de IA",
-      "summary": "Las acciones de Cisco Systems subieron 3,16% tras publicar resultados del cuarto trimestre fiscal 2026 con ingresos récord de USD 17.250 millones, impulsados por la fuerte demanda de infraestructura de inteligencia artificial. La empresa también dio una guía optimista para 2027, proyectando ingresos de IA para hyperscalers de USD 7.500 millones.",
-      "detail": "Cuando una empresa tecnológica como Cisco reporta ingresos récord y sube su guía futura, el mercado lo interpreta como una señal de que la demanda en su sector sigue siendo sólida. En este caso, el motor es la IA: las empresas necesitan redes más potentes para sostener los centros de datos de inteligencia artificial, y Cisco es uno de los principales proveedores. Que el precio de la acción suba después del anuncio refleja cómo los inversores ajustan sus expectativas de ganancias futuras.",
+      "title": "Las ventas trimestrales de General Motors cayeron 5,5% por la menor demanda de autos eléctricos",
+      "summary": "General Motors reportó que sus ventas en EE.UU. durante el tercer trimestre bajaron 5,5% interanual, llegando a 670.974 vehículos, con la demanda de autos eléctricos como principal factor negativo. A pesar del dato, UBS subió su precio objetivo para la acción a USD 114 y la empresa reafirmó su guía de ganancias para 2026.",
+      "detail": "La caída en ventas de vehículos eléctricos de GM es una señal importante sobre el estado real de la transición energética en el mercado automotriz: la demanda no siempre sigue el ritmo que las empresas proyectan. Que UBS suba el precio objetivo pese a los números negativos muestra que los analistas a veces valoran más la rentabilidad y la guía futura que el volumen de ventas. Este tipo de divergencia entre datos operativos y valoración es clave para entender cómo funciona el mercado.",
       "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "resultados"
+        "autos eléctricos",
+        "ventas",
+        "acciones"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cisco-systems-stock-gains-3-16-percent-as-ai-orders-lift-results/70224570",
-      "published_at": "2026-10-04T10:26:40Z",
-      "fecha_evento": "2026-10-04",
-      "tickers": [
-        "CSCO"
-      ]
-    },
-    {
-      "id": "adobe-buyback-26pct",
-      "type": "empresa",
-      "title": "Adobe tiene USD 24.500 millones disponibles para recomprar sus propias acciones",
-      "summary": "Adobe todavía tiene USD 24.550 millones sin usar de su programa de recompra de acciones de USD 25.000 millones, lo que equivale a cerca del 26% del valor de mercado actual de la compañía. La empresa financia estas recompras con su flujo de caja operativo, lo que contribuye al crecimiento de las ganancias por acción.",
-      "detail": "Las recompras de acciones son una herramienta clave que usan las empresas para devolver valor a sus accionistas: al reducir la cantidad de acciones en circulación, las ganancias se dividen entre menos papeles y el EPS sube. Un programa tan grande respecto al tamaño de la compañía puede actuar como un 'piso' para el precio de la acción, ya que la propia empresa sale a comprar en el mercado. Es una señal de que la dirección confía en que el precio actual está por debajo del valor real.",
-      "tags": [
-        "recompra de acciones",
-        "valuación",
-        "tecnología"
-      ],
-      "source_name": "The Globe and Mail",
-      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/ADBE/pressreleases/4949683/adobe-still-has-245-billion-left-for-buybacks-thats-about-a-quarter-of-the-company/",
-      "published_at": "2026-10-04T10:47:01Z",
-      "fecha_evento": "2026-10-04",
-      "tickers": [
-        "ADBE"
-      ]
-    },
-    {
-      "id": "fedex-camiones-electricos",
-      "type": "empresa",
-      "title": "FedEx encargó 2.000 camiones eléctricos por más de USD 300 millones",
-      "summary": "FedEx realizó un pedido de 2.000 camiones eléctricos a Harbinger por un valor superior a USD 300 millones, con entrega prevista para fines de 2027, como parte de su estrategia de electrificación de flota. La empresa también reportó ingresos fiscales 2026 de USD 94.720 millones, un 7,7% más que el año anterior.",
-      "detail": "Las grandes inversiones en electromovilidad muestran cómo empresas de logística buscan reducir costos operativos a largo plazo y cumplir compromisos ambientales. Para los inversores, este tipo de anuncios impactan tanto en FedEx como en sus proveedores —en este caso Harbinger—. También es relevante como señal del ritmo de adopción de vehículos eléctricos en el sector industrial, que mueve mucho capital.",
-      "tags": [
-        "electromovilidad",
-        "logística",
-        "inversión"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-gets-a-2-000-truck-order-worth-more-than-usd-300-million/70223992",
-      "published_at": "2026-10-04T08:49:55Z",
-      "fecha_evento": "2026-10-04",
-      "tickers": [
-        "FDX"
-      ]
-    },
-    {
-      "id": "constellation-amazon-deal",
-      "type": "empresa",
-      "title": "Constellation Energy firma un acuerdo de 20 años con Amazon para venderle energía nuclear",
-      "summary": "Constellation Energy anunció un acuerdo de compra de energía a 20 años con Amazon, cubriendo 690 megawatts de su planta nuclear Calvert Cliffs. La acción cotizaba en USD 257,49 tras el anuncio, y los analistas mantienen un consenso de compra fuerte con precio objetivo muy por encima del valor actual.",
-      "detail": "Los acuerdos de compra de energía a largo plazo (conocidos como PPAs) le dan previsibilidad de ingresos a empresas eléctricas, lo que las hace más atractivas para inversores que buscan flujos de caja estables. Que Amazon, uno de los mayores consumidores de electricidad del mundo por sus centros de datos de IA, elija energía nuclear refleja la tendencia de las Big Tech de asegurar fuentes de energía limpia y continua. Esto posiciona a Constellation como jugador clave en la intersección entre energía e inteligencia artificial.",
-      "tags": [
-        "energía nuclear",
-        "contratos",
-        "Big Tech"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/constellation-energy-stock-trades-at-usd-257-49-after-amazon-deal/70224437",
-      "published_at": "2026-10-04T10:02:00Z",
-      "fecha_evento": "2026-10-04",
-      "tickers": [
-        "CEG",
-        "AMZN"
-      ]
-    },
-    {
-      "id": "danaher-nueva-ceo",
-      "type": "empresa",
-      "title": "Danaher designó una nueva CEO días antes de publicar sus resultados trimestrales",
-      "summary": "Danaher Corporation nombró a Julie Sawyer Montgomery como nueva Presidenta y CEO, con efectividad desde el 1° de octubre de 2026, en reemplazo de Rainer Blair. El cambio ocurre semanas antes del call de resultados del tercer trimestre, previsto para el 21 de octubre.",
-      "detail": "Los cambios de liderazgo en empresas grandes generan incertidumbre en el mercado, especialmente cuando ocurren justo antes de la publicación de resultados: los inversores no saben si habrá cambios de estrategia o si la nueva conducción confirma la guía anterior. Danaher opera en el sector de ciencias de la vida e instrumentación científica, con fuerte exposición global. Seguir este tipo de noticias ayuda a entender cómo el mercado reacciona al riesgo de gestión.",
-      "tags": [
-        "liderazgo",
-        "ciencias de la vida",
-        "resultados"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/danaher-stock-names-a-new-ceo-ahead-of-the-october-earnings-test/70224131",
-      "published_at": "2026-10-04T09:08:40Z",
-      "fecha_evento": "2026-10-01",
-      "tickers": [
-        "DHR"
-      ]
-    },
-    {
-      "id": "fox-roku-voto-accionistas",
-      "type": "reunion",
-      "title": "Accionistas de Roku votan el 14 de octubre sobre la fusión con Fox Corporation",
-      "summary": "El 14 de octubre de 2026 está programada la votación de accionistas de Roku sobre la transacción con Fox Corporation, que prevé que cada acción de Roku reciba USD 96 en efectivo más 0,9693 acciones clase A de Fox. Las acciones de Fox subieron 1,63% ante la proximidad del evento.",
-      "detail": "Las votaciones de accionistas en fusiones y adquisiciones son eventos clave porque determinan si una operación avanza o se cae. El precio de las acciones de la empresa adquirida suele converger hacia el precio ofrecido si el mercado cree que el deal se aprobará. Este caso muestra cómo una operación corporativa grande puede mover acciones de varias compañías a la vez —Fox sube porque el mercado anticipa que la fusión se concreta.",
-      "tags": [
-        "fusiones",
-        "medios de comunicación",
-        "voto accionistas"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-gains-1-63-percent-as-roku-vote-nears/70224156",
-      "published_at": "2026-10-04T09:12:06Z",
-      "fecha_evento": "2026-10-14",
-      "tickers": [
-        "FOXA"
-      ]
-    },
-    {
-      "id": "mercadolibre-valuacion-octubre",
-      "type": "mercado",
-      "title": "MercadoLibre cayó en bolsa pero analistas la ven atractiva cerca de mínimos de varios años",
-      "summary": "Las acciones de MercadoLibre bajaron por mayor competencia y aumento de préstamos incobrables, a pesar de que la empresa sigue creciendo en ingresos. Con un precio cercano a mínimos de varios años, algunos analistas consideran que la valuación actual es una oportunidad de compra por el potencial de largo plazo en América Latina.",
-      "detail": "MercadoLibre es la empresa de e-commerce y fintech más grande de Latinoamérica, por lo que su desempeño es un termómetro del consumo y la penetración financiera en la región. Que esté priorizando participación de mercado sobre ganancias de corto plazo es una estrategia típica de empresas de crecimiento: invierten hoy para dominar mañana. Para alguien en Argentina, seguir a MELI permite entender la dinámica de los mercados emergentes y cómo los inversores globales valoran empresas de la región.",
-      "tags": [
-        "América Latina",
-        "fintech",
-        "valuación"
-      ],
-      "source_name": "The Motley Fool",
-      "source_url": "https://www.fool.com/investing/2026/10/04/mercadolibre-costs-around-1700-a-share-heres-why-i/",
-      "published_at": "2026-10-04T09:19:13Z",
-      "fecha_evento": "2026-10-04",
-      "tickers": [
-        "MELI"
-      ]
-    },
-    {
-      "id": "marsh-mclennan-adquisicion",
-      "type": "empresa",
-      "title": "Marsh & McLennan completó la compra de Accel Holdings y amplía su negocio de gestión patrimonial",
-      "summary": "Marsh & McLennan cerró el 2 de octubre de 2026 la adquisición de Accel Holdings, una firma de Iowa especializada en jubilaciones, gestión de patrimonio y agronegocios. La acción cotizaba en USD 170,06 y JPMorgan subió su precio objetivo a USD 215.",
-      "detail": "Las adquisiciones son una forma en que las empresas grandes crecen rápidamente al comprar capacidades o mercados que serían lentos de construir desde cero. En este caso, Marsh & McLennan —una de las consultoras de seguros y gestión de riesgos más grandes del mundo— expande su oferta en un segmento de alto margen como la gestión patrimonial. Que un banco como JPMorgan suba el precio objetivo luego de la operación indica que el mercado ve la compra como generadora de valor.",
-      "tags": [
-        "adquisiciones",
-        "gestión de riesgos",
-        "analistas"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marsh-and-mclennan-stock-expands-through-accel-acquisition/70224150",
-      "published_at": "2026-10-04T09:31:35Z",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/general-motors-stock-fell-1-31-percent-as-q3-sales-fell-5-5-percent/70228007",
+      "published_at": "2026-10-04T19:20:50Z",
       "fecha_evento": "2026-10-02",
       "tickers": [
-        "MRSH"
+        "GM"
+      ]
+    },
+    {
+      "id": "nvidia-pepsico-delta-watch-20261004",
+      "type": "mercado",
+      "title": "PepsiCo, Delta Air Lines y Nvidia: las tres acciones más seguidas esta semana en Wall Street",
+      "summary": "Analistas identifican a PepsiCo, Delta Air Lines y Nvidia como las acciones clave a monitorear esta semana, en un contexto de inicio de temporada de resultados, decisiones de la Reserva Federal y conflictos globales. Nvidia llama la atención tras alcanzar un máximo histórico impulsado por un gran programa de recompra de acciones.",
+      "detail": "La convergencia de resultados corporativos, política monetaria y geopolítica es lo que genera mayor volatilidad en los mercados. El caso de Nvidia ilustra cómo una recompra de acciones (buyback) puede impulsar el precio porque reduce la cantidad de acciones en circulación, aumentando la ganancia por acción. Para quien aprende finanzas, seguir estas semanas de earnings es fundamental para entender cómo las expectativas mueven los precios antes incluso de que se publiquen los números reales.",
+      "tags": [
+        "earnings",
+        "Nvidia",
+        "mercados"
+      ],
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/equities/26/10/62153028/top-3-us-stocks-to-watch-this-week-pepsico-delta-air-lines-nvidia",
+      "published_at": "2026-10-04T20:53:29Z",
+      "fecha_evento": "2026-10-04",
+      "tickers": [
+        "PEP",
+        "DAL",
+        "NVDA"
+      ]
+    },
+    {
+      "id": "broadcom-dividendo-ia-20261004",
+      "type": "empresa",
+      "title": "Broadcom: ¿puede sostener el crecimiento del dividendo si sus clientes de IA ganan más poder de negociación?",
+      "summary": "Broadcom genera suficiente flujo de caja operativo para cubrir sus pagos de dividendos 3,4 veces, lo que lo hace sostenible en el corto plazo. Sin embargo, el hecho de que sus cinco principales clientes de inteligencia artificial representen el 55% de los ingresos es visto como un riesgo: si esos clientes negocian mejores precios, los márgenes de Broadcom podrían resentirse.",
+      "detail": "Este artículo muestra dos conceptos clave: la cobertura de dividendos (cuántas veces el flujo de caja cubre el pago) y el riesgo de concentración de clientes. Cuando pocas empresas explican más de la mitad de los ingresos, el negocio es vulnerable si alguna decide cambiar de proveedor o negociar condiciones más duras. En el mundo de la IA, donde los grandes compradores de chips son cada vez más poderosos, este riesgo es real y afecta la valuación a largo plazo.",
+      "tags": [
+        "dividendos",
+        "inteligencia artificial",
+        "semiconductores"
+      ],
+      "source_name": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-keep-growing-dividend-ai-203334720.html",
+      "published_at": "2026-10-04T20:34:17Z",
+      "fecha_evento": "2026-10-04",
+      "tickers": [
+        "AVGO"
+      ]
+    },
+    {
+      "id": "regeneron-sanofi-alianza-20261004",
+      "type": "empresa",
+      "title": "Regeneron amplió su alianza con Sanofi con potencial de hasta USD 8.000 millones en hitos",
+      "summary": "Regeneron Pharmaceuticals anunció datos iniciales de dos nuevas terapias y una expansión de su alianza con la farmacéutica Sanofi, que podría sumar hasta USD 8.000 millones en pagos por cumplimiento de objetivos. El movimiento busca diversificar los ingresos de Regeneron más allá de sus productos estrella actuales.",
+      "detail": "Las alianzas farmacéuticas con pagos por hitos (milestones) son una forma de financiar el desarrollo de medicamentos repartiendo riesgos entre empresas. Para el inversor, ampliar la cartera de productos reduce la dependencia de un solo fármaco, lo cual es positivo para la estabilidad de los ingresos futuros. Este tipo de acuerdos también muestran cómo funciona la valoración de activos en biotecnología: se paga según resultados clínicos, no solo por ventas actuales.",
+      "tags": [
+        "farmacéutica",
+        "alianzas",
+        "biotecnología"
+      ],
+      "source_name": "Simply Wall Street",
+      "source_url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-regn/regeneron-pharmaceuticals/news/how-investors-are-reacting-to-regeneron-pharmaceuticals-regn",
+      "published_at": "2026-10-04T19:33:59Z",
+      "fecha_evento": "2026-10-04",
+      "tickers": [
+        "REGN"
+      ]
+    },
+    {
+      "id": "campbell-soup-dividendo-recorte-20261004",
+      "type": "empresa",
+      "title": "Campbell Soup recortó su dividendo trimestral un 36% para financiar su plan de recuperación",
+      "summary": "Campbell Soup cerró en USD 19,62 el 2 de octubre y confirmó que recortó su dividendo trimestral en un 36% como parte de una estrategia de reorganización, luego de que sus ventas fiscales 2026 cayeran a USD 9.744 millones y las ganancias por acción bajaran a USD 1,31. Los analistas tienen consenso neutral con un precio objetivo de USD 20,79.",
+      "detail": "Un recorte de dividendo suele ser una señal de alerta para los inversores porque indica que la empresa prefiere retener efectivo antes que distribuirlo, generalmente porque enfrenta presiones financieras o necesita invertir en una reestructuración. Para quien aprende finanzas, este caso muestra la tensión entre mantener contentos a los accionistas con pagos regulares y tener liquidez para financiar un giro estratégico. La reacción del mercado a estos recortes suele ser negativa en el corto plazo.",
+      "tags": [
+        "dividendos",
+        "consumo",
+        "reestructuración"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/campbell-soup-stock-closes-at-usd-19-62-after-fiscal-reset/70227933",
+      "published_at": "2026-10-04T19:10:55Z",
+      "fecha_evento": "2026-10-02",
+      "tickers": [
+        "CPB"
+      ]
+    },
+    {
+      "id": "dominion-nextera-merger-20261004",
+      "type": "empresa",
+      "title": "Dominion Energy superó las expectativas de ganancias y espera aprobación regulatoria para fusionarse con NextEra",
+      "summary": "Dominion Energy reportó un EPS ajustado de USD 0,79 en el segundo trimestre, por encima del consenso de USD 0,68, con ingresos de USD 4.480 millones (+17,6% interanual). El caso de inversión de la empresa gira en torno a su desempeño operativo y la fusión pendiente con NextEra Energy, que todavía aguarda aprobaciones regulatorias.",
+      "detail": "Las fusiones en el sector energético regulado requieren aprobación de organismos gubernamentales, lo que introduce incertidumbre y puede demorar meses o años. Para el inversor, esta situación crea un escenario donde el precio de la acción puede moverse tanto por los resultados trimestrales como por las novedades regulatorias. Entender cómo el proceso regulatorio afecta el valor de una fusión es una habilidad clave en finanzas corporativas.",
+      "tags": [
+        "energía",
+        "fusiones",
+        "regulación"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dominion-energy-stock-reports-a-quarterly-earnings-beat/70228070",
+      "published_at": "2026-10-04T19:42:36Z",
+      "fecha_evento": "2026-10-02",
+      "tickers": [
+        "D",
+        "NEE"
+      ]
+    },
+    {
+      "id": "enphase-utility-approvals-20261004",
+      "type": "empresa",
+      "title": "Enphase Energy logró aprobación de 80 distribuidoras para su sistema de respaldo energético domiciliario",
+      "summary": "Enphase Energy obtuvo el visto bueno de 80 empresas distribuidoras de electricidad en EE.UU. y Canadá para su medidor inteligente IQ Meter Collar, lo que amplía significativamente el mercado para sus soluciones de respaldo energético total del hogar. Pese a la mejora reciente en el precio de la acción, la empresa enfrenta presiones por la caída en la demanda de energía solar residencial y aranceles.",
+      "detail": "Las aprobaciones regulatorias de distribuidoras son un paso necesario para que las empresas de tecnología energética puedan vender sus productos a hogares conectados a la red. Conseguir 80 aprobaciones de golpe amplía el mercado potencial de forma concreta, no solo teórica. Este caso es útil para entender cómo el crecimiento de una empresa de energía limpia depende tanto de la innovación tecnológica como de la aprobación de actores regulados como las distribuidoras eléctricas.",
+      "tags": [
+        "energía solar",
+        "regulación",
+        "tecnología"
+      ],
+      "source_name": "Yahoo Finance Singapore",
+      "source_url": "https://sg.finance.yahoo.com/news/enphase-energy-enph-utility-approvals-200623317.html",
+      "published_at": "2026-10-04T20:07:23Z",
+      "fecha_evento": "2026-10-04",
+      "tickers": [
+        "ENPH"
       ]
     }
   ],
@@ -182,9 +165,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 85.286",
-      "valor_num": 85286.0,
-      "delta_pct": 0.74
+      "valor": "US$ 85.826",
+      "valor_num": 85826.0,
+      "delta_pct": 1.33
     },
     {
       "label": "S&P 500",
