@@ -1,158 +1,157 @@
 {
-  "generated_at": "2026-10-03T12:01:11.211171+00:00",
+  "generated_at": "2026-10-04T12:01:08.037280+00:00",
   "items": [
     {
-      "id": "mastercard-agent-pay-dividend",
+      "id": "cisco-ai-q4-2026",
       "type": "empresa",
-      "title": "Mastercard amplía su servicio de pagos con inteligencia artificial",
-      "summary": "Mastercard expandió su servicio Agent Pay con nuevas funciones para evaluar transacciones iniciadas por inteligencia artificial, incluyendo un puntaje de probabilidad para que bancos y comercios analicen esa actividad. Además, declaró un dividendo trimestral de USD 0,87 por acción, pagadero el 9 de noviembre de 2026.",
-      "detail": "El avance de la IA en las finanzas plantea nuevos desafíos: ¿cómo saber si una transacción la hizo una persona o un sistema automatizado? Mastercard intenta resolver eso con herramientas de confianza e inteligencia para las instituciones financieras. A su vez, el anuncio de dividendos es una señal de que la empresa distribuye parte de sus ganancias a los accionistas, algo relevante para entender cómo funcionan los retornos en acciones.",
+      "title": "Cisco subió 3% impulsada por pedidos de infraestructura de IA",
+      "summary": "Las acciones de Cisco Systems subieron 3,16% tras publicar resultados del cuarto trimestre fiscal 2026 con ingresos récord de USD 17.250 millones, impulsados por la fuerte demanda de infraestructura de inteligencia artificial. La empresa también dio una guía optimista para 2027, proyectando ingresos de IA para hyperscalers de USD 7.500 millones.",
+      "detail": "Cuando una empresa tecnológica como Cisco reporta ingresos récord y sube su guía futura, el mercado lo interpreta como una señal de que la demanda en su sector sigue siendo sólida. En este caso, el motor es la IA: las empresas necesitan redes más potentes para sostener los centros de datos de inteligencia artificial, y Cisco es uno de los principales proveedores. Que el precio de la acción suba después del anuncio refleja cómo los inversores ajustan sus expectativas de ganancias futuras.",
       "tags": [
         "inteligencia artificial",
-        "dividendos",
-        "pagos digitales"
+        "tecnología",
+        "resultados"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mastercard-expands-agent-pay-and-mastercard-stock-costs-eur-488-55/70220295",
-      "published_at": "2026-10-03T10:30:08Z",
-      "fecha_evento": "2026-10-03",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cisco-systems-stock-gains-3-16-percent-as-ai-orders-lift-results/70224570",
+      "published_at": "2026-10-04T10:26:40Z",
+      "fecha_evento": "2026-10-04",
       "tickers": [
-        "MA"
+        "CSCO"
       ]
     },
     {
-      "id": "tmobile-att-verizon-joint-venture",
+      "id": "adobe-buyback-26pct",
       "type": "empresa",
-      "title": "T-Mobile, AT&T y Verizon se unen para cubrir zonas sin señal en EE.UU.",
-      "summary": "Las tres grandes operadoras de telecomunicaciones de Estados Unidos formaron una empresa conjunta para expandir la cobertura en zonas desatendidas, incluyendo servicios satelitales. La acción de T-Mobile cotizaba en EUR 145,31 en el mercado de fin de semana.",
-      "detail": "Una joint venture entre competidores directos es un movimiento inusual que suele ocurrir cuando ninguna empresa puede asumir sola los costos de un proyecto. En este caso, extender redes a zonas remotas requiere inversiones enormes con retornos inciertos, por lo que compartir el riesgo tiene sentido económico. Para un inversor, este tipo de alianzas puede cambiar la dinámica competitiva del sector y afectar las valuaciones de las tres compañías involucradas.",
+      "title": "Adobe tiene USD 24.500 millones disponibles para recomprar sus propias acciones",
+      "summary": "Adobe todavía tiene USD 24.550 millones sin usar de su programa de recompra de acciones de USD 25.000 millones, lo que equivale a cerca del 26% del valor de mercado actual de la compañía. La empresa financia estas recompras con su flujo de caja operativo, lo que contribuye al crecimiento de las ganancias por acción.",
+      "detail": "Las recompras de acciones son una herramienta clave que usan las empresas para devolver valor a sus accionistas: al reducir la cantidad de acciones en circulación, las ganancias se dividen entre menos papeles y el EPS sube. Un programa tan grande respecto al tamaño de la compañía puede actuar como un 'piso' para el precio de la acción, ya que la propia empresa sale a comprar en el mercado. Es una señal de que la dirección confía en que el precio actual está por debajo del valor real.",
       "tags": [
-        "telecomunicaciones",
-        "joint venture",
-        "cobertura"
+        "recompra de acciones",
+        "valuación",
+        "tecnología"
+      ],
+      "source_name": "The Globe and Mail",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/ADBE/pressreleases/4949683/adobe-still-has-245-billion-left-for-buybacks-thats-about-a-quarter-of-the-company/",
+      "published_at": "2026-10-04T10:47:01Z",
+      "fecha_evento": "2026-10-04",
+      "tickers": [
+        "ADBE"
+      ]
+    },
+    {
+      "id": "fedex-camiones-electricos",
+      "type": "empresa",
+      "title": "FedEx encargó 2.000 camiones eléctricos por más de USD 300 millones",
+      "summary": "FedEx realizó un pedido de 2.000 camiones eléctricos a Harbinger por un valor superior a USD 300 millones, con entrega prevista para fines de 2027, como parte de su estrategia de electrificación de flota. La empresa también reportó ingresos fiscales 2026 de USD 94.720 millones, un 7,7% más que el año anterior.",
+      "detail": "Las grandes inversiones en electromovilidad muestran cómo empresas de logística buscan reducir costos operativos a largo plazo y cumplir compromisos ambientales. Para los inversores, este tipo de anuncios impactan tanto en FedEx como en sus proveedores —en este caso Harbinger—. También es relevante como señal del ritmo de adopción de vehículos eléctricos en el sector industrial, que mueve mucho capital.",
+      "tags": [
+        "electromovilidad",
+        "logística",
+        "inversión"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/t-mobile-us-enters-joint-venture-and-t-mobile-us-stock-costs-eur-145-31/70220389",
-      "published_at": "2026-10-03T09:43:36Z",
-      "fecha_evento": "2026-10-03",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fedex-stock-gets-a-2-000-truck-order-worth-more-than-usd-300-million/70223992",
+      "published_at": "2026-10-04T08:49:55Z",
+      "fecha_evento": "2026-10-04",
       "tickers": [
-        "TMUS",
-        "T",
-        "VZ"
+        "FDX"
       ]
     },
     {
-      "id": "abbvie-fda-parkinson",
+      "id": "constellation-amazon-deal",
       "type": "empresa",
-      "title": "AbbVie recibió aprobación de la FDA para una nueva pastilla contra el Parkinson",
-      "summary": "La FDA aprobó Juvmo (tavapadon), una pastilla de toma diaria para el Parkinson desarrollada por AbbVie, que activa selectivamente receptores de dopamina. El medicamento proviene de la adquisición de Cerevel Therapeutics por USD 8.700 millones y se proyecta que genere ventas anuales de USD 1.400 millones para 2040.",
-      "detail": "Las aprobaciones de la FDA son eventos clave para empresas farmacéuticas porque habilitan la comercialización de un producto y pueden cambiar significativamente las proyecciones de ingresos futuros. En este caso, AbbVie pagó USD 8.700 millones por Cerevel justamente para hacerse de este activo, así que la aprobación valida esa apuesta estratégica. Para quienes aprenden finanzas, es un ejemplo claro de cómo una noticia regulatoria puede impactar el valor de una empresa.",
+      "title": "Constellation Energy firma un acuerdo de 20 años con Amazon para venderle energía nuclear",
+      "summary": "Constellation Energy anunció un acuerdo de compra de energía a 20 años con Amazon, cubriendo 690 megawatts de su planta nuclear Calvert Cliffs. La acción cotizaba en USD 257,49 tras el anuncio, y los analistas mantienen un consenso de compra fuerte con precio objetivo muy por encima del valor actual.",
+      "detail": "Los acuerdos de compra de energía a largo plazo (conocidos como PPAs) le dan previsibilidad de ingresos a empresas eléctricas, lo que las hace más atractivas para inversores que buscan flujos de caja estables. Que Amazon, uno de los mayores consumidores de electricidad del mundo por sus centros de datos de IA, elija energía nuclear refleja la tendencia de las Big Tech de asegurar fuentes de energía limpia y continua. Esto posiciona a Constellation como jugador clave en la intersección entre energía e inteligencia artificial.",
       "tags": [
-        "farmacéutica",
-        "FDA",
-        "aprobación regulatoria"
-      ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/healthcare/articles/abbvie-just-won-fda-approval-101000922.html",
-      "published_at": "2026-10-03T10:10:00Z",
-      "fecha_evento": "2026-10-03",
-      "tickers": [
-        "ABBV"
-      ]
-    },
-    {
-      "id": "everest-canada-sale",
-      "type": "empresa",
-      "title": "Everest Group completó la venta de su división canadiense de seguros",
-      "summary": "Everest Group cerró la venta de su operación de seguros minoristas en Canadá a la aseguradora Wawanesa, tras obtener la aprobación regulatoria. La compañía indicó que la operación le permite concentrar capital en sus negocios de reaseguros y seguros mayoristas globales.",
-      "detail": "Cuando una empresa vende una división, suele ser para enfocarse en los negocios que considera más rentables o estratégicos, liberando capital para invertirlo donde genera más valor. Esta decisión de Everest de desprenderse del negocio minorista canadiense y apostar al reaseguro es un ejemplo de reestructuración de portafolio, un concepto clave en finanzas corporativas. Para el inversor, entender por qué una empresa vende activos puede anticipar cambios en su rentabilidad futura.",
-      "tags": [
-        "seguros",
-        "desinversión",
-        "estrategia corporativa"
-      ],
-      "source_name": "Bernews",
-      "source_url": "https://bernews.com/2026/10/everest-completes-everest-canada-sale/",
-      "published_at": "2026-10-03T09:34:16Z",
-      "fecha_evento": "2026-10-03",
-      "tickers": [
-        "EG"
-      ]
-    },
-    {
-      "id": "public-storage-notes-cad",
-      "type": "empresa",
-      "title": "Public Storage emitió notas por CAD 400 millones para financiar una adquisición",
-      "summary": "Public Storage anunció la colocación de notas senior a tasa fija de 4,54% anual por CAD 400 millones con vencimiento en 2033. Los fondos se usarán principalmente para reponer caja usada en la adquisición de Public Storage Canada y para fines corporativos generales.",
-      "detail": "Emitir deuda en el mercado de capitales es una forma habitual que tienen las grandes empresas de financiarse. En este caso, Public Storage eligió emitir en dólares canadienses, probablemente para calzar la moneda con sus activos en Canadá y reducir el riesgo cambiario. Para alguien que aprende finanzas, es un buen ejemplo de cómo las empresas gestionan su estructura de capital y el costo de la deuda.",
-      "tags": [
-        "deuda corporativa",
-        "real estate",
-        "financiamiento"
+        "energía nuclear",
+        "contratos",
+        "Big Tech"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/public-storage-prices-cad-400-million-notes-public-storage-stock-costs/70220290",
-      "published_at": "2026-10-03T09:30:10Z",
-      "fecha_evento": "2026-10-03",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/constellation-energy-stock-trades-at-usd-257-49-after-amazon-deal/70224437",
+      "published_at": "2026-10-04T10:02:00Z",
+      "fecha_evento": "2026-10-04",
       "tickers": [
-        "PSA"
+        "CEG",
+        "AMZN"
       ]
     },
     {
-      "id": "wynn-resorts-notes-900m",
+      "id": "danaher-nueva-ceo",
       "type": "empresa",
-      "title": "Wynn Resorts emitió deuda por USD 900 millones para refinanciar bonos existentes",
-      "summary": "Wynn Resorts anunció la colocación de notas senior por USD 900 millones con vencimiento en 2035 y una tasa de 6,875%, con el objetivo de rescatar bonos al 5,25% que vencían en 2027. La acción cotizaba en EUR 67,60 en el mercado de fin de semana.",
-      "detail": "Refinanciar deuda significa reemplazar obligaciones existentes por nuevas, generalmente para mejorar las condiciones o extender los plazos. En este caso, Wynn paga una tasa más alta (6,875% vs. 5,25%), lo que refleja que el entorno de tasas de interés actual es más caro que cuando emitió la deuda anterior. Es un ejemplo concreto de cómo el nivel de tasas en la economía afecta el costo de financiamiento de las empresas.",
+      "title": "Danaher designó una nueva CEO días antes de publicar sus resultados trimestrales",
+      "summary": "Danaher Corporation nombró a Julie Sawyer Montgomery como nueva Presidenta y CEO, con efectividad desde el 1° de octubre de 2026, en reemplazo de Rainer Blair. El cambio ocurre semanas antes del call de resultados del tercer trimestre, previsto para el 21 de octubre.",
+      "detail": "Los cambios de liderazgo en empresas grandes generan incertidumbre en el mercado, especialmente cuando ocurren justo antes de la publicación de resultados: los inversores no saben si habrá cambios de estrategia o si la nueva conducción confirma la guía anterior. Danaher opera en el sector de ciencias de la vida e instrumentación científica, con fuerte exposición global. Seguir este tipo de noticias ayuda a entender cómo el mercado reacciona al riesgo de gestión.",
       "tags": [
-        "deuda corporativa",
-        "refinanciamiento",
-        "tasas de interés"
+        "liderazgo",
+        "ciencias de la vida",
+        "resultados"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wynn-resorts-announces-900-million-notes-pricing-for-wynn-resorts-stock/70220124",
-      "published_at": "2026-10-03T09:12:42Z",
-      "fecha_evento": "2026-10-03",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/danaher-stock-names-a-new-ceo-ahead-of-the-october-earnings-test/70224131",
+      "published_at": "2026-10-04T09:08:40Z",
+      "fecha_evento": "2026-10-01",
       "tickers": [
-        "WYNN"
+        "DHR"
       ]
     },
     {
-      "id": "nextera-dominion-combination",
-      "type": "empresa",
-      "title": "NextEra Energy confirmó sus proyecciones de largo plazo y su fusión con Dominion Energy",
-      "summary": "NextEra Energy reafirmó su outlook de ganancias por acción para 2026 y sus objetivos de crecimiento hasta 2035. Además, mencionó una combinación propuesta con Dominion Energy que se espera concretar a fines de 2027.",
-      "detail": "NextEra es la mayor empresa de energía renovable del mundo, por lo que sus proyecciones de largo plazo son seguidas de cerca por inversores institucionales. La posible fusión con Dominion Energy sería una operación enorme en el sector energético estadounidense, con implicancias para la competencia y los precios de la energía. Para alguien que aprende finanzas, este caso combina dos temas clave: la proyección de resultados futuros (guidance) y las fusiones y adquisiciones como estrategia de crecimiento.",
+      "id": "fox-roku-voto-accionistas",
+      "type": "reunion",
+      "title": "Accionistas de Roku votan el 14 de octubre sobre la fusión con Fox Corporation",
+      "summary": "El 14 de octubre de 2026 está programada la votación de accionistas de Roku sobre la transacción con Fox Corporation, que prevé que cada acción de Roku reciba USD 96 en efectivo más 0,9693 acciones clase A de Fox. Las acciones de Fox subieron 1,63% ante la proximidad del evento.",
+      "detail": "Las votaciones de accionistas en fusiones y adquisiciones son eventos clave porque determinan si una operación avanza o se cae. El precio de las acciones de la empresa adquirida suele converger hacia el precio ofrecido si el mercado cree que el deal se aprobará. Este caso muestra cómo una operación corporativa grande puede mover acciones de varias compañías a la vez —Fox sube porque el mercado anticipa que la fusión se concreta.",
       "tags": [
-        "energía renovable",
         "fusiones",
-        "guidance"
+        "medios de comunicación",
+        "voto accionistas"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nextera-energy-stock-trades-0-03-percent-above-its-xetra-close-of-eur/70219942",
-      "published_at": "2026-10-03T08:42:22Z",
-      "fecha_evento": "2026-10-03",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fox-corporation-stock-gains-1-63-percent-as-roku-vote-nears/70224156",
+      "published_at": "2026-10-04T09:12:06Z",
+      "fecha_evento": "2026-10-14",
       "tickers": [
-        "NEE"
+        "FOXA"
       ]
     },
     {
-      "id": "hii-throughput-growth",
-      "type": "empresa",
-      "title": "Huntington Ingalls apunta a crecer 15% en producción naval en 2026",
-      "summary": "Huntington Ingalls Industries (HII) anunció que busca aumentar su capacidad de producción en astilleros un 15% interanual durante 2026, mediante contrataciones masivas, modernización de infraestructura y mayor subcontratación. La compañía tiene actualmente alrededor de 40 barcos en construcción o modernización.",
-      "detail": "HII es el principal constructor de buques militares de Estados Unidos, por lo que sus planes de expansión están íntimamente ligados al gasto de defensa del gobierno. Un crecimiento del 15% en throughput implica mayores ingresos potenciales, pero también mayores costos operativos en el corto plazo. Este caso es útil para entender cómo las empresas industriales traducen contratos gubernamentales en planes de producción y expansión de capacidad.",
+      "id": "mercadolibre-valuacion-octubre",
+      "type": "mercado",
+      "title": "MercadoLibre cayó en bolsa pero analistas la ven atractiva cerca de mínimos de varios años",
+      "summary": "Las acciones de MercadoLibre bajaron por mayor competencia y aumento de préstamos incobrables, a pesar de que la empresa sigue creciendo en ingresos. Con un precio cercano a mínimos de varios años, algunos analistas consideran que la valuación actual es una oportunidad de compra por el potencial de largo plazo en América Latina.",
+      "detail": "MercadoLibre es la empresa de e-commerce y fintech más grande de Latinoamérica, por lo que su desempeño es un termómetro del consumo y la penetración financiera en la región. Que esté priorizando participación de mercado sobre ganancias de corto plazo es una estrategia típica de empresas de crecimiento: invierten hoy para dominar mañana. Para alguien en Argentina, seguir a MELI permite entender la dinámica de los mercados emergentes y cómo los inversores globales valoran empresas de la región.",
       "tags": [
-        "defensa",
-        "producción",
-        "contratación"
+        "América Latina",
+        "fintech",
+        "valuación"
+      ],
+      "source_name": "The Motley Fool",
+      "source_url": "https://www.fool.com/investing/2026/10/04/mercadolibre-costs-around-1700-a-share-heres-why-i/",
+      "published_at": "2026-10-04T09:19:13Z",
+      "fecha_evento": "2026-10-04",
+      "tickers": [
+        "MELI"
+      ]
+    },
+    {
+      "id": "marsh-mclennan-adquisicion",
+      "type": "empresa",
+      "title": "Marsh & McLennan completó la compra de Accel Holdings y amplía su negocio de gestión patrimonial",
+      "summary": "Marsh & McLennan cerró el 2 de octubre de 2026 la adquisición de Accel Holdings, una firma de Iowa especializada en jubilaciones, gestión de patrimonio y agronegocios. La acción cotizaba en USD 170,06 y JPMorgan subió su precio objetivo a USD 215.",
+      "detail": "Las adquisiciones son una forma en que las empresas grandes crecen rápidamente al comprar capacidades o mercados que serían lentos de construir desde cero. En este caso, Marsh & McLennan —una de las consultoras de seguros y gestión de riesgos más grandes del mundo— expande su oferta en un segmento de alto margen como la gestión patrimonial. Que un banco como JPMorgan suba el precio objetivo luego de la operación indica que el mercado ve la compra como generadora de valor.",
+      "tags": [
+        "adquisiciones",
+        "gestión de riesgos",
+        "analistas"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/hii-targets-15-percent-throughput-growth-as-huntington-ingalls-stock-costs/70219981",
-      "published_at": "2026-10-03T08:47:32Z",
-      "fecha_evento": "2026-10-03",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/marsh-and-mclennan-stock-expands-through-accel-acquisition/70224150",
+      "published_at": "2026-10-04T09:31:35Z",
+      "fecha_evento": "2026-10-02",
       "tickers": [
-        "HII"
+        "MRSH"
       ]
     }
   ],
@@ -161,31 +160,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.540",
       "valor_num": 1540.0,
-      "delta_pct": -0.32
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.560",
       "valor_num": 1560.0,
-      "delta_pct": 0.32
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.552",
       "valor_num": 1551.9,
-      "delta_pct": -0.26
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
       "valor": "$1.624",
       "valor_num": 1623.8,
-      "delta_pct": -0.06
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 84.660",
-      "valor_num": 84660.0,
-      "delta_pct": -2.0
+      "valor": "US$ 85.286",
+      "valor_num": 85286.0,
+      "delta_pct": 0.74
     },
     {
       "label": "S&P 500",
@@ -197,7 +196,7 @@
       "label": "ORO (ONZA)",
       "valor": "US$ 4.162",
       "valor_num": 4162.3,
-      "delta_pct": -0.15
+      "delta_pct": -0.42
     }
   ]
 }
