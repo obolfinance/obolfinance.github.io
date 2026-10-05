@@ -1,140 +1,138 @@
 {
-  "generated_at": "2026-10-04T22:01:08.892282+00:00",
+  "generated_at": "2026-10-05T12:01:26.584742+00:00",
   "items": [
     {
-      "id": "gm-q3-sales-20261004",
+      "id": "schneider-ptc-acquisition",
       "type": "empresa",
-      "title": "Las ventas trimestrales de General Motors cayeron 5,5% por la menor demanda de autos eléctricos",
-      "summary": "General Motors reportó que sus ventas en EE.UU. durante el tercer trimestre bajaron 5,5% interanual, llegando a 670.974 vehículos, con la demanda de autos eléctricos como principal factor negativo. A pesar del dato, UBS subió su precio objetivo para la acción a USD 114 y la empresa reafirmó su guía de ganancias para 2026.",
-      "detail": "La caída en ventas de vehículos eléctricos de GM es una señal importante sobre el estado real de la transición energética en el mercado automotriz: la demanda no siempre sigue el ritmo que las empresas proyectan. Que UBS suba el precio objetivo pese a los números negativos muestra que los analistas a veces valoran más la rentabilidad y la guía futura que el volumen de ventas. Este tipo de divergencia entre datos operativos y valoración es clave para entender cómo funciona el mercado.",
+      "title": "Schneider Electric compra PTC por USD 22.600 millones",
+      "summary": "Schneider Electric firmó un acuerdo definitivo para adquirir PTC Inc. pagando USD 205 por acción, en una operación valuada en USD 22.600 millones. El cierre está previsto para el tercer trimestre de 2027, sujeto a aprobaciones regulatorias y de accionistas.",
+      "detail": "Las fusiones y adquisiciones de esta escala son un buen caso para entender cómo las grandes empresas crecen comprando en lugar de construir desde cero. Schneider, que fabrica equipos de gestión de energía, apunta a sumar el software industrial de PTC para fortalecer su posición en automatización y digitalización. El precio pagado incluye una prima importante para los accionistas de PTC, lo que muestra cuánto vale el negocio de software en el mercado actual. Que el deal sea 'immediately accretive' significa que se espera que sume a las ganancias por acción de Schneider desde el primer momento.",
       "tags": [
-        "autos eléctricos",
-        "ventas",
+        "fusiones",
+        "tecnología",
+        "energía"
+      ],
+      "source_name": "MarketScreener",
+      "source_url": "https://www.marketscreener.com/news/schneider-electric-s-e-enxtpa-su-signed-a-definitive-agreement-to-acquire-ptc-inc-for-22-6-bill-ce785ddbd08cff2d",
+      "published_at": "2026-10-05T11:06:39Z",
+      "fecha_evento": "2026-10-05",
+      "tickers": [
+        "PTC"
+      ]
+    },
+    {
+      "id": "ch-robinson-rxo-deal",
+      "type": "empresa",
+      "title": "C.H. Robinson compra RXO por USD 5.800 millones",
+      "summary": "La empresa de logística C.H. Robinson anunció la compra de RXO Inc. en un acuerdo mixto de acciones y efectivo valuado en USD 5.800 millones, creando una entidad combinada con un valor empresarial de más de USD 25.000 millones. Los accionistas de RXO recibirán USD 17,25 en efectivo más 0,0856 acciones de C.H. Robinson por cada acción, lo que implica un precio total de USD 30,25 por acción.",
+      "detail": "Esta operación muestra cómo se consolidan los sectores: dos grandes actores de logística unen fuerzas para ganar escala y eficiencia. Las sinergias esperadas de USD 300 millones en costos anuales son clave para justificar el precio pagado. El uso de un mix de efectivo y acciones es común en deals grandes para no drenar toda la caja de la compradora. El cierre previsto en el primer semestre de 2027 refleja el tiempo que llevan los procesos regulatorios en transacciones de este tamaño.",
+      "tags": [
+        "logística",
+        "fusiones",
         "acciones"
       ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/general-motors-stock-fell-1-31-percent-as-q3-sales-fell-5-5-percent/70228007",
-      "published_at": "2026-10-04T19:20:50Z",
-      "fecha_evento": "2026-10-02",
+      "source_name": "Investing.com UK",
+      "source_url": "https://uk.investing.com/news/stock-market-news/ch-robinson-to-acquire-rxo-for-58-billion-in-stockcash-deal-93CH-4895066",
+      "published_at": "2026-10-05T11:10:54Z",
+      "fecha_evento": "2026-10-05",
       "tickers": [
-        "GM"
+        "CHRW"
       ]
     },
     {
-      "id": "nvidia-pepsico-delta-watch-20261004",
-      "type": "mercado",
-      "title": "PepsiCo, Delta Air Lines y Nvidia: las tres acciones más seguidas esta semana en Wall Street",
-      "summary": "Analistas identifican a PepsiCo, Delta Air Lines y Nvidia como las acciones clave a monitorear esta semana, en un contexto de inicio de temporada de resultados, decisiones de la Reserva Federal y conflictos globales. Nvidia llama la atención tras alcanzar un máximo histórico impulsado por un gran programa de recompra de acciones.",
-      "detail": "La convergencia de resultados corporativos, política monetaria y geopolítica es lo que genera mayor volatilidad en los mercados. El caso de Nvidia ilustra cómo una recompra de acciones (buyback) puede impulsar el precio porque reduce la cantidad de acciones en circulación, aumentando la ganancia por acción. Para quien aprende finanzas, seguir estas semanas de earnings es fundamental para entender cómo las expectativas mueven los precios antes incluso de que se publiquen los números reales.",
-      "tags": [
-        "earnings",
-        "Nvidia",
-        "mercados"
-      ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/markets/equities/26/10/62153028/top-3-us-stocks-to-watch-this-week-pepsico-delta-air-lines-nvidia",
-      "published_at": "2026-10-04T20:53:29Z",
-      "fecha_evento": "2026-10-04",
-      "tickers": [
-        "PEP",
-        "DAL",
-        "NVDA"
-      ]
-    },
-    {
-      "id": "broadcom-dividendo-ia-20261004",
+      "id": "amd-warrants-openai-meta",
       "type": "empresa",
-      "title": "Broadcom: ¿puede sostener el crecimiento del dividendo si sus clientes de IA ganan más poder de negociación?",
-      "summary": "Broadcom genera suficiente flujo de caja operativo para cubrir sus pagos de dividendos 3,4 veces, lo que lo hace sostenible en el corto plazo. Sin embargo, el hecho de que sus cinco principales clientes de inteligencia artificial representen el 55% de los ingresos es visto como un riesgo: si esos clientes negocian mejores precios, los márgenes de Broadcom podrían resentirse.",
-      "detail": "Este artículo muestra dos conceptos clave: la cobertura de dividendos (cuántas veces el flujo de caja cubre el pago) y el riesgo de concentración de clientes. Cuando pocas empresas explican más de la mitad de los ingresos, el negocio es vulnerable si alguna decide cambiar de proveedor o negociar condiciones más duras. En el mundo de la IA, donde los grandes compradores de chips son cada vez más poderosos, este riesgo es real y afecta la valuación a largo plazo.",
+      "title": "AMD prometió hasta 320 millones de acciones a OpenAI y Meta a USD 0,01 cada una",
+      "summary": "AMD otorgó warrants a OpenAI y Meta Platforms para comprar hasta 160 millones de acciones cada una al precio simbólico de USD 0,01, condicionados a que cada empresa compre hasta 6 gigawatts de chips de IA de AMD. Si se ejercen por completo, OpenAI y Meta tendrían cerca del 16% de la compañía, diluyendo a los accionistas actuales.",
+      "detail": "Los warrants son un instrumento financiero que da el derecho de comprar acciones a un precio fijo en el futuro; en este caso, casi regaladas. La lógica del deal es que AMD sacrifica parte de su capital accionario a cambio de asegurarse ventas masivas de chips de IA, lo que podría generar 'doble dígito en miles de millones de dólares' por gigawatt según su CEO. Para un inversor, el punto clave es la dilución: si entran muchas acciones nuevas al mercado, la participación de cada accionista existente vale menos. Este tipo de acuerdos muestra cómo las empresas de chips compiten por los contratos de los gigantes de la IA.",
       "tags": [
-        "dividendos",
         "inteligencia artificial",
-        "semiconductores"
+        "dilución",
+        "chips"
       ],
-      "source_name": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-keep-growing-dividend-ai-203334720.html",
-      "published_at": "2026-10-04T20:34:17Z",
-      "fecha_evento": "2026-10-04",
+      "source_name": "The Globe and Mail",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/4957662/amd-has-promised-openai-and-meta-up-to-320-million-shares-for-a-penny-each-here-s-what-that-does-to-the-share-count/",
+      "published_at": "2026-10-05T10:45:06Z",
+      "fecha_evento": "2026-10-05",
       "tickers": [
-        "AVGO"
+        "AMD",
+        "META"
       ]
     },
     {
-      "id": "regeneron-sanofi-alianza-20261004",
+      "id": "wells-fargo-microsoft-target",
       "type": "empresa",
-      "title": "Regeneron amplió su alianza con Sanofi con potencial de hasta USD 8.000 millones en hitos",
-      "summary": "Regeneron Pharmaceuticals anunció datos iniciales de dos nuevas terapias y una expansión de su alianza con la farmacéutica Sanofi, que podría sumar hasta USD 8.000 millones en pagos por cumplimiento de objetivos. El movimiento busca diversificar los ingresos de Regeneron más allá de sus productos estrella actuales.",
-      "detail": "Las alianzas farmacéuticas con pagos por hitos (milestones) son una forma de financiar el desarrollo de medicamentos repartiendo riesgos entre empresas. Para el inversor, ampliar la cartera de productos reduce la dependencia de un solo fármaco, lo cual es positivo para la estabilidad de los ingresos futuros. Este tipo de acuerdos también muestran cómo funciona la valoración de activos en biotecnología: se paga según resultados clínicos, no solo por ventas actuales.",
+      "title": "Wells Fargo sube el precio objetivo de Microsoft a USD 725",
+      "summary": "Wells Fargo elevó su precio objetivo para la acción de Microsoft de USD 700 a USD 725, manteniendo una calificación 'Overweight'. El banco menciona como drivers la monetización de la IA, la próxima conferencia Ignite y una nueva estructura de reporte que daría más claridad sobre los ingresos de Azure.",
+      "detail": "Cuando un banco de inversión sube su precio objetivo, está diciendo que espera que la acción valga más en el futuro. En el caso de Microsoft, el foco está en Azure, su negocio de nube, que es difícil de aislar en los números actuales. La nueva estructura de reporte podría hacer más transparente cuánto crece ese segmento, lo que suele ser bien visto por el mercado. La IA sigue siendo el principal motor de expectativas para las grandes tecnológicas.",
       "tags": [
-        "farmacéutica",
-        "alianzas",
-        "biotecnología"
+        "tecnología",
+        "inteligencia artificial",
+        "analistas"
       ],
-      "source_name": "Simply Wall Street",
-      "source_url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nasdaq-regn/regeneron-pharmaceuticals/news/how-investors-are-reacting-to-regeneron-pharmaceuticals-regn",
-      "published_at": "2026-10-04T19:33:59Z",
-      "fecha_evento": "2026-10-04",
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wells-fargo-raises-target-for-microsoft-stock-from-usd-700-to-usd-725/70232116",
+      "published_at": "2026-10-05T11:15:39Z",
+      "fecha_evento": "2026-10-05",
       "tickers": [
-        "REGN"
+        "MSFT"
       ]
     },
     {
-      "id": "campbell-soup-dividendo-recorte-20261004",
-      "type": "empresa",
-      "title": "Campbell Soup recortó su dividendo trimestral un 36% para financiar su plan de recuperación",
-      "summary": "Campbell Soup cerró en USD 19,62 el 2 de octubre y confirmó que recortó su dividendo trimestral en un 36% como parte de una estrategia de reorganización, luego de que sus ventas fiscales 2026 cayeran a USD 9.744 millones y las ganancias por acción bajaran a USD 1,31. Los analistas tienen consenso neutral con un precio objetivo de USD 20,79.",
-      "detail": "Un recorte de dividendo suele ser una señal de alerta para los inversores porque indica que la empresa prefiere retener efectivo antes que distribuirlo, generalmente porque enfrenta presiones financieras o necesita invertir en una reestructuración. Para quien aprende finanzas, este caso muestra la tensión entre mantener contentos a los accionistas con pagos regulares y tener liquidez para financiar un giro estratégico. La reacción del mercado a estos recortes suele ser negativa en el corto plazo.",
+      "id": "amd-ceo-corea",
+      "type": "discurso",
+      "title": "La CEO de AMD viaja a Corea del Sur para reunirse con socios tecnológicos",
+      "summary": "Lisa Su, CEO de Advanced Micro Devices, visita Corea del Sur esta semana para reunirse con ejecutivos del sector semiconductor y funcionarios del gobierno, con foco en alianzas en inteligencia artificial. AMD y Samsung tienen una relación estrecha, con Samsung proveyendo chips HBM3E a AMD para sus soluciones de IA.",
+      "detail": "Las visitas de CEOs de empresas de chips a Corea del Sur suelen tener relevancia porque allí están Samsung y SK Hynix, dos de los principales productores mundiales de memoria HBM, clave para los procesadores de IA. La memoria HBM (High Bandwidth Memory) es un insumo crítico para los chips de IA de AMD, por lo que estas negociaciones pueden impactar en la cadena de suministro y la competitividad de AMD frente a Nvidia. Para quien aprende finanzas, este tipo de noticias muestra cómo las relaciones entre empresas de distintos países afectan la estrategia de las grandes tecnológicas.",
       "tags": [
-        "dividendos",
+        "semiconductores",
+        "inteligencia artificial",
+        "geopolítica"
+      ],
+      "source_name": "The Korea Herald",
+      "source_url": "https://www.koreaherald.com/article/10893430",
+      "published_at": "2026-10-05T10:50:06Z",
+      "fecha_evento": "2026-10-05",
+      "tickers": [
+        "AMD"
+      ]
+    },
+    {
+      "id": "wells-fargo-mcdonalds-target-cut",
+      "type": "empresa",
+      "title": "Wells Fargo baja el precio objetivo de McDonald's por preocupaciones con su estrategia",
+      "summary": "Wells Fargo redujo su precio objetivo para McDonald's de USD 300 a USD 270, manteniendo una calificación 'Overweight', tras el evento 'Accelerating the Arches Day' donde la empresa presentó su plan de inversión. El banco bajó sus estimaciones de ganancias por acción para 2026-2028 y anticipa que las inversiones del programa 'NEXT' beneficiarán más a los franquiciados que a los accionistas.",
+      "detail": "Cuando una empresa presenta un plan estratégico y los analistas bajan sus estimaciones, el mercado suele responder negativamente. En este caso, el programa de McDonald's implica invertir más dinero en los locales, pero esos beneficios irían principalmente a los franquiciados, no a la empresa matriz ni a sus accionistas. La caída del 24% en lo que va del año, contra una suba del 13% del S&P 500, muestra que el mercado ya venía descontando estos desafíos. Entender la diferencia entre lo que beneficia a la empresa y lo que beneficia al franquiciado es clave para analizar negocios de este modelo.",
+      "tags": [
         "consumo",
-        "reestructuración"
+        "franquicias",
+        "analistas"
       ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/campbell-soup-stock-closes-at-usd-19-62-after-fiscal-reset/70227933",
-      "published_at": "2026-10-04T19:10:55Z",
-      "fecha_evento": "2026-10-02",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-mcdonalds-stock-price-target-on-franchisee-deal-concerns-93CH-4931545",
+      "published_at": "2026-10-05T10:46:27Z",
+      "fecha_evento": "2026-10-05",
       "tickers": [
-        "CPB"
+        "MCD"
       ]
     },
     {
-      "id": "dominion-nextera-merger-20261004",
+      "id": "evercore-align-downgrade",
       "type": "empresa",
-      "title": "Dominion Energy superó las expectativas de ganancias y espera aprobación regulatoria para fusionarse con NextEra",
-      "summary": "Dominion Energy reportó un EPS ajustado de USD 0,79 en el segundo trimestre, por encima del consenso de USD 0,68, con ingresos de USD 4.480 millones (+17,6% interanual). El caso de inversión de la empresa gira en torno a su desempeño operativo y la fusión pendiente con NextEra Energy, que todavía aguarda aprobaciones regulatorias.",
-      "detail": "Las fusiones en el sector energético regulado requieren aprobación de organismos gubernamentales, lo que introduce incertidumbre y puede demorar meses o años. Para el inversor, esta situación crea un escenario donde el precio de la acción puede moverse tanto por los resultados trimestrales como por las novedades regulatorias. Entender cómo el proceso regulatorio afecta el valor de una fusión es una habilidad clave en finanzas corporativas.",
+      "title": "Evercore ISI baja la calificación de Align Technology por caída en la demanda",
+      "summary": "Evercore ISI degradó a Align Technology (fabricante de Invisalign) de 'Outperform' a 'In Line' y recortó su precio objetivo de USD 220 a USD 155, citando un deterioro sharp en el mercado dental y una desaceleración significativa en los usuarios activos de Invisalign. El banco redujo sus estimaciones de ingresos para 2026 y 2027.",
+      "detail": "Un downgrade de analista refleja un cambio en las expectativas sobre el negocio de una empresa. En este caso, la debilidad del consumidor está pegando en sectores no esenciales como la ortodoncia estética. Para quien aprende finanzas, esto muestra cómo los ciclos económicos afectan a empresas que dependen del gasto discrecional de las personas. La magnitud del recorte en el precio objetivo —de USD 220 a USD 155— es inusualmente grande y sugiere una revisión profunda de las perspectivas del sector.",
       "tags": [
-        "energía",
-        "fusiones",
-        "regulación"
+        "salud",
+        "consumo",
+        "analistas"
       ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/dominion-energy-stock-reports-a-quarterly-earnings-beat/70228070",
-      "published_at": "2026-10-04T19:42:36Z",
-      "fecha_evento": "2026-10-02",
+      "source_name": "Investing.com",
+      "source_url": "https://www.investing.com/news/analyst-ratings/evercore-isi-cuts-align-technology-stock-rating-on-weak-demand-93CH-4931494",
+      "published_at": "2026-10-05T10:34:27Z",
+      "fecha_evento": "2026-10-05",
       "tickers": [
-        "D",
-        "NEE"
-      ]
-    },
-    {
-      "id": "enphase-utility-approvals-20261004",
-      "type": "empresa",
-      "title": "Enphase Energy logró aprobación de 80 distribuidoras para su sistema de respaldo energético domiciliario",
-      "summary": "Enphase Energy obtuvo el visto bueno de 80 empresas distribuidoras de electricidad en EE.UU. y Canadá para su medidor inteligente IQ Meter Collar, lo que amplía significativamente el mercado para sus soluciones de respaldo energético total del hogar. Pese a la mejora reciente en el precio de la acción, la empresa enfrenta presiones por la caída en la demanda de energía solar residencial y aranceles.",
-      "detail": "Las aprobaciones regulatorias de distribuidoras son un paso necesario para que las empresas de tecnología energética puedan vender sus productos a hogares conectados a la red. Conseguir 80 aprobaciones de golpe amplía el mercado potencial de forma concreta, no solo teórica. Este caso es útil para entender cómo el crecimiento de una empresa de energía limpia depende tanto de la innovación tecnológica como de la aprobación de actores regulados como las distribuidoras eléctricas.",
-      "tags": [
-        "energía solar",
-        "regulación",
-        "tecnología"
-      ],
-      "source_name": "Yahoo Finance Singapore",
-      "source_url": "https://sg.finance.yahoo.com/news/enphase-energy-enph-utility-approvals-200623317.html",
-      "published_at": "2026-10-04T20:07:23Z",
-      "fecha_evento": "2026-10-04",
-      "tickers": [
-        "ENPH"
+        "ALGN"
       ]
     }
   ],
@@ -165,9 +163,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 85.826",
-      "valor_num": 85826.0,
-      "delta_pct": 1.33
+      "valor": "US$ 86.182",
+      "valor_num": 86182.0,
+      "delta_pct": 1.04
     },
     {
       "label": "S&P 500",
@@ -177,9 +175,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.162",
-      "valor_num": 4162.3,
-      "delta_pct": -0.42
+      "valor": "US$ 4.181",
+      "valor_num": 4181.3,
+      "delta_pct": -0.13
     }
   ]
 }
