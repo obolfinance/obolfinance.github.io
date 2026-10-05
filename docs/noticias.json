@@ -1,138 +1,81 @@
 {
-  "generated_at": "2026-10-05T12:01:26.584742+00:00",
+  "generated_at": "2026-10-05T22:01:13.597931+00:00",
   "items": [
     {
-      "id": "schneider-ptc-acquisition",
-      "type": "empresa",
-      "title": "Schneider Electric compra PTC por USD 22.600 millones",
-      "summary": "Schneider Electric firmó un acuerdo definitivo para adquirir PTC Inc. pagando USD 205 por acción, en una operación valuada en USD 22.600 millones. El cierre está previsto para el tercer trimestre de 2027, sujeto a aprobaciones regulatorias y de accionistas.",
-      "detail": "Las fusiones y adquisiciones de esta escala son un buen caso para entender cómo las grandes empresas crecen comprando en lugar de construir desde cero. Schneider, que fabrica equipos de gestión de energía, apunta a sumar el software industrial de PTC para fortalecer su posición en automatización y digitalización. El precio pagado incluye una prima importante para los accionistas de PTC, lo que muestra cuánto vale el negocio de software en el mercado actual. Que el deal sea 'immediately accretive' significa que se espera que sume a las ganancias por acción de Schneider desde el primer momento.",
+      "id": "novavax-plague-rally",
+      "type": "mercado",
+      "title": "Novavax sube más del 20% por rumores de peste bubónica en Rusia",
+      "summary": "Las acciones de Novavax (NVAX) dispararon más del 20% tras conocerse la sospecha de una muerte por peste en un instituto de investigación siberiano, arrastrando al alza a otras acciones del sector vacunas como Moderna y Emergent BioSolutions.",
+      "detail": "Este movimiento es un ejemplo clásico de rally impulsado por el miedo y el 'short squeeze': más del 30% de las acciones de Novavax estaban vendidas en corto, y la noticia forzó a esos inversores a recomprar para cubrir pérdidas. Sin embargo, los analistas señalan que la reacción no tiene base científica sólida, ya que la peste se trata con antibióticos y Novavax se especializa en vacunas virales. Es una lección sobre cómo el sentimiento y las posiciones especulativas pueden mover precios independientemente de los fundamentos.",
       "tags": [
-        "fusiones",
-        "tecnología",
-        "energía"
+        "vacunas",
+        "short squeeze",
+        "sentimiento"
       ],
-      "source_name": "MarketScreener",
-      "source_url": "https://www.marketscreener.com/news/schneider-electric-s-e-enxtpa-su-signed-a-definitive-agreement-to-acquire-ptc-inc-for-22-6-bill-ce785ddbd08cff2d",
-      "published_at": "2026-10-05T11:06:39Z",
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/10/62177650/novavax-shorts-on-edge-as-russia-plague-fears-spread",
+      "published_at": "2026-10-05T20:32:12Z",
       "fecha_evento": "2026-10-05",
       "tickers": [
-        "PTC"
+        "MRNA"
       ]
     },
     {
-      "id": "ch-robinson-rxo-deal",
-      "type": "empresa",
-      "title": "C.H. Robinson compra RXO por USD 5.800 millones",
-      "summary": "La empresa de logística C.H. Robinson anunció la compra de RXO Inc. en un acuerdo mixto de acciones y efectivo valuado en USD 5.800 millones, creando una entidad combinada con un valor empresarial de más de USD 25.000 millones. Los accionistas de RXO recibirán USD 17,25 en efectivo más 0,0856 acciones de C.H. Robinson por cada acción, lo que implica un precio total de USD 30,25 por acción.",
-      "detail": "Esta operación muestra cómo se consolidan los sectores: dos grandes actores de logística unen fuerzas para ganar escala y eficiencia. Las sinergias esperadas de USD 300 millones en costos anuales son clave para justificar el precio pagado. El uso de un mix de efectivo y acciones es común en deals grandes para no drenar toda la caja de la compradora. El cierre previsto en el primer semestre de 2027 refleja el tiempo que llevan los procesos regulatorios en transacciones de este tamaño.",
+      "id": "lamb-weston-earnings",
+      "type": "reunion",
+      "title": "Lamb Weston presenta resultados el 6 de octubre con estimaciones a la baja",
+      "summary": "Lamb Weston, una de las mayores productoras de papas fritas del mundo, publica este 6 de octubre sus resultados del primer trimestre fiscal 2027. Los analistas esperan una caída en ganancias por acción y en ingresos respecto al año anterior, presionados por costos de papa y precios más bajos.",
+      "detail": "Los resultados de empresas de alimentos procesados como Lamb Weston son buenos indicadores de presiones inflacionarias en la cadena de alimentos global: si los costos de materias primas agrícolas suben, eso se refleja primero en los márgenes de estas compañías. Además, varios bancos importantes como JPMorgan y Wells Fargo ya bajaron sus precios objetivo, lo que muestra cómo los analistas ajustan sus expectativas antes de un reporte y cómo eso puede anticipar movimientos en el precio de la acción.",
       "tags": [
-        "logística",
-        "fusiones",
-        "acciones"
-      ],
-      "source_name": "Investing.com UK",
-      "source_url": "https://uk.investing.com/news/stock-market-news/ch-robinson-to-acquire-rxo-for-58-billion-in-stockcash-deal-93CH-4895066",
-      "published_at": "2026-10-05T11:10:54Z",
-      "fecha_evento": "2026-10-05",
-      "tickers": [
-        "CHRW"
-      ]
-    },
-    {
-      "id": "amd-warrants-openai-meta",
-      "type": "empresa",
-      "title": "AMD prometió hasta 320 millones de acciones a OpenAI y Meta a USD 0,01 cada una",
-      "summary": "AMD otorgó warrants a OpenAI y Meta Platforms para comprar hasta 160 millones de acciones cada una al precio simbólico de USD 0,01, condicionados a que cada empresa compre hasta 6 gigawatts de chips de IA de AMD. Si se ejercen por completo, OpenAI y Meta tendrían cerca del 16% de la compañía, diluyendo a los accionistas actuales.",
-      "detail": "Los warrants son un instrumento financiero que da el derecho de comprar acciones a un precio fijo en el futuro; en este caso, casi regaladas. La lógica del deal es que AMD sacrifica parte de su capital accionario a cambio de asegurarse ventas masivas de chips de IA, lo que podría generar 'doble dígito en miles de millones de dólares' por gigawatt según su CEO. Para un inversor, el punto clave es la dilución: si entran muchas acciones nuevas al mercado, la participación de cada accionista existente vale menos. Este tipo de acuerdos muestra cómo las empresas de chips compiten por los contratos de los gigantes de la IA.",
-      "tags": [
-        "inteligencia artificial",
-        "dilución",
-        "chips"
-      ],
-      "source_name": "The Globe and Mail",
-      "source_url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/4957662/amd-has-promised-openai-and-meta-up-to-320-million-shares-for-a-penny-each-here-s-what-that-does-to-the-share-count/",
-      "published_at": "2026-10-05T10:45:06Z",
-      "fecha_evento": "2026-10-05",
-      "tickers": [
-        "AMD",
-        "META"
-      ]
-    },
-    {
-      "id": "wells-fargo-microsoft-target",
-      "type": "empresa",
-      "title": "Wells Fargo sube el precio objetivo de Microsoft a USD 725",
-      "summary": "Wells Fargo elevó su precio objetivo para la acción de Microsoft de USD 700 a USD 725, manteniendo una calificación 'Overweight'. El banco menciona como drivers la monetización de la IA, la próxima conferencia Ignite y una nueva estructura de reporte que daría más claridad sobre los ingresos de Azure.",
-      "detail": "Cuando un banco de inversión sube su precio objetivo, está diciendo que espera que la acción valga más en el futuro. En el caso de Microsoft, el foco está en Azure, su negocio de nube, que es difícil de aislar en los números actuales. La nueva estructura de reporte podría hacer más transparente cuánto crece ese segmento, lo que suele ser bien visto por el mercado. La IA sigue siendo el principal motor de expectativas para las grandes tecnológicas.",
-      "tags": [
-        "tecnología",
-        "inteligencia artificial",
-        "analistas"
+        "alimentos",
+        "resultados",
+        "materias primas"
       ],
       "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/wells-fargo-raises-target-for-microsoft-stock-from-usd-700-to-usd-725/70232116",
-      "published_at": "2026-10-05T11:15:39Z",
-      "fecha_evento": "2026-10-05",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/lamb-weston-stock-heads-into-october-6-earnings-with-lower-estimates/70237318",
+      "published_at": "2026-10-05T20:49:26Z",
+      "fecha_evento": "2026-10-06",
       "tickers": [
-        "MSFT"
+        "LW"
       ]
     },
     {
-      "id": "amd-ceo-corea",
-      "type": "discurso",
-      "title": "La CEO de AMD viaja a Corea del Sur para reunirse con socios tecnológicos",
-      "summary": "Lisa Su, CEO de Advanced Micro Devices, visita Corea del Sur esta semana para reunirse con ejecutivos del sector semiconductor y funcionarios del gobierno, con foco en alianzas en inteligencia artificial. AMD y Samsung tienen una relación estrecha, con Samsung proveyendo chips HBM3E a AMD para sus soluciones de IA.",
-      "detail": "Las visitas de CEOs de empresas de chips a Corea del Sur suelen tener relevancia porque allí están Samsung y SK Hynix, dos de los principales productores mundiales de memoria HBM, clave para los procesadores de IA. La memoria HBM (High Bandwidth Memory) es un insumo crítico para los chips de IA de AMD, por lo que estas negociaciones pueden impactar en la cadena de suministro y la competitividad de AMD frente a Nvidia. Para quien aprende finanzas, este tipo de noticias muestra cómo las relaciones entre empresas de distintos países afectan la estrategia de las grandes tecnológicas.",
+      "id": "siemens-tdsynnex-ai",
+      "type": "empresa",
+      "title": "Siemens y TD SYNNEX anuncian alianza global para impulsar la IA industrial",
+      "summary": "Siemens y TD SYNNEX firmaron una asociación global para acelerar la adopción de inteligencia artificial en entornos industriales, combinando la experiencia industrial de Siemens con el ecosistema tecnológico de TD SYNNEX en automatización, ciberseguridad e infraestructura inteligente.",
+      "detail": "La convergencia entre tecnología de información (IT) y tecnología operacional (OT) es una de las tendencias más grandes en la industria global: se trata de conectar las fábricas y procesos físicos con sistemas digitales e IA. Cuando dos empresas de este calibre se asocian para distribuir estas soluciones, suele ser una señal de que el mercado está madurando y hay demanda real. Para quien aprende finanzas, entender estas alianzas estratégicas ayuda a ver cómo las empresas buscan crecer sin necesariamente fusionarse.",
       "tags": [
-        "semiconductores",
         "inteligencia artificial",
-        "geopolítica"
+        "industria",
+        "tecnología"
       ],
-      "source_name": "The Korea Herald",
-      "source_url": "https://www.koreaherald.com/article/10893430",
-      "published_at": "2026-10-05T10:50:06Z",
+      "source_name": "Automation World",
+      "source_url": "https://www.automationworld.com/business-intelligence/news/55409735/siemens-td-synnex-announce-partnership-for-it-ot-convergence-physical-ai-adoption",
+      "published_at": "2026-10-05T20:46:58Z",
       "fecha_evento": "2026-10-05",
       "tickers": [
-        "AMD"
+        "SNX"
       ]
     },
     {
-      "id": "wells-fargo-mcdonalds-target-cut",
-      "type": "empresa",
-      "title": "Wells Fargo baja el precio objetivo de McDonald's por preocupaciones con su estrategia",
-      "summary": "Wells Fargo redujo su precio objetivo para McDonald's de USD 300 a USD 270, manteniendo una calificación 'Overweight', tras el evento 'Accelerating the Arches Day' donde la empresa presentó su plan de inversión. El banco bajó sus estimaciones de ganancias por acción para 2026-2028 y anticipa que las inversiones del programa 'NEXT' beneficiarán más a los franquiciados que a los accionistas.",
-      "detail": "Cuando una empresa presenta un plan estratégico y los analistas bajan sus estimaciones, el mercado suele responder negativamente. En este caso, el programa de McDonald's implica invertir más dinero en los locales, pero esos beneficios irían principalmente a los franquiciados, no a la empresa matriz ni a sus accionistas. La caída del 24% en lo que va del año, contra una suba del 13% del S&P 500, muestra que el mercado ya venía descontando estos desafíos. Entender la diferencia entre lo que beneficia a la empresa y lo que beneficia al franquiciado es clave para analizar negocios de este modelo.",
+      "id": "ubs-recortes-objetivos",
+      "type": "mercado",
+      "title": "UBS recorta precios objetivo de PPG Industries y DuPont, pero mantiene visión positiva en ambas",
+      "summary": "El banco suizo UBS bajó su precio objetivo para PPG Industries de USD 125 a USD 116 y para DuPont de USD 178 a USD 172, aunque mantiene calificación de compra en DuPont y neutral en PPG, en un movimiento que refleja mayor cautela sobre el sector industrial.",
+      "detail": "Cuando un banco de inversión de la escala de UBS ajusta sus objetivos en varias empresas del mismo sector el mismo día, suele responder a un cambio en las perspectivas macro del sector, no solo a noticias puntuales de cada empresa. En este caso, el sector industrial y de materiales puede estar enfrentando presiones de costos o demanda. Para quien aprende finanzas, es un ejemplo de cómo los analistas actualizan sus modelos y cómo eso mueve las acciones incluso sin resultados nuevos publicados.",
       "tags": [
-        "consumo",
-        "franquicias",
-        "analistas"
+        "analistas",
+        "industria",
+        "objetivos de precio"
       ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/analyst-ratings/wells-fargo-cuts-mcdonalds-stock-price-target-on-franchisee-deal-concerns-93CH-4931545",
-      "published_at": "2026-10-05T10:46:27Z",
+      "source_name": "MarketBeat",
+      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-ppg-industries-nyse-ppg-price-target-cut-to-11600-by-analysts-at-ubs-group-2026-10-05/",
+      "published_at": "2026-10-05T20:46:37Z",
       "fecha_evento": "2026-10-05",
       "tickers": [
-        "MCD"
-      ]
-    },
-    {
-      "id": "evercore-align-downgrade",
-      "type": "empresa",
-      "title": "Evercore ISI baja la calificación de Align Technology por caída en la demanda",
-      "summary": "Evercore ISI degradó a Align Technology (fabricante de Invisalign) de 'Outperform' a 'In Line' y recortó su precio objetivo de USD 220 a USD 155, citando un deterioro sharp en el mercado dental y una desaceleración significativa en los usuarios activos de Invisalign. El banco redujo sus estimaciones de ingresos para 2026 y 2027.",
-      "detail": "Un downgrade de analista refleja un cambio en las expectativas sobre el negocio de una empresa. En este caso, la debilidad del consumidor está pegando en sectores no esenciales como la ortodoncia estética. Para quien aprende finanzas, esto muestra cómo los ciclos económicos afectan a empresas que dependen del gasto discrecional de las personas. La magnitud del recorte en el precio objetivo —de USD 220 a USD 155— es inusualmente grande y sugiere una revisión profunda de las perspectivas del sector.",
-      "tags": [
-        "salud",
-        "consumo",
-        "analistas"
-      ],
-      "source_name": "Investing.com",
-      "source_url": "https://www.investing.com/news/analyst-ratings/evercore-isi-cuts-align-technology-stock-rating-on-weak-demand-93CH-4931494",
-      "published_at": "2026-10-05T10:34:27Z",
-      "fecha_evento": "2026-10-05",
-      "tickers": [
-        "ALGN"
+        "PPG",
+        "DD"
       ]
     }
   ],
@@ -145,39 +88,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.560",
-      "valor_num": 1560.0,
-      "delta_pct": 0.0
+      "valor": "$1.545",
+      "valor_num": 1545.0,
+      "delta_pct": -0.96
     },
     {
       "label": "MEP",
-      "valor": "$1.552",
-      "valor_num": 1551.9,
-      "delta_pct": 0.0
+      "valor": "$1.538",
+      "valor_num": 1537.9,
+      "delta_pct": -0.9
     },
     {
       "label": "CCL",
-      "valor": "$1.624",
-      "valor_num": 1623.8,
-      "delta_pct": 0.0
+      "valor": "$1.611",
+      "valor_num": 1610.8,
+      "delta_pct": -0.8
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 86.182",
-      "valor_num": 86182.0,
-      "delta_pct": 1.04
+      "valor": "US$ 85.947",
+      "valor_num": 85947.0,
+      "delta_pct": -0.01
     },
     {
       "label": "S&P 500",
-      "valor": "7.723",
-      "valor_num": 7722.72,
-      "delta_pct": -0.27
+      "valor": "7.774",
+      "valor_num": 7773.95,
+      "delta_pct": 1.17
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.181",
-      "valor_num": 4181.3,
-      "delta_pct": -0.13
+      "valor": "US$ 4.168",
+      "valor_num": 4167.6,
+      "delta_pct": -0.46
     }
   ]
 }
