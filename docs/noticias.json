@@ -1,81 +1,137 @@
 {
-  "generated_at": "2026-10-05T22:01:13.597931+00:00",
+  "generated_at": "2026-10-06T12:01:14.179859+00:00",
   "items": [
     {
-      "id": "novavax-plague-rally",
-      "type": "mercado",
-      "title": "Novavax sube más del 20% por rumores de peste bubónica en Rusia",
-      "summary": "Las acciones de Novavax (NVAX) dispararon más del 20% tras conocerse la sospecha de una muerte por peste en un instituto de investigación siberiano, arrastrando al alza a otras acciones del sector vacunas como Moderna y Emergent BioSolutions.",
-      "detail": "Este movimiento es un ejemplo clásico de rally impulsado por el miedo y el 'short squeeze': más del 30% de las acciones de Novavax estaban vendidas en corto, y la noticia forzó a esos inversores a recomprar para cubrir pérdidas. Sin embargo, los analistas señalan que la reacción no tiene base científica sólida, ya que la peste se trata con antibióticos y Novavax se especializa en vacunas virales. Es una lección sobre cómo el sentimiento y las posiciones especulativas pueden mover precios independientemente de los fundamentos.",
-      "tags": [
-        "vacunas",
-        "short squeeze",
-        "sentimiento"
-      ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/10/62177650/novavax-shorts-on-edge-as-russia-plague-fears-spread",
-      "published_at": "2026-10-05T20:32:12Z",
-      "fecha_evento": "2026-10-05",
-      "tickers": [
-        "MRNA"
-      ]
-    },
-    {
-      "id": "lamb-weston-earnings",
-      "type": "reunion",
-      "title": "Lamb Weston presenta resultados el 6 de octubre con estimaciones a la baja",
-      "summary": "Lamb Weston, una de las mayores productoras de papas fritas del mundo, publica este 6 de octubre sus resultados del primer trimestre fiscal 2027. Los analistas esperan una caída en ganancias por acción y en ingresos respecto al año anterior, presionados por costos de papa y precios más bajos.",
-      "detail": "Los resultados de empresas de alimentos procesados como Lamb Weston son buenos indicadores de presiones inflacionarias en la cadena de alimentos global: si los costos de materias primas agrícolas suben, eso se refleja primero en los márgenes de estas compañías. Además, varios bancos importantes como JPMorgan y Wells Fargo ya bajaron sus precios objetivo, lo que muestra cómo los analistas ajustan sus expectativas antes de un reporte y cómo eso puede anticipar movimientos en el precio de la acción.",
-      "tags": [
-        "alimentos",
-        "resultados",
-        "materias primas"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/lamb-weston-stock-heads-into-october-6-earnings-with-lower-estimates/70237318",
-      "published_at": "2026-10-05T20:49:26Z",
-      "fecha_evento": "2026-10-06",
-      "tickers": [
-        "LW"
-      ]
-    },
-    {
-      "id": "siemens-tdsynnex-ai",
+      "id": "microsoft-ai-copilot",
       "type": "empresa",
-      "title": "Siemens y TD SYNNEX anuncian alianza global para impulsar la IA industrial",
-      "summary": "Siemens y TD SYNNEX firmaron una asociación global para acelerar la adopción de inteligencia artificial en entornos industriales, combinando la experiencia industrial de Siemens con el ecosistema tecnológico de TD SYNNEX en automatización, ciberseguridad e infraestructura inteligente.",
-      "detail": "La convergencia entre tecnología de información (IT) y tecnología operacional (OT) es una de las tendencias más grandes en la industria global: se trata de conectar las fábricas y procesos físicos con sistemas digitales e IA. Cuando dos empresas de este calibre se asocian para distribuir estas soluciones, suele ser una señal de que el mercado está madurando y hay demanda real. Para quien aprende finanzas, entender estas alianzas estratégicas ayuda a ver cómo las empresas buscan crecer sin necesariamente fusionarse.",
+      "title": "Microsoft apuesta fuerte a la IA con su plataforma Copilot",
+      "summary": "Jim Cramer destacó a Microsoft como uno de los grandes ganadores de la inteligencia artificial, impulsado por el crecimiento de su plataforma Copilot. El analista de Oppenheimer elevó el precio objetivo de la acción a USD 570, citando mayor engagement y monetización en Azure y Microsoft 365.",
+      "detail": "Cuando un analista sube su precio objetivo, está revisando al alza su estimación del valor que la empresa puede alcanzar. En este caso, el catalizador es la IA: Copilot se está expandiendo de un simple chatbot a un sistema operativo de IA, lo que podría generar más ingresos recurrentes. Para quien aprende finanzas, esto muestra cómo una estrategia tecnológica puede impactar directamente en la valoración de una acción.",
       "tags": [
         "inteligencia artificial",
-        "industria",
-        "tecnología"
+        "tecnología",
+        "acciones"
       ],
-      "source_name": "Automation World",
-      "source_url": "https://www.automationworld.com/business-intelligence/news/55409735/siemens-td-synnex-announce-partnership-for-it-ot-convergence-physical-ai-adoption",
-      "published_at": "2026-10-05T20:46:58Z",
-      "fecha_evento": "2026-10-05",
+      "source_name": "Benzinga",
+      "source_url": "https://www.benzinga.com/markets/tech/26/10/62184798/jim-cramer-says-microsoft-is-one-of-ais-big-winners-as-copilot-momentum-builds",
+      "published_at": "2026-10-06T10:56:15Z",
+      "fecha_evento": "2026-10-06",
       "tickers": [
-        "SNX"
+        "MSFT"
       ]
     },
     {
-      "id": "ubs-recortes-objetivos",
+      "id": "bd-us-manufacturing",
+      "type": "empresa",
+      "title": "BD invertirá USD 19.000 millones en fabricación local en EE.UU.",
+      "summary": "Becton, Dickinson and Company (BD) anunció una asociación con el gobierno de EE.UU. para expandir la fabricación doméstica de insumos médicos esenciales, con una inversión total de USD 19.000 millones. El plan incluye USD 3.000 millones específicamente para ampliar la capacidad productiva y alcanzar el 80% de abastecimiento local de consumibles médicos críticos.",
+      "detail": "Esta noticia combina política industrial con estrategia empresarial: el gobierno de EE.UU. está incentivando la producción local para reducir la dependencia de cadenas de suministro globales, algo que cobró relevancia tras la pandemia. Para una empresa como BD, comprometer USD 19.000 millones implica una apuesta de largo plazo que puede afectar su flujo de caja pero también asegurarle contratos con el sector público. Es un buen ejemplo de cómo las decisiones gubernamentales moldean la estrategia corporativa.",
+      "tags": [
+        "manufactura",
+        "cadena de suministro",
+        "inversión"
+      ],
+      "source_name": "BD Newsroom",
+      "source_url": "https://news.bd.com/2026-10-06-BD-and-U-S-Government-Launch-Landmark-Partnership-to-Expand-U-S-Manufacturing-and-Strengthen-Americas-Healthcare-Resilience",
+      "published_at": "2026-10-06T10:39:54Z",
+      "fecha_evento": "2026-10-06",
+      "tickers": [
+        "BDX"
+      ]
+    },
+    {
+      "id": "kraft-heinz-estrategia",
+      "type": "empresa",
+      "title": "Kraft Heinz invierte USD 700 millones para apostar a alimentos más saludables",
+      "summary": "Kraft Heinz está invirtiendo USD 700 millones este año en marketing, I+D y nuevos productos saludables —como pastas con proteína y sopas de ramen con queso— para recuperar participación de mercado. El CEO descartó una división del negocio y apuesta por la innovación interna como motor de crecimiento.",
+      "detail": "Cuando una empresa de consumo masivo decide no dividirse y en cambio invertir fuertemente en nuevos productos, está apostando a que puede competir en tendencias de mercado como la alimentación saludable. Para quien aprende finanzas, esto ilustra cómo las decisiones estratégicas de un CEO afectan el rumbo de una compañía y sus perspectivas de ganancias futuras. La presión de perder participación de mercado es un indicador clave a seguir en empresas de consumo.",
+      "tags": [
+        "consumo",
+        "estrategia",
+        "inversión"
+      ],
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/retail-consumer/kraft-heinz-backs-protein-fiber-trends-innovation-drive-gains-steam-2026-10-06/",
+      "published_at": "2026-10-06T10:34:00Z",
+      "fecha_evento": "2026-10-06",
+      "tickers": [
+        "KHC"
+      ]
+    },
+    {
+      "id": "intuit-nfl-revenue",
+      "type": "empresa",
+      "title": "Intuit extendió su acuerdo con la NFL y reportó ingresos de USD 21.450 millones",
+      "summary": "Intuit renovó su alianza con la NFL hasta 2030, ampliándola a Canadá, Reino Unido, Australia y Nueva Zelanda, e incorporando Credit Karma al acuerdo. La empresa reportó un aumento de ingresos del 14% en el año fiscal 2026, llegando a USD 21.450 millones.",
+      "detail": "Las alianzas con grandes ligas deportivas son una forma de marketing masivo para empresas de software financiero como Intuit, que busca llegar a millones de consumidores con sus productos de impuestos y finanzas personales. Un crecimiento del 14% en ingresos es una señal sólida de expansión. Para quien aprende finanzas, este caso muestra cómo las empresas tecnológicas combinan estrategias de marca con crecimiento orgánico para sostener su valuación.",
+      "tags": [
+        "tecnología",
+        "ingresos",
+        "acciones"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/intuit-extends-nfl-partnership-through-2030-as-intuit-stock-trades-at-eur/70240872",
+      "published_at": "2026-10-06T11:22:00Z",
+      "fecha_evento": "2026-10-06",
+      "tickers": [
+        "INTU"
+      ]
+    },
+    {
+      "id": "federal-realty-summit",
+      "type": "empresa",
+      "title": "Federal Realty compró un centro comercial en Alabama por USD 508 millones",
+      "summary": "Federal Realty Investment Trust adquirió The Summit, un centro comercial a cielo abierto de 870.000 pies cuadrados en Birmingham, Alabama, por USD 508 millones. La propiedad recibe casi 9 millones de visitas anuales y tiene más de 110 inquilinos; se espera que la compra incremente el FFO por acción de manera inmediata.",
+      "detail": "El FFO (Funds From Operations) es la métrica clave para evaluar a los REITs (fondos de inversión en bienes raíces): mide el flujo de caja generado por las propiedades, sin contar depreciaciones contables. Cuando una adquisición es 'acretiva al FFO', significa que suma valor desde el primer momento. Este tipo de operaciones muestran cómo los REITs crecen comprando activos que generan rentas estables, un modelo interesante para entender la inversión inmobiliaria.",
+      "tags": [
+        "real estate",
+        "REIT",
+        "adquisición"
+      ],
+      "source_name": "Prop News Time",
+      "source_url": "https://propnewstime.com/latestnewsstories/Mzc3OTE=/federal-realty-buys-birmingham-retail-centre-the-summit-for-usd-508-million",
+      "published_at": "2026-10-06T10:30:16Z",
+      "fecha_evento": "2026-10-06",
+      "tickers": [
+        "FRT"
+      ]
+    },
+    {
+      "id": "valley-national-bluevine",
+      "type": "empresa",
+      "title": "Valley National Bancorp compra la plataforma digital Bluevine por USD 340 millones",
+      "summary": "Valley National Bancorp anunció la adquisición de Bluevine, una plataforma de banca digital, por USD 340 millones. Se espera que la operación sea acretiva para las ganancias por acción a partir de 2028, y el banco presentará sus resultados del tercer trimestre el 22 de octubre.",
+      "detail": "Las adquisiciones de plataformas digitales por parte de bancos tradicionales reflejan la presión que tienen estas instituciones para modernizarse y competir con las fintechs. Que la operación sea 'acretiva al EPS recién en 2028' indica que habrá costos de integración en el corto plazo, pero se espera un beneficio neto en el mediano plazo. Este tipo de movimientos son importantes para entender cómo evoluciona el sector financiero.",
+      "tags": [
+        "banca",
+        "fintech",
+        "adquisición"
+      ],
+      "source_name": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/valley-national-bancorp-stock-heads-into-october-22-earnings-with-bluevine/70241452",
+      "published_at": "2026-10-06T10:37:33Z",
+      "fecha_evento": "2026-10-06",
+      "tickers": [
+        "VLYPN"
+      ]
+    },
+    {
+      "id": "generac-upgrade-td-cowen",
       "type": "mercado",
-      "title": "UBS recorta precios objetivo de PPG Industries y DuPont, pero mantiene visión positiva en ambas",
-      "summary": "El banco suizo UBS bajó su precio objetivo para PPG Industries de USD 125 a USD 116 y para DuPont de USD 178 a USD 172, aunque mantiene calificación de compra en DuPont y neutral en PPG, en un movimiento que refleja mayor cautela sobre el sector industrial.",
-      "detail": "Cuando un banco de inversión de la escala de UBS ajusta sus objetivos en varias empresas del mismo sector el mismo día, suele responder a un cambio en las perspectivas macro del sector, no solo a noticias puntuales de cada empresa. En este caso, el sector industrial y de materiales puede estar enfrentando presiones de costos o demanda. Para quien aprende finanzas, es un ejemplo de cómo los analistas actualizan sus modelos y cómo eso mueve las acciones incluso sin resultados nuevos publicados.",
+      "title": "TD Cowen sube a 'strong buy' a Generac tras resultados trimestrales sólidos",
+      "summary": "TD Cowen mejoró su calificación de Generac (GNRC) a 'strong buy', después de que la empresa reportara ganancias por acción de USD 2,91 —muy por encima de lo esperado— y un aumento de ingresos del 10,3% interanual hasta USD 1.170 millones.",
+      "detail": "Cuando un banco de inversión mejora su calificación de una acción, suele generar mayor interés del mercado en ese papel. La diferencia entre 'moderate buy' y 'strong buy' puede parecer semántica, pero para muchos fondos y algoritmos de inversión implica un cambio en la ponderación recomendada. Para quien aprende finanzas, este caso muestra cómo los resultados trimestrales son el motor principal detrás de las revisiones de analistas.",
       "tags": [
         "analistas",
-        "industria",
-        "objetivos de precio"
+        "acciones",
+        "resultados"
       ],
       "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-ppg-industries-nyse-ppg-price-target-cut-to-11600-by-analysts-at-ubs-group-2026-10-05/",
-      "published_at": "2026-10-05T20:46:37Z",
-      "fecha_evento": "2026-10-05",
+      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-generac-nyse-gnrc-stock-rating-upgraded-by-td-cowen-2026-10-06/",
+      "published_at": "2026-10-06T10:50:43Z",
+      "fecha_evento": "2026-10-06",
       "tickers": [
-        "PPG",
-        "DD"
+        "GNRC"
       ]
     }
   ],
@@ -106,9 +162,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 85.947",
-      "valor_num": 85947.0,
-      "delta_pct": -0.01
+      "valor": "US$ 86.247",
+      "valor_num": 86247.0,
+      "delta_pct": 0.09
     },
     {
       "label": "S&P 500",
@@ -118,9 +174,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.168",
-      "valor_num": 4167.6,
-      "delta_pct": -0.46
+      "valor": "US$ 4.201",
+      "valor_num": 4201.3,
+      "delta_pct": -0.02
     }
   ]
 }
