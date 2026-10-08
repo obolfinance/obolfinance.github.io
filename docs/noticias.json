@@ -1,137 +1,182 @@
 {
-  "generated_at": "2026-10-06T12:01:14.179859+00:00",
+  "generated_at": "2026-10-08T22:32:11.064622+00:00",
   "items": [
     {
-      "id": "microsoft-ai-copilot",
-      "type": "empresa",
-      "title": "Microsoft apuesta fuerte a la IA con su plataforma Copilot",
-      "summary": "Jim Cramer destacó a Microsoft como uno de los grandes ganadores de la inteligencia artificial, impulsado por el crecimiento de su plataforma Copilot. El analista de Oppenheimer elevó el precio objetivo de la acción a USD 570, citando mayor engagement y monetización en Azure y Microsoft 365.",
-      "detail": "Cuando un analista sube su precio objetivo, está revisando al alza su estimación del valor que la empresa puede alcanzar. En este caso, el catalizador es la IA: Copilot se está expandiendo de un simple chatbot a un sistema operativo de IA, lo que podría generar más ingresos recurrentes. Para quien aprende finanzas, esto muestra cómo una estrategia tecnológica puede impactar directamente en la valoración de una acción.",
+      "id": "tariffs-inflation-ny-fed-2026",
+      "type": "economia",
+      "title": "Los aranceles de Trump explicaron toda la inflación en 67 categorías de productos",
+      "summary": "Un estudio de la Fed de Nueva York encontró que los aranceles agregaron 2,9 puntos porcentuales de inflación en 67 categorías de bienes hasta febrero de 2026, siendo responsables de la totalidad del aumento de precios en esos rubros.",
+      "detail": "Este hallazgo ilustra cómo los aranceles funcionan como un impuesto al consumidor: las empresas que importan mercadería pagan más por ella y trasladan ese costo a los precios finales. Entender este mecanismo es clave para comprender por qué las políticas comerciales impactan directamente en el poder adquisitivo de la gente, incluso fuera de Estados Unidos, ya que afectan los precios globales.",
       "tags": [
+        "aranceles",
+        "inflación",
+        "Fed"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+      "published_at": "2026-10-08T17:31:03Z",
+      "fecha_evento": "2026-10-08",
+      "tickers": []
+    },
+    {
+      "id": "fed-survey-inflation-expectations-2026",
+      "type": "economia",
+      "title": "Las expectativas de inflación en EE.UU. treparon al nivel más alto desde mayo de 2023",
+      "summary": "Una encuesta de la Reserva Federal mostró que los consumidores esperan una inflación del 3,9% en los próximos 12 meses, el nivel más elevado desde mayo de 2023.",
+      "detail": "Las expectativas de inflación son un indicador crucial porque influyen en el comportamiento de la Fed: si la gente espera que los precios suban, tiende a pedir aumentos de salarios y adelantar compras, lo que puede generar más inflación real. Cuando estas expectativas suben, la Fed puede verse presionada a mantener tasas altas por más tiempo, lo que encarece el crédito en todo el mundo, incluida Argentina.",
+      "tags": [
+        "inflación",
+        "Fed",
+        "expectativas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+      "published_at": "2026-10-07T18:44:36Z",
+      "fecha_evento": "2026-10-07",
+      "tickers": []
+    },
+    {
+      "id": "imf-georgieva-ai-inflation-yields-2026",
+      "type": "discurso",
+      "title": "La jefa del FMI advierte que la IA impulsa el crecimiento pero también la inflación y los rendimientos de bonos",
+      "summary": "Kristalina Georgieva, directora del FMI, señaló que la inteligencia artificial genera esperanzas de crecimiento económico pero al mismo tiempo está empujando al alza la inflación y los rendimientos de los bonos, en un contexto de altos niveles de deuda pública global.",
+      "detail": "Cuando los rendimientos de los bonos suben, los gobiernos pagan más para financiarse, lo que puede afectar tanto a países desarrollados como emergentes como Argentina. Que la jefa del FMI señale esta tensión es importante porque el organismo es uno de los principales prestamistas y asesores de política económica a nivel mundial, y sus advertencias suelen anticipar cambios en las condiciones del financiamiento global.",
+      "tags": [
+        "FMI",
         "inteligencia artificial",
-        "tecnología",
-        "acciones"
+        "bonos"
       ],
-      "source_name": "Benzinga",
-      "source_url": "https://www.benzinga.com/markets/tech/26/10/62184798/jim-cramer-says-microsoft-is-one-of-ais-big-winners-as-copilot-momentum-builds",
-      "published_at": "2026-10-06T10:56:15Z",
-      "fecha_evento": "2026-10-06",
-      "tickers": [
-        "MSFT"
-      ]
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "published_at": "2026-10-07T06:16:39Z",
+      "fecha_evento": "2026-10-07",
+      "tickers": []
     },
     {
-      "id": "bd-us-manufacturing",
-      "type": "empresa",
-      "title": "BD invertirá USD 19.000 millones en fabricación local en EE.UU.",
-      "summary": "Becton, Dickinson and Company (BD) anunció una asociación con el gobierno de EE.UU. para expandir la fabricación doméstica de insumos médicos esenciales, con una inversión total de USD 19.000 millones. El plan incluye USD 3.000 millones específicamente para ampliar la capacidad productiva y alcanzar el 80% de abastecimiento local de consumibles médicos críticos.",
-      "detail": "Esta noticia combina política industrial con estrategia empresarial: el gobierno de EE.UU. está incentivando la producción local para reducir la dependencia de cadenas de suministro globales, algo que cobró relevancia tras la pandemia. Para una empresa como BD, comprometer USD 19.000 millones implica una apuesta de largo plazo que puede afectar su flujo de caja pero también asegurarle contratos con el sector público. Es un buen ejemplo de cómo las decisiones gubernamentales moldean la estrategia corporativa.",
+      "id": "india-rbi-rate-hike-2026",
+      "type": "economia",
+      "title": "El banco central de India subió las tasas por primera vez desde 2023 ante riesgos inflacionarios",
+      "summary": "El Banco de la Reserva de India (RBI) aumentó su tasa de interés por primera vez desde 2023, y analistas de HSBC y Goldman Sachs esperan otra suba en diciembre ante la presión inflacionaria.",
+      "detail": "Que un país emergente importante como India suba tasas muestra que la inflación sigue siendo un problema global, no solo de economías avanzadas. Las decisiones de bancos centrales en economías grandes afectan los flujos de capital: cuando suben tasas, atraen inversión hacia esos países y pueden generar salida de capitales de otros mercados emergentes. Es un buen ejemplo para entender por qué las tasas de interés son la herramienta principal de los bancos centrales para controlar la inflación.",
       "tags": [
-        "manufactura",
-        "cadena de suministro",
-        "inversión"
+        "banco central",
+        "tasas de interés",
+        "India"
       ],
-      "source_name": "BD Newsroom",
-      "source_url": "https://news.bd.com/2026-10-06-BD-and-U-S-Government-Launch-Landmark-Partnership-to-Expand-U-S-Manufacturing-and-Strengthen-Americas-Healthcare-Resilience",
-      "published_at": "2026-10-06T10:39:54Z",
-      "fecha_evento": "2026-10-06",
-      "tickers": [
-        "BDX"
-      ]
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+      "published_at": "2026-10-07T11:55:36Z",
+      "fecha_evento": "2026-10-07",
+      "tickers": []
     },
     {
-      "id": "kraft-heinz-estrategia",
-      "type": "empresa",
-      "title": "Kraft Heinz invierte USD 700 millones para apostar a alimentos más saludables",
-      "summary": "Kraft Heinz está invirtiendo USD 700 millones este año en marketing, I+D y nuevos productos saludables —como pastas con proteína y sopas de ramen con queso— para recuperar participación de mercado. El CEO descartó una división del negocio y apuesta por la innovación interna como motor de crecimiento.",
-      "detail": "Cuando una empresa de consumo masivo decide no dividirse y en cambio invertir fuertemente en nuevos productos, está apostando a que puede competir en tendencias de mercado como la alimentación saludable. Para quien aprende finanzas, esto ilustra cómo las decisiones estratégicas de un CEO afectan el rumbo de una compañía y sus perspectivas de ganancias futuras. La presión de perder participación de mercado es un indicador clave a seguir en empresas de consumo.",
+      "id": "trade-deficit-august-2026",
+      "type": "economia",
+      "title": "El déficit comercial de EE.UU. llegó a u$s 105.600 millones, el más alto desde antes de los aranceles de Trump",
+      "summary": "El déficit comercial de Estados Unidos en agosto alcanzó los 105.600 millones de dólares, un salto del 13,7% respecto a julio y el nivel más alto desde justo antes de que se implementaran los aranceles de Trump el año pasado.",
+      "detail": "Un déficit comercial tan amplio indica que EE.UU. importa mucho más de lo que exporta, lo que puede presionar al dólar y afectar el crecimiento económico. Para quien aprende finanzas, este dato es útil para entender cómo el comercio exterior impacta en la balanza de pagos y en el tipo de cambio de la economía más grande del mundo, algo que tiene efectos indirectos en todos los mercados globales.",
       "tags": [
-        "consumo",
-        "estrategia",
-        "inversión"
+        "déficit comercial",
+        "aranceles",
+        "EE.UU."
       ],
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/retail-consumer/kraft-heinz-backs-protein-fiber-trends-innovation-drive-gains-steam-2026-10-06/",
-      "published_at": "2026-10-06T10:34:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+      "published_at": "2026-10-06T15:52:22Z",
       "fecha_evento": "2026-10-06",
-      "tickers": [
-        "KHC"
-      ]
+      "tickers": []
     },
     {
-      "id": "intuit-nfl-revenue",
-      "type": "empresa",
-      "title": "Intuit extendió su acuerdo con la NFL y reportó ingresos de USD 21.450 millones",
-      "summary": "Intuit renovó su alianza con la NFL hasta 2030, ampliándola a Canadá, Reino Unido, Australia y Nueva Zelanda, e incorporando Credit Karma al acuerdo. La empresa reportó un aumento de ingresos del 14% en el año fiscal 2026, llegando a USD 21.450 millones.",
-      "detail": "Las alianzas con grandes ligas deportivas son una forma de marketing masivo para empresas de software financiero como Intuit, que busca llegar a millones de consumidores con sus productos de impuestos y finanzas personales. Un crecimiento del 14% en ingresos es una señal sólida de expansión. Para quien aprende finanzas, este caso muestra cómo las empresas tecnológicas combinan estrategias de marca con crecimiento orgánico para sostener su valuación.",
-      "tags": [
-        "tecnología",
-        "ingresos",
-        "acciones"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/intuit-extends-nfl-partnership-through-2030-as-intuit-stock-trades-at-eur/70240872",
-      "published_at": "2026-10-06T11:22:00Z",
-      "fecha_evento": "2026-10-06",
-      "tickers": [
-        "INTU"
-      ]
-    },
-    {
-      "id": "federal-realty-summit",
-      "type": "empresa",
-      "title": "Federal Realty compró un centro comercial en Alabama por USD 508 millones",
-      "summary": "Federal Realty Investment Trust adquirió The Summit, un centro comercial a cielo abierto de 870.000 pies cuadrados en Birmingham, Alabama, por USD 508 millones. La propiedad recibe casi 9 millones de visitas anuales y tiene más de 110 inquilinos; se espera que la compra incremente el FFO por acción de manera inmediata.",
-      "detail": "El FFO (Funds From Operations) es la métrica clave para evaluar a los REITs (fondos de inversión en bienes raíces): mide el flujo de caja generado por las propiedades, sin contar depreciaciones contables. Cuando una adquisición es 'acretiva al FFO', significa que suma valor desde el primer momento. Este tipo de operaciones muestran cómo los REITs crecen comprando activos que generan rentas estables, un modelo interesante para entender la inversión inmobiliaria.",
-      "tags": [
-        "real estate",
-        "REIT",
-        "adquisición"
-      ],
-      "source_name": "Prop News Time",
-      "source_url": "https://propnewstime.com/latestnewsstories/Mzc3OTE=/federal-realty-buys-birmingham-retail-centre-the-summit-for-usd-508-million",
-      "published_at": "2026-10-06T10:30:16Z",
-      "fecha_evento": "2026-10-06",
-      "tickers": [
-        "FRT"
-      ]
-    },
-    {
-      "id": "valley-national-bluevine",
-      "type": "empresa",
-      "title": "Valley National Bancorp compra la plataforma digital Bluevine por USD 340 millones",
-      "summary": "Valley National Bancorp anunció la adquisición de Bluevine, una plataforma de banca digital, por USD 340 millones. Se espera que la operación sea acretiva para las ganancias por acción a partir de 2028, y el banco presentará sus resultados del tercer trimestre el 22 de octubre.",
-      "detail": "Las adquisiciones de plataformas digitales por parte de bancos tradicionales reflejan la presión que tienen estas instituciones para modernizarse y competir con las fintechs. Que la operación sea 'acretiva al EPS recién en 2028' indica que habrá costos de integración en el corto plazo, pero se espera un beneficio neto en el mediano plazo. Este tipo de movimientos son importantes para entender cómo evoluciona el sector financiero.",
-      "tags": [
-        "banca",
-        "fintech",
-        "adquisición"
-      ],
-      "source_name": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/valley-national-bancorp-stock-heads-into-october-22-earnings-with-bluevine/70241452",
-      "published_at": "2026-10-06T10:37:33Z",
-      "fecha_evento": "2026-10-06",
-      "tickers": [
-        "VLYPN"
-      ]
-    },
-    {
-      "id": "generac-upgrade-td-cowen",
+      "id": "tech-stocks-yields-oil-oct8-2026",
       "type": "mercado",
-      "title": "TD Cowen sube a 'strong buy' a Generac tras resultados trimestrales sólidos",
-      "summary": "TD Cowen mejoró su calificación de Generac (GNRC) a 'strong buy', después de que la empresa reportara ganancias por acción de USD 2,91 —muy por encima de lo esperado— y un aumento de ingresos del 10,3% interanual hasta USD 1.170 millones.",
-      "detail": "Cuando un banco de inversión mejora su calificación de una acción, suele generar mayor interés del mercado en ese papel. La diferencia entre 'moderate buy' y 'strong buy' puede parecer semántica, pero para muchos fondos y algoritmos de inversión implica un cambio en la ponderación recomendada. Para quien aprende finanzas, este caso muestra cómo los resultados trimestrales son el motor principal detrás de las revisiones de analistas.",
+      "title": "Las acciones tecnológicas caen mientras suben los rendimientos de bonos y el precio del petróleo",
+      "summary": "Las acciones del sector tecnológico retrocedieron hoy en Wall Street en un contexto de suba de los rendimientos de los bonos del Tesoro de EE.UU. y alza en el precio del petróleo.",
+      "detail": "Cuando los rendimientos de los bonos suben, las acciones tecnológicas suelen caer porque muchas de estas empresas dependen del crédito barato para financiar su crecimiento; además, los inversores comparan el retorno de los bonos con el de las acciones y pueden preferir los primeros si rinden más. Este movimiento del mercado es un buen ejemplo del mecanismo conocido como 'efecto tasa' sobre las valuaciones bursátiles.",
       "tags": [
-        "analistas",
         "acciones",
-        "resultados"
+        "bonos",
+        "petróleo"
       ],
-      "source_name": "MarketBeat",
-      "source_url": "https://www.marketbeat.com/instant-alerts/analyst-generac-nyse-gnrc-stock-rating-upgraded-by-td-cowen-2026-10-06/",
-      "published_at": "2026-10-06T10:50:43Z",
-      "fecha_evento": "2026-10-06",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-8-tech-stocks-slide-treasury-yields-and-oil-prices-surge",
+      "published_at": "2026-10-08T21:25:02Z",
+      "fecha_evento": "2026-10-08",
+      "tickers": []
+    },
+    {
+      "id": "pepsico-earnings-cut-q3-2026",
+      "type": "empresa",
+      "title": "PepsiCo recortó su pronóstico de ganancias porque su negocio en Norteamérica tarda más en recuperarse",
+      "summary": "PepsiCo redujo sus estimaciones de ganancias para 2026 tras reconocer que su negocio en Norteamérica sigue rezagado respecto a sus mercados internacionales.",
+      "detail": "Cuando una empresa grande como PepsiCo recorta su guidance (pronóstico de ganancias), el mercado suele reaccionar negativamente porque implica que los resultados futuros serán peores de lo esperado. Este tipo de anuncio sirve para entender cómo las empresas comunican sus expectativas a los inversores y por qué esa comunicación mueve los precios de las acciones.",
+      "tags": [
+        "ganancias",
+        "consumo",
+        "empresa"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
+      "published_at": "2026-10-08T14:43:05Z",
+      "fecha_evento": "2026-10-08",
       "tickers": [
-        "GNRC"
+        "PEP"
+      ]
+    },
+    {
+      "id": "starbucks-chipotle-takeover-2026",
+      "type": "empresa",
+      "title": "Starbucks exploró una adquisición de Chipotle que sería la mayor operación en la historia de la industria gastronómica",
+      "summary": "Starbucks habría estado analizando una oferta de compra sobre Chipotle Mexican Grill, una operación que podría convertirse en la más grande de la historia del sector de restaurantes. Las acciones de Chipotle subieron un 6% ante la noticia.",
+      "detail": "Las fusiones y adquisiciones (M&A) son operaciones donde una empresa compra a otra para crecer o diversificarse. Cuando se filtra un posible acuerdo, las acciones de la empresa target (la que sería comprada) suelen subir porque los compradores pagan una prima sobre el precio de mercado. Este caso también muestra los riesgos: Starbucks ya tiene mucha deuda, y sumar más para financiar una compra grande puede preocupar a sus propios inversores.",
+      "tags": [
+        "fusiones",
+        "restaurantes",
+        "acciones"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/starbucks-explores-takeover-chipotle-potential-record-restaurant-deal",
+      "published_at": "2026-10-08T21:01:08Z",
+      "fecha_evento": "2026-10-08",
+      "tickers": [
+        "SBX",
+        "CMG"
+      ]
+    },
+    {
+      "id": "samsung-record-profit-q3-2026",
+      "type": "empresa",
+      "title": "Samsung reportó una ganancia operativa récord de u$s 80.000 millones, aunque su crecimiento se desacelera",
+      "summary": "Samsung anunció que su ganancia operativa preliminar del tercer trimestre creció un 20% respecto al trimestre anterior, alcanzando alrededor de 107,4 billones de wones (unos 80.000 millones de dólares), aunque el ritmo de crecimiento se está moderando.",
+      "detail": "Samsung es uno de los principales fabricantes de chips de memoria del mundo, por lo que sus resultados son un termómetro de la salud del sector tecnológico global. La desaceleración en el crecimiento, a pesar de las ganancias récord, puede anticipar que los precios de los chips de memoria están tocando un techo, lo que afecta también a otras empresas del sector como Micron.",
+      "tags": [
+        "semiconductores",
+        "tecnología",
+        "ganancias"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/samsungs-operating-profit-hit-record-80-billion-microns-memory-prices-its-growth-slowing",
+      "published_at": "2026-10-08T21:06:02Z",
+      "fecha_evento": "2026-10-08",
+      "tickers": []
+    },
+    {
+      "id": "microsoft-adobe-labor-suspension-2026",
+      "type": "empresa",
+      "title": "EE.UU. suspendió a Microsoft y Adobe de un programa clave de certificación laboral bajo investigación federal",
+      "summary": "El Departamento de Trabajo de Estados Unidos suspendió a Microsoft y Adobe del programa de Certificación Permanente de Trabajo (PERM) en el marco de investigaciones federales, y también frenó el procesamiento de solicitudes de otras grandes empresas tecnológicas y de consultoría.",
+      "detail": "El programa PERM es el mecanismo que usan las empresas en EE.UU. para contratar trabajadores extranjeros de forma permanente; su suspensión puede limitar la capacidad de estas compañías de incorporar talento global. Para quienes aprenden finanzas, este tipo de acción regulatoria muestra cómo las decisiones del gobierno pueden afectar la operación y los costos de empresas grandes, con potencial impacto en sus acciones.",
+      "tags": [
+        "regulación",
+        "tecnología",
+        "Microsoft"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/us-suspends-microsoft-and-adobe-labour-certification-programme",
+      "published_at": "2026-10-08T21:02:06Z",
+      "fecha_evento": "2026-10-08",
+      "tickers": [
+        "MSFT",
+        "ADBE"
       ]
     }
   ],
@@ -144,39 +189,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.545",
-      "valor_num": 1545.0,
-      "delta_pct": -0.96
+      "valor": "$1.540",
+      "valor_num": 1540.0,
+      "delta_pct": -0.65
     },
     {
       "label": "MEP",
-      "valor": "$1.538",
-      "valor_num": 1537.9,
-      "delta_pct": -0.9
+      "valor": "$1.543",
+      "valor_num": 1542.7,
+      "delta_pct": -0.11
     },
     {
       "label": "CCL",
-      "valor": "$1.611",
-      "valor_num": 1610.8,
-      "delta_pct": -0.8
+      "valor": "$1.614",
+      "valor_num": 1613.6,
+      "delta_pct": 0.17
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 86.247",
-      "valor_num": 86247.0,
-      "delta_pct": 0.09
+      "valor": "US$ 81.763",
+      "valor_num": 81763.0,
+      "delta_pct": -1.79
     },
     {
       "label": "S&P 500",
-      "valor": "7.774",
-      "valor_num": 7773.95,
-      "delta_pct": 1.17
+      "valor": "7.765",
+      "valor_num": 7765.36,
+      "delta_pct": 1.29
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.201",
-      "valor_num": 4201.3,
-      "delta_pct": -0.02
+      "valor": "US$ 4.161",
+      "valor_num": 4160.8,
+      "delta_pct": 0.1
     }
   ]
 }
