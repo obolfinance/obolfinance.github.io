@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-08T22:32:11.064622+00:00",
+  "generated_at": "2026-10-09T12:01:17.176501+00:00",
   "items": [
     {
-      "id": "tariffs-inflation-ny-fed-2026",
+      "id": "inflacion-tarifas-ny-fed",
       "type": "economia",
-      "title": "Los aranceles de Trump explicaron toda la inflación en 67 categorías de productos",
-      "summary": "Un estudio de la Fed de Nueva York encontró que los aranceles agregaron 2,9 puntos porcentuales de inflación en 67 categorías de bienes hasta febrero de 2026, siendo responsables de la totalidad del aumento de precios en esos rubros.",
-      "detail": "Este hallazgo ilustra cómo los aranceles funcionan como un impuesto al consumidor: las empresas que importan mercadería pagan más por ella y trasladan ese costo a los precios finales. Entender este mecanismo es clave para comprender por qué las políticas comerciales impactan directamente en el poder adquisitivo de la gente, incluso fuera de Estados Unidos, ya que afectan los precios globales.",
+      "title": "La Fed de Nueva York confirmó que los aranceles de Trump generaron inflación directa en miles de productos",
+      "summary": "Un estudio de la Reserva Federal de Nueva York encontró que los aranceles sumaron 2,9 puntos porcentuales de inflación en 67 categorías de bienes cotidianos hacia febrero de 2026.",
+      "detail": "Este dato es clave para entender cómo las políticas comerciales impactan directamente en el bolsillo de los consumidores. Cuando un gobierno sube aranceles a las importaciones, las empresas trasladan ese costo extra al precio final. El hecho de que la propia Fed identifique los aranceles como causa directa de inflación refuerza el dilema que enfrenta el banco central: si sube tasas para frenar la inflación, frena también la economía, pero si no actúa, la inflación sigue escalando.",
       "tags": [
         "aranceles",
         "inflación",
@@ -19,15 +19,15 @@
       "tickers": []
     },
     {
-      "id": "fed-survey-inflation-expectations-2026",
+      "id": "expectativas-inflacion-fed-survey",
       "type": "economia",
-      "title": "Las expectativas de inflación en EE.UU. treparon al nivel más alto desde mayo de 2023",
-      "summary": "Una encuesta de la Reserva Federal mostró que los consumidores esperan una inflación del 3,9% en los próximos 12 meses, el nivel más elevado desde mayo de 2023.",
-      "detail": "Las expectativas de inflación son un indicador crucial porque influyen en el comportamiento de la Fed: si la gente espera que los precios suban, tiende a pedir aumentos de salarios y adelantar compras, lo que puede generar más inflación real. Cuando estas expectativas suben, la Fed puede verse presionada a mantener tasas altas por más tiempo, lo que encarece el crédito en todo el mundo, incluida Argentina.",
+      "title": "Las expectativas de inflación en EE.UU. subieron al nivel más alto desde mayo de 2023",
+      "summary": "Una encuesta de la Fed mostró que los consumidores esperan una inflación del 3,9% en los próximos 12 meses, el dato más alto en más de tres años.",
+      "detail": "Las expectativas de inflación son un indicador muy seguido por los bancos centrales porque influyen en el comportamiento real de la economía: si la gente cree que los precios van a subir, exige aumentos de salarios y adelanta compras, lo que termina generando más inflación. Cuando estas expectativas se desanclan, a la Fed le resulta mucho más difícil y costoso volver a bajar la inflación sin provocar una recesión.",
       "tags": [
         "inflación",
-        "Fed",
-        "expectativas"
+        "expectativas",
+        "Fed"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
@@ -36,32 +36,15 @@
       "tickers": []
     },
     {
-      "id": "imf-georgieva-ai-inflation-yields-2026",
-      "type": "discurso",
-      "title": "La jefa del FMI advierte que la IA impulsa el crecimiento pero también la inflación y los rendimientos de bonos",
-      "summary": "Kristalina Georgieva, directora del FMI, señaló que la inteligencia artificial genera esperanzas de crecimiento económico pero al mismo tiempo está empujando al alza la inflación y los rendimientos de los bonos, en un contexto de altos niveles de deuda pública global.",
-      "detail": "Cuando los rendimientos de los bonos suben, los gobiernos pagan más para financiarse, lo que puede afectar tanto a países desarrollados como emergentes como Argentina. Que la jefa del FMI señale esta tensión es importante porque el organismo es uno de los principales prestamistas y asesores de política económica a nivel mundial, y sus advertencias suelen anticipar cambios en las condiciones del financiamiento global.",
-      "tags": [
-        "FMI",
-        "inteligencia artificial",
-        "bonos"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
-      "published_at": "2026-10-07T06:16:39Z",
-      "fecha_evento": "2026-10-07",
-      "tickers": []
-    },
-    {
-      "id": "india-rbi-rate-hike-2026",
+      "id": "india-sube-tasas",
       "type": "economia",
-      "title": "El banco central de India subió las tasas por primera vez desde 2023 ante riesgos inflacionarios",
-      "summary": "El Banco de la Reserva de India (RBI) aumentó su tasa de interés por primera vez desde 2023, y analistas de HSBC y Goldman Sachs esperan otra suba en diciembre ante la presión inflacionaria.",
-      "detail": "Que un país emergente importante como India suba tasas muestra que la inflación sigue siendo un problema global, no solo de economías avanzadas. Las decisiones de bancos centrales en economías grandes afectan los flujos de capital: cuando suben tasas, atraen inversión hacia esos países y pueden generar salida de capitales de otros mercados emergentes. Es un buen ejemplo para entender por qué las tasas de interés son la herramienta principal de los bancos centrales para controlar la inflación.",
+      "title": "El banco central de India subió las tasas de interés por primera vez desde 2023",
+      "summary": "El Banco de la Reserva de India (RBI) aumentó su tasa de interés ante el crecimiento de los riesgos inflacionarios, y bancos como HSBC y Goldman Sachs esperan otra suba en diciembre.",
+      "detail": "Cuando un banco central sube las tasas, encarece el crédito para frenar el consumo y la inflación. Que India —una de las economías más grandes del mundo— tome esta decisión refleja que la presión inflacionaria es un fenómeno global, no solo de EE.UU. o Europa. Para alguien que aprende finanzas, esto muestra cómo los bancos centrales usan la tasa de interés como su principal herramienta de política monetaria.",
       "tags": [
-        "banco central",
-        "tasas de interés",
-        "India"
+        "tasas",
+        "India",
+        "banco central"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
@@ -70,15 +53,15 @@
       "tickers": []
     },
     {
-      "id": "trade-deficit-august-2026",
+      "id": "deficit-comercial-eeuu",
       "type": "economia",
       "title": "El déficit comercial de EE.UU. llegó a u$s 105.600 millones, el más alto desde antes de los aranceles de Trump",
-      "summary": "El déficit comercial de Estados Unidos en agosto alcanzó los 105.600 millones de dólares, un salto del 13,7% respecto a julio y el nivel más alto desde justo antes de que se implementaran los aranceles de Trump el año pasado.",
-      "detail": "Un déficit comercial tan amplio indica que EE.UU. importa mucho más de lo que exporta, lo que puede presionar al dólar y afectar el crecimiento económico. Para quien aprende finanzas, este dato es útil para entender cómo el comercio exterior impacta en la balanza de pagos y en el tipo de cambio de la economía más grande del mundo, algo que tiene efectos indirectos en todos los mercados globales.",
+      "summary": "El déficit comercial de agosto trepó un 13,7% respecto a julio y superó las estimaciones de Wall Street, que esperaban u$s 102.000 millones.",
+      "detail": "El déficit comercial mide cuánto más importa un país de lo que exporta. Paradójicamente, los aranceles de Trump buscaban reducir este déficit, pero el dato muestra que no lo lograron. Esto puede presionar al dólar y generar debate sobre la efectividad de las barreras comerciales como herramienta de política económica, algo muy relevante para entender las tensiones entre comercio global y economía doméstica.",
       "tags": [
         "déficit comercial",
         "aranceles",
-        "EE.UU."
+        "economía EE.UU."
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
@@ -87,32 +70,71 @@
       "tickers": []
     },
     {
-      "id": "tech-stocks-yields-oil-oct8-2026",
-      "type": "mercado",
-      "title": "Las acciones tecnológicas caen mientras suben los rendimientos de bonos y el precio del petróleo",
-      "summary": "Las acciones del sector tecnológico retrocedieron hoy en Wall Street en un contexto de suba de los rendimientos de los bonos del Tesoro de EE.UU. y alza en el precio del petróleo.",
-      "detail": "Cuando los rendimientos de los bonos suben, las acciones tecnológicas suelen caer porque muchas de estas empresas dependen del crédito barato para financiar su crecimiento; además, los inversores comparan el retorno de los bonos con el de las acciones y pueden preferir los primeros si rinden más. Este movimiento del mercado es un buen ejemplo del mecanismo conocido como 'efecto tasa' sobre las valuaciones bursátiles.",
+      "id": "fmi-ia-inflacion-georgieva",
+      "type": "discurso",
+      "title": "La directora del FMI advirtió que la inteligencia artificial impulsa el crecimiento pero también la inflación",
+      "summary": "Kristalina Georgieva, titular del FMI, alertó que la IA está levantando las expectativas de crecimiento global pero al mismo tiempo empuja la inflación y los rendimientos de los bonos, en un contexto de altos niveles de deuda pública.",
+      "detail": "El FMI es uno de los organismos más influyentes en la economía global y sus advertencias suelen tener impacto en los mercados. La tensión que describe Georgieva es un dilema clásico: si la IA aumenta la productividad, puede ser buena para el crecimiento, pero si al mismo tiempo genera demanda de inversión masiva y sube los precios, los bancos centrales podrían verse obligados a mantener tasas altas por más tiempo, encareciendo el crédito en todo el mundo.",
       "tags": [
-        "acciones",
-        "bonos",
-        "petróleo"
+        "FMI",
+        "inteligencia artificial",
+        "inflación"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-8-tech-stocks-slide-treasury-yields-and-oil-prices-surge",
-      "published_at": "2026-10-08T21:25:02Z",
-      "fecha_evento": "2026-10-08",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html",
+      "published_at": "2026-10-07T06:16:39Z",
+      "fecha_evento": "2026-10-07",
       "tickers": []
     },
     {
-      "id": "pepsico-earnings-cut-q3-2026",
+      "id": "delta-resultados-recorte-forecast",
       "type": "empresa",
-      "title": "PepsiCo recortó su pronóstico de ganancias porque su negocio en Norteamérica tarda más en recuperarse",
-      "summary": "PepsiCo redujo sus estimaciones de ganancias para 2026 tras reconocer que su negocio en Norteamérica sigue rezagado respecto a sus mercados internacionales.",
-      "detail": "Cuando una empresa grande como PepsiCo recorta su guidance (pronóstico de ganancias), el mercado suele reaccionar negativamente porque implica que los resultados futuros serán peores de lo esperado. Este tipo de anuncio sirve para entender cómo las empresas comunican sus expectativas a los inversores y por qué esa comunicación mueve los precios de las acciones.",
+      "title": "Delta Air Lines recortó su pronóstico para 2026 por el alza del combustible y decepcionó a Wall Street",
+      "summary": "Delta reportó resultados del tercer trimestre que quedaron por debajo de las estimaciones de Wall Street por primera vez en dos años, y bajó su proyección anual debido al encarecimiento del combustible, aunque el CEO destacó que la demanda de pasajeros sigue firme.",
+      "detail": "Cuando una empresa grande como Delta revisa a la baja sus ganancias esperadas, el mercado suele castigar su acción. Este caso ilustra cómo los costos operativos —en este caso el combustible— pueden erosionar los márgenes incluso cuando la demanda es buena. Para un inversor, aprender a distinguir entre problemas de demanda y problemas de costos es clave para evaluar la salud real de una empresa.",
       "tags": [
-        "ganancias",
+        "aerolíneas",
+        "resultados",
+        "combustible"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+      "published_at": "2026-10-09T11:31:28Z",
+      "fecha_evento": "2026-10-09",
+      "tickers": [
+        "DAL"
+      ]
+    },
+    {
+      "id": "starbucks-chipotle-adquisicion",
+      "type": "empresa",
+      "title": "Starbucks estaría analizando una oferta de compra sobre Chipotle",
+      "summary": "Según trascendidos, Starbucks estuvo trabajando con asesores en una propuesta de adquisición de Chipotle, aunque un eventual acuerdo tiene ventajas y desventajas para ambas compañías.",
+      "detail": "Las fusiones y adquisiciones (M&A) son movimientos estratégicos que pueden cambiar radicalmente el valor de las acciones involucradas. Cuando se filtra que una empresa puede comprar a otra, el precio de la compañía objetivo suele subir (por la prima que el comprador normalmente ofrece) y el de la compradora puede caer si el mercado duda de la lógica del negocio. Este caso es un buen ejemplo para entender cómo los rumores de M&A mueven los mercados.",
+      "tags": [
+        "fusiones",
+        "Starbucks",
+        "Chipotle"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
+      "published_at": "2026-10-08T20:12:33Z",
+      "fecha_evento": "2026-10-08",
+      "tickers": [
+        "SBUX",
+        "CMG"
+      ]
+    },
+    {
+      "id": "pepsico-recorta-ganancias",
+      "type": "empresa",
+      "title": "PepsiCo recortó su pronóstico de ganancias porque la recuperación en Norteamérica tarda más de lo esperado",
+      "summary": "PepsiCo bajó sus proyecciones de resultados ante el rezago de su negocio norteamericano, mientras que sus mercados internacionales siguen rindiendo mejor.",
+      "detail": "Que una multinacional como PepsiCo tenga mejor desempeño afuera que dentro de EE.UU. es una señal de que los consumidores estadounidenses están bajo presión, probablemente por la inflación y el encarecimiento del crédito. Cuando una empresa revisa a la baja su guidance (proyección de ganancias), el mercado suele reaccionar negativamente porque los inversores descuentan el futuro esperado, no solo el pasado.",
+      "tags": [
         "consumo",
-        "empresa"
+        "PepsiCo",
+        "ganancias"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
@@ -123,60 +145,42 @@
       ]
     },
     {
-      "id": "starbucks-chipotle-takeover-2026",
+      "id": "apple-iphone18-pedidos-bajan",
       "type": "empresa",
-      "title": "Starbucks exploró una adquisición de Chipotle que sería la mayor operación en la historia de la industria gastronómica",
-      "summary": "Starbucks habría estado analizando una oferta de compra sobre Chipotle Mexican Grill, una operación que podría convertirse en la más grande de la historia del sector de restaurantes. Las acciones de Chipotle subieron un 6% ante la noticia.",
-      "detail": "Las fusiones y adquisiciones (M&A) son operaciones donde una empresa compra a otra para crecer o diversificarse. Cuando se filtra un posible acuerdo, las acciones de la empresa target (la que sería comprada) suelen subir porque los compradores pagan una prima sobre el precio de mercado. Este caso también muestra los riesgos: Starbucks ya tiene mucha deuda, y sumar más para financiar una compra grande puede preocupar a sus propios inversores.",
+      "title": "Apple estaría recortando pedidos de componentes del iPhone 18 Pro en un 15%",
+      "summary": "Según Nikkei Asia, Apple redujo sus órdenes de componentes para el iPhone 18 Pro y el iPhone 18 Pro Max en alrededor de un 15% en octubre, lo que podría indicar una demanda más débil de lo esperado.",
+      "detail": "Los recortes de pedidos de componentes son un indicador adelantado de ventas: si Apple pide menos partes, probablemente espera vender menos. Esto tiene efecto en cadena sobre proveedores de chips, pantallas y otros insumos, muchos de ellos cotizados en bolsa. Para un inversor que sigue el sector tecnológico, estos datos de la cadena de suministro son señales tempranas antes de que aparezcan en los resultados oficiales.",
       "tags": [
-        "fusiones",
-        "restaurantes",
-        "acciones"
+        "Apple",
+        "tecnología",
+        "demanda"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/starbucks-explores-takeover-chipotle-potential-record-restaurant-deal",
-      "published_at": "2026-10-08T21:01:08Z",
-      "fecha_evento": "2026-10-08",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+      "published_at": "2026-10-09T10:04:00Z",
+      "fecha_evento": "2026-10-09",
       "tickers": [
-        "SBX",
-        "CMG"
+        "AAPL"
       ]
     },
     {
-      "id": "samsung-record-profit-q3-2026",
+      "id": "starlink-mobile-att-verizon",
       "type": "empresa",
-      "title": "Samsung reportó una ganancia operativa récord de u$s 80.000 millones, aunque su crecimiento se desacelera",
-      "summary": "Samsung anunció que su ganancia operativa preliminar del tercer trimestre creció un 20% respecto al trimestre anterior, alcanzando alrededor de 107,4 billones de wones (unos 80.000 millones de dólares), aunque el ritmo de crecimiento se está moderando.",
-      "detail": "Samsung es uno de los principales fabricantes de chips de memoria del mundo, por lo que sus resultados son un termómetro de la salud del sector tecnológico global. La desaceleración en el crecimiento, a pesar de las ganancias récord, puede anticipar que los precios de los chips de memoria están tocando un techo, lo que afecta también a otras empresas del sector como Micron.",
+      "title": "SpaceX planea comprar espectro de radio para expandir Starlink Mobile y presiona las acciones de AT&T y Verizon",
+      "summary": "SpaceX anunció que comprará el portafolio de espectro de 800 MHz de Grain Management para reforzar su ambición de ofrecer servicio móvil a través de Starlink, lo que generó caídas en las acciones de las grandes telefónicas estadounidenses.",
+      "detail": "Cuando una empresa disruptiva como SpaceX entra en un mercado dominado por pocas compañías, el mercado reacciona castigando a los incumbentes porque anticipa mayor competencia y posible pérdida de clientes. El espectro de radio es un activo escaso y regulado, y adquirirlo es una señal de que Starlink está apostando en serio a convertirse en un operador móvil, lo que podría cambiar la dinámica del sector de telecomunicaciones.",
       "tags": [
-        "semiconductores",
-        "tecnología",
-        "ganancias"
+        "SpaceX",
+        "telecomunicaciones",
+        "competencia"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/samsungs-operating-profit-hit-record-80-billion-microns-memory-prices-its-growth-slowing",
-      "published_at": "2026-10-08T21:06:02Z",
-      "fecha_evento": "2026-10-08",
-      "tickers": []
-    },
-    {
-      "id": "microsoft-adobe-labor-suspension-2026",
-      "type": "empresa",
-      "title": "EE.UU. suspendió a Microsoft y Adobe de un programa clave de certificación laboral bajo investigación federal",
-      "summary": "El Departamento de Trabajo de Estados Unidos suspendió a Microsoft y Adobe del programa de Certificación Permanente de Trabajo (PERM) en el marco de investigaciones federales, y también frenó el procesamiento de solicitudes de otras grandes empresas tecnológicas y de consultoría.",
-      "detail": "El programa PERM es el mecanismo que usan las empresas en EE.UU. para contratar trabajadores extranjeros de forma permanente; su suspensión puede limitar la capacidad de estas compañías de incorporar talento global. Para quienes aprenden finanzas, este tipo de acción regulatoria muestra cómo las decisiones del gobierno pueden afectar la operación y los costos de empresas grandes, con potencial impacto en sus acciones.",
-      "tags": [
-        "regulación",
-        "tecnología",
-        "Microsoft"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/us-suspends-microsoft-and-adobe-labour-certification-programme",
-      "published_at": "2026-10-08T21:02:06Z",
-      "fecha_evento": "2026-10-08",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+      "published_at": "2026-10-09T00:52:00Z",
+      "fecha_evento": "2026-10-09",
       "tickers": [
-        "MSFT",
-        "ADBE"
+        "T",
+        "VZ"
       ]
     }
   ],
@@ -191,25 +195,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.540",
       "valor_num": 1540.0,
-      "delta_pct": -0.65
+      "delta_pct": -0.96
     },
     {
       "label": "MEP",
       "valor": "$1.543",
       "valor_num": 1542.7,
-      "delta_pct": -0.11
+      "delta_pct": 0.24
     },
     {
       "label": "CCL",
       "valor": "$1.614",
       "valor_num": 1613.6,
-      "delta_pct": 0.17
+      "delta_pct": 0.3
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.763",
-      "valor_num": 81763.0,
-      "delta_pct": -1.79
+      "valor": "US$ 83.142",
+      "valor_num": 83142.0,
+      "delta_pct": 0.85
     },
     {
       "label": "S&P 500",
@@ -219,9 +223,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.161",
-      "valor_num": 4160.8,
-      "delta_pct": 0.1
+      "valor": "US$ 4.206",
+      "valor_num": 4206.2,
+      "delta_pct": 1.19
     }
   ]
 }
