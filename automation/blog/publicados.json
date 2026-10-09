@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "que-es-el-dinero-fiat-y-por-que-funciona",
+      "titulo": "Por qué un papel sin respaldo vale algo: la historia del dinero fiat",
+      "bajada": "El dinero no vale por lo que está hecho. Vale porque todos aceptamos que vale. La historia de cómo llegamos hasta acá, y qué pasa cuando se rompe.",
+      "categoria": "Historia",
+      "mundo": "historia",
+      "fecha": "2026-10-09"
+    },
+    {
       "slug": "interes-compuesto-y-el-tiempo",
       "titulo": "Interés compuesto: por qué el tiempo pesa más que el monto",
       "bajada": "El interés compuesto no es magia: es una suma que se repite. Te explicamos cómo funciona, por qué el plazo manda y cuándo juega en contra.",
