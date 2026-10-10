@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-10-10T12:01:16.469820+00:00",
+  "generated_at": "2026-10-10T22:01:10.874836+00:00",
   "items": [
     {
-      "id": "inflation-tariffs-ny-fed",
+      "id": "american-debt-delinquency-2026",
       "type": "economia",
-      "title": "La Fed de Nueva York confirmó que los aranceles generaron inflación real en EE.UU.",
-      "summary": "Un estudio de la Reserva Federal de Nueva York encontró que los aranceles sumaron 2,9 puntos porcentuales de inflación en 67 categorías de productos de consumo, hasta febrero de 2026.",
-      "detail": "Este dato es clave para entender cómo la política comercial impacta directamente en los precios que pagan los consumidores. Cuando un gobierno sube aranceles a productos importados, las empresas trasladan ese costo al precio final. El hecho de que la Fed lo mida y publique es importante porque muestra la tensión entre política comercial y el objetivo de controlar la inflación.",
+      "title": "La deuda de los estadounidenses manda señales de alarma que no se veían desde la Gran Recesión",
+      "summary": "Un estudio detectó que la capacidad de los estadounidenses para pagar sus deudas se deterioró significativamente, en niveles no vistos desde la Gran Recesión, aunque las desigualdades de riqueza se redujeron un poco.",
+      "detail": "El nivel de morosidad en deudas es un indicador clave de salud económica: cuando las personas no pueden pagar lo que deben, el consumo cae y los bancos se vuelven más cautelosos para prestar. Que este indicador esté en niveles de la Gran Recesión es una señal de alerta para la economía global, ya que EE.UU. es el mayor mercado del mundo y lo que pasa ahí suele repercutir en mercados emergentes como Argentina.",
+      "tags": [
+        "deuda",
+        "economía EE.UU.",
+        "morosidad"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+      "published_at": "2026-10-09T19:18:24Z",
+      "fecha_evento": "2026-10-09",
+      "tickers": []
+    },
+    {
+      "id": "judy-shelton-treasury-advisor-2026",
+      "type": "discurso",
+      "title": "El Tesoro de EE.UU. suma a Judy Shelton, la polémica economista que el Senado bloqueó para la Fed",
+      "summary": "Scott Bessent, secretario del Tesoro de EE.UU., contrató a Judy Shelton como asesora. Shelton fue nominada para la Reserva Federal por Trump pero el Senado rechazó su designación por sus ideas económicas controvertidas.",
+      "detail": "Shelton es conocida por sus posiciones heterodoxas, como defender el regreso al patrón oro y cuestionar la independencia de los bancos centrales. Su incorporación al Tesoro muestra que las ideas que rodean al gobierno de Trump siguen influyendo en la política económica de EE.UU., lo que puede afectar las expectativas sobre tasas de interés y el dólar a nivel global.",
+      "tags": [
+        "Reserva Federal",
+        "política monetaria",
+        "EE.UU."
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+      "published_at": "2026-10-09T13:09:19Z",
+      "fecha_evento": "2026-10-09",
+      "tickers": []
+    },
+    {
+      "id": "inflacion-aranceles-ny-fed-2026",
+      "type": "economia",
+      "title": "La Fed de Nueva York confirmó que los aranceles de Trump fueron la causa directa de la inflación en decenas de productos",
+      "summary": "Investigadores de la Reserva Federal de Nueva York encontraron que los aranceles sumaron 2,9 puntos porcentuales de inflación en 67 categorías de bienes hasta febrero de 2026.",
+      "detail": "Este estudio es relevante porque cuantifica el impacto directo de los aranceles sobre los precios al consumidor, algo que suele ser difícil de medir. Para quienes aprenden finanzas, ilustra cómo las decisiones de política comercial se trasladan directamente al bolsillo de la gente, y también cómo la inflación puede tener causas estructurales más allá de la política monetaria del banco central.",
       "tags": [
         "aranceles",
         "inflación",
@@ -19,85 +53,15 @@
       "tickers": []
     },
     {
-      "id": "inflacion-expectativas-fed-survey",
-      "type": "economia",
-      "title": "Las expectativas de inflación en EE.UU. treparon al nivel más alto desde mayo de 2023",
-      "summary": "La encuesta de expectativas del consumidor de la Fed mostró que la proyección mediana de inflación a 12 meses subió a 3,9%, el nivel más alto desde mayo de 2023.",
-      "detail": "Las expectativas de inflación son un indicador que los bancos centrales monitorean de cerca: si la gente cree que los precios van a subir, tiende a pedir aumentos de sueldo y adelantar compras, lo que efectivamente genera más inflación. Cuando estas expectativas suben, la Fed puede verse obligada a mantener tasas de interés altas por más tiempo, lo que afecta al crédito y a los mercados globales.",
-      "tags": [
-        "inflación",
-        "expectativas",
-        "Fed"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
-      "published_at": "2026-10-07T18:44:36Z",
-      "fecha_evento": "2026-10-07",
-      "tickers": []
-    },
-    {
-      "id": "deuda-consumidores-eeuu",
-      "type": "economia",
-      "title": "Los problemas de deuda en EE.UU. mandan una señal de alerta que no se veía desde la Gran Recesión",
-      "summary": "Una investigación detectó que la capacidad de los estadounidenses para pagar sus deudas se deterioró de forma significativa, con niveles de morosidad que no se veían desde la Gran Recesión.",
-      "detail": "La mora en el pago de deudas es un indicador adelantado de problemas económicos más profundos: cuando los consumidores no pueden pagar, los bancos tienen pérdidas, el crédito se contrae y el consumo cae. Para quienes aprenden finanzas, este tipo de dato ayuda a entender cómo el ciclo de deuda afecta a toda la economía, no solo a quienes deben.",
-      "tags": [
-        "deuda",
-        "consumo",
-        "recesión"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-      "published_at": "2026-10-09T19:18:24Z",
-      "fecha_evento": "2026-10-09",
-      "tickers": []
-    },
-    {
-      "id": "judy-shelton-treasury",
-      "type": "discurso",
-      "title": "El Tesoro de EE.UU. sumó a Judy Shelton, la economista que Trump quiso poner en la Fed",
-      "summary": "Scott Bessent, secretario del Tesoro, contrató a Judy Shelton —cuya nominación al directorio de la Fed fue bloqueada por el Senado— como asesora.",
-      "detail": "Shelton es conocida por ideas heterodoxas como volver al patrón oro y cuestionar la independencia de la Fed. Su llegada al Tesoro puede influir en las posiciones del gobierno sobre política monetaria y regulación financiera. Para quienes aprenden finanzas, es un ejemplo de cómo las personas que rodean a los tomadores de decisiones económicas moldean las políticas reales.",
-      "tags": [
-        "Fed",
-        "política monetaria",
-        "Tesoro"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-      "published_at": "2026-10-09T13:09:19Z",
-      "fecha_evento": "2026-10-09",
-      "tickers": []
-    },
-    {
-      "id": "delta-earnings-q3-2026",
+      "id": "pepsico-recorta-previsiones-2026",
       "type": "empresa",
-      "title": "Delta recortó sus proyecciones para 2026 por el salto en el precio del combustible",
-      "summary": "Delta Air Lines presentó sus resultados del tercer trimestre, perdiendo las estimaciones de Wall Street por primera vez en dos años, y recortó su pronóstico de ganancias para el año por el alza en el costo del combustible.",
-      "detail": "El precio del combustible es uno de los mayores costos para las aerolíneas y tiene impacto directo en sus márgenes de ganancia. Cuando una empresa grande como Delta revisa a la baja sus proyecciones, el mercado lo toma como una señal negativa y suele reaccionar vendiendo sus acciones. Además, este caso ilustra cómo los precios de las materias primas (el petróleo) afectan a industrias enteras.",
+      "title": "PepsiCo recortó sus proyecciones de ganancias porque su negocio en Norteamérica no logra recuperarse",
+      "summary": "PepsiCo redujo sus estimaciones de ganancias para el año porque su división norteamericana sigue rezagada respecto a sus mercados internacionales.",
+      "detail": "Cuando una empresa grande como PepsiCo baja sus proyecciones, el mercado suele reaccionar vendiendo sus acciones. Este tipo de anuncio también sirve como termómetro del consumo en EE.UU.: si la gente compra menos gaseosas y snacks, puede ser señal de que el poder adquisitivo está bajo presión, algo relacionado con el dato de morosidad en deudas.",
       "tags": [
-        "aerolíneas",
-        "ganancias",
-        "combustible"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-      "published_at": "2026-10-09T15:07:46Z",
-      "fecha_evento": "2026-10-09",
-      "tickers": [
-        "DAL"
-      ]
-    },
-    {
-      "id": "pepsico-earnings-q3-2026",
-      "type": "empresa",
-      "title": "PepsiCo bajó su pronóstico de ganancias porque su negocio en Norteamérica no repunta",
-      "summary": "PepsiCo recortó sus proyecciones de ganancias para el año, reconociendo que la recuperación de su negocio en Estados Unidos y Canadá está tardando más de lo esperado, mientras sus mercados internacionales siguen mejor.",
-      "detail": "Cuando una empresa multinacional como Pepsi muestra divergencia entre sus mercados locales e internacionales, es una señal útil para analizar cómo los aranceles, la inflación y el consumo interno afectan los resultados. Además, revisar las guías de ganancias a la baja suele mover el precio de la acción y afectar a los índices donde cotiza.",
-      "tags": [
+        "resultados",
         "consumo",
-        "ganancias",
-        "multinacional"
+        "acciones"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
@@ -108,15 +72,34 @@
       ]
     },
     {
-      "id": "starbucks-chipotle-takeover",
+      "id": "delta-recorta-forecast-2026",
       "type": "empresa",
-      "title": "Starbucks estudiaría una oferta de compra sobre Chipotle",
-      "summary": "Según reportes, Starbucks estaría trabajando con asesores financieros en una propuesta de adquisición de Chipotle, aunque la operación tiene puntos a favor y en contra para ambas compañías.",
-      "detail": "Las fusiones y adquisiciones (M&A) son movimientos corporativos que suelen impactar fuerte en el precio de las acciones de las empresas involucradas: la empresa comprada generalmente sube y la compradora puede bajar si el mercado duda del precio pagado. Para quienes aprenden finanzas, este caso muestra cómo las empresas buscan crecer comprando otras en lugar de hacerlo orgánicamente.",
+      "title": "Delta Air Lines bajó sus proyecciones para 2026 por el aumento en el precio del combustible",
+      "summary": "Delta reportó resultados del tercer trimestre por debajo de las expectativas de Wall Street por primera vez en dos años, y recortó su pronóstico anual por el encarecimiento del combustible, aunque el CEO aclaró que la demanda de vuelos sigue siendo sólida.",
+      "detail": "El caso de Delta muestra cómo los costos operativos, especialmente el precio del petróleo, pueden afectar la rentabilidad de una empresa incluso cuando la demanda de sus productos es alta. Para inversores, es un recordatorio de que no alcanza con que una empresa venda bien: los márgenes de ganancia dependen también de cuánto cuesta producir o dar el servicio.",
+      "tags": [
+        "aerolíneas",
+        "resultados",
+        "petróleo"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+      "published_at": "2026-10-09T15:07:46Z",
+      "fecha_evento": "2026-10-09",
+      "tickers": [
+        "DAL"
+      ]
+    },
+    {
+      "id": "starbucks-chipotle-adquisicion-2026",
+      "type": "empresa",
+      "title": "Starbucks estaría estudiando una propuesta para comprar Chipotle",
+      "summary": "Según reportes, Starbucks estuvo trabajando con asesores en una posible oferta de adquisición sobre Chipotle, una operación con potenciales ventajas y riesgos para los inversores de ambas compañías.",
+      "detail": "Las fusiones y adquisiciones (M&A) son movimientos estratégicos frecuentes en el mundo corporativo: una empresa compra a otra para ganar escala, diversificar o eliminar competencia. Para quienes aprenden finanzas, estos eventos suelen mover fuerte los precios de las acciones involucradas, ya que el comprador generalmente paga una prima sobre el precio de mercado de la empresa objetivo.",
       "tags": [
         "fusiones",
-        "acciones",
-        "consumo"
+        "empresas",
+        "acciones"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
@@ -128,59 +111,42 @@
       ]
     },
     {
-      "id": "tesla-rally-deliveries",
-      "type": "empresa",
-      "title": "Las acciones de Tesla subieron con fuerza tras superar las estimaciones de entregas del tercer trimestre",
-      "summary": "Tesla superó las expectativas de Wall Street en entregas de vehículos del tercer trimestre, lo que impulsó un rally en el precio de sus acciones.",
-      "detail": "Las entregas de autos son el indicador de ventas más seguido para Tesla, ya que determinan los ingresos trimestrales. Cuando una empresa supera las expectativas del mercado, los inversores suelen recompensar ese desempeño comprando más acciones, lo que sube el precio. Este es un ejemplo claro de cómo los datos operativos se traducen en movimientos bursátiles.",
+      "id": "nasdaq100-racha-ganancias-2026",
+      "type": "mercado",
+      "title": "El Nasdaq-100 acumula tres años seguidos con ganancias de más del 20%, respaldado por resultados corporativos sólidos",
+      "summary": "El índice Nasdaq-100 encadena tres años consecutivos con rendimientos superiores al 20%, una racha que según analistas se apoya en ganancias corporativas mucho más sólidas que las de la burbuja de 1999.",
+      "detail": "Comparar el rally actual con 1999 es importante porque en aquella época las valuaciones altísimas no estaban respaldadas por ganancias reales, lo que llevó al estallido de la burbuja puntocom. Que hoy los analistas señalen que las ganancias son más genuinas ayuda a entender la diferencia entre una suba de precios sustentable y una especulativa, un concepto clave en educación financiera.",
       "tags": [
+        "Nasdaq",
         "acciones",
-        "autos eléctricos",
-        "resultados"
+        "tecnología"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/tesla-shares-surge-whats-driving-latest-rally",
-      "published_at": "2026-10-10T11:08:00Z",
+      "source_url": "https://www.nasdaq.com/articles/nasdaq-100-has-gained-20-or-more-3-years-running-streak-rests-far-stronger-earnings-1999s",
+      "published_at": "2026-10-10T18:18:01Z",
+      "fecha_evento": "2026-10-10",
+      "tickers": [
+        "QQQ"
+      ]
+    },
+    {
+      "id": "elon-musk-mas-rico-historia-2026",
+      "type": "economia",
+      "title": "Elon Musk es ahora más rico que cualquier estadounidense en la historia",
+      "summary": "Musk alcanzó un nivel de riqueza que supera al de sus tres contemporáneos más ricos juntos, y también al de magnates históricos como John D. Rockefeller.",
+      "detail": "La concentración de riqueza en pocas personas es un tema central en economía y finanzas: refleja tanto el poder de las empresas tecnológicas y de vehículos eléctricos como la desigualdad estructural que genera debates sobre impuestos y regulación. Para quienes aprenden finanzas, el caso de Musk también ilustra cómo la riqueza de los grandes accionistas está atada al valor de mercado de sus empresas, que puede fluctuar enormemente.",
+      "tags": [
+        "riqueza",
+        "desigualdad",
+        "mercado"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+      "published_at": "2026-10-10T16:50:00Z",
       "fecha_evento": "2026-10-10",
       "tickers": [
         "TSLA"
       ]
-    },
-    {
-      "id": "microsoft-4-trillion",
-      "type": "empresa",
-      "title": "Microsoft está a punto de recuperar una capitalización de mercado de 4 billones de dólares",
-      "summary": "Microsoft se acerca nuevamente a los 4 billones de dólares de valor de mercado y tiene en la mira nuevos máximos históricos en el precio de su acción.",
-      "detail": "La capitalización de mercado es el valor total de todas las acciones de una empresa y es uno de los indicadores más usados para medir su tamaño e importancia. Que Microsoft esté cerca de ese umbral refleja la confianza de los inversores en su negocio de nube e inteligencia artificial. Para quienes aprenden finanzas, es un buen caso para entender cómo se mide el valor de una empresa en bolsa.",
-      "tags": [
-        "tecnología",
-        "acciones",
-        "capitalización"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8",
-      "published_at": "2026-10-09T21:24:00Z",
-      "fecha_evento": "2026-10-09",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "trump-rusia-diesel",
-      "type": "economia",
-      "title": "Trump negoció con Rusia para aumentar la oferta global de diésel antes de las elecciones de medio término",
-      "summary": "La administración Trump buscó el apoyo de Rusia para incrementar la oferta de diésel en EE.UU. y el mundo, con el objetivo de bajar los precios del combustible antes de las elecciones de noviembre, aunque estrategas advierten que podría ser tarde.",
-      "detail": "Los precios de la energía son políticamente sensibles porque afectan directamente el bolsillo de los votantes. Esta movida muestra cómo los gobiernos intentan influir en los mercados de materias primas con fines políticos. Para quienes aprenden finanzas, es un ejemplo de cómo las decisiones geopolíticas pueden mover los precios del petróleo y sus derivados.",
-      "tags": [
-        "energía",
-        "geopolítica",
-        "petróleo"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030",
-      "published_at": "2026-10-09T22:00:00Z",
-      "fecha_evento": "2026-10-09",
-      "tickers": []
     }
   ],
   "ticker": [
@@ -210,9 +176,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 82.832",
-      "valor_num": 82832.0,
-      "delta_pct": -0.38
+      "valor": "US$ 82.980",
+      "valor_num": 82980.0,
+      "delta_pct": 0.62
     },
     {
       "label": "S&P 500",
