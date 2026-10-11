@@ -1,33 +1,16 @@
 {
-  "generated_at": "2026-10-10T22:01:10.874836+00:00",
+  "generated_at": "2026-10-11T12:01:23.734933+00:00",
   "items": [
     {
-      "id": "american-debt-delinquency-2026",
-      "type": "economia",
-      "title": "La deuda de los estadounidenses manda señales de alarma que no se veían desde la Gran Recesión",
-      "summary": "Un estudio detectó que la capacidad de los estadounidenses para pagar sus deudas se deterioró significativamente, en niveles no vistos desde la Gran Recesión, aunque las desigualdades de riqueza se redujeron un poco.",
-      "detail": "El nivel de morosidad en deudas es un indicador clave de salud económica: cuando las personas no pueden pagar lo que deben, el consumo cae y los bancos se vuelven más cautelosos para prestar. Que este indicador esté en niveles de la Gran Recesión es una señal de alerta para la economía global, ya que EE.UU. es el mayor mercado del mundo y lo que pasa ahí suele repercutir en mercados emergentes como Argentina.",
-      "tags": [
-        "deuda",
-        "economía EE.UU.",
-        "morosidad"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-      "published_at": "2026-10-09T19:18:24Z",
-      "fecha_evento": "2026-10-09",
-      "tickers": []
-    },
-    {
-      "id": "judy-shelton-treasury-advisor-2026",
+      "id": "bessent-shelton-treasury",
       "type": "discurso",
-      "title": "El Tesoro de EE.UU. suma a Judy Shelton, la polémica economista que el Senado bloqueó para la Fed",
-      "summary": "Scott Bessent, secretario del Tesoro de EE.UU., contrató a Judy Shelton como asesora. Shelton fue nominada para la Reserva Federal por Trump pero el Senado rechazó su designación por sus ideas económicas controvertidas.",
-      "detail": "Shelton es conocida por sus posiciones heterodoxas, como defender el regreso al patrón oro y cuestionar la independencia de los bancos centrales. Su incorporación al Tesoro muestra que las ideas que rodean al gobierno de Trump siguen influyendo en la política económica de EE.UU., lo que puede afectar las expectativas sobre tasas de interés y el dólar a nivel global.",
+      "title": "El Tesoro de EE.UU. suma a Judy Shelton como asesora",
+      "summary": "Scott Bessent, secretario del Tesoro de Trump, contrató a Judy Shelton como consejera. Shelton es conocida por sus ideas económicas heterodoxas, que en su momento impidieron que el Senado la confirmara en la Fed.",
+      "detail": "Shelton es defensora del patrón oro y crítica de la independencia de los bancos centrales, posiciones poco convencionales en la economía moderna. Su incorporación al Tesoro puede anticipar cambios en la postura oficial de EE.UU. sobre política monetaria. Para alguien que aprende finanzas, este tipo de movimientos muestra cómo las ideas económicas detrás de quienes toman decisiones importan tanto como las decisiones mismas.",
       "tags": [
-        "Reserva Federal",
+        "Tesoro",
         "política monetaria",
-        "EE.UU."
+        "Fed"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
@@ -36,14 +19,14 @@
       "tickers": []
     },
     {
-      "id": "inflacion-aranceles-ny-fed-2026",
+      "id": "inflacion-aranceles-ny-fed",
       "type": "economia",
-      "title": "La Fed de Nueva York confirmó que los aranceles de Trump fueron la causa directa de la inflación en decenas de productos",
-      "summary": "Investigadores de la Reserva Federal de Nueva York encontraron que los aranceles sumaron 2,9 puntos porcentuales de inflación en 67 categorías de bienes hasta febrero de 2026.",
-      "detail": "Este estudio es relevante porque cuantifica el impacto directo de los aranceles sobre los precios al consumidor, algo que suele ser difícil de medir. Para quienes aprenden finanzas, ilustra cómo las decisiones de política comercial se trasladan directamente al bolsillo de la gente, y también cómo la inflación puede tener causas estructurales más allá de la política monetaria del banco central.",
+      "title": "La Fed de Nueva York: los aranceles explicaron toda la inflación en 67 categorías de productos",
+      "summary": "Un estudio de la Reserva Federal de Nueva York concluyó que los aranceles sumaron 2,9 puntos porcentuales de inflación en 67 categorías de bienes de consumo hasta febrero de 2026.",
+      "detail": "Este dato ilustra de forma directa cómo los aranceles (impuestos a las importaciones) se trasladan al precio final que pagan los consumidores. Es un ejemplo clave de cómo la política comercial afecta la inflación, algo que los bancos centrales deben considerar al fijar tasas de interés. Para quien aprende finanzas, entender que la inflación no siempre viene de exceso de demanda sino también de costos externos es fundamental.",
       "tags": [
-        "aranceles",
         "inflación",
+        "aranceles",
         "Fed"
       ],
       "source_name": "CNBC",
@@ -53,15 +36,32 @@
       "tickers": []
     },
     {
-      "id": "pepsico-recorta-previsiones-2026",
+      "id": "deuda-consumidores-eeuu",
+      "type": "economia",
+      "title": "Las deudas de los estadounidenses mandan una señal de alerta que no se veía desde la Gran Recesión",
+      "summary": "Un estudio advierte que la capacidad de los estadounidenses para pagar sus deudas se deterioró significativamente, en niveles que no se veían desde la Gran Recesión.",
+      "detail": "La morosidad en el crédito al consumo es un indicador adelantado del estado real de la economía: cuando las familias no pueden pagar sus deudas, el consumo cae y los bancos sufren pérdidas. Este tipo de señal suele preceder a desaceleraciones económicas más amplias. Para quien aprende finanzas, es un ejemplo de cómo los datos de deuda privada permiten anticipar tendencias antes de que aparezcan en el PBI.",
+      "tags": [
+        "deuda",
+        "consumo",
+        "recesión"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+      "published_at": "2026-10-09T19:18:24Z",
+      "fecha_evento": "2026-10-09",
+      "tickers": []
+    },
+    {
+      "id": "pepsico-baja-proyecciones",
       "type": "empresa",
-      "title": "PepsiCo recortó sus proyecciones de ganancias porque su negocio en Norteamérica no logra recuperarse",
-      "summary": "PepsiCo redujo sus estimaciones de ganancias para el año porque su división norteamericana sigue rezagada respecto a sus mercados internacionales.",
-      "detail": "Cuando una empresa grande como PepsiCo baja sus proyecciones, el mercado suele reaccionar vendiendo sus acciones. Este tipo de anuncio también sirve como termómetro del consumo en EE.UU.: si la gente compra menos gaseosas y snacks, puede ser señal de que el poder adquisitivo está bajo presión, algo relacionado con el dato de morosidad en deudas.",
+      "title": "PepsiCo recortó sus proyecciones de ganancias porque la recuperación en Norteamérica tarda más de lo esperado",
+      "summary": "PepsiCo redujo su estimación de ganancias para el año porque su negocio en Norteamérica sigue rezagado respecto a sus mercados internacionales.",
+      "detail": "Cuando una empresa revisa a la baja sus proyecciones, suele impactar en el precio de su acción porque el mercado ajusta sus expectativas futuras. El caso de Pepsi muestra cómo una misma empresa puede tener desempeños muy distintos por región, y cómo los aranceles y el consumo local influyen en los resultados. Es un buen ejemplo para entender qué es un profit warning y por qué los inversores lo siguen de cerca.",
       "tags": [
         "resultados",
         "consumo",
-        "acciones"
+        "empresas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
@@ -72,15 +72,15 @@
       ]
     },
     {
-      "id": "delta-recorta-forecast-2026",
+      "id": "delta-recorta-forecast",
       "type": "empresa",
-      "title": "Delta Air Lines bajó sus proyecciones para 2026 por el aumento en el precio del combustible",
-      "summary": "Delta reportó resultados del tercer trimestre por debajo de las expectativas de Wall Street por primera vez en dos años, y recortó su pronóstico anual por el encarecimiento del combustible, aunque el CEO aclaró que la demanda de vuelos sigue siendo sólida.",
-      "detail": "El caso de Delta muestra cómo los costos operativos, especialmente el precio del petróleo, pueden afectar la rentabilidad de una empresa incluso cuando la demanda de sus productos es alta. Para inversores, es un recordatorio de que no alcanza con que una empresa venda bien: los márgenes de ganancia dependen también de cuánto cuesta producir o dar el servicio.",
+      "title": "Delta Air Lines recortó su pronóstico de 2026 por el alza en el combustible, aunque la demanda sigue firme",
+      "summary": "Delta reportó resultados del tercer trimestre por debajo de las estimaciones de Wall Street por primera vez en dos años, y redujo su proyección anual por el encarecimiento del combustible.",
+      "detail": "El precio del combustible es uno de los principales costos de las aerolíneas, por lo que su suba comprime directamente los márgenes de ganancia. Sin embargo, que la demanda siga fuerte sugiere que el problema es de costos, no de ingresos, lo que cambia el diagnóstico para los inversores. Este caso ilustra cómo factores externos como el precio del petróleo pueden afectar a empresas aunque su negocio principal funcione bien.",
       "tags": [
         "aerolíneas",
-        "resultados",
-        "petróleo"
+        "combustible",
+        "resultados"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
@@ -91,15 +91,15 @@
       ]
     },
     {
-      "id": "starbucks-chipotle-adquisicion-2026",
+      "id": "starbucks-chipotle-takeover",
       "type": "empresa",
-      "title": "Starbucks estaría estudiando una propuesta para comprar Chipotle",
-      "summary": "Según reportes, Starbucks estuvo trabajando con asesores en una posible oferta de adquisición sobre Chipotle, una operación con potenciales ventajas y riesgos para los inversores de ambas compañías.",
-      "detail": "Las fusiones y adquisiciones (M&A) son movimientos estratégicos frecuentes en el mundo corporativo: una empresa compra a otra para ganar escala, diversificar o eliminar competencia. Para quienes aprenden finanzas, estos eventos suelen mover fuerte los precios de las acciones involucradas, ya que el comprador generalmente paga una prima sobre el precio de mercado de la empresa objetivo.",
+      "title": "Starbucks estaría trabajando en una propuesta de compra de Chipotle",
+      "summary": "Según reportes, Starbucks habría comenzado a trabajar con asesores en una potencial oferta de adquisición de Chipotle, aunque la operación tendría tanto ventajas como desventajas para ambas compañías.",
+      "detail": "Las fusiones y adquisiciones (M&A) son movimientos corporativos que suelen mover fuerte los precios de las acciones: la empresa comprada generalmente sube y la compradora puede bajar si el mercado duda del precio pagado. En este caso, dos marcas gigantes del consumo masivo estarían evaluando una unión que podría cambiar el mapa del sector de comidas rápidas y cafeterías. Para quien aprende finanzas, es un buen ejemplo de cómo los rumores de M&A impactan en las cotizaciones antes de que haya un anuncio formal.",
       "tags": [
         "fusiones",
         "empresas",
-        "acciones"
+        "consumo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
@@ -111,37 +111,56 @@
       ]
     },
     {
-      "id": "nasdaq100-racha-ganancias-2026",
-      "type": "mercado",
-      "title": "El Nasdaq-100 acumula tres años seguidos con ganancias de más del 20%, respaldado por resultados corporativos sólidos",
-      "summary": "El índice Nasdaq-100 encadena tres años consecutivos con rendimientos superiores al 20%, una racha que según analistas se apoya en ganancias corporativas mucho más sólidas que las de la burbuja de 1999.",
-      "detail": "Comparar el rally actual con 1999 es importante porque en aquella época las valuaciones altísimas no estaban respaldadas por ganancias reales, lo que llevó al estallido de la burbuja puntocom. Que hoy los analistas señalen que las ganancias son más genuinas ayuda a entender la diferencia entre una suba de precios sustentable y una especulativa, un concepto clave en educación financiera.",
+      "id": "tsmc-resultados-octubre",
+      "type": "reunion",
+      "title": "TSMC reportará resultados el 15 de octubre: qué mirar",
+      "summary": "El gigante taiwanés de semiconductores Taiwan Semiconductor (TSMC) publicará sus resultados el 15 de octubre, y los analistas estarán atentos a los números de computación de alto rendimiento como termómetro del mercado de inteligencia artificial.",
+      "detail": "TSMC fabrica los chips más avanzados del mundo para empresas como Nvidia y Apple, por lo que sus resultados son considerados un indicador clave del estado real de la industria tecnológica y de la demanda de IA. Si los números de su segmento de alta performance decepcionan, puede generar ventas en todo el sector tech. Para quien aprende finanzas, seguir los resultados de empresas clave como TSMC ayuda a entender las tendencias antes de que se reflejen en otros activos.",
       "tags": [
-        "Nasdaq",
-        "acciones",
-        "tecnología"
+        "semiconductores",
+        "IA",
+        "resultados"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/nasdaq-100-has-gained-20-or-more-3-years-running-streak-rests-far-stronger-earnings-1999s",
-      "published_at": "2026-10-10T18:18:01Z",
-      "fecha_evento": "2026-10-10",
+      "source_url": "https://www.nasdaq.com/articles/3-things-watch-when-taiwan-semiconductor-tsmc-reports-earnings-oct-15",
+      "published_at": "2026-10-11T10:25:00Z",
+      "fecha_evento": "2026-10-15",
       "tickers": [
-        "QQQ"
+        "TSM"
       ]
     },
     {
-      "id": "elon-musk-mas-rico-historia-2026",
-      "type": "economia",
-      "title": "Elon Musk es ahora más rico que cualquier estadounidense en la historia",
-      "summary": "Musk alcanzó un nivel de riqueza que supera al de sus tres contemporáneos más ricos juntos, y también al de magnates históricos como John D. Rockefeller.",
-      "detail": "La concentración de riqueza en pocas personas es un tema central en economía y finanzas: refleja tanto el poder de las empresas tecnológicas y de vehículos eléctricos como la desigualdad estructural que genera debates sobre impuestos y regulación. Para quienes aprenden finanzas, el caso de Musk también ilustra cómo la riqueza de los grandes accionistas está atada al valor de mercado de sus empresas, que puede fluctuar enormemente.",
+      "id": "solana-etf-record-inflows",
+      "type": "mercado",
+      "title": "Los ETFs de Solana marcaron un récord con u$s 188 millones de entradas en una semana",
+      "summary": "Los fondos cotizados (ETFs) sobre Solana registraron ingresos semanales récord de 188 millones de dólares, en una señal de creciente interés institucional en esta criptomoneda.",
+      "detail": "Los ETFs de criptomonedas permiten a inversores ganar exposición a activos digitales sin necesidad de comprarlos directamente, lo que facilita la entrada de capital institucional. Un récord de entradas semanales indica que más inversores están apostando por Solana, lo que puede influir en su precio. Para quien aprende finanzas, entender cómo los flujos hacia ETFs reflejan el apetito del mercado es clave para leer la tendencia en activos volátiles como las criptomonedas.",
+      "tags": [
+        "cripto",
+        "ETF",
+        "Solana"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/solana-etfs-just-set-new-record-188-million-weekly-inflows-heres-why-im-bullish-solana",
+      "published_at": "2026-10-11T09:24:00Z",
+      "fecha_evento": "2026-10-11",
+      "tickers": [
+        "SOL-USD"
+      ]
+    },
+    {
+      "id": "elon-musk-trillonario",
+      "type": "discurso",
+      "title": "Elon Musk es ahora el americano más rico de la historia, y por lejos",
+      "summary": "La fortuna de Elon Musk lo convierte en el primer trillonario de la historia de EE.UU., superando ampliamente a sus contemporáneos más ricos e incluso a magnates históricos como John D. Rockefeller.",
+      "detail": "La concentración de riqueza en una sola persona a esta escala es un fenómeno económico sin precedentes que genera debate sobre desigualdad, poder corporativo y regulación. Para quien aprende finanzas, es un ejemplo extremo de cómo la valuación de las empresas en bolsa puede multiplicar fortunas personales: gran parte de la riqueza de Musk está atada al valor de mercado de Tesla, SpaceX y otras compañías. También muestra cómo la riqueza en acciones puede crecer mucho más rápido que los salarios o la economía real.",
       "tags": [
         "riqueza",
-        "desigualdad",
-        "mercado"
+        "mercados",
+        "desigualdad"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401?mod=mw_rss_topstories",
+      "source_url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401",
       "published_at": "2026-10-10T16:50:00Z",
       "fecha_evento": "2026-10-10",
       "tickers": [
@@ -154,7 +173,7 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.535",
       "valor_num": 1535.0,
-      "delta_pct": -0.32
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
@@ -166,19 +185,19 @@
       "label": "MEP",
       "valor": "$1.543",
       "valor_num": 1542.9,
-      "delta_pct": 0.01
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
       "valor": "$1.607",
       "valor_num": 1606.6,
-      "delta_pct": -0.43
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 82.980",
-      "valor_num": 82980.0,
-      "delta_pct": 0.62
+      "valor": "US$ 83.089",
+      "valor_num": 83089.0,
+      "delta_pct": 0.35
     },
     {
       "label": "S&P 500",
@@ -190,7 +209,7 @@
       "label": "ORO (ONZA)",
       "valor": "US$ 4.216",
       "valor_num": 4216.3,
-      "delta_pct": 1.43
+      "delta_pct": 0.7
     }
   ]
 }
