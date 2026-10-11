@@ -1,50 +1,16 @@
 {
-  "generated_at": "2026-10-11T12:01:23.734933+00:00",
+  "generated_at": "2026-10-11T22:01:07.737120+00:00",
   "items": [
     {
-      "id": "bessent-shelton-treasury",
-      "type": "discurso",
-      "title": "El Tesoro de EE.UU. suma a Judy Shelton como asesora",
-      "summary": "Scott Bessent, secretario del Tesoro de Trump, contrató a Judy Shelton como consejera. Shelton es conocida por sus ideas económicas heterodoxas, que en su momento impidieron que el Senado la confirmara en la Fed.",
-      "detail": "Shelton es defensora del patrón oro y crítica de la independencia de los bancos centrales, posiciones poco convencionales en la economía moderna. Su incorporación al Tesoro puede anticipar cambios en la postura oficial de EE.UU. sobre política monetaria. Para alguien que aprende finanzas, este tipo de movimientos muestra cómo las ideas económicas detrás de quienes toman decisiones importan tanto como las decisiones mismas.",
-      "tags": [
-        "Tesoro",
-        "política monetaria",
-        "Fed"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-      "published_at": "2026-10-09T13:09:19Z",
-      "fecha_evento": "2026-10-09",
-      "tickers": []
-    },
-    {
-      "id": "inflacion-aranceles-ny-fed",
+      "id": "american-debt-delinquency-2026",
       "type": "economia",
-      "title": "La Fed de Nueva York: los aranceles explicaron toda la inflación en 67 categorías de productos",
-      "summary": "Un estudio de la Reserva Federal de Nueva York concluyó que los aranceles sumaron 2,9 puntos porcentuales de inflación en 67 categorías de bienes de consumo hasta febrero de 2026.",
-      "detail": "Este dato ilustra de forma directa cómo los aranceles (impuestos a las importaciones) se trasladan al precio final que pagan los consumidores. Es un ejemplo clave de cómo la política comercial afecta la inflación, algo que los bancos centrales deben considerar al fijar tasas de interés. Para quien aprende finanzas, entender que la inflación no siempre viene de exceso de demanda sino también de costos externos es fundamental.",
-      "tags": [
-        "inflación",
-        "aranceles",
-        "Fed"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-      "published_at": "2026-10-08T17:31:03Z",
-      "fecha_evento": "2026-10-08",
-      "tickers": []
-    },
-    {
-      "id": "deuda-consumidores-eeuu",
-      "type": "economia",
-      "title": "Las deudas de los estadounidenses mandan una señal de alerta que no se veía desde la Gran Recesión",
-      "summary": "Un estudio advierte que la capacidad de los estadounidenses para pagar sus deudas se deterioró significativamente, en niveles que no se veían desde la Gran Recesión.",
-      "detail": "La morosidad en el crédito al consumo es un indicador adelantado del estado real de la economía: cuando las familias no pueden pagar sus deudas, el consumo cae y los bancos sufren pérdidas. Este tipo de señal suele preceder a desaceleraciones económicas más amplias. Para quien aprende finanzas, es un ejemplo de cómo los datos de deuda privada permiten anticipar tendencias antes de que aparezcan en el PBI.",
+      "title": "La mora en deudas de los estadounidenses alcanza niveles no vistos desde la Gran Recesión",
+      "summary": "Un nuevo estudio reveló que la capacidad de los estadounidenses para pagar sus deudas se deterioró significativamente, alcanzando señales de alerta similares a las de la Gran Recesión, aunque las brechas de riqueza se achicaron un poco.",
+      "detail": "El nivel de morosidad en una economía es un indicador clave de la salud financiera de los consumidores. Cuando la gente no puede pagar sus deudas, el consumo cae, los bancos sufren pérdidas y la economía en general se frena. Que esto pase en EE.UU. importa globalmente porque afecta la confianza inversora y puede influir en las decisiones de la Reserva Federal sobre tasas de interés.",
       "tags": [
         "deuda",
-        "consumo",
-        "recesión"
+        "economía EE.UU.",
+        "morosidad"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
@@ -53,34 +19,32 @@
       "tickers": []
     },
     {
-      "id": "pepsico-baja-proyecciones",
-      "type": "empresa",
-      "title": "PepsiCo recortó sus proyecciones de ganancias porque la recuperación en Norteamérica tarda más de lo esperado",
-      "summary": "PepsiCo redujo su estimación de ganancias para el año porque su negocio en Norteamérica sigue rezagado respecto a sus mercados internacionales.",
-      "detail": "Cuando una empresa revisa a la baja sus proyecciones, suele impactar en el precio de su acción porque el mercado ajusta sus expectativas futuras. El caso de Pepsi muestra cómo una misma empresa puede tener desempeños muy distintos por región, y cómo los aranceles y el consumo local influyen en los resultados. Es un buen ejemplo para entender qué es un profit warning y por qué los inversores lo siguen de cerca.",
+      "id": "judy-shelton-treasury-advisor-2026",
+      "type": "discurso",
+      "title": "El Tesoro de EE.UU. sumó a Judy Shelton, la candidata vetada por el Senado para la Fed, como asesora",
+      "summary": "Scott Bessent, secretario del Tesoro, incorporó a Judy Shelton —cuya nominación al directorio de la Reserva Federal fue bloqueada por el Senado por sus ideas económicas polémicas— como consejera del organismo.",
+      "detail": "Judy Shelton es conocida por sus posiciones heterodoxas, como el apoyo al patrón oro y la crítica a la independencia de la Fed. Su incorporación al Tesoro puede anticipar tensiones entre el gobierno y el banco central, algo relevante para los mercados porque la independencia de la Fed es clave para la credibilidad de la política monetaria de EE.UU.",
       "tags": [
-        "resultados",
-        "consumo",
-        "empresas"
+        "Fed",
+        "Tesoro EE.UU.",
+        "política monetaria"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/08/pepsico-pep-q3-2026-earnings.html",
-      "published_at": "2026-10-08T14:43:05Z",
-      "fecha_evento": "2026-10-08",
-      "tickers": [
-        "PEP"
-      ]
+      "source_url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+      "published_at": "2026-10-09T13:09:19Z",
+      "fecha_evento": "2026-10-09",
+      "tickers": []
     },
     {
-      "id": "delta-recorta-forecast",
+      "id": "delta-earnings-q3-2026",
       "type": "empresa",
-      "title": "Delta Air Lines recortó su pronóstico de 2026 por el alza en el combustible, aunque la demanda sigue firme",
-      "summary": "Delta reportó resultados del tercer trimestre por debajo de las estimaciones de Wall Street por primera vez en dos años, y redujo su proyección anual por el encarecimiento del combustible.",
-      "detail": "El precio del combustible es uno de los principales costos de las aerolíneas, por lo que su suba comprime directamente los márgenes de ganancia. Sin embargo, que la demanda siga fuerte sugiere que el problema es de costos, no de ingresos, lo que cambia el diagnóstico para los inversores. Este caso ilustra cómo factores externos como el precio del petróleo pueden afectar a empresas aunque su negocio principal funcione bien.",
+      "title": "Delta Air Lines bajó sus previsiones para 2026 por el alza del combustible, aunque dice que la demanda sigue fuerte",
+      "summary": "Delta reportó resultados del tercer trimestre y no alcanzó las estimaciones de Wall Street por primera vez en dos años, recortando además su pronóstico para el resto del año debido al encarecimiento del combustible.",
+      "detail": "Los resultados de empresas grandes como Delta son una ventana a la salud de la economía real: si la gente viaja menos o las aerolíneas sufren por costos, eso refleja presiones inflacionarias y márgenes más ajustados. Además, cuando una compañía revisa a la baja sus proyecciones, suele impactar negativamente en su cotización en bolsa, algo útil para entender cómo funciona el vínculo entre resultados y precio de las acciones.",
       "tags": [
+        "resultados empresariales",
         "aerolíneas",
-        "combustible",
-        "resultados"
+        "combustible"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
@@ -91,81 +55,94 @@
       ]
     },
     {
-      "id": "starbucks-chipotle-takeover",
+      "id": "tesla-earnings-key-number-2026",
       "type": "empresa",
-      "title": "Starbucks estaría trabajando en una propuesta de compra de Chipotle",
-      "summary": "Según reportes, Starbucks habría comenzado a trabajar con asesores en una potencial oferta de adquisición de Chipotle, aunque la operación tendría tanto ventajas como desventajas para ambas compañías.",
-      "detail": "Las fusiones y adquisiciones (M&A) son movimientos corporativos que suelen mover fuerte los precios de las acciones: la empresa comprada generalmente sube y la compradora puede bajar si el mercado duda del precio pagado. En este caso, dos marcas gigantes del consumo masivo estarían evaluando una unión que podría cambiar el mapa del sector de comidas rápidas y cafeterías. Para quien aprende finanzas, es un buen ejemplo de cómo los rumores de M&A impactan en las cotizaciones antes de que haya un anuncio formal.",
+      "title": "Tesla por publicar resultados: el número clave que va a definir la reacción de los inversores",
+      "summary": "Más allá del récord de entregas reciente, los analistas van a mirar de cerca los márgenes de Tesla cuando publique sus resultados, ya que múltiples factores los están presionando tanto al alza como a la baja.",
+      "detail": "El margen de ganancia —cuánto le queda a Tesla de cada auto vendido después de los costos— es lo que realmente dice si el negocio es sostenible. Una empresa puede vender más y ganar menos si baja precios para competir. Entender esta diferencia entre volumen y rentabilidad es fundamental en finanzas.",
       "tags": [
-        "fusiones",
-        "empresas",
-        "consumo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-      "published_at": "2026-10-08T20:12:33Z",
-      "fecha_evento": "2026-10-08",
-      "tickers": [
-        "SBUX",
-        "CMG"
-      ]
-    },
-    {
-      "id": "tsmc-resultados-octubre",
-      "type": "reunion",
-      "title": "TSMC reportará resultados el 15 de octubre: qué mirar",
-      "summary": "El gigante taiwanés de semiconductores Taiwan Semiconductor (TSMC) publicará sus resultados el 15 de octubre, y los analistas estarán atentos a los números de computación de alto rendimiento como termómetro del mercado de inteligencia artificial.",
-      "detail": "TSMC fabrica los chips más avanzados del mundo para empresas como Nvidia y Apple, por lo que sus resultados son considerados un indicador clave del estado real de la industria tecnológica y de la demanda de IA. Si los números de su segmento de alta performance decepcionan, puede generar ventas en todo el sector tech. Para quien aprende finanzas, seguir los resultados de empresas clave como TSMC ayuda a entender las tendencias antes de que se reflejen en otros activos.",
-      "tags": [
-        "semiconductores",
-        "IA",
-        "resultados"
+        "Tesla",
+        "resultados",
+        "márgenes"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/3-things-watch-when-taiwan-semiconductor-tsmc-reports-earnings-oct-15",
-      "published_at": "2026-10-11T10:25:00Z",
-      "fecha_evento": "2026-10-15",
-      "tickers": [
-        "TSM"
-      ]
-    },
-    {
-      "id": "solana-etf-record-inflows",
-      "type": "mercado",
-      "title": "Los ETFs de Solana marcaron un récord con u$s 188 millones de entradas en una semana",
-      "summary": "Los fondos cotizados (ETFs) sobre Solana registraron ingresos semanales récord de 188 millones de dólares, en una señal de creciente interés institucional en esta criptomoneda.",
-      "detail": "Los ETFs de criptomonedas permiten a inversores ganar exposición a activos digitales sin necesidad de comprarlos directamente, lo que facilita la entrada de capital institucional. Un récord de entradas semanales indica que más inversores están apostando por Solana, lo que puede influir en su precio. Para quien aprende finanzas, entender cómo los flujos hacia ETFs reflejan el apetito del mercado es clave para leer la tendencia en activos volátiles como las criptomonedas.",
-      "tags": [
-        "cripto",
-        "ETF",
-        "Solana"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/solana-etfs-just-set-new-record-188-million-weekly-inflows-heres-why-im-bullish-solana",
-      "published_at": "2026-10-11T09:24:00Z",
+      "source_url": "https://www.nasdaq.com/articles/forget-recent-delivery-beat-heres-key-number-will-decide-investors-reaction-teslas",
+      "published_at": "2026-10-11T21:00:00Z",
       "fecha_evento": "2026-10-11",
-      "tickers": [
-        "SOL-USD"
-      ]
-    },
-    {
-      "id": "elon-musk-trillonario",
-      "type": "discurso",
-      "title": "Elon Musk es ahora el americano más rico de la historia, y por lejos",
-      "summary": "La fortuna de Elon Musk lo convierte en el primer trillonario de la historia de EE.UU., superando ampliamente a sus contemporáneos más ricos e incluso a magnates históricos como John D. Rockefeller.",
-      "detail": "La concentración de riqueza en una sola persona a esta escala es un fenómeno económico sin precedentes que genera debate sobre desigualdad, poder corporativo y regulación. Para quien aprende finanzas, es un ejemplo extremo de cómo la valuación de las empresas en bolsa puede multiplicar fortunas personales: gran parte de la riqueza de Musk está atada al valor de mercado de Tesla, SpaceX y otras compañías. También muestra cómo la riqueza en acciones puede crecer mucho más rápido que los salarios o la economía real.",
-      "tags": [
-        "riqueza",
-        "mercados",
-        "desigualdad"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/elon-musk-is-now-richer-than-any-american-ever-and-its-not-even-close-58f31401",
-      "published_at": "2026-10-10T16:50:00Z",
-      "fecha_evento": "2026-10-10",
       "tickers": [
         "TSLA"
       ]
+    },
+    {
+      "id": "amazon-alphabet-420b-datacenters-2026",
+      "type": "empresa",
+      "title": "Amazon y Alphabet comprometieron u$s 420.000 millones en data centers: ¿cuál de las dos es mejor inversión?",
+      "summary": "Las dos gigantes tecnológicas anunciaron inversiones masivas en infraestructura de centros de datos, impulsadas por la demanda de servicios de inteligencia artificial y computación en la nube.",
+      "detail": "Las inversiones en data centers son una señal de cuánto las grandes tecnológicas apuestan al crecimiento de la IA y el negocio cloud. Para un inversor, comparar cómo cada empresa asigna ese capital y qué retornos genera ayuda a entender conceptos como retorno sobre la inversión y ventajas competitivas a largo plazo.",
+      "tags": [
+        "tecnología",
+        "inteligencia artificial",
+        "cloud"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/amazon-and-alphabet-just-committed-420-billion-data-centers-1-stock-better-buy",
+      "published_at": "2026-10-11T18:18:00Z",
+      "fecha_evento": "2026-10-11",
+      "tickers": [
+        "AMZN",
+        "GOOGL"
+      ]
+    },
+    {
+      "id": "bank-earnings-yields-2026",
+      "type": "empresa",
+      "title": "Los grandes bancos arrancan la temporada de resultados: primera señal sobre cómo afectan las tasas altas a la economía",
+      "summary": "Los principales bancos de EE.UU. comienzan a reportar sus ganancias del tercer trimestre este martes, dando el primer gran indicio de cómo está aguantando la economía en un contexto de tasas de interés elevadas.",
+      "detail": "Los bancos son el termómetro de la economía: sus resultados muestran si las empresas y familias siguen pidiendo crédito, si aumenta la morosidad y cómo impactan las tasas altas en sus márgenes. Cuando las tasas suben, los bancos pueden ganar más por préstamos, pero también enfrentan más defaults; entender este equilibrio es clave en finanzas.",
+      "tags": [
+        "bancos",
+        "tasas de interés",
+        "resultados"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef",
+      "published_at": "2026-10-11T12:00:00Z",
+      "fecha_evento": "2026-10-11",
+      "tickers": []
+    },
+    {
+      "id": "earnings-season-stock-market-2026",
+      "type": "mercado",
+      "title": "Comienza la temporada de resultados: ¿pueden las ganancias corporativas seguir sosteniendo al mercado bursátil?",
+      "summary": "Las expectativas sobre los resultados del tercer trimestre están siendo el principal soporte del mercado de acciones, aunque un experto advierte que los inversores se volvieron \"extremadamente complacientes\" frente a los riesgos de tasas altas y precios del petróleo.",
+      "detail": "La temporada de resultados es uno de los momentos más importantes del calendario financiero: las empresas muestran cuánto ganaron y el mercado reacciona según si superaron o decepcionaron las expectativas. Cuando los inversores ignoran señales de riesgo —como tasas altas o petróleo caro— por optimismo, eso puede volverse un problema si los datos vienen peor de lo esperado.",
+      "tags": [
+        "mercado",
+        "resultados empresariales",
+        "riesgo"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b",
+      "published_at": "2026-10-11T14:00:00Z",
+      "fecha_evento": "2026-10-11",
+      "tickers": []
+    },
+    {
+      "id": "bull-market-4-years-yields-2026",
+      "type": "mercado",
+      "title": "El mercado alcista cumple 4 años, pero las tasas altas amenazan con cortar la racha",
+      "summary": "El mercado bursátil estadounidense lleva cuatro años en tendencia alcista liderada por el sector tecnológico, aunque la suba de los rendimientos de los bonos del Tesoro podría complicar ese escenario.",
+      "detail": "Cuando los rendimientos de los bonos del gobierno suben, se vuelven una alternativa más atractiva frente a las acciones, lo que puede provocar que los inversores vendan acciones para pasarse a renta fija. Este mecanismo es fundamental para entender por qué las tasas de interés y los mercados de acciones suelen moverse en direcciones opuestas.",
+      "tags": [
+        "mercado alcista",
+        "bonos",
+        "tasas"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c",
+      "published_at": "2026-10-11T13:00:00Z",
+      "fecha_evento": "2026-10-11",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -195,9 +172,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.089",
-      "valor_num": 83089.0,
-      "delta_pct": 0.35
+      "valor": "US$ 83.443",
+      "valor_num": 83443.0,
+      "delta_pct": 0.56
     },
     {
       "label": "S&P 500",
