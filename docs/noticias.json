@@ -1,16 +1,33 @@
 {
-  "generated_at": "2026-10-12T12:01:13.480178+00:00",
+  "generated_at": "2026-10-12T22:01:17.264246+00:00",
   "items": [
     {
-      "id": "india-inflation-sept-2026",
+      "id": "nobel-economia-2026",
+      "type": "discurso",
+      "title": "El Nobel de Economía fue para Hall y Woodford por sus modelos de bancos centrales",
+      "summary": "Los economistas estadounidenses Robert E. Hall y Michael Woodford ganaron el Premio Nobel de Economía por desarrollar los modelos que usan los bancos centrales y gobiernos para estabilizar la economía.",
+      "detail": "Los modelos de Hall y Woodford son la base teórica detrás de cómo los bancos centrales (como la Fed o el Banco Central Europeo) deciden las tasas de interés. Entender esto es clave en finanzas: las tasas de interés afectan el precio de los bonos, las acciones y el tipo de cambio. Que el Nobel reconozca este trabajo muestra cuánto peso tienen estas herramientas en la política económica global.",
+      "tags": [
+        "Nobel",
+        "bancos centrales",
+        "tasas de interés"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+      "published_at": "2026-10-12T14:09:02Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": []
+    },
+    {
+      "id": "india-inflacion-septiembre",
       "type": "economia",
-      "title": "La inflación de India trepó a 5,54% en septiembre, por encima de lo esperado",
-      "summary": "La inflación minorista de India subió a 5,54% en septiembre, marcando el undécimo mes consecutivo al alza y superando las estimaciones del mercado. Esto abre la puerta a una nueva suba de tasas de interés.",
-      "detail": "Cuando la inflación supera las expectativas de forma sostenida, los bancos centrales suelen responder subiendo las tasas de interés para enfriar la economía. Una suba de tasas en India puede afectar los flujos de capital hacia mercados emergentes, incluyendo Argentina, ya que los inversores globales reasignan sus carteras. Seguir la inflación de economías grandes como India ayuda a entender cómo se mueven las tasas a nivel mundial.",
+      "title": "La inflación de India trepó a 5,54% en septiembre y alimenta expectativas de suba de tasas",
+      "summary": "La inflación minorista de India llegó a 5,54% en septiembre, por encima de lo esperado, acumulando once meses consecutivos al alza y aumentando las chances de que el banco central suba las tasas de interés.",
+      "detail": "Cuando la inflación supera las estimaciones de forma sostenida, los bancos centrales suelen responder subiendo las tasas de interés para enfriar el consumo y los precios. Una suba de tasas en India puede atraer capital extranjero hacia esa economía y afectar el flujo de inversiones en mercados emergentes, categoría en la que también entra Argentina. Es un ejemplo claro del ciclo inflación-tasas que se repite en distintas economías.",
       "tags": [
         "inflación",
-        "tasas de interés",
-        "mercados emergentes"
+        "India",
+        "tasas de interés"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
@@ -19,32 +36,15 @@
       "tickers": []
     },
     {
-      "id": "nobel-economia-2026",
+      "id": "fmi-ia-empleos",
       "type": "discurso",
-      "title": "El Premio Nobel de Economía fue para Hall y Woodford por sus modelos de política monetaria",
-      "summary": "Los economistas estadounidenses Robert E. Hall y Michael Woodford ganaron el Nobel de Economía por desarrollar los modelos que usan los bancos centrales y gobiernos para estabilizar la economía.",
-      "detail": "Los modelos de Woodford y Hall son la base teórica detrás de cómo la Fed, el BCE y otros bancos centrales deciden subir o bajar tasas. Entender quién construyó esas herramientas ayuda a comprender por qué los bancos centrales actúan como actúan. Para alguien que aprende finanzas, este Nobel es una buena entrada para explorar conceptos como reglas de política monetaria y expectativas de inflación.",
+      "title": "El FMI advirtió que la IA golpea el mercado laboral global como un 'tsunami'",
+      "summary": "La directora del FMI, Kristalina Georgieva, alertó que la inteligencia artificial está impactando el empleo global de forma lenta pero masiva, con los trabajadores jóvenes como los más expuestos, mientras el Banco Mundial pide medidas de emergencia para el empleo.",
+      "detail": "Cuando organismos como el FMI y el Banco Mundial alertan sobre riesgos estructurales en el mercado laboral, esto puede influir en decisiones de política económica de muchos países, incluidos los emergentes. El desempleo tecnológico afecta el consumo y el crecimiento, dos variables que los inversores monitorean de cerca. Para alguien que aprende finanzas, entender cómo la IA redefine el trabajo ayuda a identificar qué sectores e industrias pueden ganar o perder en los próximos años.",
       "tags": [
-        "Nobel",
-        "política monetaria",
-        "bancos centrales"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
-      "published_at": "2026-10-12T11:30:46Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": []
-    },
-    {
-      "id": "imf-ai-jobs-2026",
-      "type": "economia",
-      "title": "El FMI advierte que la IA golpea al mercado laboral como un 'tsunami de movimiento lento'",
-      "summary": "La directora del FMI, Kristalina Georgieva, advirtió que la inteligencia artificial está transformando el mercado laboral global de forma gradual pero profunda, con los trabajadores jóvenes como los más expuestos. El Banco Mundial pidió medidas de apoyo al empleo similares a las de tiempos de crisis.",
-      "detail": "Cuando organismos como el FMI y el Banco Mundial lanzan advertencias conjuntas, suelen anticipar cambios en las políticas económicas globales. La automatización impulsada por IA puede presionar los salarios a la baja y aumentar el desempleo en ciertos sectores, lo que afecta el consumo y el crecimiento. Para Argentina, que sigue de cerca las recomendaciones del FMI, estas señales pueden influir en futuras negociaciones y políticas públicas.",
-      "tags": [
-        "FMI",
         "inteligencia artificial",
-        "empleo"
+        "empleo",
+        "FMI"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
@@ -53,73 +53,118 @@
       "tickers": []
     },
     {
-      "id": "fed-inflacion-datos-octubre-2026",
-      "type": "reunion",
-      "title": "La Fed quiere pausar las subas de tasas, pero todo depende del dato de inflación de esta semana",
-      "summary": "Funcionarios de la Reserva Federal preferirían no subir tasas en la reunión de fin de octubre, pero el dato de inflación de septiembre —que se publica el miércoles— podría forzar su mano si los precios siguen subiendo.",
-      "detail": "La Fed toma decisiones de tasas basándose en gran parte en los datos de inflación. Si el IPC de septiembre sale más alto de lo esperado, aumenta la probabilidad de una suba en la reunión de octubre, lo que encarece el crédito en todo el mundo. Para Argentina, una Fed más agresiva significa un dólar más fuerte y mayor presión sobre las reservas y el tipo de cambio.",
-      "tags": [
-        "Fed",
-        "tasas de interés",
-        "inflación"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
-      "published_at": "2026-10-12T11:00:00Z",
-      "fecha_evento": "2026-10-14",
-      "tickers": []
-    },
-    {
-      "id": "bonos-fed-morgan-stanley-2026",
-      "type": "mercado",
-      "title": "El mercado de bonos ya está haciendo el trabajo sucio de la Fed, según Morgan Stanley",
-      "summary": "Un estratega de Morgan Stanley señala que la suba de rendimientos de los bonos, el dólar más fuerte y los precios altos de la energía ya están enfriando la economía estadounidense, reduciendo la necesidad de que la Fed suba las tasas.",
-      "detail": "Cuando los rendimientos de los bonos suben, el crédito se encarece aunque la Fed no toque las tasas: es el mercado haciendo el ajuste solo. Este mecanismo es clave para entender cómo la política monetaria se transmite a la economía real. Para los inversores, si la Fed decide pausar las subas, eso suele ser una buena noticia para las acciones.",
-      "tags": [
-        "bonos",
-        "Fed",
-        "mercado"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
-      "published_at": "2026-10-12T09:23:00Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": []
-    },
-    {
-      "id": "goldman-bullish-acciones-2026",
-      "type": "mercado",
-      "title": "Goldman Sachs se pone alcista con las acciones para lo que queda del año",
-      "summary": "Goldman Sachs cambió su postura y ahora apuesta más fuerte por las acciones para el resto de 2026, argumentando que las valuaciones son más baratas y que las ganancias corporativas siguen siendo el motor.",
-      "detail": "Cuando un banco de inversión del peso de Goldman Sachs cambia su visión del mercado, eso mueve flujos de capital de inversores institucionales en todo el mundo. Entender por qué se vuelven optimistas —valuaciones más bajas y buenos resultados corporativos— es una lección práctica de cómo se analiza el mercado de acciones. Para alguien que aprende finanzas, ver cómo los grandes bancos justifican sus posiciones ayuda a pensar con criterio propio.",
-      "tags": [
-        "acciones",
-        "Goldman Sachs",
-        "mercado"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
-      "published_at": "2026-10-12T09:14:00Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": []
-    },
-    {
-      "id": "delta-resultados-q3-2026",
+      "id": "microsoft-4-billones",
       "type": "empresa",
-      "title": "Delta Air Lines recortó su pronóstico para 2026 por el salto en el precio del combustible",
-      "summary": "Delta Air Lines presentó sus resultados del tercer trimestre y quedó por debajo de las estimaciones de Wall Street por primera vez en dos años. La aerolínea bajó su proyección anual por la suba del combustible, aunque su CEO destacó que la demanda de pasajeros sigue siendo sólida.",
-      "detail": "El precio del combustible es uno de los costos más importantes para las aerolíneas, y cuando sube, comprime los márgenes aunque los aviones viajen llenos. Que Delta haya fallado las estimaciones por primera vez en dos años es una señal de que la presión de costos puede superar incluso a una demanda fuerte. Este tipo de resultado muestra cómo factores externos —como el precio del petróleo— pueden afectar la rentabilidad de grandes empresas.",
+      "title": "Microsoft volvió a valer 4 billones de dólares y apunta a nuevos récords",
+      "summary": "Microsoft recuperó una capitalización de mercado de 4 billones de dólares este lunes, consolidando su regreso a los primeros puestos del mercado bursátil global.",
+      "detail": "La capitalización de mercado es el valor total de una empresa en bolsa: se calcula multiplicando el precio de cada acción por la cantidad de acciones. Que Microsoft vuelva a los 4 billones refleja la confianza de los inversores en su apuesta por la inteligencia artificial y la nube. Para alguien que aprende finanzas, es un ejemplo de cómo una empresa puede recuperar terreno después de períodos difíciles si el mercado cree en su estrategia de largo plazo.",
       "tags": [
-        "aerolíneas",
-        "resultados",
-        "petróleo"
+        "Microsoft",
+        "capitalización",
+        "tecnología"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-      "published_at": "2026-10-09T15:07:46Z",
-      "fecha_evento": "2026-10-09",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+      "published_at": "2026-10-12T20:40:00Z",
+      "fecha_evento": "2026-10-12",
       "tickers": [
-        "DAL"
+        "MSFT"
+      ]
+    },
+    {
+      "id": "meta-modelos-wonder",
+      "type": "empresa",
+      "title": "Meta lanzó sus nuevos modelos de IA Wonder y sus acciones subieron más de 3%",
+      "summary": "Meta presentó sus modelos de inteligencia artificial Muse Wonder y Muse Wonder Full, lo que impulsó sus acciones más de un 3% en la jornada del lunes.",
+      "detail": "El lanzamiento de nuevos productos de IA por parte de Meta muestra cómo las grandes tecnológicas compiten por liderar este mercado. La reacción inmediata del precio de la acción ilustra un concepto clave en finanzas: el mercado premia las novedades que los analistas consideran generadoras de nuevos negocios. Para inversores, seguir estos lanzamientos ayuda a entender qué impulsa el valor de las empresas tecnológicas más allá de sus resultados trimestrales.",
+      "tags": [
+        "Meta",
+        "inteligencia artificial",
+        "acciones"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
+      "published_at": "2026-10-12T19:43:00Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": [
+        "META"
+      ]
+    },
+    {
+      "id": "nvidia-amd-bajan",
+      "type": "mercado",
+      "title": "Nvidia y AMD cayeron en bolsa: los anuncios de IA no convencieron a los inversores",
+      "summary": "Las acciones de Nvidia y AMD bajaron este lunes a pesar de que ambas empresas presentaron nuevos diseños de hardware y software para centros de datos de inteligencia artificial, porque los analistas señalaron que los ingresos potenciales todavía están lejos.",
+      "detail": "Este movimiento ilustra un principio importante: en el mercado bursátil no alcanza con tener buenas noticias, sino que esas noticias tienen que superar las expectativas ya descontadas en el precio. Si los inversores ya esperaban grandes anuncios y los anuncios no sorprendieron, el precio puede caer igual. Es lo que se conoce como 'comprar el rumor, vender el hecho'.",
+      "tags": [
+        "Nvidia",
+        "AMD",
+        "inteligencia artificial"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+      "published_at": "2026-10-12T21:19:00Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": [
+        "NVDA",
+        "AMD"
+      ]
+    },
+    {
+      "id": "trump-ceasefire-energia",
+      "type": "economia",
+      "title": "Trump declaró un 'cese al fuego energético' entre Rusia y Ucrania, pero el mercado petrolero sigue en problemas",
+      "summary": "El presidente Donald Trump anunció un 'cese al fuego energético' entre Rusia y Ucrania, pero los mercados petroleros tuvieron dificultades para evaluar su impacto real en medio de una crisis de suministro global agravada por el conflicto en el Medio Oriente.",
+      "detail": "El precio del petróleo es una variable global clave: afecta la inflación, los costos de producción y las reservas de divisas de los países importadores y exportadores. Para Argentina, que importa energía, las variaciones en el precio del crudo impactan directamente en la balanza comercial y en el precio interno de los combustibles. Un conflicto geopolítico no resuelto y una oferta ajustada suelen mantener los precios altos, con efectos en cadena para toda la economía mundial.",
+      "tags": [
+        "petróleo",
+        "geopolítica",
+        "energía"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
+      "published_at": "2026-10-12T18:36:00Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": []
+    },
+    {
+      "id": "mercados-12-octubre",
+      "type": "mercado",
+      "title": "El Dow Jones subió pero el Nasdaq cayó por debilidad en el sector tecnológico",
+      "summary": "El Dow Jones ganó 0,38% y cerró en 51.851 puntos, mientras que el S&P 500 bajó levemente a 7.807 y el Nasdaq retrocedió 0,44% hasta 27.246, arrastrado por las acciones de tecnología y memorias.",
+      "detail": "Que el Dow suba mientras el Nasdaq cae muestra una rotación: los inversores se movieron de acciones tecnológicas de alto crecimiento hacia sectores más tradicionales o de valor. Esta dinámica es común cuando hay incertidumbre sobre el futuro de la tecnología o cuando sus valuaciones parecen altas. Entender que los índices no siempre se mueven en la misma dirección es fundamental para leer correctamente el estado del mercado.",
+      "tags": [
+        "Dow Jones",
+        "Nasdaq",
+        "mercado bursátil"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-12-dow-gains-memory-stocks-weigh-nasdaq",
+      "published_at": "2026-10-12T21:23:11Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": [
+        "^DJI",
+        "^GSPC",
+        "^IXIC"
+      ]
+    },
+    {
+      "id": "anthropic-iren-deal",
+      "type": "empresa",
+      "title": "Anthropic firmó un acuerdo de servicios cloud con Iren, que opera centros de datos para IA",
+      "summary": "Según reportes del lunes, Anthropic firmó un acuerdo plurianual de servicios en la nube con Iren Limited, una empresa que opera infraestructura de centros de datos para inteligencia artificial.",
+      "detail": "Los acuerdos entre empresas de IA como Anthropic y proveedores de infraestructura como Iren muestran cómo crece la demanda de capacidad de cómputo para sostener el desarrollo de inteligencia artificial. Para alguien que aprende finanzas, esto ilustra que el boom de la IA no solo beneficia a quienes crean los modelos, sino también a toda la cadena de infraestructura detrás. Este tipo de contratos de largo plazo suelen ser señales positivas para los inversores porque dan visibilidad sobre ingresos futuros.",
+      "tags": [
+        "Anthropic",
+        "infraestructura IA",
+        "nube"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-12-iren-surges-reports-anthropic-cloud-services-deal",
+      "published_at": "2026-10-12T21:21:15Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": [
+        "IREN"
       ]
     }
   ],
@@ -150,21 +195,21 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.330",
-      "valor_num": 83330.0,
-      "delta_pct": 0.27
+      "valor": "US$ 82.513",
+      "valor_num": 82513.0,
+      "delta_pct": -1.1
     },
     {
       "label": "S&P 500",
-      "valor": "7.812",
-      "valor_num": 7811.54,
-      "delta_pct": 1.15
+      "valor": "7.807",
+      "valor_num": 7807.24,
+      "delta_pct": 0.43
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.195",
-      "valor_num": 4195.2,
-      "delta_pct": 1.32
+      "valor": "US$ 4.196",
+      "valor_num": 4195.9,
+      "delta_pct": 1.33
     }
   ]
 }
