@@ -1,50 +1,118 @@
 {
-  "generated_at": "2026-10-11T22:01:07.737120+00:00",
+  "generated_at": "2026-10-12T12:01:13.480178+00:00",
   "items": [
     {
-      "id": "american-debt-delinquency-2026",
+      "id": "india-inflation-sept-2026",
       "type": "economia",
-      "title": "La mora en deudas de los estadounidenses alcanza niveles no vistos desde la Gran Recesión",
-      "summary": "Un nuevo estudio reveló que la capacidad de los estadounidenses para pagar sus deudas se deterioró significativamente, alcanzando señales de alerta similares a las de la Gran Recesión, aunque las brechas de riqueza se achicaron un poco.",
-      "detail": "El nivel de morosidad en una economía es un indicador clave de la salud financiera de los consumidores. Cuando la gente no puede pagar sus deudas, el consumo cae, los bancos sufren pérdidas y la economía en general se frena. Que esto pase en EE.UU. importa globalmente porque afecta la confianza inversora y puede influir en las decisiones de la Reserva Federal sobre tasas de interés.",
+      "title": "La inflación de India trepó a 5,54% en septiembre, por encima de lo esperado",
+      "summary": "La inflación minorista de India subió a 5,54% en septiembre, marcando el undécimo mes consecutivo al alza y superando las estimaciones del mercado. Esto abre la puerta a una nueva suba de tasas de interés.",
+      "detail": "Cuando la inflación supera las expectativas de forma sostenida, los bancos centrales suelen responder subiendo las tasas de interés para enfriar la economía. Una suba de tasas en India puede afectar los flujos de capital hacia mercados emergentes, incluyendo Argentina, ya que los inversores globales reasignan sus carteras. Seguir la inflación de economías grandes como India ayuda a entender cómo se mueven las tasas a nivel mundial.",
       "tags": [
-        "deuda",
-        "economía EE.UU.",
-        "morosidad"
+        "inflación",
+        "tasas de interés",
+        "mercados emergentes"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
-      "published_at": "2026-10-09T19:18:24Z",
-      "fecha_evento": "2026-10-09",
+      "source_url": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
+      "published_at": "2026-10-12T10:49:24Z",
+      "fecha_evento": "2026-10-12",
       "tickers": []
     },
     {
-      "id": "judy-shelton-treasury-advisor-2026",
+      "id": "nobel-economia-2026",
       "type": "discurso",
-      "title": "El Tesoro de EE.UU. sumó a Judy Shelton, la candidata vetada por el Senado para la Fed, como asesora",
-      "summary": "Scott Bessent, secretario del Tesoro, incorporó a Judy Shelton —cuya nominación al directorio de la Reserva Federal fue bloqueada por el Senado por sus ideas económicas polémicas— como consejera del organismo.",
-      "detail": "Judy Shelton es conocida por sus posiciones heterodoxas, como el apoyo al patrón oro y la crítica a la independencia de la Fed. Su incorporación al Tesoro puede anticipar tensiones entre el gobierno y el banco central, algo relevante para los mercados porque la independencia de la Fed es clave para la credibilidad de la política monetaria de EE.UU.",
+      "title": "El Premio Nobel de Economía fue para Hall y Woodford por sus modelos de política monetaria",
+      "summary": "Los economistas estadounidenses Robert E. Hall y Michael Woodford ganaron el Nobel de Economía por desarrollar los modelos que usan los bancos centrales y gobiernos para estabilizar la economía.",
+      "detail": "Los modelos de Woodford y Hall son la base teórica detrás de cómo la Fed, el BCE y otros bancos centrales deciden subir o bajar tasas. Entender quién construyó esas herramientas ayuda a comprender por qué los bancos centrales actúan como actúan. Para alguien que aprende finanzas, este Nobel es una buena entrada para explorar conceptos como reglas de política monetaria y expectativas de inflación.",
+      "tags": [
+        "Nobel",
+        "política monetaria",
+        "bancos centrales"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+      "published_at": "2026-10-12T11:30:46Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": []
+    },
+    {
+      "id": "imf-ai-jobs-2026",
+      "type": "economia",
+      "title": "El FMI advierte que la IA golpea al mercado laboral como un 'tsunami de movimiento lento'",
+      "summary": "La directora del FMI, Kristalina Georgieva, advirtió que la inteligencia artificial está transformando el mercado laboral global de forma gradual pero profunda, con los trabajadores jóvenes como los más expuestos. El Banco Mundial pidió medidas de apoyo al empleo similares a las de tiempos de crisis.",
+      "detail": "Cuando organismos como el FMI y el Banco Mundial lanzan advertencias conjuntas, suelen anticipar cambios en las políticas económicas globales. La automatización impulsada por IA puede presionar los salarios a la baja y aumentar el desempleo en ciertos sectores, lo que afecta el consumo y el crecimiento. Para Argentina, que sigue de cerca las recomendaciones del FMI, estas señales pueden influir en futuras negociaciones y políticas públicas.",
+      "tags": [
+        "FMI",
+        "inteligencia artificial",
+        "empleo"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "published_at": "2026-10-12T08:58:54Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": []
+    },
+    {
+      "id": "fed-inflacion-datos-octubre-2026",
+      "type": "reunion",
+      "title": "La Fed quiere pausar las subas de tasas, pero todo depende del dato de inflación de esta semana",
+      "summary": "Funcionarios de la Reserva Federal preferirían no subir tasas en la reunión de fin de octubre, pero el dato de inflación de septiembre —que se publica el miércoles— podría forzar su mano si los precios siguen subiendo.",
+      "detail": "La Fed toma decisiones de tasas basándose en gran parte en los datos de inflación. Si el IPC de septiembre sale más alto de lo esperado, aumenta la probabilidad de una suba en la reunión de octubre, lo que encarece el crédito en todo el mundo. Para Argentina, una Fed más agresiva significa un dólar más fuerte y mayor presión sobre las reservas y el tipo de cambio.",
       "tags": [
         "Fed",
-        "Tesoro EE.UU.",
-        "política monetaria"
+        "tasas de interés",
+        "inflación"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-      "published_at": "2026-10-09T13:09:19Z",
-      "fecha_evento": "2026-10-09",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/fed-officials-want-to-hold-off-a-rate-hike-this-month-will-this-weeks-inflation-data-let-them-a82754d1?mod=mw_rss_topstories",
+      "published_at": "2026-10-12T11:00:00Z",
+      "fecha_evento": "2026-10-14",
       "tickers": []
     },
     {
-      "id": "delta-earnings-q3-2026",
-      "type": "empresa",
-      "title": "Delta Air Lines bajó sus previsiones para 2026 por el alza del combustible, aunque dice que la demanda sigue fuerte",
-      "summary": "Delta reportó resultados del tercer trimestre y no alcanzó las estimaciones de Wall Street por primera vez en dos años, recortando además su pronóstico para el resto del año debido al encarecimiento del combustible.",
-      "detail": "Los resultados de empresas grandes como Delta son una ventana a la salud de la economía real: si la gente viaja menos o las aerolíneas sufren por costos, eso refleja presiones inflacionarias y márgenes más ajustados. Además, cuando una compañía revisa a la baja sus proyecciones, suele impactar negativamente en su cotización en bolsa, algo útil para entender cómo funciona el vínculo entre resultados y precio de las acciones.",
+      "id": "bonos-fed-morgan-stanley-2026",
+      "type": "mercado",
+      "title": "El mercado de bonos ya está haciendo el trabajo sucio de la Fed, según Morgan Stanley",
+      "summary": "Un estratega de Morgan Stanley señala que la suba de rendimientos de los bonos, el dólar más fuerte y los precios altos de la energía ya están enfriando la economía estadounidense, reduciendo la necesidad de que la Fed suba las tasas.",
+      "detail": "Cuando los rendimientos de los bonos suben, el crédito se encarece aunque la Fed no toque las tasas: es el mercado haciendo el ajuste solo. Este mecanismo es clave para entender cómo la política monetaria se transmite a la economía real. Para los inversores, si la Fed decide pausar las subas, eso suele ser una buena noticia para las acciones.",
       "tags": [
-        "resultados empresariales",
+        "bonos",
+        "Fed",
+        "mercado"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-bond-market-is-doing-the-feds-job-and-that-could-be-good-news-for-stocks-says-morgan-stanley-strategist-ec57b81a?mod=mw_rss_topstories",
+      "published_at": "2026-10-12T09:23:00Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": []
+    },
+    {
+      "id": "goldman-bullish-acciones-2026",
+      "type": "mercado",
+      "title": "Goldman Sachs se pone alcista con las acciones para lo que queda del año",
+      "summary": "Goldman Sachs cambió su postura y ahora apuesta más fuerte por las acciones para el resto de 2026, argumentando que las valuaciones son más baratas y que las ganancias corporativas siguen siendo el motor.",
+      "detail": "Cuando un banco de inversión del peso de Goldman Sachs cambia su visión del mercado, eso mueve flujos de capital de inversores institucionales en todo el mundo. Entender por qué se vuelven optimistas —valuaciones más bajas y buenos resultados corporativos— es una lección práctica de cómo se analiza el mercado de acciones. Para alguien que aprende finanzas, ver cómo los grandes bancos justifican sus posiciones ayuda a pensar con criterio propio.",
+      "tags": [
+        "acciones",
+        "Goldman Sachs",
+        "mercado"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/heres-why-goldman-sachs-just-flipped-bullish-on-stocks-for-the-rest-of-the-year-dfa3b0af?mod=mw_rss_topstories",
+      "published_at": "2026-10-12T09:14:00Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": []
+    },
+    {
+      "id": "delta-resultados-q3-2026",
+      "type": "empresa",
+      "title": "Delta Air Lines recortó su pronóstico para 2026 por el salto en el precio del combustible",
+      "summary": "Delta Air Lines presentó sus resultados del tercer trimestre y quedó por debajo de las estimaciones de Wall Street por primera vez en dos años. La aerolínea bajó su proyección anual por la suba del combustible, aunque su CEO destacó que la demanda de pasajeros sigue siendo sólida.",
+      "detail": "El precio del combustible es uno de los costos más importantes para las aerolíneas, y cuando sube, comprime los márgenes aunque los aviones viajen llenos. Que Delta haya fallado las estimaciones por primera vez en dos años es una señal de que la presión de costos puede superar incluso a una demanda fuerte. Este tipo de resultado muestra cómo factores externos —como el precio del petróleo— pueden afectar la rentabilidad de grandes empresas.",
+      "tags": [
         "aerolíneas",
-        "combustible"
+        "resultados",
+        "petróleo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
@@ -53,96 +121,6 @@
       "tickers": [
         "DAL"
       ]
-    },
-    {
-      "id": "tesla-earnings-key-number-2026",
-      "type": "empresa",
-      "title": "Tesla por publicar resultados: el número clave que va a definir la reacción de los inversores",
-      "summary": "Más allá del récord de entregas reciente, los analistas van a mirar de cerca los márgenes de Tesla cuando publique sus resultados, ya que múltiples factores los están presionando tanto al alza como a la baja.",
-      "detail": "El margen de ganancia —cuánto le queda a Tesla de cada auto vendido después de los costos— es lo que realmente dice si el negocio es sostenible. Una empresa puede vender más y ganar menos si baja precios para competir. Entender esta diferencia entre volumen y rentabilidad es fundamental en finanzas.",
-      "tags": [
-        "Tesla",
-        "resultados",
-        "márgenes"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/forget-recent-delivery-beat-heres-key-number-will-decide-investors-reaction-teslas",
-      "published_at": "2026-10-11T21:00:00Z",
-      "fecha_evento": "2026-10-11",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "amazon-alphabet-420b-datacenters-2026",
-      "type": "empresa",
-      "title": "Amazon y Alphabet comprometieron u$s 420.000 millones en data centers: ¿cuál de las dos es mejor inversión?",
-      "summary": "Las dos gigantes tecnológicas anunciaron inversiones masivas en infraestructura de centros de datos, impulsadas por la demanda de servicios de inteligencia artificial y computación en la nube.",
-      "detail": "Las inversiones en data centers son una señal de cuánto las grandes tecnológicas apuestan al crecimiento de la IA y el negocio cloud. Para un inversor, comparar cómo cada empresa asigna ese capital y qué retornos genera ayuda a entender conceptos como retorno sobre la inversión y ventajas competitivas a largo plazo.",
-      "tags": [
-        "tecnología",
-        "inteligencia artificial",
-        "cloud"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/amazon-and-alphabet-just-committed-420-billion-data-centers-1-stock-better-buy",
-      "published_at": "2026-10-11T18:18:00Z",
-      "fecha_evento": "2026-10-11",
-      "tickers": [
-        "AMZN",
-        "GOOGL"
-      ]
-    },
-    {
-      "id": "bank-earnings-yields-2026",
-      "type": "empresa",
-      "title": "Los grandes bancos arrancan la temporada de resultados: primera señal sobre cómo afectan las tasas altas a la economía",
-      "summary": "Los principales bancos de EE.UU. comienzan a reportar sus ganancias del tercer trimestre este martes, dando el primer gran indicio de cómo está aguantando la economía en un contexto de tasas de interés elevadas.",
-      "detail": "Los bancos son el termómetro de la economía: sus resultados muestran si las empresas y familias siguen pidiendo crédito, si aumenta la morosidad y cómo impactan las tasas altas en sus márgenes. Cuando las tasas suben, los bancos pueden ganar más por préstamos, pero también enfrentan más defaults; entender este equilibrio es clave en finanzas.",
-      "tags": [
-        "bancos",
-        "tasas de interés",
-        "resultados"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef",
-      "published_at": "2026-10-11T12:00:00Z",
-      "fecha_evento": "2026-10-11",
-      "tickers": []
-    },
-    {
-      "id": "earnings-season-stock-market-2026",
-      "type": "mercado",
-      "title": "Comienza la temporada de resultados: ¿pueden las ganancias corporativas seguir sosteniendo al mercado bursátil?",
-      "summary": "Las expectativas sobre los resultados del tercer trimestre están siendo el principal soporte del mercado de acciones, aunque un experto advierte que los inversores se volvieron \"extremadamente complacientes\" frente a los riesgos de tasas altas y precios del petróleo.",
-      "detail": "La temporada de resultados es uno de los momentos más importantes del calendario financiero: las empresas muestran cuánto ganaron y el mercado reacciona según si superaron o decepcionaron las expectativas. Cuando los inversores ignoran señales de riesgo —como tasas altas o petróleo caro— por optimismo, eso puede volverse un problema si los datos vienen peor de lo esperado.",
-      "tags": [
-        "mercado",
-        "resultados empresariales",
-        "riesgo"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b",
-      "published_at": "2026-10-11T14:00:00Z",
-      "fecha_evento": "2026-10-11",
-      "tickers": []
-    },
-    {
-      "id": "bull-market-4-years-yields-2026",
-      "type": "mercado",
-      "title": "El mercado alcista cumple 4 años, pero las tasas altas amenazan con cortar la racha",
-      "summary": "El mercado bursátil estadounidense lleva cuatro años en tendencia alcista liderada por el sector tecnológico, aunque la suba de los rendimientos de los bonos del Tesoro podría complicar ese escenario.",
-      "detail": "Cuando los rendimientos de los bonos del gobierno suben, se vuelven una alternativa más atractiva frente a las acciones, lo que puede provocar que los inversores vendan acciones para pasarse a renta fija. Este mecanismo es fundamental para entender por qué las tasas de interés y los mercados de acciones suelen moverse en direcciones opuestas.",
-      "tags": [
-        "mercado alcista",
-        "bonos",
-        "tasas"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c",
-      "published_at": "2026-10-11T13:00:00Z",
-      "fecha_evento": "2026-10-11",
-      "tickers": []
     }
   ],
   "ticker": [
@@ -172,9 +150,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.443",
-      "valor_num": 83443.0,
-      "delta_pct": 0.56
+      "valor": "US$ 83.330",
+      "valor_num": 83330.0,
+      "delta_pct": 0.27
     },
     {
       "label": "S&P 500",
@@ -184,9 +162,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.216",
-      "valor_num": 4216.3,
-      "delta_pct": 0.7
+      "valor": "US$ 4.195",
+      "valor_num": 4195.2,
+      "delta_pct": 1.32
     }
   ]
 }
