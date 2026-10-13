@@ -1,16 +1,106 @@
 {
-  "generated_at": "2026-10-12T22:01:17.264246+00:00",
+  "generated_at": "2026-10-13T12:01:12.928342+00:00",
   "items": [
     {
-      "id": "nobel-economia-2026",
+      "id": "imf-bond-yields-disorderly",
+      "type": "mercado",
+      "title": "El FMI advierte que los rendimientos de bonos podrían dispararse de forma caótica",
+      "summary": "El FMI alertó que los riesgos en el mercado de bonos de gobierno empeoraron y que los rendimientos podrían subir de forma brusca y desordenada si la deuda y la inflación siguen sin controlarse.",
+      "detail": "Cuando los rendimientos de los bonos suben de golpe, los gobiernos pagan más para financiarse y los precios de los bonos existentes caen, lo que puede generar pérdidas en carteras de inversión. Para Argentina, que busca volver a los mercados de deuda, un contexto global de tasas más altas encarece cualquier emisión futura. Entender esta dinámica es clave para cualquier inversor que quiera operar renta fija.",
+      "tags": [
+        "bonos",
+        "FMI",
+        "tasas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+      "published_at": "2026-10-13T04:54:07Z",
+      "fecha_evento": "2026-10-13",
+      "tickers": []
+    },
+    {
+      "id": "imf-global-growth-ai",
+      "type": "economia",
+      "title": "El FMI mejoró su pronóstico de crecimiento global al 3,1% gracias al boom de la IA",
+      "summary": "El FMI elevó su proyección de crecimiento mundial para 2026 al 3,1%, señalando que el auge de la inteligencia artificial está compensando parcialmente el impacto de los conflictos bélicos, aunque advierte que la resiliencia global está llegando a sus límites.",
+      "detail": "Una mejora en el crecimiento global generalmente beneficia a los países emergentes como Argentina porque impulsa la demanda de exportaciones y mejora el apetito por activos de riesgo. Sin embargo, la advertencia del FMI sobre riesgos fiscales y energéticos muestra que el optimismo tiene techo. Para un inversor, este tipo de proyecciones del FMI sirven como termómetro del contexto macroeconómico internacional.",
+      "tags": [
+        "FMI",
+        "crecimiento",
+        "inteligencia artificial"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "published_at": "2026-10-13T04:10:49Z",
+      "fecha_evento": "2026-10-13",
+      "tickers": []
+    },
+    {
+      "id": "imf-ai-jobs-tsunami",
       "type": "discurso",
-      "title": "El Nobel de Economía fue para Hall y Woodford por sus modelos de bancos centrales",
-      "summary": "Los economistas estadounidenses Robert E. Hall y Michael Woodford ganaron el Premio Nobel de Economía por desarrollar los modelos que usan los bancos centrales y gobiernos para estabilizar la economía.",
-      "detail": "Los modelos de Hall y Woodford son la base teórica detrás de cómo los bancos centrales (como la Fed o el Banco Central Europeo) deciden las tasas de interés. Entender esto es clave en finanzas: las tasas de interés afectan el precio de los bonos, las acciones y el tipo de cambio. Que el Nobel reconozca este trabajo muestra cuánto peso tienen estas herramientas en la política económica global.",
+      "title": "La directora del FMI advirtió que la IA golpea el empleo como un \"tsunami lento\"",
+      "summary": "Kristalina Georgieva, titular del FMI, advirtió que la inteligencia artificial está transformando el mercado laboral global como un \"tsunami de movimiento lento\", con los trabajadores jóvenes como los más expuestos, mientras el Banco Mundial pide medidas de apoyo al empleo de escala de crisis.",
+      "detail": "La advertencia del FMI conecta la revolución tecnológica con consecuencias concretas en el mercado de trabajo, algo relevante para cualquier persona que esté comenzando su carrera. Para un inversor, entender este cambio estructural ayuda a identificar qué sectores pueden crecer y cuáles están en riesgo. Además, si los gobiernos implementan medidas masivas de apoyo al empleo, eso tiene implicancias fiscales y puede afectar los tipos de cambio y las tasas de interés.",
+      "tags": [
+        "inteligencia artificial",
+        "empleo",
+        "FMI"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "published_at": "2026-10-13T05:24:17Z",
+      "fecha_evento": "2026-10-13",
+      "tickers": []
+    },
+    {
+      "id": "goldman-sachs-q3-earnings",
+      "type": "empresa",
+      "title": "Goldman Sachs superó expectativas gracias al trading de acciones",
+      "summary": "Goldman Sachs registró un fuerte aumento en sus ingresos del tercer trimestre de 2026, impulsado principalmente por su división de trading de acciones, superando ampliamente las estimaciones del mercado.",
+      "detail": "El buen desempeño del trading de Goldman Sachs refleja que hubo mucho movimiento en los mercados financieros durante el trimestre, lo que genera comisiones y ganancias para los grandes bancos. Cuando los bancos de inversión más importantes del mundo publican resultados sólidos, suele ser una señal de que los mercados de capitales están activos. Para alguien que aprende finanzas, estos reportes trimestrales son una herramienta clave para entender la salud del sistema financiero global.",
+      "tags": [
+        "bancos",
+        "resultados",
+        "Wall Street"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
+      "published_at": "2026-10-13T11:53:52Z",
+      "fecha_evento": "2026-10-13",
+      "tickers": [
+        "GS",
+        "JPM"
+      ]
+    },
+    {
+      "id": "jpmorgan-q3-profit",
+      "type": "empresa",
+      "title": "JPMorgan ganó un 6% más en el tercer trimestre con una ganancia neta de USD 15.310 millones",
+      "summary": "JPMorgan Chase reportó una ganancia neta de USD 15.310 millones en el tercer trimestre de 2026, un 6% más que el mismo período del año anterior, con una ganancia por acción de USD 5,57.",
+      "detail": "JPMorgan es el banco más grande de Estados Unidos, por lo que sus resultados son un indicador importante de la salud del sistema financiero. Un crecimiento sostenido de sus ganancias sugiere que la economía estadounidense sigue funcionando razonablemente bien, lo que impacta en los flujos de capital hacia mercados emergentes como Argentina. Aprender a leer reportes de resultados trimestrales —ganancias por acción, ingresos, márgenes— es una habilidad fundamental en finanzas.",
+      "tags": [
+        "bancos",
+        "resultados",
+        "EE.UU."
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/jpmorgan-q3-net-profit-6-update",
+      "published_at": "2026-10-13T10:53:39Z",
+      "fecha_evento": "2026-10-13",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "id": "nobel-economia-hall-woodford",
+      "type": "discurso",
+      "title": "Hall y Woodford ganaron el Nobel de Economía por sus modelos para bancos centrales",
+      "summary": "Los economistas estadounidenses Robert E. Hall y Michael Woodford ganaron el Premio Nobel de Economía por desarrollar los modelos que usan los bancos centrales y los gobiernos para estabilizar la economía.",
+      "detail": "Los modelos de Hall y Woodford son la base teórica detrás de decisiones de política monetaria que afectan las tasas de interés en todo el mundo, incluida Argentina. Entender que detrás de cada suba o baja de tasas hay décadas de investigación académica ayuda a contextualizar por qué los bancos centrales actúan como lo hacen. El Nobel de Economía suele poner en el centro del debate ideas que ya influyen —o van a influir— en las políticas económicas globales.",
       "tags": [
         "Nobel",
         "bancos centrales",
-        "tasas de interés"
+        "política monetaria"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
@@ -19,152 +109,39 @@
       "tickers": []
     },
     {
-      "id": "india-inflacion-septiembre",
-      "type": "economia",
-      "title": "La inflación de India trepó a 5,54% en septiembre y alimenta expectativas de suba de tasas",
-      "summary": "La inflación minorista de India llegó a 5,54% en septiembre, por encima de lo esperado, acumulando once meses consecutivos al alza y aumentando las chances de que el banco central suba las tasas de interés.",
-      "detail": "Cuando la inflación supera las estimaciones de forma sostenida, los bancos centrales suelen responder subiendo las tasas de interés para enfriar el consumo y los precios. Una suba de tasas en India puede atraer capital extranjero hacia esa economía y afectar el flujo de inversiones en mercados emergentes, categoría en la que también entra Argentina. Es un ejemplo claro del ciclo inflación-tasas que se repite en distintas economías.",
-      "tags": [
-        "inflación",
-        "India",
-        "tasas de interés"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/12/india-inflation-oil-energy-iran-war.html",
-      "published_at": "2026-10-12T10:49:24Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": []
-    },
-    {
-      "id": "fmi-ia-empleos",
-      "type": "discurso",
-      "title": "El FMI advirtió que la IA golpea el mercado laboral global como un 'tsunami'",
-      "summary": "La directora del FMI, Kristalina Georgieva, alertó que la inteligencia artificial está impactando el empleo global de forma lenta pero masiva, con los trabajadores jóvenes como los más expuestos, mientras el Banco Mundial pide medidas de emergencia para el empleo.",
-      "detail": "Cuando organismos como el FMI y el Banco Mundial alertan sobre riesgos estructurales en el mercado laboral, esto puede influir en decisiones de política económica de muchos países, incluidos los emergentes. El desempleo tecnológico afecta el consumo y el crecimiento, dos variables que los inversores monitorean de cerca. Para alguien que aprende finanzas, entender cómo la IA redefine el trabajo ayuda a identificar qué sectores e industrias pueden ganar o perder en los próximos años.",
-      "tags": [
-        "inteligencia artificial",
-        "empleo",
-        "FMI"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-      "published_at": "2026-10-12T08:58:54Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": []
-    },
-    {
-      "id": "microsoft-4-billones",
-      "type": "empresa",
-      "title": "Microsoft volvió a valer 4 billones de dólares y apunta a nuevos récords",
-      "summary": "Microsoft recuperó una capitalización de mercado de 4 billones de dólares este lunes, consolidando su regreso a los primeros puestos del mercado bursátil global.",
-      "detail": "La capitalización de mercado es el valor total de una empresa en bolsa: se calcula multiplicando el precio de cada acción por la cantidad de acciones. Que Microsoft vuelva a los 4 billones refleja la confianza de los inversores en su apuesta por la inteligencia artificial y la nube. Para alguien que aprende finanzas, es un ejemplo de cómo una empresa puede recuperar terreno después de períodos difíciles si el mercado cree en su estrategia de largo plazo.",
-      "tags": [
-        "Microsoft",
-        "capitalización",
-        "tecnología"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-      "published_at": "2026-10-12T20:40:00Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "meta-modelos-wonder",
-      "type": "empresa",
-      "title": "Meta lanzó sus nuevos modelos de IA Wonder y sus acciones subieron más de 3%",
-      "summary": "Meta presentó sus modelos de inteligencia artificial Muse Wonder y Muse Wonder Full, lo que impulsó sus acciones más de un 3% en la jornada del lunes.",
-      "detail": "El lanzamiento de nuevos productos de IA por parte de Meta muestra cómo las grandes tecnológicas compiten por liderar este mercado. La reacción inmediata del precio de la acción ilustra un concepto clave en finanzas: el mercado premia las novedades que los analistas consideran generadoras de nuevos negocios. Para inversores, seguir estos lanzamientos ayuda a entender qué impulsa el valor de las empresas tecnológicas más allá de sus resultados trimestrales.",
-      "tags": [
-        "Meta",
-        "inteligencia artificial",
-        "acciones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/meta-is-back-on-the-ai-leaderboard-with-its-new-family-of-wonder-models-a704b6cc?mod=mw_rss_topstories",
-      "published_at": "2026-10-12T19:43:00Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": [
-        "META"
-      ]
-    },
-    {
-      "id": "nvidia-amd-bajan",
+      "id": "corea-del-sur-bolsa-caida",
       "type": "mercado",
-      "title": "Nvidia y AMD cayeron en bolsa: los anuncios de IA no convencieron a los inversores",
-      "summary": "Las acciones de Nvidia y AMD bajaron este lunes a pesar de que ambas empresas presentaron nuevos diseños de hardware y software para centros de datos de inteligencia artificial, porque los analistas señalaron que los ingresos potenciales todavía están lejos.",
-      "detail": "Este movimiento ilustra un principio importante: en el mercado bursátil no alcanza con tener buenas noticias, sino que esas noticias tienen que superar las expectativas ya descontadas en el precio. Si los inversores ya esperaban grandes anuncios y los anuncios no sorprendieron, el precio puede caer igual. Es lo que se conoce como 'comprar el rumor, vender el hecho'.",
+      "title": "La bolsa de Corea del Sur está en caída libre por dudas sobre los semiconductores",
+      "summary": "El mercado bursátil surcoreano atraviesa una fuerte baja impulsada por el escepticismo creciente sobre la rentabilidad y la sustentabilidad del ciclo de la industria de semiconductores.",
+      "detail": "Corea del Sur es uno de los mayores productores mundiales de chips y semiconductores, por lo que su bolsa funciona como un termómetro del sector tecnológico global. Cuando el mercado duda de que el boom de los chips pueda sostenerse, eso puede anticipar correcciones en empresas tecnológicas de todo el mundo. Para un inversor argentino que sigue activos globales o fondos tech, entender estos ciclos sectoriales es muy útil.",
       "tags": [
-        "Nvidia",
-        "AMD",
-        "inteligencia artificial"
+        "semiconductores",
+        "bolsa",
+        "mercados emergentes"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
-      "published_at": "2026-10-12T21:19:00Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": [
-        "NVDA",
-        "AMD"
-      ]
-    },
-    {
-      "id": "trump-ceasefire-energia",
-      "type": "economia",
-      "title": "Trump declaró un 'cese al fuego energético' entre Rusia y Ucrania, pero el mercado petrolero sigue en problemas",
-      "summary": "El presidente Donald Trump anunció un 'cese al fuego energético' entre Rusia y Ucrania, pero los mercados petroleros tuvieron dificultades para evaluar su impacto real en medio de una crisis de suministro global agravada por el conflicto en el Medio Oriente.",
-      "detail": "El precio del petróleo es una variable global clave: afecta la inflación, los costos de producción y las reservas de divisas de los países importadores y exportadores. Para Argentina, que importa energía, las variaciones en el precio del crudo impactan directamente en la balanza comercial y en el precio interno de los combustibles. Un conflicto geopolítico no resuelto y una oferta ajustada suelen mantener los precios altos, con efectos en cadena para toda la economía mundial.",
-      "tags": [
-        "petróleo",
-        "geopolítica",
-        "energía"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories",
-      "published_at": "2026-10-12T18:36:00Z",
-      "fecha_evento": "2026-10-12",
+      "source_url": "https://www.marketwatch.com/story/the-korean-stock-markets-in-freefall-and-these-are-the-reasons-why-9615ac8d?mod=mw_rss_topstories",
+      "published_at": "2026-10-13T11:44:00Z",
+      "fecha_evento": "2026-10-13",
       "tickers": []
     },
     {
-      "id": "mercados-12-octubre",
-      "type": "mercado",
-      "title": "El Dow Jones subió pero el Nasdaq cayó por debilidad en el sector tecnológico",
-      "summary": "El Dow Jones ganó 0,38% y cerró en 51.851 puntos, mientras que el S&P 500 bajó levemente a 7.807 y el Nasdaq retrocedió 0,44% hasta 27.246, arrastrado por las acciones de tecnología y memorias.",
-      "detail": "Que el Dow suba mientras el Nasdaq cae muestra una rotación: los inversores se movieron de acciones tecnológicas de alto crecimiento hacia sectores más tradicionales o de valor. Esta dinámica es común cuando hay incertidumbre sobre el futuro de la tecnología o cuando sus valuaciones parecen altas. Entender que los índices no siempre se mueven en la misma dirección es fundamental para leer correctamente el estado del mercado.",
+      "id": "asml-resultados-proximos",
+      "type": "reunion",
+      "title": "ASML, la empresa más valiosa de Europa, publica resultados este miércoles",
+      "summary": "ASML, la compañía europea más valiosa y fabricante clave de maquinaria para producir chips, presentará sus resultados del tercer trimestre este miércoles antes de la apertura de la bolsa de Ámsterdam.",
+      "detail": "ASML fabrica las máquinas que necesitan prácticamente todos los grandes productores de semiconductores del mundo, lo que la convierte en un indicador clave de la salud del sector tecnológico global. Sus resultados pueden dar señales sobre si la demanda de chips sigue fuerte o está enfriándose, lo que afecta a empresas como Nvidia, TSMC e Intel. Para alguien que aprende finanzas, seguir los reportes de empresas estratégicas como ASML ayuda a anticipar tendencias en sectores enteros.",
       "tags": [
-        "Dow Jones",
-        "Nasdaq",
-        "mercado bursátil"
+        "semiconductores",
+        "Europa",
+        "resultados"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-12-dow-gains-memory-stocks-weigh-nasdaq",
-      "published_at": "2026-10-12T21:23:11Z",
-      "fecha_evento": "2026-10-12",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/what-to-expect-from-europes-most-valuable-company-before-it-kicks-off-tech-earnings-a6272cc0?mod=mw_rss_topstories",
+      "published_at": "2026-10-13T09:33:00Z",
+      "fecha_evento": "2026-10-15",
       "tickers": [
-        "^DJI",
-        "^GSPC",
-        "^IXIC"
-      ]
-    },
-    {
-      "id": "anthropic-iren-deal",
-      "type": "empresa",
-      "title": "Anthropic firmó un acuerdo de servicios cloud con Iren, que opera centros de datos para IA",
-      "summary": "Según reportes del lunes, Anthropic firmó un acuerdo plurianual de servicios en la nube con Iren Limited, una empresa que opera infraestructura de centros de datos para inteligencia artificial.",
-      "detail": "Los acuerdos entre empresas de IA como Anthropic y proveedores de infraestructura como Iren muestran cómo crece la demanda de capacidad de cómputo para sostener el desarrollo de inteligencia artificial. Para alguien que aprende finanzas, esto ilustra que el boom de la IA no solo beneficia a quienes crean los modelos, sino también a toda la cadena de infraestructura detrás. Este tipo de contratos de largo plazo suelen ser señales positivas para los inversores porque dan visibilidad sobre ingresos futuros.",
-      "tags": [
-        "Anthropic",
-        "infraestructura IA",
-        "nube"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-12-iren-surges-reports-anthropic-cloud-services-deal",
-      "published_at": "2026-10-12T21:21:15Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": [
-        "IREN"
+        "ASML"
       ]
     }
   ],
@@ -195,9 +172,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 82.513",
-      "valor_num": 82513.0,
-      "delta_pct": -1.1
+      "valor": "US$ 83.263",
+      "valor_num": 83263.0,
+      "delta_pct": -0.07
     },
     {
       "label": "S&P 500",
@@ -207,9 +184,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.196",
-      "valor_num": 4195.9,
-      "delta_pct": 1.33
+      "valor": "US$ 4.209",
+      "valor_num": 4209.1,
+      "delta_pct": 1.25
     }
   ]
 }
