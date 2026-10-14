@@ -1,16 +1,33 @@
 {
-  "generated_at": "2026-10-14T12:01:23.754375+00:00",
+  "generated_at": "2026-10-14T22:01:15.319155+00:00",
   "items": [
     {
-      "id": "imf-bond-yields-debt",
+      "id": "cpi-septiembre-2026",
       "type": "economia",
-      "title": "El FMI advierte que los rendimientos de bonos podrían dispararse de forma caótica",
-      "summary": "El FMI alertó que los riesgos en el mercado de bonos soberanos empeoraron y que los rendimientos podrían subir de forma abrupta y desordenada si la deuda y la inflación siguen deteriorándose.",
-      "detail": "Cuando el FMI habla de un salto 'desordenado' en los rendimientos, se refiere a que los inversores podrían exigir tasas mucho más altas de golpe para seguir prestándole dinero a los gobiernos. Eso encarece el crédito para todos: estados, empresas y personas. Para Argentina, que ya tiene dificultades de acceso al financiamiento externo, un endurecimiento global de las condiciones financieras es una señal de alerta importante.",
+      "title": "La inflación en EE.UU. subió 3,7% anual en septiembre, más de lo esperado",
+      "summary": "El índice de precios al consumidor (CPI) de septiembre subió 3,7% respecto al año anterior, superando el 3,6% que esperaban los analistas, impulsado en parte por el alza en los precios de la nafta.",
+      "detail": "El CPI es el termómetro de inflación más seguido en EE.UU. Cuando los datos vienen más calientes de lo esperado, los mercados anticipan que la Reserva Federal podría subir las tasas de interés (o mantenerlas altas por más tiempo), lo que encarece el crédito en todo el mundo. Para alguien en Argentina, esto importa porque las tasas altas en EE.UU. fortalecen al dólar y presionan a las economías emergentes.",
       "tags": [
+        "inflación",
+        "CPI",
+        "Fed"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
+      "published_at": "2026-10-14T13:53:28Z",
+      "fecha_evento": "2026-10-14",
+      "tickers": []
+    },
+    {
+      "id": "fmi-rendimientos-deuda",
+      "type": "economia",
+      "title": "El FMI advierte que los rendimientos de los bonos podrían dispararse de forma desordenada",
+      "summary": "El Fondo Monetario Internacional alertó que los riesgos en el mercado de bonos del gobierno empeoraron y que los rendimientos podrían saltar de manera abrupta si no se controlan la deuda y la inflación.",
+      "detail": "Cuando los rendimientos de los bonos soberanos suben de golpe y sin orden, el costo de financiarse para los gobiernos se dispara. Esto puede generar crisis de deuda, especialmente en países emergentes. Para alguien aprendiendo finanzas, entender que los mercados de bonos globales están interconectados ayuda a comprender por qué una suba en los rendimientos de EE.UU. o Europa puede afectar también a Argentina.",
+      "tags": [
+        "FMI",
         "bonos",
-        "deuda",
-        "FMI"
+        "deuda"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
@@ -19,15 +36,15 @@
       "tickers": []
     },
     {
-      "id": "imf-growth-forecast-ai",
+      "id": "fmi-crecimiento-global-2026",
       "type": "economia",
-      "title": "El FMI mejoró su pronóstico de crecimiento global al 3,1% gracias al boom de la IA",
-      "summary": "El FMI elevó su proyección de crecimiento mundial para 2026 al 3,1%, destacando que el auge de la inteligencia artificial está compensando parcialmente el impacto de los conflictos bélicos, aunque advirtió que la resiliencia tiene límites por restricciones energéticas y riesgos fiscales.",
-      "detail": "El FMI publica estas proyecciones en sus reuniones anuales con el Banco Mundial, que son eventos clave del calendario financiero global. Que suban el pronóstico es una señal positiva para los mercados emergentes como Argentina, que dependen del crecimiento mundial para exportar y atraer inversión. Sin embargo, la advertencia sobre límites fiscales y energéticos indica que el optimismo es frágil.",
+      "title": "El FMI mejoró su pronóstico de crecimiento global a 3,1%, pero advierte que la resiliencia tiene límites",
+      "summary": "El FMI subió su estimación de crecimiento mundial para 2026 a 3,1%, destacando que el boom de la inteligencia artificial está compensando parcialmente el impacto de conflictos bélicos, aunque advierte que los riesgos fiscales y energéticos siguen siendo altos.",
+      "detail": "El pronóstico del FMI es una brújula que usan inversores y gobiernos de todo el mundo para tomar decisiones. Que el crecimiento global sea positivo pero con riesgos latentes significa que los mercados pueden seguir volátiles. Para Argentina, un crecimiento global moderado afecta la demanda de exportaciones y el precio de materias primas como la soja.",
       "tags": [
-        "crecimiento",
         "FMI",
-        "inteligencia artificial"
+        "crecimiento",
+        "economía global"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
@@ -36,11 +53,11 @@
       "tickers": []
     },
     {
-      "id": "imf-ai-jobs-tsunami",
-      "type": "discurso",
-      "title": "La jefa del FMI advirtió que la IA golpea el mercado laboral como un 'tsunami lento'",
-      "summary": "Kristalina Georgieva, directora del FMI, advirtió que la inteligencia artificial está transformando el mercado de trabajo de forma gradual pero profunda, con los trabajadores jóvenes como los más expuestos, mientras el Banco Mundial pide medidas de apoyo al empleo de escala similar a las de una crisis.",
-      "detail": "La comparación con un 'tsunami lento' es útil para entender cómo los cambios tecnológicos pueden ser devastadores sin ser inmediatos: dan tiempo de reaccionar, pero esa sensación de calma puede llevar a no prepararse. Para quienes estudian finanzas, esto afecta decisiones de inversión en sectores, políticas públicas y la demanda futura de distintos tipos de trabajo.",
+      "id": "fmi-ia-empleo",
+      "type": "economia",
+      "title": "El FMI advierte que la IA golpea el mercado laboral global como un 'tsunami lento'",
+      "summary": "La directora del FMI, Kristalina Georgieva, advirtió que la inteligencia artificial está transformando el mercado de trabajo a nivel mundial, con los trabajadores más jóvenes como los más expuestos al riesgo de quedar desplazados.",
+      "detail": "La IA no solo cambia qué productos usamos: está reorganizando quiénes trabajan y en qué. Que el FMI lo señale como riesgo sistémico indica que los efectos ya son medibles en las economías. Para alguien que está aprendiendo finanzas, entender que la tecnología puede cambiar sectores enteros ayuda a pensar en qué industrias y empresas van a ganar o perder en los próximos años.",
       "tags": [
         "inteligencia artificial",
         "empleo",
@@ -53,15 +70,15 @@
       "tickers": []
     },
     {
-      "id": "nobel-economia-hall-woodford",
-      "type": "economia",
-      "title": "El Premio Nobel de Economía fue para Robert Hall y Michael Woodford",
-      "summary": "Los economistas estadounidenses Robert E. Hall y Michael Woodford ganaron el Premio Nobel de Economía por trabajos que sirven de base a los modelos que usan los bancos centrales y gobiernos para estabilizar la economía.",
-      "detail": "Los modelos desarrollados por Hall y Woodford son los que aplican bancos centrales como la Reserva Federal o el Banco Central Europeo para decidir cómo mover las tasas de interés. Entender qué tipo de investigación premia el Nobel ayuda a comprender qué marcos teóricos dominan la política económica global hoy, algo muy relevante para interpretar las decisiones de los bancos centrales.",
+      "id": "nobel-economia-2026",
+      "type": "discurso",
+      "title": "El Premio Nobel de Economía 2026 fue para Robert E. Hall y Michael Woodford",
+      "summary": "Los economistas estadounidenses Robert E. Hall y Michael Woodford ganaron el Premio Nobel de Economía por desarrollar los modelos que usan los bancos centrales y gobiernos para estabilizar la economía.",
+      "detail": "Los modelos de Woodford y Hall son la base teórica detrás de cómo la Reserva Federal y otros bancos centrales deciden subir o bajar las tasas de interés. Entender que las decisiones de política monetaria se apoyan en modelos matemáticos sofisticados es clave para comprender por qué los bancos centrales actúan como lo hacen frente a la inflación o una recesión.",
       "tags": [
         "Nobel",
-        "bancos centrales",
-        "política monetaria"
+        "política monetaria",
+        "bancos centrales"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
@@ -70,114 +87,97 @@
       "tickers": []
     },
     {
-      "id": "fed-sube-tasas-crypto",
-      "type": "mercado",
-      "title": "La Fed volvió a subir las tasas por primera vez desde julio de 2023: ¿qué pasó con las criptos?",
-      "summary": "La Reserva Federal de EE.UU. subió las tasas de interés por primera vez desde julio de 2023, y la historia sugiere que estos ciclos de suba suelen coincidir con caídas en el mercado cripto, como ocurrió en 2022.",
-      "detail": "La suba de tasas encarece el dinero y hace que activos más seguros como los bonos del Tesoro sean más atractivos en comparación con activos de alto riesgo como las criptomonedas. Cuando la Fed sube tasas, los inversores suelen mover capital hacia instrumentos más conservadores. Este mecanismo es clave para entender por qué los mercados de cripto y de renta variable suelen caer cuando la política monetaria se endurece.",
+      "id": "netflix-despidos-2026",
+      "type": "empresa",
+      "title": "Netflix va a despedir a cerca de 1.000 empleados, el 6% de su plantilla",
+      "summary": "La compañía de streaming anunció recortes de personal que afectarán aproximadamente al 6% de sus trabajadores, según un memo interno obtenido por CNBC.",
+      "detail": "Cuando una empresa grande como Netflix recorta personal, suele ser una señal de que está ajustando costos para mejorar su rentabilidad o adaptarse a un contexto económico más difícil. Para un inversor, estos anuncios pueden mover el precio de la acción: el mercado a veces los lee como una señal positiva (más eficiencia) y otras como negativa (problemas de negocio).",
       "tags": [
-        "Fed",
-        "tasas",
-        "criptomonedas"
+        "Netflix",
+        "despidos",
+        "empresas"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/fed-hiked-rates-first-time-july-2023-history-says-happens-next-crypto",
-      "published_at": "2026-10-14T11:08:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
+      "published_at": "2026-10-14T15:03:59Z",
       "fecha_evento": "2026-10-14",
-      "tickers": []
+      "tickers": [
+        "NFLX"
+      ]
     },
     {
       "id": "bank-of-america-multa-resultados",
       "type": "empresa",
-      "title": "Bank of America cayó en bolsa tras una multa de u$s 1.200 millones y resultados por debajo de lo esperado",
-      "summary": "El Departamento del Tesoro de EE.UU. aplicó una multa de 1.200 millones de dólares a Bank of America, lo que contribuyó a una caída en sus ganancias del tercer trimestre y un descenso en el precio de sus acciones.",
-      "detail": "Una multa de este tamaño impacta directamente en las ganancias reportadas del banco y puede afectar su reputación ante inversores y reguladores. Este caso ilustra cómo el riesgo regulatorio es un factor real que los inversores deben considerar al analizar acciones bancarias, más allá de los resultados operativos.",
+      "title": "Bank of America cayó en bolsa tras resultados débiles y una multa de US$1.200 millones",
+      "summary": "Las acciones de Bank of America bajaron después de que el banco reportó ingresos por debajo de lo esperado en trading y recibió una multa del Tesoro de EE.UU. por US$1.200 millones.",
+      "detail": "Los resultados trimestrales de los grandes bancos son un termómetro de la salud del sistema financiero. Una multa regulatoria de esta magnitud indica que el banco tuvo problemas de cumplimiento, lo que genera desconfianza en los inversores. Además, un desempeño débil en trading puede reflejar menor actividad en los mercados financieros globales.",
       "tags": [
-        "bancos",
+        "Bank of America",
         "resultados",
         "regulación"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "published_at": "2026-10-14T11:58:23Z",
+      "published_at": "2026-10-14T20:20:46Z",
       "fecha_evento": "2026-10-14",
       "tickers": [
         "BAC"
       ]
     },
     {
-      "id": "morgan-stanley-resultados-q3",
+      "id": "morgan-stanley-q3-2026",
       "type": "empresa",
-      "title": "Morgan Stanley superó las expectativas con ingresos por trading de acciones muy por encima de lo estimado",
-      "summary": "Morgan Stanley publicó resultados del tercer trimestre que superaron las estimaciones, con ingresos por trading de acciones que excedieron las proyecciones en 909 millones de dólares.",
-      "detail": "El negocio de trading de acciones es muy sensible a la volatilidad del mercado: cuando hay más movimiento en los precios, los bancos de inversión suelen ganar más en comisiones y posiciones propias. Que Morgan Stanley haya superado tan ampliamente las expectativas sugiere que los mercados estuvieron muy activos en el tercer trimestre, lo cual es un dato útil para entender el contexto financiero global.",
+      "title": "Morgan Stanley superó las expectativas gracias a un trading de acciones que batió pronósticos por US$909 millones",
+      "summary": "El banco de inversión Morgan Stanley publicó resultados del tercer trimestre por encima de lo esperado, con ingresos por trading de renta variable que superaron las estimaciones en US$909 millones.",
+      "detail": "Que Morgan Stanley supere ampliamente las expectativas en trading de acciones muestra que los mercados bursátiles estuvieron activos durante el trimestre. Para alguien aprendiendo finanzas, los resultados de los grandes bancos de inversión son una ventana a cómo se mueven los flujos de capital globales: cuando hay volatilidad o mucho volumen, los bancos ganan más en trading.",
       "tags": [
-        "bancos",
-        "trading",
-        "resultados"
+        "Morgan Stanley",
+        "resultados",
+        "trading"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
-      "published_at": "2026-10-14T11:58:05Z",
+      "published_at": "2026-10-14T20:22:09Z",
       "fecha_evento": "2026-10-14",
       "tickers": [
         "MS"
       ]
     },
     {
-      "id": "blackrock-activos-15-trillones",
-      "type": "empresa",
-      "title": "BlackRock ya administra activos equivalentes a la mitad de la economía de EE.UU.",
-      "summary": "BlackRock anunció que sus activos bajo administración alcanzaron casi 15,5 billones de dólares tras crecer un 15%, una cifra equivalente a la mitad del PBI de Estados Unidos.",
-      "detail": "BlackRock es la gestora de fondos más grande del mundo, y el tamaño de sus activos la convierte en un actor central en los mercados globales: sus decisiones de compra y venta pueden mover precios. Para alguien que aprende finanzas, entender qué son los activos bajo administración (AUM) y por qué importan es fundamental para comprender cómo funcionan los fondos de inversión.",
+      "id": "coreweave-bonos-caida",
+      "type": "mercado",
+      "title": "Los bonos de CoreWeave se desplomaron y generan alarma en el mercado de crédito",
+      "summary": "Los bonos de CoreWeave, empresa de infraestructura de IA, cayeron a 81 centavos por dólar y su rendimiento trepó por encima del 15%, lo que enciende alertas sobre posibles tensiones más amplias en el mercado de crédito.",
+      "detail": "Cuando los bonos de una empresa caen tan fuerte, el mercado está descontando un mayor riesgo de que esa empresa no pueda pagar su deuda. Lo llamativo es que CoreWeave es un actor clave en el boom de IA, lo que muestra que incluso los sectores de moda pueden tener problemas financieros. Para alguien aprendiendo finanzas, esto ilustra la diferencia entre una empresa con buena tecnología y una con buenas finanzas.",
       "tags": [
-        "fondos",
-        "gestión de activos",
-        "Wall Street"
+        "bonos",
+        "crédito",
+        "inteligencia artificial"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289",
-      "published_at": "2026-10-14T10:41:00Z",
-      "fecha_evento": "2026-10-14",
-      "tickers": [
-        "BLK"
-      ]
-    },
-    {
-      "id": "tsmc-resultados-proximos",
-      "type": "empresa",
-      "title": "Analistas de JPMorgan y Citi esperan más crecimiento de TSMC antes de que publique sus resultados",
-      "summary": "Analistas de JPMorgan y Citigroup anticipan que TSMC, el mayor fabricante de semiconductores del mundo, seguirá mostrando crecimiento de ingresos cuando publique sus resultados, incluso después de haber registrado cifras récord en el tercer trimestre.",
-      "detail": "TSMC fabrica los chips que usan Apple, Nvidia y casi todas las empresas de tecnología del mundo, por lo que sus resultados son un termómetro de la demanda global de semiconductores y del avance de la IA. Cuando analistas de bancos grandes publican sus expectativas antes de un reporte, los mercados suelen reaccionar fuerte si el resultado real difiere de esas proyecciones.",
-      "tags": [
-        "semiconductores",
-        "tecnología",
-        "resultados"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b",
-      "published_at": "2026-10-14T11:36:00Z",
-      "fecha_evento": "2026-10-14",
-      "tickers": [
-        "TSM"
-      ]
-    },
-    {
-      "id": "goldman-ai-inflacion",
-      "type": "economia",
-      "title": "Goldman Sachs calculó cuánto está contribuyendo el boom de la IA a la inflación",
-      "summary": "Economistas de Goldman Sachs cuantificaron el impacto del auge de la inteligencia artificial sobre los precios, en un contexto en que la inflación sigue siendo una preocupación central para los mercados globales.",
-      "detail": "El vínculo entre tecnología e inflación no es intuitivo: la IA puede bajar costos en algunos sectores pero también genera una enorme demanda de energía, chips e infraestructura que presiona los precios hacia arriba. Entender estos efectos cruzados es parte de cómo los economistas modernos analizan la inflación más allá de los factores tradicionales como salarios o tipo de cambio.",
-      "tags": [
-        "inflación",
-        "inteligencia artificial",
-        "Goldman Sachs"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff",
-      "published_at": "2026-10-14T11:18:00Z",
+      "source_url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+      "published_at": "2026-10-14T21:18:00Z",
       "fecha_evento": "2026-10-14",
       "tickers": []
+    },
+    {
+      "id": "oracle-cae-cpi",
+      "type": "mercado",
+      "title": "Oracle cayó casi 9% en bolsa tras el dato de inflación más alto de lo esperado en EE.UU.",
+      "summary": "Las acciones de Oracle bajaron 8,83% después de que el dato de inflación de septiembre en EE.UU. superó las expectativas, elevó los rendimientos de los bonos del Tesoro y reavivó las apuestas a nuevas subas de tasas.",
+      "detail": "Cuando la inflación sorprende al alza, los inversores anticipan que la Fed va a mantener o subir las tasas, lo que hace que los bonos del Tesoro rindan más. Eso le compite directamente a las acciones de tecnología como Oracle, que valen mucho por sus ganancias futuras: si la tasa de referencia sube, esas ganancias futuras valen menos hoy. Es el mecanismo clásico de por qué inflación alta presiona a las acciones de crecimiento.",
+      "tags": [
+        "Oracle",
+        "tasas",
+        "tecnología"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-14-oracle-tumbles-hotter-cpi-data-lifting-treasury-yields",
+      "published_at": "2026-10-14T21:12:46Z",
+      "fecha_evento": "2026-10-14",
+      "tickers": [
+        "ORCL"
+      ]
     }
   ],
   "ticker": [
@@ -195,33 +195,33 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.539",
-      "valor_num": 1539.4,
-      "delta_pct": -0.23
+      "valor": "$1.540",
+      "valor_num": 1539.7,
+      "delta_pct": -0.21
     },
     {
       "label": "CCL",
-      "valor": "$1.614",
-      "valor_num": 1613.8,
-      "delta_pct": 0.45
+      "valor": "$1.617",
+      "valor_num": 1617.3,
+      "delta_pct": 0.67
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.396",
-      "valor_num": 83396.0,
-      "delta_pct": 0.15
+      "valor": "US$ 81.709",
+      "valor_num": 81709.0,
+      "delta_pct": -2.1
     },
     {
       "label": "S&P 500",
-      "valor": "7.805",
-      "valor_num": 7805.45,
-      "delta_pct": -0.17
+      "valor": "7.719",
+      "valor_num": 7718.94,
+      "delta_pct": -1.06
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.160",
-      "valor_num": 4160.2,
-      "delta_pct": -1.33
+      "valor": "US$ 4.127",
+      "valor_num": 4127.3,
+      "delta_pct": -2.11
     }
   ]
 }
