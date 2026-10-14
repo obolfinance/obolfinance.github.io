@@ -1,33 +1,16 @@
 {
-  "generated_at": "2026-10-13T22:01:09.487364+00:00",
+  "generated_at": "2026-10-14T12:01:23.754375+00:00",
   "items": [
     {
-      "id": "us-cpi-sept-2026",
+      "id": "imf-bond-yields-debt",
       "type": "economia",
-      "title": "Se espera que la inflación de EE.UU. se aceleró en septiembre",
-      "summary": "Los economistas proyectan que el índice de precios al consumidor (CPI) de septiembre subió un 0,6% mensual y un 3,6% interanual en Estados Unidos.",
-      "detail": "El CPI es el indicador de inflación más seguido del mundo y tiene impacto directo en las decisiones de la Reserva Federal sobre tasas de interés. Si el dato confirma la aceleración, aumenta la probabilidad de que la Fed mantenga o suba las tasas, lo que afecta al dólar, a los bonos y a los mercados emergentes como Argentina. Aprender a leer este dato es clave para entender cómo se mueven los mercados globales.",
+      "title": "El FMI advierte que los rendimientos de bonos podrían dispararse de forma caótica",
+      "summary": "El FMI alertó que los riesgos en el mercado de bonos soberanos empeoraron y que los rendimientos podrían subir de forma abrupta y desordenada si la deuda y la inflación siguen deteriorándose.",
+      "detail": "Cuando el FMI habla de un salto 'desordenado' en los rendimientos, se refiere a que los inversores podrían exigir tasas mucho más altas de golpe para seguir prestándole dinero a los gobiernos. Eso encarece el crédito para todos: estados, empresas y personas. Para Argentina, que ya tiene dificultades de acceso al financiamiento externo, un endurecimiento global de las condiciones financieras es una señal de alerta importante.",
       "tags": [
-        "inflación",
-        "Fed",
-        "EE.UU."
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
-      "published_at": "2026-10-13T18:05:57Z",
-      "fecha_evento": "2026-10-13",
-      "tickers": []
-    },
-    {
-      "id": "imf-bond-yields-warning",
-      "type": "economia",
-      "title": "El FMI advierte sobre un posible salto brusco en los rendimientos de bonos",
-      "summary": "El Fondo Monetario Internacional alertó que los riesgos en el mercado de deuda soberana empeoraron y que los rendimientos de los bonos podrían dispararse de forma desordenada.",
-      "detail": "Cuando los rendimientos de los bonos soberanos suben abruptamente, los gobiernos deben pagar más para financiarse, lo que agrava sus déficits. Para países como Argentina, que dependen del acceso a crédito externo, una suba desordenada de tasas globales encarece aún más el financiamiento. Esta advertencia del FMI es una señal de alerta para toda la deuda emergente.",
-      "tags": [
-        "FMI",
         "bonos",
-        "deuda"
+        "deuda",
+        "FMI"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
@@ -36,15 +19,15 @@
       "tickers": []
     },
     {
-      "id": "imf-global-growth-2026",
+      "id": "imf-growth-forecast-ai",
       "type": "economia",
-      "title": "El FMI subió su pronóstico de crecimiento global pero advierte que la resistencia tiene límites",
-      "summary": "El FMI revisó al alza su proyección de crecimiento mundial para 2026 a 3,1%, impulsado por el auge de la inteligencia artificial, aunque advirtió que los riesgos fiscales y energéticos pueden frenar ese ritmo.",
-      "detail": "El pronóstico de crecimiento global del FMI es una referencia clave para inversores y gobiernos porque marca el tono del contexto económico mundial. Que la IA sea un motor de crecimiento muestra cómo la tecnología está redefiniendo la economía global. Sin embargo, las advertencias sobre riesgos fiscales son relevantes para entender por qué los mercados de deuda están bajo presión.",
+      "title": "El FMI mejoró su pronóstico de crecimiento global al 3,1% gracias al boom de la IA",
+      "summary": "El FMI elevó su proyección de crecimiento mundial para 2026 al 3,1%, destacando que el auge de la inteligencia artificial está compensando parcialmente el impacto de los conflictos bélicos, aunque advirtió que la resiliencia tiene límites por restricciones energéticas y riesgos fiscales.",
+      "detail": "El FMI publica estas proyecciones en sus reuniones anuales con el Banco Mundial, que son eventos clave del calendario financiero global. Que suban el pronóstico es una señal positiva para los mercados emergentes como Argentina, que dependen del crecimiento mundial para exportar y atraer inversión. Sin embargo, la advertencia sobre límites fiscales y energéticos indica que el optimismo es frágil.",
       "tags": [
-        "FMI",
         "crecimiento",
-        "IA"
+        "FMI",
+        "inteligencia artificial"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
@@ -55,13 +38,13 @@
     {
       "id": "imf-ai-jobs-tsunami",
       "type": "discurso",
-      "title": "La directora del FMI advirtió que la IA golpea al mercado laboral como un 'tsunami lento'",
-      "summary": "Kristalina Georgieva, jefa del FMI, comparó el impacto de la inteligencia artificial en el empleo con un tsunami de movimiento lento, y señaló que los trabajadores jóvenes son los más expuestos.",
-      "detail": "Este tipo de advertencia de una figura de peso como la directora del FMI tiene consecuencias concretas: puede influir en políticas de empleo y en cómo los gobiernos diseñan sus presupuestos. Para alguien que está aprendiendo finanzas, entender que la tecnología redefine quiénes tienen trabajo —y por ende quiénes consumen y pagan impuestos— es fundamental para analizar la economía a largo plazo.",
+      "title": "La jefa del FMI advirtió que la IA golpea el mercado laboral como un 'tsunami lento'",
+      "summary": "Kristalina Georgieva, directora del FMI, advirtió que la inteligencia artificial está transformando el mercado de trabajo de forma gradual pero profunda, con los trabajadores jóvenes como los más expuestos, mientras el Banco Mundial pide medidas de apoyo al empleo de escala similar a las de una crisis.",
+      "detail": "La comparación con un 'tsunami lento' es útil para entender cómo los cambios tecnológicos pueden ser devastadores sin ser inmediatos: dan tiempo de reaccionar, pero esa sensación de calma puede llevar a no prepararse. Para quienes estudian finanzas, esto afecta decisiones de inversión en sectores, políticas públicas y la demanda futura de distintos tipos de trabajo.",
       "tags": [
-        "FMI",
-        "IA",
-        "empleo"
+        "inteligencia artificial",
+        "empleo",
+        "FMI"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
@@ -70,11 +53,11 @@
       "tickers": []
     },
     {
-      "id": "nobel-economia-2026",
-      "type": "discurso",
-      "title": "El Nobel de Economía fue para Hall y Woodford por sus modelos usados por bancos centrales",
-      "summary": "Los economistas estadounidenses Robert E. Hall y Michael Woodford ganaron el Premio Nobel de Economía por un trabajo que sustenta los modelos que usan los bancos centrales para estabilizar la economía.",
-      "detail": "Los modelos de Woodford y Hall son la base teórica detrás de muchas decisiones de política monetaria, incluyendo cómo la Fed o el Banco Central Europeo fijan las tasas de interés. Conocer quiénes construyen el marco conceptual que guía a los bancos centrales ayuda a entender por qué las tasas se mueven como se mueven y qué objetivos persiguen esas instituciones.",
+      "id": "nobel-economia-hall-woodford",
+      "type": "economia",
+      "title": "El Premio Nobel de Economía fue para Robert Hall y Michael Woodford",
+      "summary": "Los economistas estadounidenses Robert E. Hall y Michael Woodford ganaron el Premio Nobel de Economía por trabajos que sirven de base a los modelos que usan los bancos centrales y gobiernos para estabilizar la economía.",
+      "detail": "Los modelos desarrollados por Hall y Woodford son los que aplican bancos centrales como la Reserva Federal o el Banco Central Europeo para decidir cómo mover las tasas de interés. Entender qué tipo de investigación premia el Nobel ayuda a comprender qué marcos teóricos dominan la política económica global hoy, algo muy relevante para interpretar las decisiones de los bancos centrales.",
       "tags": [
         "Nobel",
         "bancos centrales",
@@ -87,81 +70,114 @@
       "tickers": []
     },
     {
-      "id": "bank-earnings-q3-2026",
-      "type": "empresa",
-      "title": "JPMorgan, Goldman, Wells Fargo y Citi reportaron resultados del tercer trimestre con resultados mixtos",
-      "summary": "Los cuatro grandes bancos de Wall Street publicaron hoy sus ganancias del tercer trimestre de 2026, con resultados dispares entre ellos.",
-      "detail": "Los resultados de los grandes bancos son uno de los primeros termómetros de la temporada de balances y dan señales sobre el estado de la economía: si los bancos ganan bien, suele indicar que el crédito fluye y que la economía está activa. Resultados mixtos pueden reflejar que algunos segmentos del negocio financiero están bajo presión, algo relevante para entender el contexto global en que se mueven los mercados.",
-      "tags": [
-        "bancos",
-        "resultados",
-        "Wall Street"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
-      "published_at": "2026-10-13T19:12:04Z",
-      "fecha_evento": "2026-10-13",
-      "tickers": [
-        "JPM",
-        "GS",
-        "WFC",
-        "C"
-      ]
-    },
-    {
-      "id": "chip-stocks-ai-fatigue",
+      "id": "fed-sube-tasas-crypto",
       "type": "mercado",
-      "title": "Las acciones de semiconductores viven su peor racha en 16 meses por fatiga con la IA",
-      "summary": "El sector de chips tecnológicos cayó en su peor período en 16 meses, en un contexto donde los inversores se muestran cada vez menos pacientes con el gasto masivo en inteligencia artificial.",
-      "detail": "El ciclo de entusiasmo y decepción con la IA afecta directamente a las empresas de semiconductores, que son las grandes beneficiadas cuando el boom de IA crece y las más golpeadas cuando los inversores dudan. Esta dinámica es un ejemplo claro de cómo las expectativas —no solo los resultados reales— mueven los precios de las acciones en el corto plazo.",
+      "title": "La Fed volvió a subir las tasas por primera vez desde julio de 2023: ¿qué pasó con las criptos?",
+      "summary": "La Reserva Federal de EE.UU. subió las tasas de interés por primera vez desde julio de 2023, y la historia sugiere que estos ciclos de suba suelen coincidir con caídas en el mercado cripto, como ocurrió en 2022.",
+      "detail": "La suba de tasas encarece el dinero y hace que activos más seguros como los bonos del Tesoro sean más atractivos en comparación con activos de alto riesgo como las criptomonedas. Cuando la Fed sube tasas, los inversores suelen mover capital hacia instrumentos más conservadores. Este mecanismo es clave para entender por qué los mercados de cripto y de renta variable suelen caer cuando la política monetaria se endurece.",
       "tags": [
-        "semiconductores",
-        "IA",
-        "mercado"
+        "Fed",
+        "tasas",
+        "criptomonedas"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece",
-      "published_at": "2026-10-13T21:02:00Z",
-      "fecha_evento": "2026-10-13",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/fed-hiked-rates-first-time-july-2023-history-says-happens-next-crypto",
+      "published_at": "2026-10-14T11:08:00Z",
+      "fecha_evento": "2026-10-14",
       "tickers": []
     },
     {
-      "id": "broadcom-ceo-ai-gamblers",
-      "type": "discurso",
-      "title": "El CEO de Broadcom generó polémica con un comentario sobre 'apostadores' en IA que sacudió a las acciones de chips",
-      "summary": "Las declaraciones del CEO de Broadcom en una conferencia en Singapur fueron citadas como uno de los motivos detrás de la caída de las acciones de semiconductores tanto el lunes como el martes.",
-      "detail": "Los comentarios de los líderes de grandes empresas tecnológicas pueden mover mercados enteros, no solo sus propias acciones. Cuando el CEO de una empresa clave en la cadena de valor de la IA siembra dudas —aunque sea con una sola palabra— los inversores reajustan sus expectativas sobre todo el sector. Este caso ilustra cómo el sentimiento y la narrativa influyen tanto como los datos concretos.",
+      "id": "bank-of-america-multa-resultados",
+      "type": "empresa",
+      "title": "Bank of America cayó en bolsa tras una multa de u$s 1.200 millones y resultados por debajo de lo esperado",
+      "summary": "El Departamento del Tesoro de EE.UU. aplicó una multa de 1.200 millones de dólares a Bank of America, lo que contribuyó a una caída en sus ganancias del tercer trimestre y un descenso en el precio de sus acciones.",
+      "detail": "Una multa de este tamaño impacta directamente en las ganancias reportadas del banco y puede afectar su reputación ante inversores y reguladores. Este caso ilustra cómo el riesgo regulatorio es un factor real que los inversores deben considerar al analizar acciones bancarias, más allá de los resultados operativos.",
       "tags": [
-        "Broadcom",
-        "IA",
-        "semiconductores"
+        "bancos",
+        "resultados",
+        "regulación"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/was-broadcom-ceo-bullish-or-bearish-on-ai-gamblers-comment-creates-storm-33f11787",
-      "published_at": "2026-10-13T20:27:00Z",
-      "fecha_evento": "2026-10-13",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "published_at": "2026-10-14T11:58:23Z",
+      "fecha_evento": "2026-10-14",
       "tickers": [
-        "AVGO"
+        "BAC"
       ]
     },
     {
-      "id": "micron-buyback-35b",
+      "id": "morgan-stanley-resultados-q3",
       "type": "empresa",
-      "title": "Micron amplió su programa de recompra de acciones a 35.000 millones de dólares",
-      "summary": "La junta directiva de Micron autorizó una recompra de acciones por hasta 35.160 millones de dólares, el 8 de octubre.",
-      "detail": "Una recompra de acciones (buyback) es cuando una empresa usa su propio dinero para comprar sus acciones en el mercado, lo que reduce la cantidad circulante y suele hacer subir el precio por acción. Que Micron haga una recompra de esta magnitud es una señal de que la empresa confía en su posición financiera y quiere recompensar a sus accionistas, algo relevante para entender cómo las empresas usan el capital.",
+      "title": "Morgan Stanley superó las expectativas con ingresos por trading de acciones muy por encima de lo estimado",
+      "summary": "Morgan Stanley publicó resultados del tercer trimestre que superaron las estimaciones, con ingresos por trading de acciones que excedieron las proyecciones en 909 millones de dólares.",
+      "detail": "El negocio de trading de acciones es muy sensible a la volatilidad del mercado: cuando hay más movimiento en los precios, los bancos de inversión suelen ganar más en comisiones y posiciones propias. Que Morgan Stanley haya superado tan ampliamente las expectativas sugiere que los mercados estuvieron muy activos en el tercer trimestre, lo cual es un dato útil para entender el contexto financiero global.",
       "tags": [
-        "Micron",
-        "recompra",
-        "tecnología"
+        "bancos",
+        "trading",
+        "resultados"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/micron-just-raised-its-buyback-authorization-35-billion-prediction-it-spends-more-buying",
-      "published_at": "2026-10-13T20:57:02Z",
-      "fecha_evento": "2026-10-08",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html",
+      "published_at": "2026-10-14T11:58:05Z",
+      "fecha_evento": "2026-10-14",
       "tickers": [
-        "MU"
+        "MS"
       ]
+    },
+    {
+      "id": "blackrock-activos-15-trillones",
+      "type": "empresa",
+      "title": "BlackRock ya administra activos equivalentes a la mitad de la economía de EE.UU.",
+      "summary": "BlackRock anunció que sus activos bajo administración alcanzaron casi 15,5 billones de dólares tras crecer un 15%, una cifra equivalente a la mitad del PBI de Estados Unidos.",
+      "detail": "BlackRock es la gestora de fondos más grande del mundo, y el tamaño de sus activos la convierte en un actor central en los mercados globales: sus decisiones de compra y venta pueden mover precios. Para alguien que aprende finanzas, entender qué son los activos bajo administración (AUM) y por qué importan es fundamental para comprender cómo funcionan los fondos de inversión.",
+      "tags": [
+        "fondos",
+        "gestión de activos",
+        "Wall Street"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289",
+      "published_at": "2026-10-14T10:41:00Z",
+      "fecha_evento": "2026-10-14",
+      "tickers": [
+        "BLK"
+      ]
+    },
+    {
+      "id": "tsmc-resultados-proximos",
+      "type": "empresa",
+      "title": "Analistas de JPMorgan y Citi esperan más crecimiento de TSMC antes de que publique sus resultados",
+      "summary": "Analistas de JPMorgan y Citigroup anticipan que TSMC, el mayor fabricante de semiconductores del mundo, seguirá mostrando crecimiento de ingresos cuando publique sus resultados, incluso después de haber registrado cifras récord en el tercer trimestre.",
+      "detail": "TSMC fabrica los chips que usan Apple, Nvidia y casi todas las empresas de tecnología del mundo, por lo que sus resultados son un termómetro de la demanda global de semiconductores y del avance de la IA. Cuando analistas de bancos grandes publican sus expectativas antes de un reporte, los mercados suelen reaccionar fuerte si el resultado real difiere de esas proyecciones.",
+      "tags": [
+        "semiconductores",
+        "tecnología",
+        "resultados"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b",
+      "published_at": "2026-10-14T11:36:00Z",
+      "fecha_evento": "2026-10-14",
+      "tickers": [
+        "TSM"
+      ]
+    },
+    {
+      "id": "goldman-ai-inflacion",
+      "type": "economia",
+      "title": "Goldman Sachs calculó cuánto está contribuyendo el boom de la IA a la inflación",
+      "summary": "Economistas de Goldman Sachs cuantificaron el impacto del auge de la inteligencia artificial sobre los precios, en un contexto en que la inflación sigue siendo una preocupación central para los mercados globales.",
+      "detail": "El vínculo entre tecnología e inflación no es intuitivo: la IA puede bajar costos en algunos sectores pero también genera una enorme demanda de energía, chips e infraestructura que presiona los precios hacia arriba. Entender estos efectos cruzados es parte de cómo los economistas modernos analizan la inflación más allá de los factores tradicionales como salarios o tipo de cambio.",
+      "tags": [
+        "inflación",
+        "inteligencia artificial",
+        "Goldman Sachs"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff",
+      "published_at": "2026-10-14T11:18:00Z",
+      "fecha_evento": "2026-10-14",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -191,9 +207,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.445",
-      "valor_num": 83445.0,
-      "delta_pct": 1.13
+      "valor": "US$ 83.396",
+      "valor_num": 83396.0,
+      "delta_pct": 0.15
     },
     {
       "label": "S&P 500",
@@ -203,9 +219,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.184",
-      "valor_num": 4184.2,
-      "delta_pct": 0.65
+      "valor": "US$ 4.160",
+      "valor_num": 4160.2,
+      "delta_pct": -1.33
     }
   ]
 }
