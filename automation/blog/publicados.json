@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "dolar-tarjeta-30-por-ciento-recargo",
+      "titulo": "Dólar tarjeta: por qué pagás 30% más que el oficial sin darte cuenta",
+      "bajada": "Suscripciones, pasajes, compras online: todo se liquida a un dólar que no figura en ninguna pizarra. Te explico cómo se arma ese precio y por qué te sorprende en el resumen.",
+      "categoria": "Deuda y Crédito",
+      "mundo": "deuda",
+      "fecha": "2026-10-16"
+    },
+    {
       "slug": "que-es-el-dinero-fiat-y-por-que-funciona",
       "titulo": "Por qué un papel sin respaldo vale algo: la historia del dinero fiat",
       "bajada": "El dinero no vale por lo que está hecho. Vale porque todos aceptamos que vale. La historia de cómo llegamos hasta acá, y qué pasa cuando se rompe.",
