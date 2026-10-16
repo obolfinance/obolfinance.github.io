@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-15T22:01:14.114494+00:00",
+  "generated_at": "2026-10-16T12:01:31.122558+00:00",
   "items": [
     {
       "id": "ppi-septiembre-2026",
       "type": "economia",
       "title": "Los precios mayoristas en EE.UU. subieron 6,3% anual en septiembre, el mayor salto desde 2022",
-      "summary": "El índice de precios al productor (PPI) de septiembre subió 6,3% en términos anuales, superando las expectativas del mercado que proyectaban un 5,5%. Es el mayor aumento desde 2022 y reaviva las dudas sobre si la Fed terminó de subir tasas.",
-      "detail": "El PPI mide cuánto pagan los productores por sus insumos antes de que esos costos lleguen al consumidor final. Cuando sube más de lo esperado, suele anticipar que la inflación al consumidor también se mantendrá alta. Esto pone presión sobre la Reserva Federal para seguir subiendo las tasas de interés, lo que encarece el crédito globalmente y puede afectar economías emergentes como la argentina vía tipo de cambio y flujo de capitales.",
+      "summary": "El índice de precios al productor (PPI) de EE.UU. trepó 6,3% interanual en septiembre, superando las expectativas del mercado que anticipaban un 5,5%. Es el mayor aumento desde 2022 y reaviva el temor a que la inflación siga sin ceder.",
+      "detail": "El PPI mide cuánto pagan los productores por sus insumos antes de que los precios lleguen al consumidor final, por lo que suele anticipar movimientos en la inflación general. Un dato tan caliente aumenta la presión sobre la Reserva Federal para seguir subiendo las tasas de interés, lo que encarece el crédito en todo el mundo. Para Argentina, tasas más altas en EE.UU. generalmente fortalecen al dólar y complican el financiamiento de países emergentes.",
       "tags": [
         "inflación",
         "Fed",
@@ -21,9 +21,9 @@
     {
       "id": "fed-suba-tasas-riesgo",
       "type": "economia",
-      "title": "Economistas advierten que la Fed podría volver a subir tasas en dos semanas",
-      "summary": "Tras el dato caliente de inflación mayorista, analistas del mercado alertan que existe un riesgo real de que la Reserva Federal suba las tasas de interés en su próxima reunión, prevista para dentro de dos semanas.",
-      "detail": "Cuando la inflación no cede, la Fed tiene incentivos para endurecer aún más su política monetaria subiendo la tasa de referencia. Una suba de tasas en EE.UU. fortalece al dólar a nivel global, encarece la deuda de países emergentes y puede provocar salida de capitales de economías como la argentina. Para quien aprende finanzas, entender esta cadena de efectos es clave.",
+      "title": "Economistas advierten que la Fed podría subir tasas nuevamente en dos semanas",
+      "summary": "Tras el dato de inflación mayorista más alto desde 2022, analistas alertan que existe un riesgo real de que la Reserva Federal vuelva a subir las tasas de interés en su próxima reunión. 'Vemos riesgos reales de otra suba en dos semanas', advirtió un especialista en la Fed.",
+      "detail": "Cuando la inflación no cede, el banco central sube las tasas para encarecer el crédito y frenar el consumo. Cada suba de tasas de la Fed impacta globalmente: el dólar se fortalece, los capitales fluyen hacia activos seguros en EE.UU. y los países emergentes como Argentina enfrentan mayor presión sobre sus monedas y deuda. Seguir estas decisiones es clave para entender los movimientos del tipo de cambio y los mercados financieros.",
       "tags": [
         "Fed",
         "tasas",
@@ -39,12 +39,12 @@
       "id": "cpi-septiembre-2026",
       "type": "economia",
       "title": "La inflación al consumidor en EE.UU. llegó al 3,7% anual en septiembre, impulsada por el precio de la nafta",
-      "summary": "El índice de precios al consumidor (CPI) de septiembre subió 3,7% anual, por encima de la expectativa del 3,6%, con la suba en los combustibles como principal motor. El dato se conoció el 14 de octubre.",
-      "detail": "El CPI es el termómetro más seguido de la inflación en EE.UU. Cuando supera las expectativas, los mercados suelen anticipar que la Fed mantendrá o subirá las tasas, lo que impacta en el precio de los bonos y en el valor del dólar a nivel mundial. Para Argentina, que tiene gran parte de su deuda en dólares y depende del financiamiento externo, las decisiones de la Fed son especialmente relevantes.",
+      "summary": "El índice de precios al consumidor (CPI) de septiembre subió 3,7% interanual en EE.UU., por encima del 3,6% esperado, con la suba del precio del combustible como principal motor. El dato confirma que la inflación sigue siendo un problema persistente.",
+      "detail": "El CPI es el indicador más seguido para medir la inflación que siente el ciudadano en su vida cotidiana. Que supere las expectativas refuerza la idea de que la Fed tiene margen para seguir ajustando su política monetaria. Para quienes aprenden finanzas, este tipo de dato es fundamental: mueve mercados de bonos, acciones y divisas en cuestión de minutos tras su publicación.",
       "tags": [
         "inflación",
         "CPI",
-        "EE.UU."
+        "economía EE.UU."
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
@@ -53,32 +53,15 @@
       "tickers": []
     },
     {
-      "id": "tesoro-eeuu-fmi-deuda",
+      "id": "deuda-eeuu-deficit-rendimientos",
       "type": "economia",
-      "title": "El Tesoro de EE.UU. rechazó las advertencias del FMI sobre su nivel de deuda",
-      "summary": "El Departamento del Tesoro de EE.UU. descartó las advertencias del FMI sobre la deuda estadounidense, que ya supera los 40 billones de dólares, mientras los rendimientos de los bonos a 10 años se mantienen por encima del 5%.",
-      "detail": "Que el Tesoro de EE.UU. descarte las advertencias del FMI es significativo porque muestra tensiones entre los organismos internacionales y la mayor economía del mundo. Los rendimientos por encima del 5% en los bonos del Tesoro a 10 años son una referencia global: cuando suben, el costo de financiarse aumenta para todos los países, incluida la Argentina. Además, el FMI es uno de los principales acreedores de Argentina, por lo que su postura global importa.",
+      "title": "El déficit de 2 billones de dólares y los rendimientos del Tesoro al 5% se vuelven el mayor desafío económico de EE.UU.",
+      "summary": "Los rendimientos de los bonos del Tesoro de EE.UU. a 10 años se mantienen por encima del 5%, encareciendo el costo de financiar un déficit fiscal de 2 billones de dólares. Esto eleva los costos de endeudamiento tanto para el gobierno como para las familias estadounidenses.",
+      "detail": "Cuando los rendimientos de los bonos del Tesoro suben, el gobierno paga más intereses por su deuda, lo que reduce el margen para gastar en otras áreas. Además, estos rendimientos sirven de referencia global: influyen en las tasas hipotecarias, los créditos empresariales y el costo de financiamiento de países emergentes. Entender la relación entre déficit, deuda y tasas es básico para analizar cualquier economía, incluyendo la argentina.",
       "tags": [
         "deuda",
-        "FMI",
-        "bonos"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-      "published_at": "2026-10-15T13:42:32Z",
-      "fecha_evento": "2026-10-15",
-      "tickers": []
-    },
-    {
-      "id": "deficit-rendimientos-eeuu",
-      "type": "economia",
-      "title": "El déficit de 2 billones de dólares y los rendimientos al 5% se convierten en el mayor desafío económico de EE.UU.",
-      "summary": "Los rendimientos de los bonos del Tesoro por encima del 5% están encareciendo el crédito tanto para los hogares como para el gobierno federal, que debe financiar un déficit de 2 billones de dólares.",
-      "detail": "Un déficit fiscal enorme combinado con tasas de interés altas crea un círculo vicioso: el gobierno necesita emitir más deuda, pero esa deuda es cada vez más cara de pagar. Este mecanismo es importante para entender finanzas porque ilustra cómo el nivel de gasto público y la política monetaria interactúan, algo muy relevante también para Argentina. Además, los rendimientos altos del Tesoro de EE.UU. compiten con activos de mercados emergentes, dificultando el financiamiento externo de países como el nuestro.",
-      "tags": [
-        "déficit",
         "bonos",
-        "EE.UU."
+        "déficit fiscal"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
@@ -87,32 +70,49 @@
       "tickers": []
     },
     {
-      "id": "fmi-crecimiento-global-2026",
+      "id": "imf-crecimiento-global-2026",
       "type": "economia",
-      "title": "El FMI mejoró su pronóstico de crecimiento global a 3,1% para 2026, pero advierte que la resiliencia tiene límites",
-      "summary": "El Fondo Monetario Internacional elevó su estimación de crecimiento global para 2026 a 3,1%, en parte gracias al auge de la inteligencia artificial, aunque advirtió que los riesgos fiscales y energéticos pueden agotar esa resiliencia.",
-      "detail": "Las proyecciones del FMI son un indicador clave para los mercados globales porque influyen en las decisiones de inversión y en las condiciones de financiamiento de los países. Que el crecimiento sea impulsado por IA es una señal de que la economía global está en transformación, lo que genera tanto oportunidades como riesgos. Para Argentina, miembro del FMI y con un programa vigente, las perspectivas globales afectan directamente las condiciones en las que puede refinanciar su deuda.",
+      "title": "El FMI elevó su pronóstico de crecimiento global al 3,1% para 2026, pero advierte que la resiliencia tiene límites",
+      "summary": "El Fondo Monetario Internacional mejoró su proyección de crecimiento mundial a 3,1% para 2026, impulsado en parte por el auge de la inteligencia artificial, aunque advierte sobre riesgos energéticos y fiscales que podrían frenar ese dinamismo.",
+      "detail": "Las proyecciones del FMI son una referencia clave para inversores y gobiernos a la hora de planificar políticas económicas y evaluar mercados. Que el organismo reconozca el rol positivo de la IA en el crecimiento es una señal para entender hacia dónde se mueve la economía global. Al mismo tiempo, sus advertencias sobre riesgos fiscales son relevantes para países con alta deuda, como Argentina, que depende del acceso a financiamiento externo.",
       "tags": [
         "FMI",
-        "crecimiento",
-        "economía global"
+        "crecimiento global",
+        "IA"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
       "published_at": "2026-10-15T06:35:31Z",
-      "fecha_evento": "2026-10-12",
+      "fecha_evento": "2026-10-15",
+      "tickers": []
+    },
+    {
+      "id": "imf-ai-tsunami-empleos",
+      "type": "discurso",
+      "title": "La jefa del FMI advirtió que la IA está golpeando el mercado laboral como un 'tsunami en cámara lenta'",
+      "summary": "Kristalina Georgieva, directora del FMI, alertó que la inteligencia artificial está transformando el mercado de trabajo a nivel global y que los jóvenes que recién ingresan al mercado laboral son los más expuestos. El Banco Mundial también pidió medidas de apoyo al empleo similares a las de épocas de crisis.",
+      "detail": "La advertencia del FMI sobre la IA y el empleo es importante porque muestra que los cambios tecnológicos no son solo una oportunidad de inversión, sino también un riesgo social que los gobiernos deben gestionar. Para quienes aprenden finanzas, entender cómo la tecnología afecta el mercado laboral ayuda a anticipar cambios en sectores, empresas y políticas públicas. Este tipo de discurso de figuras influyentes suele mover expectativas y decisiones de política económica global.",
+      "tags": [
+        "IA",
+        "empleo",
+        "FMI"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
+      "published_at": "2026-10-13T13:09:55Z",
+      "fecha_evento": "2026-10-13",
       "tickers": []
     },
     {
       "id": "netflix-despidos-2026",
       "type": "empresa",
       "title": "Netflix anunció que despedirá a alrededor de 1.000 empleados, el 6% de su plantilla",
-      "summary": "Netflix comunicó internamente que recortará aproximadamente el 6% de su fuerza laboral, según un memorando obtenido por CNBC.",
-      "detail": "Los despidos masivos en grandes empresas tecnológicas como Netflix son una señal del ajuste que está viviendo el sector luego de años de expansión. Para quien aprende finanzas, este tipo de decisiones suele impactar en el precio de la acción y refleja cómo las empresas priorizan la rentabilidad sobre el crecimiento en contextos de tasas altas. También ilustra el concepto de reestructuración como herramienta de gestión de costos.",
+      "summary": "Netflix comunicó internamente que recortará aproximadamente el 6% de su fuerza laboral, según un memo obtenido por CNBC. Es uno de los mayores recortes de la compañía en su historia reciente.",
+      "detail": "Los despidos masivos en empresas tecnológicas grandes como Netflix son una señal de ajuste en el sector, que durante años creció de forma acelerada. Para inversores, este tipo de anuncio puede ser visto tanto como una señal negativa (la empresa enfrenta dificultades) como positiva (busca reducir costos para mejorar su rentabilidad). Seguir este tipo de movimientos corporativos es clave para aprender a analizar el valor de una empresa más allá de su producto.",
       "tags": [
+        "Netflix",
         "tecnología",
-        "despidos",
-        "empresas"
+        "despidos"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
@@ -123,43 +123,61 @@
       ]
     },
     {
-      "id": "bank-of-america-multa-q3",
+      "id": "kfc-coca-cola-pepsi",
       "type": "empresa",
-      "title": "Las acciones de Bank of America cayeron tras resultados débiles y una multa del Tesoro de 1.200 millones de dólares",
-      "summary": "Bank of America reportó ingresos por debajo de lo esperado en trading y absorbió el impacto de una multa de 1.200 millones de dólares del Tesoro de EE.UU., lo que hizo caer sus acciones.",
-      "detail": "Los resultados de los grandes bancos son un termómetro de la salud financiera global. Una multa de esa magnitud, sumada a ingresos menores a los esperados, puede afectar la confianza de los inversores y el precio de la acción. Para alguien que aprende finanzas, este caso muestra cómo los riesgos regulatorios pueden impactar directamente en la valuación de una empresa.",
+      "title": "KFC cambia a Coca-Cola como proveedor de bebidas en EE.UU., dejando atrás décadas con PepsiCo",
+      "summary": "La cadena de comida rápida KFC anunció que pasará a ofrecer bebidas de Coca-Cola en sus restaurantes estadounidenses, rompiendo una relación histórica con PepsiCo. Es la primera vez en décadas que KFC hace este cambio en EE.UU.",
+      "detail": "Los acuerdos de exclusividad entre cadenas de fast food y marcas de bebidas mueven grandes volúmenes de ventas y son muy disputados. Perder a KFC como cliente puede impactar negativamente en los ingresos de PepsiCo, mientras que Coca-Cola refuerza su presencia en el canal de consumo masivo. Este tipo de noticias corporativas enseña cómo las decisiones comerciales entre grandes empresas afectan sus resultados financieros y el precio de sus acciones.",
       "tags": [
-        "bancos",
-        "resultados",
-        "regulación"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "published_at": "2026-10-14T20:20:46Z",
-      "fecha_evento": "2026-10-14",
-      "tickers": [
-        "BAC"
-      ]
-    },
-    {
-      "id": "kfc-coca-cola-switch",
-      "type": "empresa",
-      "title": "KFC dejará de vender Pepsi y pasará a ofrecer Coca-Cola en sus restaurantes de EE.UU.",
-      "summary": "Por primera vez en décadas, KFC cambiará a Coca-Cola como proveedor exclusivo de bebidas en sus locales estadounidenses, dejando atrás a PepsiCo.",
-      "detail": "Los contratos de exclusividad entre cadenas de comida rápida y grandes marcas de bebidas mueven cientos de millones de dólares y son muy seguidos en el mundo de las inversiones. Este cambio puede impactar en los ingresos de PepsiCo y beneficiar a Coca-Cola, lo que ilustra cómo decisiones comerciales entre grandes empresas afectan directamente a los accionistas de ambas compañías.",
-      "tags": [
-        "empresas",
-        "consumo",
-        "marcas"
+        "Coca-Cola",
+        "PepsiCo",
+        "empresas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-      "published_at": "2026-10-15T21:03:50Z",
+      "published_at": "2026-10-16T11:02:24Z",
       "fecha_evento": "2026-10-15",
       "tickers": [
         "KO",
-        "PEP",
-        "YUM"
+        "PEP"
+      ]
+    },
+    {
+      "id": "waymo-canada-robotaxi",
+      "type": "empresa",
+      "title": "Waymo, la empresa de autos autónomos de Alphabet, lanzará su servicio de robotaxi en Canadá",
+      "summary": "Element Fleet Management anunció una expansión de su acuerdo con Waymo para llevar el servicio de taxis autónomos a Toronto, marcando la primera incursión de la compañía en el mercado canadiense.",
+      "detail": "La expansión geográfica de Waymo es un indicador del avance de la industria del transporte autónomo, un sector que genera grandes expectativas de inversión a largo plazo. Para quienes siguen los mercados, Waymo es parte de Alphabet (la empresa madre de Google), por lo que su crecimiento puede impactar en el valor de esa compañía. Este tipo de alianzas estratégicas también muestra cómo las empresas de tecnología buscan escalar sus negocios a través de socios locales.",
+      "tags": [
+        "Waymo",
+        "autos autónomos",
+        "tecnología"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/element-extends-partnership-waymo-launch-robotaxi-canada",
+      "published_at": "2026-10-16T11:37:42Z",
+      "fecha_evento": "2026-10-16",
+      "tickers": [
+        "GOOG"
+      ]
+    },
+    {
+      "id": "oracle-cloud-backlog",
+      "type": "empresa",
+      "title": "El carnet de pedidos en la nube de Oracle llegó a 664.000 millones de dólares",
+      "summary": "Oracle acumuló un backlog (contratos firmados pendientes de ejecutar) en su negocio de nube de 664.000 millones de dólares, lo que refleja una demanda masiva de infraestructura tecnológica impulsada por la inteligencia artificial.",
+      "detail": "El backlog es un indicador adelantado de ingresos futuros: muestra cuánto dinero tiene una empresa ya comprometido por parte de sus clientes. Un número tan alto en Oracle sugiere que la demanda por servicios de computación en la nube sigue creciendo fuerte, en gran parte por las necesidades de las empresas que desarrollan y usan IA. Para quienes aprenden a evaluar empresas tecnológicas, el backlog es una métrica clave para estimar la solidez de los ingresos futuros.",
+      "tags": [
+        "Oracle",
+        "nube",
+        "IA"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/oracles-cloud-backlog-just-hit-664-billion-heres-what-1000-investment-could-be-worth-if-it",
+      "published_at": "2026-10-16T11:35:00Z",
+      "fecha_evento": "2026-10-16",
+      "tickers": [
+        "ORCL"
       ]
     }
   ],
@@ -180,19 +198,19 @@
       "label": "MEP",
       "valor": "$1.536",
       "valor_num": 1536.0,
-      "delta_pct": -0.22
+      "delta_pct": -0.24
     },
     {
       "label": "CCL",
       "valor": "$1.616",
       "valor_num": 1616.0,
-      "delta_pct": 0.14
+      "delta_pct": -0.08
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 82.328",
-      "valor_num": 82328.0,
-      "delta_pct": 0.77
+      "valor": "US$ 82.572",
+      "valor_num": 82572.0,
+      "delta_pct": 2.07
     },
     {
       "label": "S&P 500",
@@ -202,9 +220,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.192",
-      "valor_num": 4192.5,
-      "delta_pct": 0.05
+      "valor": "US$ 4.198",
+      "valor_num": 4197.9,
+      "delta_pct": 0.17
     }
   ]
 }
