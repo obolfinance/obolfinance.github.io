@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-17T12:01:04.401939+00:00",
+  "generated_at": "2026-10-17T22:01:10.814615+00:00",
   "items": [
     {
       "id": "us-deficit-2026",
       "type": "economia",
-      "title": "El déficit fiscal de EE.UU. llegó a casi 2 billones de dólares en 2026",
-      "summary": "El Tesoro de EE.UU. confirmó que el déficit presupuestario del año fiscal 2026 rozó los 2 billones de dólares, un 12% más que el año anterior.",
-      "detail": "Un déficit tan grande significa que el gobierno gasta mucho más de lo que recauda. Para financiar esa diferencia emite deuda, lo que aumenta la oferta de bonos del Tesoro y puede presionar las tasas de interés al alza. Esto tiene efecto global: cuando los rendimientos de los bonos americanos suben, los capitales tienden a fluir hacia EE.UU. y se alejan de mercados emergentes como Argentina.",
+      "title": "El déficit fiscal de EE.UU. trepó a casi 2 billones de dólares en el año fiscal 2026",
+      "summary": "El Tesoro de EE.UU. confirmó que el déficit fiscal del año fiscal 2026 llegó a casi 2 billones de dólares, un 12% más que el año anterior. Es uno de los déficits más grandes de la historia reciente del país.",
+      "detail": "Un déficit fiscal significa que el gobierno gasta mucho más de lo que recauda. Para financiar esa diferencia, emite deuda (bonos del Tesoro). Cuando el déficit crece, el gobierno necesita emitir más bonos, lo que puede presionar las tasas de interés al alza —ya que tiene que ofrecer mejores rendimientos para atraer compradores. Esto encarece el crédito para todos: empresas, familias y otros países. Entender el déficit fiscal de la economía más grande del mundo es clave para comprender por qué las tasas globales se mantienen altas.",
       "tags": [
         "déficit",
-        "deuda",
+        "deuda pública",
         "EE.UU."
       ],
       "source_name": "CNBC",
@@ -21,13 +21,13 @@
     {
       "id": "fed-warsh-octubre",
       "type": "reunion",
-      "title": "La Fed se reúne en octubre y Warsh podría sorprender con una suba de tasas",
-      "summary": "Los inversores esperan que la Reserva Federal mantenga las tasas sin cambios en octubre, pero el presidente Kevin Warsh generó incertidumbre por su estilo poco convencional y su preocupación por la inflación.",
-      "detail": "Warsh rechaza las prácticas de comunicación tradicionales de la Fed, lo que hace más difícil anticipar su decisión. En un contexto de inflación elevada y datos de precios al productor que sorprendieron al alza, existe la posibilidad de una suba inesperada. Para inversores, la incertidumbre sobre las tasas afecta directamente el valor de bonos, acciones y monedas a nivel global.",
+      "title": "La reunión de la Fed en octubre genera incertidumbre: ¿Kevin Warsh puede sorprender con una suba de tasas?",
+      "summary": "Los mercados esperan que la Reserva Federal mantenga las tasas sin cambios en su reunión de octubre, pero el perfil poco convencional de Kevin Warsh y su preocupación por la inflación generan dudas sobre qué puede pasar.",
+      "detail": "Normalmente, la Fed telegrafía sus decisiones con semanas de anticipación a través de discursos y comunicados. Warsh parece alejarse de esa práctica, lo que genera mayor incertidumbre en los mercados. Cuando la Fed sube tasas, se encarecen los créditos y cae el atractivo de las acciones; cuando las mantiene, los mercados suelen respirar. Seguir de cerca las señales de los bancos centrales es una habilidad esencial para cualquier inversor.",
       "tags": [
         "Fed",
-        "tasas",
-        "inflación"
+        "tasas de interés",
+        "política monetaria"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
@@ -36,11 +36,11 @@
       "tickers": []
     },
     {
-      "id": "ppi-septiembre-2026",
+      "id": "ppi-septiembre-inflacion",
       "type": "economia",
       "title": "Los precios mayoristas en EE.UU. subieron 6,3% anual en septiembre, el mayor salto desde 2022",
-      "summary": "El índice de precios al productor (PPI) de septiembre mostró un alza del 6,3% interanual, superando las expectativas del mercado que esperaban un 5,5%.",
-      "detail": "El PPI mide cuánto pagan los productores por sus insumos y suele anticipar movimientos en los precios al consumidor. Un dato tan alto refuerza la idea de que la inflación en EE.UU. no cede, lo que aumenta la presión sobre la Fed para seguir subiendo tasas. Tasas más altas en EE.UU. fortalecen al dólar y encarecen el financiamiento para países emergentes.",
+      "summary": "El índice de precios al productor (PPI) de septiembre subió 6,3% en términos anuales, muy por encima de lo esperado. Esto reaviva los temores de que la inflación en EE.UU. todavía no está controlada.",
+      "detail": "El PPI mide cuánto pagan las empresas por sus insumos antes de vender al consumidor final. Cuando sube fuerte, suele trasladarse después a los precios minoristas. Un PPI elevado le da argumentos a la Fed para seguir subiendo tasas o mantenerlas altas por más tiempo. Para Argentina, esto importa porque tasas altas en EE.UU. fortalecen al dólar y complican el financiamiento de países emergentes.",
       "tags": [
         "inflación",
         "PPI",
@@ -53,13 +53,47 @@
       "tickers": []
     },
     {
-      "id": "treasury-yields-deficit",
+      "id": "tesoro-fmi-deuda",
       "type": "economia",
-      "title": "Tasas del Tesoro sobre el 5% y déficit de 2 billones: el mayor desafío económico de EE.UU.",
-      "summary": "Los rendimientos de los bonos del Tesoro americano a 10 años siguen por encima del 5%, encareciendo el crédito tanto para familias como para el propio gobierno, mientras el déficit no da señales de reducirse.",
-      "detail": "Cuando el rendimiento del bono del Tesoro a 10 años supera el 5%, se convierte en una referencia cara para todo el sistema financiero global: hipotecas, créditos corporativos y deuda soberana de otros países se encarecen en cadena. Para países como Argentina, esto implica un contexto internacional más adverso para refinanciar deuda o atraer inversión extranjera.",
+      "title": "El Tesoro de EE.UU. le contestó al FMI y rechazó sus advertencias sobre la deuda americana",
+      "summary": "El Departamento del Tesoro de EE.UU. salió a desestimar las advertencias del FMI sobre el nivel de deuda del país, que ya supera los 40 billones de dólares, mientras los rendimientos del bono a 10 años se mantienen por encima del 5%.",
+      "detail": "Cuando el FMI advierte sobre la deuda de un país, suele generar tensión en los mercados de bonos. Que el Tesoro rechace públicamente esas advertencias muestra la magnitud del conflicto: EE.UU. necesita seguir emitiendo deuda para financiar su déficit, pero hacerlo con tasas al 5% es cada vez más caro. Este tipo de dinámicas afectan a toda la economía global, incluyendo el flujo de capitales hacia o desde países emergentes como Argentina.",
       "tags": [
-        "bonos",
+        "FMI",
+        "deuda",
+        "bonos"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
+      "published_at": "2026-10-15T13:42:32Z",
+      "fecha_evento": "2026-10-15",
+      "tickers": []
+    },
+    {
+      "id": "imf-crecimiento-global-2026",
+      "type": "economia",
+      "title": "El FMI mejoró su pronóstico de crecimiento global al 3,1% pero advierte que la resistencia tiene límites",
+      "summary": "El Fondo Monetario Internacional revisó al alza su previsión de crecimiento mundial para 2026 hasta el 3,1%, impulsada en parte por el boom de la inteligencia artificial, aunque advierte que los riesgos fiscales y energéticos pueden frenar ese impulso.",
+      "detail": "El pronóstico del FMI es una referencia clave para los mercados globales: cuando sube, suele impulsar el apetito por activos de riesgo como acciones y bonos de emergentes. Que la IA aparezca como motor de crecimiento muestra cuánto peso tiene este sector en la economía real. Sin embargo, las advertencias sobre límites fiscales y energéticos recuerdan que el crecimiento no es ilimitado, y que shocks inesperados pueden revertir rápidamente el optimismo.",
+      "tags": [
+        "FMI",
+        "crecimiento global",
+        "inteligencia artificial"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
+      "published_at": "2026-10-15T06:35:31Z",
+      "fecha_evento": "2026-10-12",
+      "tickers": []
+    },
+    {
+      "id": "yields-deficit-desafio",
+      "type": "economia",
+      "title": "Un déficit de 2 billones y tasas al 5%: el mayor desafío económico de EE.UU.",
+      "summary": "Los rendimientos de los bonos del Tesoro estadounidense a 10 años por encima del 5% elevan el costo de financiamiento tanto para el gobierno como para las familias, justo cuando el déficit fiscal alcanza niveles récord.",
+      "detail": "Cuando las tasas suben, el gobierno paga más intereses por su deuda, lo que agranda aún más el déficit —un círculo vicioso. Al mismo tiempo, las hipotecas, los préstamos personales y el crédito corporativo se encarecen. Para un inversor que aprende finanzas, entender la relación entre déficit, emisión de deuda y tasas de interés es fundamental, porque estos mecanismos impactan en todos los activos financieros del mundo.",
+      "tags": [
+        "bonos del Tesoro",
         "tasas",
         "déficit"
       ],
@@ -70,96 +104,59 @@
       "tickers": []
     },
     {
-      "id": "imf-growth-forecast-2026",
+      "id": "china-tierras-raras-ue",
       "type": "economia",
-      "title": "El FMI mejoró su proyección de crecimiento global al 3,1% para 2026, pero advierte sobre riesgos fiscales",
-      "summary": "El Fondo Monetario Internacional subió su pronóstico de crecimiento mundial al 3,1% para 2026, impulsado en parte por el boom de la inteligencia artificial, aunque advirtió que la resiliencia global está llegando a sus límites.",
-      "detail": "El FMI actúa como árbitro de la salud económica mundial y sus proyecciones influyen en las decisiones de inversión globales. Que haya subido el pronóstico es una señal positiva, pero las advertencias sobre restricciones energéticas y riesgos fiscales indican que el crecimiento podría frenarse. Para Argentina, que negocia con el FMI, este contexto de riesgos fiscales globales es especialmente relevante.",
+      "title": "China le aseguró a Europa que seguirá exportando tierras raras, sin importar qué pase con el acuerdo comercial con EE.UU.",
+      "summary": "China indicó que continuará el flujo de tierras raras hacia la Unión Europea, incluso si expira el acuerdo comercial con Estados Unidos. El encuentro entre funcionarios de ambas partes se dio la semana pasada en Beijing.",
+      "detail": "Las tierras raras son minerales esenciales para fabricar autos eléctricos, semiconductores y equipos de defensa. China controla gran parte de su producción mundial, lo que le da un poder de negociación enorme. Que China garantice el suministro a Europa mientras tensiona con EE.UU. muestra cómo el comercio de materias primas estratégicas se convierte en una herramienta geopolítica. Esto afecta a industrias enteras y puede mover los precios de acciones de sectores como tecnología y automotriz.",
       "tags": [
-        "FMI",
-        "crecimiento",
-        "economía global"
+        "tierras raras",
+        "geopolítica",
+        "comercio"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
-      "published_at": "2026-10-15T06:35:31Z",
-      "fecha_evento": "2026-10-12",
+      "source_url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
+      "published_at": "2026-10-15T09:02:31Z",
+      "fecha_evento": "2026-10-15",
       "tickers": []
     },
     {
-      "id": "kfc-coca-cola-switch",
+      "id": "netflix-peter-rice",
       "type": "empresa",
-      "title": "KFC deja a PepsiCo y se pasa a Coca-Cola en sus restaurantes de EE.UU.",
-      "summary": "KFC anunció que reemplazará a PepsiCo por Coca-Cola como proveedor de bebidas en todos sus locales de Estados Unidos, por primera vez en décadas.",
-      "detail": "Este cambio es un ejemplo claro de cómo las relaciones comerciales entre grandes empresas pueden mover el precio de sus acciones. Coca-Cola gana un contrato masivo mientras PepsiCo pierde un cliente histórico. Para alguien que aprende finanzas, es un caso concreto de cómo las decisiones de negocio afectan los ingresos y la valuación de empresas que cotizan en bolsa.",
+      "title": "Netflix sumó a Peter Rice como su nuevo jefe de contenidos",
+      "summary": "Netflix incorporó a Peter Rice, un ejecutivo con amplia experiencia en televisión, cine, deportes en vivo y distribución teatral, para liderar su estrategia de contenidos.",
+      "detail": "El contenido es el principal activo de Netflix y el motor detrás de su crecimiento de suscriptores. La elección del responsable de contenidos define qué tipo de producciones veremos en los próximos años y, con eso, la capacidad de la empresa de retener y atraer usuarios. Para un inversor, los cambios en el liderazgo de áreas clave como esta pueden ser señales tempranas de un cambio de estrategia que luego se refleja en los resultados financieros.",
       "tags": [
-        "empresas",
-        "consumo",
-        "contratos"
+        "Netflix",
+        "medios",
+        "entretenimiento"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-      "published_at": "2026-10-16T11:02:24Z",
-      "fecha_evento": "2026-10-15",
-      "tickers": [
-        "KO",
-        "PEP",
-        "YUM"
-      ]
-    },
-    {
-      "id": "netflix-layoffs-2026",
-      "type": "empresa",
-      "title": "Netflix va a despedir a cerca de 1.000 empleados, el 6% de su plantilla",
-      "summary": "Netflix anunció que recortará aproximadamente el 6% de su fuerza laboral, según un memo interno obtenido por CNBC.",
-      "detail": "Los despidos masivos en empresas tecnológicas suelen responder a presiones para mejorar márgenes y reducir costos, especialmente cuando el crecimiento de ingresos se desacelera. Para inversores, estas noticias pueden ser señal de que la empresa busca ser más eficiente, lo que a veces impulsa el precio de la acción en el corto plazo, aunque también puede generar incertidumbre sobre el rumbo del negocio.",
-      "tags": [
-        "tecnología",
-        "despidos",
-        "empresas"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
-      "published_at": "2026-10-14T15:03:59Z",
-      "fecha_evento": "2026-10-14",
+      "source_url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
+      "published_at": "2026-10-16T19:40:00Z",
+      "fecha_evento": "2026-10-16",
       "tickers": [
         "NFLX"
       ]
     },
     {
-      "id": "oil-above-100",
-      "type": "mercado",
-      "title": "El petróleo volvió a superar los 100 dólares el barril",
-      "summary": "Los precios del petróleo se ubican nuevamente por encima de los 100 dólares, lo que convirtió al sector energético en el mayor ganador del mercado en lo que va del año.",
-      "detail": "El precio del petróleo por encima de 100 dólares tiene efectos en cadena: encarece el transporte, la energía y los alimentos a nivel global, alimentando la inflación. Para Argentina, que importa parte de sus derivados del petróleo, esto puede presionar la balanza comercial. Al mismo tiempo, un petróleo caro beneficia a los países productores y al sector energético en bolsa.",
+      "id": "kfc-coca-cola-pepsi",
+      "type": "empresa",
+      "title": "KFC reemplaza a Pepsi por Coca-Cola como proveedor de bebidas en sus locales de EE.UU.",
+      "summary": "Por primera vez en décadas, KFC va a servir bebidas de Coca-Cola en sus restaurantes de Estados Unidos, dejando atrás a PepsiCo. El cambio representa un golpe simbólico y comercial importante para ambas compañías.",
+      "detail": "Los contratos de distribución exclusiva de bebidas en cadenas de comida rápida son negocios millonarios que garantizan volumen de ventas y visibilidad de marca. Perder una cuenta como KFC implica para Pepsi no solo ingresos directos, sino también presencia en millones de puntos de venta. Para Coca-Cola, es una expansión de mercado relevante. Este tipo de acuerdos corporativos ilustra cómo la competencia entre grandes empresas se da también fuera de las góndolas de los supermercados.",
       "tags": [
-        "petróleo",
-        "energía",
-        "mercados"
+        "Coca-Cola",
+        "PepsiCo",
+        "consumo masivo"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/oil-prices-are-back-above-100-history-says-biggest-stock-market-loser-may-now-offer",
-      "published_at": "2026-10-17T10:25:00Z",
-      "fecha_evento": "2026-10-17",
-      "tickers": []
-    },
-    {
-      "id": "tech-sector-rotation",
-      "type": "mercado",
-      "title": "El sector tecnológico tuvo su peor semana en año y medio y el mercado se diversifica",
-      "summary": "El sector tech del S&P 500 registró su peor desempeño semanal en un año y medio, mientras que el índice ponderado de forma equitativa avanzó por segunda semana consecutiva, mostrando un giro en el liderazgo del mercado.",
-      "detail": "Cuando la tecnología cae pero el mercado en general sube, se habla de una 'rotación sectorial': los inversores sacan dinero de acciones tech y lo meten en otros sectores como energía, salud o finanzas. Este fenómeno es importante porque muestra que el mercado no depende solo de unas pocas empresas grandes, lo que puede ser una señal de mayor amplitud y solidez en la suba.",
-      "tags": [
-        "mercados",
-        "tecnología",
-        "rotación"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
-      "published_at": "2026-10-17T11:30:00Z",
-      "fecha_evento": "2026-10-17",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+      "published_at": "2026-10-16T11:02:24Z",
+      "fecha_evento": "2026-10-16",
       "tickers": [
-        "SPY"
+        "KO",
+        "PEP"
       ]
     }
   ],
@@ -190,9 +187,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.473",
-      "valor_num": 81473.0,
-      "delta_pct": -1.32
+      "valor": "US$ 81.007",
+      "valor_num": 81007.0,
+      "delta_pct": -0.73
     },
     {
       "label": "S&P 500",
