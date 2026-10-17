@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-16T22:01:05.218299+00:00",
+  "generated_at": "2026-10-17T12:01:04.401939+00:00",
   "items": [
     {
-      "id": "us-budget-deficit-2026",
+      "id": "us-deficit-2026",
       "type": "economia",
-      "title": "El déficit fiscal de EE.UU. llegó a casi 2 billones de dólares en el año fiscal 2026",
-      "summary": "El Departamento del Tesoro de EE.UU. publicó que el déficit presupuestario del año fiscal 2026 trepó a casi 2 billones de dólares, un 12% más que el año anterior.",
-      "detail": "El déficit fiscal es la diferencia entre lo que gasta un gobierno y lo que recauda. Cuando ese número crece año a año, el gobierno necesita emitir más deuda para financiarse, lo que puede presionar los rendimientos de los bonos del Tesoro al alza. Para Argentina, entender cómo EE.UU. maneja su déficit es clave porque los movimientos en los bonos del Tesoro afectan el costo de financiamiento de todos los países emergentes.",
+      "title": "El déficit fiscal de EE.UU. llegó a casi 2 billones de dólares en 2026",
+      "summary": "El Tesoro de EE.UU. confirmó que el déficit presupuestario del año fiscal 2026 rozó los 2 billones de dólares, un 12% más que el año anterior.",
+      "detail": "Un déficit tan grande significa que el gobierno gasta mucho más de lo que recauda. Para financiar esa diferencia emite deuda, lo que aumenta la oferta de bonos del Tesoro y puede presionar las tasas de interés al alza. Esto tiene efecto global: cuando los rendimientos de los bonos americanos suben, los capitales tienden a fluir hacia EE.UU. y se alejan de mercados emergentes como Argentina.",
       "tags": [
-        "déficit fiscal",
+        "déficit",
         "deuda",
         "EE.UU."
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-      "published_at": "2026-10-16T18:00:15Z",
+      "published_at": "2026-10-16T22:34:29Z",
       "fecha_evento": "2026-10-16",
       "tickers": []
     },
     {
-      "id": "fed-warsh-octubre-tasas",
+      "id": "fed-warsh-octubre",
       "type": "reunion",
-      "title": "La reunión de la Fed en octubre: ¿Kevin Warsh puede sorprender con una suba de tasas?",
-      "summary": "Aunque los inversores esperan que la Fed mantenga las tasas sin cambios en octubre, el comportamiento poco convencional de Kevin Warsh y su preocupación por la inflación generan incertidumbre sobre la decisión.",
-      "detail": "Generalmente, la Fed telegrafía sus decisiones antes de las reuniones para no sorprender a los mercados. Si Warsh rompe esa tradición de comunicación, cualquier movimiento inesperado puede generar volatilidad fuerte en acciones, bonos y monedas emergentes como el peso. Entender cómo los bancos centrales comunican sus decisiones es una lección fundamental en finanzas.",
+      "title": "La Fed se reúne en octubre y Warsh podría sorprender con una suba de tasas",
+      "summary": "Los inversores esperan que la Reserva Federal mantenga las tasas sin cambios en octubre, pero el presidente Kevin Warsh generó incertidumbre por su estilo poco convencional y su preocupación por la inflación.",
+      "detail": "Warsh rechaza las prácticas de comunicación tradicionales de la Fed, lo que hace más difícil anticipar su decisión. En un contexto de inflación elevada y datos de precios al productor que sorprendieron al alza, existe la posibilidad de una suba inesperada. Para inversores, la incertidumbre sobre las tasas afecta directamente el valor de bonos, acciones y monedas a nivel global.",
       "tags": [
         "Fed",
-        "tasas de interés",
-        "política monetaria"
+        "tasas",
+        "inflación"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
@@ -36,11 +36,11 @@
       "tickers": []
     },
     {
-      "id": "ppi-septiembre-inflacion-mayorista",
+      "id": "ppi-septiembre-2026",
       "type": "economia",
       "title": "Los precios mayoristas en EE.UU. subieron 6,3% anual en septiembre, el mayor salto desde 2022",
-      "summary": "El índice de precios al productor (PPI) de septiembre subió 6,3% respecto al año anterior, superando las expectativas del mercado que proyectaban un 5,5%.",
-      "detail": "El PPI mide cuánto pagan las empresas por los insumos que usan para producir bienes y servicios. Cuando sube más de lo esperado, suele anticipar que la inflación al consumidor también va a subir, porque las empresas trasladan esos costos a los precios finales. Este dato refuerza la presión sobre la Fed para que siga subiendo tasas, lo que encarece el crédito a nivel global.",
+      "summary": "El índice de precios al productor (PPI) de septiembre mostró un alza del 6,3% interanual, superando las expectativas del mercado que esperaban un 5,5%.",
+      "detail": "El PPI mide cuánto pagan los productores por sus insumos y suele anticipar movimientos en los precios al consumidor. Un dato tan alto refuerza la idea de que la inflación en EE.UU. no cede, lo que aumenta la presión sobre la Fed para seguir subiendo tasas. Tasas más altas en EE.UU. fortalecen al dólar y encarecen el financiamiento para países emergentes.",
       "tags": [
         "inflación",
         "PPI",
@@ -53,49 +53,32 @@
       "tickers": []
     },
     {
-      "id": "tesoro-fmi-deuda",
+      "id": "treasury-yields-deficit",
       "type": "economia",
-      "title": "El Tesoro de EE.UU. rechazó las advertencias del FMI sobre la deuda y sus proyecciones",
-      "summary": "El Departamento del Tesoro de EE.UU. desestimó las advertencias del FMI sobre la deuda pública, que ya supera los 40 billones de dólares, mientras los rendimientos de los bonos a 10 años se mantienen por encima del 5%.",
-      "detail": "El FMI suele actuar como auditor financiero global y cuando advierte sobre la deuda de la economía más grande del mundo, los mercados prestan atención. Que el Tesoro rechace esas advertencias genera tensión: si los inversores pierden confianza en la sustentabilidad fiscal de EE.UU., los rendimientos de los bonos pueden seguir subiendo, afectando el costo de financiamiento de países emergentes como Argentina.",
+      "title": "Tasas del Tesoro sobre el 5% y déficit de 2 billones: el mayor desafío económico de EE.UU.",
+      "summary": "Los rendimientos de los bonos del Tesoro americano a 10 años siguen por encima del 5%, encareciendo el crédito tanto para familias como para el propio gobierno, mientras el déficit no da señales de reducirse.",
+      "detail": "Cuando el rendimiento del bono del Tesoro a 10 años supera el 5%, se convierte en una referencia cara para todo el sistema financiero global: hipotecas, créditos corporativos y deuda soberana de otros países se encarecen en cadena. Para países como Argentina, esto implica un contexto internacional más adverso para refinanciar deuda o atraer inversión extranjera.",
       "tags": [
-        "FMI",
-        "deuda",
-        "bonos del Tesoro"
+        "bonos",
+        "tasas",
+        "déficit"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-      "published_at": "2026-10-15T13:42:32Z",
+      "source_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "published_at": "2026-10-16T22:33:05Z",
       "fecha_evento": "2026-10-15",
       "tickers": []
     },
     {
-      "id": "cpi-septiembre-inflacion",
+      "id": "imf-growth-forecast-2026",
       "type": "economia",
-      "title": "La inflación al consumidor en EE.UU. llegó al 3,7% anual en septiembre",
-      "summary": "El índice de precios al consumidor (CPI) de septiembre subió 3,7% respecto al año anterior, impulsado en parte por el alza en el precio de la nafta, superando el 3,6% que esperaba el mercado.",
-      "detail": "El CPI es el indicador de inflación más seguido por los mercados y la Fed. Cuando supera las expectativas, los inversores descuentan que el banco central va a mantener —o incluso subir— las tasas de interés por más tiempo. Tasas más altas en EE.UU. hacen que el dólar se fortalezca y que los capitales salgan de mercados emergentes, lo que puede presionar al peso y a los activos argentinos.",
-      "tags": [
-        "inflación",
-        "CPI",
-        "Fed"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-      "published_at": "2026-10-14T13:53:28Z",
-      "fecha_evento": "2026-10-14",
-      "tickers": []
-    },
-    {
-      "id": "imf-crecimiento-global-2026",
-      "type": "economia",
-      "title": "El FMI subió su pronóstico de crecimiento global al 3,1% para 2026, con el boom de la IA como motor",
-      "summary": "El FMI revisó al alza su proyección de crecimiento mundial a 3,1% para 2026, destacando que el auge de la inteligencia artificial ayuda a compensar el impacto de conflictos bélicos, aunque advierte que la resiliencia global tiene límites.",
-      "detail": "Las proyecciones del FMI son una referencia clave para inversores de todo el mundo porque marcan el tono del entorno económico global. Un crecimiento mayor al esperado puede mejorar la demanda de materias primas que exporta Argentina, mientras que los riesgos fiscales que menciona el FMI recuerdan que la estabilidad no está garantizada. Entender estos pronósticos ayuda a anticipar cómo puede moverse el precio de los commodities y el flujo de capitales.",
+      "title": "El FMI mejoró su proyección de crecimiento global al 3,1% para 2026, pero advierte sobre riesgos fiscales",
+      "summary": "El Fondo Monetario Internacional subió su pronóstico de crecimiento mundial al 3,1% para 2026, impulsado en parte por el boom de la inteligencia artificial, aunque advirtió que la resiliencia global está llegando a sus límites.",
+      "detail": "El FMI actúa como árbitro de la salud económica mundial y sus proyecciones influyen en las decisiones de inversión globales. Que haya subido el pronóstico es una señal positiva, pero las advertencias sobre restricciones energéticas y riesgos fiscales indican que el crecimiento podría frenarse. Para Argentina, que negocia con el FMI, este contexto de riesgos fiscales globales es especialmente relevante.",
       "tags": [
         "FMI",
-        "crecimiento global",
-        "inteligencia artificial"
+        "crecimiento",
+        "economía global"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
@@ -104,34 +87,36 @@
       "tickers": []
     },
     {
-      "id": "nasdaq-caida-tech",
-      "type": "mercado",
-      "title": "El Nasdaq cayó a su nivel más bajo en un mes por una nueva ola de ventas en tecnología",
-      "summary": "Las acciones tecnológicas lideraron las pérdidas el viernes, llevando al Nasdaq a su cierre más bajo en un mes.",
-      "detail": "El Nasdaq es el índice más representativo de las grandes empresas tecnológicas como Apple, Nvidia o Meta. Cuando cae bruscamente, suele reflejar que los inversores ajustan sus expectativas sobre las ganancias futuras de esas empresas o temen que las tasas de interés altas sigan golpeando a los activos de mayor riesgo. Para quien aprende finanzas, este movimiento ilustra cómo los datos de inflación y las decisiones de la Fed impactan directamente en los mercados de acciones.",
+      "id": "kfc-coca-cola-switch",
+      "type": "empresa",
+      "title": "KFC deja a PepsiCo y se pasa a Coca-Cola en sus restaurantes de EE.UU.",
+      "summary": "KFC anunció que reemplazará a PepsiCo por Coca-Cola como proveedor de bebidas en todos sus locales de Estados Unidos, por primera vez en décadas.",
+      "detail": "Este cambio es un ejemplo claro de cómo las relaciones comerciales entre grandes empresas pueden mover el precio de sus acciones. Coca-Cola gana un contrato masivo mientras PepsiCo pierde un cliente histórico. Para alguien que aprende finanzas, es un caso concreto de cómo las decisiones de negocio afectan los ingresos y la valuación de empresas que cotizan en bolsa.",
       "tags": [
-        "Nasdaq",
-        "tecnología",
-        "mercados"
+        "empresas",
+        "consumo",
+        "contratos"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/nasdaq-plunges-one-month-low-amid-renewed-tech-sell",
-      "published_at": "2026-10-16T20:22:56Z",
-      "fecha_evento": "2026-10-16",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
+      "published_at": "2026-10-16T11:02:24Z",
+      "fecha_evento": "2026-10-15",
       "tickers": [
-        "QQQ"
+        "KO",
+        "PEP",
+        "YUM"
       ]
     },
     {
       "id": "netflix-layoffs-2026",
       "type": "empresa",
-      "title": "Netflix va a despedir a alrededor de 1.000 empleados, el 6% de su plantel",
-      "summary": "Netflix anunció que reducirá su fuerza laboral en aproximadamente un 6%, según un memo interno obtenido por CNBC.",
-      "detail": "Los despidos masivos en empresas grandes suelen ser una señal de que la compañía busca reducir costos para mejorar su rentabilidad o adaptarse a un entorno más difícil. En el contexto de tasas de interés altas, las empresas de crecimiento como Netflix enfrentan más presión para mostrar ganancias reales en lugar de crecer a cualquier costo. Este tipo de decisiones también afecta el precio de la acción en el corto plazo.",
+      "title": "Netflix va a despedir a cerca de 1.000 empleados, el 6% de su plantilla",
+      "summary": "Netflix anunció que recortará aproximadamente el 6% de su fuerza laboral, según un memo interno obtenido por CNBC.",
+      "detail": "Los despidos masivos en empresas tecnológicas suelen responder a presiones para mejorar márgenes y reducir costos, especialmente cuando el crecimiento de ingresos se desacelera. Para inversores, estas noticias pueden ser señal de que la empresa busca ser más eficiente, lo que a veces impulsa el precio de la acción en el corto plazo, aunque también puede generar incertidumbre sobre el rumbo del negocio.",
       "tags": [
-        "Netflix",
+        "tecnología",
         "despidos",
-        "empresas tech"
+        "empresas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/14/netflix-layoffs.html",
@@ -142,23 +127,39 @@
       ]
     },
     {
-      "id": "kfc-coca-cola-pepsi",
-      "type": "empresa",
-      "title": "KFC va a reemplazar a Pepsi por Coca-Cola como proveedor de bebidas en sus locales de EE.UU.",
-      "summary": "KFC anunció que cambiará de PepsiCo a Coca-Cola como su proveedor oficial de bebidas en todos sus restaurantes de Estados Unidos, algo que no ocurría desde hace décadas.",
-      "detail": "Los contratos de distribución exclusiva entre grandes cadenas de comida rápida y empresas de bebidas son negocios multimillonarios que afectan directamente los ingresos de PepsiCo y Coca-Cola. Este cambio muestra cómo las empresas de consumo masivo compiten por espacios de distribución clave, y puede impactar en los resultados financieros de ambas compañías. Es un ejemplo concreto de cómo las decisiones comerciales se traducen en movimientos de acciones.",
+      "id": "oil-above-100",
+      "type": "mercado",
+      "title": "El petróleo volvió a superar los 100 dólares el barril",
+      "summary": "Los precios del petróleo se ubican nuevamente por encima de los 100 dólares, lo que convirtió al sector energético en el mayor ganador del mercado en lo que va del año.",
+      "detail": "El precio del petróleo por encima de 100 dólares tiene efectos en cadena: encarece el transporte, la energía y los alimentos a nivel global, alimentando la inflación. Para Argentina, que importa parte de sus derivados del petróleo, esto puede presionar la balanza comercial. Al mismo tiempo, un petróleo caro beneficia a los países productores y al sector energético en bolsa.",
       "tags": [
-        "Coca-Cola",
-        "PepsiCo",
-        "consumo masivo"
+        "petróleo",
+        "energía",
+        "mercados"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-      "published_at": "2026-10-16T11:02:24Z",
-      "fecha_evento": "2026-10-15",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/oil-prices-are-back-above-100-history-says-biggest-stock-market-loser-may-now-offer",
+      "published_at": "2026-10-17T10:25:00Z",
+      "fecha_evento": "2026-10-17",
+      "tickers": []
+    },
+    {
+      "id": "tech-sector-rotation",
+      "type": "mercado",
+      "title": "El sector tecnológico tuvo su peor semana en año y medio y el mercado se diversifica",
+      "summary": "El sector tech del S&P 500 registró su peor desempeño semanal en un año y medio, mientras que el índice ponderado de forma equitativa avanzó por segunda semana consecutiva, mostrando un giro en el liderazgo del mercado.",
+      "detail": "Cuando la tecnología cae pero el mercado en general sube, se habla de una 'rotación sectorial': los inversores sacan dinero de acciones tech y lo meten en otros sectores como energía, salud o finanzas. Este fenómeno es importante porque muestra que el mercado no depende solo de unas pocas empresas grandes, lo que puede ser una señal de mayor amplitud y solidez en la suba.",
+      "tags": [
+        "mercados",
+        "tecnología",
+        "rotación"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T11:30:00Z",
+      "fecha_evento": "2026-10-17",
       "tickers": [
-        "KO",
-        "PEP"
+        "SPY"
       ]
     }
   ],
@@ -167,31 +168,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.535",
       "valor_num": 1535.0,
-      "delta_pct": 0.0
+      "delta_pct": 0.33
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.555",
       "valor_num": 1555.0,
-      "delta_pct": 0.32
+      "delta_pct": 0.65
     },
     {
       "label": "MEP",
       "valor": "$1.542",
       "valor_num": 1542.5,
-      "delta_pct": 0.18
+      "delta_pct": 0.42
     },
     {
       "label": "CCL",
       "valor": "$1.620",
       "valor_num": 1620.5,
-      "delta_pct": 0.2
+      "delta_pct": 0.28
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.613",
-      "valor_num": 81613.0,
-      "delta_pct": -0.9
+      "valor": "US$ 81.473",
+      "valor_num": 81473.0,
+      "delta_pct": -1.32
     },
     {
       "label": "S&P 500",
@@ -201,9 +202,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.187",
-      "valor_num": 4186.7,
-      "delta_pct": -0.09
+      "valor": "US$ 4.181",
+      "valor_num": 4181.1,
+      "delta_pct": -0.23
     }
   ]
 }
