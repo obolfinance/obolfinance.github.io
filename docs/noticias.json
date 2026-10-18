@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-17T22:01:10.814615+00:00",
+  "generated_at": "2026-10-18T12:01:07.787804+00:00",
   "items": [
     {
       "id": "us-deficit-2026",
       "type": "economia",
-      "title": "El déficit fiscal de EE.UU. trepó a casi 2 billones de dólares en el año fiscal 2026",
-      "summary": "El Tesoro de EE.UU. confirmó que el déficit fiscal del año fiscal 2026 llegó a casi 2 billones de dólares, un 12% más que el año anterior. Es uno de los déficits más grandes de la historia reciente del país.",
-      "detail": "Un déficit fiscal significa que el gobierno gasta mucho más de lo que recauda. Para financiar esa diferencia, emite deuda (bonos del Tesoro). Cuando el déficit crece, el gobierno necesita emitir más bonos, lo que puede presionar las tasas de interés al alza —ya que tiene que ofrecer mejores rendimientos para atraer compradores. Esto encarece el crédito para todos: empresas, familias y otros países. Entender el déficit fiscal de la economía más grande del mundo es clave para comprender por qué las tasas globales se mantienen altas.",
+      "title": "El déficit fiscal de EE.UU. llegó a casi 2 billones de dólares en el año fiscal 2026",
+      "summary": "El Departamento del Tesoro de EE.UU. publicó que el déficit fiscal del año 2026 creció un 12% respecto al año anterior, rozando los 2 billones de dólares.",
+      "detail": "El déficit fiscal es la diferencia entre lo que gasta un gobierno y lo que recauda. Cuando ese número crece, el gobierno necesita emitir más deuda para financiarse, lo que puede presionar las tasas de interés al alza. Para alguien aprendiendo finanzas, este dato es clave porque el nivel de deuda de un país afecta la confianza de los mercados y el costo del crédito a nivel global.",
       "tags": [
         "déficit",
-        "deuda pública",
+        "deuda",
         "EE.UU."
       ],
       "source_name": "CNBC",
@@ -21,12 +21,12 @@
     {
       "id": "fed-warsh-octubre",
       "type": "reunion",
-      "title": "La reunión de la Fed en octubre genera incertidumbre: ¿Kevin Warsh puede sorprender con una suba de tasas?",
-      "summary": "Los mercados esperan que la Reserva Federal mantenga las tasas sin cambios en su reunión de octubre, pero el perfil poco convencional de Kevin Warsh y su preocupación por la inflación generan dudas sobre qué puede pasar.",
-      "detail": "Normalmente, la Fed telegrafía sus decisiones con semanas de anticipación a través de discursos y comunicados. Warsh parece alejarse de esa práctica, lo que genera mayor incertidumbre en los mercados. Cuando la Fed sube tasas, se encarecen los créditos y cae el atractivo de las acciones; cuando las mantiene, los mercados suelen respirar. Seguir de cerca las señales de los bancos centrales es una habilidad esencial para cualquier inversor.",
+      "title": "¿La Fed va a sorprender en octubre? Kevin Warsh desafía las expectativas del mercado",
+      "summary": "Los inversores esperan que la Reserva Federal no suba las tasas en octubre, pero el estilo poco convencional de Kevin Warsh y su preocupación por la inflación generan incertidumbre sobre qué puede pasar.",
+      "detail": "La Fed comunica sus decisiones de política monetaria de forma bastante predecible, lo que le da estabilidad a los mercados. Si Warsh rompe con esa tradición, puede generar volatilidad inesperada. Entender cómo los bancos centrales manejan las expectativas es fundamental en finanzas: a veces el anuncio importa tanto como la decisión en sí.",
       "tags": [
         "Fed",
-        "tasas de interés",
+        "tasas",
         "política monetaria"
       ],
       "source_name": "CNBC",
@@ -39,8 +39,8 @@
       "id": "ppi-septiembre-inflacion",
       "type": "economia",
       "title": "Los precios mayoristas en EE.UU. subieron 6,3% anual en septiembre, el mayor salto desde 2022",
-      "summary": "El índice de precios al productor (PPI) de septiembre subió 6,3% en términos anuales, muy por encima de lo esperado. Esto reaviva los temores de que la inflación en EE.UU. todavía no está controlada.",
-      "detail": "El PPI mide cuánto pagan las empresas por sus insumos antes de vender al consumidor final. Cuando sube fuerte, suele trasladarse después a los precios minoristas. Un PPI elevado le da argumentos a la Fed para seguir subiendo tasas o mantenerlas altas por más tiempo. Para Argentina, esto importa porque tasas altas en EE.UU. fortalecen al dólar y complican el financiamiento de países emergentes.",
+      "summary": "El índice de precios al productor (PPI) de septiembre subió 6,3% en términos anuales, superando las estimaciones del mercado y encendiendo alertas sobre inflación persistente.",
+      "detail": "El PPI mide cuánto pagan las empresas por los insumos antes de que lleguen al consumidor final. Cuando sube fuerte, suele anticipar que los precios al consumidor también van a subir. Esto le da más argumentos a la Fed para mantener o incluso subir las tasas de interés, algo que impacta en el costo del crédito y en los mercados de todo el mundo, incluida Argentina.",
       "tags": [
         "inflación",
         "PPI",
@@ -55,12 +55,12 @@
     {
       "id": "tesoro-fmi-deuda",
       "type": "economia",
-      "title": "El Tesoro de EE.UU. le contestó al FMI y rechazó sus advertencias sobre la deuda americana",
-      "summary": "El Departamento del Tesoro de EE.UU. salió a desestimar las advertencias del FMI sobre el nivel de deuda del país, que ya supera los 40 billones de dólares, mientras los rendimientos del bono a 10 años se mantienen por encima del 5%.",
-      "detail": "Cuando el FMI advierte sobre la deuda de un país, suele generar tensión en los mercados de bonos. Que el Tesoro rechace públicamente esas advertencias muestra la magnitud del conflicto: EE.UU. necesita seguir emitiendo deuda para financiar su déficit, pero hacerlo con tasas al 5% es cada vez más caro. Este tipo de dinámicas afectan a toda la economía global, incluyendo el flujo de capitales hacia o desde países emergentes como Argentina.",
+      "title": "El Tesoro de EE.UU. rechazó las advertencias del FMI sobre la deuda americana",
+      "summary": "El Departamento del Tesoro de EE.UU. descartó las alertas del FMI sobre el nivel de deuda del país, que ya supera los 40 billones de dólares, mientras las tasas de los bonos a 10 años siguen por encima del 5%.",
+      "detail": "El FMI suele advertir cuando la deuda de un país crece a un ritmo insostenible. Que EE.UU. rechace esas advertencias es notable porque los bonos del Tesoro americano son considerados el activo 'libre de riesgo' del mundo. Si los mercados empiezan a dudar de la solidez fiscal de EE.UU., las tasas pueden seguir subiendo, encareciendo el crédito globalmente y afectando a economías emergentes como Argentina.",
       "tags": [
-        "FMI",
         "deuda",
+        "FMI",
         "bonos"
       ],
       "source_name": "CNBC",
@@ -70,31 +70,14 @@
       "tickers": []
     },
     {
-      "id": "imf-crecimiento-global-2026",
-      "type": "economia",
-      "title": "El FMI mejoró su pronóstico de crecimiento global al 3,1% pero advierte que la resistencia tiene límites",
-      "summary": "El Fondo Monetario Internacional revisó al alza su previsión de crecimiento mundial para 2026 hasta el 3,1%, impulsada en parte por el boom de la inteligencia artificial, aunque advierte que los riesgos fiscales y energéticos pueden frenar ese impulso.",
-      "detail": "El pronóstico del FMI es una referencia clave para los mercados globales: cuando sube, suele impulsar el apetito por activos de riesgo como acciones y bonos de emergentes. Que la IA aparezca como motor de crecimiento muestra cuánto peso tiene este sector en la economía real. Sin embargo, las advertencias sobre límites fiscales y energéticos recuerdan que el crecimiento no es ilimitado, y que shocks inesperados pueden revertir rápidamente el optimismo.",
+      "id": "rendimientos-bonos-deficit",
+      "type": "mercado",
+      "title": "Tasas del Tesoro arriba del 5% y déficit de 2 billones: el gran desafío económico de EE.UU.",
+      "summary": "Los rendimientos de los bonos del Tesoro americano a 10 años superan el 5%, lo que encarece tanto el crédito de los hogares como el financiamiento del propio gobierno, en un contexto de déficit histórico.",
+      "detail": "Cuando las tasas de los bonos soberanos de EE.UU. suben, todo el mundo se ve afectado: los países emergentes ven cómo el capital se va hacia activos más seguros y sus propias tasas también suben. Para alguien aprendiendo finanzas, este es un ejemplo claro de cómo la política fiscal y la monetaria se retroalimentan y tienen efectos globales.",
       "tags": [
-        "FMI",
-        "crecimiento global",
-        "inteligencia artificial"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html",
-      "published_at": "2026-10-15T06:35:31Z",
-      "fecha_evento": "2026-10-12",
-      "tickers": []
-    },
-    {
-      "id": "yields-deficit-desafio",
-      "type": "economia",
-      "title": "Un déficit de 2 billones y tasas al 5%: el mayor desafío económico de EE.UU.",
-      "summary": "Los rendimientos de los bonos del Tesoro estadounidense a 10 años por encima del 5% elevan el costo de financiamiento tanto para el gobierno como para las familias, justo cuando el déficit fiscal alcanza niveles récord.",
-      "detail": "Cuando las tasas suben, el gobierno paga más intereses por su deuda, lo que agranda aún más el déficit —un círculo vicioso. Al mismo tiempo, las hipotecas, los préstamos personales y el crédito corporativo se encarecen. Para un inversor que aprende finanzas, entender la relación entre déficit, emisión de deuda y tasas de interés es fundamental, porque estos mecanismos impactan en todos los activos financieros del mundo.",
-      "tags": [
-        "bonos del Tesoro",
-        "tasas",
+        "bonos",
+        "rendimientos",
         "déficit"
       ],
       "source_name": "CNBC",
@@ -104,32 +87,15 @@
       "tickers": []
     },
     {
-      "id": "china-tierras-raras-ue",
-      "type": "economia",
-      "title": "China le aseguró a Europa que seguirá exportando tierras raras, sin importar qué pase con el acuerdo comercial con EE.UU.",
-      "summary": "China indicó que continuará el flujo de tierras raras hacia la Unión Europea, incluso si expira el acuerdo comercial con Estados Unidos. El encuentro entre funcionarios de ambas partes se dio la semana pasada en Beijing.",
-      "detail": "Las tierras raras son minerales esenciales para fabricar autos eléctricos, semiconductores y equipos de defensa. China controla gran parte de su producción mundial, lo que le da un poder de negociación enorme. Que China garantice el suministro a Europa mientras tensiona con EE.UU. muestra cómo el comercio de materias primas estratégicas se convierte en una herramienta geopolítica. Esto afecta a industrias enteras y puede mover los precios de acciones de sectores como tecnología y automotriz.",
-      "tags": [
-        "tierras raras",
-        "geopolítica",
-        "comercio"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "published_at": "2026-10-15T09:02:31Z",
-      "fecha_evento": "2026-10-15",
-      "tickers": []
-    },
-    {
       "id": "netflix-peter-rice",
       "type": "empresa",
       "title": "Netflix sumó a Peter Rice como su nuevo jefe de contenidos",
-      "summary": "Netflix incorporó a Peter Rice, un ejecutivo con amplia experiencia en televisión, cine, deportes en vivo y distribución teatral, para liderar su estrategia de contenidos.",
-      "detail": "El contenido es el principal activo de Netflix y el motor detrás de su crecimiento de suscriptores. La elección del responsable de contenidos define qué tipo de producciones veremos en los próximos años y, con eso, la capacidad de la empresa de retener y atraer usuarios. Para un inversor, los cambios en el liderazgo de áreas clave como esta pueden ser señales tempranas de un cambio de estrategia que luego se refleja en los resultados financieros.",
+      "summary": "Netflix incorporó a Peter Rice, un ejecutivo con amplia trayectoria en televisión, cine, deportes en vivo y distribución teatral, para liderar su área de contenidos.",
+      "detail": "El contenido es el principal diferenciador de Netflix frente a sus competidores en el mercado de streaming. La contratación de un ejecutivo de alto perfil indica que la empresa apuesta por consolidar y expandir su oferta, lo que puede influir en los resultados financieros futuros y en la percepción de los inversores sobre el valor de la compañía.",
       "tags": [
         "Netflix",
-        "medios",
-        "entretenimiento"
+        "entretenimiento",
+        "management"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
@@ -140,24 +106,78 @@
       ]
     },
     {
-      "id": "kfc-coca-cola-pepsi",
+      "id": "kfc-coca-cola",
       "type": "empresa",
-      "title": "KFC reemplaza a Pepsi por Coca-Cola como proveedor de bebidas en sus locales de EE.UU.",
-      "summary": "Por primera vez en décadas, KFC va a servir bebidas de Coca-Cola en sus restaurantes de Estados Unidos, dejando atrás a PepsiCo. El cambio representa un golpe simbólico y comercial importante para ambas compañías.",
-      "detail": "Los contratos de distribución exclusiva de bebidas en cadenas de comida rápida son negocios millonarios que garantizan volumen de ventas y visibilidad de marca. Perder una cuenta como KFC implica para Pepsi no solo ingresos directos, sino también presencia en millones de puntos de venta. Para Coca-Cola, es una expansión de mercado relevante. Este tipo de acuerdos corporativos ilustra cómo la competencia entre grandes empresas se da también fuera de las góndolas de los supermercados.",
+      "title": "KFC cambia a Coca-Cola como proveedor de bebidas en EE.UU. después de décadas con Pepsi",
+      "summary": "KFC anunció que reemplazará a PepsiCo por Coca-Cola como su proveedor exclusivo de bebidas en todos sus restaurantes de Estados Unidos.",
+      "detail": "Los contratos de exclusividad entre cadenas de comida rápida y grandes bebideras son millonarios y muy disputados. Este cambio implica una pérdida de ingresos y visibilidad para PepsiCo y una ganancia equivalente para Coca-Cola. Para un inversor, estos acuerdos comerciales pueden impactar en los resultados trimestrales de ambas compañías.",
       "tags": [
         "Coca-Cola",
         "PepsiCo",
-        "consumo masivo"
+        "consumo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
       "published_at": "2026-10-16T11:02:24Z",
-      "fecha_evento": "2026-10-16",
+      "fecha_evento": "2026-10-15",
       "tickers": [
         "KO",
-        "PEP"
+        "PEP",
+        "YUM"
       ]
+    },
+    {
+      "id": "plata-caida-economia",
+      "type": "mercado",
+      "title": "La plata cayó más del 50% desde su máximo histórico y algunos lo ven como señal de desaceleración",
+      "summary": "El precio de la plata acumula una baja de más del 50% desde el récord que tocó a principios de este año, y algunos analistas lo interpretan como una señal anticipada de enfriamiento económico global.",
+      "detail": "La plata es un commodity con doble función: se usa tanto como reserva de valor (similar al oro) como insumo industrial. Cuando la economía se desacelera, la demanda industrial cae y su precio baja. Seguir los precios de commodities como la plata es una herramienta útil para anticipar tendencias económicas antes de que aparezcan en los datos oficiales.",
+      "tags": [
+        "commodities",
+        "plata",
+        "desaceleración"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T12:30:00Z",
+      "fecha_evento": "2026-10-17",
+      "tickers": []
+    },
+    {
+      "id": "apple-iphone-duo",
+      "type": "empresa",
+      "title": "Apple abrió los pedidos anticipados de su primer iPhone plegable, el iPhone Duo, a 2.000 dólares",
+      "summary": "Apple lanzó las preventas del iPhone Duo, su primer teléfono plegable, ingresando a un mercado hasta ahora dominado por Samsung y Google.",
+      "detail": "El ingreso de Apple al segmento de teléfonos plegables es un movimiento estratégico importante: la empresa suele transformar mercados nicho en masivos. El precio de 2.000 dólares posiciona al producto en el segmento premium y podría impulsar los ingresos de la compañía. Para los inversores, estos lanzamientos son catalizadores que suelen mover el precio de la acción.",
+      "tags": [
+        "Apple",
+        "tecnología",
+        "lanzamiento"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T18:40:00Z",
+      "fecha_evento": "2026-10-17",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "sp500-guidance-positiva",
+      "type": "mercado",
+      "title": "Récord de empresas del S&P 500 dieron señales positivas antes de la temporada de resultados",
+      "summary": "Según FactSet, 72 empresas del S&P 500 emitieron guías optimistas para el tercer trimestre, la cifra más alta desde que se empezó a registrar ese dato en 2006.",
+      "detail": "La 'guidance' es cuando una empresa anticipa cómo espera que sean sus resultados. Cuando muchas compañías dan señales positivas antes de reportar, suele ser una buena señal para el mercado de acciones. Este dato es relevante para entender el estado de salud general de las empresas americanas y el contexto en el que se está desarrollando la actual temporada de balances.",
+      "tags": [
+        "S&P 500",
+        "resultados",
+        "mercado"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/record-number-sp-500-companies-issued-upbeat-guidance-earnings-season-should-you-buy-index",
+      "published_at": "2026-10-18T09:37:02Z",
+      "fecha_evento": "2026-10-18",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -165,31 +185,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.535",
       "valor_num": 1535.0,
-      "delta_pct": 0.33
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.555",
       "valor_num": 1555.0,
-      "delta_pct": 0.65
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.542",
       "valor_num": 1542.5,
-      "delta_pct": 0.42
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
       "valor": "$1.620",
       "valor_num": 1620.5,
-      "delta_pct": 0.28
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.007",
-      "valor_num": 81007.0,
-      "delta_pct": -0.73
+      "valor": "US$ 81.960",
+      "valor_num": 81960.0,
+      "delta_pct": 0.59
     },
     {
       "label": "S&P 500",
@@ -201,7 +221,7 @@
       "label": "ORO (ONZA)",
       "valor": "US$ 4.181",
       "valor_num": 4181.1,
-      "delta_pct": -0.23
+      "delta_pct": 0.09
     }
   ]
 }
