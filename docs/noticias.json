@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-18T12:01:07.787804+00:00",
+  "generated_at": "2026-10-18T22:00:53.952123+00:00",
   "items": [
     {
       "id": "us-deficit-2026",
       "type": "economia",
       "title": "El déficit fiscal de EE.UU. llegó a casi 2 billones de dólares en el año fiscal 2026",
-      "summary": "El Departamento del Tesoro de EE.UU. publicó que el déficit fiscal del año 2026 creció un 12% respecto al año anterior, rozando los 2 billones de dólares.",
-      "detail": "El déficit fiscal es la diferencia entre lo que gasta un gobierno y lo que recauda. Cuando ese número crece, el gobierno necesita emitir más deuda para financiarse, lo que puede presionar las tasas de interés al alza. Para alguien aprendiendo finanzas, este dato es clave porque el nivel de deuda de un país afecta la confianza de los mercados y el costo del crédito a nivel global.",
+      "summary": "El Departamento del Tesoro de EE.UU. confirmó que el déficit presupuestario del año fiscal 2026 creció un 12% en un solo año, alcanzando casi 2 billones de dólares.",
+      "detail": "Un déficit fiscal tan grande significa que el gobierno gasta mucho más de lo que recauda. Para financiar esa diferencia, emite deuda (bonos del Tesoro), lo que aumenta la oferta de bonos en el mercado y puede presionar las tasas de interés hacia arriba. Entender este mecanismo es clave para comprender por qué los rendimientos de los bonos americanos influyen en mercados de todo el mundo, incluyendo Argentina.",
       "tags": [
-        "déficit",
-        "deuda",
+        "déficit fiscal",
+        "deuda pública",
         "EE.UU."
       ],
       "source_name": "CNBC",
@@ -19,66 +19,15 @@
       "tickers": []
     },
     {
-      "id": "fed-warsh-octubre",
-      "type": "reunion",
-      "title": "¿La Fed va a sorprender en octubre? Kevin Warsh desafía las expectativas del mercado",
-      "summary": "Los inversores esperan que la Reserva Federal no suba las tasas en octubre, pero el estilo poco convencional de Kevin Warsh y su preocupación por la inflación generan incertidumbre sobre qué puede pasar.",
-      "detail": "La Fed comunica sus decisiones de política monetaria de forma bastante predecible, lo que le da estabilidad a los mercados. Si Warsh rompe con esa tradición, puede generar volatilidad inesperada. Entender cómo los bancos centrales manejan las expectativas es fundamental en finanzas: a veces el anuncio importa tanto como la decisión en sí.",
-      "tags": [
-        "Fed",
-        "tasas",
-        "política monetaria"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-      "published_at": "2026-10-16T16:27:31Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": []
-    },
-    {
-      "id": "ppi-septiembre-inflacion",
+      "id": "treasury-yields-deficit",
       "type": "economia",
-      "title": "Los precios mayoristas en EE.UU. subieron 6,3% anual en septiembre, el mayor salto desde 2022",
-      "summary": "El índice de precios al productor (PPI) de septiembre subió 6,3% en términos anuales, superando las estimaciones del mercado y encendiendo alertas sobre inflación persistente.",
-      "detail": "El PPI mide cuánto pagan las empresas por los insumos antes de que lleguen al consumidor final. Cuando sube fuerte, suele anticipar que los precios al consumidor también van a subir. Esto le da más argumentos a la Fed para mantener o incluso subir las tasas de interés, algo que impacta en el costo del crédito y en los mercados de todo el mundo, incluida Argentina.",
-      "tags": [
-        "inflación",
-        "PPI",
-        "Fed"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html",
-      "published_at": "2026-10-15T16:15:44Z",
-      "fecha_evento": "2026-10-15",
-      "tickers": []
-    },
-    {
-      "id": "tesoro-fmi-deuda",
-      "type": "economia",
-      "title": "El Tesoro de EE.UU. rechazó las advertencias del FMI sobre la deuda americana",
-      "summary": "El Departamento del Tesoro de EE.UU. descartó las alertas del FMI sobre el nivel de deuda del país, que ya supera los 40 billones de dólares, mientras las tasas de los bonos a 10 años siguen por encima del 5%.",
-      "detail": "El FMI suele advertir cuando la deuda de un país crece a un ritmo insostenible. Que EE.UU. rechace esas advertencias es notable porque los bonos del Tesoro americano son considerados el activo 'libre de riesgo' del mundo. Si los mercados empiezan a dudar de la solidez fiscal de EE.UU., las tasas pueden seguir subiendo, encareciendo el crédito globalmente y afectando a economías emergentes como Argentina.",
-      "tags": [
-        "deuda",
-        "FMI",
-        "bonos"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html",
-      "published_at": "2026-10-15T13:42:32Z",
-      "fecha_evento": "2026-10-15",
-      "tickers": []
-    },
-    {
-      "id": "rendimientos-bonos-deficit",
-      "type": "mercado",
-      "title": "Tasas del Tesoro arriba del 5% y déficit de 2 billones: el gran desafío económico de EE.UU.",
-      "summary": "Los rendimientos de los bonos del Tesoro americano a 10 años superan el 5%, lo que encarece tanto el crédito de los hogares como el financiamiento del propio gobierno, en un contexto de déficit histórico.",
-      "detail": "Cuando las tasas de los bonos soberanos de EE.UU. suben, todo el mundo se ve afectado: los países emergentes ven cómo el capital se va hacia activos más seguros y sus propias tasas también suben. Para alguien aprendiendo finanzas, este es un ejemplo claro de cómo la política fiscal y la monetaria se retroalimentan y tienen efectos globales.",
+      "title": "Rendimientos del Tesoro americano sobre el 5%: el gran desafío económico de EE.UU.",
+      "summary": "Con el déficit fiscal cerca de los 2 billones de dólares, los rendimientos de los bonos del Tesoro americano superando el 5% elevan los costos de endeudamiento tanto para el gobierno como para los hogares.",
+      "detail": "Cuando los rendimientos de los bonos del Tesoro de EE.UU. suben, se encarece el crédito para todos: hipotecas, tarjetas de crédito y préstamos empresariales. Además, tasas altas en el activo considerado 'libre de riesgo' por excelencia hacen que otras inversiones, como las acciones, se vean menos atractivas. Para países emergentes como Argentina, tasas altas en EE.UU. suelen implicar salida de capitales y mayor presión sobre sus monedas.",
       "tags": [
         "bonos",
-        "rendimientos",
-        "déficit"
+        "tasas de interés",
+        "economía global"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
@@ -87,15 +36,32 @@
       "tickers": []
     },
     {
+      "id": "fed-warsh-octubre",
+      "type": "reunion",
+      "title": "La Fed se reúne en octubre: ¿Kevin Warsh puede sorprender al mercado?",
+      "summary": "El mercado espera que la Reserva Federal mantenga las tasas sin cambios en octubre, pero el estilo poco convencional de Kevin Warsh y su preocupación por la inflación generan incertidumbre sobre la decisión.",
+      "detail": "La Fed suele comunicar sus intenciones con anticipación para no generar volatilidad. Kevin Warsh, al rechazar esas prácticas tradicionales de comunicación, hace más difícil para los inversores anticipar sus movimientos. Esto es importante porque cualquier sorpresa en la tasa de referencia de EE.UU. impacta en mercados globales: afecta el dólar, los bonos y los flujos de capital hacia países emergentes.",
+      "tags": [
+        "Fed",
+        "tasas de interés",
+        "política monetaria"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+      "published_at": "2026-10-16T16:27:31Z",
+      "fecha_evento": "2026-10-16",
+      "tickers": []
+    },
+    {
       "id": "netflix-peter-rice",
       "type": "empresa",
       "title": "Netflix sumó a Peter Rice como su nuevo jefe de contenidos",
-      "summary": "Netflix incorporó a Peter Rice, un ejecutivo con amplia trayectoria en televisión, cine, deportes en vivo y distribución teatral, para liderar su área de contenidos.",
-      "detail": "El contenido es el principal diferenciador de Netflix frente a sus competidores en el mercado de streaming. La contratación de un ejecutivo de alto perfil indica que la empresa apuesta por consolidar y expandir su oferta, lo que puede influir en los resultados financieros futuros y en la percepción de los inversores sobre el valor de la compañía.",
+      "summary": "Netflix incorporó a Peter Rice, un ejecutivo con amplia experiencia en series, cine, deportes en vivo y televisión de prestigio, para liderar su área de contenidos.",
+      "detail": "El contenido es el principal activo de Netflix para retener y atraer suscriptores, que son la base de sus ingresos. Contratar a un ejecutivo de alto perfil para este rol es una señal de que la empresa busca fortalecer su posición competitiva en un mercado de streaming cada vez más disputado. Para un inversor, los movimientos de liderazgo en empresas grandes son datos relevantes sobre la dirección estratégica del negocio.",
       "tags": [
         "Netflix",
-        "entretenimiento",
-        "management"
+        "streaming",
+        "empresas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
@@ -108,9 +74,9 @@
     {
       "id": "kfc-coca-cola",
       "type": "empresa",
-      "title": "KFC cambia a Coca-Cola como proveedor de bebidas en EE.UU. después de décadas con Pepsi",
-      "summary": "KFC anunció que reemplazará a PepsiCo por Coca-Cola como su proveedor exclusivo de bebidas en todos sus restaurantes de Estados Unidos.",
-      "detail": "Los contratos de exclusividad entre cadenas de comida rápida y grandes bebideras son millonarios y muy disputados. Este cambio implica una pérdida de ingresos y visibilidad para PepsiCo y una ganancia equivalente para Coca-Cola. Para un inversor, estos acuerdos comerciales pueden impactar en los resultados trimestrales de ambas compañías.",
+      "title": "KFC abandona a Pepsi y se pasa a Coca-Cola en sus restaurantes de EE.UU.",
+      "summary": "KFC anunció que cambiará a Coca-Cola como proveedor de bebidas en sus locales de Estados Unidos, dejando atrás décadas de acuerdo con PepsiCo.",
+      "detail": "Los contratos de exclusividad entre cadenas de comida rápida y fabricantes de bebidas mueven cifras enormes y son muy disputados. Perder o ganar un cliente del tamaño de KFC tiene impacto directo en los ingresos de Coca-Cola y PepsiCo. Este tipo de anuncios es un buen ejemplo de cómo las decisiones comerciales entre empresas grandes pueden mover el precio de sus acciones en el corto plazo.",
       "tags": [
         "Coca-Cola",
         "PepsiCo",
@@ -122,62 +88,46 @@
       "fecha_evento": "2026-10-15",
       "tickers": [
         "KO",
-        "PEP",
-        "YUM"
+        "PEP"
       ]
     },
     {
-      "id": "plata-caida-economia",
+      "id": "microsoft-ia-tendencia",
       "type": "mercado",
-      "title": "La plata cayó más del 50% desde su máximo histórico y algunos lo ven como señal de desaceleración",
-      "summary": "El precio de la plata acumula una baja de más del 50% desde el récord que tocó a principios de este año, y algunos analistas lo interpretan como una señal anticipada de enfriamiento económico global.",
-      "detail": "La plata es un commodity con doble función: se usa tanto como reserva de valor (similar al oro) como insumo industrial. Cuando la economía se desacelera, la demanda industrial cae y su precio baja. Seguir los precios de commodities como la plata es una herramienta útil para anticipar tendencias económicas antes de que aparezcan en los datos oficiales.",
+      "title": "Mientras algunos dudan de la IA, Microsoft va a contracorriente",
+      "summary": "Aunque varios inversores están cuestionando si los enormes gastos en infraestructura de inteligencia artificial van a rendir frutos, Microsoft se destaca como una excepción positiva dentro del sector tecnológico.",
+      "detail": "El debate sobre si la inversión masiva en IA generará retornos reales es uno de los más importantes del mercado hoy. Cuando los inversores dudan de una tendencia, suelen rotar su capital hacia empresas que ya muestran resultados concretos, como Microsoft. Esto ilustra cómo el sentimiento del mercado puede generar movimientos bruscos en sectores enteros, no solo en compañías individuales.",
       "tags": [
-        "commodities",
-        "plata",
-        "desaceleración"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
-      "published_at": "2026-10-17T12:30:00Z",
-      "fecha_evento": "2026-10-17",
-      "tickers": []
-    },
-    {
-      "id": "apple-iphone-duo",
-      "type": "empresa",
-      "title": "Apple abrió los pedidos anticipados de su primer iPhone plegable, el iPhone Duo, a 2.000 dólares",
-      "summary": "Apple lanzó las preventas del iPhone Duo, su primer teléfono plegable, ingresando a un mercado hasta ahora dominado por Samsung y Google.",
-      "detail": "El ingreso de Apple al segmento de teléfonos plegables es un movimiento estratégico importante: la empresa suele transformar mercados nicho en masivos. El precio de 2.000 dólares posiciona al producto en el segmento premium y podría impulsar los ingresos de la compañía. Para los inversores, estos lanzamientos son catalizadores que suelen mover el precio de la acción.",
-      "tags": [
-        "Apple",
+        "inteligencia artificial",
         "tecnología",
-        "lanzamiento"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
-      "published_at": "2026-10-17T18:40:00Z",
-      "fecha_evento": "2026-10-17",
-      "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "sp500-guidance-positiva",
-      "type": "mercado",
-      "title": "Récord de empresas del S&P 500 dieron señales positivas antes de la temporada de resultados",
-      "summary": "Según FactSet, 72 empresas del S&P 500 emitieron guías optimistas para el tercer trimestre, la cifra más alta desde que se empezó a registrar ese dato en 2006.",
-      "detail": "La 'guidance' es cuando una empresa anticipa cómo espera que sean sus resultados. Cuando muchas compañías dan señales positivas antes de reportar, suele ser una buena señal para el mercado de acciones. Este dato es relevante para entender el estado de salud general de las empresas americanas y el contexto en el que se está desarrollando la actual temporada de balances.",
-      "tags": [
-        "S&P 500",
-        "resultados",
-        "mercado"
+        "Microsoft"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/record-number-sp-500-companies-issued-upbeat-guidance-earnings-season-should-you-buy-index",
-      "published_at": "2026-10-18T09:37:02Z",
+      "source_url": "https://www.nasdaq.com/articles/some-investors-are-questioning-ai-trade-microsoft-bucking-trend",
+      "published_at": "2026-10-18T21:05:00Z",
       "fecha_evento": "2026-10-18",
-      "tickers": []
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "id": "sp500-earnings-borrowing",
+      "type": "mercado",
+      "title": "Las acciones se encaminan a un choque entre buenos resultados y costos de endeudamiento crecientes",
+      "summary": "La temporada de ganancias corporativas trae resultados sólidos, pero el alza en los rendimientos de los bonos genera presión sobre las valuaciones de las acciones.",
+      "detail": "Cuando las tasas de interés suben, los inversores exigen mayores retornos a las acciones para compensar el mayor rendimiento disponible en activos más seguros como los bonos. Aunque las empresas puedan ganar bien, si el costo de financiarse sube, sus ganancias futuras se ven afectadas. Este equilibrio entre resultados corporativos y tasas es uno de los factores más importantes para entender los movimientos del mercado accionario.",
+      "tags": [
+        "acciones",
+        "bonos",
+        "resultados corporativos"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+      "published_at": "2026-10-18T13:00:00Z",
+      "fecha_evento": "2026-10-18",
+      "tickers": [
+        "SPY"
+      ]
     }
   ],
   "ticker": [
@@ -207,9 +157,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.960",
-      "valor_num": 81960.0,
-      "delta_pct": 0.59
+      "valor": "US$ 81.164",
+      "valor_num": 81164.0,
+      "delta_pct": 0.02
     },
     {
       "label": "S&P 500",
