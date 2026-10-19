@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-18T22:00:53.952123+00:00",
+  "generated_at": "2026-10-19T12:01:03.089090+00:00",
   "items": [
     {
-      "id": "us-deficit-2026",
+      "id": "us-deficit-2trillion-2026",
       "type": "economia",
-      "title": "El déficit fiscal de EE.UU. llegó a casi 2 billones de dólares en el año fiscal 2026",
-      "summary": "El Departamento del Tesoro de EE.UU. confirmó que el déficit presupuestario del año fiscal 2026 creció un 12% en un solo año, alcanzando casi 2 billones de dólares.",
-      "detail": "Un déficit fiscal tan grande significa que el gobierno gasta mucho más de lo que recauda. Para financiar esa diferencia, emite deuda (bonos del Tesoro), lo que aumenta la oferta de bonos en el mercado y puede presionar las tasas de interés hacia arriba. Entender este mecanismo es clave para comprender por qué los rendimientos de los bonos americanos influyen en mercados de todo el mundo, incluyendo Argentina.",
+      "title": "El déficit fiscal de EE.UU. llega casi a los 2 billones de dólares en 2026",
+      "summary": "El Tesoro de EE.UU. confirmó que el déficit presupuestario del año fiscal 2026 se acerca a los 2 billones de dólares, un 12% más que el año anterior.",
+      "detail": "Un déficit tan grande significa que el gobierno gasta mucho más de lo que recauda, y para financiarlo emite deuda (bonos del Tesoro). Cuando hay tanta deuda en el mercado, los inversores exigen tasas más altas para prestarle al gobierno, lo que sube los rendimientos de los bonos. Esto impacta a toda la economía: sube el costo del crédito para empresas y familias, y puede presionar a los mercados de acciones a la baja.",
       "tags": [
         "déficit fiscal",
         "deuda pública",
@@ -19,15 +19,15 @@
       "tickers": []
     },
     {
-      "id": "treasury-yields-deficit",
+      "id": "treasury-yields-5pct-deficit",
       "type": "economia",
-      "title": "Rendimientos del Tesoro americano sobre el 5%: el gran desafío económico de EE.UU.",
-      "summary": "Con el déficit fiscal cerca de los 2 billones de dólares, los rendimientos de los bonos del Tesoro americano superando el 5% elevan los costos de endeudamiento tanto para el gobierno como para los hogares.",
-      "detail": "Cuando los rendimientos de los bonos del Tesoro de EE.UU. suben, se encarece el crédito para todos: hipotecas, tarjetas de crédito y préstamos empresariales. Además, tasas altas en el activo considerado 'libre de riesgo' por excelencia hacen que otras inversiones, como las acciones, se vean menos atractivas. Para países emergentes como Argentina, tasas altas en EE.UU. suelen implicar salida de capitales y mayor presión sobre sus monedas.",
+      "title": "Rendimientos del Tesoro sobre el 5% agravan el desafío del déficit americano",
+      "summary": "Los rendimientos de los bonos del Tesoro de EE.UU. por encima del 5% están encareciendo el crédito tanto para el gobierno como para las familias, en un contexto donde el déficit ya roza los 2 billones de dólares.",
+      "detail": "Cuando los rendimientos de los bonos del Tesoro suben, el gobierno paga más intereses por su deuda, lo que agrava aún más el déficit. Al mismo tiempo, estas tasas funcionan como piso para el resto del sistema financiero: las hipotecas, los préstamos personales y el crédito corporativo se encarecen. Para quien aprende finanzas, entender esta relación entre deuda pública y tasas de interés es clave para leer la salud de cualquier economía.",
       "tags": [
-        "bonos",
+        "bonos del Tesoro",
         "tasas de interés",
-        "economía global"
+        "déficit"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
@@ -36,15 +36,15 @@
       "tickers": []
     },
     {
-      "id": "fed-warsh-octubre",
+      "id": "fed-warsh-octubre-2026",
       "type": "reunion",
-      "title": "La Fed se reúne en octubre: ¿Kevin Warsh puede sorprender al mercado?",
-      "summary": "El mercado espera que la Reserva Federal mantenga las tasas sin cambios en octubre, pero el estilo poco convencional de Kevin Warsh y su preocupación por la inflación generan incertidumbre sobre la decisión.",
-      "detail": "La Fed suele comunicar sus intenciones con anticipación para no generar volatilidad. Kevin Warsh, al rechazar esas prácticas tradicionales de comunicación, hace más difícil para los inversores anticipar sus movimientos. Esto es importante porque cualquier sorpresa en la tasa de referencia de EE.UU. impacta en mercados globales: afecta el dólar, los bonos y los flujos de capital hacia países emergentes.",
+      "title": "Todos esperan que la Fed no mueva tasas en octubre, pero Warsh puede sorprender",
+      "summary": "El mercado anticipa una pausa en las subas de tasas de la Reserva Federal en octubre, aunque la postura poco convencional del presidente Kevin Warsh y su preocupación por la inflación generan incertidumbre.",
+      "detail": "La Fed es el banco central de EE.UU. y sus decisiones sobre tasas de interés mueven los mercados globales, incluido el de Argentina. Warsh rechaza las prácticas tradicionales de comunicación de la Fed, lo que hace más difícil anticipar sus movimientos. Si sube las tasas cuando nadie lo espera, puede generar volatilidad en bonos y acciones. Aprender a seguir las señales de los bancos centrales es una habilidad fundamental en finanzas.",
       "tags": [
-        "Fed",
+        "Reserva Federal",
         "tasas de interés",
-        "política monetaria"
+        "banco central"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
@@ -53,81 +53,91 @@
       "tickers": []
     },
     {
-      "id": "netflix-peter-rice",
+      "id": "jpmorgan-defense-5billion",
       "type": "empresa",
-      "title": "Netflix sumó a Peter Rice como su nuevo jefe de contenidos",
-      "summary": "Netflix incorporó a Peter Rice, un ejecutivo con amplia experiencia en series, cine, deportes en vivo y televisión de prestigio, para liderar su área de contenidos.",
-      "detail": "El contenido es el principal activo de Netflix para retener y atraer suscriptores, que son la base de sus ingresos. Contratar a un ejecutivo de alto perfil para este rol es una señal de que la empresa busca fortalecer su posición competitiva en un mercado de streaming cada vez más disputado. Para un inversor, los movimientos de liderazgo en empresas grandes son datos relevantes sobre la dirección estratégica del negocio.",
+      "title": "JPMorgan invierte 5.000 millones de dólares en tecnología de defensa",
+      "summary": "JPMorgan Chase ya desplegó 5.000 millones de dólares de su propio balance en inversiones directas en tecnología de defensa, hardware y cadenas de suministro militares.",
+      "detail": "Que un banco tan grande como JPMorgan apueste fondos propios a la industria de defensa muestra cómo los grandes actores financieros están reposicionando sus carteras frente a un contexto geopolítico más tenso. Las inversiones directas desde el balance propio implican mayor convicción que simplemente administrar fondos de clientes. Para quien aprende finanzas, es un ejemplo de cómo las tendencias globales (geopolítica, IA, armamento) crean nuevas oportunidades de inversión institucional.",
       "tags": [
-        "Netflix",
-        "streaming",
-        "empresas"
+        "JPMorgan",
+        "defensa",
+        "inversión"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
-      "published_at": "2026-10-16T19:40:00Z",
-      "fecha_evento": "2026-10-16",
+      "source_url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+      "published_at": "2026-10-19T10:00:01Z",
+      "fecha_evento": "2026-10-19",
       "tickers": [
-        "NFLX"
+        "JPM"
       ]
     },
     {
-      "id": "kfc-coca-cola",
-      "type": "empresa",
-      "title": "KFC abandona a Pepsi y se pasa a Coca-Cola en sus restaurantes de EE.UU.",
-      "summary": "KFC anunció que cambiará a Coca-Cola como proveedor de bebidas en sus locales de Estados Unidos, dejando atrás décadas de acuerdo con PepsiCo.",
-      "detail": "Los contratos de exclusividad entre cadenas de comida rápida y fabricantes de bebidas mueven cifras enormes y son muy disputados. Perder o ganar un cliente del tamaño de KFC tiene impacto directo en los ingresos de Coca-Cola y PepsiCo. Este tipo de anuncios es un buen ejemplo de cómo las decisiones comerciales entre empresas grandes pueden mover el precio de sus acciones en el corto plazo.",
-      "tags": [
-        "Coca-Cola",
-        "PepsiCo",
-        "consumo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-      "published_at": "2026-10-16T11:02:24Z",
-      "fecha_evento": "2026-10-15",
-      "tickers": [
-        "KO",
-        "PEP"
-      ]
-    },
-    {
-      "id": "microsoft-ia-tendencia",
+      "id": "cac40-unrest-france",
       "type": "mercado",
-      "title": "Mientras algunos dudan de la IA, Microsoft va a contracorriente",
-      "summary": "Aunque varios inversores están cuestionando si los enormes gastos en infraestructura de inteligencia artificial van a rendir frutos, Microsoft se destaca como una excepción positiva dentro del sector tecnológico.",
-      "detail": "El debate sobre si la inversión masiva en IA generará retornos reales es uno de los más importantes del mercado hoy. Cuando los inversores dudan de una tendencia, suelen rotar su capital hacia empresas que ya muestran resultados concretos, como Microsoft. Esto ilustra cómo el sentimiento del mercado puede generar movimientos bruscos en sectores enteros, no solo en compañías individuales.",
+      "title": "El CAC 40 de Francia cae casi 1,5% por disturbios civiles y tensiones en Europa",
+      "summary": "La bolsa francesa cayó casi un 1,5% este lunes, golpeada por el creciente malestar social en Francia y las tensiones en distintas partes de Europa, sumado a la preocupación por el conflicto en Medio Oriente.",
+      "detail": "Los mercados bursátiles son muy sensibles a la inestabilidad política y social: cuando hay incertidumbre, los inversores prefieren refugiarse en activos más seguros y venden acciones. El CAC 40 es el índice de referencia de las principales empresas de Francia, similar a lo que el S&P 500 es para EE.UU. Ver cómo eventos geopolíticos afectan índices europeos ayuda a entender la dimensión global del riesgo en los mercados.",
       "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "Microsoft"
+        "Europa",
+        "bolsa",
+        "riesgo geopolítico"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/some-investors-are-questioning-ai-trade-microsoft-bucking-trend",
-      "published_at": "2026-10-18T21:05:00Z",
-      "fecha_evento": "2026-10-18",
-      "tickers": [
-        "MSFT"
-      ]
+      "source_url": "https://www.nasdaq.com/articles/cac-40-down-nearly-15-stocks-tumble-amid-growing-civil-unrest",
+      "published_at": "2026-10-19T11:09:39Z",
+      "fecha_evento": "2026-10-19",
+      "tickers": []
     },
     {
-      "id": "sp500-earnings-borrowing",
+      "id": "stocks-earnings-vs-yields",
       "type": "mercado",
-      "title": "Las acciones se encaminan a un choque entre buenos resultados y costos de endeudamiento crecientes",
-      "summary": "La temporada de ganancias corporativas trae resultados sólidos, pero el alza en los rendimientos de los bonos genera presión sobre las valuaciones de las acciones.",
-      "detail": "Cuando las tasas de interés suben, los inversores exigen mayores retornos a las acciones para compensar el mayor rendimiento disponible en activos más seguros como los bonos. Aunque las empresas puedan ganar bien, si el costo de financiarse sube, sus ganancias futuras se ven afectadas. Este equilibrio entre resultados corporativos y tasas es uno de los factores más importantes para entender los movimientos del mercado accionario.",
+      "title": "Las bolsas se encaminan a una semana clave: buenos resultados empresariales chocan con tasas más altas",
+      "summary": "Wall Street enfrenta una semana decisiva donde resultados corporativos sólidos colisionan con el alza de los costos de financiamiento, poniendo a prueba hasta dónde puede seguir el rally del mercado.",
+      "detail": "Cuando las tasas de interés suben, el valor presente de las ganancias futuras de las empresas cae, lo que presiona los precios de las acciones a la baja. Sin embargo, si las ganancias reportadas son muy buenas, pueden compensar ese efecto. Esta tensión entre fundamentos empresariales y condiciones financieras es un concepto central en el análisis de mercados que todo inversor debería entender.",
       "tags": [
-        "acciones",
-        "bonos",
-        "resultados corporativos"
+        "Wall Street",
+        "resultados empresariales",
+        "tasas de interés"
       ],
       "source_name": "MarketWatch",
       "source_url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-      "published_at": "2026-10-18T13:00:00Z",
-      "fecha_evento": "2026-10-18",
-      "tickers": [
-        "SPY"
-      ]
+      "published_at": "2026-10-19T11:53:00Z",
+      "fecha_evento": "2026-10-19",
+      "tickers": []
+    },
+    {
+      "id": "goldman-sachs-unloved-stocks",
+      "type": "mercado",
+      "title": "Goldman Sachs recomienda alejarse del gran tech y mirar acciones rezagadas",
+      "summary": "Goldman Sachs aconseja rotar hacia acciones de consumo que quedaron atrás, ya que el crecimiento de las ganancias del sector tecnológico grande se desaceleraría el año próximo.",
+      "detail": "La rotación sectorial es una estrategia clásica: cuando un sector se encarece mucho (como el tecnológico), los inversores institucionales buscan valor en sectores que estuvieron rezagados. Goldman Sachs es uno de los bancos de inversión más influyentes del mundo y sus recomendaciones suelen mover mercados. Para quien aprende finanzas, esto ilustra el concepto de valuación relativa y por qué no siempre conviene perseguir lo que ya subió mucho.",
+      "tags": [
+        "Goldman Sachs",
+        "acciones",
+        "rotación sectorial"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
+      "published_at": "2026-10-19T09:58:00Z",
+      "fecha_evento": "2026-10-19",
+      "tickers": []
+    },
+    {
+      "id": "morgan-stanley-sp500-pullback",
+      "type": "mercado",
+      "title": "Morgan Stanley: el S&P 500 oculta una caída interna y ve oportunidad si el índice retrocede",
+      "summary": "Según Morgan Stanley, el S&P 500 está enmascarando una baja más amplia en muchas acciones individuales, y un retroceso del índice podría ser una señal de compra.",
+      "detail": "El S&P 500 puede subir aunque muchas acciones dentro de él caigan, si las empresas más grandes (que tienen mayor peso) se sostienen. Esto genera una imagen distorsionada del mercado. Morgan Stanley sugiere que los gestores de fondos están priorizando empresas con flujo de caja libre y márgenes altos, lo que es una lección práctica sobre cómo analizar la salud real de un mercado más allá de lo que muestra el índice.",
+      "tags": [
+        "S&P 500",
+        "Morgan Stanley",
+        "análisis de mercado"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
+      "published_at": "2026-10-19T10:23:00Z",
+      "fecha_evento": "2026-10-19",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -157,9 +167,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.164",
-      "valor_num": 81164.0,
-      "delta_pct": 0.02
+      "valor": "US$ 82.288",
+      "valor_num": 82288.0,
+      "delta_pct": 0.41
     },
     {
       "label": "S&P 500",
@@ -169,9 +179,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.181",
-      "valor_num": 4181.1,
-      "delta_pct": 0.09
+      "valor": "US$ 4.188",
+      "valor_num": 4188.5,
+      "delta_pct": 1.96
     }
   ]
 }
