@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-19T12:01:03.089090+00:00",
+  "generated_at": "2026-10-19T22:01:11.514018+00:00",
   "items": [
     {
       "id": "us-deficit-2trillion-2026",
       "type": "economia",
-      "title": "El déficit fiscal de EE.UU. llega casi a los 2 billones de dólares en 2026",
-      "summary": "El Tesoro de EE.UU. confirmó que el déficit presupuestario del año fiscal 2026 se acerca a los 2 billones de dólares, un 12% más que el año anterior.",
-      "detail": "Un déficit tan grande significa que el gobierno gasta mucho más de lo que recauda, y para financiarlo emite deuda (bonos del Tesoro). Cuando hay tanta deuda en el mercado, los inversores exigen tasas más altas para prestarle al gobierno, lo que sube los rendimientos de los bonos. Esto impacta a toda la economía: sube el costo del crédito para empresas y familias, y puede presionar a los mercados de acciones a la baja.",
+      "title": "El déficit fiscal de EE.UU. llegó a casi $2 billones en 2026, un 12% más que el año anterior",
+      "summary": "El Departamento del Tesoro de EE.UU. confirmó que el déficit presupuestario del año fiscal 2026 se acercó a los 2 billones de dólares, creciendo un 12% respecto al año anterior.",
+      "detail": "Un déficit fiscal tan grande significa que el gobierno gasta mucho más de lo que recauda. Para financiar esa diferencia, emite deuda (bonos del Tesoro), lo que aumenta la oferta de bonos y puede empujar los rendimientos hacia arriba. Esto encarece el crédito para todos, desde hipotecas hasta préstamos corporativos. Para alguien aprendiendo finanzas, este dato ayuda a entender por qué los rendimientos de los bonos del Tesoro están tan altos y cómo el comportamiento fiscal de un país afecta a los mercados globales.",
       "tags": [
         "déficit fiscal",
-        "deuda pública",
-        "EE.UU."
+        "bonos",
+        "economía EE.UU."
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
@@ -21,13 +21,13 @@
     {
       "id": "treasury-yields-5pct-deficit",
       "type": "economia",
-      "title": "Rendimientos del Tesoro sobre el 5% agravan el desafío del déficit americano",
-      "summary": "Los rendimientos de los bonos del Tesoro de EE.UU. por encima del 5% están encareciendo el crédito tanto para el gobierno como para las familias, en un contexto donde el déficit ya roza los 2 billones de dólares.",
-      "detail": "Cuando los rendimientos de los bonos del Tesoro suben, el gobierno paga más intereses por su deuda, lo que agrava aún más el déficit. Al mismo tiempo, estas tasas funcionan como piso para el resto del sistema financiero: las hipotecas, los préstamos personales y el crédito corporativo se encarecen. Para quien aprende finanzas, entender esta relación entre deuda pública y tasas de interés es clave para leer la salud de cualquier economía.",
+      "title": "Rendimientos del Tesoro de EE.UU. por encima del 5%: el gran desafío económico del momento",
+      "summary": "Con rendimientos del Tesoro superando el 5%, el costo de financiar el déficit de 2 billones de dólares se vuelve cada vez más pesado para el gobierno y las familias estadounidenses.",
+      "detail": "Cuando los rendimientos de los bonos del gobierno suben, el Estado paga más intereses por su deuda, lo que deja menos margen para gastar en otras cosas. Al mismo tiempo, esas tasas más altas se trasladan a créditos hipotecarios, tarjetas y préstamos. Entender esta dinámica es clave: los bonos del Tesoro estadounidense son la referencia global de tasas, y cuando suben, afectan el costo del dinero en todo el mundo, incluida Argentina.",
       "tags": [
-        "bonos del Tesoro",
         "tasas de interés",
-        "déficit"
+        "bonos del Tesoro",
+        "deuda pública"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
@@ -36,28 +36,11 @@
       "tickers": []
     },
     {
-      "id": "fed-warsh-octubre-2026",
-      "type": "reunion",
-      "title": "Todos esperan que la Fed no mueva tasas en octubre, pero Warsh puede sorprender",
-      "summary": "El mercado anticipa una pausa en las subas de tasas de la Reserva Federal en octubre, aunque la postura poco convencional del presidente Kevin Warsh y su preocupación por la inflación generan incertidumbre.",
-      "detail": "La Fed es el banco central de EE.UU. y sus decisiones sobre tasas de interés mueven los mercados globales, incluido el de Argentina. Warsh rechaza las prácticas tradicionales de comunicación de la Fed, lo que hace más difícil anticipar sus movimientos. Si sube las tasas cuando nadie lo espera, puede generar volatilidad en bonos y acciones. Aprender a seguir las señales de los bancos centrales es una habilidad fundamental en finanzas.",
-      "tags": [
-        "Reserva Federal",
-        "tasas de interés",
-        "banco central"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-      "published_at": "2026-10-16T16:27:31Z",
-      "fecha_evento": "2026-10-16",
-      "tickers": []
-    },
-    {
-      "id": "jpmorgan-defense-5billion",
+      "id": "jpmorgan-defensa-5bil",
       "type": "empresa",
-      "title": "JPMorgan invierte 5.000 millones de dólares en tecnología de defensa",
-      "summary": "JPMorgan Chase ya desplegó 5.000 millones de dólares de su propio balance en inversiones directas en tecnología de defensa, hardware y cadenas de suministro militares.",
-      "detail": "Que un banco tan grande como JPMorgan apueste fondos propios a la industria de defensa muestra cómo los grandes actores financieros están reposicionando sus carteras frente a un contexto geopolítico más tenso. Las inversiones directas desde el balance propio implican mayor convicción que simplemente administrar fondos de clientes. Para quien aprende finanzas, es un ejemplo de cómo las tendencias globales (geopolítica, IA, armamento) crean nuevas oportunidades de inversión institucional.",
+      "title": "JPMorgan ya invirtió $5.000 millones en tecnología de defensa, con fábricas robotizadas y misiles hipersónicos",
+      "summary": "JPMorgan Chase destinó 5.000 millones de dólares de su propio balance a inversiones directas en tecnología de defensa, hardware y cadenas de suministro militar.",
+      "detail": "Que un banco del tamaño de JPMorgan invierta directamente en defensa —no solo como intermediario financiero— muestra cómo el sector privado está apostando fuerte a la industria militar en un contexto geopolítico complejo. Para alguien que aprende finanzas, esto ilustra cómo los grandes bancos también actúan como inversores estratégicos, y cómo los conflictos internacionales crean oportunidades (y riesgos) de negocio en sectores que antes estaban más alejados de Wall Street.",
       "tags": [
         "JPMorgan",
         "defensa",
@@ -65,123 +48,169 @@
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-      "published_at": "2026-10-19T10:00:01Z",
+      "published_at": "2026-10-19T12:34:01Z",
       "fecha_evento": "2026-10-19",
       "tickers": [
         "JPM"
       ]
     },
     {
-      "id": "cac40-unrest-france",
-      "type": "mercado",
-      "title": "El CAC 40 de Francia cae casi 1,5% por disturbios civiles y tensiones en Europa",
-      "summary": "La bolsa francesa cayó casi un 1,5% este lunes, golpeada por el creciente malestar social en Francia y las tensiones en distintas partes de Europa, sumado a la preocupación por el conflicto en Medio Oriente.",
-      "detail": "Los mercados bursátiles son muy sensibles a la inestabilidad política y social: cuando hay incertidumbre, los inversores prefieren refugiarse en activos más seguros y venden acciones. El CAC 40 es el índice de referencia de las principales empresas de Francia, similar a lo que el S&P 500 es para EE.UU. Ver cómo eventos geopolíticos afectan índices europeos ayuda a entender la dimensión global del riesgo en los mercados.",
+      "id": "amazon-morgan-stanley-350",
+      "type": "empresa",
+      "title": "Amazon subió casi 5% tras ser elegida como top pick por Morgan Stanley con un precio objetivo de $350",
+      "summary": "Las acciones de Amazon cerraron a $262.45, con una suba de casi 5%, luego de que Morgan Stanley la designara como su acción favorita y elevara su precio objetivo a $350.",
+      "detail": "Cuando un banco de inversión importante como Morgan Stanley eleva su recomendación y precio objetivo de una acción, suele generar un efecto inmediato en el mercado: más inversores compran, el precio sube. Este mecanismo, llamado 'analyst upgrade', es muy seguido por traders e inversores. En el caso de Amazon, el foco está en el crecimiento de AWS, su división de nube, que es uno de los negocios más rentables de la empresa.",
       "tags": [
-        "Europa",
-        "bolsa",
-        "riesgo geopolítico"
+        "Amazon",
+        "acciones",
+        "análisis bursátil"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/cac-40-down-nearly-15-stocks-tumble-amid-growing-civil-unrest",
-      "published_at": "2026-10-19T11:09:39Z",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-19-amazon-surges-morgan-stanley-top-pick-and-350-price-target",
+      "published_at": "2026-10-19T21:31:03Z",
+      "fecha_evento": "2026-10-19",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "cleveland-cliffs-q3-surges",
+      "type": "empresa",
+      "title": "Cleveland-Cliffs disparó un 16% tras mejores resultados del tercer trimestre y una perspectiva optimista para 2027",
+      "summary": "La productora de acero Cleveland-Cliffs cerró a $14.10, subiendo un 16.34% después de presentar resultados del tercer trimestre más fuertes de lo esperado y elevar su proyección de EBITDA para 2027.",
+      "detail": "Las empresas industriales como las acereras son muy sensibles a los ciclos económicos: cuando la economía crece, la demanda de acero sube y sus ganancias mejoran. El EBITDA es una medida clave de rentabilidad operativa que los inversores usan para comparar empresas. Una suba del 16% en un solo día muestra cuánto puede impactar un buen reporte trimestral en el precio de una acción.",
+      "tags": [
+        "acero",
+        "resultados trimestrales",
+        "acciones"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-19-cleveland-cliffs-surges-stronger-q3-results-and-raised-2027",
+      "published_at": "2026-10-19T21:37:27Z",
+      "fecha_evento": "2026-10-19",
+      "tickers": [
+        "CLF"
+      ]
+    },
+    {
+      "id": "coreweave-goldman-upgrade",
+      "type": "empresa",
+      "title": "Goldman Sachs mejoró su recomendación sobre CoreWeave y le puso un precio objetivo de $139",
+      "summary": "Goldman Sachs actualizó su calificación de CoreWeave a 'Compra' y fijó un precio objetivo de $139, aunque la acción cerró levemente a la baja en $61.12 con un volumen inusualmente alto.",
+      "detail": "CoreWeave es una empresa de infraestructura de nube especializada en inteligencia artificial, un sector que atrae mucha atención inversora. El upgrade de Goldman Sachs —uno de los bancos de inversión más influyentes— suele generar movimiento en el precio. Que la acción haya cerrado ligeramente negativa pese al upgrade puede reflejar que el mercado espera ver los resultados concretos antes de reaccionar con más fuerza.",
+      "tags": [
+        "inteligencia artificial",
+        "nube",
+        "Goldman Sachs"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-19-coreweave-rebounds-goldman-sachs-buy-upgrade-and-139-price",
+      "published_at": "2026-10-19T21:25:01Z",
+      "fecha_evento": "2026-10-19",
+      "tickers": [
+        "CRWV"
+      ]
+    },
+    {
+      "id": "chip-stocks-rebound-micron",
+      "type": "mercado",
+      "title": "Las acciones de chips tecnológicos rebotaron tras una fuerte caída, con Nvidia y Meta en el radar esta semana",
+      "summary": "Micron y otras empresas de semiconductores recuperaron terreno después de una racha de bajas, en una semana clave donde Nvidia se prepara para una conferencia en Europa y Meta para publicar resultados.",
+      "detail": "Los semiconductores son el corazón de la economía digital: sin chips no hay inteligencia artificial, smartphones ni autos eléctricos. Por eso sus acciones funcionan como un termómetro del apetito inversor por tecnología. Cuando caen fuerte y luego rebotan, puede ser una señal de que el mercado los ve como sobrevendidos. Esta semana es importante porque los resultados de Meta y los movimientos de Nvidia pueden marcar el tono para todo el sector tech.",
+      "tags": [
+        "semiconductores",
+        "tecnología",
+        "Nvidia"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "published_at": "2026-10-19T21:06:00Z",
+      "fecha_evento": "2026-10-19",
+      "tickers": [
+        "MU",
+        "NVDA",
+        "META"
+      ]
+    },
+    {
+      "id": "junk-bonds-credit-warning",
+      "type": "mercado",
+      "title": "Los bonos basura más riesgosos mandan señales de alerta en los mercados de crédito",
+      "summary": "Los mercados de crédito están enviando señales contradictorias: mientras algunos segmentos funcionan bien, los bonos de mayor riesgo están generando nerviosismo entre los inversores.",
+      "detail": "Los bonos 'basura' o high yield son emitidos por empresas con mayor riesgo de no poder pagar. Cuando sus rendimientos suben mucho respecto a los bonos seguros, el mercado está pidiendo más compensación por el riesgo, lo que puede ser una señal anticipada de problemas económicos. Para alguien aprendiendo finanzas, este tipo de señales en el mercado de crédito suelen anticipar movimientos en las bolsas.",
+      "tags": [
+        "bonos",
+        "riesgo crediticio",
+        "mercado de deuda"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+      "published_at": "2026-10-19T21:36:00Z",
       "fecha_evento": "2026-10-19",
       "tickers": []
     },
     {
-      "id": "stocks-earnings-vs-yields",
-      "type": "mercado",
-      "title": "Las bolsas se encaminan a una semana clave: buenos resultados empresariales chocan con tasas más altas",
-      "summary": "Wall Street enfrenta una semana decisiva donde resultados corporativos sólidos colisionan con el alza de los costos de financiamiento, poniendo a prueba hasta dónde puede seguir el rally del mercado.",
-      "detail": "Cuando las tasas de interés suben, el valor presente de las ganancias futuras de las empresas cae, lo que presiona los precios de las acciones a la baja. Sin embargo, si las ganancias reportadas son muy buenas, pueden compensar ese efecto. Esta tensión entre fundamentos empresariales y condiciones financieras es un concepto central en el análisis de mercados que todo inversor debería entender.",
+      "id": "berkshire-bending-spoons-900m",
+      "type": "empresa",
+      "title": "Berkshire Hathaway invirtió más de $900 millones en Bending Spoons, una señal de que la empresa ya no es solo la de Buffett",
+      "summary": "Berkshire Hathaway destinó más de 900 millones de dólares a Bending Spoons, una movida que según analistas muestra que la compañía está tomando rumbos distintos a los tradicionales de Warren Buffett.",
+      "detail": "Berkshire Hathaway es históricamente conocida por invertir en empresas sólidas y predecibles, como bancos, seguros y consumo masivo. Una apuesta de esta magnitud en una empresa de tecnología señala un cambio de estilo, probablemente asociado a la influencia creciente de Greg Abel, quien tomó el liderazgo de la firma. Para alguien que aprende finanzas, es un buen ejemplo de cómo las grandes carteras evolucionan según cambian los líderes y el contexto del mercado.",
       "tags": [
-        "Wall Street",
-        "resultados empresariales",
-        "tasas de interés"
+        "Berkshire Hathaway",
+        "inversión",
+        "tecnología"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-      "published_at": "2026-10-19T11:53:00Z",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/why-berkshires-latest-move-proves-its-not-really-warren-buffett-company-anymore",
+      "published_at": "2026-10-19T21:05:01Z",
       "fecha_evento": "2026-10-19",
-      "tickers": []
-    },
-    {
-      "id": "goldman-sachs-unloved-stocks",
-      "type": "mercado",
-      "title": "Goldman Sachs recomienda alejarse del gran tech y mirar acciones rezagadas",
-      "summary": "Goldman Sachs aconseja rotar hacia acciones de consumo que quedaron atrás, ya que el crecimiento de las ganancias del sector tecnológico grande se desaceleraría el año próximo.",
-      "detail": "La rotación sectorial es una estrategia clásica: cuando un sector se encarece mucho (como el tecnológico), los inversores institucionales buscan valor en sectores que estuvieron rezagados. Goldman Sachs es uno de los bancos de inversión más influyentes del mundo y sus recomendaciones suelen mover mercados. Para quien aprende finanzas, esto ilustra el concepto de valuación relativa y por qué no siempre conviene perseguir lo que ya subió mucho.",
-      "tags": [
-        "Goldman Sachs",
-        "acciones",
-        "rotación sectorial"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
-      "published_at": "2026-10-19T09:58:00Z",
-      "fecha_evento": "2026-10-19",
-      "tickers": []
-    },
-    {
-      "id": "morgan-stanley-sp500-pullback",
-      "type": "mercado",
-      "title": "Morgan Stanley: el S&P 500 oculta una caída interna y ve oportunidad si el índice retrocede",
-      "summary": "Según Morgan Stanley, el S&P 500 está enmascarando una baja más amplia en muchas acciones individuales, y un retroceso del índice podría ser una señal de compra.",
-      "detail": "El S&P 500 puede subir aunque muchas acciones dentro de él caigan, si las empresas más grandes (que tienen mayor peso) se sostienen. Esto genera una imagen distorsionada del mercado. Morgan Stanley sugiere que los gestores de fondos están priorizando empresas con flujo de caja libre y márgenes altos, lo que es una lección práctica sobre cómo analizar la salud real de un mercado más allá de lo que muestra el índice.",
-      "tags": [
-        "S&P 500",
-        "Morgan Stanley",
-        "análisis de mercado"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
-      "published_at": "2026-10-19T10:23:00Z",
-      "fecha_evento": "2026-10-19",
-      "tickers": []
+      "tickers": [
+        "BRK.B"
+      ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.535",
-      "valor_num": 1535.0,
-      "delta_pct": 0.0
+      "valor": "$1.540",
+      "valor_num": 1540.0,
+      "delta_pct": 0.33
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.555",
-      "valor_num": 1555.0,
-      "delta_pct": 0.0
+      "valor": "$1.560",
+      "valor_num": 1560.0,
+      "delta_pct": 0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.542",
-      "valor_num": 1542.5,
-      "delta_pct": 0.0
+      "valor": "$1.544",
+      "valor_num": 1544.1,
+      "delta_pct": 0.1
     },
     {
       "label": "CCL",
-      "valor": "$1.620",
-      "valor_num": 1620.5,
-      "delta_pct": 0.0
+      "valor": "$1.626",
+      "valor_num": 1625.6,
+      "delta_pct": 0.31
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 82.288",
-      "valor_num": 82288.0,
-      "delta_pct": 0.41
+      "valor": "US$ 81.968",
+      "valor_num": 81968.0,
+      "delta_pct": 1.01
     },
     {
       "label": "S&P 500",
-      "valor": "7.659",
-      "valor_num": 7659.44,
-      "delta_pct": -1.95
+      "valor": "7.691",
+      "valor_num": 7690.73,
+      "delta_pct": -1.49
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.188",
-      "valor_num": 4188.5,
-      "delta_pct": 1.96
+      "valor": "US$ 4.160",
+      "valor_num": 4160.3,
+      "delta_pct": 1.28
     }
   ]
 }
