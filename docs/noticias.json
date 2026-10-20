@@ -1,178 +1,216 @@
 {
-  "generated_at": "2026-10-20T12:00:59.408599+00:00",
+  "generated_at": "2026-10-20T22:01:08.319743+00:00",
   "items": [
     {
-      "id": "gm-q3-earnings-2026",
-      "type": "empresa",
-      "title": "General Motors superó expectativas y ajustó su guía anual",
-      "summary": "GM ganó más de lo que esperaba Wall Street en el tercer trimestre de 2026 y subió su proyección de flujo de caja libre para todo el año. La automotriz también redujo el rango de su guía de ganancias anuales, dando más precisión a los inversores.",
-      "detail": "Cuando una empresa 'supera las expectativas' del mercado, sus acciones suelen subir porque los inversores habían descontado un escenario peor. Ajustar la guía anual hacia arriba es una señal de que la gerencia confía en el resto del año, lo que reduce la incertidumbre para quienes tienen acciones. GM es uno de los termómetros del consumo y la industria en EE.UU., por lo que sus resultados dan pistas sobre el estado general de la economía.",
+      "id": "housing-fed-rates-oct2026",
+      "type": "economia",
+      "title": "El mercado inmobiliario da señales de alerta mientras la Fed evalúa más subas de tasas",
+      "summary": "Los datos del mercado inmobiliario en EE.UU. se deterioraron en septiembre, justo cuando la Reserva Federal analiza si subir aún más las tasas de interés.",
+      "detail": "El mercado inmobiliario es uno de los sectores más sensibles a las tasas de interés: cuando suben, las hipotecas se encarecen y menos gente puede comprar casas. Si el sector inmobiliario se frena, suele arrastrar a la construcción, los materiales y el empleo. Por eso los datos de vivienda son un termómetro clave para entender cómo impactan las decisiones de la Fed en la economía real.",
       "tags": [
+        "tasas de interés",
+        "Fed",
+        "inmobiliario"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "published_at": "2026-10-20T19:28:43Z",
+      "fecha_evento": "2026-10-20",
+      "tickers": []
+    },
+    {
+      "id": "united-airlines-outlook-oct2026",
+      "type": "empresa",
+      "title": "United Airlines recortó su proyección de ganancias por el alza del combustible",
+      "summary": "United Airlines bajó su estimación de ganancias para 2026 porque el precio del combustible sigue subiendo, aunque los pasajeros continúan reservando vuelos incluso con tarifas más altas.",
+      "detail": "El costo del combustible es uno de los gastos más grandes para las aerolíneas, por lo que una suba sostenida del precio del petróleo puede comprimir sus márgenes aunque los ingresos crezcan. Que los viajeros sigan reservando a pesar de las tarifas más caras muestra cómo la demanda puede ser resiliente en el corto plazo. Este tipo de ajuste de guidance (proyección) es una señal importante para los inversores sobre la rentabilidad futura de la empresa.",
+      "tags": [
+        "aerolíneas",
+        "combustible",
+        "ganancias"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+      "published_at": "2026-10-20T20:23:58Z",
+      "fecha_evento": "2026-10-20",
+      "tickers": [
+        "UAL"
+      ]
+    },
+    {
+      "id": "boeing-737max10-faa-oct2026",
+      "type": "empresa",
+      "title": "Boeing obtuvo la certificación de la FAA para el 737 Max 10 tras años de demoras",
+      "summary": "La Autoridad de Aviación de EE.UU. (FAA) aprobó finalmente el 737 Max 10, el modelo más grande de la familia Max, después de años de retrasos por problemas de seguridad.",
+      "detail": "Boeing arrastra desde 2019 una crisis de reputación y regulatoria tras los accidentes del 737 Max 8. Conseguir la certificación del Max 10 es un paso clave para recuperar pedidos y reactivar ingresos en su división comercial. Para los inversores, estas aprobaciones regulatorias son hitos que pueden impactar directamente en el precio de la acción y en la confianza del mercado sobre el futuro de la compañía.",
+      "tags": [
+        "Boeing",
+        "aviación",
+        "regulación"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "published_at": "2026-10-20T20:59:32Z",
+      "fecha_evento": "2026-10-20",
+      "tickers": [
+        "BA"
+      ]
+    },
+    {
+      "id": "netflix-earnings-q3-2026",
+      "type": "empresa",
+      "title": "Netflix superó las expectativas de ganancias del tercer trimestre, pero sus acciones cayeron por la guía de ingresos",
+      "summary": "Netflix reportó resultados mejores a los esperados por Wall Street en el tercer trimestre de 2026, pero las acciones bajaron porque la empresa dio una guía de ingresos publicitarios y crecimiento que decepcionó a los inversores.",
+      "detail": "En finanzas, no alcanza con ganar más de lo esperado: también importa lo que la empresa promete para el futuro. Si el mercado esperaba un crecimiento mayor en publicidad o suscriptores y no lo consiguió, puede vender las acciones aunque los números actuales sean buenos. Este fenómeno —subir con los resultados pero caer con la guía— es muy común y enseña que invertir en acciones implica apostar al futuro, no solo al presente.",
+      "tags": [
+        "streaming",
         "resultados",
+        "publicidad"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "published_at": "2026-10-20T21:30:06Z",
+      "fecha_evento": "2026-10-20",
+      "tickers": [
+        "NFLX"
+      ]
+    },
+    {
+      "id": "novo-cagrisema-obesity-oct2026",
+      "type": "empresa",
+      "title": "Novo Nordisk presentó resultados prometedores de su nuevo medicamento contra la obesidad",
+      "summary": "Novo Nordisk publicó datos de un análisis de fase avanzada que muestra que su inyección experimental CagriSema logró una pérdida de peso del 25% en mujeres, superando a su actual producto estrella Wegovy.",
+      "detail": "El mercado de medicamentos contra la obesidad (GLP-1) es uno de los de mayor crecimiento en la industria farmacéutica global. Si CagriSema demuestra ser más efectivo que Wegovy, podría convertirse en el próximo gran producto de Novo Nordisk, con impacto directo en sus ingresos futuros. Para quienes aprenden finanzas, este tipo de noticias muestra cómo los ensayos clínicos pueden mover el precio de una acción farmacéutica de forma significativa.",
+      "tags": [
+        "farmacéutica",
+        "obesidad",
+        "innovación"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
+      "published_at": "2026-10-20T16:11:02Z",
+      "fecha_evento": "2026-10-20",
+      "tickers": [
+        "NVO"
+      ]
+    },
+    {
+      "id": "gm-earnings-q3-2026",
+      "type": "empresa",
+      "title": "General Motors superó las estimaciones del tercer trimestre y ajustó su guía anual",
+      "summary": "GM reportó resultados del tercer trimestre mejores a los esperados por Wall Street y elevó su proyección de flujo de caja libre para todo 2026, aunque ajustó su rango de ganancias anuales.",
+      "detail": "Cuando una empresa como GM supera las expectativas y además mejora su proyección de flujo de caja, da señales positivas al mercado sobre su salud financiera. El flujo de caja libre es especialmente importante porque muestra cuánto dinero real genera el negocio después de sus inversiones, y es el que puede usarse para pagar dividendos, recomprar acciones o reducir deuda.",
+      "tags": [
         "automotriz",
-        "Wall Street"
+        "ganancias",
+        "flujo de caja"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-      "published_at": "2026-10-20T11:45:30Z",
+      "published_at": "2026-10-20T20:08:44Z",
       "fecha_evento": "2026-10-20",
       "tickers": [
         "GM"
       ]
     },
     {
-      "id": "ge-aerospace-outlook-2026",
+      "id": "spacex-earnings-q3-2026",
       "type": "empresa",
-      "title": "GE Aerospace sube su proyección de ingresos para todo 2026",
-      "summary": "GE Aerospace anunció al publicar sus resultados del tercer trimestre que espera un crecimiento de ingresos ajustados de entre 19% y 20% para el año completo, una mejora respecto a su guía anterior.",
-      "detail": "Que una empresa del tamaño de GE Aerospace suba su outlook después de resultados trimestrales muestra confianza en la demanda de motores y servicios de aviación, un sector muy ligado al comercio global y al turismo. Para un inversor que aprende, esto ilustra cómo las empresas industriales grandes funcionan como indicadores del ciclo económico: si venden más motores y repuestos, es porque las aerolíneas están creciendo.",
+      "title": "Las acciones de SpaceX subieron más del 5% en el after-hours tras sus resultados del tercer trimestre",
+      "summary": "SpaceX cerró el 20 de octubre con una leve baja, pero sus acciones rebotaron más de 5% en el mercado extendido luego de publicar sus resultados del tercer trimestre.",
+      "detail": "SpaceX cotiza en el Nasdaq bajo el ticker SPCX y combina el negocio de lanzamiento de cohetes reutilizables con el de internet satelital (Starlink). Las reacciones en el after-hours suelen ser más volátiles que durante la rueda normal porque hay menos operadores activos. Para quienes aprenden a invertir, este tipo de movimientos post-cierre ilustran cómo los resultados trimestrales pueden impactar rápidamente en el precio de una acción.",
       "tags": [
+        "tecnología",
         "aeroespacial",
-        "resultados",
-        "industria"
+        "ganancias"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/ge-aerospace-raises-fy26-outlook",
-      "published_at": "2026-10-20T11:10:28Z",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-20-spacex-stock-gains-after-market-close-q3-earnings-report",
+      "published_at": "2026-10-20T21:38:35Z",
       "fecha_evento": "2026-10-20",
       "tickers": [
-        "GE"
+        "SPCX"
       ]
     },
     {
-      "id": "jpmorgan-defense-investments-2026",
-      "type": "empresa",
-      "title": "JPMorgan ya invirtió u$s 5.000 millones en tecnología de defensa",
-      "summary": "JPMorgan Chase reveló que tiene u$s 5.000 millones desplegados de su propio balance en inversiones directas en defensa, incluyendo fábricas robotizadas y misiles hipersónicos. El banco está apostando fuerte a la industria de seguridad y cadenas de suministro militares.",
-      "detail": "Que un banco del tamaño de JPMorgan invierta directamente en defensa —no solo financiando a terceros— muestra un cambio de estrategia importante: los grandes bancos están buscando retornos en sectores que antes evitaban por cuestiones de imagen. Para quien aprende finanzas, esto ilustra cómo el contexto geopolítico mueve el capital institucional hacia sectores específicos, algo que impacta en los precios de las acciones del sector.",
-      "tags": [
-        "defensa",
-        "banca",
-        "inversión"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
-      "published_at": "2026-10-19T12:34:01Z",
-      "fecha_evento": "2026-10-19",
-      "tickers": [
-        "JPM"
-      ]
-    },
-    {
-      "id": "walmart-sams-club-membership-2026",
-      "type": "empresa",
-      "title": "Walmart lanzó una membresía conjunta con Sam's Club por u$s 120 al año",
-      "summary": "Walmart presentó una membresía combinada con Sam's Club que incluye beneficios de entrega y descuentos en combustible por u$s 120 anuales. La movida apuesta a fidelizar clientes y competir en conveniencia.",
-      "detail": "Las membresías pagas son una fuente de ingresos recurrentes y predecibles para los retailers, algo que el mercado valora mucho porque suaviza la volatilidad de las ventas. Al combinar dos marcas del mismo grupo, Walmart busca aumentar el valor percibido y reducir la probabilidad de que el cliente se vaya a la competencia, una estrategia que Amazon ya probó con éxito con Prime.",
-      "tags": [
-        "retail",
-        "consumo",
-        "estrategia"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html",
-      "published_at": "2026-10-20T10:00:01Z",
-      "fecha_evento": "2026-10-20",
-      "tickers": [
-        "WMT"
-      ]
-    },
-    {
-      "id": "ipos-ai-data-centers-flop-2026",
+      "id": "sp500-correction-warning-oct2026",
       "type": "mercado",
-      "title": "Las IPOs de centros de datos de IA siguen fracasando en octubre",
-      "summary": "Solo en octubre se cancelaron tres salidas a bolsa de proveedores de data centers vinculados a IA, respaldados por Nvidia, Blackstone y SoftBank. Los inversores dudan de que el gasto masivo en infraestructura de IA sea sostenible.",
-      "detail": "Una IPO cancelada es una señal de que el mercado no está dispuesto a pagar el precio que pide la empresa, lo que refleja escepticismo sobre las valuaciones del sector. El hecho de que esto ocurra en tres casos seguidos sugiere que el entusiasmo por la IA está chocando con una pregunta concreta: ¿cuándo van a generar ganancias reales todos estos centros de datos? Para un inversor que aprende, es un ejemplo claro de cómo la narrativa del mercado puede cambiar rápido.",
+      "title": "Analistas advierten que el S&P 500 podría caer un 15% en la próxima corrección",
+      "summary": "Un análisis de MarketWatch señala que los mercados alcistas suelen terminar de forma gradual y silenciosa, y que el S&P 500 podría enfrentar una corrección del 15%.",
+      "detail": "Entender cómo terminan los mercados alcistas es clave para cualquier inversor: a diferencia de los mínimos de un mercado bajista —que suelen llegar con pánico y ventas masivas— los máximos son más difíciles de detectar porque se dan de forma paulatina. Una corrección del 15% en el S&P 500 afectaría a fondos indexados y a cualquier portafolio con exposición a acciones globales, incluyendo los de ahorristas argentinos que invierten en CEDEARs.",
       "tags": [
-        "IA",
-        "IPO",
-        "mercado"
+        "S&P 500",
+        "corrección",
+        "mercado bursátil"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/south-korean-ipo-flop-is-the-latest-in-a-string-of-disappointments-for-the-global-ai-trade-fc97748c",
-      "published_at": "2026-10-20T09:30:00Z",
-      "fecha_evento": "2026-10-20",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "goldman-housing-market-2026",
-      "type": "economia",
-      "title": "Goldman Sachs advierte que el mercado inmobiliario de EE.UU. podría empeorar",
-      "summary": "El banco proyecta que el mercado de viviendas en EE.UU. seguirá deteriorándose, con tasas hipotecarias por encima del 7% y escasas transacciones por tercer año consecutivo. Inicio de construcciones y ventas siguen estancados.",
-      "detail": "Las tasas hipotecarias altas encarecen el crédito para comprar casas, lo que frena las ventas y la construcción. Este sector es clave para la economía porque arrastra al consumo en materiales, electrodomésticos y servicios. Si Goldman proyecta que empeorará, significa que el mercado no espera una baja significativa de tasas por parte de la Fed en el corto plazo, algo relevante para entender las expectativas sobre política monetaria.",
-      "tags": [
-        "inmobiliario",
-        "tasas",
-        "Fed"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/its-a-rough-housing-market-and-goldman-sachs-expects-it-to-get-worse-be2c5aac",
-      "published_at": "2026-10-20T08:13:00Z",
+      "source_url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "published_at": "2026-10-20T20:45:00Z",
       "fecha_evento": "2026-10-20",
       "tickers": []
     },
     {
-      "id": "earnings-season-beyond-ai-2026",
-      "type": "mercado",
-      "title": "La temporada de balances muestra cómo le va a la economía más allá de la IA",
-      "summary": "Con la temporada de resultados del tercer trimestre en pleno apogeo, el foco se corre de la tecnología hacia el consumo y la salud del resto de las empresas americanas. Los datos que surjan darán pistas sobre si la economía sigue firme o empieza a flaquear.",
-      "detail": "La temporada de balances es uno de los momentos más importantes del calendario financiero porque las empresas revelan cuánto vendieron, cuánto ganaron y qué esperan hacia adelante. Cuando el mercado está obsesionado con un sector —como hoy con la IA—, los resultados del resto de la economía suelen sorprender para bien o mal. Para alguien que aprende finanzas, es el momento ideal para entender cómo los datos reales de las empresas mueven los precios de las acciones.",
+      "id": "tesla-earnings-preview-oct2026",
+      "type": "empresa",
+      "title": "Los inversores de Tesla esperan novedades sobre robotaxis y robots más que los números financieros",
+      "summary": "Antes de que Tesla presente sus resultados, los analistas señalan que el mercado está más atento a las actualizaciones sobre vehículos autónomos y robots humanoides que a las cifras contables del trimestre.",
+      "detail": "Tesla es un caso particular en finanzas: su valuación no depende solo de cuántos autos vende hoy, sino de las apuestas del mercado sobre negocios futuros como el transporte autónomo y la robótica. Esto ilustra cómo el precio de una acción refleja expectativas, no solo resultados presentes. Para quienes aprenden finanzas, es un buen ejemplo de la diferencia entre valor y precio en el mercado.",
       "tags": [
-        "balances",
-        "economía",
-        "consumo"
+        "Tesla",
+        "vehículos autónomos",
+        "expectativas"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-ai-boom-is-getting-all-the-attention-were-about-to-find-out-how-the-rest-of-the-economy-is-holding-up-77b2266d",
-      "published_at": "2026-10-20T11:30:00Z",
+      "source_url": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
+      "published_at": "2026-10-20T18:15:00Z",
       "fecha_evento": "2026-10-20",
-      "tickers": []
+      "tickers": [
+        "TSLA"
+      ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.540",
-      "valor_num": 1540.0,
-      "delta_pct": 0.33
+      "valor": "$1.545",
+      "valor_num": 1545.0,
+      "delta_pct": 0.65
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.560",
-      "valor_num": 1560.0,
-      "delta_pct": 0.32
+      "valor": "$1.570",
+      "valor_num": 1570.0,
+      "delta_pct": 0.96
     },
     {
       "label": "MEP",
-      "valor": "$1.544",
-      "valor_num": 1544.1,
-      "delta_pct": 0.1
+      "valor": "$1.549",
+      "valor_num": 1548.8,
+      "delta_pct": 0.41
     },
     {
       "label": "CCL",
-      "valor": "$1.626",
-      "valor_num": 1625.6,
-      "delta_pct": 0.31
+      "valor": "$1.631",
+      "valor_num": 1630.9,
+      "delta_pct": 0.64
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.406",
-      "valor_num": 81406.0,
-      "delta_pct": -1.08
+      "valor": "US$ 82.905",
+      "valor_num": 82905.0,
+      "delta_pct": 1.1
     },
     {
       "label": "S&P 500",
-      "valor": "7.691",
-      "valor_num": 7690.73,
-      "delta_pct": -1.49
+      "valor": "7.713",
+      "valor_num": 7712.57,
+      "delta_pct": -1.19
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.138",
-      "valor_num": 4138.4,
-      "delta_pct": -0.76
+      "valor": "US$ 4.142",
+      "valor_num": 4142.5,
+      "delta_pct": -0.66
     }
   ]
 }
