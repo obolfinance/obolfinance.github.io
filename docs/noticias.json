@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T12:01:10.690145+00:00",
+  "generated_at": "2026-10-21T22:01:20.484582+00:00",
   "items": [
     {
       "id": "uk-inflation-sept-2026",
       "type": "economia",
-      "title": "La inflación del Reino Unido saltó al 3,5% y complica al banco central",
-      "summary": "La inflación en el Reino Unido llegó al 3,5% anual en septiembre, impulsada por el aumento en los combustibles para autos. El dato superó las expectativas y refuerza las apuestas de que el Banco de Inglaterra podría volver a subir las tasas de interés.",
-      "detail": "Cuando la inflación sorprende al alza, los mercados suelen anticipar que el banco central va a subir las tasas para enfriarla. Tasas más altas en el Reino Unido pueden atraer capitales hacia la libra esterlina y afectar los precios de los bonos británicos. Para alguien que aprende finanzas, este es un ejemplo clásico de cómo un dato de inflación mueve las expectativas de política monetaria casi de inmediato.",
+      "title": "La inflación del Reino Unido trepó al 3,5% en septiembre",
+      "summary": "La inflación en el Reino Unido subió al 3,5% anual en septiembre, por encima de lo esperado, impulsada principalmente por el encarecimiento de los combustibles. El dato refuerza las expectativas de que el Banco de Inglaterra suba las tasas de interés.",
+      "detail": "Cuando la inflación sorprende al alza, los bancos centrales suelen responder subiendo las tasas de interés para enfriar la economía. Esto encarece el crédito, puede frenar el consumo y generalmente fortalece la moneda local. Para quienes aprenden finanzas, este dato muestra cómo un solo número macroeconómico puede mover expectativas de política monetaria y, en cadena, afectar bonos, acciones y tipos de cambio.",
       "tags": [
         "inflación",
         "tasas de interés",
@@ -19,14 +19,14 @@
       "tickers": []
     },
     {
-      "id": "us-housing-sept-2026",
+      "id": "us-housing-fed-oct2026",
       "type": "economia",
       "title": "El mercado inmobiliario de EE.UU. da señales de alerta mientras la Fed evalúa más subas de tasas",
-      "summary": "Los datos del sector vivienda en Estados Unidos se deterioraron en septiembre, justo cuando la Reserva Federal analiza si seguir subiendo las tasas de interés.",
-      "detail": "El mercado inmobiliario es uno de los sectores más sensibles a las tasas de interés, porque la mayoría de las compras se financian con hipotecas. Cuando las tasas suben, los créditos se encarecen y la demanda de viviendas cae. Este tipo de datos le da señales a la Fed sobre si su política está teniendo el efecto deseado, y puede influir en la decisión de pausar o continuar con las subas.",
+      "summary": "Los datos del sector inmobiliario de EE.UU. se deterioraron en septiembre, justo cuando la Reserva Federal está considerando nuevas subas de tasas de interés. El combo de tasas altas y precios elevados complica el acceso a la vivienda.",
+      "detail": "El mercado inmobiliario es uno de los sectores más sensibles a las tasas de interés, porque la mayoría de las compras se financian con hipotecas. Cuando la Fed sube tasas, las hipotecas se encarecen y la demanda de viviendas cae. Este tipo de datos retroalimenta las decisiones del banco central: si la economía real empieza a sufrir, puede moderar el ritmo de subas. Entender este mecanismo ayuda a ver cómo la política monetaria impacta en la vida cotidiana.",
       "tags": [
-        "vivienda",
         "Fed",
+        "vivienda",
         "tasas de interés"
       ],
       "source_name": "CNBC",
@@ -36,53 +36,35 @@
       "tickers": []
     },
     {
-      "id": "united-airlines-q3-2026",
+      "id": "southwest-airlines-profit-cut-oct2026",
       "type": "empresa",
-      "title": "United Airlines recortó su pronóstico de ganancias por el alza del combustible",
-      "summary": "United Airlines bajó sus proyecciones de rentabilidad para 2026 por el aumento en los precios del combustible, aunque los pasajeros siguen reservando vuelos a pesar de las tarifas más altas.",
-      "detail": "El combustible es uno de los principales costos de las aerolíneas, por lo que cuando su precio sube, los márgenes de ganancia se comprimen. Lo interesante acá es que la demanda de vuelos se mantiene fuerte a pesar de los precios más altos, lo que muestra cómo el comportamiento del consumidor no siempre responde de forma inmediata a los aumentos de costos. Para inversores, esta tensión entre costos y demanda es clave para evaluar la salud de una empresa.",
+      "title": "Southwest y United recortan sus previsiones de ganancia por el alza del combustible",
+      "summary": "Southwest Airlines se convirtió en la tercera aerolínea importante de EE.UU. en recortar su pronóstico de ganancias para 2026 debido al aumento en el precio del combustible. United Airlines también redujo su perspectiva anual por el mismo motivo, aunque los viajeros siguen reservando vuelos pese a las tarifas más altas.",
+      "detail": "El precio del combustible es uno de los costos más grandes para las aerolíneas y escapa a su control directo. Cuando sube, comprime los márgenes de ganancia y obliga a revisar las proyecciones financieras. El hecho de que tres grandes aerolíneas hagan el mismo movimiento en poco tiempo muestra cómo un factor externo —el precio del petróleo— puede golpear a toda una industria simultáneamente. Para inversores, esto es una señal de que los resultados del sector pueden seguir bajo presión si el combustible no baja.",
       "tags": [
         "aerolíneas",
         "combustible",
         "ganancias"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-      "published_at": "2026-10-21T11:27:59Z",
-      "fecha_evento": "2026-10-20",
+      "source_url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+      "published_at": "2026-10-21T21:07:11Z",
+      "fecha_evento": "2026-10-21",
       "tickers": [
+        "LUV",
         "UAL"
       ]
     },
     {
-      "id": "boeing-737-max10-faa-2026",
+      "id": "netflix-earnings-q3-2026",
       "type": "empresa",
-      "title": "Boeing obtuvo la aprobación de la FAA para su 737 Max 10 tras años de retrasos",
-      "summary": "La Autoridad Federal de Aviación de EE.UU. (FAA) aprobó finalmente el Boeing 737 Max 10, el modelo más grande de la familia, que tenía previsto volar desde 2020 pero sufrió múltiples demoras por problemas de seguridad.",
-      "detail": "La certificación de un avión es un proceso regulatorio largo y costoso: sin ella, el fabricante no puede vender ni operar el modelo comercialmente. Para Boeing, esta aprobación representa una fuente potencial de ingresos que estuvo bloqueada por años. Es un buen ejemplo de cómo el riesgo regulatorio puede afectar directamente el valor y las perspectivas de una empresa.",
+      "title": "Netflix superó las expectativas del tercer trimestre, pero la acción cayó por la guía de publicidad",
+      "summary": "Netflix presentó resultados del tercer trimestre por encima de lo estimado por Wall Street, pero sus acciones bajaron un 5,3% después de que la compañía recortó sus proyecciones de ingresos publicitarios para el cuarto trimestre.",
+      "detail": "Un concepto clave en mercados: los resultados no solo se comparan con el trimestre anterior, sino con lo que los analistas esperaban. Netflix ganó más de lo previsto, pero decepcionó con su guía futura —es decir, lo que proyecta para los próximos meses—. Esto ilustra que en bolsa lo que importa muchas veces no es si a una empresa le fue bien, sino si le fue mejor o peor de lo que el mercado anticipaba. La publicidad es un área de crecimiento clave para Netflix y cualquier señal de debilidad ahí preocupa a los inversores.",
       "tags": [
-        "Boeing",
-        "regulación",
-        "aviación"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-      "published_at": "2026-10-20T22:01:11Z",
-      "fecha_evento": "2026-10-20",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "netflix-q3-2026",
-      "type": "empresa",
-      "title": "Netflix superó las expectativas del tercer trimestre, pero sus acciones cayeron por la guía de ingresos",
-      "summary": "Netflix publicó resultados del tercer trimestre mejores a lo esperado, pero las acciones bajaron porque los inversores quedaron disconformes con las proyecciones de publicidad y de crecimiento de ingresos hacia adelante.",
-      "detail": "En finanzas, a veces una empresa puede reportar buenos resultados pasados y aun así ver caer su acción si las perspectivas futuras decepcionan. Esto muestra que el precio de una acción no solo refleja lo que pasó, sino sobre todo lo que se espera que pase. La guía futura de una empresa es una señal clave que los mercados miran con mucha atención.",
-      "tags": [
-        "Netflix",
-        "ganancias",
-        "acciones"
+        "streaming",
+        "resultados",
+        "publicidad"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
@@ -93,76 +75,80 @@
       ]
     },
     {
-      "id": "general-motors-q3-2026",
+      "id": "ebay-layoffs-oct2026",
       "type": "empresa",
-      "title": "General Motors superó las expectativas del tercer trimestre y ajustó su guía anual",
-      "summary": "GM reportó resultados del tercer trimestre por encima de lo que esperaba Wall Street y subió su proyección de flujo de caja libre para todo el año 2026.",
-      "detail": "El flujo de caja libre es el dinero que le queda a una empresa después de pagar sus gastos e inversiones, y es uno de los indicadores más importantes para evaluar la salud financiera real de un negocio. Que GM lo mejore junto con resultados trimestrales sólidos es una señal positiva para los inversores. También es útil ver cómo una empresa automotriz puede crecer incluso en un contexto de presión de precios y competencia tecnológica.",
+      "title": "eBay despide al 9% de su personal en su segunda ronda de recortes del año",
+      "summary": "eBay anunció el despido de aproximadamente 1.000 empleados, equivalente al 9% de su fuerza laboral, mientras busca concentrarse en sus prioridades estratégicas clave. Es el segundo recorte de empleo que realiza la compañía en 2026.",
+      "detail": "Los recortes de personal en grandes empresas tecnológicas suelen ser una señal de que la compañía está priorizando la rentabilidad sobre el crecimiento. Para los inversores, esto puede ser positivo en el corto plazo porque reduce costos, pero también indica que el negocio no está creciendo al ritmo esperado. Que sea la segunda ronda de despidos en el mismo año sugiere presión sostenida sobre el modelo de negocio de eBay.",
       "tags": [
-        "General Motors",
-        "ganancias",
-        "automotriz"
+        "tecnología",
+        "despidos",
+        "empresas"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-      "published_at": "2026-10-20T20:08:44Z",
-      "fecha_evento": "2026-10-20",
+      "source_url": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
+      "published_at": "2026-10-21T15:17:03Z",
+      "fecha_evento": "2026-10-21",
       "tickers": [
-        "GM"
+        "EBAY"
       ]
     },
     {
-      "id": "nvidia-manufacturing-expansion-2026",
+      "id": "goldman-jpmorgan-morganstanley-ai-trading-2026",
       "type": "empresa",
-      "title": "NVIDIA anunció que expandirá su capacidad de producción global para satisfacer la demanda de IA",
-      "summary": "NVIDIA informó que trabaja con seis socios de su cadena de suministro para ampliar su capacidad de fabricación a nivel mundial y hacer frente a la creciente demanda de infraestructura de inteligencia artificial.",
-      "detail": "La cadena de suministro es un factor crítico para empresas tecnológicas como NVIDIA: si no pueden producir suficientes chips, no pueden capturar la demanda aunque esta sea enorme. Expandir capacidad con socios implica inversiones importantes y riesgos de ejecución, pero también muestra que la demanda de IA sigue siendo robusta. Para quienes aprenden finanzas, esto ilustra cómo la estrategia operativa impacta directamente en las perspectivas de crecimiento de una empresa.",
+      "title": "Goldman Sachs, JPMorgan y Morgan Stanley generaron u$s 52.000 millones en trading de acciones este año",
+      "summary": "Los tres grandes bancos de Wall Street acumularon 52.000 millones de dólares en ingresos por trading de acciones en lo que va de 2026, captando alrededor del 80% del mercado gracias al auge de la IA y los préstamos con margen a fondos de cobertura.",
+      "detail": "El trading de acciones de los grandes bancos se dispara cuando hay alta actividad en los mercados, especialmente en contextos de boom tecnológico como el actual con la IA. Los préstamos con margen —es decir, prestarle dinero a inversores para que compren más acciones— generan ingresos adicionales pero también pueden amplificar la volatilidad del mercado. La concentración del 80% del negocio en solo tres bancos muestra cómo en finanzas los jugadores más grandes tienden a capturar una porción desproporcionada de las ganancias.",
       "tags": [
-        "NVIDIA",
-        "inteligencia artificial",
-        "tecnología"
+        "Wall Street",
+        "bancos",
+        "inteligencia artificial"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+      "published_at": "2026-10-21T15:30:50Z",
+      "fecha_evento": "2026-10-21",
+      "tickers": [
+        "GS",
+        "JPM",
+        "MS"
+      ]
+    },
+    {
+      "id": "bitcoin-rebote-oct2026",
+      "type": "mercado",
+      "title": "Bitcoin rebotó un 2,4% y llegó a u$s 84.489 impulsado por el rally tecnológico",
+      "summary": "Bitcoin subió 2,4% hasta los 84.489 dólares, Ethereum avanzó 2,3% y Solana ganó 1,9%, en un contexto en que los inversores volvieron a activos de mayor riesgo acompañando el rally de las acciones tecnológicas.",
+      "detail": "Las criptomonedas suelen moverse en sintonía con los activos de riesgo como las acciones tecnológicas: cuando el apetito inversor sube, tienden a subir juntos; cuando hay miedo, caen juntos. Este comportamiento se llama correlación y es importante entenderlo porque muestra que las cripto no son necesariamente un activo descorrelacionado del resto del mercado. Para alguien que está aprendiendo finanzas, observar estos movimientos conjuntos ayuda a entender cómo se mueve el 'apetito por el riesgo' de los inversores globales.",
+      "tags": [
+        "criptomonedas",
+        "bitcoin",
+        "mercados"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/nvidia-expand-global-manufacturing-capacity-meet-ai-demand",
-      "published_at": "2026-10-21T11:21:33Z",
+      "source_url": "https://www.nasdaq.com/articles/crypto-market-today-oct-21-bitcoin-rebounds-tech-rally",
+      "published_at": "2026-10-21T21:36:39Z",
       "fecha_evento": "2026-10-21",
       "tickers": [
-        "NVDA"
+        "BTC",
+        "ETH",
+        "SOL"
       ]
     },
     {
-      "id": "musk-spacex-tesla-merger-2026",
-      "type": "empresa",
-      "title": "Musk dijo que explora una megafusión entre SpaceX y Tesla",
-      "summary": "Elon Musk confirmó que está analizando la posibilidad de fusionar SpaceX y Tesla en una sola compañía, lo que generó revuelo en Wall Street sobre cuánto podría valer una empresa combinada.",
-      "detail": "Una fusión entre dos empresas tan grandes y de sectores distintos como el automotriz y el aeroespacial sería una operación extraordinaria. Las fusiones suelen mover fuerte el precio de las acciones porque cambian las expectativas sobre el valor futuro de cada empresa. Para alguien que aprende finanzas, este caso es útil para entender cómo los rumores de fusiones y adquisiciones generan volatilidad en los mercados incluso antes de que haya un acuerdo formal.",
+      "id": "persian-gulf-oil-oct2026",
+      "type": "mercado",
+      "title": "El petróleo del Golfo Pérsico vuelve a fluir a niveles previos a la guerra con Irán, pero los precios no bajan",
+      "summary": "Los flujos de petróleo desde el Golfo Pérsico en octubre casi volvieron a los niveles anteriores al conflicto con Irán, pero los operadores del mercado siguen cautelosos ante una recuperación que consideran frágil y los precios no ceden.",
+      "detail": "El precio del petróleo depende tanto de la oferta física como de las expectativas y la confianza del mercado. Aunque el flujo de crudo se normalizó, los traders desconfían de la estabilidad de esa recuperación y mantienen una prima de riesgo en el precio. Esto muestra un concepto clave: los mercados de materias primas no solo reaccionan a datos concretos, sino también a la incertidumbre geopolítica. Para Argentina, donde el precio del petróleo impacta en la inflación global y en los costos de las aerolíneas y empresas, este tipo de noticias tiene consecuencias indirectas pero reales.",
       "tags": [
-        "fusiones",
-        "Tesla",
-        "SpaceX"
+        "petróleo",
+        "geopolítica",
+        "materias primas"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories",
-      "published_at": "2026-10-21T11:39:00Z",
-      "fecha_evento": "2026-10-21",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "former-google-ceo-china-ai-2026",
-      "type": "discurso",
-      "title": "El ex CEO de Google advirtió que China está solo 6 meses detrás de EE.UU. en inteligencia artificial",
-      "summary": "El ex director ejecutivo de Google afirmó que China está a apenas seis meses de distancia de Estados Unidos en la carrera por la inteligencia artificial, y que la IA no es una burbuja sino crecimiento real con clientes reales.",
-      "detail": "La brecha tecnológica entre EE.UU. y China en IA es un tema que afecta decisiones de inversión globales, regulaciones y hasta la geopolítica. Que una figura como el ex CEO de Google diga que China está tan cerca cambia la narrativa habitual de superioridad tecnológica occidental. Para inversores, entender quién lidera la carrera de la IA es clave para evaluar dónde pueden surgir las empresas más valiosas del futuro.",
-      "tags": [
-        "inteligencia artificial",
-        "China",
-        "geopolítica"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
-      "published_at": "2026-10-21T10:12:00Z",
+      "source_url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
+      "published_at": "2026-10-21T21:14:00Z",
       "fecha_evento": "2026-10-21",
       "tickers": []
     }
@@ -176,39 +162,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.570",
-      "valor_num": 1570.0,
-      "delta_pct": 0.64
+      "valor": "$1.565",
+      "valor_num": 1565.0,
+      "delta_pct": 0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.549",
-      "valor_num": 1548.8,
-      "delta_pct": 0.3
+      "valor": "$1.554",
+      "valor_num": 1553.8,
+      "delta_pct": 0.63
     },
     {
       "label": "CCL",
-      "valor": "$1.631",
-      "valor_num": 1630.9,
-      "delta_pct": 0.33
+      "valor": "$1.638",
+      "valor_num": 1638.0,
+      "delta_pct": 0.76
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 83.442",
-      "valor_num": 83442.0,
-      "delta_pct": 2.48
+      "valor": "US$ 84.769",
+      "valor_num": 84769.0,
+      "delta_pct": 2.24
     },
     {
       "label": "S&P 500",
-      "valor": "7.713",
-      "valor_num": 7712.57,
-      "delta_pct": -1.19
+      "valor": "7.757",
+      "valor_num": 7757.17,
+      "delta_pct": 0.5
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.159",
-      "valor_num": 4158.9,
-      "delta_pct": -0.53
+      "valor": "US$ 4.160",
+      "valor_num": 4159.5,
+      "delta_pct": -0.52
     }
   ]
 }
