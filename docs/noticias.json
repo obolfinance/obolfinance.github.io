@@ -1,29 +1,46 @@
 {
-  "generated_at": "2026-10-20T22:01:08.319743+00:00",
+  "generated_at": "2026-10-21T12:01:10.690145+00:00",
   "items": [
     {
-      "id": "housing-fed-rates-oct2026",
+      "id": "uk-inflation-sept-2026",
       "type": "economia",
-      "title": "El mercado inmobiliario da señales de alerta mientras la Fed evalúa más subas de tasas",
-      "summary": "Los datos del mercado inmobiliario en EE.UU. se deterioraron en septiembre, justo cuando la Reserva Federal analiza si subir aún más las tasas de interés.",
-      "detail": "El mercado inmobiliario es uno de los sectores más sensibles a las tasas de interés: cuando suben, las hipotecas se encarecen y menos gente puede comprar casas. Si el sector inmobiliario se frena, suele arrastrar a la construcción, los materiales y el empleo. Por eso los datos de vivienda son un termómetro clave para entender cómo impactan las decisiones de la Fed en la economía real.",
+      "title": "La inflación del Reino Unido saltó al 3,5% y complica al banco central",
+      "summary": "La inflación en el Reino Unido llegó al 3,5% anual en septiembre, impulsada por el aumento en los combustibles para autos. El dato superó las expectativas y refuerza las apuestas de que el Banco de Inglaterra podría volver a subir las tasas de interés.",
+      "detail": "Cuando la inflación sorprende al alza, los mercados suelen anticipar que el banco central va a subir las tasas para enfriarla. Tasas más altas en el Reino Unido pueden atraer capitales hacia la libra esterlina y afectar los precios de los bonos británicos. Para alguien que aprende finanzas, este es un ejemplo clásico de cómo un dato de inflación mueve las expectativas de política monetaria casi de inmediato.",
       "tags": [
+        "inflación",
         "tasas de interés",
-        "Fed",
-        "inmobiliario"
+        "Reino Unido"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-      "published_at": "2026-10-20T19:28:43Z",
-      "fecha_evento": "2026-10-20",
+      "source_url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "published_at": "2026-10-21T07:50:10Z",
+      "fecha_evento": "2026-10-21",
       "tickers": []
     },
     {
-      "id": "united-airlines-outlook-oct2026",
+      "id": "us-housing-sept-2026",
+      "type": "economia",
+      "title": "El mercado inmobiliario de EE.UU. da señales de alerta mientras la Fed evalúa más subas de tasas",
+      "summary": "Los datos del sector vivienda en Estados Unidos se deterioraron en septiembre, justo cuando la Reserva Federal analiza si seguir subiendo las tasas de interés.",
+      "detail": "El mercado inmobiliario es uno de los sectores más sensibles a las tasas de interés, porque la mayoría de las compras se financian con hipotecas. Cuando las tasas suben, los créditos se encarecen y la demanda de viviendas cae. Este tipo de datos le da señales a la Fed sobre si su política está teniendo el efecto deseado, y puede influir en la decisión de pausar o continuar con las subas.",
+      "tags": [
+        "vivienda",
+        "Fed",
+        "tasas de interés"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "published_at": "2026-10-21T11:20:58Z",
+      "fecha_evento": "2026-10-21",
+      "tickers": []
+    },
+    {
+      "id": "united-airlines-q3-2026",
       "type": "empresa",
-      "title": "United Airlines recortó su proyección de ganancias por el alza del combustible",
-      "summary": "United Airlines bajó su estimación de ganancias para 2026 porque el precio del combustible sigue subiendo, aunque los pasajeros continúan reservando vuelos incluso con tarifas más altas.",
-      "detail": "El costo del combustible es uno de los gastos más grandes para las aerolíneas, por lo que una suba sostenida del precio del petróleo puede comprimir sus márgenes aunque los ingresos crezcan. Que los viajeros sigan reservando a pesar de las tarifas más caras muestra cómo la demanda puede ser resiliente en el corto plazo. Este tipo de ajuste de guidance (proyección) es una señal importante para los inversores sobre la rentabilidad futura de la empresa.",
+      "title": "United Airlines recortó su pronóstico de ganancias por el alza del combustible",
+      "summary": "United Airlines bajó sus proyecciones de rentabilidad para 2026 por el aumento en los precios del combustible, aunque los pasajeros siguen reservando vuelos a pesar de las tarifas más altas.",
+      "detail": "El combustible es uno de los principales costos de las aerolíneas, por lo que cuando su precio sube, los márgenes de ganancia se comprimen. Lo interesante acá es que la demanda de vuelos se mantiene fuerte a pesar de los precios más altos, lo que muestra cómo el comportamiento del consumidor no siempre responde de forma inmediata a los aumentos de costos. Para inversores, esta tensión entre costos y demanda es clave para evaluar la salud de una empresa.",
       "tags": [
         "aerolíneas",
         "combustible",
@@ -31,79 +48,60 @@
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-      "published_at": "2026-10-20T20:23:58Z",
+      "published_at": "2026-10-21T11:27:59Z",
       "fecha_evento": "2026-10-20",
       "tickers": [
         "UAL"
       ]
     },
     {
-      "id": "boeing-737max10-faa-oct2026",
+      "id": "boeing-737-max10-faa-2026",
       "type": "empresa",
-      "title": "Boeing obtuvo la certificación de la FAA para el 737 Max 10 tras años de demoras",
-      "summary": "La Autoridad de Aviación de EE.UU. (FAA) aprobó finalmente el 737 Max 10, el modelo más grande de la familia Max, después de años de retrasos por problemas de seguridad.",
-      "detail": "Boeing arrastra desde 2019 una crisis de reputación y regulatoria tras los accidentes del 737 Max 8. Conseguir la certificación del Max 10 es un paso clave para recuperar pedidos y reactivar ingresos en su división comercial. Para los inversores, estas aprobaciones regulatorias son hitos que pueden impactar directamente en el precio de la acción y en la confianza del mercado sobre el futuro de la compañía.",
+      "title": "Boeing obtuvo la aprobación de la FAA para su 737 Max 10 tras años de retrasos",
+      "summary": "La Autoridad Federal de Aviación de EE.UU. (FAA) aprobó finalmente el Boeing 737 Max 10, el modelo más grande de la familia, que tenía previsto volar desde 2020 pero sufrió múltiples demoras por problemas de seguridad.",
+      "detail": "La certificación de un avión es un proceso regulatorio largo y costoso: sin ella, el fabricante no puede vender ni operar el modelo comercialmente. Para Boeing, esta aprobación representa una fuente potencial de ingresos que estuvo bloqueada por años. Es un buen ejemplo de cómo el riesgo regulatorio puede afectar directamente el valor y las perspectivas de una empresa.",
       "tags": [
         "Boeing",
-        "aviación",
-        "regulación"
+        "regulación",
+        "aviación"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-      "published_at": "2026-10-20T20:59:32Z",
+      "published_at": "2026-10-20T22:01:11Z",
       "fecha_evento": "2026-10-20",
       "tickers": [
         "BA"
       ]
     },
     {
-      "id": "netflix-earnings-q3-2026",
+      "id": "netflix-q3-2026",
       "type": "empresa",
-      "title": "Netflix superó las expectativas de ganancias del tercer trimestre, pero sus acciones cayeron por la guía de ingresos",
-      "summary": "Netflix reportó resultados mejores a los esperados por Wall Street en el tercer trimestre de 2026, pero las acciones bajaron porque la empresa dio una guía de ingresos publicitarios y crecimiento que decepcionó a los inversores.",
-      "detail": "En finanzas, no alcanza con ganar más de lo esperado: también importa lo que la empresa promete para el futuro. Si el mercado esperaba un crecimiento mayor en publicidad o suscriptores y no lo consiguió, puede vender las acciones aunque los números actuales sean buenos. Este fenómeno —subir con los resultados pero caer con la guía— es muy común y enseña que invertir en acciones implica apostar al futuro, no solo al presente.",
+      "title": "Netflix superó las expectativas del tercer trimestre, pero sus acciones cayeron por la guía de ingresos",
+      "summary": "Netflix publicó resultados del tercer trimestre mejores a lo esperado, pero las acciones bajaron porque los inversores quedaron disconformes con las proyecciones de publicidad y de crecimiento de ingresos hacia adelante.",
+      "detail": "En finanzas, a veces una empresa puede reportar buenos resultados pasados y aun así ver caer su acción si las perspectivas futuras decepcionan. Esto muestra que el precio de una acción no solo refleja lo que pasó, sino sobre todo lo que se espera que pase. La guía futura de una empresa es una señal clave que los mercados miran con mucha atención.",
       "tags": [
-        "streaming",
-        "resultados",
-        "publicidad"
+        "Netflix",
+        "ganancias",
+        "acciones"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-      "published_at": "2026-10-20T21:30:06Z",
+      "published_at": "2026-10-20T22:29:45Z",
       "fecha_evento": "2026-10-20",
       "tickers": [
         "NFLX"
       ]
     },
     {
-      "id": "novo-cagrisema-obesity-oct2026",
+      "id": "general-motors-q3-2026",
       "type": "empresa",
-      "title": "Novo Nordisk presentó resultados prometedores de su nuevo medicamento contra la obesidad",
-      "summary": "Novo Nordisk publicó datos de un análisis de fase avanzada que muestra que su inyección experimental CagriSema logró una pérdida de peso del 25% en mujeres, superando a su actual producto estrella Wegovy.",
-      "detail": "El mercado de medicamentos contra la obesidad (GLP-1) es uno de los de mayor crecimiento en la industria farmacéutica global. Si CagriSema demuestra ser más efectivo que Wegovy, podría convertirse en el próximo gran producto de Novo Nordisk, con impacto directo en sus ingresos futuros. Para quienes aprenden finanzas, este tipo de noticias muestra cómo los ensayos clínicos pueden mover el precio de una acción farmacéutica de forma significativa.",
+      "title": "General Motors superó las expectativas del tercer trimestre y ajustó su guía anual",
+      "summary": "GM reportó resultados del tercer trimestre por encima de lo que esperaba Wall Street y subió su proyección de flujo de caja libre para todo el año 2026.",
+      "detail": "El flujo de caja libre es el dinero que le queda a una empresa después de pagar sus gastos e inversiones, y es uno de los indicadores más importantes para evaluar la salud financiera real de un negocio. Que GM lo mejore junto con resultados trimestrales sólidos es una señal positiva para los inversores. También es útil ver cómo una empresa automotriz puede crecer incluso en un contexto de presión de precios y competencia tecnológica.",
       "tags": [
-        "farmacéutica",
-        "obesidad",
-        "innovación"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/20/novo-cagrisema-women-weight-loss-analysis.html",
-      "published_at": "2026-10-20T16:11:02Z",
-      "fecha_evento": "2026-10-20",
-      "tickers": [
-        "NVO"
-      ]
-    },
-    {
-      "id": "gm-earnings-q3-2026",
-      "type": "empresa",
-      "title": "General Motors superó las estimaciones del tercer trimestre y ajustó su guía anual",
-      "summary": "GM reportó resultados del tercer trimestre mejores a los esperados por Wall Street y elevó su proyección de flujo de caja libre para todo 2026, aunque ajustó su rango de ganancias anuales.",
-      "detail": "Cuando una empresa como GM supera las expectativas y además mejora su proyección de flujo de caja, da señales positivas al mercado sobre su salud financiera. El flujo de caja libre es especialmente importante porque muestra cuánto dinero real genera el negocio después de sus inversiones, y es el que puede usarse para pagar dividendos, recomprar acciones o reducir deuda.",
-      "tags": [
-        "automotriz",
+        "General Motors",
         "ganancias",
-        "flujo de caja"
+        "automotriz"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
@@ -114,59 +112,59 @@
       ]
     },
     {
-      "id": "spacex-earnings-q3-2026",
+      "id": "nvidia-manufacturing-expansion-2026",
       "type": "empresa",
-      "title": "Las acciones de SpaceX subieron más del 5% en el after-hours tras sus resultados del tercer trimestre",
-      "summary": "SpaceX cerró el 20 de octubre con una leve baja, pero sus acciones rebotaron más de 5% en el mercado extendido luego de publicar sus resultados del tercer trimestre.",
-      "detail": "SpaceX cotiza en el Nasdaq bajo el ticker SPCX y combina el negocio de lanzamiento de cohetes reutilizables con el de internet satelital (Starlink). Las reacciones en el after-hours suelen ser más volátiles que durante la rueda normal porque hay menos operadores activos. Para quienes aprenden a invertir, este tipo de movimientos post-cierre ilustran cómo los resultados trimestrales pueden impactar rápidamente en el precio de una acción.",
+      "title": "NVIDIA anunció que expandirá su capacidad de producción global para satisfacer la demanda de IA",
+      "summary": "NVIDIA informó que trabaja con seis socios de su cadena de suministro para ampliar su capacidad de fabricación a nivel mundial y hacer frente a la creciente demanda de infraestructura de inteligencia artificial.",
+      "detail": "La cadena de suministro es un factor crítico para empresas tecnológicas como NVIDIA: si no pueden producir suficientes chips, no pueden capturar la demanda aunque esta sea enorme. Expandir capacidad con socios implica inversiones importantes y riesgos de ejecución, pero también muestra que la demanda de IA sigue siendo robusta. Para quienes aprenden finanzas, esto ilustra cómo la estrategia operativa impacta directamente en las perspectivas de crecimiento de una empresa.",
       "tags": [
-        "tecnología",
-        "aeroespacial",
-        "ganancias"
+        "NVIDIA",
+        "inteligencia artificial",
+        "tecnología"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-20-spacex-stock-gains-after-market-close-q3-earnings-report",
-      "published_at": "2026-10-20T21:38:35Z",
-      "fecha_evento": "2026-10-20",
+      "source_url": "https://www.nasdaq.com/articles/nvidia-expand-global-manufacturing-capacity-meet-ai-demand",
+      "published_at": "2026-10-21T11:21:33Z",
+      "fecha_evento": "2026-10-21",
       "tickers": [
-        "SPCX"
+        "NVDA"
       ]
     },
     {
-      "id": "sp500-correction-warning-oct2026",
-      "type": "mercado",
-      "title": "Analistas advierten que el S&P 500 podría caer un 15% en la próxima corrección",
-      "summary": "Un análisis de MarketWatch señala que los mercados alcistas suelen terminar de forma gradual y silenciosa, y que el S&P 500 podría enfrentar una corrección del 15%.",
-      "detail": "Entender cómo terminan los mercados alcistas es clave para cualquier inversor: a diferencia de los mínimos de un mercado bajista —que suelen llegar con pánico y ventas masivas— los máximos son más difíciles de detectar porque se dan de forma paulatina. Una corrección del 15% en el S&P 500 afectaría a fondos indexados y a cualquier portafolio con exposición a acciones globales, incluyendo los de ahorristas argentinos que invierten en CEDEARs.",
-      "tags": [
-        "S&P 500",
-        "corrección",
-        "mercado bursátil"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-      "published_at": "2026-10-20T20:45:00Z",
-      "fecha_evento": "2026-10-20",
-      "tickers": []
-    },
-    {
-      "id": "tesla-earnings-preview-oct2026",
+      "id": "musk-spacex-tesla-merger-2026",
       "type": "empresa",
-      "title": "Los inversores de Tesla esperan novedades sobre robotaxis y robots más que los números financieros",
-      "summary": "Antes de que Tesla presente sus resultados, los analistas señalan que el mercado está más atento a las actualizaciones sobre vehículos autónomos y robots humanoides que a las cifras contables del trimestre.",
-      "detail": "Tesla es un caso particular en finanzas: su valuación no depende solo de cuántos autos vende hoy, sino de las apuestas del mercado sobre negocios futuros como el transporte autónomo y la robótica. Esto ilustra cómo el precio de una acción refleja expectativas, no solo resultados presentes. Para quienes aprenden finanzas, es un buen ejemplo de la diferencia entre valor y precio en el mercado.",
+      "title": "Musk dijo que explora una megafusión entre SpaceX y Tesla",
+      "summary": "Elon Musk confirmó que está analizando la posibilidad de fusionar SpaceX y Tesla en una sola compañía, lo que generó revuelo en Wall Street sobre cuánto podría valer una empresa combinada.",
+      "detail": "Una fusión entre dos empresas tan grandes y de sectores distintos como el automotriz y el aeroespacial sería una operación extraordinaria. Las fusiones suelen mover fuerte el precio de las acciones porque cambian las expectativas sobre el valor futuro de cada empresa. Para alguien que aprende finanzas, este caso es útil para entender cómo los rumores de fusiones y adquisiciones generan volatilidad en los mercados incluso antes de que haya un acuerdo formal.",
       "tags": [
+        "fusiones",
         "Tesla",
-        "vehículos autónomos",
-        "expectativas"
+        "SpaceX"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
-      "published_at": "2026-10-20T18:15:00Z",
-      "fecha_evento": "2026-10-20",
+      "source_url": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories",
+      "published_at": "2026-10-21T11:39:00Z",
+      "fecha_evento": "2026-10-21",
       "tickers": [
         "TSLA"
       ]
+    },
+    {
+      "id": "former-google-ceo-china-ai-2026",
+      "type": "discurso",
+      "title": "El ex CEO de Google advirtió que China está solo 6 meses detrás de EE.UU. en inteligencia artificial",
+      "summary": "El ex director ejecutivo de Google afirmó que China está a apenas seis meses de distancia de Estados Unidos en la carrera por la inteligencia artificial, y que la IA no es una burbuja sino crecimiento real con clientes reales.",
+      "detail": "La brecha tecnológica entre EE.UU. y China en IA es un tema que afecta decisiones de inversión globales, regulaciones y hasta la geopolítica. Que una figura como el ex CEO de Google diga que China está tan cerca cambia la narrativa habitual de superioridad tecnológica occidental. Para inversores, entender quién lidera la carrera de la IA es clave para evaluar dónde pueden surgir las empresas más valiosas del futuro.",
+      "tags": [
+        "inteligencia artificial",
+        "China",
+        "geopolítica"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
+      "published_at": "2026-10-21T10:12:00Z",
+      "fecha_evento": "2026-10-21",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -174,31 +172,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.545",
       "valor_num": 1545.0,
-      "delta_pct": 0.65
+      "delta_pct": 0.32
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.570",
       "valor_num": 1570.0,
-      "delta_pct": 0.96
+      "delta_pct": 0.64
     },
     {
       "label": "MEP",
       "valor": "$1.549",
       "valor_num": 1548.8,
-      "delta_pct": 0.41
+      "delta_pct": 0.3
     },
     {
       "label": "CCL",
       "valor": "$1.631",
       "valor_num": 1630.9,
-      "delta_pct": 0.64
+      "delta_pct": 0.33
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 82.905",
-      "valor_num": 82905.0,
-      "delta_pct": 1.1
+      "valor": "US$ 83.442",
+      "valor_num": 83442.0,
+      "delta_pct": 2.48
     },
     {
       "label": "S&P 500",
@@ -208,9 +206,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.142",
-      "valor_num": 4142.5,
-      "delta_pct": -0.66
+      "valor": "US$ 4.159",
+      "valor_num": 4158.9,
+      "delta_pct": -0.53
     }
   ]
 }
