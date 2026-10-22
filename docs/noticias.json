@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-21T22:01:20.484582+00:00",
+  "generated_at": "2026-10-22T12:01:26.302370+00:00",
   "items": [
     {
-      "id": "uk-inflation-sept-2026",
+      "id": "uk-inflation-rate-hike",
       "type": "economia",
-      "title": "La inflación del Reino Unido trepó al 3,5% en septiembre",
-      "summary": "La inflación en el Reino Unido subió al 3,5% anual en septiembre, por encima de lo esperado, impulsada principalmente por el encarecimiento de los combustibles. El dato refuerza las expectativas de que el Banco de Inglaterra suba las tasas de interés.",
-      "detail": "Cuando la inflación sorprende al alza, los bancos centrales suelen responder subiendo las tasas de interés para enfriar la economía. Esto encarece el crédito, puede frenar el consumo y generalmente fortalece la moneda local. Para quienes aprenden finanzas, este dato muestra cómo un solo número macroeconómico puede mover expectativas de política monetaria y, en cadena, afectar bonos, acciones y tipos de cambio.",
+      "title": "La inflación en el Reino Unido subió a 3,5% y refuerza las expectativas de más alzas de tasas",
+      "summary": "La inflación en el Reino Unido llegó al 3,5% anual en septiembre, por encima de lo esperado, impulsada principalmente por el encarecimiento de los combustibles para autos. El dato consolida las expectativas de que el Banco de Inglaterra suba las tasas de interés.",
+      "detail": "Cuando la inflación supera las expectativas, los bancos centrales suelen responder subiendo las tasas de interés para enfriar la economía. Una suba de tasas en el Reino Unido encarece el crédito, frena el consumo y puede apreciar la libra esterlina. Este tipo de decisiones en economías grandes también impacta en los mercados emergentes, porque influye en el flujo de capitales globales.",
       "tags": [
         "inflación",
         "tasas de interés",
@@ -19,14 +19,14 @@
       "tickers": []
     },
     {
-      "id": "us-housing-fed-oct2026",
+      "id": "housing-fed-rate-hikes",
       "type": "economia",
-      "title": "El mercado inmobiliario de EE.UU. da señales de alerta mientras la Fed evalúa más subas de tasas",
-      "summary": "Los datos del sector inmobiliario de EE.UU. se deterioraron en septiembre, justo cuando la Reserva Federal está considerando nuevas subas de tasas de interés. El combo de tasas altas y precios elevados complica el acceso a la vivienda.",
-      "detail": "El mercado inmobiliario es uno de los sectores más sensibles a las tasas de interés, porque la mayoría de las compras se financian con hipotecas. Cuando la Fed sube tasas, las hipotecas se encarecen y la demanda de viviendas cae. Este tipo de datos retroalimenta las decisiones del banco central: si la economía real empieza a sufrir, puede moderar el ritmo de subas. Entender este mecanismo ayuda a ver cómo la política monetaria impacta en la vida cotidiana.",
+      "title": "El mercado inmobiliario de EE.UU. da señales de alarma mientras la Fed evalúa más subas de tasas",
+      "summary": "Los datos de vivienda en Estados Unidos se deterioraron en septiembre, justo cuando la Reserva Federal analiza si seguir subiendo las tasas de interés. El sector inmobiliario es uno de los más sensibles a las tasas de interés.",
+      "detail": "Cuando las tasas suben, las hipotecas se encarecen y menos gente puede comprar casas, lo que frena la construcción y baja los precios de las propiedades. El mercado inmobiliario suele ser uno de los primeros en sentir el efecto de una política monetaria más restrictiva. Seguir este indicador ayuda a entender si la Fed está logrando enfriar la economía o si se está pasando de frenada.",
       "tags": [
-        "Fed",
         "vivienda",
+        "Fed",
         "tasas de interés"
       ],
       "source_name": "CNBC",
@@ -36,54 +36,89 @@
       "tickers": []
     },
     {
-      "id": "southwest-airlines-profit-cut-oct2026",
+      "id": "fed-ai-stocks-rate-hike",
+      "type": "economia",
+      "title": "¿Qué pasa con las acciones de IA si la Fed vuelve a subir las tasas?",
+      "summary": "La Reserva Federal subió las tasas en septiembre y los inversores esperan otra suba para diciembre. El mercado se pregunta cómo impactaría eso en las acciones del sector de inteligencia artificial, que venían siendo las estrellas del año.",
+      "detail": "Las acciones de empresas tecnológicas y de alto crecimiento como las de IA son especialmente sensibles a las tasas de interés: cuando las tasas suben, el dinero futuro vale menos, y eso reduce el valor presente de esas empresas. Entender esta relación entre tasas y valuación de acciones es clave para cualquiera que quiera invertir en bolsa. Si la Fed sigue subiendo, muchos inversores podrían rotar hacia activos más seguros.",
+      "tags": [
+        "inteligencia artificial",
+        "Fed",
+        "tasas de interés"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/what-happens-ai-stocks-if-fed-hikes-rates-again",
+      "published_at": "2026-10-22T11:37:02Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": []
+    },
+    {
+      "id": "airlines-fuel-forecasts",
       "type": "empresa",
-      "title": "Southwest y United recortan sus previsiones de ganancia por el alza del combustible",
-      "summary": "Southwest Airlines se convirtió en la tercera aerolínea importante de EE.UU. en recortar su pronóstico de ganancias para 2026 debido al aumento en el precio del combustible. United Airlines también redujo su perspectiva anual por el mismo motivo, aunque los viajeros siguen reservando vuelos pese a las tarifas más altas.",
-      "detail": "El precio del combustible es uno de los costos más grandes para las aerolíneas y escapa a su control directo. Cuando sube, comprime los márgenes de ganancia y obliga a revisar las proyecciones financieras. El hecho de que tres grandes aerolíneas hagan el mismo movimiento en poco tiempo muestra cómo un factor externo —el precio del petróleo— puede golpear a toda una industria simultáneamente. Para inversores, esto es una señal de que los resultados del sector pueden seguir bajo presión si el combustible no baja.",
+      "title": "Las aerolíneas estadounidenses recortan sus previsiones de ganancia por el alza en el precio del combustible",
+      "summary": "American Airlines, Southwest y United Airlines bajaron sus proyecciones de ganancias para 2026 debido al aumento en los costos del combustible. American Airlines incluso anticipa una pérdida mayor a la esperada este año.",
+      "detail": "El precio del combustible es uno de los principales costos de las aerolíneas, y cuando sube bruscamente, comprime los márgenes de ganancia aunque las tarifas también aumenten. Este caso ilustra cómo las materias primas (como el petróleo) impactan directamente en la rentabilidad de empresas de otros sectores. Para un inversor, entender estos costos operativos es fundamental antes de evaluar acciones de una empresa.",
       "tags": [
         "aerolíneas",
         "combustible",
         "ganancias"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
-      "published_at": "2026-10-21T21:07:11Z",
-      "fecha_evento": "2026-10-21",
+      "source_url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+      "published_at": "2026-10-22T11:56:43Z",
+      "fecha_evento": "2026-10-22",
       "tickers": [
+        "AAL",
         "LUV",
         "UAL"
       ]
     },
     {
-      "id": "netflix-earnings-q3-2026",
-      "type": "empresa",
-      "title": "Netflix superó las expectativas del tercer trimestre, pero la acción cayó por la guía de publicidad",
-      "summary": "Netflix presentó resultados del tercer trimestre por encima de lo estimado por Wall Street, pero sus acciones bajaron un 5,3% después de que la compañía recortó sus proyecciones de ingresos publicitarios para el cuarto trimestre.",
-      "detail": "Un concepto clave en mercados: los resultados no solo se comparan con el trimestre anterior, sino con lo que los analistas esperaban. Netflix ganó más de lo previsto, pero decepcionó con su guía futura —es decir, lo que proyecta para los próximos meses—. Esto ilustra que en bolsa lo que importa muchas veces no es si a una empresa le fue bien, sino si le fue mejor o peor de lo que el mercado anticipaba. La publicidad es un área de crecimiento clave para Netflix y cualquier señal de debilidad ahí preocupa a los inversores.",
+      "id": "trump-approval-economy",
+      "type": "economia",
+      "title": "La aprobación de Trump en economía cae a su mínimo histórico antes de las elecciones de medio término",
+      "summary": "Una encuesta de CNBC muestra que 8 de cada 10 estadounidenses califica la economía como regular o mala, llevando la aprobación económica de Trump a su punto más bajo. El dato llega con las elecciones de medio término en el horizonte.",
+      "detail": "La percepción económica de la población suele influir fuertemente en los resultados electorales, y un cambio en la composición del Congreso puede afectar políticas fiscales, comerciales y regulatorias. Los mercados monitorean de cerca las elecciones de medio término porque un cambio político puede alterar el rumbo económico del país. Este tipo de encuestas son un indicador adelantado del humor social que los inversores tienen en cuenta.",
       "tags": [
-        "streaming",
-        "resultados",
-        "publicidad"
+        "economía EE.UU.",
+        "elecciones",
+        "política"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-      "published_at": "2026-10-20T22:29:45Z",
-      "fecha_evento": "2026-10-20",
+      "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "published_at": "2026-10-22T11:40:01Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": []
+    },
+    {
+      "id": "procter-gamble-earnings",
+      "type": "empresa",
+      "title": "Procter & Gamble superó las expectativas de Wall Street con un alza de ventas del 4%",
+      "summary": "Procter & Gamble reportó resultados trimestrales por encima de lo esperado, con ventas creciendo un 4% impulsadas por productos de limpieza del hogar y lavandería. La empresa superó tanto en ganancias como en ingresos las estimaciones de los analistas.",
+      "detail": "P&G es una empresa de consumo masivo con productos de uso cotidiano, lo que la convierte en un indicador de la salud del gasto de los hogares. Cuando empresas defensivas como esta crecen, suele ser señal de que el consumo se mantiene pese a la inflación. Seguir los resultados de grandes empresas es una forma práctica de entender cómo se mueve la economía real.",
+      "tags": [
+        "consumo masivo",
+        "ganancias",
+        "Wall Street"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+      "published_at": "2026-10-22T11:30:40Z",
+      "fecha_evento": "2026-10-22",
       "tickers": [
-        "NFLX"
+        "PG"
       ]
     },
     {
-      "id": "ebay-layoffs-oct2026",
+      "id": "ebay-layoffs",
       "type": "empresa",
-      "title": "eBay despide al 9% de su personal en su segunda ronda de recortes del año",
-      "summary": "eBay anunció el despido de aproximadamente 1.000 empleados, equivalente al 9% de su fuerza laboral, mientras busca concentrarse en sus prioridades estratégicas clave. Es el segundo recorte de empleo que realiza la compañía en 2026.",
-      "detail": "Los recortes de personal en grandes empresas tecnológicas suelen ser una señal de que la compañía está priorizando la rentabilidad sobre el crecimiento. Para los inversores, esto puede ser positivo en el corto plazo porque reduce costos, pero también indica que el negocio no está creciendo al ritmo esperado. Que sea la segunda ronda de despidos en el mismo año sugiere presión sostenida sobre el modelo de negocio de eBay.",
+      "title": "eBay anunció el despido del 9% de su personal en su segunda ronda de recortes del año",
+      "summary": "eBay va a despedir aproximadamente a 1.000 empleados, equivalente al 9% de su fuerza laboral, para concentrarse en sus prioridades estratégicas. Es la segunda vez en 2026 que la empresa recorta personal.",
+      "detail": "Los despidos masivos en empresas tecnológicas suelen reflejar una reestructuración del negocio en respuesta a menor crecimiento o presión de costos. Para los inversores, estos anuncios pueden ser señal tanto de dificultades como de que la empresa busca mejorar su rentabilidad. Entender por qué una empresa despide empleados —y si es por eficiencia o por problemas de fondo— es clave para evaluar su salud financiera.",
       "tags": [
         "tecnología",
         "despidos",
-        "empresas"
+        "reestructuración"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
@@ -94,15 +129,15 @@
       ]
     },
     {
-      "id": "goldman-jpmorgan-morganstanley-ai-trading-2026",
-      "type": "empresa",
-      "title": "Goldman Sachs, JPMorgan y Morgan Stanley generaron u$s 52.000 millones en trading de acciones este año",
-      "summary": "Los tres grandes bancos de Wall Street acumularon 52.000 millones de dólares en ingresos por trading de acciones en lo que va de 2026, captando alrededor del 80% del mercado gracias al auge de la IA y los préstamos con margen a fondos de cobertura.",
-      "detail": "El trading de acciones de los grandes bancos se dispara cuando hay alta actividad en los mercados, especialmente en contextos de boom tecnológico como el actual con la IA. Los préstamos con margen —es decir, prestarle dinero a inversores para que compren más acciones— generan ingresos adicionales pero también pueden amplificar la volatilidad del mercado. La concentración del 80% del negocio en solo tres bancos muestra cómo en finanzas los jugadores más grandes tienden a capturar una porción desproporcionada de las ganancias.",
+      "id": "goldman-jpmorgan-morgan-stanley-ai-trading",
+      "type": "mercado",
+      "title": "Goldman Sachs, JPMorgan y Morgan Stanley generaron u$s52.000 millones en trading de acciones este año",
+      "summary": "Los tres grandes bancos de Wall Street concentraron alrededor del 80% del mercado de trading de acciones en 2026, generando u$s52.000 millones en ingresos. El boom de las acciones de IA y los préstamos a fondos de cobertura son los principales motores.",
+      "detail": "La concentración del negocio de trading en pocos bancos grandes muestra cómo las instituciones con más escala y tecnología capturan una porción desproporcionada del mercado. El préstamo con margen a hedge funds es un negocio muy rentable pero también riesgoso, porque si el mercado cae, esos fondos pueden sufrir pérdidas en cadena. Entender cómo ganan dinero los grandes bancos es útil para interpretar sus resultados y el rol que juegan en los mercados globales.",
       "tags": [
-        "Wall Street",
         "bancos",
-        "inteligencia artificial"
+        "Wall Street",
+        "trading"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
@@ -115,42 +150,42 @@
       ]
     },
     {
-      "id": "bitcoin-rebote-oct2026",
-      "type": "mercado",
-      "title": "Bitcoin rebotó un 2,4% y llegó a u$s 84.489 impulsado por el rally tecnológico",
-      "summary": "Bitcoin subió 2,4% hasta los 84.489 dólares, Ethereum avanzó 2,3% y Solana ganó 1,9%, en un contexto en que los inversores volvieron a activos de mayor riesgo acompañando el rally de las acciones tecnológicas.",
-      "detail": "Las criptomonedas suelen moverse en sintonía con los activos de riesgo como las acciones tecnológicas: cuando el apetito inversor sube, tienden a subir juntos; cuando hay miedo, caen juntos. Este comportamiento se llama correlación y es importante entenderlo porque muestra que las cripto no son necesariamente un activo descorrelacionado del resto del mercado. Para alguien que está aprendiendo finanzas, observar estos movimientos conjuntos ayuda a entender cómo se mueve el 'apetito por el riesgo' de los inversores globales.",
+      "id": "boeing-737-max-10-faa",
+      "type": "empresa",
+      "title": "Boeing recibió la aprobación de la FAA para el 737 Max 10 tras años de demoras",
+      "summary": "La Administración Federal de Aviación de EE.UU. (FAA) certificó el 737 Max 10, el modelo más grande de esa familia de aviones, que estaba previsto para 2020 pero acumuló retrasos por problemas de seguridad. La certificación es un paso clave para que Boeing pueda volver a crecer en el mercado de jets comerciales.",
+      "detail": "Boeing lleva años en una situación complicada después de los accidentes del Max 8 y las demoras regulatorias. La aprobación del Max 10 es relevante porque abre la puerta a nuevos pedidos y entregas, lo que puede mejorar los ingresos de la compañía. Para los inversores, las aprobaciones regulatorias son hitos concretos que pueden mover el precio de una acción.",
       "tags": [
-        "criptomonedas",
-        "bitcoin",
-        "mercados"
+        "Boeing",
+        "aviación",
+        "regulación"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/crypto-market-today-oct-21-bitcoin-rebounds-tech-rally",
-      "published_at": "2026-10-21T21:36:39Z",
-      "fecha_evento": "2026-10-21",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "published_at": "2026-10-20T22:01:11Z",
+      "fecha_evento": "2026-10-20",
       "tickers": [
-        "BTC",
-        "ETH",
-        "SOL"
+        "BA"
       ]
     },
     {
-      "id": "persian-gulf-oil-oct2026",
+      "id": "jpmorgan-strategist-stock-market",
       "type": "mercado",
-      "title": "El petróleo del Golfo Pérsico vuelve a fluir a niveles previos a la guerra con Irán, pero los precios no bajan",
-      "summary": "Los flujos de petróleo desde el Golfo Pérsico en octubre casi volvieron a los niveles anteriores al conflicto con Irán, pero los operadores del mercado siguen cautelosos ante una recuperación que consideran frágil y los precios no ceden.",
-      "detail": "El precio del petróleo depende tanto de la oferta física como de las expectativas y la confianza del mercado. Aunque el flujo de crudo se normalizó, los traders desconfían de la estabilidad de esa recuperación y mantienen una prima de riesgo en el precio. Esto muestra un concepto clave: los mercados de materias primas no solo reaccionan a datos concretos, sino también a la incertidumbre geopolítica. Para Argentina, donde el precio del petróleo impacta en la inflación global y en los costos de las aerolíneas y empresas, este tipo de noticias tiene consecuencias indirectas pero reales.",
+      "title": "Un estratega de JPMorgan cree que la caída del mercado bursátil podría haber tocado su piso",
+      "summary": "Estrategas de JPMorgan señalan que los fondos de cobertura redujeron significativamente sus posiciones desde el pico de septiembre, lo que sugiere que el potencial de baja adicional para las acciones es ahora limitado.",
+      "detail": "Cuando los hedge funds reducen sus posiciones en acciones, queda menos presión vendedora en el mercado, lo que puede estabilizar o revertir una caída. Este tipo de análisis de posicionamiento es una herramienta que usan los inversores institucionales para anticipar movimientos del mercado. Entender que el mercado no solo se mueve por fundamentos económicos, sino también por el comportamiento de grandes actores, es una lección importante en finanzas.",
       "tags": [
-        "petróleo",
-        "geopolítica",
-        "materias primas"
+        "mercado bursátil",
+        "hedge funds",
+        "JPMorgan"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-      "published_at": "2026-10-21T21:14:00Z",
-      "fecha_evento": "2026-10-21",
-      "tickers": []
+      "source_url": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+      "published_at": "2026-10-22T11:57:00Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": [
+        "JPM"
+      ]
     }
   ],
   "ticker": [
@@ -158,31 +193,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.545",
       "valor_num": 1545.0,
-      "delta_pct": 0.32
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.565",
       "valor_num": 1565.0,
-      "delta_pct": 0.32
+      "delta_pct": -0.32
     },
     {
       "label": "MEP",
       "valor": "$1.554",
       "valor_num": 1553.8,
-      "delta_pct": 0.63
+      "delta_pct": 0.32
     },
     {
       "label": "CCL",
       "valor": "$1.638",
       "valor_num": 1638.0,
-      "delta_pct": 0.76
+      "delta_pct": 0.44
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 84.769",
-      "valor_num": 84769.0,
-      "delta_pct": 2.24
+      "valor": "US$ 81.725",
+      "valor_num": 81725.0,
+      "delta_pct": -2.0
     },
     {
       "label": "S&P 500",
@@ -192,9 +227,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.160",
-      "valor_num": 4159.5,
-      "delta_pct": -0.52
+      "valor": "US$ 4.078",
+      "valor_num": 4077.6,
+      "delta_pct": -1.98
     }
   ]
 }
