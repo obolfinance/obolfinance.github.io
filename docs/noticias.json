@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-22T12:01:26.302370+00:00",
+  "generated_at": "2026-10-22T22:01:16.420318+00:00",
   "items": [
     {
-      "id": "uk-inflation-rate-hike",
+      "id": "uk-inflation-sept-2026",
       "type": "economia",
-      "title": "La inflación en el Reino Unido subió a 3,5% y refuerza las expectativas de más alzas de tasas",
-      "summary": "La inflación en el Reino Unido llegó al 3,5% anual en septiembre, por encima de lo esperado, impulsada principalmente por el encarecimiento de los combustibles para autos. El dato consolida las expectativas de que el Banco de Inglaterra suba las tasas de interés.",
-      "detail": "Cuando la inflación supera las expectativas, los bancos centrales suelen responder subiendo las tasas de interés para enfriar la economía. Una suba de tasas en el Reino Unido encarece el crédito, frena el consumo y puede apreciar la libra esterlina. Este tipo de decisiones en economías grandes también impacta en los mercados emergentes, porque influye en el flujo de capitales globales.",
+      "title": "La inflación del Reino Unido trepó al 3,5% y consolida expectativas de suba de tasas",
+      "summary": "La inflación en el Reino Unido llegó al 3,5% en los 12 meses a septiembre, por encima de lo esperado, impulsada principalmente por el encarecimiento de los combustibles para autos.",
+      "detail": "Cuando la inflación supera las expectativas, los bancos centrales suelen responder subiendo las tasas de interés para enfriar la economía. En este caso, el dato del Reino Unido refuerza la expectativa de que el Banco de Inglaterra suba tasas próximamente. Para quien aprende finanzas, esto ilustra el mecanismo clave: más inflación → mayores tasas esperadas → sube el valor de la moneda local y caen los precios de los bonos ya emitidos.",
       "tags": [
         "inflación",
         "tasas de interés",
@@ -19,11 +19,85 @@
       "tickers": []
     },
     {
-      "id": "housing-fed-rate-hikes",
+      "id": "jobless-claims-record-low-2026",
+      "type": "economia",
+      "title": "Los pedidos de subsidio de desempleo en EE.UU. cayeron a mínimos desde los años 60",
+      "summary": "Las solicitudes iniciales de seguro de desempleo en EE.UU. bajaron a 194.000, acercándose a los niveles más bajos desde la década del 60.",
+      "detail": "El nivel de solicitudes de desempleo es uno de los indicadores más frescos del mercado laboral estadounidense, ya que se publica semanalmente. Un mercado laboral tan sólido puede presionar al alza los salarios y, con eso, la inflación, lo que a su vez influye en las decisiones de la Reserva Federal sobre las tasas de interés. Para quienes aprenden finanzas, este dato muestra cómo el empleo y la inflación están interconectados en la política monetaria.",
+      "tags": [
+        "empleo",
+        "EE.UU.",
+        "mercado laboral"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+      "published_at": "2026-10-22T16:40:09Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": []
+    },
+    {
+      "id": "trump-approval-economy-2026",
+      "type": "economia",
+      "title": "La aprobación de Trump en economía cayó a su mínimo histórico antes de las elecciones de medio término",
+      "summary": "Una encuesta de CNBC muestra que 8 de cada 10 estadounidenses califican la economía como regular o mala, lo que pone en aprietos a los candidatos republicanos de cara a las elecciones de medio término.",
+      "detail": "La percepción económica de la población influye directamente en los resultados electorales, y los mercados financieros suelen reaccionar ante cambios en el poder político. Si los republicanos pierden terreno en el Congreso, podría cambiar el rumbo de políticas fiscales y regulatorias que afectan a empresas y mercados. Este tipo de encuestas es una herramienta que los inversores usan para anticipar escenarios políticos y sus efectos económicos.",
+      "tags": [
+        "política",
+        "EE.UU.",
+        "elecciones"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "published_at": "2026-10-22T13:18:36Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": []
+    },
+    {
+      "id": "moderna-cancer-vaccine-leak-2026",
+      "type": "empresa",
+      "title": "Las acciones de Moderna se desplomaron 18% tras filtrarse datos de su vacuna contra el cáncer",
+      "summary": "Moderna cayó un 17,57% después de que se filtraran datos de su vacuna personalizada contra el melanoma, desarrollada junto a Merck, aunque los resultados publicados fueron positivos.",
+      "detail": "Este caso ilustra un fenómeno interesante en los mercados: a veces una acción cae incluso ante buenas noticias, porque los inversores que apostaron a la suba venden para tomar ganancias una vez que el dato se confirma. Además, la filtración generó incertidumbre sobre el proceso regulatorio y la presentación oficial de los datos. Para quien estudia finanzas, es un ejemplo de cómo el sentimiento y la mecánica del mercado pueden ir en contra de la lógica aparente de la noticia.",
+      "tags": [
+        "farmacéutica",
+        "acciones",
+        "vacunas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+      "published_at": "2026-10-22T21:52:02Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": [
+        "MRNA",
+        "MRK"
+      ]
+    },
+    {
+      "id": "airlines-fuel-costs-2026",
+      "type": "empresa",
+      "title": "American Airlines y Southwest recortaron sus proyecciones de ganancias por el alza del combustible",
+      "summary": "American Airlines proyecta una pérdida mayor a la esperada en 2026 y planea desacelerar su crecimiento, mientras que Southwest también recortó sus estimaciones de rentabilidad, ambas afectadas por el encarecimiento del combustible.",
+      "detail": "El precio del combustible es uno de los costos más grandes para las aerolíneas y afecta directamente su rentabilidad. Cuando múltiples empresas de un mismo sector recortan sus proyecciones por el mismo motivo, eso suele ser señal de una presión sectorial sistémica, no un problema aislado. Para quien aprende finanzas, esto muestra cómo los cambios en el precio de las materias primas (como el petróleo) se trasladan a los resultados de empresas en industrias muy dependientes de ese insumo.",
+      "tags": [
+        "aerolíneas",
+        "combustible",
+        "ganancias"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+      "published_at": "2026-10-22T14:52:09Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": [
+        "AAL",
+        "LUV"
+      ]
+    },
+    {
+      "id": "housing-warning-signs-fed-2026",
       "type": "economia",
       "title": "El mercado inmobiliario de EE.UU. da señales de alarma mientras la Fed evalúa más subas de tasas",
-      "summary": "Los datos de vivienda en Estados Unidos se deterioraron en septiembre, justo cuando la Reserva Federal analiza si seguir subiendo las tasas de interés. El sector inmobiliario es uno de los más sensibles a las tasas de interés.",
-      "detail": "Cuando las tasas suben, las hipotecas se encarecen y menos gente puede comprar casas, lo que frena la construcción y baja los precios de las propiedades. El mercado inmobiliario suele ser uno de los primeros en sentir el efecto de una política monetaria más restrictiva. Seguir este indicador ayuda a entender si la Fed está logrando enfriar la economía o si se está pasando de frenada.",
+      "summary": "Los datos del sector vivienda en EE.UU. se deterioraron en septiembre, en un contexto donde la Reserva Federal considera seguir subiendo las tasas de interés.",
+      "detail": "El mercado inmobiliario es especialmente sensible a las tasas de interés porque la mayoría de las compras de viviendas se financian con hipotecas. Cuando la Fed sube tasas, las hipotecas se encarecen, menos gente puede comprar casas y los precios bajan. Este ciclo es uno de los mecanismos más clásicos de la política monetaria y su impacto en la economía real, algo fundamental para entender cómo las decisiones de los bancos centrales afectan la vida cotidiana.",
       "tags": [
         "vivienda",
         "Fed",
@@ -32,89 +106,71 @@
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
       "published_at": "2026-10-21T11:20:58Z",
-      "fecha_evento": "2026-10-21",
+      "fecha_evento": "2026-10-20",
       "tickers": []
     },
     {
-      "id": "fed-ai-stocks-rate-hike",
-      "type": "economia",
-      "title": "¿Qué pasa con las acciones de IA si la Fed vuelve a subir las tasas?",
-      "summary": "La Reserva Federal subió las tasas en septiembre y los inversores esperan otra suba para diciembre. El mercado se pregunta cómo impactaría eso en las acciones del sector de inteligencia artificial, que venían siendo las estrellas del año.",
-      "detail": "Las acciones de empresas tecnológicas y de alto crecimiento como las de IA son especialmente sensibles a las tasas de interés: cuando las tasas suben, el dinero futuro vale menos, y eso reduce el valor presente de esas empresas. Entender esta relación entre tasas y valuación de acciones es clave para cualquiera que quiera invertir en bolsa. Si la Fed sigue subiendo, muchos inversores podrían rotar hacia activos más seguros.",
+      "id": "coreweave-downgrade-2026",
+      "type": "mercado",
+      "title": "CoreWeave cayó 10% tras una baja de recomendación de Bernstein por preocupaciones de financiamiento",
+      "summary": "Las acciones de CoreWeave, empresa de infraestructura de nube para inteligencia artificial, cerraron un 10% abajo después de que Bernstein recortara su precio objetivo, pese a que el CEO de Nvidia afirmó que la demanda por proveedores de nube especializados está \"fuera de los gráficos\".",
+      "detail": "Una baja de recomendación (downgrade) de un banco de inversión importante puede hundir el precio de una acción aunque las perspectivas del sector sean buenas, porque muchos fondos ajustan sus posiciones automáticamente ante ese tipo de señales. En este caso, las preocupaciones sobre cómo la empresa va a financiar su crecimiento generaron más peso que las declaraciones positivas de Nvidia. Esto muestra cómo el análisis financiero no es solo sobre el negocio, sino también sobre la estructura de capital y el riesgo de financiamiento.",
       "tags": [
         "inteligencia artificial",
-        "Fed",
-        "tasas de interés"
+        "acciones",
+        "nube"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/what-happens-ai-stocks-if-fed-hikes-rates-again",
-      "published_at": "2026-10-22T11:37:02Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": []
-    },
-    {
-      "id": "airlines-fuel-forecasts",
-      "type": "empresa",
-      "title": "Las aerolíneas estadounidenses recortan sus previsiones de ganancia por el alza en el precio del combustible",
-      "summary": "American Airlines, Southwest y United Airlines bajaron sus proyecciones de ganancias para 2026 debido al aumento en los costos del combustible. American Airlines incluso anticipa una pérdida mayor a la esperada este año.",
-      "detail": "El precio del combustible es uno de los principales costos de las aerolíneas, y cuando sube bruscamente, comprime los márgenes de ganancia aunque las tarifas también aumenten. Este caso ilustra cómo las materias primas (como el petróleo) impactan directamente en la rentabilidad de empresas de otros sectores. Para un inversor, entender estos costos operativos es fundamental antes de evaluar acciones de una empresa.",
-      "tags": [
-        "aerolíneas",
-        "combustible",
-        "ganancias"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-      "published_at": "2026-10-22T11:56:43Z",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-22-coreweave-slides-bernstein-downgrade-and-financing-worries",
+      "published_at": "2026-10-22T21:09:31Z",
       "fecha_evento": "2026-10-22",
       "tickers": [
-        "AAL",
-        "LUV",
-        "UAL"
+        "CRWV",
+        "NVDA"
       ]
     },
     {
-      "id": "trump-approval-economy",
-      "type": "economia",
-      "title": "La aprobación de Trump en economía cae a su mínimo histórico antes de las elecciones de medio término",
-      "summary": "Una encuesta de CNBC muestra que 8 de cada 10 estadounidenses califica la economía como regular o mala, llevando la aprobación económica de Trump a su punto más bajo. El dato llega con las elecciones de medio término en el horizonte.",
-      "detail": "La percepción económica de la población suele influir fuertemente en los resultados electorales, y un cambio en la composición del Congreso puede afectar políticas fiscales, comerciales y regulatorias. Los mercados monitorean de cerca las elecciones de medio término porque un cambio político puede alterar el rumbo económico del país. Este tipo de encuestas son un indicador adelantado del humor social que los inversores tienen en cuenta.",
-      "tags": [
-        "economía EE.UU.",
-        "elecciones",
-        "política"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-      "published_at": "2026-10-22T11:40:01Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": []
-    },
-    {
-      "id": "procter-gamble-earnings",
+      "id": "procter-gamble-earnings-2026",
       "type": "empresa",
-      "title": "Procter & Gamble superó las expectativas de Wall Street con un alza de ventas del 4%",
-      "summary": "Procter & Gamble reportó resultados trimestrales por encima de lo esperado, con ventas creciendo un 4% impulsadas por productos de limpieza del hogar y lavandería. La empresa superó tanto en ganancias como en ingresos las estimaciones de los analistas.",
-      "detail": "P&G es una empresa de consumo masivo con productos de uso cotidiano, lo que la convierte en un indicador de la salud del gasto de los hogares. Cuando empresas defensivas como esta crecen, suele ser señal de que el consumo se mantiene pese a la inflación. Seguir los resultados de grandes empresas es una forma práctica de entender cómo se mueve la economía real.",
+      "title": "Procter & Gamble superó expectativas con ventas que crecieron 4%, impulsadas por productos del hogar",
+      "summary": "P&G publicó resultados trimestrales que superaron las estimaciones de Wall Street, con un crecimiento de ventas del 4% liderado por categorías como lavandería y productos para el hogar.",
+      "detail": "Procter & Gamble es considerada una empresa \"defensiva\": vende productos de consumo básico que la gente compra independientemente del ciclo económico. Cuando este tipo de empresa crece incluso en un entorno de tasas altas e inflación, suele interpretarse como una señal de resiliencia del consumidor. Para quien aprende finanzas, los resultados de empresas de consumo masivo son un termómetro útil del gasto de los hogares.",
       "tags": [
-        "consumo masivo",
+        "consumo",
         "ganancias",
-        "Wall Street"
+        "acciones"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
-      "published_at": "2026-10-22T11:30:40Z",
+      "published_at": "2026-10-22T14:19:40Z",
       "fecha_evento": "2026-10-22",
       "tickers": [
         "PG"
       ]
     },
     {
-      "id": "ebay-layoffs",
+      "id": "elon-musk-skydance-2026",
       "type": "empresa",
-      "title": "eBay anunció el despido del 9% de su personal en su segunda ronda de recortes del año",
-      "summary": "eBay va a despedir aproximadamente a 1.000 empleados, equivalente al 9% de su fuerza laboral, para concentrarse en sus prioridades estratégicas. Es la segunda vez en 2026 que la empresa recorta personal.",
-      "detail": "Los despidos masivos en empresas tecnológicas suelen reflejar una reestructuración del negocio en respuesta a menor crecimiento o presión de costos. Para los inversores, estos anuncios pueden ser señal tanto de dificultades como de que la empresa busca mejorar su rentabilidad. Entender por qué una empresa despide empleados —y si es por eficiencia o por problemas de fondo— es clave para evaluar su salud financiera.",
+      "title": "Elon Musk invirtió cerca de 1.000 millones de dólares en Skydance",
+      "summary": "Musk realizó una inversión de aproximadamente 1.000 millones de dólares en Skydance, la compañía de medios liderada por David Ellison.",
+      "detail": "Las grandes inversiones de figuras como Musk suelen mover mercados y generar atención, en parte porque su historial incluye apuestas que redefinieron industrias. Para quien aprende finanzas, este tipo de movimientos ilustra cómo el capital privado fluye hacia sectores considerados estratégicos y cómo la reputación de un inversor puede influir en la percepción de valor de una empresa antes de que cotice en bolsa.",
+      "tags": [
+        "inversión",
+        "medios",
+        "capital privado"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "published_at": "2026-10-22T19:34:46Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": []
+    },
+    {
+      "id": "ebay-layoffs-2026",
+      "type": "empresa",
+      "title": "eBay anuncia el despido del 9% de su personal en su segunda ronda de recortes del año",
+      "summary": "eBay recortará alrededor de 1.000 empleados —el 9% de su plantilla— mientras reorganiza su negocio para enfocarse en sus prioridades estratégicas.",
+      "detail": "Los despidos masivos en empresas tecnológicas suelen interpretarse de dos maneras opuestas en los mercados: como una señal de problemas estructurales o como una medida para mejorar la rentabilidad y el precio de la acción. Que sea la segunda ronda de recortes en el mismo año sugiere que eBay enfrenta presiones persistentes. Para quien aprende finanzas, esto muestra cómo las empresas ajustan su estructura de costos cuando el crecimiento se desacelera.",
       "tags": [
         "tecnología",
         "despidos",
@@ -127,73 +183,14 @@
       "tickers": [
         "EBAY"
       ]
-    },
-    {
-      "id": "goldman-jpmorgan-morgan-stanley-ai-trading",
-      "type": "mercado",
-      "title": "Goldman Sachs, JPMorgan y Morgan Stanley generaron u$s52.000 millones en trading de acciones este año",
-      "summary": "Los tres grandes bancos de Wall Street concentraron alrededor del 80% del mercado de trading de acciones en 2026, generando u$s52.000 millones en ingresos. El boom de las acciones de IA y los préstamos a fondos de cobertura son los principales motores.",
-      "detail": "La concentración del negocio de trading en pocos bancos grandes muestra cómo las instituciones con más escala y tecnología capturan una porción desproporcionada del mercado. El préstamo con margen a hedge funds es un negocio muy rentable pero también riesgoso, porque si el mercado cae, esos fondos pueden sufrir pérdidas en cadena. Entender cómo ganan dinero los grandes bancos es útil para interpretar sus resultados y el rol que juegan en los mercados globales.",
-      "tags": [
-        "bancos",
-        "Wall Street",
-        "trading"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
-      "published_at": "2026-10-21T15:30:50Z",
-      "fecha_evento": "2026-10-21",
-      "tickers": [
-        "GS",
-        "JPM",
-        "MS"
-      ]
-    },
-    {
-      "id": "boeing-737-max-10-faa",
-      "type": "empresa",
-      "title": "Boeing recibió la aprobación de la FAA para el 737 Max 10 tras años de demoras",
-      "summary": "La Administración Federal de Aviación de EE.UU. (FAA) certificó el 737 Max 10, el modelo más grande de esa familia de aviones, que estaba previsto para 2020 pero acumuló retrasos por problemas de seguridad. La certificación es un paso clave para que Boeing pueda volver a crecer en el mercado de jets comerciales.",
-      "detail": "Boeing lleva años en una situación complicada después de los accidentes del Max 8 y las demoras regulatorias. La aprobación del Max 10 es relevante porque abre la puerta a nuevos pedidos y entregas, lo que puede mejorar los ingresos de la compañía. Para los inversores, las aprobaciones regulatorias son hitos concretos que pueden mover el precio de una acción.",
-      "tags": [
-        "Boeing",
-        "aviación",
-        "regulación"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-      "published_at": "2026-10-20T22:01:11Z",
-      "fecha_evento": "2026-10-20",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "jpmorgan-strategist-stock-market",
-      "type": "mercado",
-      "title": "Un estratega de JPMorgan cree que la caída del mercado bursátil podría haber tocado su piso",
-      "summary": "Estrategas de JPMorgan señalan que los fondos de cobertura redujeron significativamente sus posiciones desde el pico de septiembre, lo que sugiere que el potencial de baja adicional para las acciones es ahora limitado.",
-      "detail": "Cuando los hedge funds reducen sus posiciones en acciones, queda menos presión vendedora en el mercado, lo que puede estabilizar o revertir una caída. Este tipo de análisis de posicionamiento es una herramienta que usan los inversores institucionales para anticipar movimientos del mercado. Entender que el mercado no solo se mueve por fundamentos económicos, sino también por el comportamiento de grandes actores, es una lección importante en finanzas.",
-      "tags": [
-        "mercado bursátil",
-        "hedge funds",
-        "JPMorgan"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
-      "published_at": "2026-10-22T11:57:00Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": [
-        "JPM"
-      ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.545",
-      "valor_num": 1545.0,
-      "delta_pct": 0.0
+      "valor": "$1.550",
+      "valor_num": 1550.0,
+      "delta_pct": 0.32
     },
     {
       "label": "DÓLAR BLUE",
@@ -204,32 +201,32 @@
     {
       "label": "MEP",
       "valor": "$1.554",
-      "valor_num": 1553.8,
-      "delta_pct": 0.32
+      "valor_num": 1553.6,
+      "delta_pct": 0.31
     },
     {
       "label": "CCL",
-      "valor": "$1.638",
-      "valor_num": 1638.0,
-      "delta_pct": 0.44
+      "valor": "$1.640",
+      "valor_num": 1639.5,
+      "delta_pct": 0.53
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.725",
-      "valor_num": 81725.0,
-      "delta_pct": -2.0
+      "valor": "US$ 81.376",
+      "valor_num": 81376.0,
+      "delta_pct": -4.02
     },
     {
       "label": "S&P 500",
-      "valor": "7.757",
-      "valor_num": 7757.17,
-      "delta_pct": 0.5
+      "valor": "7.663",
+      "valor_num": 7663.43,
+      "delta_pct": -1.04
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.078",
-      "valor_num": 4077.6,
-      "delta_pct": -1.98
+      "valor": "US$ 4.040",
+      "valor_num": 4039.8,
+      "delta_pct": -2.89
     }
   ]
 }
