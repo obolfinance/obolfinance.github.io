@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-23T12:01:22.310516+00:00",
+  "generated_at": "2026-10-23T22:01:13.972975+00:00",
   "items": [
     {
-      "id": "uk-inflation-sept-2026",
+      "id": "uk-inflation-septiembre-2026",
       "type": "economia",
-      "title": "La inflación en el Reino Unido saltó al 3,5% y alimenta las expectativas de suba de tasas",
-      "summary": "La inflación del Reino Unido llegó al 3,5% anual en septiembre, por encima de lo esperado, impulsada principalmente por el alza en los combustibles para autos.",
-      "detail": "Cuando la inflación sorprende al alza, los bancos centrales suelen responder subiendo las tasas de interés para enfriar el consumo. En este caso, el dato del Reino Unido refuerza las expectativas de que el Banco de Inglaterra suba tasas, lo que encarece los créditos y puede afectar el crecimiento. Para quienes aprenden finanzas, este es un ejemplo clásico de cómo un dato de inflación mueve las expectativas del mercado y las decisiones de política monetaria.",
+      "title": "La inflación del Reino Unido saltó al 3,5% y consolida las expectativas de suba de tasas",
+      "summary": "La inflación en el Reino Unido llegó al 3,5% interanual en septiembre, impulsada principalmente por el alza en el precio de los combustibles, superando las expectativas del mercado.",
+      "detail": "Cuando la inflación sorprende al alza, los mercados ajustan sus expectativas: esperan que el banco central (en este caso el Banco de Inglaterra) suba las tasas de interés para enfriar la economía. Tasas más altas encarecen el crédito y suelen fortalecer la moneda local, pero también pueden frenar el crecimiento. Este dato es clave para entender cómo los bancos centrales reaccionan ante los datos de precios.",
       "tags": [
         "inflación",
         "tasas de interés",
@@ -19,11 +19,11 @@
       "tickers": []
     },
     {
-      "id": "jobless-claims-oct-2026",
+      "id": "jobless-claims-minimo-historico",
       "type": "economia",
-      "title": "Las solicitudes de desempleo en EE.UU. caen a mínimos desde los años 60",
-      "summary": "Las solicitudes iniciales de seguro de desempleo en Estados Unidos bajaron a 194.000, uno de los niveles más bajos desde la década del 60.",
-      "detail": "Un mercado laboral muy ajustado, con pocas personas perdiendo empleo, es una señal de fortaleza económica, pero también puede presionar los salarios al alza y alimentar la inflación. La Reserva Federal sigue de cerca estos datos para decidir si sube o baja las tasas de interés. Para quienes aprenden finanzas, las solicitudes de desempleo son un indicador adelantado clave del estado de la economía estadounidense.",
+      "title": "Los pedidos de subsidio de desempleo en EE.UU. cayeron a mínimos desde los años 60",
+      "summary": "Las solicitudes iniciales de seguro de desempleo en Estados Unidos bajaron a 194.000, uno de los niveles más bajos desde la década del 60, mostrando un mercado laboral muy sólido.",
+      "detail": "El dato semanal de solicitudes de desempleo es uno de los indicadores más frescos sobre la salud del mercado laboral estadounidense. Un mercado laboral fuerte puede llevar a la Fed a mantener o subir las tasas de interés, ya que la baja desocupación suele ir de la mano con presiones salariales que alimentan la inflación. Para inversores, este número mueve expectativas sobre la política monetaria de EE.UU.",
       "tags": [
         "empleo",
         "economía EE.UU.",
@@ -36,75 +36,71 @@
       "tickers": []
     },
     {
-      "id": "moderna-cancer-vaccine-2026",
-      "type": "empresa",
-      "title": "Las acciones de Moderna se desplomaron tras filtrarse datos de su vacuna contra el cáncer, aunque los resultados fueron positivos",
-      "summary": "Moderna publicó los datos completos de su vacuna experimental contra el cáncer, desarrollada junto a Merck, pero las acciones cayeron fuerte porque la información se había filtrado antes.",
-      "detail": "Este caso ilustra un fenómeno común en los mercados: cuando una noticia positiva ya estaba 'descontada' en el precio de la acción (porque se filtró antes), la reacción al anuncio oficial puede ser negativa. Los inversores que compraron anticipando buenos resultados venden al confirmarse, bajando el precio. Es un ejemplo perfecto del principio 'compra el rumor, vende el hecho'.",
+      "id": "trump-aprobacion-economia-minimo",
+      "type": "economia",
+      "title": "La aprobación de Trump en economía cayó a su mínimo histórico antes de las elecciones de medio término",
+      "summary": "Una encuesta de CNBC muestra que 8 de cada 10 estadounidenses califican la economía como regular o mala, llevando la aprobación económica del presidente Trump a su punto más bajo.",
+      "detail": "La percepción de la economía por parte de la ciudadanía influye directamente en las elecciones y, por ende, en las políticas económicas futuras. En las elecciones de medio término, el humor económico suele castigar al partido gobernante. Para quienes estudian finanzas, es importante entender que los mercados también miran el contexto político, ya que cambios en el Congreso pueden afectar impuestos, gasto público y regulaciones.",
       "tags": [
-        "farmacéutica",
+        "política económica",
+        "elecciones",
+        "EE.UU."
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "published_at": "2026-10-23T20:49:42Z",
+      "fecha_evento": "2026-10-23",
+      "tickers": []
+    },
+    {
+      "id": "american-express-despidos-ia",
+      "type": "empresa",
+      "title": "American Express recorta el 5% de su personal para prepararse para la IA",
+      "summary": "Amex anunció el despido del 5% de su fuerza laboral y registrará un cargo de reestructuración de 336 millones de dólares en el trimestre, según informó el CEO Stephen Squeri.",
+      "detail": "Cada vez más empresas grandes justifican recortes de personal apuntando a la adopción de inteligencia artificial. Desde el punto de vista financiero, una reestructuración implica un costo inmediato (el cargo contable), pero se espera que genere ahorros a largo plazo. Es un movimiento que el mercado suele observar con atención para evaluar si la empresa está apostando por eficiencia o simplemente recortando gastos ante dificultades.",
+      "tags": [
+        "inteligencia artificial",
+        "despidos",
+        "empresas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "published_at": "2026-10-23T18:57:48Z",
+      "fecha_evento": "2026-10-23",
+      "tickers": [
+        "AXP"
+      ]
+    },
+    {
+      "id": "moderna-vacuna-cancer-datos",
+      "type": "empresa",
+      "title": "Las acciones de Moderna se derrumbaron tras filtrarse datos de su vacuna contra el cáncer, pese a resultados positivos",
+      "summary": "Moderna publicó los datos completos de su vacuna contra el cáncer desarrollada junto a Merck, pero las acciones cayeron fuerte porque la información ya había circulado antes del anuncio oficial.",
+      "detail": "Este caso ilustra un principio clave en los mercados: 'comprar con el rumor, vender con la noticia'. Cuando los datos positivos se filtran antes del anuncio, muchos inversores ya compraron anticipándose; al confirmarse la noticia, aprovechan para vender y tomar ganancias, lo que hunde el precio aunque los resultados sean buenos. También plantea cuestiones de integridad del mercado y manejo de información privilegiada.",
+      "tags": [
+        "biotecnología",
         "acciones",
-        "vacuna"
+        "mercado"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-      "published_at": "2026-10-22T21:52:02Z",
-      "fecha_evento": "2026-10-22",
+      "published_at": "2026-10-23T14:36:34Z",
+      "fecha_evento": "2026-10-23",
       "tickers": [
         "MRNA",
         "MRK"
       ]
     },
     {
-      "id": "airlines-fuel-forecast-2026",
-      "type": "empresa",
-      "title": "Las aerolíneas americanas recortan sus pronósticos de ganancias por el alza del combustible",
-      "summary": "American Airlines se convirtió en la cuarta gran aerolínea de EE.UU. en bajar su previsión de ganancias para 2026, golpeadas todas por el aumento en el precio del combustible.",
-      "detail": "El precio del combustible es uno de los mayores costos operativos de las aerolíneas, y cuando sube, comprime los márgenes de ganancia directamente. Que cuatro grandes compañías del sector ajusten sus proyecciones al mismo tiempo es una señal de un shock de costos sectorial, no solo un problema aislado de una empresa. Para quienes aprenden finanzas, este es un buen ejemplo de cómo los precios de las materias primas impactan en sectores específicos de la economía.",
-      "tags": [
-        "aerolíneas",
-        "combustible",
-        "ganancias"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-      "published_at": "2026-10-22T14:52:09Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": [
-        "AAL",
-        "LUV",
-        "UAL"
-      ]
-    },
-    {
-      "id": "boeing-737-max10-faa-2026",
-      "type": "empresa",
-      "title": "Boeing obtuvo la aprobación de la FAA para el 737 Max 10 tras años de demoras",
-      "summary": "La Administración Federal de Aviación de EE.UU. aprobó el 737 Max 10, el modelo más grande de la familia Max, que llevaba años demorado por problemas de seguridad y mayor escrutinio regulatorio.",
-      "detail": "La certificación regulatoria es un paso clave para que una empresa pueda comercializar un producto y empezar a generar ingresos por él. En el caso de Boeing, las demoras prolongadas en el Max 10 representaron años de costos sin retorno. Esta aprobación abre la puerta a nuevas entregas y contratos, lo que puede impactar positivamente en los resultados futuros de la compañía. Es un ejemplo de cómo el riesgo regulatorio puede afectar significativamente el valor de una empresa.",
-      "tags": [
-        "Boeing",
-        "regulación",
-        "aviación"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-      "published_at": "2026-10-20T22:01:11Z",
-      "fecha_evento": "2026-10-20",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "goldman-jpmorgan-ai-trading-2026",
+      "id": "goldman-jpmorgan-morgan-stanley-ia-trading",
       "type": "mercado",
-      "title": "Goldman Sachs, JPMorgan y Morgan Stanley dominan el boom bursátil del AI y se llevan el 80% del mercado",
-      "summary": "Los tres grandes bancos de Wall Street generaron 52.000 millones de dólares en ingresos por trading de acciones este año, capturando cerca del 80% del mercado gracias al aumento de préstamos con margen a fondos de cobertura.",
-      "detail": "Cuando sube fuertemente el precio de las acciones ligadas a la inteligencia artificial, los fondos de cobertura piden más préstamos para ampliar sus posiciones, y los grandes bancos cobran intereses por esos préstamos. Esto genera ingresos adicionales para los bancos más grandes, que ya tienen las plataformas y el capital para operar a esa escala. Para quienes aprenden finanzas, es un ejemplo de cómo la concentración del mercado beneficia a los jugadores más grandes en momentos de boom.",
+      "title": "Goldman Sachs, JPMorgan y Morgan Stanley dominan el auge bursátil de la IA con 52.000 millones en ingresos",
+      "summary": "Los tres grandes bancos de Wall Street generaron 52.000 millones de dólares en ingresos por trading de acciones en lo que va del año, capturando cerca del 80% del mercado gracias al boom de la inteligencia artificial.",
+      "detail": "El auge de las acciones vinculadas a la IA disparó la actividad de trading y el préstamo con margen a fondos de cobertura (hedge funds), dos fuentes clave de ingresos para los grandes bancos de inversión. Este fenómeno muestra cómo una tendencia tecnológica puede beneficiar a sectores inesperados como la banca. Para quienes aprenden finanzas, es un ejemplo de cómo los grandes players concentran el mercado en momentos de alta volatilidad y euforia inversora.",
       "tags": [
-        "bancos",
         "Wall Street",
-        "inteligencia artificial"
+        "inteligencia artificial",
+        "bancos"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
@@ -117,55 +113,54 @@
       ]
     },
     {
-      "id": "american-express-guidance-2026",
+      "id": "american-airlines-recorte-previsiones",
       "type": "empresa",
-      "title": "American Express subió su pronóstico de ganancias para todo 2026 tras un buen tercer trimestre",
-      "summary": "American Express mejoró su guía de ganancias para el año completo después de reportar resultados del tercer trimestre por encima de las expectativas, manteniendo su perspectiva de crecimiento de ingresos.",
-      "detail": "Cuando una empresa no solo supera las estimaciones del trimestre sino que además sube sus proyecciones para el resto del año, es una señal muy positiva para los inversores, ya que indica confianza de la propia gerencia en el negocio. American Express es considerada un indicador del gasto de los consumidores de ingresos medios y altos, por lo que sus resultados también dan pistas sobre el estado del consumo en EE.UU.",
+      "title": "American Airlines recorta sus previsiones de 2026 por el alza del combustible",
+      "summary": "American Airlines se convirtió en la cuarta aerolínea estadounidense importante en bajar su proyección de ganancias para 2026 debido al fuerte aumento en los precios del combustible.",
+      "detail": "El precio del combustible es uno de los mayores costos para las aerolíneas y tiene impacto directo en su rentabilidad. Cuando varias empresas de un mismo sector recortan previsiones por el mismo motivo, es una señal de que el problema es estructural para toda la industria, no puntual. Para un inversor, esto sirve para entender cómo los costos operativos externos —como el precio del petróleo— afectan sectores completos.",
       "tags": [
-        "ganancias",
-        "consumo",
-        "finanzas"
+        "aerolíneas",
+        "combustible",
+        "ganancias"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/american-express-boosts-fy26-earnings-outlook-update",
-      "published_at": "2026-10-23T11:26:09Z",
-      "fecha_evento": "2026-10-23",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
+      "published_at": "2026-10-22T14:52:09Z",
+      "fecha_evento": "2026-10-22",
       "tickers": [
-        "AXP"
+        "AAL"
       ]
     },
     {
-      "id": "starlink-telecom-stocks-2026",
-      "type": "mercado",
-      "title": "Las ambiciones móviles de Starlink volvieron a golpear a las acciones de las teleoperadoras",
-      "summary": "Reportes sobre conversaciones de Starlink con dueños de torres de telefonía celular generaron nuevas caídas en las acciones de Verizon, AT&T y T-Mobile.",
-      "detail": "Cuando una empresa disruptiva como Starlink muestra intenciones de entrar a un mercado, los inversores anticipan que los jugadores actuales van a perder clientes o reducir precios para competir, lo que afecta sus ganancias futuras. Este tipo de riesgo se llama 'riesgo de disrupción' y es fundamental entenderlo al analizar una inversión en sectores establecidos. Es un ejemplo claro de cómo una noticia sobre un competidor puede mover el precio de acciones de empresas que ni siquiera son las protagonistas directas.",
+      "id": "att-spacex-competencia-celular",
+      "type": "empresa",
+      "title": "AT&T cayó casi 8% ante rumores de que SpaceX negocia acuerdos de torres celulares",
+      "summary": "Las acciones de AT&T bajaron un 7,96% luego de que Bloomberg reportara que SpaceX estaría en conversaciones para asumir contratos de sitios celulares, encendiendo alarmas sobre mayor competencia en el sector de telecomunicaciones.",
+      "detail": "Cuando una empresa disruptiva como SpaceX muestra interés en entrar a un mercado consolidado, los inversores del sector existente reaccionan vendiéndose por el miedo a perder participación de mercado. Este tipo de movimiento muestra cómo los rumores —incluso sin confirmación oficial— pueden mover fuertemente los precios de las acciones. Es un ejemplo claro de cómo el riesgo competitivo se incorpora rápidamente en las valuaciones.",
       "tags": [
         "telecomunicaciones",
-        "Starlink",
-        "disrupción"
+        "competencia",
+        "acciones"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-      "published_at": "2026-10-23T11:32:00Z",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-23-att-slides-spacex-cell-site-talks",
+      "published_at": "2026-10-23T21:25:02Z",
       "fecha_evento": "2026-10-23",
       "tickers": [
-        "VZ",
         "T",
-        "TMUS"
+        "SPCX"
       ]
     },
     {
-      "id": "ebay-layoffs-2026",
+      "id": "ebay-despidos-9-porciento",
       "type": "empresa",
-      "title": "eBay anunció el despido del 9% de su personal en su segunda ronda de recortes del año",
-      "summary": "eBay confirmó que despedirá a alrededor de 1.000 empleados, equivalente al 9% de su fuerza laboral, para concentrarse en sus prioridades estratégicas clave.",
-      "detail": "Los despidos masivos suelen ser una señal de que una empresa está bajo presión financiera o quiere redirigir recursos hacia áreas más rentables. Que sea la segunda ronda de cortes en el mismo año indica que la compañía enfrenta desafíos estructurales, no solo coyunturales. Para inversores, estos recortes pueden mejorar los márgenes en el corto plazo, pero también pueden reflejar problemas más profundos de crecimiento.",
+      "title": "eBay anuncia el despido del 9% de su personal en su segunda ronda de recortes del año",
+      "summary": "eBay recortará alrededor de 1.000 empleados, equivalentes al 9% de su fuerza laboral, en un segundo ciclo de despidos este año para concentrarse en sus prioridades estratégicas clave.",
+      "detail": "Que una empresa realice dos rondas de despidos en el mismo año es una señal de que está en un proceso profundo de reestructuración. Desde el punto de vista financiero, los recortes de personal reducen costos operativos pero también pueden afectar la capacidad de crecer. Los inversores suelen mirar si estos movimientos reflejan un ajuste saludable o si indican problemas más serios en el negocio.",
       "tags": [
         "despidos",
-        "tecnología",
-        "reestructuración"
+        "reestructuración",
+        "tecnología"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
@@ -176,21 +171,23 @@
       ]
     },
     {
-      "id": "france-pmi-contraction-2026",
-      "type": "economia",
-      "title": "Francia registró una contracción en su sector servicios en octubre y su bolsa cayó",
-      "summary": "El índice CAC 40 de Francia bajó tras conocerse que el sector servicios del país se contrajo en octubre, sumado a preocupaciones fiscales y resultados corporativos mixtos.",
-      "detail": "Los índices de actividad del sector servicios (PMI) son indicadores adelantados que muestran hacia dónde va la economía antes de que salgan los datos oficiales. Una contracción en servicios en una economía grande como Francia puede anticipar menor crecimiento y presionar a los gobiernos a ajustar sus cuentas fiscales. Para quienes aprenden finanzas, seguir estos datos en Europa es importante porque afectan el euro y los mercados globales.",
+      "id": "boeing-faa-737-max-10",
+      "type": "empresa",
+      "title": "Boeing obtuvo la aprobación de la FAA para su 737 Max 10 tras años de demoras",
+      "summary": "La Administración Federal de Aviación de EE.UU. certificó el 737 Max 10, el modelo más grande de la familia Max, que había sido planeado para 2020 pero acumuló años de retrasos por problemas de seguridad.",
+      "detail": "La certificación de la FAA es un paso imprescindible para que Boeing pueda entregar y comercializar esta variante del avión, lo que se traduce directamente en ingresos y pedidos. Después de los escándalos y accidentes que afectaron a la familia 737 Max, cada aprobación regulatoria es un hito que el mercado sigue de cerca para evaluar la recuperación de la compañía. Para quienes aprenden finanzas, es un ejemplo de cómo el riesgo regulatorio puede impactar durante años en el valor de una empresa.",
       "tags": [
-        "Europa",
-        "PMI",
-        "bolsa"
+        "Boeing",
+        "regulación",
+        "aviación"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/french-benchmark-weakens-earnings-economic-contraction",
-      "published_at": "2026-10-23T11:18:19Z",
-      "fecha_evento": "2026-10-23",
-      "tickers": []
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+      "published_at": "2026-10-20T22:01:11Z",
+      "fecha_evento": "2026-10-20",
+      "tickers": [
+        "BA"
+      ]
     }
   ],
   "ticker": [
@@ -208,33 +205,33 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.554",
-      "valor_num": 1553.6,
-      "delta_pct": -0.01
+      "valor": "$1.564",
+      "valor_num": 1563.9,
+      "delta_pct": 0.65
     },
     {
       "label": "CCL",
-      "valor": "$1.640",
-      "valor_num": 1639.5,
-      "delta_pct": 0.09
+      "valor": "$1.654",
+      "valor_num": 1654.0,
+      "delta_pct": 0.98
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.630",
-      "valor_num": 81630.0,
-      "delta_pct": -0.11
+      "valor": "US$ 81.287",
+      "valor_num": 81287.0,
+      "delta_pct": -0.13
     },
     {
       "label": "S&P 500",
-      "valor": "7.663",
-      "valor_num": 7663.43,
-      "delta_pct": -1.04
+      "valor": "7.624",
+      "valor_num": 7623.68,
+      "delta_pct": -0.47
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.041",
-      "valor_num": 4041.0,
-      "delta_pct": -2.86
+      "valor": "US$ 4.010",
+      "valor_num": 4010.0,
+      "delta_pct": -3.61
     }
   ]
 }
