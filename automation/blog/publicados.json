@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "tasa-real-plata-que-crece-o-no",
+      "titulo": "Nominal y real: por qué tu plata puede crecer y perder al mismo tiempo",
+      "bajada": "Tu saldo sube, tu sueldo sube, el alquiler sube. Entender la diferencia entre nominal y real es lo que te dice si estás ganando o perdiendo.",
+      "categoria": "Mitos",
+      "mundo": "mitos",
+      "fecha": "2026-10-23"
+    },
+    {
       "slug": "dolar-tarjeta-30-por-ciento-recargo",
       "titulo": "Dólar tarjeta: por qué pagás 30% más que el oficial sin darte cuenta",
       "bajada": "Suscripciones, pasajes, compras online: todo se liquida a un dólar que no figura en ninguna pizarra. Te explico cómo se arma ese precio y por qué te sorprende en el resumen.",
