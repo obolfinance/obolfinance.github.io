@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-24T12:01:17.387517+00:00",
+  "generated_at": "2026-10-24T22:01:01.787144+00:00",
   "items": [
     {
-      "id": "jobless-claims-oct-2026",
+      "id": "jobless-claims-oct22-2026",
       "type": "economia",
-      "title": "Los pedidos de seguro de desempleo en EE.UU. cayeron a mínimos desde los años 60",
-      "summary": "Las solicitudes iniciales de seguro de desempleo bajaron a 194.000, uno de los niveles más bajos desde la década del 60. La tendencia de despidos bajos continúa firme en el mercado laboral estadounidense.",
-      "detail": "Un mercado laboral sólido en EE.UU. es una señal clave para los inversores globales: si hay pleno empleo, la Fed tiene menos presión para bajar tasas. Esto influye en el dólar, en los flujos de capital hacia emergentes como Argentina, y en el costo del financiamiento externo. Aprender a leer estos datos ayuda a entender por qué los mercados reaccionan ante cada publicación semanal.",
+      "title": "Las solicitudes de desempleo en EE.UU. caen a niveles mínimos desde los años '60",
+      "summary": "Las solicitudes iniciales de seguro de desempleo en EE.UU. bajaron a 194.000, uno de los niveles más bajos desde la década del '60.",
+      "detail": "Un mercado laboral fuerte en EE.UU. es una señal clave para la economía global: cuando hay poco desempleo, el consumo se sostiene y la Reserva Federal tiene menos presión para bajar tasas. Para alguien que aprende finanzas, este dato es un ejemplo clásico de indicador económico adelantado que los mercados siguen de cerca cada semana.",
       "tags": [
         "empleo",
         "EE.UU.",
-        "Fed"
+        "economía"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
@@ -19,15 +19,15 @@
       "tickers": []
     },
     {
-      "id": "amex-layoffs-ai-2026",
+      "id": "amex-layoffs-ai-oct23-2026",
       "type": "empresa",
-      "title": "American Express recorta el 5% de su plantilla para \"prepararse para la IA\"",
-      "summary": "American Express anunció el despido del 5% de su fuerza laboral y tomará un cargo de reestructuración de 336 millones de dólares en el trimestre. El CEO explicó que el objetivo es adaptarse a la inteligencia artificial.",
-      "detail": "Este caso muestra cómo las grandes empresas están reorganizando sus estructuras de costos en anticipación a la automatización. Un cargo de reestructuración impacta en las ganancias del trimestre pero puede mejorar la rentabilidad futura, algo que los inversores suelen evaluar al leer resultados. Es un ejemplo real de cómo la IA está cambiando la dinámica laboral y corporativa a nivel global.",
+      "title": "American Express recorta el 5% de su plantilla para apostar por la inteligencia artificial",
+      "summary": "American Express anunció el despido del 5% de su fuerza laboral y una carga de reestructuración de 336 millones de dólares en el tercer trimestre, con el objetivo declarado de prepararse para la IA.",
+      "detail": "Que una empresa financiera global como Amex reestructure su personal para adoptar IA muestra cómo la tecnología está cambiando el empleo incluso en sectores tradicionales. La 'carga de reestructuración' es un costo contable que las empresas registran cuando hacen cambios grandes: afecta las ganancias del trimestre pero puede mejorar la eficiencia a largo plazo.",
       "tags": [
         "IA",
-        "despidos",
-        "empresas"
+        "empleo",
+        "finanzas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
@@ -38,11 +38,31 @@
       ]
     },
     {
-      "id": "american-airlines-forecast-2026",
+      "id": "moderna-cancer-vaccine-oct23-2026",
       "type": "empresa",
-      "title": "American Airlines recorta su pronóstico de ganancias por el alza en el precio del combustible",
-      "summary": "American Airlines bajó su proyección de resultados para 2026 debido a un fuerte aumento en los costos de combustible. Es la cuarta aerolínea grande de EE.UU. en hacer lo mismo este mes.",
-      "detail": "El precio del combustible es uno de los mayores costos para las aerolíneas, y cuando sube de forma abrupta, comprime sus márgenes de ganancia rápidamente. Que cuatro aerolíneas grandes recorten pronósticos en el mismo mes indica que el impacto es sectorial, no aislado. Para alguien que aprende finanzas, este es un ejemplo claro de cómo los costos operativos afectan las proyecciones y el precio de las acciones.",
+      "title": "Las acciones de Moderna se desplomaron pese a resultados positivos de su vacuna contra el cáncer",
+      "summary": "Moderna publicó los datos completos de su vacuna contra el cáncer desarrollada con Merck, pero las acciones cayeron fuerte tras filtrarse la información antes del anuncio oficial.",
+      "detail": "Este caso ilustra cómo los mercados reaccionan a la forma en que llega la información, no solo a su contenido. Cuando los datos se filtran antes del anuncio, los inversores que ya operaron sobre esa información venden rápido al confirmarse la noticia, generando caídas aunque el resultado sea positivo. Es un ejemplo práctico del concepto 'comprar el rumor, vender el hecho'.",
+      "tags": [
+        "biotecnología",
+        "acciones",
+        "mercados"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+      "published_at": "2026-10-23T14:36:34Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": [
+        "MRNA",
+        "MRK"
+      ]
+    },
+    {
+      "id": "american-airlines-forecast-oct22-2026",
+      "type": "empresa",
+      "title": "American Airlines recorta su pronóstico de ganancias por el alza del combustible",
+      "summary": "American Airlines redujo su previsión de resultados para 2026 por el aumento en los precios del combustible, convirtiéndose en la cuarta aerolínea grande de EE.UU. en hacer lo mismo este mes.",
+      "detail": "El costo del combustible es uno de los principales gastos operativos de las aerolíneas, por lo que cuando el precio del petróleo sube, los márgenes de ganancia se comprimen. Que cuatro grandes aerolíneas recorten previsiones en el mismo mes indica que el shock de costos es generalizado, no un problema aislado de una empresa.",
       "tags": [
         "aerolíneas",
         "combustible",
@@ -57,136 +77,95 @@
       ]
     },
     {
-      "id": "moderna-cancer-vaccine-data-2026",
-      "type": "empresa",
-      "title": "Las acciones de Moderna cayeron tras filtrarse datos de su vacuna contra el cáncer, pese a resultados positivos",
-      "summary": "Moderna publicó datos completos de su vacuna contra el cáncer desarrollada junto a Merck, pero las acciones cayeron fuerte. La filtración previa de los resultados habría quitado el efecto sorpresa positivo.",
-      "detail": "Este caso ilustra un fenómeno conocido en los mercados: 'comprar el rumor, vender el hecho'. Cuando una buena noticia ya fue anticipada o filtrada, el mercado la 'descuenta' antes del anuncio oficial, y cuando se confirma, el precio puede caer en lugar de subir. Para alguien que aprende a invertir, entender este mecanismo es clave para no sorprenderse por reacciones aparentemente contradictorias del mercado.",
+      "id": "nasdaq-selloff-oct24-2026",
+      "type": "mercado",
+      "title": "El Nasdaq cae 7,6% desde sus máximos de octubre y pone nerviosos a los inversores tech",
+      "summary": "El índice Nasdaq Composite acumula una baja del 7,6% desde los máximos alcanzados a principios de octubre, con foco especial en acciones de IA y tecnología.",
+      "detail": "Las correcciones del mercado —caídas del 5% al 10% desde un máximo— son eventos frecuentes y parte normal del ciclo bursátil. Para quien aprende finanzas, entender que estas caídas no siempre indican una crisis profunda es clave: la historia muestra que el mercado suele recuperarse. La concentración de la caída en tecnología e IA sugiere que los inversores están reevaluando las valuaciones de esas empresas.",
       "tags": [
-        "salud",
-        "acciones",
-        "mercado"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-      "published_at": "2026-10-23T14:36:34Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": [
-        "MRNA",
-        "MRK"
-      ]
-    },
-    {
-      "id": "ebay-layoffs-2026",
-      "type": "empresa",
-      "title": "eBay anuncia el despido del 9% de su plantilla en su segunda ronda de recortes del año",
-      "summary": "eBay recortará alrededor de 1.000 empleados, equivalente al 9% de su fuerza laboral, para enfocarse en sus prioridades estratégicas. Es la segunda vez en 2026 que la empresa hace una reducción de personal.",
-      "detail": "Dos rondas de despidos en el mismo año en una empresa tecnológica consolidada sugieren una presión sostenida sobre sus resultados o un cambio profundo en su modelo de negocio. Para quienes aprenden finanzas, los despidos masivos suelen ir acompañados de cargos contables especiales y pueden ser señales de que la empresa busca mejorar su rentabilidad estructural, aunque no siempre se traduce en mejoras inmediatas del precio de la acción.",
-      "tags": [
+        "Nasdaq",
         "tecnología",
-        "despidos",
-        "empresas"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/21/ebay-layoffs-workforce-cuts.html",
-      "published_at": "2026-10-21T15:17:03Z",
-      "fecha_evento": "2026-10-21",
-      "tickers": [
-        "EBAY"
-      ]
-    },
-    {
-      "id": "fed-warsh-comunicacion-2026",
-      "type": "discurso",
-      "title": "Los inversores exigen al presidente de la Fed más claridad sobre la estrategia de tasas",
-      "summary": "Economistas e inversores reclaman que Kevin Warsh, el presidente de la Reserva Federal, mejore la comunicación de la estrategia del banco central. Las respuestas vagas generan incertidumbre en los mercados.",
-      "detail": "La comunicación de la Fed es en sí misma una herramienta de política monetaria: cuando el presidente del banco central habla con claridad, los mercados pueden anticipar movimientos de tasas y ajustar precios. Cuando los mensajes son ambiguos, crece la volatilidad. Entender por qué lo que dice (o no dice) el titular de la Fed mueve mercados globales es fundamental para cualquier persona que empiece a seguir las finanzas internacionales.",
-      "tags": [
-        "Fed",
-        "tasas",
-        "política monetaria"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
-      "published_at": "2026-10-24T11:30:00Z",
-      "fecha_evento": "2026-10-24",
-      "tickers": []
-    },
-    {
-      "id": "anthropic-ipo-noviembre-2026",
-      "type": "empresa",
-      "title": "Se agota el tiempo para que Anthropic concrete su salida a bolsa en noviembre",
-      "summary": "La empresa de inteligencia artificial Anthropic podría no lograr su esperado IPO en noviembre si no presenta la documentación clave a tiempo. Según un gestor de fondos, la presión del mercado podría llevarla a quedarse privada y esperar una mejor oportunidad.",
-      "detail": "Una salida a bolsa (IPO) implica que una empresa privada emite acciones por primera vez para que el público pueda invertir en ella. El timing es crucial: si el mercado está volátil o con apetito bajo de riesgo, la empresa puede recibir una valuación menor. Este caso con Anthropic es un ejemplo actual de cómo las condiciones del mercado afectan directamente las decisiones estratégicas de las empresas tecnológicas más grandes del mundo.",
-      "tags": [
-        "IPO",
-        "IA",
-        "mercado"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
-      "published_at": "2026-10-23T22:00:00Z",
-      "fecha_evento": "2026-10-23",
-      "tickers": []
-    },
-    {
-      "id": "semiconductores-etf-caida-2026",
-      "type": "mercado",
-      "title": "Inversores apostaron un récord a un ETF apalancado de chips y perdieron fuerte",
-      "summary": "La semana pasada se registró el mayor flujo de capital histórico hacia un ETF apalancado de semiconductores, pero las apuestas alcistas sobre acciones de chips se vieron golpeadas por las dudas sobre los retornos de la inversión en IA.",
-      "detail": "Los ETFs apalancados amplifican los movimientos del mercado subyacente, lo que los hace muy atractivos cuando hay euforia pero también muy riesgosos. Este caso muestra cómo el sentimiento colectivo puede llevar a decisiones de inversión masivas justo antes de una corrección. Para alguien que aprende finanzas, es un ejemplo práctico de por qué la gestión del riesgo importa tanto como elegir el activo correcto.",
-      "tags": [
-        "ETF",
-        "semiconductores",
-        "riesgo"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
-      "published_at": "2026-10-23T21:46:00Z",
-      "fecha_evento": "2026-10-23",
-      "tickers": []
-    },
-    {
-      "id": "starlink-telecom-stocks-2026",
-      "type": "mercado",
-      "title": "Las ambiciones móviles de SpaceX vuelven a golpear a las acciones de telecomunicaciones",
-      "summary": "Informes sobre conversaciones de Starlink con propietarios de torres de celular impactaron negativamente en las acciones de Verizon, AT&T y T-Mobile. Los inversores temen que SpaceX pueda competir directamente en el negocio móvil.",
-      "detail": "Cuando una empresa tecnológica como SpaceX amenaza con entrar a un mercado dominado por actores establecidos, los inversores anticipan una potencial pérdida de participación y márgenes para esas empresas, lo que se refleja en caídas del precio de sus acciones. Este caso ilustra cómo las noticias sobre competencia futura pueden mover mercados hoy, antes de que ocurra nada concreto.",
-      "tags": [
-        "telecomunicaciones",
-        "SpaceX",
-        "competencia"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-      "published_at": "2026-10-23T21:11:00Z",
-      "fecha_evento": "2026-10-23",
-      "tickers": [
-        "VZ",
-        "T",
-        "TMUS",
-        "SPCE"
-      ]
-    },
-    {
-      "id": "tech-giants-earnings-claves-2026",
-      "type": "mercado",
-      "title": "Qué mirar cuando los gigantes tecnológicos presenten resultados esta semana",
-      "summary": "Los inversores van a poner el foco en el nivel de gasto de capital de las grandes tecnológicas y en si ese gasto creciente se justifica con los retornos generados por la inteligencia artificial.",
-      "detail": "El gasto de capital (capex) de empresas como Google, Microsoft o Meta en infraestructura de IA es enorme, y el mercado está empezando a cuestionar cuándo ese gasto se va a traducir en ganancias reales. Saber qué indicadores seguir cuando se publican resultados corporativos —como el capex, los márgenes y las proyecciones— es una habilidad clave para cualquier inversor que quiera ir más allá del precio de la acción.",
-      "tags": [
-        "tecnología",
-        "resultados",
-        "IA"
+        "mercados"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/3-key-things-monitor-when-tech-giants-report-earnings",
-      "published_at": "2026-10-24T10:05:00Z",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-sell-history-says-best-move-make-right-now",
+      "published_at": "2026-10-24T19:41:00Z",
       "fecha_evento": "2026-10-24",
       "tickers": [
-        "GOOGL",
-        "MSFT",
-        "META"
+        "^IXIC"
+      ]
+    },
+    {
+      "id": "trump-approval-economy-oct23-2026",
+      "type": "economia",
+      "title": "La aprobación de Trump en economía llega a su punto más bajo con las elecciones de medio término en el horizonte",
+      "summary": "Ocho de cada diez estadounidenses califica la economía como regular o mala, según una encuesta de CNBC, lo que complica el panorama electoral para los candidatos republicanos.",
+      "detail": "La percepción económica de la población es un factor político determinante: cuando la mayoría siente que la economía va mal, tiende a castigar al partido gobernante en las urnas. Para quienes estudian finanzas, los resultados electorales pueden afectar políticas fiscales y regulatorias, lo que a su vez impacta en los mercados.",
+      "tags": [
+        "política",
+        "economía",
+        "EE.UU."
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "published_at": "2026-10-23T20:49:42Z",
+      "fecha_evento": "2026-10-23",
+      "tickers": []
+    },
+    {
+      "id": "procter-gamble-earnings-oct22-2026",
+      "type": "empresa",
+      "title": "Procter & Gamble superó las estimativas con ventas que crecieron un 4%",
+      "summary": "P&G publicó resultados trimestrales por encima de lo esperado por Wall Street, impulsados principalmente por sus divisiones de lavandería y productos para el hogar.",
+      "detail": "P&G es considerada una empresa 'defensiva': vende productos de consumo básico que la gente compra incluso en períodos de incertidumbre económica. Cuando este tipo de empresas crece, suele indicar que el consumo minorista sigue activo. Es un buen ejemplo para entender cómo distintos sectores reaccionan diferente a los ciclos económicos.",
+      "tags": [
+        "consumo",
+        "ganancias",
+        "acciones"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
+      "published_at": "2026-10-22T14:19:40Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": [
+        "PG"
+      ]
+    },
+    {
+      "id": "musk-skydance-investment-oct22-2026",
+      "type": "empresa",
+      "title": "Elon Musk invierte cerca de 1.000 millones de dólares en Skydance",
+      "summary": "Elon Musk realizó una inversión de aproximadamente 1.000 millones de dólares en Skydance, la empresa de medios de David Ellison.",
+      "detail": "Las grandes inversiones personales de figuras como Musk mueven la atención del mercado y pueden señalar hacia qué sectores fluirá capital en el futuro. Para quien aprende finanzas, este tipo de movimientos ilustra cómo los inversores de alto perfil diversifican activos y cómo sus decisiones pueden influir en la valuación de empresas privadas.",
+      "tags": [
+        "inversión",
+        "medios",
+        "Musk"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "published_at": "2026-10-22T19:34:46Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": []
+    },
+    {
+      "id": "pepsi-tacobell-renewal-oct22-2026",
+      "type": "empresa",
+      "title": "Taco Bell renueva contrato con Pepsi días después de que KFC se pase a Coca-Cola",
+      "summary": "PepsiCo renovó su acuerdo de bebidas con Taco Bell, aunque su cadena hermana KFC acaba de cambiarse a Coca-Cola en Estados Unidos.",
+      "detail": "Los contratos de bebidas con cadenas de comida rápida son negocios de alto volumen y largo plazo que impactan directamente en los ingresos de Pepsi y Coca-Cola. Este caso muestra cómo dos empresas del mismo grupo pueden tener proveedores distintos, y refleja la competencia permanente entre las dos grandes del sector de gaseosas por ganar distribución masiva.",
+      "tags": [
+        "consumo",
+        "competencia",
+        "marcas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+      "published_at": "2026-10-22T18:51:44Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": [
+        "PEP",
+        "KO"
       ]
     }
   ],
@@ -217,9 +196,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 80.512",
-      "valor_num": 80512.0,
-      "delta_pct": -1.37
+      "valor": "US$ 80.360",
+      "valor_num": 80360.0,
+      "delta_pct": -1.16
     },
     {
       "label": "S&P 500",
