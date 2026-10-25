@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-24T22:01:01.787144+00:00",
+  "generated_at": "2026-10-25T12:01:05.117638+00:00",
   "items": [
     {
-      "id": "jobless-claims-oct22-2026",
+      "id": "jobless-claims-oct22",
       "type": "economia",
-      "title": "Las solicitudes de desempleo en EE.UU. caen a niveles mínimos desde los años '60",
-      "summary": "Las solicitudes iniciales de seguro de desempleo en EE.UU. bajaron a 194.000, uno de los niveles más bajos desde la década del '60.",
-      "detail": "Un mercado laboral fuerte en EE.UU. es una señal clave para la economía global: cuando hay poco desempleo, el consumo se sostiene y la Reserva Federal tiene menos presión para bajar tasas. Para alguien que aprende finanzas, este dato es un ejemplo clásico de indicador económico adelantado que los mercados siguen de cerca cada semana.",
+      "title": "Las solicitudes de desempleo en EE.UU. caen a mínimos desde los años 60",
+      "summary": "Las solicitudes iniciales de seguro de desempleo bajaron a 194.000, un nivel ajustado por estacionalidad que no se veía desde la década del 60. El mercado laboral estadounidense sigue muy sólido.",
+      "detail": "Un mercado laboral fuerte en EE.UU. es una señal clave para la Reserva Federal: si hay mucho empleo y poca gente buscando trabajo, hay presión para que los salarios suban y, con ellos, la inflación. Esto puede influir en las decisiones de tasas de interés de la Fed, que a su vez afectan al dólar y a los mercados globales, incluyendo Argentina.",
       "tags": [
         "empleo",
         "EE.UU.",
-        "economía"
+        "Fed"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
@@ -19,15 +19,15 @@
       "tickers": []
     },
     {
-      "id": "amex-layoffs-ai-oct23-2026",
+      "id": "amex-layoffs-ai-oct23",
       "type": "empresa",
-      "title": "American Express recorta el 5% de su plantilla para apostar por la inteligencia artificial",
-      "summary": "American Express anunció el despido del 5% de su fuerza laboral y una carga de reestructuración de 336 millones de dólares en el tercer trimestre, con el objetivo declarado de prepararse para la IA.",
-      "detail": "Que una empresa financiera global como Amex reestructure su personal para adoptar IA muestra cómo la tecnología está cambiando el empleo incluso en sectores tradicionales. La 'carga de reestructuración' es un costo contable que las empresas registran cuando hacen cambios grandes: afecta las ganancias del trimestre pero puede mejorar la eficiencia a largo plazo.",
+      "title": "American Express recorta el 5% de su personal para \"prepararse para la IA\"",
+      "summary": "Amex anunció el despido del 5% de su fuerza laboral y tomó un cargo de reestructuración de 336 millones de dólares en el tercer trimestre. El CEO justificó el recorte como parte de la transición hacia la inteligencia artificial.",
+      "detail": "Cuando una empresa grande como American Express anuncia despidos masivos ligados a la IA, está mandando una señal clara al mercado: la automatización está cambiando la estructura de costos de las compañías financieras. Los cargos de reestructuración reducen las ganancias del trimestre, pero el mercado suele ver estos movimientos como positivos a largo plazo si prometen mayor eficiencia. Es un patrón que se repite en el sector financiero global.",
       "tags": [
         "IA",
-        "empleo",
-        "finanzas"
+        "finanzas",
+        "reestructuración"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
@@ -38,31 +38,48 @@
       ]
     },
     {
-      "id": "moderna-cancer-vaccine-oct23-2026",
+      "id": "moderna-cancer-vaccine-oct23",
       "type": "empresa",
-      "title": "Las acciones de Moderna se desplomaron pese a resultados positivos de su vacuna contra el cáncer",
-      "summary": "Moderna publicó los datos completos de su vacuna contra el cáncer desarrollada con Merck, pero las acciones cayeron fuerte tras filtrarse la información antes del anuncio oficial.",
-      "detail": "Este caso ilustra cómo los mercados reaccionan a la forma en que llega la información, no solo a su contenido. Cuando los datos se filtran antes del anuncio, los inversores que ya operaron sobre esa información venden rápido al confirmarse la noticia, generando caídas aunque el resultado sea positivo. Es un ejemplo práctico del concepto 'comprar el rumor, vender el hecho'.",
+      "title": "Las acciones de Moderna se desplomaron tras filtrarse datos de su vacuna contra el cáncer",
+      "summary": "Moderna publicó los datos completos de su vacuna contra el cáncer, desarrollada junto a Merck, luego de que la información se filtrara. A pesar de que los resultados fueron positivos, las acciones cayeron fuerte.",
+      "detail": "Este caso muestra un fenómeno clásico en bolsa: 'buy the rumor, sell the news'. El mercado ya había subido el precio de la acción anticipando buenos resultados; cuando se confirmaron, muchos inversores aprovecharon para vender y tomar ganancias. Además, la filtración previa generó incertidumbre sobre el proceso, lo que también puede pesar en la confianza del mercado.",
       "tags": [
-        "biotecnología",
+        "biotech",
         "acciones",
-        "mercados"
+        "Merck"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
       "published_at": "2026-10-23T14:36:34Z",
-      "fecha_evento": "2026-10-22",
+      "fecha_evento": "2026-10-23",
       "tickers": [
         "MRNA",
         "MRK"
       ]
     },
     {
-      "id": "american-airlines-forecast-oct22-2026",
+      "id": "musk-skydance-investment",
+      "type": "empresa",
+      "title": "Elon Musk invirtió cerca de 1.000 millones de dólares en Skydance",
+      "summary": "Elon Musk realizó una inversión de aproximadamente 1.000 millones de dólares en Skydance, la productora de medios liderada por David Ellison.",
+      "detail": "Cuando una figura como Musk mueve ese volumen de capital hacia una empresa de medios, el mercado lo interpreta como una apuesta estratégica sobre el futuro del entretenimiento y los contenidos. También es un recordatorio de cómo los grandes inversores diversifican sus posiciones en distintos sectores, no solo en tecnología. Seguir los movimientos de inversores influyentes es una práctica habitual en análisis financiero.",
+      "tags": [
+        "inversión",
+        "medios",
+        "Musk"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "published_at": "2026-10-22T19:34:46Z",
+      "fecha_evento": "2026-10-22",
+      "tickers": []
+    },
+    {
+      "id": "american-airlines-forecast-oct22",
       "type": "empresa",
       "title": "American Airlines recorta su pronóstico de ganancias por el alza del combustible",
-      "summary": "American Airlines redujo su previsión de resultados para 2026 por el aumento en los precios del combustible, convirtiéndose en la cuarta aerolínea grande de EE.UU. en hacer lo mismo este mes.",
-      "detail": "El costo del combustible es uno de los principales gastos operativos de las aerolíneas, por lo que cuando el precio del petróleo sube, los márgenes de ganancia se comprimen. Que cuatro grandes aerolíneas recorten previsiones en el mismo mes indica que el shock de costos es generalizado, no un problema aislado de una empresa.",
+      "summary": "American Airlines revisó a la baja su previsión para 2026 debido al aumento en los costos de combustible, convirtiéndose en la cuarta aerolínea estadounidense importante en hacer lo mismo este mes.",
+      "detail": "El precio del combustible es uno de los mayores costos para las aerolíneas y tiene un impacto directo en sus márgenes de ganancia. Cuando varias empresas del mismo sector revisan sus pronósticos al mismo tiempo, es una señal de un problema estructural en la industria, no un caso aislado. Esto también puede afectar a los índices bursátiles donde estas acciones tienen peso.",
       "tags": [
         "aerolíneas",
         "combustible",
@@ -77,96 +94,57 @@
       ]
     },
     {
-      "id": "nasdaq-selloff-oct24-2026",
-      "type": "mercado",
-      "title": "El Nasdaq cae 7,6% desde sus máximos de octubre y pone nerviosos a los inversores tech",
-      "summary": "El índice Nasdaq Composite acumula una baja del 7,6% desde los máximos alcanzados a principios de octubre, con foco especial en acciones de IA y tecnología.",
-      "detail": "Las correcciones del mercado —caídas del 5% al 10% desde un máximo— son eventos frecuentes y parte normal del ciclo bursátil. Para quien aprende finanzas, entender que estas caídas no siempre indican una crisis profunda es clave: la historia muestra que el mercado suele recuperarse. La concentración de la caída en tecnología e IA sugiere que los inversores están reevaluando las valuaciones de esas empresas.",
+      "id": "netflix-layoffs-oct25",
+      "type": "empresa",
+      "title": "Netflix recorta 1.000 empleos en su mayor reducción de personal desde 2022",
+      "summary": "Netflix anunció el despido de 1.000 empleados, la mayor reducción de su plantilla desde 2022, junto con cambios en su liderazgo de contenidos.",
+      "detail": "Los recortes de personal en empresas de tecnología y entretenimiento suelen estar asociados a reestructuraciones para mejorar la rentabilidad o adaptarse a nuevas condiciones del mercado. Para los inversores, este tipo de movimientos puede ser una señal de que la empresa busca reducir costos y mejorar sus márgenes, algo que el mercado generalmente valora positivamente en el corto plazo.",
       "tags": [
-        "Nasdaq",
         "tecnología",
-        "mercados"
+        "despidos",
+        "streaming"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-sell-history-says-best-move-make-right-now",
-      "published_at": "2026-10-24T19:41:00Z",
-      "fecha_evento": "2026-10-24",
+      "source_url": "https://www.nasdaq.com/articles/netflix-shaking-its-content-leadership-heres-what-needs-happen-next",
+      "published_at": "2026-10-25T11:21:00Z",
+      "fecha_evento": "2026-10-25",
       "tickers": [
-        "^IXIC"
+        "NFLX"
       ]
     },
     {
-      "id": "trump-approval-economy-oct23-2026",
+      "id": "fed-signal-marketwatch-oct25",
+      "type": "mercado",
+      "title": "¿Qué señal hay que mirar para anticipar el próximo movimiento de la Fed?",
+      "summary": "Según un análisis de MarketWatch, los inversores deberían prestar atención no a la tasa de interés en sí, sino al estado de las condiciones financieras generales para anticipar la próxima decisión de la Reserva Federal.",
+      "detail": "Las 'condiciones financieras' incluyen variables como el nivel de las tasas, el precio de las acciones, el valor del dólar y el crédito disponible. Cuando estas condiciones se endurecen aunque la Fed no mueva la tasa, el efecto en la economía puede ser el mismo que si hubiera subido las tasas. Entender esta diferencia es clave para interpretar la política monetaria más allá de los titulares.",
+      "tags": [
+        "Fed",
+        "tasas",
+        "política monetaria"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
+      "published_at": "2026-10-25T11:30:00Z",
+      "fecha_evento": "2026-10-25",
+      "tickers": []
+    },
+    {
+      "id": "trump-approval-economy-oct23",
       "type": "economia",
-      "title": "La aprobación de Trump en economía llega a su punto más bajo con las elecciones de medio término en el horizonte",
-      "summary": "Ocho de cada diez estadounidenses califica la economía como regular o mala, según una encuesta de CNBC, lo que complica el panorama electoral para los candidatos republicanos.",
-      "detail": "La percepción económica de la población es un factor político determinante: cuando la mayoría siente que la economía va mal, tiende a castigar al partido gobernante en las urnas. Para quienes estudian finanzas, los resultados electorales pueden afectar políticas fiscales y regulatorias, lo que a su vez impacta en los mercados.",
+      "title": "La aprobación de Trump en economía llega a su mínimo histórico antes de las elecciones de mitad de mandato",
+      "summary": "Ocho de cada diez estadounidenses calificaron la economía como 'regular' o 'mala' en una encuesta de CNBC, golpeando la imagen económica de Trump justo antes de las elecciones legislativas de mitad de mandato.",
+      "detail": "La percepción económica de la población tiene un efecto directo en la política: cuando la gente siente que la economía va mal, tiende a castigar al partido gobernante en las urnas. El resultado de las elecciones de mitad de mandato puede cambiar la composición del Congreso y afectar las políticas fiscales y comerciales de EE.UU., lo que tiene impacto en los mercados globales y en países como Argentina.",
       "tags": [
         "política",
-        "economía",
-        "EE.UU."
+        "EE.UU.",
+        "economía"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
       "published_at": "2026-10-23T20:49:42Z",
       "fecha_evento": "2026-10-23",
       "tickers": []
-    },
-    {
-      "id": "procter-gamble-earnings-oct22-2026",
-      "type": "empresa",
-      "title": "Procter & Gamble superó las estimativas con ventas que crecieron un 4%",
-      "summary": "P&G publicó resultados trimestrales por encima de lo esperado por Wall Street, impulsados principalmente por sus divisiones de lavandería y productos para el hogar.",
-      "detail": "P&G es considerada una empresa 'defensiva': vende productos de consumo básico que la gente compra incluso en períodos de incertidumbre económica. Cuando este tipo de empresas crece, suele indicar que el consumo minorista sigue activo. Es un buen ejemplo para entender cómo distintos sectores reaccionan diferente a los ciclos económicos.",
-      "tags": [
-        "consumo",
-        "ganancias",
-        "acciones"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
-      "published_at": "2026-10-22T14:19:40Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": [
-        "PG"
-      ]
-    },
-    {
-      "id": "musk-skydance-investment-oct22-2026",
-      "type": "empresa",
-      "title": "Elon Musk invierte cerca de 1.000 millones de dólares en Skydance",
-      "summary": "Elon Musk realizó una inversión de aproximadamente 1.000 millones de dólares en Skydance, la empresa de medios de David Ellison.",
-      "detail": "Las grandes inversiones personales de figuras como Musk mueven la atención del mercado y pueden señalar hacia qué sectores fluirá capital en el futuro. Para quien aprende finanzas, este tipo de movimientos ilustra cómo los inversores de alto perfil diversifican activos y cómo sus decisiones pueden influir en la valuación de empresas privadas.",
-      "tags": [
-        "inversión",
-        "medios",
-        "Musk"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-      "published_at": "2026-10-22T19:34:46Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": []
-    },
-    {
-      "id": "pepsi-tacobell-renewal-oct22-2026",
-      "type": "empresa",
-      "title": "Taco Bell renueva contrato con Pepsi días después de que KFC se pase a Coca-Cola",
-      "summary": "PepsiCo renovó su acuerdo de bebidas con Taco Bell, aunque su cadena hermana KFC acaba de cambiarse a Coca-Cola en Estados Unidos.",
-      "detail": "Los contratos de bebidas con cadenas de comida rápida son negocios de alto volumen y largo plazo que impactan directamente en los ingresos de Pepsi y Coca-Cola. Este caso muestra cómo dos empresas del mismo grupo pueden tener proveedores distintos, y refleja la competencia permanente entre las dos grandes del sector de gaseosas por ganar distribución masiva.",
-      "tags": [
-        "consumo",
-        "competencia",
-        "marcas"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
-      "published_at": "2026-10-22T18:51:44Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": [
-        "PEP",
-        "KO"
-      ]
     }
   ],
   "ticker": [
@@ -186,19 +164,19 @@
       "label": "MEP",
       "valor": "$1.564",
       "valor_num": 1563.9,
-      "delta_pct": 0.66
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
       "valor": "$1.654",
       "valor_num": 1654.0,
-      "delta_pct": 0.88
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 80.360",
-      "valor_num": 80360.0,
-      "delta_pct": -1.16
+      "valor": "US$ 80.515",
+      "valor_num": 80515.0,
+      "delta_pct": -0.0
     },
     {
       "label": "S&P 500",
@@ -210,7 +188,7 @@
       "label": "ORO (ONZA)",
       "valor": "US$ 4.008",
       "valor_num": 4007.9,
-      "delta_pct": -3.66
+      "delta_pct": -3.25
     }
   ]
 }
