@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-25T12:01:05.117638+00:00",
+  "generated_at": "2026-10-25T22:00:58.836041+00:00",
   "items": [
     {
-      "id": "jobless-claims-oct22",
+      "id": "trump-approval-economy-midterms",
       "type": "economia",
-      "title": "Las solicitudes de desempleo en EE.UU. caen a mínimos desde los años 60",
-      "summary": "Las solicitudes iniciales de seguro de desempleo bajaron a 194.000, un nivel ajustado por estacionalidad que no se veía desde la década del 60. El mercado laboral estadounidense sigue muy sólido.",
-      "detail": "Un mercado laboral fuerte en EE.UU. es una señal clave para la Reserva Federal: si hay mucho empleo y poca gente buscando trabajo, hay presión para que los salarios suban y, con ellos, la inflación. Esto puede influir en las decisiones de tasas de interés de la Fed, que a su vez afectan al dólar y a los mercados globales, incluyendo Argentina.",
+      "title": "La aprobación de Trump en economía cae a su mínimo histórico",
+      "summary": "Una encuesta de CNBC muestra que 8 de cada 10 estadounidenses califica la economía como 'regular' o 'mala', el peor registro para Trump en ese indicador, con las elecciones de medio término a la vuelta de la esquina.",
+      "detail": "La percepción económica de la población influye directamente en el consumo y la confianza del mercado. Cuando la mayoría siente que la economía va mal, las empresas venden menos y los inversores se ponen más cautos. Además, si las elecciones de medio término cambian la composición del Congreso, puede afectar la política fiscal y regulatoria de EE.UU., lo que impacta en los mercados globales, incluyendo Argentina.",
       "tags": [
-        "empleo",
-        "EE.UU.",
-        "Fed"
+        "economía EE.UU.",
+        "política",
+        "confianza"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-      "published_at": "2026-10-22T16:40:09Z",
+      "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "published_at": "2026-10-23T20:49:42Z",
       "fecha_evento": "2026-10-22",
       "tickers": []
     },
     {
-      "id": "amex-layoffs-ai-oct23",
+      "id": "amex-layoffs-ai",
       "type": "empresa",
-      "title": "American Express recorta el 5% de su personal para \"prepararse para la IA\"",
-      "summary": "Amex anunció el despido del 5% de su fuerza laboral y tomó un cargo de reestructuración de 336 millones de dólares en el tercer trimestre. El CEO justificó el recorte como parte de la transición hacia la inteligencia artificial.",
-      "detail": "Cuando una empresa grande como American Express anuncia despidos masivos ligados a la IA, está mandando una señal clara al mercado: la automatización está cambiando la estructura de costos de las compañías financieras. Los cargos de reestructuración reducen las ganancias del trimestre, pero el mercado suele ver estos movimientos como positivos a largo plazo si prometen mayor eficiencia. Es un patrón que se repite en el sector financiero global.",
+      "title": "American Express recorta el 5% de su personal para 'prepararse para la IA'",
+      "summary": "American Express anunció el despido del 5% de su plantilla y tomará un cargo de reestructuración de 336 millones de dólares en el tercer trimestre, según confirmó su CEO Stephen Squeri.",
+      "detail": "Cuando una empresa grande como Amex anuncia recortes masivos vinculados a la inteligencia artificial, manda una señal clara al mercado: la IA está cambiando la estructura de costos de las empresas financieras. Un cargo de reestructuración reduce la ganancia del trimestre, pero puede mejorar la rentabilidad futura. Este tipo de movimientos también generan debate sobre el impacto del avance tecnológico en el empleo.",
       "tags": [
-        "IA",
-        "finanzas",
-        "reestructuración"
+        "inteligencia artificial",
+        "empleo",
+        "fintech"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
@@ -38,112 +38,95 @@
       ]
     },
     {
-      "id": "moderna-cancer-vaccine-oct23",
+      "id": "moderna-cancer-vaccine-leak",
       "type": "empresa",
-      "title": "Las acciones de Moderna se desplomaron tras filtrarse datos de su vacuna contra el cáncer",
-      "summary": "Moderna publicó los datos completos de su vacuna contra el cáncer, desarrollada junto a Merck, luego de que la información se filtrara. A pesar de que los resultados fueron positivos, las acciones cayeron fuerte.",
-      "detail": "Este caso muestra un fenómeno clásico en bolsa: 'buy the rumor, sell the news'. El mercado ya había subido el precio de la acción anticipando buenos resultados; cuando se confirmaron, muchos inversores aprovecharon para vender y tomar ganancias. Además, la filtración previa generó incertidumbre sobre el proceso, lo que también puede pesar en la confianza del mercado.",
+      "title": "Las acciones de Moderna cayeron a pesar de que los datos de su vacuna contra el cáncer fueron positivos",
+      "summary": "Moderna publicó los datos completos de su vacuna contra el cáncer desarrollada junto a Merck, pero las acciones se desplomaron porque la información se había filtrado previamente al mercado.",
+      "detail": "Este caso ilustra un fenómeno clave en finanzas: 'comprar con el rumor, vender con la noticia'. Cuando un dato positivo ya fue anticipado por el mercado (en este caso, por una filtración), el precio ya subió antes del anuncio oficial, y al confirmarse, los inversores venden para tomar ganancias. Entender este mecanismo ayuda a comprender por qué una buena noticia puede hacer caer una acción.",
       "tags": [
-        "biotech",
-        "acciones",
-        "Merck"
+        "biotecnología",
+        "mercado",
+        "acciones"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
       "published_at": "2026-10-23T14:36:34Z",
-      "fecha_evento": "2026-10-23",
+      "fecha_evento": "2026-10-22",
       "tickers": [
         "MRNA",
         "MRK"
       ]
     },
     {
-      "id": "musk-skydance-investment",
+      "id": "nu-holdings-billion-quarter-us-launch",
       "type": "empresa",
-      "title": "Elon Musk invirtió cerca de 1.000 millones de dólares en Skydance",
-      "summary": "Elon Musk realizó una inversión de aproximadamente 1.000 millones de dólares en Skydance, la productora de medios liderada por David Ellison.",
-      "detail": "Cuando una figura como Musk mueve ese volumen de capital hacia una empresa de medios, el mercado lo interpreta como una apuesta estratégica sobre el futuro del entretenimiento y los contenidos. También es un recordatorio de cómo los grandes inversores diversifican sus posiciones en distintos sectores, no solo en tecnología. Seguir los movimientos de inversores influyentes es una práctica habitual en análisis financiero.",
+      "title": "Nu Holdings ganó más de 1.000 millones de dólares en un trimestre por primera vez y lanza operaciones en EE.UU.",
+      "summary": "La fintech latinoamericana Nubank superó por primera vez los 1.000 millones de dólares de ganancia neta en un trimestre, con un crecimiento del 49% interanual, y anunció su expansión al mercado estadounidense.",
+      "detail": "Nubank es el banco digital más grande de América Latina y opera en Brasil, México y Colombia. Su expansión a EE.UU. es una señal de madurez del modelo de negocio de las fintech de la región. Para alguien que aprende finanzas, este caso muestra cómo una empresa puede escalar desde mercados emergentes hacia los más competitivos del mundo, y cómo el crecimiento de ganancias impacta en la valuación de una acción.",
       "tags": [
-        "inversión",
-        "medios",
-        "Musk"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-      "published_at": "2026-10-22T19:34:46Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": []
-    },
-    {
-      "id": "american-airlines-forecast-oct22",
-      "type": "empresa",
-      "title": "American Airlines recorta su pronóstico de ganancias por el alza del combustible",
-      "summary": "American Airlines revisó a la baja su previsión para 2026 debido al aumento en los costos de combustible, convirtiéndose en la cuarta aerolínea estadounidense importante en hacer lo mismo este mes.",
-      "detail": "El precio del combustible es uno de los mayores costos para las aerolíneas y tiene un impacto directo en sus márgenes de ganancia. Cuando varias empresas del mismo sector revisan sus pronósticos al mismo tiempo, es una señal de un problema estructural en la industria, no un caso aislado. Esto también puede afectar a los índices bursátiles donde estas acciones tienen peso.",
-      "tags": [
-        "aerolíneas",
-        "combustible",
-        "ganancias"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-      "published_at": "2026-10-22T14:52:09Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": [
-        "AAL"
-      ]
-    },
-    {
-      "id": "netflix-layoffs-oct25",
-      "type": "empresa",
-      "title": "Netflix recorta 1.000 empleos en su mayor reducción de personal desde 2022",
-      "summary": "Netflix anunció el despido de 1.000 empleados, la mayor reducción de su plantilla desde 2022, junto con cambios en su liderazgo de contenidos.",
-      "detail": "Los recortes de personal en empresas de tecnología y entretenimiento suelen estar asociados a reestructuraciones para mejorar la rentabilidad o adaptarse a nuevas condiciones del mercado. Para los inversores, este tipo de movimientos puede ser una señal de que la empresa busca reducir costos y mejorar sus márgenes, algo que el mercado generalmente valora positivamente en el corto plazo.",
-      "tags": [
-        "tecnología",
-        "despidos",
-        "streaming"
+        "fintech",
+        "latinoamérica",
+        "expansión"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/netflix-shaking-its-content-leadership-heres-what-needs-happen-next",
-      "published_at": "2026-10-25T11:21:00Z",
+      "source_url": "https://www.nasdaq.com/articles/nu-holdings-earned-more-1-billion-quarter-first-time-now-its-launching-us",
+      "published_at": "2026-10-25T20:05:00Z",
       "fecha_evento": "2026-10-25",
       "tickers": [
-        "NFLX"
+        "NU"
       ]
     },
     {
-      "id": "fed-signal-marketwatch-oct25",
-      "type": "mercado",
-      "title": "¿Qué señal hay que mirar para anticipar el próximo movimiento de la Fed?",
-      "summary": "Según un análisis de MarketWatch, los inversores deberían prestar atención no a la tasa de interés en sí, sino al estado de las condiciones financieras generales para anticipar la próxima decisión de la Reserva Federal.",
-      "detail": "Las 'condiciones financieras' incluyen variables como el nivel de las tasas, el precio de las acciones, el valor del dólar y el crédito disponible. Cuando estas condiciones se endurecen aunque la Fed no mueva la tasa, el efecto en la economía puede ser el mismo que si hubiera subido las tasas. Entender esta diferencia es clave para interpretar la política monetaria más allá de los titulares.",
+      "id": "apple-tim-cook-ternus-market-cap",
+      "type": "empresa",
+      "title": "Apple pasó de valer 350.000 millones a 4,6 billones de dólares bajo Tim Cook: ¿qué puede esperar el mercado con su sucesor?",
+      "summary": "Durante los 15 años de Tim Cook como CEO, Apple multiplicó su capitalización de mercado más de 13 veces. Ahora, con John Ternus al frente, los analistas advierten que repetir ese rendimiento es casi imposible por la 'ley de los grandes números'.",
+      "detail": "La 'ley de los grandes números' es un concepto clave en inversiones: cuanto más grande es una empresa, más difícil es crecer al mismo ritmo porcentual. Para que Apple duplique su valor desde 4,6 billones, necesitaría generar una riqueza equivalente a economías enteras. Este artículo es un buen ejemplo de cómo analizar expectativas de crecimiento futuro al momento de evaluar si comprar una acción.",
       "tags": [
-        "Fed",
-        "tasas",
-        "política monetaria"
+        "Apple",
+        "valuación",
+        "crecimiento"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/apples-market-cap-grew-350-billion-46-trillion-during-tim-cooks-15-years-ceo-heres-what",
+      "published_at": "2026-10-25T20:05:00Z",
+      "fecha_evento": "2026-10-25",
+      "tickers": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "sp500-earnings-season-confidence",
+      "type": "mercado",
+      "title": "Más de un tercio del S&P 500 presenta resultados esta semana en medio de un mercado nervioso",
+      "summary": "Esta semana reportan ganancias más de un tercio de las empresas del S&P 500, justo cuando la confianza del mercado está bajo presión, según advierten estrategas de inversión.",
+      "detail": "La temporada de resultados trimestrales (earnings season) es uno de los momentos más importantes para los mercados globales: las acciones se mueven fuerte según si las empresas superan o decepcionan las expectativas de los analistas. Cuando el mercado ya viene nervioso, las reacciones pueden ser más exageradas, tanto al alza como a la baja. Seguir esta semana de resultados es clave para entender hacia dónde pueden ir los mercados en el corto plazo.",
+      "tags": [
+        "S&P 500",
+        "resultados",
+        "mercado"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
-      "published_at": "2026-10-25T11:30:00Z",
+      "source_url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1",
+      "published_at": "2026-10-25T14:00:00Z",
       "fecha_evento": "2026-10-25",
       "tickers": []
     },
     {
-      "id": "trump-approval-economy-oct23",
-      "type": "economia",
-      "title": "La aprobación de Trump en economía llega a su mínimo histórico antes de las elecciones de mitad de mandato",
-      "summary": "Ocho de cada diez estadounidenses calificaron la economía como 'regular' o 'mala' en una encuesta de CNBC, golpeando la imagen económica de Trump justo antes de las elecciones legislativas de mitad de mandato.",
-      "detail": "La percepción económica de la población tiene un efecto directo en la política: cuando la gente siente que la economía va mal, tiende a castigar al partido gobernante en las urnas. El resultado de las elecciones de mitad de mandato puede cambiar la composición del Congreso y afectar las políticas fiscales y comerciales de EE.UU., lo que tiene impacto en los mercados globales y en países como Argentina.",
+      "id": "midterms-sp500-historical-returns",
+      "type": "mercado",
+      "title": "Históricamente, el S&P 500 sube un 15,5% en los nueve meses posteriores a las elecciones de medio término",
+      "summary": "Un análisis histórico desde 1950 muestra que el S&P 500 rindió en promedio un 15,5% en los nueve meses que van desde el día de las elecciones de medio término hasta el 30 de junio, sin importar qué partido ganó.",
+      "detail": "Este dato ilustra un patrón estacional conocido en los mercados: la incertidumbre política previa a las elecciones suele pesar sobre las acciones, y una vez que se despeja ese escenario, el mercado tiende a rebotar. Para quien aprende a invertir, es un buen ejemplo de cómo los ciclos políticos pueden influir en los rendimientos bursátiles, aunque los promedios históricos no garantizan lo que pasará en cada caso particular.",
       "tags": [
-        "política",
-        "EE.UU.",
-        "economía"
+        "elecciones",
+        "S&P 500",
+        "estacionalidad"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-      "published_at": "2026-10-23T20:49:42Z",
-      "fecha_evento": "2026-10-23",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07",
+      "published_at": "2026-10-25T13:00:00Z",
+      "fecha_evento": "2026-10-25",
       "tickers": []
     }
   ],
@@ -174,9 +157,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 80.515",
-      "valor_num": 80515.0,
-      "delta_pct": -0.0
+      "valor": "US$ 80.140",
+      "valor_num": 80140.0,
+      "delta_pct": -0.26
     },
     {
       "label": "S&P 500",
