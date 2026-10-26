@@ -1,213 +1,207 @@
 {
-  "generated_at": "2026-10-26T12:01:24.558436+00:00",
+  "generated_at": "2026-10-26T22:01:03.911959+00:00",
   "items": [
     {
-      "id": "trump-approval-economy-midterms",
+      "id": "treasury-yields-deficit-2026",
       "type": "economia",
-      "title": "La aprobación de Trump en economía cae a su mínimo histórico antes de las elecciones de medio término",
-      "summary": "Una encuesta de CNBC muestra que 8 de cada 10 estadounidenses califica la economía como regular o mala, llevando la aprobación económica de Trump a su punto más bajo. Esto complica el panorama electoral para los candidatos republicanos en las elecciones de medio término.",
-      "detail": "La popularidad económica de un presidente suele medirse en encuestas y tiene impacto directo en los mercados: si el partido gobernante pierde bancas en el Congreso, cambia la correlación de fuerzas para aprobar leyes fiscales, de gasto y regulaciones. Para alguien que aprende finanzas, este tipo de dato anticipa posibles cambios de política económica que pueden mover activos como bonos del Tesoro o el dólar.",
+      "title": "El déficit de USD 2 billones y las tasas al 5% se convierten en el mayor desafío económico de EE.UU.",
+      "summary": "Las tasas de los bonos del Tesoro de EE.UU. superaron el 5% y el déficit fiscal ronda los USD 2 billones, lo que encarece el crédito tanto para el gobierno como para los hogares americanos.",
+      "detail": "Cuando las tasas de los bonos del Tesoro suben, el gobierno paga más intereses para financiarse y eso compite con otros gastos. Además, esas tasas son el 'piso' sobre el que se construyen las tasas de hipotecas, autos y créditos en todo el mundo. Para Argentina, entender este mecanismo importa porque cuando EE.UU. ofrece rendimientos altos, los capitales globales tienden a migrar hacia esos bonos y salir de mercados emergentes, encareciendo el financiamiento externo.",
       "tags": [
-        "economía EEUU",
-        "política",
-        "midterms"
+        "deuda",
+        "tasas",
+        "déficit"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-      "published_at": "2026-10-23T20:49:42Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": []
-    },
-    {
-      "id": "amex-layoffs-ai",
-      "type": "empresa",
-      "title": "American Express recorta el 5% de su personal para \"prepararse para la IA\"",
-      "summary": "American Express anunció que va a reducir su fuerza laboral en un 5% y tomará un cargo de reestructuración de 336 millones de dólares en el tercer trimestre, según informó el CEO Stephen Squeri. La empresa vincula estos recortes a su apuesta por la inteligencia artificial.",
-      "detail": "Cuando una empresa grande como Amex anuncia recortes masivos ligados a IA, manda una señal al mercado de que está priorizando eficiencia y tecnología sobre empleo tradicional. Los cargos de reestructuración reducen la ganancia del trimestre, pero el mercado suele mirar hacia adelante: si los inversores creen que los ahorros futuros superan el costo, la acción puede subir igual. Es un ejemplo clásico de cómo una 'mala noticia' a corto plazo puede ser positiva para el precio de una acción.",
-      "tags": [
-        "inteligencia artificial",
-        "empleo",
-        "reestructuración"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-      "published_at": "2026-10-23T18:57:48Z",
-      "fecha_evento": "2026-10-23",
-      "tickers": [
-        "AXP"
-      ]
-    },
-    {
-      "id": "moderna-cancer-vaccine-leak",
-      "type": "empresa",
-      "title": "Las acciones de Moderna cayeron después de que se filtraran datos de su vacuna contra el cáncer, pese a resultados positivos",
-      "summary": "Moderna publicó los datos completos de su vacuna contra el cáncer desarrollada junto a Merck, pero la filtración previa del dato generó una caída en el precio de la acción a pesar de que los resultados fueron positivos.",
-      "detail": "Este caso ilustra un fenómeno común en el mercado: 'comprar el rumor, vender el hecho'. Cuando los inversores anticipan una buena noticia y compran antes, el precio de la acción ya incorpora esa expectativa. Al confirmarse el dato positivo, muchos venden para tomar ganancias, lo que genera una baja paradójica. Es una lección clave para entender que el precio de una acción refleja expectativas, no solo resultados.",
-      "tags": [
-        "biotecnología",
-        "acciones",
-        "vacunas"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-      "published_at": "2026-10-23T14:36:34Z",
-      "fecha_evento": "2026-10-22",
-      "tickers": [
-        "MRNA",
-        "MRK"
-      ]
-    },
-    {
-      "id": "meta-equity-offering-ai",
-      "type": "empresa",
-      "title": "Meta anunció una emisión de acciones por 35.000 millones de dólares para financiar inversiones en IA",
-      "summary": "Meta Platforms anunció este lunes una oferta pública de acciones por aproximadamente 35.000 millones de dólares para financiar sus inversiones en inteligencia artificial, con planes adicionales de una oferta de mercado abierto de hasta 60.000 millones.",
-      "detail": "Cuando una empresa emite nuevas acciones para conseguir capital, ese proceso se llama 'equity offering' o aumento de capital. Si bien trae fondos frescos para invertir, también diluye a los accionistas existentes, ya que ahora hay más acciones repartiendo las mismas ganancias futuras. El hecho de que Meta necesite tanto capital para IA muestra la magnitud de las inversiones que requiere ese sector, algo relevante para entender hacia dónde fluye el dinero en los mercados hoy.",
-      "tags": [
-        "inteligencia artificial",
-        "emisión de acciones",
-        "Meta"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/meta-announces-35-bln-equity-offerings-fund-ai-investments-plans-60-bln-market-offering",
-      "published_at": "2026-10-26T11:11:13Z",
+      "source_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "published_at": "2026-10-26T18:33:51Z",
       "fecha_evento": "2026-10-26",
       "tickers": [
-        "META"
+        "US10Y"
       ]
     },
     {
-      "id": "verizon-guidance-raise",
-      "type": "empresa",
-      "title": "Verizon mejoró sus proyecciones para todo 2026 tras superar expectativas de crecimiento de suscriptores",
-      "summary": "Verizon subió su guía de ganancias por acción para 2026 a un rango de 5,04 a 5,06 dólares, equivalente a un crecimiento de entre 7% y 7,5% respecto al año anterior, por encima de su estimación previa. Además, la acción subió en Wall Street gracias a que el crecimiento de suscriptores duplicó lo que esperaban los analistas.",
-      "detail": "La 'guidance' o guía de resultados es la estimación que una empresa hace de sus propios números futuros. Cuando una compañía sube su guía, el mercado suele reaccionar positivamente porque implica que el negocio va mejor de lo esperado. En este caso, el fuerte crecimiento de suscriptores de Verizon sugiere que la demanda de servicios de telecomunicaciones sigue sólida pese a la presión inflacionaria sobre los consumidores.",
-      "tags": [
-        "telecomunicaciones",
-        "ganancias",
-        "guidance"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/verizon-raises-2026-guidance",
-      "published_at": "2026-10-26T11:22:36Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": [
-        "VZ"
-      ]
-    },
-    {
-      "id": "ovintiv-logan-acquisition",
-      "type": "empresa",
-      "title": "Ovintiv acuerda comprar Logan Energy por 890 millones de dólares",
-      "summary": "Ovintiv, productora de petróleo y gas de América del Norte, anunció este lunes que comprará Logan Energy Corp. por 1,40 dólares canadienses por acción en efectivo, valuando la operación en unos 890 millones de dólares incluyendo deuda.",
-      "detail": "Las fusiones y adquisiciones en el sector energético suelen ocurrir cuando los precios del petróleo o gas están en niveles que hacen atractivo comprar activos productivos. Este tipo de operaciones concentra la producción en menos manos y puede influir en la oferta futura de energía. Para un inversor en formación, es un ejemplo de cómo el capital fluye hacia sectores cuando las condiciones de mercado son favorables.",
-      "tags": [
-        "energía",
-        "fusiones",
-        "petróleo"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/ovintiv-acquire-logan-energy-890-mln",
-      "published_at": "2026-10-26T11:20:58Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": [
-        "OVV"
-      ]
-    },
-    {
-      "id": "fed-ecb-boj-reuniones",
-      "type": "reunion",
-      "title": "Esta semana se conocerán decisiones de tasas de la Fed, el BCE y el Banco de Japón",
-      "summary": "Los mercados están atentos a los anuncios de política monetaria que darán esta semana la Reserva Federal de EEUU, el Banco Central Europeo y el Banco de Japón. La caída del precio del petróleo por la diplomacia en Medio Oriente alivió algo las preocupaciones inflacionarias.",
-      "detail": "Cuando los tres bancos centrales más importantes del mundo anuncian sus decisiones de tasas en la misma semana, el impacto potencial sobre los mercados globales es enorme. Las tasas de interés determinan el costo del dinero: si suben, los bonos y el dólar tienden a fortalecerse; si bajan o se mantienen, pueden impulsar las acciones. Para Argentina, estas decisiones afectan el flujo de capitales hacia mercados emergentes y el valor del dólar a nivel global.",
-      "tags": [
-        "tasas de interés",
-        "bancos centrales",
-        "política monetaria"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/french-equities-rise-crude-slides-middle-east-diplomacy",
-      "published_at": "2026-10-26T10:58:08Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": []
-    },
-    {
-      "id": "goldman-kospi-ai-forecast",
+      "id": "bitcoin-fed-oct26",
       "type": "mercado",
-      "title": "Goldman Sachs recortó en 25% su proyección para el mercado coreano, referente del comercio global de IA",
-      "summary": "El estratega de Goldman Sachs Tim Moe redujo significativamente su objetivo para el índice Kospi de Corea del Sur, citando una menor disposición de los inversores a pagar primas altas por acciones vinculadas a la inteligencia artificial y un aumento de la volatilidad.",
-      "detail": "El índice Kospi de Corea del Sur tiene empresas clave en la cadena de suministro de IA, como fabricantes de chips y memorias. Por eso se lo usa como termómetro del apetito global por el sector tecnológico. Un recorte de proyección de un banco tan influyente como Goldman Sachs puede afectar la confianza de los inversores en todo el sector de tecnología a nivel global, incluidas acciones de semiconductores que también cotizan en Wall Street.",
+      "title": "Bitcoin cae debajo de los USD 80.000 con la mirada puesta en la decisión de la Fed",
+      "summary": "Bitcoin bajó 0,28% hasta USD 79.817 el 26 de octubre, mientras el mercado cripto extendió su racha negativa a la espera de la próxima decisión de la Reserva Federal.",
+      "detail": "El apetito por activos de riesgo —como las criptomonedas— suele caer cuando los inversores esperan que la Fed mantenga o suba las tasas, porque los rendimientos de activos más seguros se vuelven más atractivos. Este comportamiento muestra la correlación entre política monetaria y mercados especulativos, algo clave para entender por qué las noticias del banco central de EE.UU. impactan incluso en activos digitales.",
       "tags": [
-        "inteligencia artificial",
-        "mercados emergentes",
-        "semiconductores"
+        "cripto",
+        "Fed",
+        "Bitcoin"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690",
-      "published_at": "2026-10-26T10:43:00Z",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/crypto-market-today-oct-26-bitcoin-slips-below-80000-fed-decision-looms",
+      "published_at": "2026-10-26T21:25:02Z",
       "fecha_evento": "2026-10-26",
-      "tickers": []
+      "tickers": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ]
     },
     {
-      "id": "morgan-stanley-semiconductors",
-      "type": "mercado",
-      "title": "Morgan Stanley advierte que los semiconductores podrían caer hasta un 15% desde los niveles actuales",
-      "summary": "El estratega jefe de Morgan Stanley señaló que el soporte técnico para las acciones del sector de semiconductores podría estar hasta un 15% por debajo de los precios actuales, aunque mantiene su objetivo de 8.000 puntos para el S&P 500 a fin de año.",
-      "detail": "Los semiconductores son la columna vertebral de la revolución tecnológica y de IA, y su comportamiento suele anticipar movimientos en el mercado más amplio. Cuando un banco de inversión tan relevante como Morgan Stanley identifica riesgos de caída en un sector clave, es una señal de cautela que los inversores toman en cuenta para rebalancear carteras. Esto también puede impactar en el índice S&P 500 dado el peso que tienen las empresas tecnológicas.",
+      "id": "microsoft-buyouts-ai-2026",
+      "type": "empresa",
+      "title": "Microsoft ofrece retiros voluntarios mientras acelera la inversión en inteligencia artificial",
+      "summary": "Microsoft anunció que ofrecerá retiros voluntarios a unos 60.000 empleados para equilibrar el fuerte gasto en infraestructura de IA con la eficiencia financiera.",
+      "detail": "Cuando una empresa invierte masivamente en una nueva tecnología, suele buscar reducir costos en otras áreas para mantener los márgenes. Este movimiento ilustra cómo la ola de IA está reorganizando el empleo y las prioridades del sector tech. Para quienes aprenden finanzas, es un ejemplo de cómo las grandes decisiones estratégicas afectan directamente los números de una empresa y la cotización de sus acciones.",
       "tags": [
-        "semiconductores",
-        "Wall Street",
+        "inteligencia artificial",
+        "tecnología",
+        "empleo"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/microsoft-offers-buyouts-amid-ai-spending-push",
+      "published_at": "2026-10-26T21:11:01Z",
+      "fecha_evento": "2026-10-26",
+      "tickers": [
+        "MSFT"
+      ]
+    },
+    {
+      "id": "anthropic-ipo-2026",
+      "type": "empresa",
+      "title": "Anthropic, creadora del chatbot Claude, presentó su solicitud para salir a bolsa en el Nasdaq",
+      "summary": "Anthropic presentó ante los reguladores su expediente para hacer una OPI (oferta pública inicial) en el Nasdaq bajo el ticker 'ANT', impulsada por la fuerte demanda de IA generativa.",
+      "detail": "Una OPI es cuando una empresa privada vende acciones al público por primera vez; es un evento clave porque permite que cualquier inversor pueda participar en el crecimiento de la compañía. La salida a bolsa de Anthropic es relevante porque es uno de los jugadores más importantes en IA y su valoración dará una señal sobre cómo el mercado valúa este sector. Para quienes aprenden finanzas, analizar un prospecto de OPI es un ejercicio fundamental: muestra ingresos, riesgos y modelo de negocio.",
+      "tags": [
+        "OPI",
+        "inteligencia artificial",
         "tecnología"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16",
-      "published_at": "2026-10-26T09:02:00Z",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/anthropic-files-nasdaq-ipo-under-ticker-ant",
+      "published_at": "2026-10-26T21:10:29Z",
       "fecha_evento": "2026-10-26",
-      "tickers": []
+      "tickers": [
+        "ANT"
+      ]
+    },
+    {
+      "id": "meta-stock-offering-2026",
+      "type": "empresa",
+      "title": "Meta busca recaudar USD 95.000 millones con una emisión de acciones; Nvidia, AMD y Broadcom podrían participar",
+      "summary": "Meta planea levantar un total de USD 95.000 millones a través de operaciones vinculadas a acciones que se extenderían hasta principios del año que viene, con una primera ronda de USD 35.000 millones donde podrían entrar Nvidia, AMD y Broadcom.",
+      "detail": "Cuando una empresa emite nuevas acciones para recaudar capital, los accionistas existentes se 'diluyen' (su porcentaje de la empresa baja), pero la compañía obtiene fondos para invertir o crecer. Que gigantes como Nvidia y AMD sean posibles compradores indica que las grandes tech están tejiendo alianzas financieras alrededor de la IA. Este tipo de operaciones de mercado de capitales es esencial entender para quien quiere saber cómo las empresas se financian más allá del crédito bancario.",
+      "tags": [
+        "acciones",
+        "tecnología",
+        "financiamiento"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+      "published_at": "2026-10-26T21:44:00Z",
+      "fecha_evento": "2026-10-26",
+      "tickers": [
+        "META",
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ]
+    },
+    {
+      "id": "vale-brazil-election-2026",
+      "type": "mercado",
+      "title": "Vale cae más de 3% en Wall Street por el resultado electoral en Brasil",
+      "summary": "Las acciones de Vale cerraron en USD 12,00, con una baja del 3,23%, golpeadas por el resultado de las elecciones en Brasil y un recorte reciente del precio objetivo por parte de UBS.",
+      "detail": "Vale es una de las mineras más grandes del mundo y su cotización depende mucho del contexto político y económico de Brasil. Cuando gana un candidato de izquierda, los mercados suelen reaccionar con cautela ante posibles cambios regulatorios o impositivos sobre las empresas extractivas. Este caso muestra cómo los resultados electorales de países vecinos impactan de forma directa en acciones que cotizan en mercados internacionales.",
+      "tags": [
+        "Brasil",
+        "elecciones",
+        "minería"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-26-vale-falls-brazil-election-outcome-and-recent-ubs-target-cut",
+      "published_at": "2026-10-26T21:03:25Z",
+      "fecha_evento": "2026-10-26",
+      "tickers": [
+        "VALE"
+      ]
+    },
+    {
+      "id": "doordash-instacart-deal-2026",
+      "type": "empresa",
+      "title": "DoorDash estaría en negociaciones avanzadas para comprar Instacart por unos USD 17.000 millones",
+      "summary": "Según el Wall Street Journal, DoorDash mantiene conversaciones avanzadas para adquirir Instacart en un acuerdo que valuaría a la empresa en aproximadamente USD 17.000 millones.",
+      "detail": "Las fusiones y adquisiciones (M&A) suelen ocurrir cuando una empresa quiere crecer rápido comprando capacidades que tardaría años en construir sola. En este caso, DoorDash buscaría competir mejor con Walmart y Amazon en el negocio de entregas a domicilio. Para quienes estudian finanzas, las operaciones de M&A son un tema central: implican valuaciones, negociaciones y cambios en la estructura del mercado.",
+      "tags": [
+        "fusiones",
+        "tecnología",
+        "consumo"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+      "published_at": "2026-10-26T21:46:00Z",
+      "fecha_evento": "2026-10-26",
+      "tickers": [
+        "DASH",
+        "CART"
+      ]
+    },
+    {
+      "id": "ftc-dollar-general-lawsuit-2026",
+      "type": "economia",
+      "title": "La FTC y 20 estados demandaron a Dollar General por cobrar precios más altos que los anunciados",
+      "summary": "La Comisión Federal de Comercio de EE.UU. y 20 estados presentaron una demanda contra Dollar General, acusándola de cobrar a los clientes más de lo que indicaban los precios exhibidos en las góndolas.",
+      "detail": "La FTC es el organismo regulador que protege a los consumidores en EE.UU. y puede imponer multas y cambios en las prácticas comerciales de las empresas. Una demanda de este tipo puede afectar la reputación y las finanzas de la empresa, y sirve como ejemplo de riesgo regulatorio: un factor que los inversores siempre deben considerar al analizar una acción. Para quienes aprenden finanzas, entender el impacto de los reguladores sobre las empresas es parte esencial del análisis.",
+      "tags": [
+        "regulación",
+        "consumo",
+        "Estados Unidos"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+      "published_at": "2026-10-26T18:37:01Z",
+      "fecha_evento": "2026-10-26",
+      "tickers": [
+        "DG"
+      ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.550",
-      "valor_num": 1550.0,
-      "delta_pct": 0.0
+      "valor": "$1.560",
+      "valor_num": 1560.0,
+      "delta_pct": 0.65
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.565",
-      "valor_num": 1565.0,
-      "delta_pct": 0.0
+      "valor": "$1.575",
+      "valor_num": 1575.0,
+      "delta_pct": 0.64
     },
     {
       "label": "MEP",
-      "valor": "$1.564",
-      "valor_num": 1563.9,
-      "delta_pct": 0.0
+      "valor": "$1.578",
+      "valor_num": 1577.5,
+      "delta_pct": 0.87
     },
     {
       "label": "CCL",
-      "valor": "$1.654",
-      "valor_num": 1654.0,
-      "delta_pct": 0.0
+      "valor": "$1.682",
+      "valor_num": 1682.5,
+      "delta_pct": 1.72
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 80.348",
-      "valor_num": 80348.0,
-      "delta_pct": -0.19
+      "valor": "US$ 79.998",
+      "valor_num": 79998.0,
+      "delta_pct": -0.23
     },
     {
       "label": "S&P 500",
-      "valor": "7.624",
-      "valor_num": 7623.68,
-      "delta_pct": -0.47
+      "valor": "7.677",
+      "valor_num": 7676.77,
+      "delta_pct": -0.18
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.033",
-      "valor_num": 4032.6,
-      "delta_pct": -2.83
+      "valor": "US$ 4.031",
+      "valor_num": 4031.0,
+      "delta_pct": -2.87
     }
   ]
 }
