@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-25T22:00:58.836041+00:00",
+  "generated_at": "2026-10-26T12:01:24.558436+00:00",
   "items": [
     {
       "id": "trump-approval-economy-midterms",
       "type": "economia",
-      "title": "La aprobación de Trump en economía cae a su mínimo histórico",
-      "summary": "Una encuesta de CNBC muestra que 8 de cada 10 estadounidenses califica la economía como 'regular' o 'mala', el peor registro para Trump en ese indicador, con las elecciones de medio término a la vuelta de la esquina.",
-      "detail": "La percepción económica de la población influye directamente en el consumo y la confianza del mercado. Cuando la mayoría siente que la economía va mal, las empresas venden menos y los inversores se ponen más cautos. Además, si las elecciones de medio término cambian la composición del Congreso, puede afectar la política fiscal y regulatoria de EE.UU., lo que impacta en los mercados globales, incluyendo Argentina.",
+      "title": "La aprobación de Trump en economía cae a su mínimo histórico antes de las elecciones de medio término",
+      "summary": "Una encuesta de CNBC muestra que 8 de cada 10 estadounidenses califica la economía como regular o mala, llevando la aprobación económica de Trump a su punto más bajo. Esto complica el panorama electoral para los candidatos republicanos en las elecciones de medio término.",
+      "detail": "La popularidad económica de un presidente suele medirse en encuestas y tiene impacto directo en los mercados: si el partido gobernante pierde bancas en el Congreso, cambia la correlación de fuerzas para aprobar leyes fiscales, de gasto y regulaciones. Para alguien que aprende finanzas, este tipo de dato anticipa posibles cambios de política económica que pueden mover activos como bonos del Tesoro o el dólar.",
       "tags": [
-        "economía EE.UU.",
+        "economía EEUU",
         "política",
-        "confianza"
+        "midterms"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
@@ -21,13 +21,13 @@
     {
       "id": "amex-layoffs-ai",
       "type": "empresa",
-      "title": "American Express recorta el 5% de su personal para 'prepararse para la IA'",
-      "summary": "American Express anunció el despido del 5% de su plantilla y tomará un cargo de reestructuración de 336 millones de dólares en el tercer trimestre, según confirmó su CEO Stephen Squeri.",
-      "detail": "Cuando una empresa grande como Amex anuncia recortes masivos vinculados a la inteligencia artificial, manda una señal clara al mercado: la IA está cambiando la estructura de costos de las empresas financieras. Un cargo de reestructuración reduce la ganancia del trimestre, pero puede mejorar la rentabilidad futura. Este tipo de movimientos también generan debate sobre el impacto del avance tecnológico en el empleo.",
+      "title": "American Express recorta el 5% de su personal para \"prepararse para la IA\"",
+      "summary": "American Express anunció que va a reducir su fuerza laboral en un 5% y tomará un cargo de reestructuración de 336 millones de dólares en el tercer trimestre, según informó el CEO Stephen Squeri. La empresa vincula estos recortes a su apuesta por la inteligencia artificial.",
+      "detail": "Cuando una empresa grande como Amex anuncia recortes masivos ligados a IA, manda una señal al mercado de que está priorizando eficiencia y tecnología sobre empleo tradicional. Los cargos de reestructuración reducen la ganancia del trimestre, pero el mercado suele mirar hacia adelante: si los inversores creen que los ahorros futuros superan el costo, la acción puede subir igual. Es un ejemplo clásico de cómo una 'mala noticia' a corto plazo puede ser positiva para el precio de una acción.",
       "tags": [
         "inteligencia artificial",
         "empleo",
-        "fintech"
+        "reestructuración"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
@@ -40,13 +40,13 @@
     {
       "id": "moderna-cancer-vaccine-leak",
       "type": "empresa",
-      "title": "Las acciones de Moderna cayeron a pesar de que los datos de su vacuna contra el cáncer fueron positivos",
-      "summary": "Moderna publicó los datos completos de su vacuna contra el cáncer desarrollada junto a Merck, pero las acciones se desplomaron porque la información se había filtrado previamente al mercado.",
-      "detail": "Este caso ilustra un fenómeno clave en finanzas: 'comprar con el rumor, vender con la noticia'. Cuando un dato positivo ya fue anticipado por el mercado (en este caso, por una filtración), el precio ya subió antes del anuncio oficial, y al confirmarse, los inversores venden para tomar ganancias. Entender este mecanismo ayuda a comprender por qué una buena noticia puede hacer caer una acción.",
+      "title": "Las acciones de Moderna cayeron después de que se filtraran datos de su vacuna contra el cáncer, pese a resultados positivos",
+      "summary": "Moderna publicó los datos completos de su vacuna contra el cáncer desarrollada junto a Merck, pero la filtración previa del dato generó una caída en el precio de la acción a pesar de que los resultados fueron positivos.",
+      "detail": "Este caso ilustra un fenómeno común en el mercado: 'comprar el rumor, vender el hecho'. Cuando los inversores anticipan una buena noticia y compran antes, el precio de la acción ya incorpora esa expectativa. Al confirmarse el dato positivo, muchos venden para tomar ganancias, lo que genera una baja paradójica. Es una lección clave para entender que el precio de una acción refleja expectativas, no solo resultados.",
       "tags": [
         "biotecnología",
-        "mercado",
-        "acciones"
+        "acciones",
+        "vacunas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
@@ -58,75 +58,111 @@
       ]
     },
     {
-      "id": "nu-holdings-billion-quarter-us-launch",
+      "id": "meta-equity-offering-ai",
       "type": "empresa",
-      "title": "Nu Holdings ganó más de 1.000 millones de dólares en un trimestre por primera vez y lanza operaciones en EE.UU.",
-      "summary": "La fintech latinoamericana Nubank superó por primera vez los 1.000 millones de dólares de ganancia neta en un trimestre, con un crecimiento del 49% interanual, y anunció su expansión al mercado estadounidense.",
-      "detail": "Nubank es el banco digital más grande de América Latina y opera en Brasil, México y Colombia. Su expansión a EE.UU. es una señal de madurez del modelo de negocio de las fintech de la región. Para alguien que aprende finanzas, este caso muestra cómo una empresa puede escalar desde mercados emergentes hacia los más competitivos del mundo, y cómo el crecimiento de ganancias impacta en la valuación de una acción.",
+      "title": "Meta anunció una emisión de acciones por 35.000 millones de dólares para financiar inversiones en IA",
+      "summary": "Meta Platforms anunció este lunes una oferta pública de acciones por aproximadamente 35.000 millones de dólares para financiar sus inversiones en inteligencia artificial, con planes adicionales de una oferta de mercado abierto de hasta 60.000 millones.",
+      "detail": "Cuando una empresa emite nuevas acciones para conseguir capital, ese proceso se llama 'equity offering' o aumento de capital. Si bien trae fondos frescos para invertir, también diluye a los accionistas existentes, ya que ahora hay más acciones repartiendo las mismas ganancias futuras. El hecho de que Meta necesite tanto capital para IA muestra la magnitud de las inversiones que requiere ese sector, algo relevante para entender hacia dónde fluye el dinero en los mercados hoy.",
       "tags": [
-        "fintech",
-        "latinoamérica",
-        "expansión"
+        "inteligencia artificial",
+        "emisión de acciones",
+        "Meta"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/nu-holdings-earned-more-1-billion-quarter-first-time-now-its-launching-us",
-      "published_at": "2026-10-25T20:05:00Z",
-      "fecha_evento": "2026-10-25",
+      "source_url": "https://www.nasdaq.com/articles/meta-announces-35-bln-equity-offerings-fund-ai-investments-plans-60-bln-market-offering",
+      "published_at": "2026-10-26T11:11:13Z",
+      "fecha_evento": "2026-10-26",
       "tickers": [
-        "NU"
+        "META"
       ]
     },
     {
-      "id": "apple-tim-cook-ternus-market-cap",
+      "id": "verizon-guidance-raise",
       "type": "empresa",
-      "title": "Apple pasó de valer 350.000 millones a 4,6 billones de dólares bajo Tim Cook: ¿qué puede esperar el mercado con su sucesor?",
-      "summary": "Durante los 15 años de Tim Cook como CEO, Apple multiplicó su capitalización de mercado más de 13 veces. Ahora, con John Ternus al frente, los analistas advierten que repetir ese rendimiento es casi imposible por la 'ley de los grandes números'.",
-      "detail": "La 'ley de los grandes números' es un concepto clave en inversiones: cuanto más grande es una empresa, más difícil es crecer al mismo ritmo porcentual. Para que Apple duplique su valor desde 4,6 billones, necesitaría generar una riqueza equivalente a economías enteras. Este artículo es un buen ejemplo de cómo analizar expectativas de crecimiento futuro al momento de evaluar si comprar una acción.",
+      "title": "Verizon mejoró sus proyecciones para todo 2026 tras superar expectativas de crecimiento de suscriptores",
+      "summary": "Verizon subió su guía de ganancias por acción para 2026 a un rango de 5,04 a 5,06 dólares, equivalente a un crecimiento de entre 7% y 7,5% respecto al año anterior, por encima de su estimación previa. Además, la acción subió en Wall Street gracias a que el crecimiento de suscriptores duplicó lo que esperaban los analistas.",
+      "detail": "La 'guidance' o guía de resultados es la estimación que una empresa hace de sus propios números futuros. Cuando una compañía sube su guía, el mercado suele reaccionar positivamente porque implica que el negocio va mejor de lo esperado. En este caso, el fuerte crecimiento de suscriptores de Verizon sugiere que la demanda de servicios de telecomunicaciones sigue sólida pese a la presión inflacionaria sobre los consumidores.",
       "tags": [
-        "Apple",
-        "valuación",
-        "crecimiento"
+        "telecomunicaciones",
+        "ganancias",
+        "guidance"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/apples-market-cap-grew-350-billion-46-trillion-during-tim-cooks-15-years-ceo-heres-what",
-      "published_at": "2026-10-25T20:05:00Z",
-      "fecha_evento": "2026-10-25",
+      "source_url": "https://www.nasdaq.com/articles/verizon-raises-2026-guidance",
+      "published_at": "2026-10-26T11:22:36Z",
+      "fecha_evento": "2026-10-26",
       "tickers": [
-        "AAPL"
+        "VZ"
       ]
     },
     {
-      "id": "sp500-earnings-season-confidence",
-      "type": "mercado",
-      "title": "Más de un tercio del S&P 500 presenta resultados esta semana en medio de un mercado nervioso",
-      "summary": "Esta semana reportan ganancias más de un tercio de las empresas del S&P 500, justo cuando la confianza del mercado está bajo presión, según advierten estrategas de inversión.",
-      "detail": "La temporada de resultados trimestrales (earnings season) es uno de los momentos más importantes para los mercados globales: las acciones se mueven fuerte según si las empresas superan o decepcionan las expectativas de los analistas. Cuando el mercado ya viene nervioso, las reacciones pueden ser más exageradas, tanto al alza como a la baja. Seguir esta semana de resultados es clave para entender hacia dónde pueden ir los mercados en el corto plazo.",
+      "id": "ovintiv-logan-acquisition",
+      "type": "empresa",
+      "title": "Ovintiv acuerda comprar Logan Energy por 890 millones de dólares",
+      "summary": "Ovintiv, productora de petróleo y gas de América del Norte, anunció este lunes que comprará Logan Energy Corp. por 1,40 dólares canadienses por acción en efectivo, valuando la operación en unos 890 millones de dólares incluyendo deuda.",
+      "detail": "Las fusiones y adquisiciones en el sector energético suelen ocurrir cuando los precios del petróleo o gas están en niveles que hacen atractivo comprar activos productivos. Este tipo de operaciones concentra la producción en menos manos y puede influir en la oferta futura de energía. Para un inversor en formación, es un ejemplo de cómo el capital fluye hacia sectores cuando las condiciones de mercado son favorables.",
       "tags": [
-        "S&P 500",
-        "resultados",
-        "mercado"
+        "energía",
+        "fusiones",
+        "petróleo"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1",
-      "published_at": "2026-10-25T14:00:00Z",
-      "fecha_evento": "2026-10-25",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/ovintiv-acquire-logan-energy-890-mln",
+      "published_at": "2026-10-26T11:20:58Z",
+      "fecha_evento": "2026-10-26",
+      "tickers": [
+        "OVV"
+      ]
+    },
+    {
+      "id": "fed-ecb-boj-reuniones",
+      "type": "reunion",
+      "title": "Esta semana se conocerán decisiones de tasas de la Fed, el BCE y el Banco de Japón",
+      "summary": "Los mercados están atentos a los anuncios de política monetaria que darán esta semana la Reserva Federal de EEUU, el Banco Central Europeo y el Banco de Japón. La caída del precio del petróleo por la diplomacia en Medio Oriente alivió algo las preocupaciones inflacionarias.",
+      "detail": "Cuando los tres bancos centrales más importantes del mundo anuncian sus decisiones de tasas en la misma semana, el impacto potencial sobre los mercados globales es enorme. Las tasas de interés determinan el costo del dinero: si suben, los bonos y el dólar tienden a fortalecerse; si bajan o se mantienen, pueden impulsar las acciones. Para Argentina, estas decisiones afectan el flujo de capitales hacia mercados emergentes y el valor del dólar a nivel global.",
+      "tags": [
+        "tasas de interés",
+        "bancos centrales",
+        "política monetaria"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/french-equities-rise-crude-slides-middle-east-diplomacy",
+      "published_at": "2026-10-26T10:58:08Z",
+      "fecha_evento": "2026-10-26",
       "tickers": []
     },
     {
-      "id": "midterms-sp500-historical-returns",
+      "id": "goldman-kospi-ai-forecast",
       "type": "mercado",
-      "title": "Históricamente, el S&P 500 sube un 15,5% en los nueve meses posteriores a las elecciones de medio término",
-      "summary": "Un análisis histórico desde 1950 muestra que el S&P 500 rindió en promedio un 15,5% en los nueve meses que van desde el día de las elecciones de medio término hasta el 30 de junio, sin importar qué partido ganó.",
-      "detail": "Este dato ilustra un patrón estacional conocido en los mercados: la incertidumbre política previa a las elecciones suele pesar sobre las acciones, y una vez que se despeja ese escenario, el mercado tiende a rebotar. Para quien aprende a invertir, es un buen ejemplo de cómo los ciclos políticos pueden influir en los rendimientos bursátiles, aunque los promedios históricos no garantizan lo que pasará en cada caso particular.",
+      "title": "Goldman Sachs recortó en 25% su proyección para el mercado coreano, referente del comercio global de IA",
+      "summary": "El estratega de Goldman Sachs Tim Moe redujo significativamente su objetivo para el índice Kospi de Corea del Sur, citando una menor disposición de los inversores a pagar primas altas por acciones vinculadas a la inteligencia artificial y un aumento de la volatilidad.",
+      "detail": "El índice Kospi de Corea del Sur tiene empresas clave en la cadena de suministro de IA, como fabricantes de chips y memorias. Por eso se lo usa como termómetro del apetito global por el sector tecnológico. Un recorte de proyección de un banco tan influyente como Goldman Sachs puede afectar la confianza de los inversores en todo el sector de tecnología a nivel global, incluidas acciones de semiconductores que también cotizan en Wall Street.",
       "tags": [
-        "elecciones",
-        "S&P 500",
-        "estacionalidad"
+        "inteligencia artificial",
+        "mercados emergentes",
+        "semiconductores"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07",
-      "published_at": "2026-10-25T13:00:00Z",
-      "fecha_evento": "2026-10-25",
+      "source_url": "https://www.marketwatch.com/story/the-kospi-index-is-the-leading-indicator-for-the-global-ai-trade-and-goldman-just-slashed-its-forecast-by-25-ccfe2690",
+      "published_at": "2026-10-26T10:43:00Z",
+      "fecha_evento": "2026-10-26",
+      "tickers": []
+    },
+    {
+      "id": "morgan-stanley-semiconductors",
+      "type": "mercado",
+      "title": "Morgan Stanley advierte que los semiconductores podrían caer hasta un 15% desde los niveles actuales",
+      "summary": "El estratega jefe de Morgan Stanley señaló que el soporte técnico para las acciones del sector de semiconductores podría estar hasta un 15% por debajo de los precios actuales, aunque mantiene su objetivo de 8.000 puntos para el S&P 500 a fin de año.",
+      "detail": "Los semiconductores son la columna vertebral de la revolución tecnológica y de IA, y su comportamiento suele anticipar movimientos en el mercado más amplio. Cuando un banco de inversión tan relevante como Morgan Stanley identifica riesgos de caída en un sector clave, es una señal de cautela que los inversores toman en cuenta para rebalancear carteras. Esto también puede impactar en el índice S&P 500 dado el peso que tienen las empresas tecnológicas.",
+      "tags": [
+        "semiconductores",
+        "Wall Street",
+        "tecnología"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16",
+      "published_at": "2026-10-26T09:02:00Z",
+      "fecha_evento": "2026-10-26",
       "tickers": []
     }
   ],
@@ -157,9 +193,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 80.140",
-      "valor_num": 80140.0,
-      "delta_pct": -0.26
+      "valor": "US$ 80.348",
+      "valor_num": 80348.0,
+      "delta_pct": -0.19
     },
     {
       "label": "S&P 500",
@@ -169,9 +205,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.008",
-      "valor_num": 4007.9,
-      "delta_pct": -3.25
+      "valor": "US$ 4.033",
+      "valor_num": 4032.6,
+      "delta_pct": -2.83
     }
   ]
 }
