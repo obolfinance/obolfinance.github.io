@@ -1,163 +1,134 @@
 {
-  "generated_at": "2026-10-26T22:01:03.911959+00:00",
+  "generated_at": "2026-10-27T12:01:06.182892+00:00",
   "items": [
+    {
+      "id": "fed-pausa-octubre-2026",
+      "type": "reunion",
+      "title": "La Fed pausaría las subas de tasas esta semana, según una encuesta de CNBC",
+      "summary": "El 93% de los encuestados por CNBC espera que la Reserva Federal no suba las tasas en la reunión de esta semana, aunque sí anticipan nuevas subas más adelante.",
+      "detail": "Cuando la Fed sube las tasas, el crédito se encarece en todo el mundo: hipotecas, préstamos empresariales y hasta la deuda de países emergentes como Argentina. Una pausa no significa el fin del ciclo de ajuste, sino una señal de que el banco central quiere ver cómo impactan las subas anteriores antes de seguir. Entender estas decisiones es clave para interpretar por qué sube el dólar o por qué bajan los bonos emergentes.",
+      "tags": [
+        "Fed",
+        "tasas de interés",
+        "política monetaria"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+      "published_at": "2026-10-27T11:10:01Z",
+      "fecha_evento": "2026-10-27",
+      "tickers": []
+    },
     {
       "id": "treasury-yields-deficit-2026",
       "type": "economia",
-      "title": "El déficit de USD 2 billones y las tasas al 5% se convierten en el mayor desafío económico de EE.UU.",
-      "summary": "Las tasas de los bonos del Tesoro de EE.UU. superaron el 5% y el déficit fiscal ronda los USD 2 billones, lo que encarece el crédito tanto para el gobierno como para los hogares americanos.",
-      "detail": "Cuando las tasas de los bonos del Tesoro suben, el gobierno paga más intereses para financiarse y eso compite con otros gastos. Además, esas tasas son el 'piso' sobre el que se construyen las tasas de hipotecas, autos y créditos en todo el mundo. Para Argentina, entender este mecanismo importa porque cuando EE.UU. ofrece rendimientos altos, los capitales globales tienden a migrar hacia esos bonos y salir de mercados emergentes, encareciendo el financiamiento externo.",
+      "title": "Tasas del Tesoro americano arriba del 5%: el déficit de u$s 2 billones complica a EE.UU.",
+      "summary": "Las tasas de los bonos del Tesoro de EE.UU. superan el 5%, lo que encarece el financiamiento del déficit fiscal de u$s 2 billones y sube el costo del crédito para familias y empresas.",
+      "detail": "Las tasas de los bonos del Tesoro americano son el piso de referencia para el crédito en el mundo: si suben, todo lo demás sube también. Un déficit fiscal enorme obliga al gobierno a emitir más deuda, lo que puede presionar aún más esas tasas al alza. Para Argentina, esto importa porque encarece el financiamiento externo y puede generar salida de capitales de países emergentes hacia activos americanos más seguros y rentables.",
       "tags": [
-        "deuda",
-        "tasas",
-        "déficit"
+        "bonos",
+        "déficit fiscal",
+        "tasas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
       "published_at": "2026-10-26T18:33:51Z",
       "fecha_evento": "2026-10-26",
-      "tickers": [
-        "US10Y"
-      ]
+      "tickers": []
     },
     {
-      "id": "bitcoin-fed-oct26",
-      "type": "mercado",
-      "title": "Bitcoin cae debajo de los USD 80.000 con la mirada puesta en la decisión de la Fed",
-      "summary": "Bitcoin bajó 0,28% hasta USD 79.817 el 26 de octubre, mientras el mercado cripto extendió su racha negativa a la espera de la próxima decisión de la Reserva Federal.",
-      "detail": "El apetito por activos de riesgo —como las criptomonedas— suele caer cuando los inversores esperan que la Fed mantenga o suba las tasas, porque los rendimientos de activos más seguros se vuelven más atractivos. Este comportamiento muestra la correlación entre política monetaria y mercados especulativos, algo clave para entender por qué las noticias del banco central de EE.UU. impactan incluso en activos digitales.",
-      "tags": [
-        "cripto",
-        "Fed",
-        "Bitcoin"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/crypto-market-today-oct-26-bitcoin-slips-below-80000-fed-decision-looms",
-      "published_at": "2026-10-26T21:25:02Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ]
-    },
-    {
-      "id": "microsoft-buyouts-ai-2026",
+      "id": "boeing-q3-2026",
       "type": "empresa",
-      "title": "Microsoft ofrece retiros voluntarios mientras acelera la inversión en inteligencia artificial",
-      "summary": "Microsoft anunció que ofrecerá retiros voluntarios a unos 60.000 empleados para equilibrar el fuerte gasto en infraestructura de IA con la eficiencia financiera.",
-      "detail": "Cuando una empresa invierte masivamente en una nueva tecnología, suele buscar reducir costos en otras áreas para mantener los márgenes. Este movimiento ilustra cómo la ola de IA está reorganizando el empleo y las prioridades del sector tech. Para quienes aprenden finanzas, es un ejemplo de cómo las grandes decisiones estratégicas afectan directamente los números de una empresa y la cotización de sus acciones.",
+      "title": "Boeing reduce sus pérdidas en el tercer trimestre gracias a ventas de defensa",
+      "summary": "Boeing reportó resultados del tercer trimestre con pérdidas menores a lo esperado, impulsado por el segmento de defensa, aunque el foco sigue puesto en la producción del 737 Max.",
+      "detail": "Boeing es una de las empresas industriales más grandes del mundo y un componente importante del índice Dow Jones. Sus resultados afectan la confianza de los mercados en el sector manufacturero americano. Aprender a leer resultados trimestrales —pérdidas, ingresos por segmento, guía futura— es una habilidad fundamental para cualquier inversor que quiera entender cómo se valúan las empresas.",
       "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "empleo"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/microsoft-offers-buyouts-amid-ai-spending-push",
-      "published_at": "2026-10-26T21:11:01Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": [
-        "MSFT"
-      ]
-    },
-    {
-      "id": "anthropic-ipo-2026",
-      "type": "empresa",
-      "title": "Anthropic, creadora del chatbot Claude, presentó su solicitud para salir a bolsa en el Nasdaq",
-      "summary": "Anthropic presentó ante los reguladores su expediente para hacer una OPI (oferta pública inicial) en el Nasdaq bajo el ticker 'ANT', impulsada por la fuerte demanda de IA generativa.",
-      "detail": "Una OPI es cuando una empresa privada vende acciones al público por primera vez; es un evento clave porque permite que cualquier inversor pueda participar en el crecimiento de la compañía. La salida a bolsa de Anthropic es relevante porque es uno de los jugadores más importantes en IA y su valoración dará una señal sobre cómo el mercado valúa este sector. Para quienes aprenden finanzas, analizar un prospecto de OPI es un ejercicio fundamental: muestra ingresos, riesgos y modelo de negocio.",
-      "tags": [
-        "OPI",
-        "inteligencia artificial",
-        "tecnología"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/anthropic-files-nasdaq-ipo-under-ticker-ant",
-      "published_at": "2026-10-26T21:10:29Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": [
-        "ANT"
-      ]
-    },
-    {
-      "id": "meta-stock-offering-2026",
-      "type": "empresa",
-      "title": "Meta busca recaudar USD 95.000 millones con una emisión de acciones; Nvidia, AMD y Broadcom podrían participar",
-      "summary": "Meta planea levantar un total de USD 95.000 millones a través de operaciones vinculadas a acciones que se extenderían hasta principios del año que viene, con una primera ronda de USD 35.000 millones donde podrían entrar Nvidia, AMD y Broadcom.",
-      "detail": "Cuando una empresa emite nuevas acciones para recaudar capital, los accionistas existentes se 'diluyen' (su porcentaje de la empresa baja), pero la compañía obtiene fondos para invertir o crecer. Que gigantes como Nvidia y AMD sean posibles compradores indica que las grandes tech están tejiendo alianzas financieras alrededor de la IA. Este tipo de operaciones de mercado de capitales es esencial entender para quien quiere saber cómo las empresas se financian más allá del crédito bancario.",
-      "tags": [
-        "acciones",
-        "tecnología",
-        "financiamiento"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-      "published_at": "2026-10-26T21:44:00Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": [
-        "META",
-        "NVDA",
-        "AMD",
-        "AVGO"
-      ]
-    },
-    {
-      "id": "vale-brazil-election-2026",
-      "type": "mercado",
-      "title": "Vale cae más de 3% en Wall Street por el resultado electoral en Brasil",
-      "summary": "Las acciones de Vale cerraron en USD 12,00, con una baja del 3,23%, golpeadas por el resultado de las elecciones en Brasil y un recorte reciente del precio objetivo por parte de UBS.",
-      "detail": "Vale es una de las mineras más grandes del mundo y su cotización depende mucho del contexto político y económico de Brasil. Cuando gana un candidato de izquierda, los mercados suelen reaccionar con cautela ante posibles cambios regulatorios o impositivos sobre las empresas extractivas. Este caso muestra cómo los resultados electorales de países vecinos impactan de forma directa en acciones que cotizan en mercados internacionales.",
-      "tags": [
-        "Brasil",
-        "elecciones",
-        "minería"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-26-vale-falls-brazil-election-outcome-and-recent-ubs-target-cut",
-      "published_at": "2026-10-26T21:03:25Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": [
-        "VALE"
-      ]
-    },
-    {
-      "id": "doordash-instacart-deal-2026",
-      "type": "empresa",
-      "title": "DoorDash estaría en negociaciones avanzadas para comprar Instacart por unos USD 17.000 millones",
-      "summary": "Según el Wall Street Journal, DoorDash mantiene conversaciones avanzadas para adquirir Instacart en un acuerdo que valuaría a la empresa en aproximadamente USD 17.000 millones.",
-      "detail": "Las fusiones y adquisiciones (M&A) suelen ocurrir cuando una empresa quiere crecer rápido comprando capacidades que tardaría años en construir sola. En este caso, DoorDash buscaría competir mejor con Walmart y Amazon en el negocio de entregas a domicilio. Para quienes estudian finanzas, las operaciones de M&A son un tema central: implican valuaciones, negociaciones y cambios en la estructura del mercado.",
-      "tags": [
-        "fusiones",
-        "tecnología",
-        "consumo"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
-      "published_at": "2026-10-26T21:46:00Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": [
-        "DASH",
-        "CART"
-      ]
-    },
-    {
-      "id": "ftc-dollar-general-lawsuit-2026",
-      "type": "economia",
-      "title": "La FTC y 20 estados demandaron a Dollar General por cobrar precios más altos que los anunciados",
-      "summary": "La Comisión Federal de Comercio de EE.UU. y 20 estados presentaron una demanda contra Dollar General, acusándola de cobrar a los clientes más de lo que indicaban los precios exhibidos en las góndolas.",
-      "detail": "La FTC es el organismo regulador que protege a los consumidores en EE.UU. y puede imponer multas y cambios en las prácticas comerciales de las empresas. Una demanda de este tipo puede afectar la reputación y las finanzas de la empresa, y sirve como ejemplo de riesgo regulatorio: un factor que los inversores siempre deben considerar al analizar una acción. Para quienes aprenden finanzas, entender el impacto de los reguladores sobre las empresas es parte esencial del análisis.",
-      "tags": [
-        "regulación",
-        "consumo",
-        "Estados Unidos"
+        "resultados",
+        "aeronáutica",
+        "acciones"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
-      "published_at": "2026-10-26T18:37:01Z",
-      "fecha_evento": "2026-10-26",
+      "source_url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "published_at": "2026-10-27T11:44:43Z",
+      "fecha_evento": "2026-10-27",
       "tickers": [
-        "DG"
+        "BA"
       ]
+    },
+    {
+      "id": "coca-cola-q3-2026",
+      "type": "empresa",
+      "title": "Coca-Cola sube su proyección de ganancias pese a la demanda floja en Norteamérica",
+      "summary": "Coca-Cola mejoró su perspectiva de ganancias para el año, aunque reconoció que la demanda en Norteamérica no está siendo tan fuerte. La acción subió cerca de un 32% en lo que va del año, llevando su capitalización de mercado a unos u$s 398.000 millones.",
+      "detail": "Cuando una empresa sube su guidance (proyección de ganancias), suele ser una señal positiva para el mercado porque indica que los negocios van mejor de lo esperado. Coca-Cola es un ejemplo clásico de acción defensiva: incluso con demanda floja, puede sostener márgenes ajustando precios. Esto ilustra el concepto de poder de fijación de precios, clave para entender qué empresas resisten mejor la inflación.",
+      "tags": [
+        "resultados",
+        "consumo",
+        "acciones"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+      "published_at": "2026-10-27T11:20:18Z",
+      "fecha_evento": "2026-10-27",
+      "tickers": [
+        "KO"
+      ]
+    },
+    {
+      "id": "ups-q3-2026",
+      "type": "empresa",
+      "title": "UPS supera expectativas del tercer trimestre y sube su guía anual por segunda vez",
+      "summary": "UPS publicó resultados del tercer trimestre mejores a lo esperado por Wall Street y elevó por segunda vez consecutiva su proyección de ganancias para todo el año.",
+      "detail": "UPS es considerada un indicador económico importante porque el volumen de envíos refleja la actividad del comercio y el consumo. Cuando una empresa sube su guidance dos veces seguidas, el mercado lo toma como una señal de solidez operativa. Para un inversor en formación, esto enseña a mirar no solo los números del trimestre sino también las expectativas hacia adelante.",
+      "tags": [
+        "resultados",
+        "logística",
+        "acciones"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
+      "published_at": "2026-10-27T11:42:51Z",
+      "fecha_evento": "2026-10-27",
+      "tickers": [
+        "UPS"
+      ]
+    },
+    {
+      "id": "big-tech-earnings-deck-2026",
+      "type": "empresa",
+      "title": "Las grandes tecnológicas reportan resultados: el mercado mira más allá del gasto en IA",
+      "summary": "Microsoft, Alphabet y Amazon están por publicar sus resultados trimestrales, y los inversores prestan atención no solo al gasto en inteligencia artificial sino también a los recortes de personal y cómo la IA está transformando el empleo en estas compañías.",
+      "detail": "Los resultados de las grandes tecnológicas mueven mercados globales porque representan una porción enorme de los índices americanos como el S&P 500 y el Nasdaq. Para alguien que aprende finanzas, este momento es ideal para entender cómo el mercado procesa información nueva: si los resultados superan expectativas, las acciones suben; si decepcionan, bajan, incluso si son buenos en términos absolutos. El impacto de la IA en el empleo también introduce una variable nueva en la valuación de estas empresas.",
+      "tags": [
+        "tecnología",
+        "resultados",
+        "inteligencia artificial"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/big-techs-earnings-are-on-deck-theres-more-for-investors-to-watch-than-ai-spending-bb566c90?mod=mw_rss_topstories",
+      "published_at": "2026-10-27T11:31:00Z",
+      "fecha_evento": "2026-10-27",
+      "tickers": [
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "dividend-stocks-octubre-2026",
+      "type": "mercado",
+      "title": "Las acciones de dividendos tienen un octubre excelente mientras el sector tech sufre",
+      "summary": "Los ETFs enfocados en acciones de dividendos están registrando una fuerte suba en octubre, sumando ganancias importantes en lo que va del 2026, mientras el sector tecnológico atraviesa dificultades.",
+      "detail": "Las acciones de dividendos tienden a ser más defensivas: pagan ganancias periódicas a sus inversores y suelen ser menos volátiles que las tecnológicas. Cuando las tasas de interés son altas, las acciones que pagan dividendos atractivos compiten mejor con los bonos, lo que explica parte de su buen rendimiento en este contexto. Esta rotación entre sectores es una dinámica fundamental para entender cómo fluye el dinero en los mercados según las condiciones macroeconómicas.",
+      "tags": [
+        "dividendos",
+        "ETF",
+        "mercado"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/dividend-stocks-are-having-an-excellent-october-as-tech-sector-struggles-5ae40b02?mod=mw_rss_topstories",
+      "published_at": "2026-10-27T11:06:00Z",
+      "fecha_evento": "2026-10-27",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -187,9 +158,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 79.998",
-      "valor_num": 79998.0,
-      "delta_pct": -0.23
+      "valor": "US$ 79.796",
+      "valor_num": 79796.0,
+      "delta_pct": -0.64
     },
     {
       "label": "S&P 500",
@@ -199,9 +170,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.031",
-      "valor_num": 4031.0,
-      "delta_pct": -2.87
+      "valor": "US$ 4.024",
+      "valor_num": 4023.5,
+      "delta_pct": -0.91
     }
   ]
 }
