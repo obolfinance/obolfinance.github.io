@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-27T22:01:06.289854+00:00",
+  "generated_at": "2026-10-28T12:01:11.055084+00:00",
   "items": [
     {
       "id": "fed-pausa-octubre-2026",
       "type": "reunion",
-      "title": "La Fed pausaría las subas de tasas esta semana, según encuesta",
-      "summary": "El 93% de los encuestados por CNBC espera que la Reserva Federal no suba las tasas en la reunión de esta semana. Sin embargo, la mayoría anticipa que los aumentos van a continuar más adelante.",
-      "detail": "Cuando la Fed sube las tasas, el crédito se encarece en todo el mundo: hipotecas, tarjetas y préstamos empresariales. Una pausa no significa que el ciclo terminó, sino que el banco central quiere ver cómo impactan las subas anteriores antes de seguir. Para Argentina, esto importa porque tasas más altas en EE.UU. fortalecen al dólar y presionan a los mercados emergentes.",
+      "title": "La Fed pausaría las subas de tasas en su reunión de esta semana",
+      "summary": "Una encuesta de CNBC muestra que el 93% de los consultados espera que la Reserva Federal no suba las tasas en la reunión de esta semana. Igual, la mayoría anticipa nuevas subas más adelante.",
+      "detail": "Cuando la Fed pausa las subas de tasas, los mercados suelen respirar aliviados: el costo del dinero no sigue subiendo, lo que beneficia a acciones y bonos. Pero si el mercado ya descuenta que vienen más subas después, el alivio puede ser corto. Para alguien aprendiendo finanzas, esto muestra cómo las expectativas importan tanto como las decisiones concretas del banco central.",
       "tags": [
         "Fed",
-        "tasas de interés",
+        "tasas",
         "política monetaria"
       ],
       "source_name": "CNBC",
@@ -19,49 +19,28 @@
       "tickers": []
     },
     {
-      "id": "boeing-737-produccion-2027",
-      "type": "empresa",
-      "title": "Boeing no acelerará la producción del 737 Max hasta fines de 2027",
-      "summary": "Boeing anunció que no va a aumentar significativamente la fabricación del 737 Max antes de fines de 2027, lo que complica su plan de recuperación tras años de crisis.",
-      "detail": "Boeing lleva años intentando recuperarse de los problemas del 737 Max y una huelga de trabajadores. No poder escalar la producción afecta directamente sus ingresos futuros y su capacidad de pagar deudas. Para un inversor que aprende, este caso muestra cómo los problemas operativos de una empresa impactan directo en el precio de la acción y en la confianza del mercado.",
-      "tags": [
-        "Boeing",
-        "manufactura",
-        "aeronáutica"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-      "published_at": "2026-10-27T20:32:24Z",
-      "fecha_evento": "2026-10-27",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "coca-cola-resultados-q3-2026",
-      "type": "empresa",
-      "title": "Coca-Cola sube su perspectiva de ganancias pese a demanda floja en Norteamérica",
-      "summary": "Coca-Cola mejoró su proyección de ganancias para el año, aunque reconoció que la demanda en América del Norte está estancada. La acción subió cerca de un 32% en lo que va del año y su capitalización bursátil ronda los 398.000 millones de dólares.",
-      "detail": "Que una empresa como Coca-Cola suba su outlook incluso con demanda débil en su mercado principal puede indicar que está compensando con precios más altos o crecimiento en otras regiones. Este tipo de acciones defensivas —de consumo básico— suelen resistir mejor las crisis económicas, lo que las hace interesantes para entender cómo diversificar una cartera.",
-      "tags": [
-        "Coca-Cola",
-        "resultados",
-        "consumo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-      "published_at": "2026-10-27T15:04:36Z",
-      "fecha_evento": "2026-10-27",
-      "tickers": [
-        "KO"
-      ]
-    },
-    {
-      "id": "honda-tarifa-canada-50",
+      "id": "treasury-yields-deficit-2026",
       "type": "economia",
-      "title": "Honda advierte que aranceles del 50% sobre autos canadienses serían catastróficos",
-      "summary": "Trump amenazó con duplicar los aranceles sobre vehículos y autopartes canadienses del 25% al 50% si no se cierra un acuerdo comercial. Honda salió a advertir que esa medida sería devastadora para toda la industria automotriz.",
-      "detail": "Los aranceles son impuestos que un país le cobra a los productos que importa. Cuando suben tanto, encarecen la producción, reducen márgenes y pueden llevar a reconfigurar cadenas de suministro enteras. Este caso es un buen ejemplo de cómo las tensiones comerciales entre países grandes afectan a empresas multinacionales y, en última instancia, a los consumidores vía precios más altos.",
+      "title": "Tasas del Tesoro de EE.UU. arriba del 5%: el déficit de u$s2 billones complica las finanzas americanas",
+      "summary": "Los rendimientos de los bonos del Tesoro de EE.UU. superaron el 5%, encareciendo el crédito para familias y para el propio gobierno, que carga con un déficit de u$s2 billones. El análisis advierte que esto se está convirtiendo en el mayor desafío económico del país.",
+      "detail": "Cuando el gobierno necesita financiar un déficit enorme, emite más deuda. Si los inversores piden tasas más altas para prestarle, eso arrastra hacia arriba el costo del crédito en toda la economía: hipotecas, préstamos personales y corporativos. Para Argentina, esta dinámica es familiar: un Estado que gasta más de lo que recauda termina pagando tasas altísimas y compitiendo con el sector privado por financiamiento.",
+      "tags": [
+        "bonos",
+        "déficit",
+        "tasas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "published_at": "2026-10-26T18:33:51Z",
+      "fecha_evento": "2026-10-26",
+      "tickers": []
+    },
+    {
+      "id": "honda-tariffs-canada-2026",
+      "type": "economia",
+      "title": "Honda advierte que aranceles del 50% a autos canadienses serían un golpe catastrófico",
+      "summary": "Trump amenazó con duplicar los aranceles sobre vehículos y autopartes canadienses, del 25% al 50%, si no se cierra un acuerdo comercial entre ambos países. Honda alertó que eso sería devastador para la industria automotriz.",
+      "detail": "Los aranceles son impuestos que se cobran a los productos importados. Cuando son tan altos, encarecen los insumos y los autos terminados, lo que puede subir precios para los consumidores y reducir la rentabilidad de las empresas. Este tipo de tensiones comerciales entre grandes economías afecta a los mercados globales y puede generar volatilidad en acciones del sector automotriz.",
       "tags": [
         "aranceles",
         "comercio",
@@ -76,11 +55,49 @@
       ]
     },
     {
+      "id": "boeing-produccion-737-2026",
+      "type": "empresa",
+      "title": "Boeing no acelerará la producción del 737 Max hasta fines de 2027",
+      "summary": "Boeing informó a inversores que no aumentará significativamente la producción de su avión 737 Max hasta fines de 2027, según adelantó antes de presentar sus resultados trimestrales.",
+      "detail": "La producción es clave para los ingresos de Boeing: más aviones entregados significan más caja. Si la empresa demora la rampa de producción, los inversores ajustan sus expectativas de ganancias futuras a la baja, lo que puede presionar el precio de la acción. Este caso ilustra cómo los anuncios operativos de una empresa grande mueven los mercados incluso antes de que salgan los números formales.",
+      "tags": [
+        "Boeing",
+        "producción",
+        "resultados"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "published_at": "2026-10-27T20:32:24Z",
+      "fecha_evento": "2026-10-27",
+      "tickers": [
+        "BA"
+      ]
+    },
+    {
+      "id": "cocacola-resultados-q3-2026",
+      "type": "empresa",
+      "title": "Coca-Cola mejoró su proyección de ganancias pese a la demanda floja en EE.UU.",
+      "summary": "Coca-Cola elevó sus perspectivas de resultados para el año, aunque reconoció que la demanda en Norteamérica estuvo débil. La acción acumula una suba de cerca del 32% en lo que va del año.",
+      "detail": "Que una empresa suba su guidance (proyección de ganancias) es una señal positiva para el mercado: significa que los directivos esperan mejores resultados de los que anticipaban. Sin embargo, la debilidad en el mercado doméstico muestra que el crecimiento puede venir de otras regiones. Coca-Cola es un ejemplo clásico de empresa defensiva: vende productos de consumo masivo que la gente sigue comprando incluso en épocas de incertidumbre.",
+      "tags": [
+        "Coca-Cola",
+        "resultados",
+        "consumo"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+      "published_at": "2026-10-27T15:04:36Z",
+      "fecha_evento": "2026-10-27",
+      "tickers": [
+        "KO"
+      ]
+    },
+    {
       "id": "ups-resultados-q3-2026",
       "type": "empresa",
-      "title": "UPS superó expectativas y volvió a mejorar su guía anual",
-      "summary": "UPS publicó resultados del tercer trimestre mejores a lo esperado por Wall Street y subió su proyección de ganancias para todo el año por segunda vez consecutiva.",
-      "detail": "UPS es considerada un indicador del estado de la economía real porque su negocio depende directamente del volumen de comercio y consumo. Que mejore su guía dos veces seguidas sugiere que la actividad económica es más robusta de lo que muchos temían. Aprender a leer estos resultados ayuda a entender qué señales manda el mercado sobre el crecimiento económico general.",
+      "title": "UPS superó las expectativas del mercado y volvió a mejorar su proyección anual",
+      "summary": "UPS publicó resultados del tercer trimestre que superaron las estimaciones de Wall Street y elevó su proyección para todo el año por segunda vez consecutiva.",
+      "detail": "Cuando una empresa supera las expectativas y encima sube su guidance, el mercado suele reaccionar positivamente. UPS es considerada un termómetro de la economía real: si envía más paquetes y gana más, significa que el comercio y el consumo están activos. Seguir los resultados de empresas de logística es una forma de leer la salud general de la economía.",
       "tags": [
         "UPS",
         "logística",
@@ -95,61 +112,21 @@
       ]
     },
     {
-      "id": "coreweave-anthropic-ia-2026",
-      "type": "mercado",
-      "title": "Acciones de IA suben impulsadas por el IPO de Anthropic y el avance de CoreWeave",
-      "summary": "Las acciones vinculadas a inteligencia artificial rebotaron hoy: CoreWeave subió casi 8% tras inaugurar un centro de datos en Dinamarca, mientras que el filing de Anthropic para salir a bolsa renovó la confianza inversora en el sector.",
-      "detail": "Cuando una empresa importante como Anthropic publica su prospecto de IPO, el mercado analiza sus números para confirmar si el gasto en IA sigue siendo robusto. Ese optimismo se contagia a otras empresas del sector como CoreWeave. Este mecanismo —donde una noticia de una empresa mueve a todo un sector— se llama 'efecto derrame' y es clave para entender cómo se mueven los mercados temáticos.",
+      "id": "inflacion-aranceles-preocupaciones-2026",
+      "type": "economia",
+      "title": "Cuatro razones para preocuparse por la inflación en EE.UU., incluyendo el fin de los reembolsos arancelarios",
+      "summary": "Un analista de 22V Research advierte que las empresas que antes usaban reembolsos de aranceles para absorber costos ya no podrán hacerlo y empezarán a trasladar esos aumentos a los precios al consumidor.",
+      "detail": "Cuando los aranceles suben, las empresas tienen dos opciones: absorber el costo extra o pasárselo al cliente en forma de precios más altos. Si antes usaban reembolsos para no subir precios y ahora eso termina, la inflación puede repuntar. Esto es relevante porque una inflación más alta puede llevar a la Fed a subir tasas, lo que impacta en toda la economía global, incluyendo Argentina.",
       "tags": [
-        "inteligencia artificial",
-        "IPO",
-        "tecnología"
+        "inflación",
+        "aranceles",
+        "Fed"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories",
-      "published_at": "2026-10-27T21:41:00Z",
-      "fecha_evento": "2026-10-27",
-      "tickers": [
-        "CRWV"
-      ]
-    },
-    {
-      "id": "big-tech-vs-mercado-octubre-2026",
-      "type": "mercado",
-      "title": "El resto del mercado le gana a las Big Tech en octubre",
-      "summary": "Mientras en septiembre el mercado fue arrastrado por las grandes tecnológicas, en octubre la tendencia se revirtió: el resto de los sectores está liderando las subas y las Big Tech quedaron rezagadas.",
-      "detail": "Esta rotación sectorial es un fenómeno habitual: los inversores venden lo que subió mucho para comprar lo que quedó barato. Entender que el mercado no se mueve de forma uniforme —y que distintos sectores lideran en distintos momentos— es fundamental para no tomar decisiones impulsivas basadas en el desempeño reciente de un solo grupo de acciones.",
-      "tags": [
-        "Big Tech",
-        "rotación sectorial",
-        "mercado"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories",
-      "published_at": "2026-10-27T21:28:00Z",
-      "fecha_evento": "2026-10-27",
+      "source_url": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
+      "published_at": "2026-10-28T10:21:00Z",
+      "fecha_evento": "2026-10-28",
       "tickers": []
-    },
-    {
-      "id": "bitcoin-ballenas-bajistas-octubre-2026",
-      "type": "mercado",
-      "title": "Bitcoin rebota pero las ballenas se ponen bajistas por primera vez desde junio",
-      "summary": "Bitcoin subió 0,83% hasta los 80.676 dólares, Ethereum avanzó 1,08% y Solana 0,40%. Sin embargo, los grandes tenedores de cripto ('ballenas') están tomando posiciones bajistas por primera vez desde junio.",
-      "detail": "El comportamiento de las ballenas —inversores con grandes volúmenes de criptomonedas— es seguido de cerca porque sus movimientos pueden anticipar cambios de tendencia. Que el precio suba mientras las ballenas se ponen bajistas puede ser una señal de alerta: el rebote podría no ser sostenido. Este tipo de análisis on-chain es una herramienta que los inversores cripto usan para tomar decisiones.",
-      "tags": [
-        "Bitcoin",
-        "cripto",
-        "ballenas"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/crypto-market-today-oct-27-bitcoin-bounces-back-whales-are-turning-bearish-first-time-june",
-      "published_at": "2026-10-27T21:35:01Z",
-      "fecha_evento": "2026-10-27",
-      "tickers": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ]
     }
   ],
   "ticker": [
@@ -157,31 +134,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.560",
       "valor_num": 1560.0,
-      "delta_pct": 0.65
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.575",
       "valor_num": 1575.0,
-      "delta_pct": 0.64
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.561",
       "valor_num": 1560.9,
-      "delta_pct": -0.19
+      "delta_pct": -1.05
     },
     {
       "label": "CCL",
       "valor": "$1.656",
       "valor_num": 1655.7,
-      "delta_pct": 0.1
+      "delta_pct": -1.59
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 80.819",
-      "valor_num": 80819.0,
-      "delta_pct": 1.1
+      "valor": "US$ 81.239",
+      "valor_num": 81239.0,
+      "delta_pct": 1.82
     },
     {
       "label": "S&P 500",
@@ -191,9 +168,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.073",
-      "valor_num": 4073.1,
-      "delta_pct": 0.31
+      "valor": "US$ 4.059",
+      "valor_num": 4059.2,
+      "delta_pct": 1.28
     }
   ]
 }
