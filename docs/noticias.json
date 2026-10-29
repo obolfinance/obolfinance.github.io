@@ -1,33 +1,67 @@
 {
-  "generated_at": "2026-10-28T22:01:17.602224+00:00",
+  "generated_at": "2026-10-29T12:01:29.009152+00:00",
   "items": [
     {
-      "id": "fed-rate-decision-warsh-oct28",
-      "type": "reunion",
-      "title": "La Fed mantuvo tasas y Warsh explicó por qué esperar más datos",
-      "summary": "La Reserva Federal de EE.UU. decidió no subir las tasas de interés esta semana. El presidente Kevin Warsh dijo que se viene un período 'rico en información' y que prefieren esperar antes de actuar.",
-      "detail": "Cuando la Fed pausa las subas de tasas, está diciendo que necesita más datos para decidir. Warsh usa el concepto de 'período rico en información' para justificar la espera: en las próximas semanas habrá datos clave de empleo e inflación que pueden cambiar el panorama. Para alguien que aprende finanzas, esto enseña que las decisiones de política monetaria no son automáticas: el banco central evalúa señales del mercado antes de moverse. Las tasas en EE.UU. afectan directamente los flujos de capital hacia mercados emergentes como Argentina.",
+      "id": "lagarde-ecb-renuncia-2026",
+      "type": "discurso",
+      "title": "Lagarde anunció que deja el BCE en febrero",
+      "summary": "Christine Lagarde confirmó que va a renunciar como presidenta del Banco Central Europeo el 7 de febrero del año que viene. Ya se empieza a especular sobre quién la va a reemplazar.",
+      "detail": "El BCE es el banco central más importante de Europa y uno de los más influyentes del mundo: sus decisiones sobre tasas de interés afectan al euro, a los mercados globales y al crédito en toda la eurozona. Un cambio de conducción genera incertidumbre porque el nuevo presidente puede tener una visión distinta sobre inflación y política monetaria, lo que puede mover monedas y bonos. Para alguien que aprende finanzas, es un buen ejemplo de cómo el liderazgo de un banco central importa tanto como sus propias decisiones técnicas.",
+      "tags": [
+        "BCE",
+        "política monetaria",
+        "Europa"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+      "published_at": "2026-10-29T11:59:27Z",
+      "fecha_evento": "2026-10-29",
+      "tickers": []
+    },
+    {
+      "id": "warsh-fed-tasas-2026",
+      "type": "discurso",
+      "title": "El nuevo jefe de la Fed insinuó que las tasas podrían subir",
+      "summary": "Kevin Warsh, el nuevo presidente de la Reserva Federal de EE.UU., dejó en claro que se inclina hacia tasas de interés más altas, aunque se guardó la posibilidad de actuar según cómo vengan los datos económicos.",
+      "detail": "La Fed es el banco central de Estados Unidos y sus movimientos de tasas impactan en todo el mundo: cuando sube tasas, el dólar se fortalece y los capitales tienden a salir de países emergentes como Argentina. Warsh no dio certezas, pero la señal de que prefiere tasas altas ya mueve expectativas en los mercados. Aprender a leer estas señales —llamadas 'forward guidance'— es clave en finanzas, porque los mercados reaccionan antes de que los cambios ocurran.",
       "tags": [
         "Fed",
         "tasas de interés",
-        "política monetaria"
+        "Warsh"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
-      "published_at": "2026-10-28T21:27:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+      "published_at": "2026-10-29T09:00:01Z",
+      "fecha_evento": "2026-10-29",
+      "tickers": []
+    },
+    {
+      "id": "fed-fomc-takeaways-oct2026",
+      "type": "mercado",
+      "title": "La Fed pausó las tasas pero sorprendió con algunas señales",
+      "summary": "La Reserva Federal mantuvo las tasas sin cambios en su reunión de esta semana, como esperaba el mercado, pero hubo algunas sorpresas en la conferencia de prensa de Warsh que llamaron la atención de los inversores.",
+      "detail": "Una pausa en las tasas no significa que el ciclo terminó: la Fed puede volver a subir en la próxima reunión si los datos de inflación o empleo lo justifican. Los mercados siempre analizan no solo la decisión, sino el tono del comunicado y las palabras del presidente para anticipar movimientos futuros. Este tipo de reuniones del FOMC son eventos clave en el calendario financiero global porque marcan el pulso de la economía más grande del mundo.",
+      "tags": [
+        "Fed",
+        "FOMC",
+        "tasas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+      "published_at": "2026-10-28T21:31:46Z",
       "fecha_evento": "2026-10-28",
       "tickers": []
     },
     {
-      "id": "uk-budget-oct28",
+      "id": "uk-presupuesto-oct2026",
       "type": "economia",
-      "title": "Reino Unido presentó su presupuesto: baja costos de energía, sube impuestos a bancos y refuerza defensa",
-      "summary": "El gobierno del Reino Unido anunció un presupuesto que reduce las facturas de energía de los hogares, aumenta la carga impositiva sobre los bancos y destina miles de millones a defensa, Ucrania e inteligencia artificial.",
-      "detail": "Un presupuesto nacional es la hoja de ruta del gasto e ingresos de un gobierno, y sus decisiones afectan al mercado financiero local y global. Subir impuestos a los bancos puede reducir su rentabilidad y presionar sus acciones, mientras que aumentar el gasto en defensa e IA impulsa sectores específicos. Para alguien que aprende finanzas, este tipo de anuncios muestra cómo la política fiscal de un país grande puede mover mercados internacionales.",
+      "title": "Reino Unido presentó un presupuesto que baja facturas de energía y sube impuestos a los bancos",
+      "summary": "El gobierno del Reino Unido anunció su presupuesto de otoño: baja los costos de energía para los hogares, aumenta los impuestos a los bancos y destina miles de millones a defensa, Ucrania e inteligencia artificial.",
+      "detail": "Un presupuesto nacional es una señal clara de las prioridades económicas de un gobierno: cómo recauda y en qué gasta. Subir impuestos a los bancos puede afectar la rentabilidad del sector financiero británico y repercutir en las acciones de esos bancos. Para quien aprende finanzas, este tipo de anuncios muestra cómo las decisiones fiscales de los gobiernos mueven mercados y afectan a distintos sectores de la economía.",
       "tags": [
-        "presupuesto",
+        "fiscal",
         "Reino Unido",
-        "política fiscal"
+        "presupuesto"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
@@ -36,68 +70,49 @@
       "tickers": []
     },
     {
-      "id": "oracle-surges-investor-day-oct28",
+      "id": "eli-lilly-resultados-q3-2026",
       "type": "empresa",
-      "title": "Oracle disparó 10% después de prometer ingresos de 225.000 millones de dólares para 2030",
-      "summary": "Oracle subió más de 10% en bolsa luego de que en su Investor Day proyectara al menos 225.000 millones de dólares en ingresos para el año fiscal 2030, impulsado por su apuesta en inteligencia artificial.",
-      "detail": "Un 'Investor Day' es un evento donde las empresas presentan sus proyecciones de largo plazo a analistas e inversores. Cuando una compañía como Oracle da una guía de ingresos futura muy ambiciosa, el mercado lo interpreta como una señal de confianza en su modelo de negocios. Esto es relevante para aprender finanzas porque muestra cómo las expectativas futuras —no solo los resultados actuales— mueven el precio de una acción.",
+      "title": "Eli Lilly superó expectativas gracias al boom de sus medicamentos para obesidad",
+      "summary": "Eli Lilly reportó que las ventas de Zepbound y Mounjaro volvieron a dispararse en el tercer trimestre, superando las estimaciones del mercado y llevando a la empresa a mejorar su perspectiva de ventas para el año.",
+      "detail": "Eli Lilly es uno de los ejemplos más claros de cómo una empresa puede transformar su valuación gracias a un producto innovador: el mercado de medicamentos para obesidad y diabetes está creciendo a un ritmo extraordinario. Cuando una compañía supera las expectativas del mercado y además sube su guidance (proyección futura), generalmente el precio de la acción sube. Este caso también sirve para entender cómo el sector farmacéutico puede ser muy sensible a los resultados trimestrales.",
       "tags": [
-        "Oracle",
+        "farmacéutica",
+        "resultados",
+        "obesidad"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
+      "published_at": "2026-10-29T11:44:57Z",
+      "fecha_evento": "2026-10-29",
+      "tickers": [
+        "LLY"
+      ]
+    },
+    {
+      "id": "nvidia-earnings-test-2026",
+      "type": "empresa",
+      "title": "Nvidia se prepara para reportar u$s 108.000 millones en ingresos trimestrales",
+      "summary": "Nvidia espera reportar alrededor de 108.000 millones de dólares en ingresos para el trimestre, pero los inversores están más atentos al pronóstico de demanda de los grandes clientes de nube para los próximos meses.",
+      "detail": "Nvidia se convirtió en el termómetro de la inversión en inteligencia artificial: si sus chips siguen con alta demanda, es señal de que las grandes tecnológicas siguen apostando fuerte a la IA. El guidance (proyección futura) suele importar más que el resultado pasado, porque los mercados se mueven anticipando el futuro. Para quien aprende finanzas, Nvidia es un caso de estudio perfecto sobre cómo las expectativas y el contexto de un sector pueden mover una acción tanto o más que los números concretos.",
+      "tags": [
+        "Nvidia",
         "inteligencia artificial",
-        "bolsa"
+        "tecnología"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-28-oracle-surges-fiscal-2030-revenue-guidance-225-billion",
-      "published_at": "2026-10-28T21:10:11Z",
-      "fecha_evento": "2026-10-28",
+      "source_url": "https://www.nasdaq.com/articles/nvidias-108-billion-earnings-test-why-next-forecast-matters-more",
+      "published_at": "2026-10-29T11:21:02Z",
+      "fecha_evento": "2026-10-29",
       "tickers": [
-        "ORCL"
+        "NVDA"
       ]
     },
     {
-      "id": "fedex-earnings-oct28",
-      "type": "empresa",
-      "title": "FedEx superó expectativas y mejoró su perspectiva anual",
-      "summary": "FedEx publicó sus resultados del tercer trimestre fiscal y superó las estimaciones de Wall Street tanto en ingresos como en ganancias, además de mejorar su outlook para el año.",
-      "detail": "Cuando una empresa de logística global como FedEx supera expectativas y sube su guía anual, es una señal de que el comercio mundial está activo. Los resultados de empresas de transporte suelen usarse como indicador del estado general de la economía, ya que reflejan cuántos bienes se mueven. Para quien aprende finanzas, entender que hay empresas que funcionan como 'termómetros' de la actividad económica es clave.",
-      "tags": [
-        "FedEx",
-        "resultados",
-        "logística"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-      "published_at": "2026-10-28T20:35:33Z",
-      "fecha_evento": "2026-10-28",
-      "tickers": [
-        "FDX"
-      ]
-    },
-    {
-      "id": "stellantis-turnaround-oct28",
-      "type": "empresa",
-      "title": "Stellantis subió 13% en bolsa pese a un déficit de caja de 4.500 millones de euros en el trimestre",
-      "summary": "El fabricante de autos europeo Stellantis registró un déficit de caja de 4.000 millones de euros en el tercer trimestre, pero su plan de reestructuración y recorte de costos generó optimismo en los inversores, que empujaron la acción un 13% al alza.",
-      "detail": "Que una acción suba a pesar de malos números parece contradictorio, pero en finanzas lo que mueve el precio es la expectativa futura, no solo el resultado presente. Si el mercado cree que el plan de recuperación va a funcionar, compra antes de que los números mejoren. Este caso es un buen ejemplo de cómo el 'forward looking' —mirar hacia adelante— es central en la valuación de empresas.",
-      "tags": [
-        "Stellantis",
-        "autos",
-        "reestructuración"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-      "published_at": "2026-10-28T20:23:48Z",
-      "fecha_evento": "2026-10-28",
-      "tickers": [
-        "STLA"
-      ]
-    },
-    {
-      "id": "honda-canada-tariffs-oct28",
+      "id": "honda-aranceles-canada-2026",
       "type": "economia",
-      "title": "Honda advierte que aranceles del 50% en autos canadienses serían catastróficos",
-      "summary": "Trump amenazó con duplicar los aranceles sobre vehículos y piezas canadienses, del 25% al 50%, si no se llega a un acuerdo comercial. Honda advirtió que eso sería catastrófico para la industria automotriz.",
-      "detail": "Los aranceles son impuestos que un país cobra sobre los productos importados, y cuando suben encarecen la cadena de producción global. En el caso automotriz, muchas piezas cruzan la frontera entre EE.UU. y Canadá varias veces antes de que el auto esté terminado, por lo que un arancel alto tiene un efecto multiplicador sobre los costos. Para alguien que aprende finanzas, esto ilustra cómo las tensiones comerciales afectan a empresas y sectores enteros.",
+      "title": "Honda advirtió que doblar los aranceles a autos canadienses sería catastrófico",
+      "summary": "Trump amenazó con subir los aranceles a vehículos y partes provenientes de Canadá del 25% al 50% si no se cierra un acuerdo comercial, y Honda salió a advertir que eso sería catastrófico para la industria automotriz.",
+      "detail": "Los aranceles son impuestos que se cobran a los productos importados, y cuando suben así de fuerte afectan toda la cadena de producción: encarecen los autos, complican a las fábricas que tienen partes en distintos países y pueden generar desempleo. Este tipo de tensión comercial entre EE.UU. y sus vecinos impacta también en los mercados financieros y en la confianza de los inversores. Es un buen ejemplo de cómo la política puede afectar directamente a empresas e industrias enteras.",
       "tags": [
         "aranceles",
         "comercio",
@@ -112,60 +127,22 @@
       ]
     },
     {
-      "id": "vertiv-ai-signal-oct28",
+      "id": "boeing-produccion-2027",
       "type": "empresa",
-      "title": "Vertiv superó estimaciones de ventas por el mayor margen en cinco años, impulsada por la demanda de IA",
-      "summary": "Vertiv, empresa de infraestructura para centros de datos, superó las expectativas de ventas por el mayor margen en más de cinco años y elevó su perspectiva de inversión de capital, enviando una señal positiva para el sector de inteligencia artificial antes de los resultados de las grandes tecnológicas.",
-      "detail": "Vertiv fabrica equipos de refrigeración y energía para los centros de datos donde corre la IA. Que sus ventas superen ampliamente las expectativas sugiere que la inversión en infraestructura de IA sigue siendo muy fuerte, lo que es una buena señal anticipada para empresas como Nvidia, Microsoft o Amazon. En finanzas, analizar proveedores de una industria para anticipar tendencias se llama análisis de la cadena de valor.",
+      "title": "Boeing no va a aumentar la producción del 737 Max hasta fines de 2027",
+      "summary": "Boeing informó que no va a incrementar de forma significativa la producción del 737 Max hasta fines de 2027, una señal de que la recuperación de la compañía sigue siendo lenta.",
+      "detail": "Boeing lleva años enfrentando problemas de producción y reputación con el 737 Max, y cada vez que retrasa sus planes de expansión el mercado lo interpreta como una señal negativa. Para los inversores, el ritmo de producción es clave porque determina los ingresos futuros de la empresa. Este caso ilustra cómo los problemas operativos de una gran corporación pueden mantenerse por años y afectar su valor en bolsa durante mucho tiempo.",
       "tags": [
-        "inteligencia artificial",
-        "infraestructura",
-        "tecnología"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
-      "published_at": "2026-10-28T20:49:00Z",
-      "fecha_evento": "2026-10-28",
-      "tickers": [
-        "VRT"
-      ]
-    },
-    {
-      "id": "frontier-airfare-oct28",
-      "type": "empresa",
-      "title": "La aerolínea low cost más grande de EE.UU. reportó un salto del 71% en tarifas aéreas",
-      "summary": "Frontier Airlines informó que el precio promedio de sus pasajes subió un 71% en el tercer trimestre, y destacó que los clientes siguen reservando vuelos.",
-      "detail": "Un aumento tan fuerte en tarifas puede deberse a mayor demanda, menor oferta de asientos o aumento de costos operativos como el combustible. Para quien aprende finanzas, es interesante notar que una suba de precios tan pronunciada en una low cost puede señalar inflación en el sector servicios, algo que los bancos centrales como la Fed monitorean de cerca. También muestra cómo el poder de fijación de precios de una empresa impacta en sus ingresos.",
-      "tags": [
-        "aerolíneas",
-        "inflación",
-        "consumo"
+        "Boeing",
+        "producción",
+        "aeronáutica"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
-      "published_at": "2026-10-28T20:06:19Z",
-      "fecha_evento": "2026-10-28",
+      "source_url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "published_at": "2026-10-27T20:32:24Z",
+      "fecha_evento": "2026-10-27",
       "tickers": [
-        "ULCC"
-      ]
-    },
-    {
-      "id": "boston-scientific-cyberattack-oct28",
-      "type": "empresa",
-      "title": "Boston Scientific cayó 6% tras recortar su guía por el impacto de un ciberataque",
-      "summary": "La empresa de dispositivos médicos Boston Scientific bajó casi 6% en bolsa luego de reducir su perspectiva de ventas del cuarto trimestre y ganancias anuales debido al impacto persistente de un ciberataque.",
-      "detail": "Los ciberataques no solo dañan la reputación de una empresa: pueden interrumpir operaciones, retrasar facturaciones y generar costos extraordinarios, todo lo cual impacta directamente en los resultados financieros. Cuando una empresa recorta su 'guidance' (perspectiva de ganancias), el mercado suele reaccionar negativamente porque el futuro se vuelve menos predecible. Este caso muestra que el riesgo tecnológico es hoy un factor financiero clave para cualquier empresa.",
-      "tags": [
-        "ciberseguridad",
-        "riesgo",
-        "salud"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-28-boston-scientific-slips-6-after-cutting-q4-sales-and-full-year",
-      "published_at": "2026-10-28T21:10:22Z",
-      "fecha_evento": "2026-10-28",
-      "tickers": [
-        "BSX"
+        "BA"
       ]
     }
   ],
@@ -186,19 +163,19 @@
       "label": "MEP",
       "valor": "$1.573",
       "valor_num": 1573.1,
-      "delta_pct": -0.28
+      "delta_pct": 0.78
     },
     {
       "label": "CCL",
       "valor": "$1.665",
       "valor_num": 1665.4,
-      "delta_pct": -1.02
+      "delta_pct": 0.59
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 81.277",
-      "valor_num": 81277.0,
-      "delta_pct": 0.56
+      "valor": "US$ 80.084",
+      "valor_num": 80084.0,
+      "delta_pct": -1.4
     },
     {
       "label": "S&P 500",
@@ -208,9 +185,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.081",
-      "valor_num": 4081.2,
-      "delta_pct": 1.83
+      "valor": "US$ 4.040",
+      "valor_num": 4039.8,
+      "delta_pct": 0.03
     }
   ]
 }
