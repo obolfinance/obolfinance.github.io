@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "liquidez-que-es-y-por-que-importa",
+      "titulo": "Liquidez: por qué importa cuánto tardás en salir de algo",
+      "bajada": "Un auto vale plata, pero no te saca de un apuro un martes a la mañana. Eso es liquidez, y define más decisiones de las que creés.",
+      "categoria": "Inversión",
+      "mundo": "inversion",
+      "fecha": "2026-10-30"
+    },
+    {
       "slug": "tasa-real-plata-que-crece-o-no",
       "titulo": "Nominal y real: por qué tu plata puede crecer y perder al mismo tiempo",
       "bajada": "Tu saldo sube, tu sueldo sube, el alquiler sube. Entender la diferencia entre nominal y real es lo que te dice si estás ganando o perdiendo.",
