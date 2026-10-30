@@ -1,16 +1,33 @@
 {
-  "generated_at": "2026-10-29T22:01:27.892783+00:00",
+  "generated_at": "2026-10-30T12:01:46.359294+00:00",
   "items": [
     {
-      "id": "ecb-tasa-octubre-2026",
+      "id": "eurozone-gdp-q3-2026",
       "type": "economia",
-      "title": "El Banco Central Europeo mantiene su tasa en 2,5%",
-      "summary": "El BCE decidió no mover su tasa de interés de referencia, que queda en 2,5%. El mercado interpretó la decisión como una pausa con sesgo alcista y ya le asigna un 67% de probabilidad a una suba de tasas en diciembre.",
-      "detail": "Cuando un banco central 'pausa' pero deja abierta la puerta a subir, los mercados empiezan a apostar a esa suba futura. Eso encarece el crédito en euros y fortalece la moneda. Para alguien aprendiendo finanzas, este tipo de señales importan porque mueven los mercados de bonos y acciones europeos antes de que la decisión formal ocurra.",
+      "title": "La economía de la eurozona creció 0,4% en el tercer trimestre, pero Francia se contrajo",
+      "summary": "La zona euro mostró una resiliencia sorprendente en el tercer trimestre de 2026, aunque Francia registró una contracción. Los analistas advierten que persisten desafíos de productividad, competitividad industrial y presiones demográficas.",
+      "detail": "El PBI es el indicador más amplio de la salud económica de un país o región. Que la eurozona crezca, aunque sea poco, muestra que el bloque resiste, pero la contracción de Francia —una de sus economías más grandes— es una señal de alerta. Para inversores, un bloque europeo débil puede afectar el valor del euro y las decisiones del BCE sobre tasas de interés.",
+      "tags": [
+        "eurozona",
+        "PBI",
+        "Francia"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+      "published_at": "2026-10-30T11:16:46Z",
+      "fecha_evento": "2026-10-30",
+      "tickers": []
+    },
+    {
+      "id": "ecb-rate-hold-2026",
+      "type": "reunion",
+      "title": "El Banco Central Europeo mantuvo su tasa de interés en 2,5%",
+      "summary": "El BCE decidió mantener su tasa clave en 2,5%, una pausa que el mercado interpretó como hawkish (favorable a subas futuras). Los inversores estiman un 67% de probabilidad de una suba de tasas en diciembre.",
+      "detail": "Cuando un banco central 'pausa' pero el mercado lo lee como hawkish, significa que no bajó las tasas pero dejó abierta la puerta a subirlas pronto. Esto impacta en los bonos europeos (suben los rendimientos) y en el euro. Para alguien que aprende finanzas, es clave entender que no solo importa la decisión del día, sino lo que el banco central señala sobre el futuro, algo que se llama 'forward guidance'.",
       "tags": [
         "BCE",
         "tasas",
-        "Europa"
+        "política monetaria"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
@@ -19,15 +36,15 @@
       "tickers": []
     },
     {
-      "id": "lagarde-renuncia-ecb",
+      "id": "lagarde-ecb-exit-2026",
       "type": "discurso",
-      "title": "Christine Lagarde anunció que deja el BCE en febrero",
-      "summary": "La presidenta del Banco Central Europeo, Christine Lagarde, anunció este jueves que dejará su cargo el 7 de febrero del año que viene. Ya se especula sobre quién podría reemplazarla.",
-      "detail": "El jefe de un banco central es una figura clave: sus palabras y decisiones mueven mercados. Un cambio de liderazgo genera incertidumbre porque los inversores no saben si el sucesor va a ser más duro o más flexible con las tasas. Este tipo de transiciones suelen aumentar la volatilidad en los mercados de bonos y divisas europeos.",
+      "title": "Lagarde anunció que dejará la presidencia del BCE en febrero próximo",
+      "summary": "Christine Lagarde confirmó que se irá del Banco Central Europeo el 7 de febrero del año que viene, abriendo el debate sobre quién será su sucesor y qué rumbo tomará la política monetaria europea.",
+      "detail": "El cambio de conducción en un banco central es un evento relevante para los mercados porque cada presidente tiene su propia visión sobre inflación y tasas. La incertidumbre sobre el sucesor de Lagarde puede generar volatilidad en activos europeos. Este tipo de transiciones muestra cómo las personas al mando de instituciones clave influyen directamente en la economía global.",
       "tags": [
         "BCE",
         "Lagarde",
-        "liderazgo"
+        "política monetaria"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
@@ -36,15 +53,15 @@
       "tickers": []
     },
     {
-      "id": "pib-eeuu-q3-2026",
+      "id": "us-gdp-q3-pce-2026",
       "type": "economia",
-      "title": "La economía de EE.UU. creció 3,4% en el tercer trimestre y la inflación aceleró",
-      "summary": "El PBI de Estados Unidos subió 3,4% en el tercer trimestre, mejor de lo esperado. Al mismo tiempo, el índice de inflación PCE de septiembre habría subido 0,5% mensual, lo que implica una tasa anual del 3,7%.",
-      "detail": "Un crecimiento fuerte combinado con inflación alta es una señal de alerta para la Fed: si la economía crece rápido y los precios siguen subiendo, el banco central tiene más razones para subir las tasas. Para Argentina, lo que haga la Fed importa porque afecta el dólar global y el costo de financiamiento de los países emergentes.",
+      "title": "El PBI de EE.UU. creció 3,4% en el tercer trimestre y la inflación de septiembre se aceleró",
+      "summary": "La economía estadounidense creció más de lo esperado en el tercer trimestre de 2026, pero la inflación medida por el índice PCE se proyecta en 3,7% anual en septiembre, por encima del objetivo de la Fed.",
+      "detail": "El PBI fuerte combinado con inflación al alza es una combinación complicada para la Reserva Federal: la economía no necesita estímulo, pero los precios siguen subiendo. El índice PCE es el favorito de la Fed para medir inflación, y un dato alto refuerza la idea de que las tasas podrían seguir subiendo. Esto afecta a todo el mundo porque una Fed más dura fortalece el dólar y encarece la deuda de países emergentes.",
       "tags": [
         "PBI",
         "inflación",
-        "EE.UU."
+        "Fed"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
@@ -53,15 +70,15 @@
       "tickers": []
     },
     {
-      "id": "warsh-fed-tasas",
+      "id": "warsh-fed-rates-2026",
       "type": "discurso",
-      "title": "El nuevo presidente de la Fed deja abierta la puerta a subir tasas",
-      "summary": "Kevin Warsh, el nuevo titular de la Reserva Federal de EE.UU., dejó en claro que tiene una inclinación hacia tasas más altas, pero aclaró que sus decisiones dependerán de cómo vengan los datos económicos.",
-      "detail": "La postura de Warsh se llama 'hawkish' (dura): prefiere tasas altas para combatir la inflación. Pero al dejar opciones abiertas según los datos, genera incertidumbre en los mercados. Entender estas señales es clave en finanzas: los inversores mueven millones en función de lo que dice un presidente de banco central, incluso antes de que tome decisiones concretas.",
+      "title": "El nuevo presidente de la Fed, Kevin Warsh, insinuó tasas más altas pero dejó opciones abiertas",
+      "summary": "Kevin Warsh, el nuevo titular de la Reserva Federal, dejó en claro que se inclina por tasas de interés más altas, aunque aclaró que sus decisiones dependerán de los datos económicos que vayan llegando.",
+      "detail": "La ambigüedad deliberada de un presidente de la Fed es en sí misma una herramienta de política: al no comprometerse con un camino fijo, el banco central mantiene su flexibilidad y evita que el mercado 'adelante' movimientos que podrían desestabilizar. Para quien aprende finanzas, esto ilustra el concepto de 'data-dependent policy': los bancos centrales no siguen un calendario fijo, sino que reaccionan a lo que muestran los números.",
       "tags": [
         "Fed",
-        "Warsh",
-        "tasas"
+        "tasas",
+        "Warsh"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
@@ -70,15 +87,32 @@
       "tickers": []
     },
     {
-      "id": "eli-lilly-resultados-q3",
+      "id": "uk-budget-2026",
+      "type": "economia",
+      "title": "El Reino Unido presentó su presupuesto: baja facturas de energía, sube impuestos a bancos y refuerza defensa",
+      "summary": "El gobierno británico anunció un presupuesto que reduce los costos de energía para los hogares, aumenta los impuestos a los bancos y destina miles de millones a defensa, Ucrania e inteligencia artificial.",
+      "detail": "Un presupuesto nacional es la hoja de ruta fiscal de un gobierno: decide quién paga más, quién recibe más y en qué se invierte. Subir impuestos a los bancos puede afectar su rentabilidad y el precio de sus acciones, mientras que el gasto en defensa e IA señala prioridades estratégicas. Para alguien que aprende finanzas, los presupuestos nacionales son eventos clave porque mueven mercados de bonos, divisas y sectores específicos.",
+      "tags": [
+        "presupuesto",
+        "Reino Unido",
+        "política fiscal"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+      "published_at": "2026-10-28T15:39:14Z",
+      "fecha_evento": "2026-10-28",
+      "tickers": []
+    },
+    {
+      "id": "eli-lilly-q3-2026",
       "type": "empresa",
-      "title": "Eli Lilly sube su previsión de ventas impulsada por sus fármacos contra la obesidad",
-      "summary": "Eli Lilly reportó que las ventas de Zepbound (obesidad) y Mounjaro (diabetes) volvieron a dispararse en el tercer trimestre, y la empresa elevó sus proyecciones de ventas para el año.",
-      "detail": "Eli Lilly es una de las empresas farmacéuticas más grandes del mundo y sus medicamentos para obesidad y diabetes generaron una de las historias de crecimiento más grandes del mercado en los últimos años. Cuando una empresa sube su guidance (proyecciones), suele ser una señal positiva para el precio de su acción. Este caso también ilustra cómo una tendencia de salud global puede generar oportunidades de inversión.",
+      "title": "Eli Lilly sube sus proyecciones de ventas impulsada por sus medicamentos contra la obesidad",
+      "summary": "Eli Lilly reportó que las ventas de Zepbound (obesidad) y Mounjaro (diabetes) volvieron a dispararse en el tercer trimestre de 2026, y el CEO habla de un mercado de obesidad con potencial de expansión 'dramática'.",
+      "detail": "El mercado de medicamentos contra la obesidad es uno de los más dinámicos del mundo y empresas como Eli Lilly son protagonistas centrales. Cuando una compañía sube sus proyecciones de ventas (guidance), generalmente el precio de la acción sube porque el mercado descuenta mejores ganancias futuras. Este caso también muestra cómo una innovación médica puede transformar el valor de una empresa en pocos años.",
       "tags": [
         "farmacéutica",
-        "earnings",
-        "obesidad"
+        "obesidad",
+        "resultados"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
@@ -89,98 +123,37 @@
       ]
     },
     {
-      "id": "starbucks-resultados-q4",
+      "id": "anthropic-ipo-2026",
       "type": "empresa",
-      "title": "Starbucks superó expectativas en EE.UU. pero su negocio internacional decepcionó",
-      "summary": "Las tiendas de Starbucks en Estados Unidos superaron las expectativas de ventas comparables, pero su negocio internacional no llegó a los números esperados por Wall Street.",
-      "detail": "Los resultados de Starbucks muestran una dicotomía entre el mercado doméstico en recuperación y el internacional bajo presión, posiblemente por China. En finanzas, esto enseña a mirar los resultados por segmento y no solo el número total: una empresa puede parecer bien globalmente pero tener riesgos concentrados en ciertas regiones.",
+      "title": "Anthropic presentó su prospecto para salir a bolsa antes de Acción de Gracias",
+      "summary": "La empresa de inteligencia artificial Anthropic, creadora del modelo Claude, presentó su prospecto de IPO el 26 de octubre, poniendo en marcha el proceso para su debut bursátil previsto antes de Thanksgiving.",
+      "detail": "Una IPO (oferta pública inicial) es cuando una empresa privada vende acciones al público por primera vez. El prospecto es el documento oficial donde la empresa revela sus finanzas, riesgos y planes. Las IPOs de empresas de IA generan mucha atención porque el sector está en el centro de la inversión global, aunque los retornos históricos de IPOs de alto perfil suelen ser muy variables en el corto plazo.",
       "tags": [
-        "consumo",
-        "earnings",
-        "multinacional"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-      "published_at": "2026-10-29T21:29:59Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": [
-        "SBUX"
-      ]
-    },
-    {
-      "id": "bitcoin-baja-80k",
-      "type": "mercado",
-      "title": "Bitcoin cayó por debajo de los 80.000 dólares en medio de incertidumbre",
-      "summary": "Bitcoin bajó 1,19% hasta los 80.297 dólares, Ethereum cayó 1,84% y Solana perdió 3,26%. La presión se da en un contexto de aversión al riesgo vinculada a la incertidumbre por resultados de grandes tecnológicas.",
-      "detail": "Cuando los inversores se ponen cautelosos ('risk-off'), tienden a salir de activos volátiles como las criptomonedas. Este movimiento muestra la correlación que existe entre el mercado cripto y el humor general de los mercados financieros globales. Para alguien que aprende finanzas, entender la aversión al riesgo es fundamental para interpretar por qué suben o bajan activos muy distintos al mismo tiempo.",
-      "tags": [
-        "cripto",
-        "Bitcoin",
-        "riesgo"
+        "IPO",
+        "inteligencia artificial",
+        "bolsa"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/crypto-market-today-oct-29-bitcoin-slides-below-80k-big-tech-earnings-uncertainty-and",
-      "published_at": "2026-10-29T21:40:02Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": [
-        "BTC",
-        "ETH",
-        "SOL"
-      ]
+      "source_url": "https://www.nasdaq.com/articles/anthropic-ipo-will-be-epic-failure-based-what-history-tells-us",
+      "published_at": "2026-10-30T11:26:01Z",
+      "fecha_evento": "2026-10-26",
+      "tickers": []
     },
     {
-      "id": "rivian-resultados-q3",
-      "type": "empresa",
-      "title": "Rivian superó estimativas y mejoró su guía anual gracias al software y el R2",
-      "summary": "Rivian reportó resultados del tercer trimestre por encima de lo esperado, impulsados por los ingresos de software y la entrega del modelo R2. Además, revisó al alza sus proyecciones para 2026.",
-      "detail": "Rivian es una de las apuestas más seguidas en el sector de autos eléctricos y compite en el segmento donde también operan Tesla y otros. Que mejore su guidance es una señal de que el negocio avanza mejor de lo previsto. El componente de software como fuente de ingresos es un cambio de modelo de negocio relevante en la industria automotriz: el margen del software suele ser mucho mayor que el de fabricar autos.",
-      "tags": [
-        "autos eléctricos",
-        "earnings",
-        "software"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-      "published_at": "2026-10-29T21:52:27Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": [
-        "RIVN"
-      ]
-    },
-    {
-      "id": "marvell-cae-lumentum",
-      "type": "mercado",
-      "title": "Marvell cayó 13% en bolsa tras rumores de compra de Lumentum",
-      "summary": "Las acciones de Marvell Technology bajaron más de 13% después de que trascendiera que la empresa estaría en conversaciones avanzadas para comprar Lumentum Holdings.",
-      "detail": "Cuando una empresa anuncia o se filtra que va a hacer una adquisición grande, su acción suele caer porque los inversores temen que pague demasiado o que se endeude en exceso para financiar la operación. Esto ilustra un principio clásico en finanzas corporativas: el riesgo de las fusiones y adquisiciones no siempre beneficia a los accionistas del comprador.",
-      "tags": [
-        "fusiones",
-        "semiconductores",
-        "acciones"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-29-marvell-falls-lumentum-acquisition-talks",
-      "published_at": "2026-10-29T21:43:30Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": [
-        "MRVL"
-      ]
-    },
-    {
-      "id": "uk-presupuesto-2026",
+      "id": "honda-canada-tariffs-2026",
       "type": "economia",
-      "title": "El Reino Unido presentó un presupuesto con ajuste de tarifas de energía, suba de impuestos a bancos y más gasto en defensa",
-      "summary": "El gobierno del Reino Unido presentó su presupuesto de otoño: reduce los costos de energía para los hogares, sube impuestos a los bancos y destina más fondos a defensa, Ucrania e inteligencia artificial.",
-      "detail": "Un presupuesto nacional es la hoja de ruta fiscal de un gobierno: define cómo recauda y gasta. Subir impuestos a los bancos puede afectar sus ganancias y el precio de sus acciones. Aumentar el gasto en defensa e IA implica más deuda pública, lo que puede presionar las tasas de interés del país. Para alguien aprendiendo finanzas, los presupuestos son eventos clave que mueven mercados de bonos y divisas.",
+      "title": "Honda advierte que aranceles del 50% sobre autos canadienses serían 'catastróficos'",
+      "summary": "Trump amenazó con duplicar los aranceles sobre vehículos y partes canadienses del 25% al 50% si no se alcanza un acuerdo comercial, y Honda alertó que eso sería catastrófico para la industria automotriz.",
+      "detail": "Los aranceles son impuestos que un país cobra a los productos importados, y cuando suben tanto, encarecen los autos y complican las cadenas de producción que cruzan fronteras. Una guerra comercial entre EE.UU. y Canadá afectaría a toda la industria automotriz norteamericana, con impacto en empleo, precios y ganancias de las empresas del sector. Este tipo de tensiones comerciales también suele generar volatilidad en los mercados bursátiles y en el tipo de cambio.",
       "tags": [
-        "fiscal",
-        "Reino Unido",
-        "presupuesto"
+        "aranceles",
+        "automotriz",
+        "comercio"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-      "published_at": "2026-10-28T15:39:14Z",
-      "fecha_evento": "2026-10-28",
+      "source_url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+      "published_at": "2026-10-27T17:53:47Z",
+      "fecha_evento": "2026-10-27",
       "tickers": []
     }
   ],
@@ -195,25 +168,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.565",
       "valor_num": 1565.0,
-      "delta_pct": -0.63
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.569",
       "valor_num": 1568.8,
-      "delta_pct": 0.51
+      "delta_pct": -0.27
     },
     {
       "label": "CCL",
       "valor": "$1.650",
       "valor_num": 1650.3,
-      "delta_pct": -0.33
+      "delta_pct": -0.91
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 78.921",
-      "valor_num": 78921.0,
-      "delta_pct": -2.87
+      "valor": "US$ 77.324",
+      "valor_num": 77324.0,
+      "delta_pct": -3.45
     },
     {
       "label": "S&P 500",
@@ -223,9 +196,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.033",
-      "valor_num": 4033.3,
-      "delta_pct": -0.13
+      "valor": "US$ 3.979",
+      "valor_num": 3978.7,
+      "delta_pct": -1.48
     }
   ]
 }
