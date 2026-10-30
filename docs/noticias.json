@@ -1,33 +1,16 @@
 {
-  "generated_at": "2026-10-30T12:01:46.359294+00:00",
+  "generated_at": "2026-10-30T22:01:31.112540+00:00",
   "items": [
     {
-      "id": "eurozone-gdp-q3-2026",
-      "type": "economia",
-      "title": "La economía de la eurozona creció 0,4% en el tercer trimestre, pero Francia se contrajo",
-      "summary": "La zona euro mostró una resiliencia sorprendente en el tercer trimestre de 2026, aunque Francia registró una contracción. Los analistas advierten que persisten desafíos de productividad, competitividad industrial y presiones demográficas.",
-      "detail": "El PBI es el indicador más amplio de la salud económica de un país o región. Que la eurozona crezca, aunque sea poco, muestra que el bloque resiste, pero la contracción de Francia —una de sus economías más grandes— es una señal de alerta. Para inversores, un bloque europeo débil puede afectar el valor del euro y las decisiones del BCE sobre tasas de interés.",
-      "tags": [
-        "eurozona",
-        "PBI",
-        "Francia"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-      "published_at": "2026-10-30T11:16:46Z",
-      "fecha_evento": "2026-10-30",
-      "tickers": []
-    },
-    {
-      "id": "ecb-rate-hold-2026",
-      "type": "reunion",
-      "title": "El Banco Central Europeo mantuvo su tasa de interés en 2,5%",
-      "summary": "El BCE decidió mantener su tasa clave en 2,5%, una pausa que el mercado interpretó como hawkish (favorable a subas futuras). Los inversores estiman un 67% de probabilidad de una suba de tasas en diciembre.",
-      "detail": "Cuando un banco central 'pausa' pero el mercado lo lee como hawkish, significa que no bajó las tasas pero dejó abierta la puerta a subirlas pronto. Esto impacta en los bonos europeos (suben los rendimientos) y en el euro. Para alguien que aprende finanzas, es clave entender que no solo importa la decisión del día, sino lo que el banco central señala sobre el futuro, algo que se llama 'forward guidance'.",
+      "id": "ecb-rate-hold-oct2026",
+      "type": "mercado",
+      "title": "El BCE mantuvo las tasas en 2,5% y el mercado apuesta a una suba en diciembre",
+      "summary": "El Banco Central Europeo decidió mantener su tasa de interés de referencia en 2,5%. El mercado interpretó la pausa como hawkish y ya descuenta un 67% de probabilidad de una suba en diciembre.",
+      "detail": "Cuando un banco central pausa las subas pero deja la puerta abierta a más ajustes, se llama 'pausa hawkish'. Esto le importa a cualquier inversor porque las tasas europeas afectan el valor del euro, los bonos de la zona y los mercados emergentes. Si el BCE sube en diciembre, el costo del crédito en Europa sube y puede presionar a economías como la argentina que dependen de financiamiento externo.",
       "tags": [
         "BCE",
-        "tasas",
-        "política monetaria"
+        "tasas de interés",
+        "Europa"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
@@ -36,15 +19,15 @@
       "tickers": []
     },
     {
-      "id": "lagarde-ecb-exit-2026",
+      "id": "lagarde-ecb-exit",
       "type": "discurso",
-      "title": "Lagarde anunció que dejará la presidencia del BCE en febrero próximo",
-      "summary": "Christine Lagarde confirmó que se irá del Banco Central Europeo el 7 de febrero del año que viene, abriendo el debate sobre quién será su sucesor y qué rumbo tomará la política monetaria europea.",
-      "detail": "El cambio de conducción en un banco central es un evento relevante para los mercados porque cada presidente tiene su propia visión sobre inflación y tasas. La incertidumbre sobre el sucesor de Lagarde puede generar volatilidad en activos europeos. Este tipo de transiciones muestra cómo las personas al mando de instituciones clave influyen directamente en la economía global.",
+      "title": "Christine Lagarde anunció que dejará la presidencia del BCE en febrero",
+      "summary": "La presidenta del Banco Central Europeo, Christine Lagarde, anunció que se retirará del cargo el 7 de febrero del año que viene, lo que abre el debate sobre quién la reemplazará.",
+      "detail": "El presidente de un banco central es clave porque sus decisiones sobre tasas afectan a toda la economía de la región. Un cambio de liderazgo genera incertidumbre: los mercados no saben si el sucesor será más hawkish (pro-subas de tasas) o dovish (pro-bajas). Este tipo de transiciones suelen generar volatilidad en el euro y en los bonos europeos.",
       "tags": [
         "BCE",
         "Lagarde",
-        "política monetaria"
+        "liderazgo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
@@ -53,15 +36,15 @@
       "tickers": []
     },
     {
-      "id": "us-gdp-q3-pce-2026",
+      "id": "us-gdp-q3-2026",
       "type": "economia",
-      "title": "El PBI de EE.UU. creció 3,4% en el tercer trimestre y la inflación de septiembre se aceleró",
-      "summary": "La economía estadounidense creció más de lo esperado en el tercer trimestre de 2026, pero la inflación medida por el índice PCE se proyecta en 3,7% anual en septiembre, por encima del objetivo de la Fed.",
-      "detail": "El PBI fuerte combinado con inflación al alza es una combinación complicada para la Reserva Federal: la economía no necesita estímulo, pero los precios siguen subiendo. El índice PCE es el favorito de la Fed para medir inflación, y un dato alto refuerza la idea de que las tasas podrían seguir subiendo. Esto afecta a todo el mundo porque una Fed más dura fortalece el dólar y encarece la deuda de países emergentes.",
+      "title": "La economía de EE.UU. creció 3,4% en el tercer trimestre, más de lo esperado",
+      "summary": "El PBI de Estados Unidos subió un 3,4% en el tercer trimestre, superando las expectativas. Al mismo tiempo, la inflación de septiembre aceleró, con el índice PCE proyectado en 3,7% anual.",
+      "detail": "El PBI mide cuánto produce una economía; si crece más de lo esperado junto con inflación alta, la Reserva Federal tiene más razones para mantener o subir las tasas de interés. Esto fortalece al dólar y puede presionar a monedas emergentes como el peso argentino. Para alguien que ahorra en dólares o invierte en bonos dolarizados, este dato es muy relevante.",
       "tags": [
         "PBI",
-        "inflación",
-        "Fed"
+        "EE.UU.",
+        "inflación"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
@@ -70,11 +53,11 @@
       "tickers": []
     },
     {
-      "id": "warsh-fed-rates-2026",
+      "id": "warsh-fed-rates",
       "type": "discurso",
-      "title": "El nuevo presidente de la Fed, Kevin Warsh, insinuó tasas más altas pero dejó opciones abiertas",
-      "summary": "Kevin Warsh, el nuevo titular de la Reserva Federal, dejó en claro que se inclina por tasas de interés más altas, aunque aclaró que sus decisiones dependerán de los datos económicos que vayan llegando.",
-      "detail": "La ambigüedad deliberada de un presidente de la Fed es en sí misma una herramienta de política: al no comprometerse con un camino fijo, el banco central mantiene su flexibilidad y evita que el mercado 'adelante' movimientos que podrían desestabilizar. Para quien aprende finanzas, esto ilustra el concepto de 'data-dependent policy': los bancos centrales no siguen un calendario fijo, sino que reaccionan a lo que muestran los números.",
+      "title": "El nuevo presidente de la Fed, Kevin Warsh, insinúa tasas más altas pero deja opciones abiertas",
+      "summary": "Kevin Warsh, el nuevo presidente de la Reserva Federal, dejó en claro que se inclina por mantener tasas elevadas, aunque aclaró que tomará decisiones según los datos que vayan llegando.",
+      "detail": "El titular de la Fed es la figura más influyente en las tasas de interés globales. Su postura 'hawkish' (favorable a tasas altas) implica que el crédito seguirá caro en EE.UU., lo que fortalece al dólar y encarece la deuda de países emergentes. Para Argentina, que busca financiamiento externo, tasas altas en EE.UU. son una mala noticia porque encarecen el acceso al mercado de capitales.",
       "tags": [
         "Fed",
         "tasas",
@@ -87,32 +70,90 @@
       "tickers": []
     },
     {
-      "id": "uk-budget-2026",
+      "id": "eurozone-gdp-q3",
       "type": "economia",
-      "title": "El Reino Unido presentó su presupuesto: baja facturas de energía, sube impuestos a bancos y refuerza defensa",
-      "summary": "El gobierno británico anunció un presupuesto que reduce los costos de energía para los hogares, aumenta los impuestos a los bancos y destina miles de millones a defensa, Ucrania e inteligencia artificial.",
-      "detail": "Un presupuesto nacional es la hoja de ruta fiscal de un gobierno: decide quién paga más, quién recibe más y en qué se invierte. Subir impuestos a los bancos puede afectar su rentabilidad y el precio de sus acciones, mientras que el gasto en defensa e IA señala prioridades estratégicas. Para alguien que aprende finanzas, los presupuestos nacionales son eventos clave porque mueven mercados de bonos, divisas y sectores específicos.",
+      "title": "La economía de la eurozona creció 0,4% en el tercer trimestre, pero Francia se contrajo",
+      "summary": "La zona euro mostró una resiliencia inesperada con un crecimiento del 0,4% en el tercer trimestre, aunque Francia registró una contracción. Analistas advierten sobre baja productividad y desafíos de competitividad industrial.",
+      "detail": "El PBI de la eurozona es un termómetro de la salud económica de Europa, el mayor bloque comercial del mundo. Que Francia, la segunda economía de la región, se contraiga es una señal de alerta. Este dato puede influir en las decisiones del BCE sobre tasas y afectar al euro, que impacta indirectamente en el comercio y las inversiones argentinas con Europa.",
       "tags": [
-        "presupuesto",
-        "Reino Unido",
-        "política fiscal"
+        "eurozona",
+        "PBI",
+        "Francia"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-      "published_at": "2026-10-28T15:39:14Z",
-      "fecha_evento": "2026-10-28",
+      "source_url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+      "published_at": "2026-10-30T11:16:46Z",
+      "fecha_evento": "2026-10-30",
       "tickers": []
     },
     {
-      "id": "eli-lilly-q3-2026",
+      "id": "intel-plunge-oct2026",
       "type": "empresa",
-      "title": "Eli Lilly sube sus proyecciones de ventas impulsada por sus medicamentos contra la obesidad",
-      "summary": "Eli Lilly reportó que las ventas de Zepbound (obesidad) y Mounjaro (diabetes) volvieron a dispararse en el tercer trimestre de 2026, y el CEO habla de un mercado de obesidad con potencial de expansión 'dramática'.",
-      "detail": "El mercado de medicamentos contra la obesidad es uno de los más dinámicos del mundo y empresas como Eli Lilly son protagonistas centrales. Cuando una compañía sube sus proyecciones de ventas (guidance), generalmente el precio de la acción sube porque el mercado descuenta mejores ganancias futuras. Este caso también muestra cómo una innovación médica puede transformar el valor de una empresa en pocos años.",
+      "title": "Intel se desplomó casi 29% en un solo día por una perspectiva débil",
+      "summary": "Las acciones de Intel cayeron un 28,58% el viernes, cerrando en 65,76 dólares, en una de las peores jornadas de la compañía en décadas. La caída ocurrió a pesar de que Intel superó las expectativas de ganancias trimestrales, pero los inversores reaccionaron negativamente a su perspectiva futura.",
+      "detail": "Este caso ilustra un concepto clave: en los mercados no basta con ganar bien hoy, lo que mueve el precio de una acción es qué se espera para el futuro. Una perspectiva débil puede provocar caídas enormes incluso cuando los resultados presentes son buenos. Intel perdió unos 140 mil millones de dólares en valor de mercado en un día, lo que muestra cuánto peso tienen las proyecciones en las valuaciones.",
       "tags": [
+        "Intel",
+        "acciones",
+        "tecnología"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-30-intel-plunges-nearly-29-weak-outlook-rattles-wall-street",
+      "published_at": "2026-10-30T21:20:02Z",
+      "fecha_evento": "2026-10-30",
+      "tickers": [
+        "INTC"
+      ]
+    },
+    {
+      "id": "amazon-miss-oct2026",
+      "type": "empresa",
+      "title": "Amazon decepcionó al mercado al no cumplir expectativas de ingresos y ganancias",
+      "summary": "Amazon cerró el viernes con una baja del 1,41%, llegando a 240,35 dólares, después de que sus resultados no alcanzaron las expectativas de ingresos y ganancias. Los analistas recortaron sus precios objetivo durante la jornada.",
+      "detail": "Amazon es una de las empresas más grandes del mundo y su rendimiento refleja el estado del comercio electrónico y la computación en la nube (AWS). Cuando una empresa de este tamaño defrauda expectativas, puede arrastrar a todo el mercado tecnológico. Los inversores estaban atentos al crecimiento de AWS y al gasto en inteligencia artificial, dos temas centrales para el sector.",
+      "tags": [
+        "Amazon",
+        "resultados",
+        "tecnología"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-30-amazon-misses-revenue-and-earnings-expectations",
+      "published_at": "2026-10-30T21:35:02Z",
+      "fecha_evento": "2026-10-30",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "bitcoin-binance-hack",
+      "type": "mercado",
+      "title": "Bitcoin cayó y el mercado cripto se sacudió tras un hackeo de 6.300 millones de dólares a Binance",
+      "summary": "Bitcoin bajó un 1,18% hasta 76.870 dólares, mientras Ethereum y Solana también retrocedieron. El mercado cripto quedó bajo presión luego de que Binance sufriera un hackeo por 6.300 millones de dólares.",
+      "detail": "Los hackeos a exchanges (casas de cambio cripto) son uno de los mayores riesgos del ecosistema digital. Cuando una plataforma tan grande como Binance es vulnerada, genera desconfianza generalizada y puede provocar ventas masivas. Este evento muestra por qué la seguridad y la custodia de activos digitales son conceptos fundamentales para quien invierte en criptomonedas.",
+      "tags": [
+        "Bitcoin",
+        "cripto",
+        "hackeo"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/crypto-market-today-oct-30-bitcoin-tests-key-support-binance-hack-and-tech-sell-rattle",
+      "published_at": "2026-10-30T21:10:02Z",
+      "fecha_evento": "2026-10-30",
+      "tickers": [
+        "BTC",
+        "ETH"
+      ]
+    },
+    {
+      "id": "eli-lilly-obesity-q3",
+      "type": "empresa",
+      "title": "Eli Lilly subió su perspectiva de ventas por el boom de sus medicamentos contra la obesidad",
+      "summary": "Eli Lilly reportó un fuerte crecimiento en las ventas de Zepbound y Mounjaro en el tercer trimestre y elevó su proyección de ingresos para el año, impulsada por la expansión del mercado de tratamientos contra la obesidad.",
+      "detail": "El mercado de medicamentos contra la obesidad es uno de los de mayor crecimiento en la industria farmacéutica global. Eli Lilly es una de las líderes en este segmento y sus resultados muestran cómo una innovación médica puede transformar el valor de una empresa. Para alguien que aprende finanzas, este caso ilustra cómo los catalizadores de largo plazo (una nueva droga exitosa) pueden sostener el precio de una acción más allá de los ciclos económicos.",
+      "tags": [
+        "Eli Lilly",
         "farmacéutica",
-        "obesidad",
-        "resultados"
+        "obesidad"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
@@ -123,37 +164,20 @@
       ]
     },
     {
-      "id": "anthropic-ipo-2026",
-      "type": "empresa",
-      "title": "Anthropic presentó su prospecto para salir a bolsa antes de Acción de Gracias",
-      "summary": "La empresa de inteligencia artificial Anthropic, creadora del modelo Claude, presentó su prospecto de IPO el 26 de octubre, poniendo en marcha el proceso para su debut bursátil previsto antes de Thanksgiving.",
-      "detail": "Una IPO (oferta pública inicial) es cuando una empresa privada vende acciones al público por primera vez. El prospecto es el documento oficial donde la empresa revela sus finanzas, riesgos y planes. Las IPOs de empresas de IA generan mucha atención porque el sector está en el centro de la inversión global, aunque los retornos históricos de IPOs de alto perfil suelen ser muy variables en el corto plazo.",
+      "id": "gold-plunge-oct2026",
+      "type": "mercado",
+      "title": "El oro cayó a su precio más bajo en un año pese a la tensión en Medio Oriente",
+      "summary": "El precio del oro se desplomó hasta su nivel más bajo en un año, lo que sorprendió al mercado dado que la tensión en Oriente Medio suele impulsar a los activos refugio como el metal dorado.",
+      "detail": "El oro es considerado un 'activo refugio': cuando hay incertidumbre geopolítica, los inversores suelen comprarlo para protegerse. Que caiga en un contexto de tensión inusual sugiere que otros factores —como tasas de interés altas en EE.UU. o un dólar fuerte— están pesando más. Entender por qué el oro no siempre sube cuando hay miedo ayuda a comprender la complejidad de los mercados financieros.",
       "tags": [
-        "IPO",
-        "inteligencia artificial",
-        "bolsa"
+        "oro",
+        "activo refugio",
+        "mercados"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/anthropic-ipo-will-be-epic-failure-based-what-history-tells-us",
-      "published_at": "2026-10-30T11:26:01Z",
-      "fecha_evento": "2026-10-26",
-      "tickers": []
-    },
-    {
-      "id": "honda-canada-tariffs-2026",
-      "type": "economia",
-      "title": "Honda advierte que aranceles del 50% sobre autos canadienses serían 'catastróficos'",
-      "summary": "Trump amenazó con duplicar los aranceles sobre vehículos y partes canadienses del 25% al 50% si no se alcanza un acuerdo comercial, y Honda alertó que eso sería catastrófico para la industria automotriz.",
-      "detail": "Los aranceles son impuestos que un país cobra a los productos importados, y cuando suben tanto, encarecen los autos y complican las cadenas de producción que cruzan fronteras. Una guerra comercial entre EE.UU. y Canadá afectaría a toda la industria automotriz norteamericana, con impacto en empleo, precios y ganancias de las empresas del sector. Este tipo de tensiones comerciales también suele generar volatilidad en los mercados bursátiles y en el tipo de cambio.",
-      "tags": [
-        "aranceles",
-        "automotriz",
-        "comercio"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
-      "published_at": "2026-10-27T17:53:47Z",
-      "fecha_evento": "2026-10-27",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
+      "published_at": "2026-10-30T21:30:00Z",
+      "fecha_evento": "2026-10-30",
       "tickers": []
     }
   ],
@@ -172,33 +196,33 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.569",
-      "valor_num": 1568.8,
-      "delta_pct": -0.27
+      "valor": "$1.575",
+      "valor_num": 1575.0,
+      "delta_pct": 0.12
     },
     {
       "label": "CCL",
-      "valor": "$1.650",
-      "valor_num": 1650.3,
-      "delta_pct": -0.91
+      "valor": "$1.658",
+      "valor_num": 1658.5,
+      "delta_pct": -0.41
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.324",
-      "valor_num": 77324.0,
-      "delta_pct": -3.45
+      "valor": "US$ 76.671",
+      "valor_num": 76671.0,
+      "delta_pct": -2.85
     },
     {
       "label": "S&P 500",
-      "valor": "7.720",
-      "valor_num": 7720.39,
-      "delta_pct": 0.74
+      "valor": "7.580",
+      "valor_num": 7580.07,
+      "delta_pct": -0.57
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.979",
-      "valor_num": 3978.7,
-      "delta_pct": -1.48
+      "valor": "US$ 3.885",
+      "valor_num": 3884.9,
+      "delta_pct": -3.8
     }
   ]
 }
