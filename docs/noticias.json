@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-31T12:01:26.707072+00:00",
+  "generated_at": "2026-10-31T22:01:15.938386+00:00",
   "items": [
     {
-      "id": "ecb-tasas-octubre-2026",
+      "id": "ecb-tasa-octubre-2026",
       "type": "mercado",
-      "title": "El Banco Central Europeo mantuvo su tasa de interés en 2,5%",
-      "summary": "El BCE decidió no cambiar su tasa de referencia, que quedó en 2,5%. El mercado interpretó la decisión como una pausa hawkish y estima un 67% de probabilidad de que haya una suba de tasas en diciembre.",
-      "detail": "Cuando un banco central 'pausa' pero el mercado lo lee como hawkish, significa que esperan que las tasas suban pronto. Las tasas de interés del BCE afectan el costo del crédito en toda Europa y también influyen en el valor del euro frente a otras monedas, lo que impacta en el comercio global y en economías emergentes como la argentina que exportan a Europa.",
+      "title": "El Banco Central Europeo mantuvo su tasa en 2,5%",
+      "summary": "El BCE decidió no mover su tasa de interés de referencia, que queda en 2,5%. El mercado interpretó la pausa como una señal dura y ahora estima un 67% de probabilidad de una suba en diciembre.",
+      "detail": "Cuando un banco central 'pausa' pero deja la puerta abierta a nuevas subas, el mercado lo llama 'pausa hawkish'. Esto importa porque las tasas del BCE afectan el costo del crédito en toda Europa, el valor del euro y los flujos de capital globales. Si sube en diciembre, el dólar y otras monedas podrían reacomodarse, lo que impacta también en economías emergentes como la argentina.",
       "tags": [
+        "banco central",
         "tasas",
-        "BCE",
         "Europa"
       ],
       "source_name": "CNBC",
@@ -19,15 +19,15 @@
       "tickers": []
     },
     {
-      "id": "lagarde-salida-ecb",
+      "id": "lagarde-salida-ecb-2026",
       "type": "discurso",
-      "title": "Christine Lagarde anunció que dejará la presidencia del BCE el 7 de febrero",
-      "summary": "La presidenta del Banco Central Europeo, Christine Lagarde, anunció que se retira de su cargo el 7 de febrero del año que viene, lo que abre el debate sobre quién la reemplazará y qué rumbo tomará la política monetaria europea.",
-      "detail": "El cambio de conducción en un banco central es un evento muy relevante para los mercados porque las decisiones de tasas y el tono de comunicación pueden variar según quién esté al mando. Inversores y analistas intentan anticipar si el sucesor de Lagarde será más hawkish (pro subas de tasas) o dovish (pro bajas), lo que puede mover el valor del euro y los rendimientos de los bonos europeos.",
+      "title": "Christine Lagarde anunció que dejará la presidencia del BCE en febrero",
+      "summary": "La presidenta del Banco Central Europeo, Christine Lagarde, confirmó que se irá del cargo el 7 de febrero del año que viene. Su salida abre el debate sobre quién la reemplazará y qué rumbo tomará la política monetaria europea.",
+      "detail": "El presidente de un banco central es una figura clave: sus palabras y decisiones mueven mercados. Un cambio de conducción puede implicar un giro en la política de tasas o en la comunicación del organismo, generando incertidumbre en los inversores. Para quienes aprenden finanzas, este es un ejemplo claro de cómo el factor político influye en la economía global.",
       "tags": [
         "BCE",
-        "política monetaria",
-        "liderazgo"
+        "liderazgo",
+        "política monetaria"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
@@ -36,28 +36,11 @@
       "tickers": []
     },
     {
-      "id": "fed-warsh-tasas-octubre-2026",
-      "type": "discurso",
-      "title": "El presidente de la Fed, Kevin Warsh, dejó abierta la puerta a una suba de tasas en diciembre",
-      "summary": "El titular de la Reserva Federal de EE.UU., Kevin Warsh, dejó en claro que se inclina por tasas más altas, pero aclaró que la decisión final dependerá de cómo vengan los datos económicos.",
-      "detail": "Warsh usa la ambigüedad como herramienta: al no comprometerse con un camino fijo, mantiene la expectativa del mercado y evita que los inversores apuesten demasiado fuerte en una sola dirección. La Fed es el banco central más influyente del mundo y sus decisiones de tasas impactan directamente en el dólar, en los flujos de capital hacia países emergentes y en los costos de financiamiento globales.",
-      "tags": [
-        "Fed",
-        "tasas",
-        "dólar"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-      "published_at": "2026-10-29T17:32:34Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": []
-    },
-    {
-      "id": "eeuu-pbi-q3-2026",
+      "id": "pce-gdp-eeuu-q3-2026",
       "type": "economia",
-      "title": "El PBI de EE.UU. creció 3,4% en el tercer trimestre, mejor de lo esperado",
-      "summary": "La economía estadounidense sorprendió positivamente al crecer un 3,4% en el tercer trimestre. Sin embargo, el índice de inflación PCE de septiembre también aceleró, complicando el panorama para la Fed.",
-      "detail": "Un PBI más fuerte de lo esperado es buena señal para la economía real, pero si viene acompañado de más inflación, le complica la vida al banco central, que podría verse obligado a subir tasas para enfriarla. Este combo de crecimiento alto e inflación al alza es exactamente lo que mantiene en vilo a los mercados globales, porque tasas más altas en EE.UU. suelen fortalecer el dólar y presionar a las monedas emergentes.",
+      "title": "La economía de EE.UU. creció 3,4% en el tercer trimestre y la inflación se aceleró",
+      "summary": "El PBI de Estados Unidos subió 3,4% en el tercer trimestre, superando las expectativas. Al mismo tiempo, el índice de precios PCE de septiembre aceleró hasta una tasa anual de 3,7%, también por encima de lo proyectado.",
+      "detail": "El PCE es el indicador de inflación que más mira la Reserva Federal para decidir sus tasas. Si la economía crece fuerte y la inflación sube, la Fed tiene más razones para mantener o subir tasas. Tasas altas en EE.UU. hacen más atractivo invertir allá, lo que puede presionar al dólar al alza y generar salida de capitales de países emergentes.",
       "tags": [
         "PBI",
         "inflación",
@@ -70,11 +53,28 @@
       "tickers": []
     },
     {
+      "id": "warsh-fed-tasas-octubre-2026",
+      "type": "discurso",
+      "title": "El nuevo titular de la Fed, Kevin Warsh, insinúa que las tasas podrían seguir altas",
+      "summary": "Kevin Warsh, el nuevo presidente de la Reserva Federal, dejó claro que se inclina por tasas de interés más altas, aunque mantuvo opciones abiertas según cómo evolucionen los datos económicos.",
+      "detail": "El presidente de la Fed es quizás la figura más influyente en los mercados financieros globales. Cuando habla de mantener tasas altas, los inversores ajustan sus expectativas: bonos, acciones y monedas de todo el mundo reaccionan. Que Warsh sea ambiguo a propósito es una herramienta de política: la incertidumbre mantiene al mercado atento y evita movimientos bruscos anticipados.",
+      "tags": [
+        "Fed",
+        "tasas",
+        "Warsh"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+      "published_at": "2026-10-29T17:32:34Z",
+      "fecha_evento": "2026-10-29",
+      "tickers": []
+    },
+    {
       "id": "eurozona-pbi-q3-2026",
       "type": "economia",
-      "title": "La eurozona creció 0,4% en el tercer trimestre, pero Francia se contrajo",
-      "summary": "La economía de la zona euro mostró resiliencia con un crecimiento de 0,4% en el tercer trimestre, aunque Francia registró una contracción. Analistas advierten sobre problemas de productividad y competitividad industrial.",
-      "detail": "El crecimiento desigual dentro de la eurozona es una señal de que no todos los países se benefician igual de la política monetaria común del BCE. Cuando una economía grande como Francia se contrae, aumenta la presión sobre el banco central para que no suba tasas, lo que genera tensión con países que prefieren tasas más altas para controlar la inflación.",
+      "title": "La economía de la eurozona creció 0,4% en el tercer trimestre, pero Francia se contrajo",
+      "summary": "La zona euro mostró una resiliencia mayor a la esperada con un crecimiento de 0,4% en el tercer trimestre, aunque Francia registró una contracción. Analistas advierten sobre desafíos en productividad y competitividad industrial.",
+      "detail": "El PBI de la eurozona es un termómetro de la salud económica de uno de los bloques más grandes del mundo. Que Francia, una de sus principales economías, se haya contraído es una señal de alerta. Para un inversor, esto puede afectar las expectativas sobre las tasas del BCE y el valor del euro, que a su vez impactan en el comercio y las finanzas globales.",
       "tags": [
         "eurozona",
         "PBI",
@@ -87,71 +87,34 @@
       "tickers": []
     },
     {
-      "id": "anthropic-ipo-margen",
+      "id": "anthropic-ipo-nasdaq-2026",
       "type": "empresa",
-      "title": "Anthropic presentó su S-1: márgenes brutos del 85%, pero advierte que no durarán",
-      "summary": "La empresa de inteligencia artificial Anthropic reveló en su prospecto de salida a bolsa que su margen bruto trepó del 12% al 85% en un año, con ingresos de 16.300 millones de dólares en el primer semestre de 2026. Sin embargo, la propia compañía advierte que esos márgenes no son sostenibles.",
-      "detail": "Un margen bruto alto significa que la empresa retiene la mayor parte de cada dólar que gana después de cubrir los costos directos, lo que generalmente es señal de un negocio escalable. Pero cuando la misma empresa advierte que no durará, puede significar que los costos de infraestructura o competencia van a crecer. Para quien aprende finanzas, es un ejemplo clave de cómo leer un S-1 (el prospecto de una IPO) con ojo crítico antes de invertir.",
+      "title": "Anthropic, la empresa detrás del chatbot Claude, planea cotizar en el Nasdaq",
+      "summary": "Anthropic anunció su intención de salir a bolsa en el Nasdaq bajo el ticker ANT. La compañía de inteligencia artificial reportó su primer beneficio operativo y mostró un crecimiento acelerado.",
+      "detail": "Una OPI (oferta pública inicial) es cuando una empresa vende sus acciones al público por primera vez. Anthropic es uno de los actores más relevantes en inteligencia artificial, compitiendo con OpenAI. Su debut bursátil será muy observado porque refleja cuánto vale el mercado a las empresas de IA y puede influir en el apetito inversor por el sector tecnológico en general.",
       "tags": [
-        "IPO",
+        "OPI",
         "inteligencia artificial",
-        "márgenes"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/anthropics-gross-margin-rocketed-85-12-year-s-1-warns-it-wont-last",
-      "published_at": "2026-10-31T11:05:00Z",
-      "fecha_evento": "2026-10-31",
-      "tickers": []
-    },
-    {
-      "id": "nasdaq-burbuja-tech-octubre",
-      "type": "mercado",
-      "title": "El Nasdaq tuvo una caída fuerte y algunos analistas lo comparan con la burbuja del 2000",
-      "summary": "La fuerte baja del viernes en el Nasdaq encendió alarmas entre analistas que ven similitudes con el estallido de la burbuja punto com de 2000. Las acciones de tecnología lideraron las pérdidas en octubre.",
-      "detail": "Comparar una caída actual con la burbuja del 2000 es útil para entender cómo los mercados pueden sobrevalorar empresas tecnológicas cuando hay mucho optimismo. Cuando las valuaciones suben muy rápido sin respaldo en ganancias reales, una corrección puede ser brusca. Para un inversor que está aprendiendo, esta noticia es una oportunidad para estudiar el concepto de burbuja especulativa y la importancia de no comprar solo por el momentum.",
-      "tags": [
-        "Nasdaq",
-        "burbuja",
         "tecnología"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
-      "published_at": "2026-10-30T23:14:00Z",
-      "fecha_evento": "2026-10-30",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/anthropic-intends-trade-nasdaq-under-ticker-ant",
+      "published_at": "2026-10-31T19:05:00Z",
+      "fecha_evento": "2026-10-31",
       "tickers": [
-        "QQQ"
+        "ANT"
       ]
     },
     {
-      "id": "intel-caida-historica-octubre",
+      "id": "eli-lilly-ventas-obesidad-q3-2026",
       "type": "empresa",
-      "title": "Intel sufrió su peor caída bursátil en décadas y perdió 140.000 millones de dólares en valor",
-      "summary": "Las acciones de Intel se derrumbaron en lo que fue su peor jornada en décadas, borrando unos 140.000 millones de dólares de su capitalización de mercado. El negocio de PCs está bajo presión y los precios de chips de memoria cayeron.",
-      "detail": "La capitalización de mercado es el valor total que el mercado le asigna a una empresa: cuando baja drásticamente en un día, significa que los inversores revisaron a la baja sus expectativas sobre las ganancias futuras. El caso de Intel muestra cómo un reporte de resultados puede mover enormemente una acción y también arrastrar a competidores como AMD, que también cayó ante las dudas sobre el sector.",
-      "tags": [
-        "semiconductores",
-        "Intel",
-        "acciones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-      "published_at": "2026-10-30T20:48:00Z",
-      "fecha_evento": "2026-10-30",
-      "tickers": [
-        "INTC",
-        "AMD"
-      ]
-    },
-    {
-      "id": "eli-lilly-outlook-obesidad",
-      "type": "empresa",
-      "title": "Eli Lilly subió su previsión de ventas impulsada por sus drogas contra la obesidad y diabetes",
-      "summary": "Eli Lilly mejoró sus proyecciones de ventas después de que Zepbound y Mounjaro volvieran a mostrar un fuerte crecimiento en el tercer trimestre. El CEO ve espacio para una expansión 'dramática' del mercado de obesidad.",
-      "detail": "Cuando una empresa sube su guidance (proyección de ganancias o ventas futuras), suele ser una señal muy positiva para sus acciones porque indica que el negocio va mejor de lo esperado. Eli Lilly es un ejemplo de cómo una apuesta por un área terapéutica específica, en este caso obesidad y diabetes, puede transformar completamente el valor de una compañía farmacéutica en pocos años.",
+      "title": "Eli Lilly sube su proyección de ventas gracias al boom de los medicamentos contra la obesidad",
+      "summary": "Eli Lilly elevó sus expectativas de ventas después de que Zepbound y Mounjaro, sus medicamentos contra la obesidad y la diabetes, volvieran a dispararse en el tercer trimestre. El CEO habló de una expansión 'dramática' del mercado.",
+      "detail": "El mercado de medicamentos para la obesidad es uno de los de mayor crecimiento en el mundo. Cuando una empresa como Lilly sube su guidance (proyección de ventas), suele ser una señal positiva para sus acciones. Para un inversor, entender cómo los resultados trimestrales y las proyecciones afectan el precio de una acción es una habilidad fundamental.",
       "tags": [
         "farmacéutica",
-        "obesidad",
-        "resultados"
+        "resultados",
+        "salud"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
@@ -160,6 +123,42 @@
       "tickers": [
         "LLY"
       ]
+    },
+    {
+      "id": "rivian-resultados-q3-2026",
+      "type": "empresa",
+      "title": "Rivian superó las estimaciones y mejoró su guía para todo 2026",
+      "summary": "La automotriz eléctrica Rivian tuvo un tercer trimestre mejor de lo esperado, impulsado por los ingresos de software y las entregas del modelo R2. Además, mejoró sus proyecciones para el resto del año.",
+      "detail": "Rivian es una de las apuestas más importantes en el segmento de vehículos eléctricos fuera de Tesla. Que mejore su guidance indica que el negocio se está estabilizando luego de años de pérdidas. Para quienes aprenden a analizar empresas, esto ilustra cómo los ingresos recurrentes por software pueden cambiar la valoración de una compañía automotriz tradicional.",
+      "tags": [
+        "autos eléctricos",
+        "resultados",
+        "tecnología"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+      "published_at": "2026-10-29T21:52:27Z",
+      "fecha_evento": "2026-10-29",
+      "tickers": [
+        "RIVN"
+      ]
+    },
+    {
+      "id": "mercado-laboral-eeuu-2026",
+      "type": "economia",
+      "title": "El mercado laboral de EE.UU. muestra su señal más fuerte en 57 años, pero con trampa",
+      "summary": "Los pedidos de subsidio por desempleo están cerca de mínimos históricos, pero el crecimiento del empleo se mantiene estancado. Un mercado 'congelado' que genera señales contradictorias.",
+      "detail": "El mercado laboral es uno de los datos más importantes para la Fed a la hora de decidir tasas. Un desempleo muy bajo puede significar presiones salariales e inflación; pero si no se crean nuevos empleos, la economía puede estar perdiendo dinamismo. Estas señales contradictorias complican la tarea del banco central y hacen más difícil anticipar sus próximos movimientos.",
+      "tags": [
+        "empleo",
+        "EE.UU.",
+        "Fed"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/us-labor-market-just-delivered-its-strongest-signal-57-years-theres-catch",
+      "published_at": "2026-10-31T20:05:00Z",
+      "fecha_evento": "2026-10-31",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -189,9 +188,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.538",
-      "valor_num": 77538.0,
-      "delta_pct": 0.29
+      "valor": "US$ 77.521",
+      "valor_num": 77521.0,
+      "delta_pct": 1.14
     },
     {
       "label": "S&P 500",
