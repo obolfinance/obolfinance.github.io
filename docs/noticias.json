@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-30T22:01:31.112540+00:00",
+  "generated_at": "2026-10-31T12:01:26.707072+00:00",
   "items": [
     {
-      "id": "ecb-rate-hold-oct2026",
+      "id": "ecb-tasas-octubre-2026",
       "type": "mercado",
-      "title": "El BCE mantuvo las tasas en 2,5% y el mercado apuesta a una suba en diciembre",
-      "summary": "El Banco Central Europeo decidió mantener su tasa de interés de referencia en 2,5%. El mercado interpretó la pausa como hawkish y ya descuenta un 67% de probabilidad de una suba en diciembre.",
-      "detail": "Cuando un banco central pausa las subas pero deja la puerta abierta a más ajustes, se llama 'pausa hawkish'. Esto le importa a cualquier inversor porque las tasas europeas afectan el valor del euro, los bonos de la zona y los mercados emergentes. Si el BCE sube en diciembre, el costo del crédito en Europa sube y puede presionar a economías como la argentina que dependen de financiamiento externo.",
+      "title": "El Banco Central Europeo mantuvo su tasa de interés en 2,5%",
+      "summary": "El BCE decidió no cambiar su tasa de referencia, que quedó en 2,5%. El mercado interpretó la decisión como una pausa hawkish y estima un 67% de probabilidad de que haya una suba de tasas en diciembre.",
+      "detail": "Cuando un banco central 'pausa' pero el mercado lo lee como hawkish, significa que esperan que las tasas suban pronto. Las tasas de interés del BCE afectan el costo del crédito en toda Europa y también influyen en el valor del euro frente a otras monedas, lo que impacta en el comercio global y en economías emergentes como la argentina que exportan a Europa.",
       "tags": [
+        "tasas",
         "BCE",
-        "tasas de interés",
         "Europa"
       ],
       "source_name": "CNBC",
@@ -19,14 +19,14 @@
       "tickers": []
     },
     {
-      "id": "lagarde-ecb-exit",
+      "id": "lagarde-salida-ecb",
       "type": "discurso",
-      "title": "Christine Lagarde anunció que dejará la presidencia del BCE en febrero",
-      "summary": "La presidenta del Banco Central Europeo, Christine Lagarde, anunció que se retirará del cargo el 7 de febrero del año que viene, lo que abre el debate sobre quién la reemplazará.",
-      "detail": "El presidente de un banco central es clave porque sus decisiones sobre tasas afectan a toda la economía de la región. Un cambio de liderazgo genera incertidumbre: los mercados no saben si el sucesor será más hawkish (pro-subas de tasas) o dovish (pro-bajas). Este tipo de transiciones suelen generar volatilidad en el euro y en los bonos europeos.",
+      "title": "Christine Lagarde anunció que dejará la presidencia del BCE el 7 de febrero",
+      "summary": "La presidenta del Banco Central Europeo, Christine Lagarde, anunció que se retira de su cargo el 7 de febrero del año que viene, lo que abre el debate sobre quién la reemplazará y qué rumbo tomará la política monetaria europea.",
+      "detail": "El cambio de conducción en un banco central es un evento muy relevante para los mercados porque las decisiones de tasas y el tono de comunicación pueden variar según quién esté al mando. Inversores y analistas intentan anticipar si el sucesor de Lagarde será más hawkish (pro subas de tasas) o dovish (pro bajas), lo que puede mover el valor del euro y los rendimientos de los bonos europeos.",
       "tags": [
         "BCE",
-        "Lagarde",
+        "política monetaria",
         "liderazgo"
       ],
       "source_name": "CNBC",
@@ -36,32 +36,15 @@
       "tickers": []
     },
     {
-      "id": "us-gdp-q3-2026",
-      "type": "economia",
-      "title": "La economía de EE.UU. creció 3,4% en el tercer trimestre, más de lo esperado",
-      "summary": "El PBI de Estados Unidos subió un 3,4% en el tercer trimestre, superando las expectativas. Al mismo tiempo, la inflación de septiembre aceleró, con el índice PCE proyectado en 3,7% anual.",
-      "detail": "El PBI mide cuánto produce una economía; si crece más de lo esperado junto con inflación alta, la Reserva Federal tiene más razones para mantener o subir las tasas de interés. Esto fortalece al dólar y puede presionar a monedas emergentes como el peso argentino. Para alguien que ahorra en dólares o invierte en bonos dolarizados, este dato es muy relevante.",
-      "tags": [
-        "PBI",
-        "EE.UU.",
-        "inflación"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-      "published_at": "2026-10-29T18:06:31Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": []
-    },
-    {
-      "id": "warsh-fed-rates",
+      "id": "fed-warsh-tasas-octubre-2026",
       "type": "discurso",
-      "title": "El nuevo presidente de la Fed, Kevin Warsh, insinúa tasas más altas pero deja opciones abiertas",
-      "summary": "Kevin Warsh, el nuevo presidente de la Reserva Federal, dejó en claro que se inclina por mantener tasas elevadas, aunque aclaró que tomará decisiones según los datos que vayan llegando.",
-      "detail": "El titular de la Fed es la figura más influyente en las tasas de interés globales. Su postura 'hawkish' (favorable a tasas altas) implica que el crédito seguirá caro en EE.UU., lo que fortalece al dólar y encarece la deuda de países emergentes. Para Argentina, que busca financiamiento externo, tasas altas en EE.UU. son una mala noticia porque encarecen el acceso al mercado de capitales.",
+      "title": "El presidente de la Fed, Kevin Warsh, dejó abierta la puerta a una suba de tasas en diciembre",
+      "summary": "El titular de la Reserva Federal de EE.UU., Kevin Warsh, dejó en claro que se inclina por tasas más altas, pero aclaró que la decisión final dependerá de cómo vengan los datos económicos.",
+      "detail": "Warsh usa la ambigüedad como herramienta: al no comprometerse con un camino fijo, mantiene la expectativa del mercado y evita que los inversores apuesten demasiado fuerte en una sola dirección. La Fed es el banco central más influyente del mundo y sus decisiones de tasas impactan directamente en el dólar, en los flujos de capital hacia países emergentes y en los costos de financiamiento globales.",
       "tags": [
         "Fed",
         "tasas",
-        "Warsh"
+        "dólar"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
@@ -70,11 +53,28 @@
       "tickers": []
     },
     {
-      "id": "eurozone-gdp-q3",
+      "id": "eeuu-pbi-q3-2026",
       "type": "economia",
-      "title": "La economía de la eurozona creció 0,4% en el tercer trimestre, pero Francia se contrajo",
-      "summary": "La zona euro mostró una resiliencia inesperada con un crecimiento del 0,4% en el tercer trimestre, aunque Francia registró una contracción. Analistas advierten sobre baja productividad y desafíos de competitividad industrial.",
-      "detail": "El PBI de la eurozona es un termómetro de la salud económica de Europa, el mayor bloque comercial del mundo. Que Francia, la segunda economía de la región, se contraiga es una señal de alerta. Este dato puede influir en las decisiones del BCE sobre tasas y afectar al euro, que impacta indirectamente en el comercio y las inversiones argentinas con Europa.",
+      "title": "El PBI de EE.UU. creció 3,4% en el tercer trimestre, mejor de lo esperado",
+      "summary": "La economía estadounidense sorprendió positivamente al crecer un 3,4% en el tercer trimestre. Sin embargo, el índice de inflación PCE de septiembre también aceleró, complicando el panorama para la Fed.",
+      "detail": "Un PBI más fuerte de lo esperado es buena señal para la economía real, pero si viene acompañado de más inflación, le complica la vida al banco central, que podría verse obligado a subir tasas para enfriarla. Este combo de crecimiento alto e inflación al alza es exactamente lo que mantiene en vilo a los mercados globales, porque tasas más altas en EE.UU. suelen fortalecer el dólar y presionar a las monedas emergentes.",
+      "tags": [
+        "PBI",
+        "inflación",
+        "EE.UU."
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+      "published_at": "2026-10-29T18:06:31Z",
+      "fecha_evento": "2026-10-29",
+      "tickers": []
+    },
+    {
+      "id": "eurozona-pbi-q3-2026",
+      "type": "economia",
+      "title": "La eurozona creció 0,4% en el tercer trimestre, pero Francia se contrajo",
+      "summary": "La economía de la zona euro mostró resiliencia con un crecimiento de 0,4% en el tercer trimestre, aunque Francia registró una contracción. Analistas advierten sobre problemas de productividad y competitividad industrial.",
+      "detail": "El crecimiento desigual dentro de la eurozona es una señal de que no todos los países se benefician igual de la política monetaria común del BCE. Cuando una economía grande como Francia se contrae, aumenta la presión sobre el banco central para que no suba tasas, lo que genera tensión con países que prefieren tasas más altas para controlar la inflación.",
       "tags": [
         "eurozona",
         "PBI",
@@ -87,73 +87,71 @@
       "tickers": []
     },
     {
-      "id": "intel-plunge-oct2026",
+      "id": "anthropic-ipo-margen",
       "type": "empresa",
-      "title": "Intel se desplomó casi 29% en un solo día por una perspectiva débil",
-      "summary": "Las acciones de Intel cayeron un 28,58% el viernes, cerrando en 65,76 dólares, en una de las peores jornadas de la compañía en décadas. La caída ocurrió a pesar de que Intel superó las expectativas de ganancias trimestrales, pero los inversores reaccionaron negativamente a su perspectiva futura.",
-      "detail": "Este caso ilustra un concepto clave: en los mercados no basta con ganar bien hoy, lo que mueve el precio de una acción es qué se espera para el futuro. Una perspectiva débil puede provocar caídas enormes incluso cuando los resultados presentes son buenos. Intel perdió unos 140 mil millones de dólares en valor de mercado en un día, lo que muestra cuánto peso tienen las proyecciones en las valuaciones.",
+      "title": "Anthropic presentó su S-1: márgenes brutos del 85%, pero advierte que no durarán",
+      "summary": "La empresa de inteligencia artificial Anthropic reveló en su prospecto de salida a bolsa que su margen bruto trepó del 12% al 85% en un año, con ingresos de 16.300 millones de dólares en el primer semestre de 2026. Sin embargo, la propia compañía advierte que esos márgenes no son sostenibles.",
+      "detail": "Un margen bruto alto significa que la empresa retiene la mayor parte de cada dólar que gana después de cubrir los costos directos, lo que generalmente es señal de un negocio escalable. Pero cuando la misma empresa advierte que no durará, puede significar que los costos de infraestructura o competencia van a crecer. Para quien aprende finanzas, es un ejemplo clave de cómo leer un S-1 (el prospecto de una IPO) con ojo crítico antes de invertir.",
       "tags": [
-        "Intel",
-        "acciones",
-        "tecnología"
+        "IPO",
+        "inteligencia artificial",
+        "márgenes"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-30-intel-plunges-nearly-29-weak-outlook-rattles-wall-street",
-      "published_at": "2026-10-30T21:20:02Z",
-      "fecha_evento": "2026-10-30",
-      "tickers": [
-        "INTC"
-      ]
+      "source_url": "https://www.nasdaq.com/articles/anthropics-gross-margin-rocketed-85-12-year-s-1-warns-it-wont-last",
+      "published_at": "2026-10-31T11:05:00Z",
+      "fecha_evento": "2026-10-31",
+      "tickers": []
     },
     {
-      "id": "amazon-miss-oct2026",
-      "type": "empresa",
-      "title": "Amazon decepcionó al mercado al no cumplir expectativas de ingresos y ganancias",
-      "summary": "Amazon cerró el viernes con una baja del 1,41%, llegando a 240,35 dólares, después de que sus resultados no alcanzaron las expectativas de ingresos y ganancias. Los analistas recortaron sus precios objetivo durante la jornada.",
-      "detail": "Amazon es una de las empresas más grandes del mundo y su rendimiento refleja el estado del comercio electrónico y la computación en la nube (AWS). Cuando una empresa de este tamaño defrauda expectativas, puede arrastrar a todo el mercado tecnológico. Los inversores estaban atentos al crecimiento de AWS y al gasto en inteligencia artificial, dos temas centrales para el sector.",
-      "tags": [
-        "Amazon",
-        "resultados",
-        "tecnología"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-oct-30-amazon-misses-revenue-and-earnings-expectations",
-      "published_at": "2026-10-30T21:35:02Z",
-      "fecha_evento": "2026-10-30",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "bitcoin-binance-hack",
+      "id": "nasdaq-burbuja-tech-octubre",
       "type": "mercado",
-      "title": "Bitcoin cayó y el mercado cripto se sacudió tras un hackeo de 6.300 millones de dólares a Binance",
-      "summary": "Bitcoin bajó un 1,18% hasta 76.870 dólares, mientras Ethereum y Solana también retrocedieron. El mercado cripto quedó bajo presión luego de que Binance sufriera un hackeo por 6.300 millones de dólares.",
-      "detail": "Los hackeos a exchanges (casas de cambio cripto) son uno de los mayores riesgos del ecosistema digital. Cuando una plataforma tan grande como Binance es vulnerada, genera desconfianza generalizada y puede provocar ventas masivas. Este evento muestra por qué la seguridad y la custodia de activos digitales son conceptos fundamentales para quien invierte en criptomonedas.",
+      "title": "El Nasdaq tuvo una caída fuerte y algunos analistas lo comparan con la burbuja del 2000",
+      "summary": "La fuerte baja del viernes en el Nasdaq encendió alarmas entre analistas que ven similitudes con el estallido de la burbuja punto com de 2000. Las acciones de tecnología lideraron las pérdidas en octubre.",
+      "detail": "Comparar una caída actual con la burbuja del 2000 es útil para entender cómo los mercados pueden sobrevalorar empresas tecnológicas cuando hay mucho optimismo. Cuando las valuaciones suben muy rápido sin respaldo en ganancias reales, una corrección puede ser brusca. Para un inversor que está aprendiendo, esta noticia es una oportunidad para estudiar el concepto de burbuja especulativa y la importancia de no comprar solo por el momentum.",
       "tags": [
-        "Bitcoin",
-        "cripto",
-        "hackeo"
+        "Nasdaq",
+        "burbuja",
+        "tecnología"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/crypto-market-today-oct-30-bitcoin-tests-key-support-binance-hack-and-tech-sell-rattle",
-      "published_at": "2026-10-30T21:10:02Z",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+      "published_at": "2026-10-30T23:14:00Z",
       "fecha_evento": "2026-10-30",
       "tickers": [
-        "BTC",
-        "ETH"
+        "QQQ"
       ]
     },
     {
-      "id": "eli-lilly-obesity-q3",
+      "id": "intel-caida-historica-octubre",
       "type": "empresa",
-      "title": "Eli Lilly subió su perspectiva de ventas por el boom de sus medicamentos contra la obesidad",
-      "summary": "Eli Lilly reportó un fuerte crecimiento en las ventas de Zepbound y Mounjaro en el tercer trimestre y elevó su proyección de ingresos para el año, impulsada por la expansión del mercado de tratamientos contra la obesidad.",
-      "detail": "El mercado de medicamentos contra la obesidad es uno de los de mayor crecimiento en la industria farmacéutica global. Eli Lilly es una de las líderes en este segmento y sus resultados muestran cómo una innovación médica puede transformar el valor de una empresa. Para alguien que aprende finanzas, este caso ilustra cómo los catalizadores de largo plazo (una nueva droga exitosa) pueden sostener el precio de una acción más allá de los ciclos económicos.",
+      "title": "Intel sufrió su peor caída bursátil en décadas y perdió 140.000 millones de dólares en valor",
+      "summary": "Las acciones de Intel se derrumbaron en lo que fue su peor jornada en décadas, borrando unos 140.000 millones de dólares de su capitalización de mercado. El negocio de PCs está bajo presión y los precios de chips de memoria cayeron.",
+      "detail": "La capitalización de mercado es el valor total que el mercado le asigna a una empresa: cuando baja drásticamente en un día, significa que los inversores revisaron a la baja sus expectativas sobre las ganancias futuras. El caso de Intel muestra cómo un reporte de resultados puede mover enormemente una acción y también arrastrar a competidores como AMD, que también cayó ante las dudas sobre el sector.",
       "tags": [
-        "Eli Lilly",
+        "semiconductores",
+        "Intel",
+        "acciones"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+      "published_at": "2026-10-30T20:48:00Z",
+      "fecha_evento": "2026-10-30",
+      "tickers": [
+        "INTC",
+        "AMD"
+      ]
+    },
+    {
+      "id": "eli-lilly-outlook-obesidad",
+      "type": "empresa",
+      "title": "Eli Lilly subió su previsión de ventas impulsada por sus drogas contra la obesidad y diabetes",
+      "summary": "Eli Lilly mejoró sus proyecciones de ventas después de que Zepbound y Mounjaro volvieran a mostrar un fuerte crecimiento en el tercer trimestre. El CEO ve espacio para una expansión 'dramática' del mercado de obesidad.",
+      "detail": "Cuando una empresa sube su guidance (proyección de ganancias o ventas futuras), suele ser una señal muy positiva para sus acciones porque indica que el negocio va mejor de lo esperado. Eli Lilly es un ejemplo de cómo una apuesta por un área terapéutica específica, en este caso obesidad y diabetes, puede transformar completamente el valor de una compañía farmacéutica en pocos años.",
+      "tags": [
         "farmacéutica",
-        "obesidad"
+        "obesidad",
+        "resultados"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
@@ -162,23 +160,6 @@
       "tickers": [
         "LLY"
       ]
-    },
-    {
-      "id": "gold-plunge-oct2026",
-      "type": "mercado",
-      "title": "El oro cayó a su precio más bajo en un año pese a la tensión en Medio Oriente",
-      "summary": "El precio del oro se desplomó hasta su nivel más bajo en un año, lo que sorprendió al mercado dado que la tensión en Oriente Medio suele impulsar a los activos refugio como el metal dorado.",
-      "detail": "El oro es considerado un 'activo refugio': cuando hay incertidumbre geopolítica, los inversores suelen comprarlo para protegerse. Que caiga en un contexto de tensión inusual sugiere que otros factores —como tasas de interés altas en EE.UU. o un dólar fuerte— están pesando más. Entender por qué el oro no siempre sube cuando hay miedo ayuda a comprender la complejidad de los mercados financieros.",
-      "tags": [
-        "oro",
-        "activo refugio",
-        "mercados"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
-      "published_at": "2026-10-30T21:30:00Z",
-      "fecha_evento": "2026-10-30",
-      "tickers": []
     }
   ],
   "ticker": [
@@ -198,19 +179,19 @@
       "label": "MEP",
       "valor": "$1.575",
       "valor_num": 1575.0,
-      "delta_pct": 0.12
+      "delta_pct": 0.4
     },
     {
       "label": "CCL",
       "valor": "$1.658",
       "valor_num": 1658.5,
-      "delta_pct": -0.41
+      "delta_pct": 0.5
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 76.671",
-      "valor_num": 76671.0,
-      "delta_pct": -2.85
+      "valor": "US$ 77.538",
+      "valor_num": 77538.0,
+      "delta_pct": 0.29
     },
     {
       "label": "S&P 500",
@@ -220,9 +201,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.885",
-      "valor_num": 3884.9,
-      "delta_pct": -3.8
+      "valor": "US$ 3.899",
+      "valor_num": 3898.9,
+      "delta_pct": -3.45
     }
   ]
 }
