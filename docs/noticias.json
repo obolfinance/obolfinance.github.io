@@ -1,49 +1,15 @@
 {
-  "generated_at": "2026-11-01T12:01:23.986274+00:00",
+  "generated_at": "2026-11-01T22:01:25.088402+00:00",
   "items": [
     {
-      "id": "ecb-rate-hold-oct2026",
-      "type": "mercado",
-      "title": "El BCE mantuvo su tasa en 2,5% y los mercados apuestan a una suba en diciembre",
-      "summary": "El Banco Central Europeo decidió no mover su tasa de interés de referencia, que quedó en 2,5%. Los mercados interpretaron la pausa como señal de que podría venir una suba en diciembre, con un 67% de probabilidad priceada.",
-      "detail": "Cuando un banco central 'pausa' pero manda señales de que el próximo movimiento sería una suba, los mercados ajustan rápido: suben las tasas de los bonos y se fortalece la moneda. Esto muestra cómo las expectativas futuras importan tanto como la decisión de hoy. Para alguien que aprende finanzas, es clave entender que los precios de los activos no solo reaccionan a lo que pasa, sino a lo que se espera que pase.",
-      "tags": [
-        "BCE",
-        "tasas",
-        "Europa"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-      "published_at": "2026-10-29T14:48:01Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": []
-    },
-    {
-      "id": "lagarde-ecb-exit",
-      "type": "discurso",
-      "title": "Lagarde anunció que deja la presidencia del BCE en febrero",
-      "summary": "Christine Lagarde confirmó que se va del Banco Central Europeo el 7 de febrero del año que viene. Ya empezaron las especulaciones sobre quién podría reemplazarla.",
-      "detail": "El cambio de liderazgo en un banco central es un evento de alto impacto porque el nuevo presidente puede tener una visión diferente sobre inflación y tasas. Los mercados tienden a ajustar sus expectativas ante la incertidumbre de quién tomará las riendas. Es un buen ejemplo de cómo el factor político y el institucional se mezclan con la economía.",
-      "tags": [
-        "BCE",
-        "Lagarde",
-        "liderazgo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-      "published_at": "2026-10-29T14:53:06Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": []
-    },
-    {
-      "id": "eurozone-gdp-q3",
+      "id": "eurozone-gdp-q3-2026",
       "type": "economia",
       "title": "La economía de la eurozona creció 0,4% en el tercer trimestre, pero Francia se contrajo",
-      "summary": "La zona euro mostró una resiliencia mayor a la esperada con un crecimiento de 0,4% en el tercer trimestre, aunque Francia registró una contracción. Los analistas advierten que persisten problemas de productividad y competitividad industrial.",
-      "detail": "El PBI de la eurozona es uno de los indicadores más seguidos para medir la salud de la segunda gran economía del mundo. Que Francia —una de las economías centrales del bloque— se haya contraído mientras otros países crecieron muestra que el crecimiento no es parejo. Esto complica las decisiones del BCE: si sube tasas para controlar la inflación, puede agravar la debilidad de países como Francia.",
+      "summary": "La zona euro mostró cierta resiliencia al crecer 0,4% en el tercer trimestre, aunque Francia registró una contracción. Los analistas advierten que la baja productividad, los desafíos industriales y las presiones demográficas siguen siendo problemas estructurales.",
+      "detail": "El PBI de la eurozona es un indicador clave del estado de la economía más grande del mundo después de EE.UU. y China. Cuando una de sus economías centrales como Francia se contrae, puede afectar la confianza de los inversores en activos europeos y presionar al Banco Central Europeo a reconsiderar su política monetaria. Para alguien aprendiendo finanzas, esto ilustra cómo el crecimiento económico y las decisiones de bancos centrales están íntimamente ligados.",
       "tags": [
-        "PBI",
         "eurozona",
+        "PBI",
         "crecimiento"
       ],
       "source_name": "CNBC",
@@ -53,86 +19,14 @@
       "tickers": []
     },
     {
-      "id": "us-gdp-q3-pce",
-      "type": "economia",
-      "title": "La economía de EE.UU. creció 3,4% en el tercer trimestre y la inflación de septiembre aceleró",
-      "summary": "El PBI de Estados Unidos subió un 3,4% en el tercer trimestre, superando las expectativas. Al mismo tiempo, el índice de inflación PCE de septiembre habría subido 0,5% mensual, llevando la tasa anual al 3,7%.",
-      "detail": "Que la economía crezca fuerte al mismo tiempo que la inflación sube es una combinación que complica al banco central: si la Fed quiere bajar la inflación, tiene que subir tasas o mantenerlas altas, lo que puede frenar el crecimiento. El PCE es el indicador de inflación que más mira la Reserva Federal para tomar decisiones, por eso este dato es clave para entender qué puede pasar con las tasas en EE.UU.",
-      "tags": [
-        "PBI",
-        "inflación",
-        "EE.UU."
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-      "published_at": "2026-10-29T18:06:31Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": []
-    },
-    {
-      "id": "warsh-fed-rates",
-      "type": "discurso",
-      "title": "El nuevo presidente de la Fed insinuó tasas más altas pero sin comprometerse",
-      "summary": "Kevin Warsh, el nuevo titular de la Reserva Federal, dejó en claro que prefiere tasas de interés más altas, pero se guardó opciones según cómo evolucionen los datos económicos.",
-      "detail": "La ambigüedad calculada de un presidente de banco central es en sí misma una herramienta de política: al no comprometerse, Warsh evita que los mercados se adelanten demasiado y mantiene su margen de maniobra. Esto se llama 'forward guidance' y su manejo influye directamente en las tasas de bonos, el tipo de cambio del dólar y los mercados globales, incluido el argentino.",
-      "tags": [
-        "Fed",
-        "tasas",
-        "Warsh"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-      "published_at": "2026-10-29T17:32:34Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": []
-    },
-    {
-      "id": "eli-lilly-q3-2026",
-      "type": "empresa",
-      "title": "Eli Lilly sube su outlook de ventas gracias al boom de los medicamentos para la obesidad",
-      "summary": "Eli Lilly reportó que las ventas de Zepbound y Mounjaro volvieron a dispararse en el tercer trimestre y elevó sus proyecciones de ventas para el año. El CEO dijo que hay espacio para una expansión 'dramática' del mercado de obesidad.",
-      "detail": "El mercado de medicamentos para la obesidad es uno de los de mayor crecimiento en la industria farmacéutica global. Cuando una empresa sube su guidance (proyección de resultados futuros), suele ser una señal positiva para sus acciones. Eli Lilly es una de las mayores farmacéuticas del mundo y sus resultados impactan en índices globales como el S&P 500.",
-      "tags": [
-        "farmacéutica",
-        "obesidad",
-        "resultados"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-      "published_at": "2026-10-29T16:46:07Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": [
-        "LLY"
-      ]
-    },
-    {
-      "id": "rivian-q3-2026",
-      "type": "empresa",
-      "title": "Rivian superó las estimaciones del tercer trimestre y revisó al alza su guidance 2026",
-      "summary": "El fabricante de autos eléctricos Rivian reportó resultados del tercer trimestre por encima de lo esperado, impulsado por los ingresos de software y las entregas del modelo R2. También mejoró sus proyecciones para todo el año.",
-      "detail": "Que una empresa de autos eléctricos en etapa de crecimiento empiece a generar ingresos por software —además de la venta de vehículos— es una señal importante: diversifica sus fuentes de ingresos y mejora sus márgenes. La revisión al alza del guidance es clave porque indica que la empresa misma confía en que su situación está mejorando, lo que suele mover el precio de la acción.",
-      "tags": [
-        "autos eléctricos",
-        "Rivian",
-        "resultados"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-      "published_at": "2026-10-29T21:52:27Z",
-      "fecha_evento": "2026-10-29",
-      "tickers": [
-        "RIVN"
-      ]
-    },
-    {
       "id": "starbucks-q4-2026",
       "type": "empresa",
-      "title": "Starbucks decepcionó en ventas globales pero su recuperación en EE.UU. avanza",
-      "summary": "Starbucks no llegó a las expectativas de Wall Street en ventas totales, aunque sus locales en Estados Unidos superaron las proyecciones de ventas comparables. El negocio internacional quedó por debajo de lo estimado.",
-      "detail": "Las 'ventas comparables' (same-store sales) son una métrica clave en retail y gastronomía: miden el crecimiento en locales ya existentes, sin contar aperturas nuevas. Que EE.UU. mejore pero el negocio internacional falle muestra que la recuperación de Starbucks tiene geografías diferenciadas, algo relevante para entender cómo analizar empresas con presencia global.",
+      "title": "Starbucks superó expectativas en EE.UU. pero su negocio internacional decepcionó",
+      "summary": "Los resultados del cuarto trimestre de Starbucks mostraron que sus locales en EE.UU. superaron las estimaciones de ventas comparables de Wall Street, aunque el negocio internacional quedó por debajo de lo esperado.",
+      "detail": "Starbucks es una de las empresas de consumo más seguidas del mundo y sus resultados sirven como termómetro del gasto de los consumidores. Cuando una compañía 'supera expectativas' en un mercado pero falla en otro, el mercado suele castigar igual a la acción si el segmento que falla es estratégico. Este caso muestra cómo analizar resultados trimestrales va más allá de mirar una sola cifra.",
       "tags": [
         "Starbucks",
-        "resultados",
+        "ganancias",
         "consumo"
       ],
       "source_name": "CNBC",
@@ -144,40 +38,55 @@
       ]
     },
     {
-      "id": "nasdaq-octubre-caida",
+      "id": "spacex-ipo-caida",
       "type": "mercado",
-      "title": "El Nasdaq cayó 5,3% en octubre por dudas sobre la inteligencia artificial",
-      "summary": "El índice Nasdaq Composite cerró octubre con una baja del 5,3%, impulsada por preocupaciones sobre si el boom de la inteligencia artificial es sostenible. Históricamente, señales similares han sido seguidas por rebotes del mercado.",
-      "detail": "El Nasdaq concentra muchas empresas de tecnología, por lo que es muy sensible a cambios en las expectativas sobre el sector. Una caída mensual de más del 5% puede activar señales técnicas que los inversores siguen de cerca para anticipar movimientos futuros. Entender cómo los índices reaccionan a narrativas sectoriales —como el auge de la IA— es fundamental para leer los mercados globales.",
+      "title": "La acción de SpaceX cayó casi 30% desde su máximo post-IPO",
+      "summary": "SpaceX cotizó su máximo histórico de USD 201,80 el 16 de junio, tercer día de operaciones tras su salida a bolsa, y desde entonces acumula una baja de casi 30%.",
+      "detail": "Las salidas a bolsa (IPO) suelen generar mucho entusiasmo inicial que lleva los precios a niveles muy altos rápidamente, para luego corregir cuando los inversores evalúan los fundamentals reales. El artículo compara esta dinámica con lo que hizo Facebook después de su propio IPO, lo que sirve para entender que las caídas post-IPO no siempre indican el fin de una empresa: el historial posterior importa tanto como el debut.",
       "tags": [
-        "Nasdaq",
-        "tecnología",
-        "IA"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/nasdaq-just-flashed-signal-investors-cant-afford-ignore-history-says-stock-market-will-do",
-      "published_at": "2026-11-01T10:08:02Z",
-      "fecha_evento": "2026-10-31",
-      "tickers": []
-    },
-    {
-      "id": "mercadolibre-caida-oportunidad",
-      "type": "empresa",
-      "title": "MercadoLibre cayó más del 30% desde sus máximos históricos",
-      "summary": "Las acciones de MercadoLibre acumulan una caída de más del 30% desde sus máximos históricos. Algunos analistas consideran que la empresa sigue siendo una oportunidad dada su posición dominante en e-commerce en una región todavía con baja penetración digital.",
-      "detail": "MercadoLibre es la principal plataforma de e-commerce y pagos digitales de América Latina, con fuerte presencia en Argentina. Una caída tan pronunciada desde máximos puede reflejar tanto factores macroeconómicos regionales como correcciones de valuación. Para alguien que aprende finanzas, es un buen caso para entender la diferencia entre el valor de una empresa y el precio de su acción en el mercado.",
-      "tags": [
-        "MercadoLibre",
-        "e-commerce",
+        "SpaceX",
+        "IPO",
         "acciones"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/mercadolibre-and-dutch-bros-have-fallen-more-30-their-record-highs-heres-why-both-are",
-      "published_at": "2026-11-01T10:50:00Z",
+      "source_url": "https://www.nasdaq.com/articles/spacex-stock-nearly-30-below-its-post-ipo-high-heres-what-facebooks-stock-did-same-spot",
+      "published_at": "2026-11-01T20:03:01Z",
       "fecha_evento": "2026-11-01",
-      "tickers": [
-        "MELI"
-      ]
+      "tickers": []
+    },
+    {
+      "id": "buffett-miedo-mercado",
+      "type": "mercado",
+      "title": "El 74% de los estadounidenses teme una corrección: Buffett dice que es el momento de comprar",
+      "summary": "Una encuesta reciente reveló que el 74% de los estadounidenses está preocupado por una posible corrección del mercado. Warren Buffett sostiene que ese miedo generalizado suele ser la mejor señal para invertir.",
+      "detail": "La frase célebre de Buffett —'sé codicioso cuando otros tienen miedo'— resume una estrategia de inversión contracíclica: comprar cuando el mercado está nervioso y vender cuando todos son optimistas. Para alguien aprendiendo finanzas, este artículo ilustra cómo el sentimiento del mercado (fear & greed) puede ser un indicador útil, aunque no infalible, para tomar decisiones de inversión.",
+      "tags": [
+        "Buffett",
+        "sentimiento",
+        "inversión"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/investors-are-growing-fearful-about-market-warren-buffett-says-best-time-buy-more",
+      "published_at": "2026-11-01T19:50:00Z",
+      "fecha_evento": "2026-11-01",
+      "tickers": []
+    },
+    {
+      "id": "ai-bull-market-amenaza-2027",
+      "type": "mercado",
+      "title": "¿Qué puede frenar al mercado alcista impulsado por la IA en 2027?",
+      "summary": "El fuerte crecimiento de ganancias corporativas fue el motor del mercado en 2026, pero analistas advierten que ese impulso podría desacelerarse en 2027 si las empresas no sostienen el ritmo.",
+      "detail": "Uno de los conceptos más importantes en finanzas es entender qué mueve los precios de las acciones: principalmente, las expectativas sobre ganancias futuras. Si el mercado ya subió mucho anticipando un crecimiento alto y ese crecimiento empieza a moderarse, los precios pueden caer aunque las empresas sigan siendo rentables. Este artículo es una buena introducción al riesgo de 'desaceleración de expectativas' en mercados alcistas prolongados.",
+      "tags": [
+        "IA",
+        "mercado",
+        "ganancias"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+      "published_at": "2026-11-01T14:00:00Z",
+      "fecha_evento": "2026-11-01",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -207,9 +116,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.860",
-      "valor_num": 77860.0,
-      "delta_pct": 0.41
+      "valor": "US$ 77.836",
+      "valor_num": 77836.0,
+      "delta_pct": 0.36
     },
     {
       "label": "S&P 500",
