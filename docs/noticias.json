@@ -1,92 +1,167 @@
 {
-  "generated_at": "2026-11-01T22:01:25.088402+00:00",
+  "generated_at": "2026-11-02T12:01:39.439728+00:00",
   "items": [
     {
-      "id": "eurozone-gdp-q3-2026",
+      "id": "south-korea-ai-budget-2026",
       "type": "economia",
-      "title": "La economía de la eurozona creció 0,4% en el tercer trimestre, pero Francia se contrajo",
-      "summary": "La zona euro mostró cierta resiliencia al crecer 0,4% en el tercer trimestre, aunque Francia registró una contracción. Los analistas advierten que la baja productividad, los desafíos industriales y las presiones demográficas siguen siendo problemas estructurales.",
-      "detail": "El PBI de la eurozona es un indicador clave del estado de la economía más grande del mundo después de EE.UU. y China. Cuando una de sus economías centrales como Francia se contrae, puede afectar la confianza de los inversores en activos europeos y presionar al Banco Central Europeo a reconsiderar su política monetaria. Para alguien aprendiendo finanzas, esto ilustra cómo el crecimiento económico y las decisiones de bancos centrales están íntimamente ligados.",
+      "title": "Corea del Sur apuesta fuerte a la IA con su mayor presupuesto histórico",
+      "summary": "Corea del Sur presentó su presupuesto para 2027, que sube un 12,8% hasta 820,9 billones de wones, con 21,3 billones destinados a semiconductores, IA física y centros de datos de inteligencia artificial.",
+      "detail": "Cuando un gobierno destina una porción enorme de su presupuesto a tecnología, está apostando a que esa industria va a impulsar su economía en el futuro. En este caso, Corea del Sur busca competir en el mercado global de IA, lo que también puede afectar a empresas de semiconductores cotizadas en bolsa. Para alguien que aprende finanzas, esto muestra cómo las decisiones de política pública pueden mover sectores enteros del mercado.",
       "tags": [
-        "eurozona",
-        "PBI",
-        "crecimiento"
+        "inteligencia artificial",
+        "presupuesto",
+        "semiconductores"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-      "published_at": "2026-10-30T11:16:46Z",
-      "fecha_evento": "2026-10-30",
+      "source_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+      "published_at": "2026-11-02T06:02:03Z",
+      "fecha_evento": "2026-11-02",
       "tickers": []
     },
     {
-      "id": "starbucks-q4-2026",
-      "type": "empresa",
-      "title": "Starbucks superó expectativas en EE.UU. pero su negocio internacional decepcionó",
-      "summary": "Los resultados del cuarto trimestre de Starbucks mostraron que sus locales en EE.UU. superaron las estimaciones de ventas comparables de Wall Street, aunque el negocio internacional quedó por debajo de lo esperado.",
-      "detail": "Starbucks es una de las empresas de consumo más seguidas del mundo y sus resultados sirven como termómetro del gasto de los consumidores. Cuando una compañía 'supera expectativas' en un mercado pero falla en otro, el mercado suele castigar igual a la acción si el segmento que falla es estratégico. Este caso muestra cómo analizar resultados trimestrales va más allá de mirar una sola cifra.",
+      "id": "saylor-bitcoin-headwinds-2026",
+      "type": "discurso",
+      "title": "Michael Saylor explica por qué el Bitcoin viene flojo: culpa a la IA, los bonos y los aranceles",
+      "summary": "El fundador de Strategy señaló que el gasto en IA, los rendimientos de los bonos del Tesoro de EE.UU. y los aranceles son los tres factores que están frenando al Bitcoin últimamente.",
+      "detail": "Cuando los rendimientos de los bonos del Tesoro suben, los inversores migran hacia activos considerados más seguros y predecibles, lo que reduce el atractivo de activos volátiles como el Bitcoin. Los aranceles generan incertidumbre económica global, y el boom del gasto en IA redirige capital hacia ese sector. Este análisis de Saylor es un buen ejemplo de cómo factores macroeconómicos aparentemente lejanos se conectan y afectan el precio de las criptomonedas.",
       "tags": [
-        "Starbucks",
-        "ganancias",
-        "consumo"
+        "Bitcoin",
+        "bonos",
+        "macroeconomía"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
-      "published_at": "2026-10-30T13:29:50Z",
-      "fecha_evento": "2026-10-29",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/strategys-michael-saylor-blames-these-3-factors-bitcoins-recent-sluggish-performance-most",
+      "published_at": "2026-11-02T11:20:00Z",
+      "fecha_evento": "2026-11-02",
       "tickers": [
-        "SBUX"
+        "MSTR",
+        "BTC"
       ]
     },
     {
-      "id": "spacex-ipo-caida",
+      "id": "stock-market-valuation-historical-2026",
       "type": "mercado",
-      "title": "La acción de SpaceX cayó casi 30% desde su máximo post-IPO",
-      "summary": "SpaceX cotizó su máximo histórico de USD 201,80 el 16 de junio, tercer día de operaciones tras su salida a bolsa, y desde entonces acumula una baja de casi 30%.",
-      "detail": "Las salidas a bolsa (IPO) suelen generar mucho entusiasmo inicial que lleva los precios a niveles muy altos rápidamente, para luego corregir cuando los inversores evalúan los fundamentals reales. El artículo compara esta dinámica con lo que hizo Facebook después de su propio IPO, lo que sirve para entender que las caídas post-IPO no siempre indican el fin de una empresa: el historial posterior importa tanto como el debut.",
+      "title": "La bolsa de EE.UU. alcanzó una valuación que solo ocurrió dos veces en 156 años",
+      "summary": "El mercado bursátil de EE.UU. llegó a niveles de valuación históricamente altos, impulsados en gran parte por el entusiasmo en torno a la inteligencia artificial.",
+      "detail": "La valuación del mercado mide cuánto están pagando los inversores por cada dólar de ganancia de las empresas. Cuando esa relación llega a niveles extremos, históricamente ha precedido períodos de corrección o rendimientos más bajos. Entender esto ayuda a distinguir entre un mercado que sube porque las empresas ganan más y uno que sube porque los inversores pagan cada vez más caro por lo mismo, un riesgo importante a tener en cuenta.",
       "tags": [
-        "SpaceX",
-        "IPO",
-        "acciones"
+        "valuación",
+        "bolsa",
+        "historia"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/spacex-stock-nearly-30-below-its-post-ipo-high-heres-what-facebooks-stock-did-same-spot",
-      "published_at": "2026-11-01T20:03:01Z",
-      "fecha_evento": "2026-11-01",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-has-done-just-twice-156-years-now-its-happening-again",
+      "published_at": "2026-11-02T11:14:00Z",
+      "fecha_evento": "2026-11-02",
       "tickers": []
     },
     {
-      "id": "buffett-miedo-mercado",
-      "type": "mercado",
-      "title": "El 74% de los estadounidenses teme una corrección: Buffett dice que es el momento de comprar",
-      "summary": "Una encuesta reciente reveló que el 74% de los estadounidenses está preocupado por una posible corrección del mercado. Warren Buffett sostiene que ese miedo generalizado suele ser la mejor señal para invertir.",
-      "detail": "La frase célebre de Buffett —'sé codicioso cuando otros tienen miedo'— resume una estrategia de inversión contracíclica: comprar cuando el mercado está nervioso y vender cuando todos son optimistas. Para alguien aprendiendo finanzas, este artículo ilustra cómo el sentimiento del mercado (fear & greed) puede ser un indicador útil, aunque no infalible, para tomar decisiones de inversión.",
+      "id": "apple-earnings-call-q4-2026",
+      "type": "reunion",
+      "title": "Apple presenta sus resultados del cuarto trimestre hoy",
+      "summary": "Apple realizará hoy a las 5 PM ET su conferencia de resultados para el cuarto trimestre de 2026, donde informará sus números más recientes.",
+      "detail": "Las presentaciones de resultados de Apple son eventos clave para los mercados globales porque la empresa es una de las más grandes del mundo por capitalización bursátil. Lo que diga Apple sobre sus ventas, márgenes y perspectivas suele mover no solo su acción sino también al mercado tecnológico en general. Para quien aprende finanzas, seguir estos earnings calls es una forma de entender cómo las empresas comunican su desempeño a los inversores.",
       "tags": [
-        "Buffett",
-        "sentimiento",
-        "inversión"
+        "earnings",
+        "tecnología",
+        "Apple"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/investors-are-growing-fearful-about-market-warren-buffett-says-best-time-buy-more",
-      "published_at": "2026-11-01T19:50:00Z",
-      "fecha_evento": "2026-11-01",
-      "tickers": []
+      "source_url": "https://www.nasdaq.com/articles/apple-q4-26-earnings-conference-call-5-00-pm-et",
+      "published_at": "2026-11-02T11:03:43Z",
+      "fecha_evento": "2026-11-02",
+      "tickers": [
+        "AAPL"
+      ]
     },
     {
-      "id": "ai-bull-market-amenaza-2027",
-      "type": "mercado",
-      "title": "¿Qué puede frenar al mercado alcista impulsado por la IA en 2027?",
-      "summary": "El fuerte crecimiento de ganancias corporativas fue el motor del mercado en 2026, pero analistas advierten que ese impulso podría desacelerarse en 2027 si las empresas no sostienen el ritmo.",
-      "detail": "Uno de los conceptos más importantes en finanzas es entender qué mueve los precios de las acciones: principalmente, las expectativas sobre ganancias futuras. Si el mercado ya subió mucho anticipando un crecimiento alto y ese crecimiento empieza a moderarse, los precios pueden caer aunque las empresas sigan siendo rentables. Este artículo es una buena introducción al riesgo de 'desaceleración de expectativas' en mercados alcistas prolongados.",
+      "id": "palantir-earnings-call-q3-2026",
+      "type": "reunion",
+      "title": "Palantir presenta resultados del tercer trimestre hoy",
+      "summary": "Palantir Technologies realizará hoy a las 5 PM ET su conferencia de resultados para el tercer trimestre de 2026.",
+      "detail": "Palantir es una empresa de análisis de datos e inteligencia artificial muy seguida por inversores interesados en el sector tech. Sus resultados dan señales sobre cómo está creciendo la demanda de IA en gobiernos y empresas privadas. Para quienes siguen el sector tecnológico, este tipo de reportes ayuda a entender si el entusiasmo por la IA se traduce en ganancias reales.",
       "tags": [
-        "IA",
-        "mercado",
-        "ganancias"
+        "earnings",
+        "inteligencia artificial",
+        "tecnología"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/palantir-technologies-q3-26-earnings-conference-call-5-00-pm-et",
+      "published_at": "2026-11-02T11:03:43Z",
+      "fecha_evento": "2026-11-02",
+      "tickers": [
+        "PLTR"
+      ]
+    },
+    {
+      "id": "goldman-oil-price-outlook-2026",
+      "type": "mercado",
+      "title": "Goldman Sachs advierte que el petróleo podría promediar u$s 130 el barril el año que viene",
+      "summary": "Analistas de Goldman Sachs proyectan que el Brent podría llegar a u$s 140 el barril el próximo año si se agravan las tensiones en Medio Oriente.",
+      "detail": "El precio del petróleo impacta directamente en la inflación global porque encarece el transporte y la producción de bienes. Para Argentina, que importa energía en dólares, una suba del crudo puede presionar aún más el tipo de cambio y los precios internos. Seguir las proyecciones de bancos como Goldman Sachs es útil para anticipar tendencias macroeconómicas que afectan a economías emergentes como la nuestra.",
+      "tags": [
+        "petróleo",
+        "inflación",
+        "Goldman Sachs"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-      "published_at": "2026-11-01T14:00:00Z",
-      "fecha_evento": "2026-11-01",
+      "source_url": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
+      "published_at": "2026-11-02T11:14:00Z",
+      "fecha_evento": "2026-11-02",
       "tickers": []
+    },
+    {
+      "id": "deutsche-bank-tech-stocks-rebound-2026",
+      "type": "mercado",
+      "title": "Deutsche Bank pronostica otro rebote en acciones tecnológicas",
+      "summary": "Deutsche Bank cree que es momento de sobreponderar acciones tech, ya que el posicionamiento de los inversores es inconsistente con el fuerte crecimiento de ganancias que está logrando el sector.",
+      "detail": "Cuando los inversores institucionales están subexpuestos a un sector que sigue creciendo, eso puede generar una oportunidad de entrada antes de que el resto del mercado se ponga al día. Deutsche Bank señala que esto ya ocurrió cinco veces en los últimos 30 meses con rebotes en forma de V en el sector tecnológico. Para alguien que aprende finanzas, esto ilustra cómo el análisis del posicionamiento del mercado puede anticipar movimientos de precios.",
+      "tags": [
+        "tecnología",
+        "acciones",
+        "rebote"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
+      "published_at": "2026-11-02T09:47:00Z",
+      "fecha_evento": "2026-11-02",
+      "tickers": []
+    },
+    {
+      "id": "morgan-stanley-midterm-elections-2026",
+      "type": "discurso",
+      "title": "El estratega de Morgan Stanley dice que las elecciones de mitad de mandato serán una buena noticia para el mercado, sin importar el resultado",
+      "summary": "Mike Wilson, estratega jefe de Morgan Stanley, afirma que las elecciones de mitad de mandato en EE.UU. son un evento que despeja la incertidumbre del mercado, independientemente de quién gane.",
+      "detail": "La incertidumbre política suele frenar decisiones de inversión porque los inversores no saben qué políticas se aplicarán. Una vez que hay un resultado claro, aunque no sea el preferido, el mercado tiende a reaccionar positivamente porque puede planificar mejor. Este concepto de 'clearing event' es importante para entender cómo la política impacta en los mercados financieros.",
+      "tags": [
+        "elecciones",
+        "mercado",
+        "EE.UU."
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
+      "published_at": "2026-11-02T09:15:00Z",
+      "fecha_evento": "2026-11-02",
+      "tickers": []
+    },
+    {
+      "id": "kyocera-h1-profit-ai-demand-2026",
+      "type": "empresa",
+      "title": "Kyocera sube sus proyecciones de ingresos gracias a la demanda de componentes para IA",
+      "summary": "La japonesa Kyocera reportó una ganancia del 32,2% en su utilidad del primer semestre y mejoró sus perspectivas de ingresos para el año fiscal 2027, impulsada por la fuerte demanda de componentes para inteligencia artificial.",
+      "detail": "Kyocera fabrica componentes electrónicos que se usan en servidores y dispositivos de IA, por lo que su crecimiento refleja el auge real de inversión en esa tecnología. Cuando empresas de manufactura elevan sus proyecciones por demanda de IA, es una señal de que el boom tecnológico se está traduciendo en negocios concretos, no solo en expectativas. Para quien aprende finanzas, este tipo de empresa es un indicador indirecto de la salud de la cadena de suministro tecnológica global.",
+      "tags": [
+        "IA",
+        "Japón",
+        "componentes electrónicos"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/kyocera-h1-profit-322-raises-fy27-revenue-outlook",
+      "published_at": "2026-11-02T10:51:11Z",
+      "fecha_evento": "2026-11-02",
+      "tickers": [
+        "KYOCY"
+      ]
     }
   ],
   "ticker": [
@@ -116,9 +191,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.836",
-      "valor_num": 77836.0,
-      "delta_pct": 0.36
+      "valor": "US$ 77.798",
+      "valor_num": 77798.0,
+      "delta_pct": -0.18
     },
     {
       "label": "S&P 500",
@@ -128,9 +203,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.899",
-      "valor_num": 3898.9,
-      "delta_pct": -4.31
+      "valor": "US$ 3.914",
+      "valor_num": 3913.6,
+      "delta_pct": -3.41
     }
   ]
 }
