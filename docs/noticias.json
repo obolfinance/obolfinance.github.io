@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-11-02T12:01:39.439728+00:00",
+  "generated_at": "2026-11-03T12:01:06.513346+00:00",
   "items": [
     {
-      "id": "south-korea-ai-budget-2026",
+      "id": "australia-rates-hike",
       "type": "economia",
-      "title": "Corea del Sur apuesta fuerte a la IA con su mayor presupuesto histórico",
-      "summary": "Corea del Sur presentó su presupuesto para 2027, que sube un 12,8% hasta 820,9 billones de wones, con 21,3 billones destinados a semiconductores, IA física y centros de datos de inteligencia artificial.",
-      "detail": "Cuando un gobierno destina una porción enorme de su presupuesto a tecnología, está apostando a que esa industria va a impulsar su economía en el futuro. En este caso, Corea del Sur busca competir en el mercado global de IA, lo que también puede afectar a empresas de semiconductores cotizadas en bolsa. Para alguien que aprende finanzas, esto muestra cómo las decisiones de política pública pueden mover sectores enteros del mercado.",
+      "title": "Australia subió las tasas al nivel más alto en 18 años",
+      "summary": "El Banco Central de Australia volvió a subir las tasas de interés, marcando su quinta suba del año, en una movida esperada por los economistas para combatir la inflación.",
+      "detail": "Cuando un banco central sube las tasas, encarece el crédito para frenar el gasto y bajar la inflación. Que sea la quinta suba del año muestra que la lucha contra la inflación sigue siendo la prioridad global, algo que también impacta en las decisiones de otros bancos centrales y en el valor de las monedas. Para alguien aprendiendo finanzas, es un buen ejemplo de cómo la política monetaria funciona en la práctica.",
+      "tags": [
+        "tasas de interés",
+        "banco central",
+        "inflación"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "published_at": "2026-11-03T03:46:20Z",
+      "fecha_evento": "2026-11-03",
+      "tickers": []
+    },
+    {
+      "id": "south-korea-ai-budget",
+      "type": "economia",
+      "title": "Corea del Sur lanzó un presupuesto récord con foco en inteligencia artificial",
+      "summary": "El presupuesto 2027 de Corea del Sur sube un 12,8% hasta 820,9 billones de wones e incluye una inversión de 21,3 billones en semiconductores, IA física y centros de datos de IA.",
+      "detail": "Los gobiernos que destinan presupuesto récord a tecnología están apostando a que la IA va a ser clave para el crecimiento económico futuro. Esto mueve el mercado de semiconductores y empresas relacionadas a nivel global. Para alguien aprendiendo finanzas, es un ejemplo de cómo las decisiones de política pública pueden impactar sectores enteros de la economía y las bolsas.",
       "tags": [
         "inteligencia artificial",
         "presupuesto",
@@ -19,157 +36,123 @@
       "tickers": []
     },
     {
-      "id": "saylor-bitcoin-headwinds-2026",
-      "type": "discurso",
-      "title": "Michael Saylor explica por qué el Bitcoin viene flojo: culpa a la IA, los bonos y los aranceles",
-      "summary": "El fundador de Strategy señaló que el gasto en IA, los rendimientos de los bonos del Tesoro de EE.UU. y los aranceles son los tres factores que están frenando al Bitcoin últimamente.",
-      "detail": "Cuando los rendimientos de los bonos del Tesoro suben, los inversores migran hacia activos considerados más seguros y predecibles, lo que reduce el atractivo de activos volátiles como el Bitcoin. Los aranceles generan incertidumbre económica global, y el boom del gasto en IA redirige capital hacia ese sector. Este análisis de Saylor es un buen ejemplo de cómo factores macroeconómicos aparentemente lejanos se conectan y afectan el precio de las criptomonedas.",
+      "id": "disney-job-cuts",
+      "type": "empresa",
+      "title": "Disney planearía miles de despidos como parte de un plan de reducción de costos",
+      "summary": "Según Bloomberg, Walt Disney estaría evaluando recortar miles de puestos de trabajo dentro de un esfuerzo más amplio para bajar sus costos operativos.",
+      "detail": "Los recortes de empleo en empresas grandes suelen ser una señal de que la dirección busca mejorar la rentabilidad cuando los ingresos no crecen lo suficiente. Para los inversores, estos anuncios generan dudas sobre la salud del negocio a largo plazo, aunque en el corto plazo el mercado no siempre reacciona con claridad. Es un buen caso para entender cómo las decisiones estratégicas de una empresa afectan la percepción de los inversores.",
       "tags": [
-        "Bitcoin",
-        "bonos",
-        "macroeconomía"
+        "despidos",
+        "costos",
+        "empresas"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/strategys-michael-saylor-blames-these-3-factors-bitcoins-recent-sluggish-performance-most",
-      "published_at": "2026-11-02T11:20:00Z",
-      "fecha_evento": "2026-11-02",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories",
+      "published_at": "2026-11-03T10:36:00Z",
+      "fecha_evento": "2026-11-03",
       "tickers": [
-        "MSTR",
-        "BTC"
+        "DIS"
       ]
     },
     {
-      "id": "stock-market-valuation-historical-2026",
-      "type": "mercado",
-      "title": "La bolsa de EE.UU. alcanzó una valuación que solo ocurrió dos veces en 156 años",
-      "summary": "El mercado bursátil de EE.UU. llegó a niveles de valuación históricamente altos, impulsados en gran parte por el entusiasmo en torno a la inteligencia artificial.",
-      "detail": "La valuación del mercado mide cuánto están pagando los inversores por cada dólar de ganancia de las empresas. Cuando esa relación llega a niveles extremos, históricamente ha precedido períodos de corrección o rendimientos más bajos. Entender esto ayuda a distinguir entre un mercado que sube porque las empresas ganan más y uno que sube porque los inversores pagan cada vez más caro por lo mismo, un riesgo importante a tener en cuenta.",
+      "id": "apple-stock-falls-earnings",
+      "type": "empresa",
+      "title": "La acción de Apple cae pese a que el negocio de iPhone sigue fuerte",
+      "summary": "Las acciones de Apple bajaron un 4,5% en el premercado tras publicar resultados: los inversores se decepcionaron por las perspectivas de margen bruto y el menor crecimiento en servicios.",
+      "detail": "Este caso muestra algo clave en finanzas: el precio de una acción no solo depende de si una empresa gana dinero, sino de si cumple o supera las expectativas del mercado. Apple vendió bien iPhones, pero el mercado se preocupó por señales de desaceleración en servicios y presión en márgenes, lo que puede afectar la rentabilidad futura. Es un buen ejemplo de cómo los inversores miran hacia adelante, no solo al presente.",
       "tags": [
-        "valuación",
-        "bolsa",
-        "historia"
+        "resultados",
+        "acciones",
+        "tecnología"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-has-done-just-twice-156-years-now-its-happening-again",
-      "published_at": "2026-11-02T11:14:00Z",
-      "fecha_evento": "2026-11-02",
-      "tickers": []
-    },
-    {
-      "id": "apple-earnings-call-q4-2026",
-      "type": "reunion",
-      "title": "Apple presenta sus resultados del cuarto trimestre hoy",
-      "summary": "Apple realizará hoy a las 5 PM ET su conferencia de resultados para el cuarto trimestre de 2026, donde informará sus números más recientes.",
-      "detail": "Las presentaciones de resultados de Apple son eventos clave para los mercados globales porque la empresa es una de las más grandes del mundo por capitalización bursátil. Lo que diga Apple sobre sus ventas, márgenes y perspectivas suele mover no solo su acción sino también al mercado tecnológico en general. Para quien aprende finanzas, seguir estos earnings calls es una forma de entender cómo las empresas comunican su desempeño a los inversores.",
-      "tags": [
-        "earnings",
-        "tecnología",
-        "Apple"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/apple-q4-26-earnings-conference-call-5-00-pm-et",
-      "published_at": "2026-11-02T11:03:43Z",
-      "fecha_evento": "2026-11-02",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+      "published_at": "2026-11-03T00:52:00Z",
+      "fecha_evento": "2026-11-03",
       "tickers": [
         "AAPL"
       ]
     },
     {
-      "id": "palantir-earnings-call-q3-2026",
-      "type": "reunion",
-      "title": "Palantir presenta resultados del tercer trimestre hoy",
-      "summary": "Palantir Technologies realizará hoy a las 5 PM ET su conferencia de resultados para el tercer trimestre de 2026.",
-      "detail": "Palantir es una empresa de análisis de datos e inteligencia artificial muy seguida por inversores interesados en el sector tech. Sus resultados dan señales sobre cómo está creciendo la demanda de IA en gobiernos y empresas privadas. Para quienes siguen el sector tecnológico, este tipo de reportes ayuda a entender si el entusiasmo por la IA se traduce en ganancias reales.",
+      "id": "palantir-stock-down",
+      "type": "empresa",
+      "title": "Palantir cayó en bolsa pese a resultados que superaron expectativas",
+      "summary": "A pesar de un trimestre considerado muy sólido, las acciones de Palantir bajaron porque algunos analistas notaron una desaceleración en el crecimiento de contratos comerciales en Estados Unidos.",
+      "detail": "Palantir es un ejemplo clásico de una acción de alto crecimiento donde el mercado castiga cualquier señal de que ese crecimiento se está moderando, incluso si los números absolutos son buenos. Esto ilustra cómo en el mundo de las finanzas, las expectativas futuras pesan tanto o más que los resultados actuales. Para alguien aprendiendo, es útil entender la diferencia entre 'ganar plata' y 'crecer al ritmo que el mercado esperaba'.",
       "tags": [
-        "earnings",
-        "inteligencia artificial",
+        "resultados",
+        "crecimiento",
         "tecnología"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/palantir-technologies-q3-26-earnings-conference-call-5-00-pm-et",
-      "published_at": "2026-11-02T11:03:43Z",
-      "fecha_evento": "2026-11-02",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+      "published_at": "2026-11-03T00:59:00Z",
+      "fecha_evento": "2026-11-03",
       "tickers": [
         "PLTR"
       ]
     },
     {
-      "id": "goldman-oil-price-outlook-2026",
-      "type": "mercado",
-      "title": "Goldman Sachs advierte que el petróleo podría promediar u$s 130 el barril el año que viene",
-      "summary": "Analistas de Goldman Sachs proyectan que el Brent podría llegar a u$s 140 el barril el próximo año si se agravan las tensiones en Medio Oriente.",
-      "detail": "El precio del petróleo impacta directamente en la inflación global porque encarece el transporte y la producción de bienes. Para Argentina, que importa energía en dólares, una suba del crudo puede presionar aún más el tipo de cambio y los precios internos. Seguir las proyecciones de bancos como Goldman Sachs es útil para anticipar tendencias macroeconómicas que afectan a economías emergentes como la nuestra.",
-      "tags": [
-        "petróleo",
-        "inflación",
-        "Goldman Sachs"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/how-oil-prices-could-average-130-per-barrel-next-year-according-to-goldman-sachs-235ce32b?mod=mw_rss_topstories",
-      "published_at": "2026-11-02T11:14:00Z",
-      "fecha_evento": "2026-11-02",
-      "tickers": []
-    },
-    {
-      "id": "deutsche-bank-tech-stocks-rebound-2026",
-      "type": "mercado",
-      "title": "Deutsche Bank pronostica otro rebote en acciones tecnológicas",
-      "summary": "Deutsche Bank cree que es momento de sobreponderar acciones tech, ya que el posicionamiento de los inversores es inconsistente con el fuerte crecimiento de ganancias que está logrando el sector.",
-      "detail": "Cuando los inversores institucionales están subexpuestos a un sector que sigue creciendo, eso puede generar una oportunidad de entrada antes de que el resto del mercado se ponga al día. Deutsche Bank señala que esto ya ocurrió cinco veces en los últimos 30 meses con rebotes en forma de V en el sector tecnológico. Para alguien que aprende finanzas, esto ilustra cómo el análisis del posicionamiento del mercado puede anticipar movimientos de precios.",
-      "tags": [
-        "tecnología",
-        "acciones",
-        "rebote"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/tech-stocks-have-made-big-v-shaped-rebounds-five-times-in-30-months-and-now-deutsche-bank-forecasts-another-bounce-0a552a62?mod=mw_rss_topstories",
-      "published_at": "2026-11-02T09:47:00Z",
-      "fecha_evento": "2026-11-02",
-      "tickers": []
-    },
-    {
-      "id": "morgan-stanley-midterm-elections-2026",
-      "type": "discurso",
-      "title": "El estratega de Morgan Stanley dice que las elecciones de mitad de mandato serán una buena noticia para el mercado, sin importar el resultado",
-      "summary": "Mike Wilson, estratega jefe de Morgan Stanley, afirma que las elecciones de mitad de mandato en EE.UU. son un evento que despeja la incertidumbre del mercado, independientemente de quién gane.",
-      "detail": "La incertidumbre política suele frenar decisiones de inversión porque los inversores no saben qué políticas se aplicarán. Una vez que hay un resultado claro, aunque no sea el preferido, el mercado tiende a reaccionar positivamente porque puede planificar mejor. Este concepto de 'clearing event' es importante para entender cómo la política impacta en los mercados financieros.",
-      "tags": [
-        "elecciones",
-        "mercado",
-        "EE.UU."
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-election-will-be-good-news-regardless-of-outcome-says-morgan-stanleys-chief-stock-market-strategist-ffa320ed?mod=mw_rss_topstories",
-      "published_at": "2026-11-02T09:15:00Z",
-      "fecha_evento": "2026-11-02",
-      "tickers": []
-    },
-    {
-      "id": "kyocera-h1-profit-ai-demand-2026",
+      "id": "marvell-lumentum-merger",
       "type": "empresa",
-      "title": "Kyocera sube sus proyecciones de ingresos gracias a la demanda de componentes para IA",
-      "summary": "La japonesa Kyocera reportó una ganancia del 32,2% en su utilidad del primer semestre y mejoró sus perspectivas de ingresos para el año fiscal 2027, impulsada por la fuerte demanda de componentes para inteligencia artificial.",
-      "detail": "Kyocera fabrica componentes electrónicos que se usan en servidores y dispositivos de IA, por lo que su crecimiento refleja el auge real de inversión en esa tecnología. Cuando empresas de manufactura elevan sus proyecciones por demanda de IA, es una señal de que el boom tecnológico se está traduciendo en negocios concretos, no solo en expectativas. Para quien aprende finanzas, este tipo de empresa es un indicador indirecto de la salud de la cadena de suministro tecnológica global.",
+      "title": "Accionistas de Marvell y Lumentum rechazaron el acuerdo de fusión",
+      "summary": "Las acciones de ambas empresas cayeron el lunes después de que Marvell anunciara un acuerdo para comprar Lumentum en un intercambio de acciones que los propios accionistas calificaron de insuficiente.",
+      "detail": "En una fusión pagada con acciones, los accionistas de la empresa compradora diluyen su participación, lo que puede bajar el precio de la acción si el mercado no ve valor en la operación. Que los accionistas de ambas compañías rechacen el trato es inusual y muestra que el precio ofrecido se percibe como bajo. Es un buen ejemplo de cómo los mercados evalúan las fusiones y adquisiciones en tiempo real.",
       "tags": [
-        "IA",
-        "Japón",
-        "componentes electrónicos"
+        "fusiones",
+        "acciones",
+        "mercado"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/kyocera-h1-profit-322-raises-fy27-revenue-outlook",
-      "published_at": "2026-11-02T10:51:11Z",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+      "published_at": "2026-11-02T23:39:00Z",
       "fecha_evento": "2026-11-02",
       "tickers": [
-        "KYOCY"
+        "MRVL",
+        "LITE"
       ]
+    },
+    {
+      "id": "corporate-bond-signal-sp500",
+      "type": "mercado",
+      "title": "El mercado de bonos corporativos emite una señal que históricamente anticipó caídas en el S&P 500",
+      "summary": "El mercado de bonos corporativos está dando una señal que, según datos históricos, suele preceder a correcciones importantes en la bolsa americana.",
+      "detail": "Los bonos corporativos y las acciones están interconectados: cuando los inversores en bonos se ponen más cautelosos (por ejemplo, exigiendo tasas más altas para prestar), suele ser una señal temprana de que el mercado ve más riesgo en la economía. Esta relación entre mercados es fundamental para entender cómo se mueven los activos financieros. Para alguien aprendiendo finanzas, es un buen ejemplo de por qué conviene mirar varios mercados a la vez y no solo las acciones.",
+      "tags": [
+        "bonos",
+        "S&P 500",
+        "riesgo"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/this-signal-from-the-corporate-bond-market-has-historically-preceded-big-drawdowns-for-the-s-p-500-8c1a3d25?mod=mw_rss_topstories",
+      "published_at": "2026-11-03T10:31:00Z",
+      "fecha_evento": "2026-11-03",
+      "tickers": []
+    },
+    {
+      "id": "oil-turning-point",
+      "type": "mercado",
+      "title": "Un estratega de petróleo muy seguido cree que llegó el momento de tomar ganancias en el crudo",
+      "summary": "Jeff Currie, un conocido analista del mercado del petróleo, considera que el rally del crudo de este año llegó a un punto de inflexión y que conviene vender, aunque el superciclo estructural seguiría intacto.",
+      "detail": "Cuando analistas de peso cambian su postura sobre un commodity como el petróleo, el mercado suele reaccionar porque hay muchos inversores que siguen esas recomendaciones. La idea de 'superciclo' implica que los precios altos del petróleo podrían durar años por razones estructurales, pero igual puede haber correcciones de corto plazo. Para alguien aprendiendo, es un buen ejemplo de cómo se diferencia una tendencia de largo plazo de los movimientos tácticos del mercado.",
+      "tags": [
+        "petróleo",
+        "commodities",
+        "estrategia"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories",
+      "published_at": "2026-11-03T10:54:00Z",
+      "fecha_evento": "2026-11-03",
+      "tickers": []
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.560",
-      "valor_num": 1560.0,
-      "delta_pct": 0.0
+      "valor": "$1.565",
+      "valor_num": 1565.0,
+      "delta_pct": 0.32
     },
     {
       "label": "DÓLAR BLUE",
@@ -179,33 +162,33 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.575",
-      "valor_num": 1575.0,
-      "delta_pct": 0.0
+      "valor": "$1.580",
+      "valor_num": 1579.9,
+      "delta_pct": 0.31
     },
     {
       "label": "CCL",
-      "valor": "$1.658",
-      "valor_num": 1658.5,
-      "delta_pct": 0.0
+      "valor": "$1.670",
+      "valor_num": 1670.0,
+      "delta_pct": 0.69
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.798",
-      "valor_num": 77798.0,
-      "delta_pct": -0.18
+      "valor": "US$ 77.001",
+      "valor_num": 77001.0,
+      "delta_pct": -1.04
     },
     {
       "label": "S&P 500",
-      "valor": "7.580",
-      "valor_num": 7580.07,
-      "delta_pct": -0.57
+      "valor": "7.541",
+      "valor_num": 7541.4,
+      "delta_pct": -1.76
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.914",
-      "valor_num": 3913.6,
-      "delta_pct": -3.41
+      "valor": "US$ 3.916",
+      "valor_num": 3916.3,
+      "delta_pct": -2.86
     }
   ]
 }
