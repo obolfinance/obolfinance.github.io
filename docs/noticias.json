@@ -1,16 +1,33 @@
 {
-  "generated_at": "2026-11-03T12:01:06.513346+00:00",
+  "generated_at": "2026-11-03T22:01:13.105014+00:00",
   "items": [
     {
-      "id": "australia-rates-hike",
+      "id": "job-openings-sep-2026",
       "type": "economia",
-      "title": "Australia subió las tasas al nivel más alto en 18 años",
-      "summary": "El Banco Central de Australia volvió a subir las tasas de interés, marcando su quinta suba del año, en una movida esperada por los economistas para combatir la inflación.",
-      "detail": "Cuando un banco central sube las tasas, encarece el crédito para frenar el gasto y bajar la inflación. Que sea la quinta suba del año muestra que la lucha contra la inflación sigue siendo la prioridad global, algo que también impacta en las decisiones de otros bancos centrales y en el valor de las monedas. Para alguien aprendiendo finanzas, es un buen ejemplo de cómo la política monetaria funciona en la práctica.",
+      "title": "Las ofertas de trabajo en EE.UU. subieron fuerte en septiembre",
+      "summary": "El mercado laboral estadounidense sorprendió al alza: se registraron 7,52 millones de puestos vacantes en septiembre, 333.000 más que en agosto y muy por encima de lo que esperaban los analistas (7,15 millones).",
+      "detail": "Las ofertas de empleo son un indicador adelantado clave: si hay muchos puestos sin cubrir, significa que las empresas siguen queriendo contratar, lo que sugiere una economía activa. Este dato llega justo antes del reporte de nóminas (payrolls), que es uno de los más seguidos por la Reserva Federal para decidir si baja o sube las tasas de interés. Un mercado laboral fuerte puede hacer que la Fed sea más cautelosa a la hora de recortar tasas.",
       "tags": [
-        "tasas de interés",
-        "banco central",
-        "inflación"
+        "empleo",
+        "economía EE.UU.",
+        "Fed"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
+      "published_at": "2026-11-03T19:15:21Z",
+      "fecha_evento": "2026-11-03",
+      "tickers": []
+    },
+    {
+      "id": "australia-sube-tasas-2026",
+      "type": "economia",
+      "title": "Australia subió sus tasas al nivel más alto en 18 años para frenar la inflación",
+      "summary": "El Banco Central de Australia volvió a subir las tasas de interés, en línea con lo que esperaban los economistas, y es el quinto aumento del año. Las tasas quedaron en su nivel más alto desde hace 18 años.",
+      "detail": "Cuando un banco central sube las tasas, encarece el crédito para frenar el consumo y, con eso, bajar la inflación. Australia es un ejemplo de que la lucha contra la inflación sigue siendo global, no solo un fenómeno de EE.UU. o Europa. Para alguien que aprende finanzas, es útil ver cómo distintos países aplican la misma herramienta —la tasa de interés— para enfrentar el mismo problema.",
+      "tags": [
+        "tasas",
+        "inflación",
+        "banco central"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
@@ -19,176 +36,177 @@
       "tickers": []
     },
     {
-      "id": "south-korea-ai-budget",
-      "type": "economia",
-      "title": "Corea del Sur lanzó un presupuesto récord con foco en inteligencia artificial",
-      "summary": "El presupuesto 2027 de Corea del Sur sube un 12,8% hasta 820,9 billones de wones e incluye una inversión de 21,3 billones en semiconductores, IA física y centros de datos de IA.",
-      "detail": "Los gobiernos que destinan presupuesto récord a tecnología están apostando a que la IA va a ser clave para el crecimiento económico futuro. Esto mueve el mercado de semiconductores y empresas relacionadas a nivel global. Para alguien aprendiendo finanzas, es un ejemplo de cómo las decisiones de política pública pueden impactar sectores enteros de la economía y las bolsas.",
-      "tags": [
-        "inteligencia artificial",
-        "presupuesto",
-        "semiconductores"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-      "published_at": "2026-11-02T06:02:03Z",
-      "fecha_evento": "2026-11-02",
-      "tickers": []
-    },
-    {
-      "id": "disney-job-cuts",
+      "id": "disney-layoffs-2026",
       "type": "empresa",
-      "title": "Disney planearía miles de despidos como parte de un plan de reducción de costos",
-      "summary": "Según Bloomberg, Walt Disney estaría evaluando recortar miles de puestos de trabajo dentro de un esfuerzo más amplio para bajar sus costos operativos.",
-      "detail": "Los recortes de empleo en empresas grandes suelen ser una señal de que la dirección busca mejorar la rentabilidad cuando los ingresos no crecen lo suficiente. Para los inversores, estos anuncios generan dudas sobre la salud del negocio a largo plazo, aunque en el corto plazo el mercado no siempre reacciona con claridad. Es un buen caso para entender cómo las decisiones estratégicas de una empresa afectan la percepción de los inversores.",
+      "title": "Disney planea despedir miles de empleados y pide bajar costos hasta un 20%",
+      "summary": "Disney anunció que va a echar a varios miles de trabajadores en una nueva ronda de recortes, y les pidió a algunos gerentes que reduzcan sus gastos hasta un 20%.",
+      "detail": "Cuando una empresa grande como Disney recorta empleos y costos, generalmente es para mejorar sus márgenes de ganancia o para adaptarse a cambios en su negocio. Estos movimientos suelen impactar en el precio de la acción, ya que el mercado los puede interpretar como señal de que la empresa quiere ser más eficiente. Es un ejemplo clásico de cómo las decisiones internas de una compañía se traducen en señales financieras para los inversores.",
       "tags": [
         "despidos",
-        "costos",
-        "empresas"
+        "entretenimiento",
+        "costos"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories",
-      "published_at": "2026-11-03T10:36:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
+      "published_at": "2026-11-03T17:05:29Z",
       "fecha_evento": "2026-11-03",
       "tickers": [
         "DIS"
       ]
     },
     {
-      "id": "apple-stock-falls-earnings",
+      "id": "pfizer-outlook-cfo-2026",
       "type": "empresa",
-      "title": "La acción de Apple cae pese a que el negocio de iPhone sigue fuerte",
-      "summary": "Las acciones de Apple bajaron un 4,5% en el premercado tras publicar resultados: los inversores se decepcionaron por las perspectivas de margen bruto y el menor crecimiento en servicios.",
-      "detail": "Este caso muestra algo clave en finanzas: el precio de una acción no solo depende de si una empresa gana dinero, sino de si cumple o supera las expectativas del mercado. Apple vendió bien iPhones, pero el mercado se preocupó por señales de desaceleración en servicios y presión en márgenes, lo que puede afectar la rentabilidad futura. Es un buen ejemplo de cómo los inversores miran hacia adelante, no solo al presente.",
+      "title": "Pfizer mejoró sus proyecciones anuales y nombró una nueva CFO",
+      "summary": "Pfizer subió su perspectiva de resultados para todo el año gracias al crecimiento de sus nuevos productos, y anunció que Cecile Guegan —con 20 años en la compañía— asume como directora financiera este mes.",
+      "detail": "Cuando una empresa sube su 'outlook' (proyección de ganancias), le está diciendo al mercado que espera ganar más de lo que había prometido antes, lo que suele impulsar el precio de la acción. El cambio de CFO también es relevante porque el director financiero es quien maneja la estrategia de costos, deuda e inversiones de la empresa. Seguir estos anuncios ayuda a entender cómo las grandes farmacéuticas comunican su salud financiera.",
       "tags": [
+        "farmacéutica",
         "resultados",
-        "acciones",
-        "tecnología"
+        "management"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
-      "published_at": "2026-11-03T00:52:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+      "published_at": "2026-11-03T19:25:44Z",
       "fecha_evento": "2026-11-03",
       "tickers": [
-        "AAPL"
+        "PFE"
       ]
     },
     {
-      "id": "palantir-stock-down",
+      "id": "ferrari-guidance-q3-2026",
       "type": "empresa",
-      "title": "Palantir cayó en bolsa pese a resultados que superaron expectativas",
-      "summary": "A pesar de un trimestre considerado muy sólido, las acciones de Palantir bajaron porque algunos analistas notaron una desaceleración en el crecimiento de contratos comerciales en Estados Unidos.",
-      "detail": "Palantir es un ejemplo clásico de una acción de alto crecimiento donde el mercado castiga cualquier señal de que ese crecimiento se está moderando, incluso si los números absolutos son buenos. Esto ilustra cómo en el mundo de las finanzas, las expectativas futuras pesan tanto o más que los resultados actuales. Para alguien aprendiendo, es útil entender la diferencia entre 'ganar plata' y 'crecer al ritmo que el mercado esperaba'.",
+      "title": "Ferrari mejoró sus proyecciones para 2026 tras superar expectativas en el tercer trimestre",
+      "summary": "Ferrari subió su guía de resultados para 2026 después de que sus ingresos y ganancias por acción del tercer trimestre superaran lo que esperaba Wall Street.",
+      "detail": "Que Ferrari mejore su 'guidance' significa que la empresa ve mejor negocio por delante de lo que anticipaba. Para los inversores, esto es una señal positiva porque indica que la demanda de sus autos de lujo sigue firme. Ferrari es un ejemplo interesante de empresa 'premium' cuya valuación en bolsa suele ser muy alta en relación a sus ganancias, justamente porque el mercado le asigna un valor especial a su marca.",
       "tags": [
         "resultados",
-        "crecimiento",
-        "tecnología"
+        "lujo",
+        "guidance"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
-      "published_at": "2026-11-03T00:59:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+      "published_at": "2026-11-03T21:11:34Z",
       "fecha_evento": "2026-11-03",
       "tickers": [
-        "PLTR"
+        "RACE"
       ]
     },
     {
-      "id": "marvell-lumentum-merger",
+      "id": "amd-q4-forecast-ai-2026",
       "type": "empresa",
-      "title": "Accionistas de Marvell y Lumentum rechazaron el acuerdo de fusión",
-      "summary": "Las acciones de ambas empresas cayeron el lunes después de que Marvell anunciara un acuerdo para comprar Lumentum en un intercambio de acciones que los propios accionistas calificaron de insuficiente.",
-      "detail": "En una fusión pagada con acciones, los accionistas de la empresa compradora diluyen su participación, lo que puede bajar el precio de la acción si el mercado no ve valor en la operación. Que los accionistas de ambas compañías rechacen el trato es inusual y muestra que el precio ofrecido se percibe como bajo. Es un buen ejemplo de cómo los mercados evalúan las fusiones y adquisiciones en tiempo real.",
+      "title": "AMD proyecta un crecimiento del 66% en el cuarto trimestre impulsado por chips de IA",
+      "summary": "AMD anticipó un crecimiento del 66% en sus ingresos del cuarto trimestre gracias a la demanda de chips para inteligencia artificial. Su negocio de centros de datos ya representa casi dos tercios de los ingresos totales.",
+      "detail": "AMD compite directamente con Nvidia en el mercado de chips para IA, que es uno de los sectores más calientes de la bolsa. Un pronóstico de crecimiento tan fuerte muestra que la demanda de infraestructura para IA sigue acelerándose. Para quien aprende finanzas, esto ilustra cómo una tendencia tecnológica (el boom de la IA) se traduce en resultados concretos en los balances de las empresas que proveen el hardware necesario.",
       "tags": [
-        "fusiones",
-        "acciones",
-        "mercado"
+        "chips",
+        "inteligencia artificial",
+        "tecnología"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
-      "published_at": "2026-11-02T23:39:00Z",
-      "fecha_evento": "2026-11-02",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/amd-forecasts-66-q4-growth-ai-chip-demand-rapid-earnings-reaction",
+      "published_at": "2026-11-03T21:47:12Z",
+      "fecha_evento": "2026-11-03",
       "tickers": [
-        "MRVL",
-        "LITE"
+        "AMD"
       ]
     },
     {
-      "id": "corporate-bond-signal-sp500",
+      "id": "sp500-cliff-technical-2026",
       "type": "mercado",
-      "title": "El mercado de bonos corporativos emite una señal que históricamente anticipó caídas en el S&P 500",
-      "summary": "El mercado de bonos corporativos está dando una señal que, según datos históricos, suele preceder a correcciones importantes en la bolsa americana.",
-      "detail": "Los bonos corporativos y las acciones están interconectados: cuando los inversores en bonos se ponen más cautelosos (por ejemplo, exigiendo tasas más altas para prestar), suele ser una señal temprana de que el mercado ve más riesgo en la economía. Esta relación entre mercados es fundamental para entender cómo se mueven los activos financieros. Para alguien aprendiendo finanzas, es un buen ejemplo de por qué conviene mirar varios mercados a la vez y no solo las acciones.",
+      "title": "El S&P 500 está al borde de un nivel técnico clave: qué pasa si lo rompe",
+      "summary": "Un estratega de J.P. Morgan advirtió que si el S&P 500 cae por debajo de los 7.500 puntos, podría dispararse una ola de ventas y volatilidad que termine en una corrección importante del mercado.",
+      "detail": "En el análisis técnico, ciertos niveles de precio actúan como 'soporte': si el índice los rompe hacia abajo, muchos inversores y algoritmos de trading venden automáticamente, lo que amplifica la caída. Una corrección se define usualmente como una baja del 10% desde el máximo reciente. Entender estos mecanismos ayuda a comprender por qué los mercados a veces caen rápido aunque no haya una noticia económica nueva que lo explique.",
       "tags": [
-        "bonos",
         "S&P 500",
-        "riesgo"
+        "mercado",
+        "volatilidad"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/this-signal-from-the-corporate-bond-market-has-historically-preceded-big-drawdowns-for-the-s-p-500-8c1a3d25?mod=mw_rss_topstories",
-      "published_at": "2026-11-03T10:31:00Z",
+      "source_url": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+      "published_at": "2026-11-03T21:30:00Z",
       "fecha_evento": "2026-11-03",
       "tickers": []
     },
     {
-      "id": "oil-turning-point",
-      "type": "mercado",
-      "title": "Un estratega de petróleo muy seguido cree que llegó el momento de tomar ganancias en el crudo",
-      "summary": "Jeff Currie, un conocido analista del mercado del petróleo, considera que el rally del crudo de este año llegó a un punto de inflexión y que conviene vender, aunque el superciclo estructural seguiría intacto.",
-      "detail": "Cuando analistas de peso cambian su postura sobre un commodity como el petróleo, el mercado suele reaccionar porque hay muchos inversores que siguen esas recomendaciones. La idea de 'superciclo' implica que los precios altos del petróleo podrían durar años por razones estructurales, pero igual puede haber correcciones de corto plazo. Para alguien aprendiendo, es un buen ejemplo de cómo se diferencia una tendencia de largo plazo de los movimientos tácticos del mercado.",
+      "id": "supermicro-ai-servers-2026",
+      "type": "empresa",
+      "title": "Super Micro rebotó en bolsa: sus resultados muestran demanda récord de servidores para IA",
+      "summary": "Las acciones de Super Micro subieron tras publicar resultados que evidencian un boom en la demanda de servidores para inteligencia artificial, según explicó el CFO de la compañía.",
+      "detail": "Super Micro fabrica servidores de alto rendimiento que se usan para entrenar y correr modelos de IA. Su crecimiento refleja que las grandes empresas tecnológicas siguen invirtiendo fuerte en infraestructura para IA. Este tipo de empresa, que provee 'pala y pico' para la fiebre del oro de la IA, suele ser una forma indirecta de apostar al crecimiento del sector sin invertir directamente en las empresas de software.",
       "tags": [
-        "petróleo",
-        "commodities",
-        "estrategia"
+        "servidores",
+        "inteligencia artificial",
+        "tecnología"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/oil-has-had-a-massive-run-but-a-prominent-bull-sees-a-turning-point-on-midterm-eve-be2c5fa7?mod=mw_rss_topstories",
-      "published_at": "2026-11-03T10:54:00Z",
+      "source_url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+      "published_at": "2026-11-03T21:13:00Z",
       "fecha_evento": "2026-11-03",
+      "tickers": [
+        "SMCI"
+      ]
+    },
+    {
+      "id": "corea-sur-presupuesto-ai-2026",
+      "type": "economia",
+      "title": "Corea del Sur apuesta fuerte: destina billones de wones a IA y semiconductores en su presupuesto récord",
+      "summary": "El presupuesto de Corea del Sur para 2027 crecerá un 12,8% hasta 820,9 billones de won, con una inversión de 21,3 billones de won en semiconductores, IA física y centros de datos para desarrollar un modelo de IA soberano de 'máximo rendimiento mundial'.",
+      "detail": "Muchos países están apostando a tener su propia infraestructura de IA para no depender de tecnología extranjera, lo que se conoce como 'IA soberana'. Corea del Sur ya es un jugador clave en semiconductores (con empresas como Samsung y SK Hynix) y este presupuesto refuerza esa posición. Para inversores, es una señal de que la competencia global por el liderazgo en IA está atrayendo inversión pública masiva en varios países.",
+      "tags": [
+        "IA soberana",
+        "semiconductores",
+        "presupuesto"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+      "published_at": "2026-11-02T06:02:03Z",
+      "fecha_evento": "2026-11-02",
       "tickers": []
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.565",
-      "valor_num": 1565.0,
-      "delta_pct": 0.32
+      "valor": "$1.570",
+      "valor_num": 1570.0,
+      "delta_pct": 0.64
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.565",
-      "valor_num": 1565.0,
-      "delta_pct": 0.0
+      "valor": "$1.570",
+      "valor_num": 1570.0,
+      "delta_pct": 0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.580",
-      "valor_num": 1579.9,
-      "delta_pct": 0.31
+      "valor": "$1.581",
+      "valor_num": 1581.1,
+      "delta_pct": 0.39
     },
     {
       "label": "CCL",
-      "valor": "$1.670",
-      "valor_num": 1670.0,
-      "delta_pct": 0.69
+      "valor": "$1.669",
+      "valor_num": 1668.8,
+      "delta_pct": 0.62
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.001",
-      "valor_num": 77001.0,
-      "delta_pct": -1.04
+      "valor": "US$ 77.836",
+      "valor_num": 77836.0,
+      "delta_pct": 1.43
     },
     {
       "label": "S&P 500",
-      "valor": "7.541",
-      "valor_num": 7541.4,
-      "delta_pct": -1.76
+      "valor": "7.569",
+      "valor_num": 7568.92,
+      "delta_pct": -1.99
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.916",
-      "valor_num": 3916.3,
-      "delta_pct": -2.86
+      "valor": "US$ 3.939",
+      "valor_num": 3939.2,
+      "delta_pct": -2.29
     }
   ]
 }
