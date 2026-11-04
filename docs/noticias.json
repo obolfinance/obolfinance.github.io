@@ -1,15 +1,49 @@
 {
-  "generated_at": "2026-11-04T12:01:21.801869+00:00",
+  "generated_at": "2026-11-04T22:01:38.865972+00:00",
   "items": [
     {
-      "id": "job-openings-septiembre-2026",
+      "id": "australia-sube-tasas",
+      "type": "mercado",
+      "title": "Australia subió las tasas al nivel más alto en 18 años para frenar la inflación",
+      "summary": "El Banco Central de Australia subió las tasas de interés por quinta vez en el año, llevándolas al nivel más alto en 18 años. La decisión estuvo en línea con lo que esperaban los economistas.",
+      "detail": "Cuando un banco central sube las tasas de interés, encarece el crédito para frenar el consumo y la inversión, lo que ayuda a bajar la inflación pero también frena el crecimiento económico. Que sea la quinta suba del año muestra cuán persistente es el problema inflacionario a nivel global. Esta decisión de Australia es un ejemplo claro de la herramienta más usada por los bancos centrales del mundo, incluyendo la Fed de EE.UU. o el Banco Central Europeo.",
+      "tags": [
+        "tasas de interés",
+        "inflación",
+        "banco central"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "published_at": "2026-11-03T03:46:20Z",
+      "fecha_evento": "2026-11-03",
+      "tickers": []
+    },
+    {
+      "id": "empleos-privados-octubre-adp",
       "type": "economia",
-      "title": "Las vacantes laborales en EE.UU. subieron fuerte en septiembre",
-      "summary": "El mercado laboral estadounidense sorprendió al alza: en septiembre se registraron 7,52 millones de puestos vacantes, muy por encima de los 7,15 millones que esperaban los analistas y 333.000 más que en agosto.",
-      "detail": "Las vacantes laborales son un indicador clave de la salud del mercado de trabajo: más puestos sin cubrir significa que las empresas siguen demandando empleados, lo que suele traducirse en presión salarial y consumo sostenido. Este dato llega justo antes del informe de empleo (payrolls), que es uno de los más seguidos por la Reserva Federal para decidir si sube o baja las tasas de interés. Un mercado laboral fuerte puede llevar a la Fed a mantener tasas altas por más tiempo, lo que afecta tanto a los mercados globales como al dólar.",
+      "title": "El sector privado de EE.UU. creó 86.000 empleos en octubre, algo por encima de lo esperado",
+      "summary": "Según el informe de ADP, las empresas privadas generaron 86.000 puestos de trabajo en octubre, levemente por encima de las estimaciones. El crecimiento fue generalizado entre distintos sectores.",
+      "detail": "El dato de empleo privado de ADP es uno de los indicadores que el mercado sigue de cerca antes del reporte oficial de nóminas no agrícolas (Payrolls). Un mercado laboral sólido puede llevar a la Reserva Federal a mantener las tasas altas por más tiempo, ya que el pleno empleo suele alimentar la inflación. Para quien aprende finanzas, este tipo de dato muestra cómo los mercados reaccionan a señales económicas antes de que se publiquen los datos definitivos.",
       "tags": [
         "empleo",
-        "Estados Unidos",
+        "economía EE.UU.",
+        "Fed"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
+      "published_at": "2026-11-04T13:49:48Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": []
+    },
+    {
+      "id": "vacantes-empleo-septiembre",
+      "type": "economia",
+      "title": "Las vacantes de empleo en EE.UU. subieron fuerte en septiembre",
+      "summary": "El Bureau of Labor Statistics reportó 7,52 millones de puestos vacantes en septiembre, 333.000 más que en agosto y bastante por encima de los 7,15 millones que esperaba el mercado.",
+      "detail": "Las vacantes de empleo son una señal de cuánta demanda de trabajadores tienen las empresas: más vacantes significa que la economía está activa y las compañías quieren contratar. Este dato es parte de lo que la Fed observa para decidir si sube o baja las tasas de interés. Un mercado laboral fuerte puede ser señal de que la economía crece, pero también de que la inflación puede mantenerse elevada.",
+      "tags": [
+        "empleo",
+        "economía EE.UU.",
         "Fed"
       ],
       "source_name": "CNBC",
@@ -19,31 +53,88 @@
       "tickers": []
     },
     {
-      "id": "australia-sube-tasas-2026",
+      "id": "corea-del-sur-ia-presupuesto",
       "type": "economia",
-      "title": "Australia subió las tasas al nivel más alto en 18 años para frenar la inflación",
-      "summary": "El Banco Central de Australia volvió a subir las tasas de interés, llevándolas al nivel más alto desde hace 18 años. Fue la quinta suba del año y estuvo en línea con lo que esperaban los economistas.",
-      "detail": "Cuando un banco central sube las tasas de interés, encarece el crédito para frenar el consumo y, con eso, bajar la inflación. Australia lleva cinco subas en el año, lo que muestra que la inflación sigue siendo un problema global, no solo en Argentina o en EE.UU. Este tipo de decisiones también afecta al dólar australiano y a los flujos de capital: las tasas más altas atraen inversores que buscan mejor rendimiento, impactando en mercados financieros de todo el mundo.",
+      "title": "Corea del Sur apuesta fuerte a la inteligencia artificial en su presupuesto récord 2027",
+      "summary": "El presupuesto de Corea del Sur para 2027 crecerá un 12,8% hasta los 820,9 billones de wones, con una inversión de 21,3 billones en semiconductores, inteligencia artificial física y centros de datos de IA.",
+      "detail": "Que un gobierno destine una parte tan grande de su presupuesto a tecnología e IA muestra cómo los países compiten por liderar la próxima ola de crecimiento económico. Los semiconductores y la IA son sectores que hoy mueven mercados globales, y decisiones como esta pueden impactar en empresas del sector en todo el mundo. Para un inversor que empieza, es un ejemplo de cómo la política pública puede crear oportunidades —o riesgos— en sectores tecnológicos.",
       "tags": [
-        "tasas de interés",
-        "banco central",
-        "inflación"
+        "inteligencia artificial",
+        "semiconductores",
+        "presupuesto"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
-      "published_at": "2026-11-03T03:46:20Z",
-      "fecha_evento": "2026-11-03",
+      "source_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+      "published_at": "2026-11-02T06:02:03Z",
+      "fecha_evento": "2026-11-02",
       "tickers": []
     },
     {
-      "id": "disney-layoffs-2026",
+      "id": "cvs-split-farmacia-aetna",
       "type": "empresa",
-      "title": "Disney anunció miles de despidos y pidió recortar costos hasta un 20%",
-      "summary": "Disney planea echar a varios miles de empleados en la última ronda de recortes de la compañía, y les pidió a algunos gerentes que bajen sus costos hasta un 20%.",
-      "detail": "Cuando una empresa grande como Disney anuncia recortes masivos, suele ser una señal de que busca mejorar su rentabilidad ante presiones económicas o caída de ingresos. Para los inversores, los despidos a veces se ven como algo positivo en el corto plazo porque reducen costos y pueden mejorar las ganancias por acción. Sin embargo, también pueden indicar problemas más profundos en el negocio. Es un ejemplo clásico de cómo las decisiones corporativas impactan tanto en trabajadores como en accionistas.",
+      "title": "CVS Health anunció que se va a dividir: separa su negocio de farmacias del resto",
+      "summary": "CVS Health confirmó que planea separar su negocio de farmacias minoristas del resto de la empresa, deshaciendo en parte la megafusión de u$s78.000 millones con la aseguradora Aetna que realizó en 2018. Las acciones cayeron un 10%.",
+      "detail": "CVS es un ejemplo clásico de integración vertical: comprar toda la cadena de valor —farmacias, seguros de salud, servicios médicos— para controlar costos y ofrecer todo bajo un mismo techo. Sin embargo, cuando esa estrategia no genera los resultados esperados, el mercado puede castigar la acción. La caída del 10% refleja que los inversores no están seguros de que la separación cree valor. Este caso enseña cómo las decisiones estratégicas de grandes empresas afectan directamente el precio de sus acciones.",
+      "tags": [
+        "empresas",
+        "salud",
+        "fusiones"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
+      "published_at": "2026-11-04T21:04:13Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": [
+        "CVS"
+      ]
+    },
+    {
+      "id": "mcdonalds-resultados-mejora",
+      "type": "empresa",
+      "title": "McDonald's superó las expectativas y sus restaurantes en EE.UU. muestran mejoría",
+      "summary": "McDonald's publicó resultados trimestrales mejores a los esperados, impulsados por una estrategia de descuentos para atraer clientes más sensibles al precio. La acción subió tras el anuncio.",
+      "detail": "McDonald's es una de las empresas más seguidas del mundo porque sus resultados reflejan el consumo masivo: si la gente come más en McDonald's, suele ser señal de que cuida el bolsillo. El hecho de que hayan recurrido a descuentos para sostener las ventas muestra el impacto de la inflación en el comportamiento del consumidor. Para quien aprende finanzas, ver cómo una empresa adapta su estrategia a la coyuntura económica es un ejercicio muy útil.",
+      "tags": [
+        "consumo",
+        "resultados",
+        "acciones"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+      "published_at": "2026-11-04T21:02:53Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": [
+        "MCD"
+      ]
+    },
+    {
+      "id": "kraft-heinz-vende-cafe",
+      "type": "empresa",
+      "title": "Kraft Heinz vende su negocio de café en Norteamérica por u$s650 millones",
+      "summary": "Kraft Heinz acordó vender su división de café en América del Norte a la firma de capital privado One Rock Capital Partners por 650 millones de dólares, como parte del plan de reestructuración de su nuevo CEO.",
+      "detail": "Las desinversiones —vender partes del negocio— son una estrategia habitual cuando una empresa quiere enfocarse en sus líneas más rentables o reducir deuda. Para Kraft Heinz, que viene de años difíciles, esta venta es una señal de que la nueva gestión está reorganizando el portafolio. El comprador es un fondo de capital privado (private equity), un tipo de inversor que suele apostar a mejorar empresas y revenderlas más adelante.",
+      "tags": [
+        "desinversión",
+        "empresas",
+        "capital privado"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+      "published_at": "2026-11-04T17:21:06Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": [
+        "KHC"
+      ]
+    },
+    {
+      "id": "disney-despidos-recortes",
+      "type": "empresa",
+      "title": "Disney planea despedir a varios miles de empleados y pide a sus gerentes recortar costos hasta un 20%",
+      "summary": "Disney anunció una nueva ronda de despidos masivos y les pidió a algunos gerentes que reduzcan sus costos hasta un 20%, en un nuevo ajuste para la compañía de entretenimiento.",
+      "detail": "Cuando una empresa grande como Disney recorta personal y exige bajar costos, generalmente es una señal de que sus ingresos o márgenes están bajo presión. Estos anuncios suelen mover el precio de las acciones, ya que el mercado los interpreta como esfuerzos para mejorar la rentabilidad. Para alguien que aprende finanzas, es un ejemplo de cómo las decisiones operativas de una empresa se conectan directamente con sus resultados financieros y el valor bursátil.",
       "tags": [
         "despidos",
-        "entretenimiento",
+        "empresas",
         "costos"
       ],
       "source_name": "CNBC",
@@ -55,134 +146,42 @@
       ]
     },
     {
-      "id": "pfizer-sube-perspectivas-2026",
-      "type": "empresa",
-      "title": "Pfizer mejoró sus perspectivas anuales por el crecimiento de nuevos productos",
-      "summary": "Pfizer subió su pronóstico para todo el año gracias al crecimiento de nuevos productos, y además nombró a Cecile Guegan como nueva directora financiera (CFO), una veterana de la empresa con más de 20 años en la compañía.",
-      "detail": "Cuando una empresa sube su guidance (pronóstico de resultados), está diciéndole al mercado que espera ganar más de lo que había anticipado antes, lo que suele impulsar el precio de sus acciones. El cambio de CFO también es relevante porque el director financiero es quien maneja la estrategia de costos, deuda y rentabilidad de la empresa. Seguir estos anuncios ayuda a entender cómo las grandes farmacéuticas gestionan su crecimiento y comunican expectativas al mercado.",
-      "tags": [
-        "farmacéutica",
-        "resultados",
-        "guidance"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
-      "published_at": "2026-11-03T19:25:44Z",
-      "fecha_evento": "2026-11-03",
-      "tickers": [
-        "PFE"
-      ]
-    },
-    {
-      "id": "ferrari-sube-guidance-q3-2026",
-      "type": "empresa",
-      "title": "Ferrari mejoró sus previsiones para 2026 tras superar las expectativas del tercer trimestre",
-      "summary": "Ferrari subió su guidance para 2026 después de que sus ingresos y ganancias del tercer trimestre superaran lo que esperaba Wall Street.",
-      "detail": "Ferrari es un ejemplo interesante en finanzas porque opera en un segmento de lujo donde la demanda es menos sensible a los ciclos económicos. Cuando supera las expectativas y sube sus previsiones, el mercado suele recompensar la acción. Este tipo de noticias muestra cómo la gestión de expectativas (guidance) es central en la relación entre una empresa y sus inversores: no alcanza con ganar, hay que ganar más de lo esperado.",
-      "tags": [
-        "automotriz",
-        "resultados",
-        "lujo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-      "published_at": "2026-11-03T21:11:34Z",
-      "fecha_evento": "2026-11-03",
-      "tickers": [
-        "RACE"
-      ]
-    },
-    {
-      "id": "democrats-win-house-senate-2026",
-      "type": "economia",
-      "title": "Los demócratas ganaron la Cámara y el Senado en las elecciones de medio término de EE.UU.",
-      "summary": "Los demócratas se quedaron con el control de la Cámara de Representantes y el Senado en las elecciones de medio término estadounidenses, un resultado que tendrá efectos sobre las inversiones y las finanzas de los americanos.",
-      "detail": "El resultado electoral en EE.UU. importa a nivel global porque define qué políticas fiscales, regulatorias y comerciales se van a implementar en la mayor economía del mundo. Un Congreso bajo control demócrata puede implicar distintas prioridades en gasto público, impuestos y regulación financiera respecto a una mayoría republicana. Para quienes aprenden finanzas, este es un ejemplo claro de cómo la política impacta directamente en los mercados y en las decisiones de inversión.",
-      "tags": [
-        "política",
-        "elecciones",
-        "mercados"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
-      "published_at": "2026-11-04T06:27:00Z",
-      "fecha_evento": "2026-11-04",
-      "tickers": []
-    },
-    {
-      "id": "novo-nordisk-wegovy-pill-2026",
-      "type": "empresa",
-      "title": "Novo Nordisk subió sus perspectivas gracias al éxito de la pastilla de Wegovy",
-      "summary": "Las acciones de Novo Nordisk subieron después de que la farmacéutica danesa mejoró su guidance por la fuerte adopción de la versión en pastilla de su medicamento para bajar de peso, Wegovy, lanzada este año.",
-      "detail": "Wegovy es uno de los medicamentos más comentados del mercado por su impacto en el tratamiento de la obesidad. El lanzamiento de una versión en pastilla (en lugar de inyección) puede ampliar mucho el mercado potencial porque es más fácil de tomar. Cuando una empresa farmacéutica mejora su guidance por un producto nuevo, es una señal de que la adopción real supera las expectativas, lo que suele traducirse en suba de la acción y mayor atención de los inversores.",
-      "tags": [
-        "farmacéutica",
-        "salud",
-        "guidance"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories",
-      "published_at": "2026-11-04T09:41:00Z",
-      "fecha_evento": "2026-11-04",
-      "tickers": [
-        "NVO"
-      ]
-    },
-    {
-      "id": "amd-ai-revenue-2026",
+      "id": "microsoft-amazon-suba-mercado",
       "type": "mercado",
-      "title": "Las acciones de AMD suben por ingresos reales en inteligencia artificial",
-      "summary": "AMD mostró ingresos concretos provenientes de inteligencia artificial, alejando dudas sobre la sustentabilidad del negocio, y presentó un pronóstico optimista que impulsó su acción al alza.",
-      "detail": "Una de las grandes preguntas del mercado tech es si las inversiones en IA están generando ingresos reales o solo son expectativas. Cuando AMD reporta ingresos tangibles en IA, refuerza la idea de que la demanda no es solo especulación. Esto tiene efecto dominó: impacta la valoración de otras empresas del sector de chips y cloud, y da señales sobre la solidez del ciclo de inversión en tecnología a nivel global.",
+      "title": "Microsoft y Amazon sumaron juntas u$s424.000 millones en capitalización bursátil",
+      "summary": "Las acciones de Microsoft y Amazon subieron con fuerza, impulsando una suba combinada de 424.000 millones de dólares en su valor de mercado. Un gestor de carteras señaló que la escasez de oferta en la nube podría permitirles subir precios.",
+      "detail": "La capitalización bursátil es el valor total de una empresa según su precio en bolsa: sube cuando el precio de la acción sube y baja cuando cae. Que dos empresas sumen casi medio billón de dólares en un solo día muestra el peso que tienen las Big Tech en el mercado global. La idea de que la escasez de capacidad en la nube les da poder para subir precios es un concepto clave: cuando la oferta no alcanza a la demanda, quien ofrece el servicio puede cobrar más.",
       "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "chips"
+        "Big Tech",
+        "mercado",
+        "nube"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
-      "published_at": "2026-11-04T09:30:00Z",
+      "source_url": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
+      "published_at": "2026-11-04T21:33:00Z",
       "fecha_evento": "2026-11-04",
       "tickers": [
-        "AMD"
+        "MSFT",
+        "AMZN"
       ]
     },
     {
-      "id": "apple-stock-falls-earnings-2026",
-      "type": "empresa",
-      "title": "Las acciones de Apple caen tras sus resultados por decepción en márgenes y servicios",
-      "summary": "Las acciones de Apple bajaron casi un 2% después de que los inversores quedaran decepcionados con las perspectivas de márgenes brutos y el menor crecimiento de los ingresos por servicios.",
-      "detail": "Apple es una de las empresas con mayor peso en los índices bursátiles globales, así que cuando su acción baja, arrastra al mercado en general. El foco en los márgenes brutos y en servicios (como App Store, iCloud y Apple TV) muestra que el mercado no solo mira las ventas de iPhones, sino la calidad y sustentabilidad de las ganancias. Este caso ilustra cómo no alcanza con ganar dinero: si los resultados no cumplen las expectativas del mercado, el precio cae igual.",
+      "id": "chips-elecciones-mid",
+      "type": "mercado",
+      "title": "Las acciones de chips como Micron cayeron tras los resultados electorales en EE.UU.",
+      "summary": "Las acciones de empresas de semiconductores, incluyendo Micron, bajaron después de que los demócratas lograran victorias en Texas y otros estados, lo que genera dudas sobre el futuro del plan de expansión de centros de datos de IA.",
+      "detail": "El resultado electoral impactó en el sector tecnológico porque distintos gobiernos tienen distintas políticas sobre subsidios, regulaciones y contratos públicos para la industria tecnológica. Los inversores ajustaron sus expectativas sobre el ritmo de inversión en infraestructura de inteligencia artificial, lo que se tradujo en una caída de las acciones de empresas de semiconductores. Este caso muestra cómo la política puede afectar a sectores enteros del mercado en cuestión de horas.",
       "tags": [
-        "tecnología",
-        "resultados",
-        "márgenes"
+        "semiconductores",
+        "elecciones",
+        "inteligencia artificial"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-      "published_at": "2026-11-03T22:48:00Z",
-      "fecha_evento": "2026-11-03",
+      "source_url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+      "published_at": "2026-11-04T21:55:00Z",
+      "fecha_evento": "2026-11-04",
       "tickers": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "shopify-misses-revenue-2026",
-      "type": "empresa",
-      "title": "Shopify cayó en bolsa tras no llegar a las expectativas de ingresos",
-      "summary": "Las acciones de Shopify se derrumbaron después de que la empresa no alcanzara las expectativas de ingresos, un resultado que el mercado castigó con dureza en el contexto tech actual.",
-      "detail": "Shopify es una plataforma clave para el comercio electrónico global, muy usada por pymes. Que no llegue a las expectativas de ingresos en un mercado tech que hoy es menos tolerante con las decepciones muestra cuánto pesan las expectativas de los analistas sobre el precio de una acción. Este tipo de reacción del mercado es un ejemplo clásico de que el precio de una acción no solo refleja los resultados actuales, sino la diferencia entre lo que se esperaba y lo que realmente pasó.",
-      "tags": [
-        "tecnología",
-        "e-commerce",
-        "resultados"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-      "published_at": "2026-11-03T22:45:00Z",
-      "fecha_evento": "2026-11-03",
-      "tickers": [
-        "SHOP"
+        "MU"
       ]
     }
   ],
@@ -195,39 +194,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.570",
-      "valor_num": 1570.0,
-      "delta_pct": 0.32
+      "valor": "$1.560",
+      "valor_num": 1560.0,
+      "delta_pct": -0.32
     },
     {
       "label": "MEP",
-      "valor": "$1.581",
-      "valor_num": 1581.1,
-      "delta_pct": 0.08
+      "valor": "$1.589",
+      "valor_num": 1588.6,
+      "delta_pct": 0.55
     },
     {
       "label": "CCL",
-      "valor": "$1.669",
-      "valor_num": 1668.8,
-      "delta_pct": -0.07
+      "valor": "$1.680",
+      "valor_num": 1680.4,
+      "delta_pct": 0.62
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 78.413",
-      "valor_num": 78413.0,
-      "delta_pct": 1.87
+      "valor": "US$ 80.191",
+      "valor_num": 80191.0,
+      "delta_pct": 3.03
     },
     {
       "label": "S&P 500",
-      "valor": "7.569",
-      "valor_num": 7568.92,
-      "delta_pct": -1.99
+      "valor": "7.689",
+      "valor_num": 7688.62,
+      "delta_pct": -0.71
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.051",
-      "valor_num": 4051.1,
-      "delta_pct": 3.9
+      "valor": "US$ 4.071",
+      "valor_num": 4070.6,
+      "delta_pct": 4.4
     }
   ]
 }
