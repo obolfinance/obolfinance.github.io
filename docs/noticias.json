@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-03T22:01:13.105014+00:00",
+  "generated_at": "2026-11-04T12:01:21.801869+00:00",
   "items": [
     {
-      "id": "job-openings-sep-2026",
+      "id": "job-openings-septiembre-2026",
       "type": "economia",
-      "title": "Las ofertas de trabajo en EE.UU. subieron fuerte en septiembre",
-      "summary": "El mercado laboral estadounidense sorprendió al alza: se registraron 7,52 millones de puestos vacantes en septiembre, 333.000 más que en agosto y muy por encima de lo que esperaban los analistas (7,15 millones).",
-      "detail": "Las ofertas de empleo son un indicador adelantado clave: si hay muchos puestos sin cubrir, significa que las empresas siguen queriendo contratar, lo que sugiere una economía activa. Este dato llega justo antes del reporte de nóminas (payrolls), que es uno de los más seguidos por la Reserva Federal para decidir si baja o sube las tasas de interés. Un mercado laboral fuerte puede hacer que la Fed sea más cautelosa a la hora de recortar tasas.",
+      "title": "Las vacantes laborales en EE.UU. subieron fuerte en septiembre",
+      "summary": "El mercado laboral estadounidense sorprendió al alza: en septiembre se registraron 7,52 millones de puestos vacantes, muy por encima de los 7,15 millones que esperaban los analistas y 333.000 más que en agosto.",
+      "detail": "Las vacantes laborales son un indicador clave de la salud del mercado de trabajo: más puestos sin cubrir significa que las empresas siguen demandando empleados, lo que suele traducirse en presión salarial y consumo sostenido. Este dato llega justo antes del informe de empleo (payrolls), que es uno de los más seguidos por la Reserva Federal para decidir si sube o baja las tasas de interés. Un mercado laboral fuerte puede llevar a la Fed a mantener tasas altas por más tiempo, lo que afecta tanto a los mercados globales como al dólar.",
       "tags": [
         "empleo",
-        "economía EE.UU.",
+        "Estados Unidos",
         "Fed"
       ],
       "source_name": "CNBC",
@@ -21,13 +21,13 @@
     {
       "id": "australia-sube-tasas-2026",
       "type": "economia",
-      "title": "Australia subió sus tasas al nivel más alto en 18 años para frenar la inflación",
-      "summary": "El Banco Central de Australia volvió a subir las tasas de interés, en línea con lo que esperaban los economistas, y es el quinto aumento del año. Las tasas quedaron en su nivel más alto desde hace 18 años.",
-      "detail": "Cuando un banco central sube las tasas, encarece el crédito para frenar el consumo y, con eso, bajar la inflación. Australia es un ejemplo de que la lucha contra la inflación sigue siendo global, no solo un fenómeno de EE.UU. o Europa. Para alguien que aprende finanzas, es útil ver cómo distintos países aplican la misma herramienta —la tasa de interés— para enfrentar el mismo problema.",
+      "title": "Australia subió las tasas al nivel más alto en 18 años para frenar la inflación",
+      "summary": "El Banco Central de Australia volvió a subir las tasas de interés, llevándolas al nivel más alto desde hace 18 años. Fue la quinta suba del año y estuvo en línea con lo que esperaban los economistas.",
+      "detail": "Cuando un banco central sube las tasas de interés, encarece el crédito para frenar el consumo y, con eso, bajar la inflación. Australia lleva cinco subas en el año, lo que muestra que la inflación sigue siendo un problema global, no solo en Argentina o en EE.UU. Este tipo de decisiones también afecta al dólar australiano y a los flujos de capital: las tasas más altas atraen inversores que buscan mejor rendimiento, impactando en mercados financieros de todo el mundo.",
       "tags": [
-        "tasas",
-        "inflación",
-        "banco central"
+        "tasas de interés",
+        "banco central",
+        "inflación"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
@@ -38,9 +38,9 @@
     {
       "id": "disney-layoffs-2026",
       "type": "empresa",
-      "title": "Disney planea despedir miles de empleados y pide bajar costos hasta un 20%",
-      "summary": "Disney anunció que va a echar a varios miles de trabajadores en una nueva ronda de recortes, y les pidió a algunos gerentes que reduzcan sus gastos hasta un 20%.",
-      "detail": "Cuando una empresa grande como Disney recorta empleos y costos, generalmente es para mejorar sus márgenes de ganancia o para adaptarse a cambios en su negocio. Estos movimientos suelen impactar en el precio de la acción, ya que el mercado los puede interpretar como señal de que la empresa quiere ser más eficiente. Es un ejemplo clásico de cómo las decisiones internas de una compañía se traducen en señales financieras para los inversores.",
+      "title": "Disney anunció miles de despidos y pidió recortar costos hasta un 20%",
+      "summary": "Disney planea echar a varios miles de empleados en la última ronda de recortes de la compañía, y les pidió a algunos gerentes que bajen sus costos hasta un 20%.",
+      "detail": "Cuando una empresa grande como Disney anuncia recortes masivos, suele ser una señal de que busca mejorar su rentabilidad ante presiones económicas o caída de ingresos. Para los inversores, los despidos a veces se ven como algo positivo en el corto plazo porque reducen costos y pueden mejorar las ganancias por acción. Sin embargo, también pueden indicar problemas más profundos en el negocio. Es un ejemplo clásico de cómo las decisiones corporativas impactan tanto en trabajadores como en accionistas.",
       "tags": [
         "despidos",
         "entretenimiento",
@@ -55,15 +55,15 @@
       ]
     },
     {
-      "id": "pfizer-outlook-cfo-2026",
+      "id": "pfizer-sube-perspectivas-2026",
       "type": "empresa",
-      "title": "Pfizer mejoró sus proyecciones anuales y nombró una nueva CFO",
-      "summary": "Pfizer subió su perspectiva de resultados para todo el año gracias al crecimiento de sus nuevos productos, y anunció que Cecile Guegan —con 20 años en la compañía— asume como directora financiera este mes.",
-      "detail": "Cuando una empresa sube su 'outlook' (proyección de ganancias), le está diciendo al mercado que espera ganar más de lo que había prometido antes, lo que suele impulsar el precio de la acción. El cambio de CFO también es relevante porque el director financiero es quien maneja la estrategia de costos, deuda e inversiones de la empresa. Seguir estos anuncios ayuda a entender cómo las grandes farmacéuticas comunican su salud financiera.",
+      "title": "Pfizer mejoró sus perspectivas anuales por el crecimiento de nuevos productos",
+      "summary": "Pfizer subió su pronóstico para todo el año gracias al crecimiento de nuevos productos, y además nombró a Cecile Guegan como nueva directora financiera (CFO), una veterana de la empresa con más de 20 años en la compañía.",
+      "detail": "Cuando una empresa sube su guidance (pronóstico de resultados), está diciéndole al mercado que espera ganar más de lo que había anticipado antes, lo que suele impulsar el precio de sus acciones. El cambio de CFO también es relevante porque el director financiero es quien maneja la estrategia de costos, deuda y rentabilidad de la empresa. Seguir estos anuncios ayuda a entender cómo las grandes farmacéuticas gestionan su crecimiento y comunican expectativas al mercado.",
       "tags": [
         "farmacéutica",
         "resultados",
-        "management"
+        "guidance"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
@@ -74,15 +74,15 @@
       ]
     },
     {
-      "id": "ferrari-guidance-q3-2026",
+      "id": "ferrari-sube-guidance-q3-2026",
       "type": "empresa",
-      "title": "Ferrari mejoró sus proyecciones para 2026 tras superar expectativas en el tercer trimestre",
-      "summary": "Ferrari subió su guía de resultados para 2026 después de que sus ingresos y ganancias por acción del tercer trimestre superaran lo que esperaba Wall Street.",
-      "detail": "Que Ferrari mejore su 'guidance' significa que la empresa ve mejor negocio por delante de lo que anticipaba. Para los inversores, esto es una señal positiva porque indica que la demanda de sus autos de lujo sigue firme. Ferrari es un ejemplo interesante de empresa 'premium' cuya valuación en bolsa suele ser muy alta en relación a sus ganancias, justamente porque el mercado le asigna un valor especial a su marca.",
+      "title": "Ferrari mejoró sus previsiones para 2026 tras superar las expectativas del tercer trimestre",
+      "summary": "Ferrari subió su guidance para 2026 después de que sus ingresos y ganancias del tercer trimestre superaran lo que esperaba Wall Street.",
+      "detail": "Ferrari es un ejemplo interesante en finanzas porque opera en un segmento de lujo donde la demanda es menos sensible a los ciclos económicos. Cuando supera las expectativas y sube sus previsiones, el mercado suele recompensar la acción. Este tipo de noticias muestra cómo la gestión de expectativas (guidance) es central en la relación entre una empresa y sus inversores: no alcanza con ganar, hay que ganar más de lo esperado.",
       "tags": [
+        "automotriz",
         "resultados",
-        "lujo",
-        "guidance"
+        "lujo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
@@ -93,76 +93,97 @@
       ]
     },
     {
-      "id": "amd-q4-forecast-ai-2026",
-      "type": "empresa",
-      "title": "AMD proyecta un crecimiento del 66% en el cuarto trimestre impulsado por chips de IA",
-      "summary": "AMD anticipó un crecimiento del 66% en sus ingresos del cuarto trimestre gracias a la demanda de chips para inteligencia artificial. Su negocio de centros de datos ya representa casi dos tercios de los ingresos totales.",
-      "detail": "AMD compite directamente con Nvidia en el mercado de chips para IA, que es uno de los sectores más calientes de la bolsa. Un pronóstico de crecimiento tan fuerte muestra que la demanda de infraestructura para IA sigue acelerándose. Para quien aprende finanzas, esto ilustra cómo una tendencia tecnológica (el boom de la IA) se traduce en resultados concretos en los balances de las empresas que proveen el hardware necesario.",
+      "id": "democrats-win-house-senate-2026",
+      "type": "economia",
+      "title": "Los demócratas ganaron la Cámara y el Senado en las elecciones de medio término de EE.UU.",
+      "summary": "Los demócratas se quedaron con el control de la Cámara de Representantes y el Senado en las elecciones de medio término estadounidenses, un resultado que tendrá efectos sobre las inversiones y las finanzas de los americanos.",
+      "detail": "El resultado electoral en EE.UU. importa a nivel global porque define qué políticas fiscales, regulatorias y comerciales se van a implementar en la mayor economía del mundo. Un Congreso bajo control demócrata puede implicar distintas prioridades en gasto público, impuestos y regulación financiera respecto a una mayoría republicana. Para quienes aprenden finanzas, este es un ejemplo claro de cómo la política impacta directamente en los mercados y en las decisiones de inversión.",
       "tags": [
-        "chips",
-        "inteligencia artificial",
-        "tecnología"
+        "política",
+        "elecciones",
+        "mercados"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/amd-forecasts-66-q4-growth-ai-chip-demand-rapid-earnings-reaction",
-      "published_at": "2026-11-03T21:47:12Z",
-      "fecha_evento": "2026-11-03",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+      "published_at": "2026-11-04T06:27:00Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": []
+    },
+    {
+      "id": "novo-nordisk-wegovy-pill-2026",
+      "type": "empresa",
+      "title": "Novo Nordisk subió sus perspectivas gracias al éxito de la pastilla de Wegovy",
+      "summary": "Las acciones de Novo Nordisk subieron después de que la farmacéutica danesa mejoró su guidance por la fuerte adopción de la versión en pastilla de su medicamento para bajar de peso, Wegovy, lanzada este año.",
+      "detail": "Wegovy es uno de los medicamentos más comentados del mercado por su impacto en el tratamiento de la obesidad. El lanzamiento de una versión en pastilla (en lugar de inyección) puede ampliar mucho el mercado potencial porque es más fácil de tomar. Cuando una empresa farmacéutica mejora su guidance por un producto nuevo, es una señal de que la adopción real supera las expectativas, lo que suele traducirse en suba de la acción y mayor atención de los inversores.",
+      "tags": [
+        "farmacéutica",
+        "salud",
+        "guidance"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/beleaguered-novo-offers-relief-to-investors-thanks-to-wegovy-pill-422c251b?mod=mw_rss_topstories",
+      "published_at": "2026-11-04T09:41:00Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": [
+        "NVO"
+      ]
+    },
+    {
+      "id": "amd-ai-revenue-2026",
+      "type": "mercado",
+      "title": "Las acciones de AMD suben por ingresos reales en inteligencia artificial",
+      "summary": "AMD mostró ingresos concretos provenientes de inteligencia artificial, alejando dudas sobre la sustentabilidad del negocio, y presentó un pronóstico optimista que impulsó su acción al alza.",
+      "detail": "Una de las grandes preguntas del mercado tech es si las inversiones en IA están generando ingresos reales o solo son expectativas. Cuando AMD reporta ingresos tangibles en IA, refuerza la idea de que la demanda no es solo especulación. Esto tiene efecto dominó: impacta la valoración de otras empresas del sector de chips y cloud, y da señales sobre la solidez del ciclo de inversión en tecnología a nivel global.",
+      "tags": [
+        "inteligencia artificial",
+        "tecnología",
+        "chips"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+      "published_at": "2026-11-04T09:30:00Z",
+      "fecha_evento": "2026-11-04",
       "tickers": [
         "AMD"
       ]
     },
     {
-      "id": "sp500-cliff-technical-2026",
-      "type": "mercado",
-      "title": "El S&P 500 está al borde de un nivel técnico clave: qué pasa si lo rompe",
-      "summary": "Un estratega de J.P. Morgan advirtió que si el S&P 500 cae por debajo de los 7.500 puntos, podría dispararse una ola de ventas y volatilidad que termine en una corrección importante del mercado.",
-      "detail": "En el análisis técnico, ciertos niveles de precio actúan como 'soporte': si el índice los rompe hacia abajo, muchos inversores y algoritmos de trading venden automáticamente, lo que amplifica la caída. Una corrección se define usualmente como una baja del 10% desde el máximo reciente. Entender estos mecanismos ayuda a comprender por qué los mercados a veces caen rápido aunque no haya una noticia económica nueva que lo explique.",
-      "tags": [
-        "S&P 500",
-        "mercado",
-        "volatilidad"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
-      "published_at": "2026-11-03T21:30:00Z",
-      "fecha_evento": "2026-11-03",
-      "tickers": []
-    },
-    {
-      "id": "supermicro-ai-servers-2026",
+      "id": "apple-stock-falls-earnings-2026",
       "type": "empresa",
-      "title": "Super Micro rebotó en bolsa: sus resultados muestran demanda récord de servidores para IA",
-      "summary": "Las acciones de Super Micro subieron tras publicar resultados que evidencian un boom en la demanda de servidores para inteligencia artificial, según explicó el CFO de la compañía.",
-      "detail": "Super Micro fabrica servidores de alto rendimiento que se usan para entrenar y correr modelos de IA. Su crecimiento refleja que las grandes empresas tecnológicas siguen invirtiendo fuerte en infraestructura para IA. Este tipo de empresa, que provee 'pala y pico' para la fiebre del oro de la IA, suele ser una forma indirecta de apostar al crecimiento del sector sin invertir directamente en las empresas de software.",
+      "title": "Las acciones de Apple caen tras sus resultados por decepción en márgenes y servicios",
+      "summary": "Las acciones de Apple bajaron casi un 2% después de que los inversores quedaran decepcionados con las perspectivas de márgenes brutos y el menor crecimiento de los ingresos por servicios.",
+      "detail": "Apple es una de las empresas con mayor peso en los índices bursátiles globales, así que cuando su acción baja, arrastra al mercado en general. El foco en los márgenes brutos y en servicios (como App Store, iCloud y Apple TV) muestra que el mercado no solo mira las ventas de iPhones, sino la calidad y sustentabilidad de las ganancias. Este caso ilustra cómo no alcanza con ganar dinero: si los resultados no cumplen las expectativas del mercado, el precio cae igual.",
       "tags": [
-        "servidores",
-        "inteligencia artificial",
-        "tecnología"
+        "tecnología",
+        "resultados",
+        "márgenes"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
-      "published_at": "2026-11-03T21:13:00Z",
+      "source_url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+      "published_at": "2026-11-03T22:48:00Z",
       "fecha_evento": "2026-11-03",
       "tickers": [
-        "SMCI"
+        "AAPL"
       ]
     },
     {
-      "id": "corea-sur-presupuesto-ai-2026",
-      "type": "economia",
-      "title": "Corea del Sur apuesta fuerte: destina billones de wones a IA y semiconductores en su presupuesto récord",
-      "summary": "El presupuesto de Corea del Sur para 2027 crecerá un 12,8% hasta 820,9 billones de won, con una inversión de 21,3 billones de won en semiconductores, IA física y centros de datos para desarrollar un modelo de IA soberano de 'máximo rendimiento mundial'.",
-      "detail": "Muchos países están apostando a tener su propia infraestructura de IA para no depender de tecnología extranjera, lo que se conoce como 'IA soberana'. Corea del Sur ya es un jugador clave en semiconductores (con empresas como Samsung y SK Hynix) y este presupuesto refuerza esa posición. Para inversores, es una señal de que la competencia global por el liderazgo en IA está atrayendo inversión pública masiva en varios países.",
+      "id": "shopify-misses-revenue-2026",
+      "type": "empresa",
+      "title": "Shopify cayó en bolsa tras no llegar a las expectativas de ingresos",
+      "summary": "Las acciones de Shopify se derrumbaron después de que la empresa no alcanzara las expectativas de ingresos, un resultado que el mercado castigó con dureza en el contexto tech actual.",
+      "detail": "Shopify es una plataforma clave para el comercio electrónico global, muy usada por pymes. Que no llegue a las expectativas de ingresos en un mercado tech que hoy es menos tolerante con las decepciones muestra cuánto pesan las expectativas de los analistas sobre el precio de una acción. Este tipo de reacción del mercado es un ejemplo clásico de que el precio de una acción no solo refleja los resultados actuales, sino la diferencia entre lo que se esperaba y lo que realmente pasó.",
       "tags": [
-        "IA soberana",
-        "semiconductores",
-        "presupuesto"
+        "tecnología",
+        "e-commerce",
+        "resultados"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-      "published_at": "2026-11-02T06:02:03Z",
-      "fecha_evento": "2026-11-02",
-      "tickers": []
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+      "published_at": "2026-11-03T22:45:00Z",
+      "fecha_evento": "2026-11-03",
+      "tickers": [
+        "SHOP"
+      ]
     }
   ],
   "ticker": [
@@ -170,7 +191,7 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.570",
       "valor_num": 1570.0,
-      "delta_pct": 0.64
+      "delta_pct": 0.32
     },
     {
       "label": "DÓLAR BLUE",
@@ -182,19 +203,19 @@
       "label": "MEP",
       "valor": "$1.581",
       "valor_num": 1581.1,
-      "delta_pct": 0.39
+      "delta_pct": 0.08
     },
     {
       "label": "CCL",
       "valor": "$1.669",
       "valor_num": 1668.8,
-      "delta_pct": 0.62
+      "delta_pct": -0.07
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 77.836",
-      "valor_num": 77836.0,
-      "delta_pct": 1.43
+      "valor": "US$ 78.413",
+      "valor_num": 78413.0,
+      "delta_pct": 1.87
     },
     {
       "label": "S&P 500",
@@ -204,9 +225,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.939",
-      "valor_num": 3939.2,
-      "delta_pct": -2.29
+      "valor": "US$ 4.051",
+      "valor_num": 4051.1,
+      "delta_pct": 3.9
     }
   ]
 }
