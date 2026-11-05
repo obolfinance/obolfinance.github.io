@@ -1,32 +1,15 @@
 {
-  "generated_at": "2026-11-04T22:01:38.865972+00:00",
+  "generated_at": "2026-11-05T12:01:25.335046+00:00",
   "items": [
     {
-      "id": "australia-sube-tasas",
-      "type": "mercado",
-      "title": "Australia subió las tasas al nivel más alto en 18 años para frenar la inflación",
-      "summary": "El Banco Central de Australia subió las tasas de interés por quinta vez en el año, llevándolas al nivel más alto en 18 años. La decisión estuvo en línea con lo que esperaban los economistas.",
-      "detail": "Cuando un banco central sube las tasas de interés, encarece el crédito para frenar el consumo y la inversión, lo que ayuda a bajar la inflación pero también frena el crecimiento económico. Que sea la quinta suba del año muestra cuán persistente es el problema inflacionario a nivel global. Esta decisión de Australia es un ejemplo claro de la herramienta más usada por los bancos centrales del mundo, incluyendo la Fed de EE.UU. o el Banco Central Europeo.",
-      "tags": [
-        "tasas de interés",
-        "inflación",
-        "banco central"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
-      "published_at": "2026-11-03T03:46:20Z",
-      "fecha_evento": "2026-11-03",
-      "tickers": []
-    },
-    {
-      "id": "empleos-privados-octubre-adp",
+      "id": "adp-jobs-october-2026",
       "type": "economia",
-      "title": "El sector privado de EE.UU. creó 86.000 empleos en octubre, algo por encima de lo esperado",
-      "summary": "Según el informe de ADP, las empresas privadas generaron 86.000 puestos de trabajo en octubre, levemente por encima de las estimaciones. El crecimiento fue generalizado entre distintos sectores.",
-      "detail": "El dato de empleo privado de ADP es uno de los indicadores que el mercado sigue de cerca antes del reporte oficial de nóminas no agrícolas (Payrolls). Un mercado laboral sólido puede llevar a la Reserva Federal a mantener las tasas altas por más tiempo, ya que el pleno empleo suele alimentar la inflación. Para quien aprende finanzas, este tipo de dato muestra cómo los mercados reaccionan a señales económicas antes de que se publiquen los datos definitivos.",
+      "title": "El empleo privado en EE.UU. creció más de lo esperado en octubre",
+      "summary": "Las empresas privadas de EE.UU. sumaron 86.000 puestos de trabajo en octubre, según ADP, levemente por encima de las expectativas del mercado. El crecimiento se distribuyó en varios sectores de la economía.",
+      "detail": "El informe de empleo privado de ADP es uno de los indicadores que los mercados siguen de cerca antes del reporte oficial de nóminas no agrícolas (payrolls). Cuando el empleo sorprende al alza, suele reforzar la idea de que la economía está firme, lo que puede llevar a la Fed a mantener tasas altas por más tiempo. Para quienes aprenden finanzas, es clave entender que estos datos mueven bonos, acciones y el dólar casi en tiempo real.",
       "tags": [
         "empleo",
-        "economía EE.UU.",
+        "EE.UU.",
         "Fed"
       ],
       "source_name": "CNBC",
@@ -36,14 +19,14 @@
       "tickers": []
     },
     {
-      "id": "vacantes-empleo-septiembre",
+      "id": "job-openings-september-2026",
       "type": "economia",
-      "title": "Las vacantes de empleo en EE.UU. subieron fuerte en septiembre",
-      "summary": "El Bureau of Labor Statistics reportó 7,52 millones de puestos vacantes en septiembre, 333.000 más que en agosto y bastante por encima de los 7,15 millones que esperaba el mercado.",
-      "detail": "Las vacantes de empleo son una señal de cuánta demanda de trabajadores tienen las empresas: más vacantes significa que la economía está activa y las compañías quieren contratar. Este dato es parte de lo que la Fed observa para decidir si sube o baja las tasas de interés. Un mercado laboral fuerte puede ser señal de que la economía crece, pero también de que la inflación puede mantenerse elevada.",
+      "title": "Las vacantes laborales en EE.UU. subieron fuerte en septiembre",
+      "summary": "El gobierno de EE.UU. reportó 7,52 millones de puestos vacantes en septiembre, 333.000 más que en agosto y muy por encima de las estimaciones de Wall Street. El dato es una señal positiva del mercado laboral antes del reporte oficial de empleo.",
+      "detail": "Las vacantes de empleo (JOLTS) son un termómetro clave de la demanda laboral: si hay muchos puestos sin cubrir, significa que las empresas siguen queriendo contratar. Un mercado laboral fuerte complica el trabajo de la Fed porque puede mantener la inflación elevada. Aprender a leer estos datos ayuda a anticipar cómo puede reaccionar la política monetaria y, en consecuencia, los mercados.",
       "tags": [
         "empleo",
-        "economía EE.UU.",
+        "EE.UU.",
         "Fed"
       ],
       "source_name": "CNBC",
@@ -53,32 +36,32 @@
       "tickers": []
     },
     {
-      "id": "corea-del-sur-ia-presupuesto",
+      "id": "australia-rate-hike-2026",
       "type": "economia",
-      "title": "Corea del Sur apuesta fuerte a la inteligencia artificial en su presupuesto récord 2027",
-      "summary": "El presupuesto de Corea del Sur para 2027 crecerá un 12,8% hasta los 820,9 billones de wones, con una inversión de 21,3 billones en semiconductores, inteligencia artificial física y centros de datos de IA.",
-      "detail": "Que un gobierno destine una parte tan grande de su presupuesto a tecnología e IA muestra cómo los países compiten por liderar la próxima ola de crecimiento económico. Los semiconductores y la IA son sectores que hoy mueven mercados globales, y decisiones como esta pueden impactar en empresas del sector en todo el mundo. Para un inversor que empieza, es un ejemplo de cómo la política pública puede crear oportunidades —o riesgos— en sectores tecnológicos.",
+      "title": "Australia subió las tasas de interés a su nivel más alto en 18 años",
+      "summary": "El Banco Central de Australia (RBA) volvió a subir su tasa de referencia en su quinta suba del año, llevándola al nivel más alto desde hace 18 años. La decisión apunta a combatir la inflación y estuvo en línea con lo que esperaban los economistas.",
+      "detail": "Cuando un banco central sube las tasas, encarece el crédito para frenar el consumo y, con eso, bajar la inflación. El caso australiano es un ejemplo global de cómo los bancos centrales de distintos países enfrentan el mismo problema: inflación persistente que requiere políticas monetarias más duras. Para alguien que aprende finanzas, ver esto en distintos países ayuda a entender que la suba de tasas es un fenómeno mundial, no solo de EE.UU. o Argentina.",
       "tags": [
-        "inteligencia artificial",
-        "semiconductores",
-        "presupuesto"
+        "tasas",
+        "banco central",
+        "inflación"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-      "published_at": "2026-11-02T06:02:03Z",
-      "fecha_evento": "2026-11-02",
+      "source_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "published_at": "2026-11-03T03:46:20Z",
+      "fecha_evento": "2026-11-03",
       "tickers": []
     },
     {
-      "id": "cvs-split-farmacia-aetna",
+      "id": "cvs-split-2026",
       "type": "empresa",
-      "title": "CVS Health anunció que se va a dividir: separa su negocio de farmacias del resto",
-      "summary": "CVS Health confirmó que planea separar su negocio de farmacias minoristas del resto de la empresa, deshaciendo en parte la megafusión de u$s78.000 millones con la aseguradora Aetna que realizó en 2018. Las acciones cayeron un 10%.",
-      "detail": "CVS es un ejemplo clásico de integración vertical: comprar toda la cadena de valor —farmacias, seguros de salud, servicios médicos— para controlar costos y ofrecer todo bajo un mismo techo. Sin embargo, cuando esa estrategia no genera los resultados esperados, el mercado puede castigar la acción. La caída del 10% refleja que los inversores no están seguros de que la separación cree valor. Este caso enseña cómo las decisiones estratégicas de grandes empresas afectan directamente el precio de sus acciones.",
+      "title": "CVS Health anunció que se va a dividir en partes separadas",
+      "summary": "CVS Health planea separar su negocio de farmacias del resto de la compañía, deshaciendo así la compra de Aetna por 78.000 millones de dólares que hizo en 2018. Las acciones de CVS cayeron un 10% tras el anuncio.",
+      "detail": "Cuando una empresa se divide (spinoff o breakup), lo hace porque el mercado no está valorando bien todas sus partes juntas. Al separarlas, cada unidad puede ser evaluada de forma independiente y potencialmente valer más. Este caso también muestra que las grandes fusiones no siempre funcionan como se esperaba: CVS apostó a integrar farmacia, seguros y salud, pero ahora da marcha atrás. La caída del 10% en la acción refleja que los inversores no están seguros de que la separación cree valor.",
       "tags": [
         "empresas",
         "salud",
-        "fusiones"
+        "spinoff"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
@@ -89,11 +72,11 @@
       ]
     },
     {
-      "id": "mcdonalds-resultados-mejora",
+      "id": "mcdonalds-earnings-q3-2026",
       "type": "empresa",
-      "title": "McDonald's superó las expectativas y sus restaurantes en EE.UU. muestran mejoría",
-      "summary": "McDonald's publicó resultados trimestrales mejores a los esperados, impulsados por una estrategia de descuentos para atraer clientes más sensibles al precio. La acción subió tras el anuncio.",
-      "detail": "McDonald's es una de las empresas más seguidas del mundo porque sus resultados reflejan el consumo masivo: si la gente come más en McDonald's, suele ser señal de que cuida el bolsillo. El hecho de que hayan recurrido a descuentos para sostener las ventas muestra el impacto de la inflación en el comportamiento del consumidor. Para quien aprende finanzas, ver cómo una empresa adapta su estrategia a la coyuntura económica es un ejercicio muy útil.",
+      "title": "McDonald's superó las expectativas y sus ventas en EE.UU. mejoran",
+      "summary": "McDonald's publicó resultados mejores a los esperados por Wall Street, con sus restaurantes en EE.UU. mostrando una recuperación. La cadena viene apostando a descuentos para atraer clientes más sensibles al precio.",
+      "detail": "El desempeño de McDonald's es un indicador informal del consumo masivo: cuando la gente aprieta el cinturón, suele ir a cadenas baratas. Que sus ventas mejoren sugiere que la estrategia de descuentos funciona, pero también dice algo sobre el poder adquisitivo del consumidor promedio. Para quien aprende finanzas, los resultados trimestrales (earnings) son momentos clave donde el precio de una acción puede moverse mucho según si el dato supera o no lo que esperaba el mercado.",
       "tags": [
         "consumo",
         "resultados",
@@ -108,15 +91,15 @@
       ]
     },
     {
-      "id": "kraft-heinz-vende-cafe",
+      "id": "kraft-heinz-coffee-deal-2026",
       "type": "empresa",
-      "title": "Kraft Heinz vende su negocio de café en Norteamérica por u$s650 millones",
-      "summary": "Kraft Heinz acordó vender su división de café en América del Norte a la firma de capital privado One Rock Capital Partners por 650 millones de dólares, como parte del plan de reestructuración de su nuevo CEO.",
-      "detail": "Las desinversiones —vender partes del negocio— son una estrategia habitual cuando una empresa quiere enfocarse en sus líneas más rentables o reducir deuda. Para Kraft Heinz, que viene de años difíciles, esta venta es una señal de que la nueva gestión está reorganizando el portafolio. El comprador es un fondo de capital privado (private equity), un tipo de inversor que suele apostar a mejorar empresas y revenderlas más adelante.",
+      "title": "Kraft Heinz vende su negocio de café en EE.UU. por 650 millones de dólares",
+      "summary": "Kraft Heinz acordó vender su división de café de América del Norte a la firma de capital privado One Rock Capital Partners por 650 millones de dólares. El movimiento forma parte de la estrategia del nuevo CEO para reestructurar la compañía.",
+      "detail": "Vender una división para enfocarse en el negocio central es una estrategia común en empresas que buscan mejorar su rentabilidad. El comprador, un fondo de capital privado (private equity), apuesta a que puede hacer crecer ese negocio de café de forma independiente. Para quien aprende finanzas, este tipo de transacciones muestra cómo las empresas usan activos como si fueran fichas: los venden cuando necesitan efectivo o cuando creen que otro puede gestionarlos mejor.",
       "tags": [
-        "desinversión",
-        "empresas",
-        "capital privado"
+        "fusiones",
+        "private equity",
+        "empresas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
@@ -127,15 +110,15 @@
       ]
     },
     {
-      "id": "disney-despidos-recortes",
+      "id": "disney-layoffs-2026",
       "type": "empresa",
-      "title": "Disney planea despedir a varios miles de empleados y pide a sus gerentes recortar costos hasta un 20%",
-      "summary": "Disney anunció una nueva ronda de despidos masivos y les pidió a algunos gerentes que reduzcan sus costos hasta un 20%, en un nuevo ajuste para la compañía de entretenimiento.",
-      "detail": "Cuando una empresa grande como Disney recorta personal y exige bajar costos, generalmente es una señal de que sus ingresos o márgenes están bajo presión. Estos anuncios suelen mover el precio de las acciones, ya que el mercado los interpreta como esfuerzos para mejorar la rentabilidad. Para alguien que aprende finanzas, es un ejemplo de cómo las decisiones operativas de una empresa se conectan directamente con sus resultados financieros y el valor bursátil.",
+      "title": "Disney planea despedir a miles de empleados y recortar costos hasta un 20%",
+      "summary": "Disney anunció que va a despedir a varios miles de empleados y pidió a algunos gerentes que reduzcan sus costos hasta un 20%. Es la última ronda de recortes de la compañía de entretenimiento.",
+      "detail": "Los recortes de costos en empresas grandes suelen ser una señal de que los márgenes de ganancia están bajo presión. Disney viene enfrentando desafíos en su negocio de streaming y en sus parques, y busca mejorar su rentabilidad reduciendo gastos. Para quien aprende finanzas, es importante entender que los despidos no siempre bajan el precio de una acción: a veces el mercado los celebra si interpreta que la empresa va a ser más eficiente.",
       "tags": [
-        "despidos",
         "empresas",
-        "costos"
+        "recortes",
+        "entretenimiento"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
@@ -146,42 +129,59 @@
       ]
     },
     {
-      "id": "microsoft-amazon-suba-mercado",
-      "type": "mercado",
-      "title": "Microsoft y Amazon sumaron juntas u$s424.000 millones en capitalización bursátil",
-      "summary": "Las acciones de Microsoft y Amazon subieron con fuerza, impulsando una suba combinada de 424.000 millones de dólares en su valor de mercado. Un gestor de carteras señaló que la escasez de oferta en la nube podría permitirles subir precios.",
-      "detail": "La capitalización bursátil es el valor total de una empresa según su precio en bolsa: sube cuando el precio de la acción sube y baja cuando cae. Que dos empresas sumen casi medio billón de dólares en un solo día muestra el peso que tienen las Big Tech en el mercado global. La idea de que la escasez de capacidad en la nube les da poder para subir precios es un concepto clave: cuando la oferta no alcanza a la demanda, quien ofrece el servicio puede cobrar más.",
+      "id": "amazon-uber-eats-partnership-2026",
+      "type": "empresa",
+      "title": "Amazon y Uber Eats se asocian para ofrecer delivery gratis a miembros Prime",
+      "summary": "Amazon anunció una alianza con Uber para que sus miembros Prime en EE.UU. reciban envíos gratis en pedidos de comida de 25 dólares o más a través de Amazon, usando la red de Uber Eats.",
+      "detail": "Este tipo de alianzas busca que los usuarios usen más la plataforma y renueven su suscripción Prime, que es una fuente de ingresos recurrente muy valiosa para Amazon. Para Uber, es una forma de conseguir nuevos clientes sin gastar en publicidad masiva. Para quien aprende finanzas, es un ejemplo de cómo las empresas de tecnología compiten por el tiempo y el dinero del usuario combinando servicios, en vez de bajar precios directamente.",
       "tags": [
-        "Big Tech",
-        "mercado",
-        "nube"
+        "tecnología",
+        "alianzas",
+        "consumo"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
-      "published_at": "2026-11-04T21:33:00Z",
-      "fecha_evento": "2026-11-04",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/amazon-prime-members-get-free-uber-eats-delivery-25-orders",
+      "published_at": "2026-11-05T11:35:39Z",
+      "fecha_evento": "2026-11-05",
       "tickers": [
-        "MSFT",
-        "AMZN"
+        "AMZN",
+        "UBER"
       ]
     },
     {
-      "id": "chips-elecciones-mid",
+      "id": "iran-war-black-swan-2026",
       "type": "mercado",
-      "title": "Las acciones de chips como Micron cayeron tras los resultados electorales en EE.UU.",
-      "summary": "Las acciones de empresas de semiconductores, incluyendo Micron, bajaron después de que los demócratas lograran victorias en Texas y otros estados, lo que genera dudas sobre el futuro del plan de expansión de centros de datos de IA.",
-      "detail": "El resultado electoral impactó en el sector tecnológico porque distintos gobiernos tienen distintas políticas sobre subsidios, regulaciones y contratos públicos para la industria tecnológica. Los inversores ajustaron sus expectativas sobre el ritmo de inversión en infraestructura de inteligencia artificial, lo que se tradujo en una caída de las acciones de empresas de semiconductores. Este caso muestra cómo la política puede afectar a sectores enteros del mercado en cuestión de horas.",
+      "title": "Un estratega advierte que una guerra larga en Irán es el verdadero riesgo que los mercados ignoran",
+      "summary": "Alicia Levine, de BNY Wealth Management, alertó que los mercados no están incorporando en sus precios el riesgo de que el conflicto en Irán se prolongue. Lo describió como el verdadero 'cisne negro' del momento.",
+      "detail": "Un 'cisne negro' es un evento inesperado y de gran impacto que el mercado no tiene en cuenta. Cuando un conflicto geopolítico escala, puede afectar el precio del petróleo, interrumpir cadenas de suministro y generar aversión al riesgo global, lo que golpea acciones y beneficia activos refugio como el oro o el dólar. Este tipo de análisis ayuda a entender que los mercados no siempre son eficientes: a veces ignoran riesgos obvios hasta que se materializan.",
       "tags": [
-        "semiconductores",
-        "elecciones",
-        "inteligencia artificial"
+        "geopolítica",
+        "riesgo",
+        "mercados"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
-      "published_at": "2026-11-04T21:55:00Z",
-      "fecha_evento": "2026-11-04",
+      "source_url": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
+      "published_at": "2026-11-05T10:20:00Z",
+      "fecha_evento": "2026-11-05",
+      "tickers": []
+    },
+    {
+      "id": "toyota-stock-guidance-cut-2026",
+      "type": "empresa",
+      "title": "Toyota subió en bolsa a pesar de bajar su pronóstico de ventas, algo muy poco frecuente",
+      "summary": "Las acciones de Toyota subieron con fuerza después de que la compañía redujo su proyección de ventas anuales, una reacción inusual en los mercados. Los analistas destacan lo extraño de que malas noticias generen un rally bursátil.",
+      "detail": "Que una acción suba después de un recorte de guidance parece contradictorio, pero ocurre cuando el mercado esperaba algo peor o interpreta que la empresa está siendo conservadora y transparente. Este caso es didáctico para entender que el precio de una acción no refleja la realidad actual de la empresa, sino las expectativas futuras: si las expectativas ya eran muy bajas, una mala noticia puede ser una 'buena sorpresa'. Es una lección clave sobre cómo funciona la valuación en bolsa.",
+      "tags": [
+        "acciones",
+        "expectativas",
+        "autos"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
+      "published_at": "2026-11-05T10:15:00Z",
+      "fecha_evento": "2026-11-05",
       "tickers": [
-        "MU"
+        "TM"
       ]
     }
   ],
@@ -190,31 +190,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.570",
       "valor_num": 1570.0,
-      "delta_pct": 0.32
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.560",
       "valor_num": 1560.0,
-      "delta_pct": -0.32
+      "delta_pct": -0.64
     },
     {
       "label": "MEP",
       "valor": "$1.589",
       "valor_num": 1588.6,
-      "delta_pct": 0.55
+      "delta_pct": 0.47
     },
     {
       "label": "CCL",
       "valor": "$1.680",
       "valor_num": 1680.4,
-      "delta_pct": 0.62
+      "delta_pct": 0.7
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 80.191",
-      "valor_num": 80191.0,
-      "delta_pct": 3.03
+      "valor": "US$ 80.313",
+      "valor_num": 80313.0,
+      "delta_pct": 2.42
     },
     {
       "label": "S&P 500",
@@ -224,9 +224,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.071",
-      "valor_num": 4070.6,
-      "delta_pct": 4.4
+      "valor": "US$ 4.142",
+      "valor_num": 4142.0,
+      "delta_pct": 4.34
     }
   ]
 }
