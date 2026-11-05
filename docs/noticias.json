@@ -1,16 +1,33 @@
 {
-  "generated_at": "2026-11-05T12:01:25.335046+00:00",
+  "generated_at": "2026-11-05T22:01:15.627993+00:00",
   "items": [
     {
-      "id": "adp-jobs-october-2026",
-      "type": "economia",
-      "title": "El empleo privado en EE.UU. creció más de lo esperado en octubre",
-      "summary": "Las empresas privadas de EE.UU. sumaron 86.000 puestos de trabajo en octubre, según ADP, levemente por encima de las expectativas del mercado. El crecimiento se distribuyó en varios sectores de la economía.",
-      "detail": "El informe de empleo privado de ADP es uno de los indicadores que los mercados siguen de cerca antes del reporte oficial de nóminas no agrícolas (payrolls). Cuando el empleo sorprende al alza, suele reforzar la idea de que la economía está firme, lo que puede llevar a la Fed a mantener tasas altas por más tiempo. Para quienes aprenden finanzas, es clave entender que estos datos mueven bonos, acciones y el dólar casi en tiempo real.",
+      "id": "october-jobs-report-preview",
+      "type": "reunion",
+      "title": "Sale el viernes el informe de empleo de octubre en EE.UU.",
+      "summary": "El viernes se publica el reporte de nóminas no agrícolas de octubre en EE.UU., uno de los datos económicos más seguidos del mundo. Se conocerá a las 8:30 a.m. hora del Este.",
+      "detail": "El reporte de empleo mensual es uno de los indicadores más importantes para los mercados globales porque la Reserva Federal lo usa para decidir si sube, baja o mantiene las tasas de interés. Si el empleo es fuerte, la Fed puede mantener tasas altas; si es débil, puede bajarlas. Eso afecta al dólar, a las bolsas y, por extensión, a economías emergentes como la Argentina.",
       "tags": [
         "empleo",
-        "EE.UU.",
-        "Fed"
+        "Fed",
+        "datos económicos"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+      "published_at": "2026-11-05T21:32:52Z",
+      "fecha_evento": "2026-11-06",
+      "tickers": []
+    },
+    {
+      "id": "adp-october-jobs",
+      "type": "economia",
+      "title": "El sector privado de EE.UU. creó 86.000 empleos en octubre, según ADP",
+      "summary": "Las empresas privadas de EE.UU. sumaron 86.000 empleos en octubre, un número levemente por encima de lo esperado, según el reporte de ADP. Las ganancias se distribuyeron entre varios sectores.",
+      "detail": "El reporte de ADP es un anticipo privado del dato oficial de empleo que publica el gobierno. Cuando el mercado laboral muestra solidez, la Fed tiene menos presión para bajar tasas, lo que suele fortalecer al dólar frente a otras monedas. Para Argentina, un dólar fuerte puede encarecer las importaciones y complicar el pago de deuda externa.",
+      "tags": [
+        "empleo",
+        "economía EE.UU.",
+        "ADP"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
@@ -19,32 +36,15 @@
       "tickers": []
     },
     {
-      "id": "job-openings-september-2026",
+      "id": "australia-rate-hike",
       "type": "economia",
-      "title": "Las vacantes laborales en EE.UU. subieron fuerte en septiembre",
-      "summary": "El gobierno de EE.UU. reportó 7,52 millones de puestos vacantes en septiembre, 333.000 más que en agosto y muy por encima de las estimaciones de Wall Street. El dato es una señal positiva del mercado laboral antes del reporte oficial de empleo.",
-      "detail": "Las vacantes de empleo (JOLTS) son un termómetro clave de la demanda laboral: si hay muchos puestos sin cubrir, significa que las empresas siguen queriendo contratar. Un mercado laboral fuerte complica el trabajo de la Fed porque puede mantener la inflación elevada. Aprender a leer estos datos ayuda a anticipar cómo puede reaccionar la política monetaria y, en consecuencia, los mercados.",
+      "title": "Australia subió las tasas al nivel más alto en 18 años para frenar la inflación",
+      "summary": "El Banco Central de Australia volvió a subir las tasas de interés, llevándolas al nivel más alto en 18 años. Es la quinta suba del año y estuvo en línea con lo que esperaban los economistas.",
+      "detail": "Cuando un banco central sube tasas para combatir la inflación, encarece el crédito y enfría la economía. Esto es exactamente lo que hizo la Fed en años recientes y lo que varios bancos centrales del mundo siguen haciendo. Ver cómo Australia lidia con la inflación es un buen ejemplo para entender el dilema que enfrentan todos los países: bajar la inflación tiene un costo en crecimiento y empleo.",
       "tags": [
-        "empleo",
-        "EE.UU.",
-        "Fed"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-      "published_at": "2026-11-03T19:15:21Z",
-      "fecha_evento": "2026-11-03",
-      "tickers": []
-    },
-    {
-      "id": "australia-rate-hike-2026",
-      "type": "economia",
-      "title": "Australia subió las tasas de interés a su nivel más alto en 18 años",
-      "summary": "El Banco Central de Australia (RBA) volvió a subir su tasa de referencia en su quinta suba del año, llevándola al nivel más alto desde hace 18 años. La decisión apunta a combatir la inflación y estuvo en línea con lo que esperaban los economistas.",
-      "detail": "Cuando un banco central sube las tasas, encarece el crédito para frenar el consumo y, con eso, bajar la inflación. El caso australiano es un ejemplo global de cómo los bancos centrales de distintos países enfrentan el mismo problema: inflación persistente que requiere políticas monetarias más duras. Para alguien que aprende finanzas, ver esto en distintos países ayuda a entender que la suba de tasas es un fenómeno mundial, no solo de EE.UU. o Argentina.",
-      "tags": [
-        "tasas",
-        "banco central",
-        "inflación"
+        "tasas de interés",
+        "inflación",
+        "banco central"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
@@ -53,15 +53,15 @@
       "tickers": []
     },
     {
-      "id": "cvs-split-2026",
+      "id": "cvs-split",
       "type": "empresa",
-      "title": "CVS Health anunció que se va a dividir en partes separadas",
-      "summary": "CVS Health planea separar su negocio de farmacias del resto de la compañía, deshaciendo así la compra de Aetna por 78.000 millones de dólares que hizo en 2018. Las acciones de CVS cayeron un 10% tras el anuncio.",
-      "detail": "Cuando una empresa se divide (spinoff o breakup), lo hace porque el mercado no está valorando bien todas sus partes juntas. Al separarlas, cada unidad puede ser evaluada de forma independiente y potencialmente valer más. Este caso también muestra que las grandes fusiones no siempre funcionan como se esperaba: CVS apostó a integrar farmacia, seguros y salud, pero ahora da marcha atrás. La caída del 10% en la acción refleja que los inversores no están seguros de que la separación cree valor.",
+      "title": "CVS Health se parte en dos: separa su farmacia de su aseguradora Aetna",
+      "summary": "CVS Health anunció que va a dividirse y separar su negocio de farmacias del resto de la compañía, incluyendo la aseguradora Aetna. La noticia hizo caer sus acciones un 10%.",
+      "detail": "CVS había comprado Aetna en 2018 por 78.000 millones de dólares para convertirse en un gigante integrado de salud. Que ahora decida deshacerse de esa unión muestra que la estrategia no dio los resultados esperados. Los inversores reaccionaron negativamente porque los breakups generan incertidumbre sobre el valor de cada parte. Este tipo de decisiones corporativas enseña cómo las fusiones y adquisiciones pueden tanto crear como destruir valor.",
       "tags": [
-        "empresas",
-        "salud",
-        "spinoff"
+        "empresa",
+        "acciones",
+        "salud"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
@@ -72,52 +72,14 @@
       ]
     },
     {
-      "id": "mcdonalds-earnings-q3-2026",
+      "id": "disney-layoffs",
       "type": "empresa",
-      "title": "McDonald's superó las expectativas y sus ventas en EE.UU. mejoran",
-      "summary": "McDonald's publicó resultados mejores a los esperados por Wall Street, con sus restaurantes en EE.UU. mostrando una recuperación. La cadena viene apostando a descuentos para atraer clientes más sensibles al precio.",
-      "detail": "El desempeño de McDonald's es un indicador informal del consumo masivo: cuando la gente aprieta el cinturón, suele ir a cadenas baratas. Que sus ventas mejoren sugiere que la estrategia de descuentos funciona, pero también dice algo sobre el poder adquisitivo del consumidor promedio. Para quien aprende finanzas, los resultados trimestrales (earnings) son momentos clave donde el precio de una acción puede moverse mucho según si el dato supera o no lo que esperaba el mercado.",
+      "title": "Disney planea despedir a varios miles de empleados y pide recortes de hasta 20%",
+      "summary": "Disney anunció una nueva ronda de despidos masivos y les pidió a algunos gerentes que reduzcan costos hasta un 20%. Es parte de un proceso de ajuste del gigante del entretenimiento.",
+      "detail": "Cuando una empresa grande como Disney recorta costos de forma agresiva, suele ser una señal de que enfrenta presión en sus ingresos o rentabilidad. Para un inversor, estos movimientos pueden ser una oportunidad si el mercado sobrerreacciona, o una señal de alerta si los problemas son estructurales. Entender por qué las empresas hacen recortes ayuda a leer mejor los balances y las estrategias corporativas.",
       "tags": [
-        "consumo",
-        "resultados",
-        "acciones"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-      "published_at": "2026-11-04T21:02:53Z",
-      "fecha_evento": "2026-11-04",
-      "tickers": [
-        "MCD"
-      ]
-    },
-    {
-      "id": "kraft-heinz-coffee-deal-2026",
-      "type": "empresa",
-      "title": "Kraft Heinz vende su negocio de café en EE.UU. por 650 millones de dólares",
-      "summary": "Kraft Heinz acordó vender su división de café de América del Norte a la firma de capital privado One Rock Capital Partners por 650 millones de dólares. El movimiento forma parte de la estrategia del nuevo CEO para reestructurar la compañía.",
-      "detail": "Vender una división para enfocarse en el negocio central es una estrategia común en empresas que buscan mejorar su rentabilidad. El comprador, un fondo de capital privado (private equity), apuesta a que puede hacer crecer ese negocio de café de forma independiente. Para quien aprende finanzas, este tipo de transacciones muestra cómo las empresas usan activos como si fueran fichas: los venden cuando necesitan efectivo o cuando creen que otro puede gestionarlos mejor.",
-      "tags": [
-        "fusiones",
-        "private equity",
-        "empresas"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-      "published_at": "2026-11-04T17:21:06Z",
-      "fecha_evento": "2026-11-04",
-      "tickers": [
-        "KHC"
-      ]
-    },
-    {
-      "id": "disney-layoffs-2026",
-      "type": "empresa",
-      "title": "Disney planea despedir a miles de empleados y recortar costos hasta un 20%",
-      "summary": "Disney anunció que va a despedir a varios miles de empleados y pidió a algunos gerentes que reduzcan sus costos hasta un 20%. Es la última ronda de recortes de la compañía de entretenimiento.",
-      "detail": "Los recortes de costos en empresas grandes suelen ser una señal de que los márgenes de ganancia están bajo presión. Disney viene enfrentando desafíos en su negocio de streaming y en sus parques, y busca mejorar su rentabilidad reduciendo gastos. Para quien aprende finanzas, es importante entender que los despidos no siempre bajan el precio de una acción: a veces el mercado los celebra si interpreta que la empresa va a ser más eficiente.",
-      "tags": [
-        "empresas",
-        "recortes",
+        "empresa",
+        "despidos",
         "entretenimiento"
       ],
       "source_name": "CNBC",
@@ -129,60 +91,95 @@
       ]
     },
     {
-      "id": "amazon-uber-eats-partnership-2026",
+      "id": "kraft-heinz-coffee-deal",
       "type": "empresa",
-      "title": "Amazon y Uber Eats se asocian para ofrecer delivery gratis a miembros Prime",
-      "summary": "Amazon anunció una alianza con Uber para que sus miembros Prime en EE.UU. reciban envíos gratis en pedidos de comida de 25 dólares o más a través de Amazon, usando la red de Uber Eats.",
-      "detail": "Este tipo de alianzas busca que los usuarios usen más la plataforma y renueven su suscripción Prime, que es una fuente de ingresos recurrente muy valiosa para Amazon. Para Uber, es una forma de conseguir nuevos clientes sin gastar en publicidad masiva. Para quien aprende finanzas, es un ejemplo de cómo las empresas de tecnología compiten por el tiempo y el dinero del usuario combinando servicios, en vez de bajar precios directamente.",
+      "title": "Kraft Heinz vende su negocio de café en Norteamérica por 650 millones de dólares",
+      "summary": "Kraft Heinz acordó vender su negocio de café en América del Norte a la firma de capital privado One Rock Capital Partners por 650 millones de dólares, como parte del plan de su CEO para revitalizar la compañía.",
+      "detail": "Cuando una empresa vende una división, suele hacerlo para concentrarse en sus negocios principales o para levantar efectivo. Este tipo de desinversión es una herramienta financiera común en la reestructuración corporativa. Para alguien que aprende finanzas, es útil observar cómo el capital privado (private equity) compra negocios que las grandes empresas consideran secundarios y busca hacerlos crecer de forma independiente.",
       "tags": [
-        "tecnología",
-        "alianzas",
-        "consumo"
+        "empresa",
+        "fusiones",
+        "capital privado"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/amazon-prime-members-get-free-uber-eats-delivery-25-orders",
-      "published_at": "2026-11-05T11:35:39Z",
-      "fecha_evento": "2026-11-05",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
+      "published_at": "2026-11-04T17:21:06Z",
+      "fecha_evento": "2026-11-04",
       "tickers": [
-        "AMZN",
-        "UBER"
+        "KHC"
       ]
     },
     {
-      "id": "iran-war-black-swan-2026",
-      "type": "mercado",
-      "title": "Un estratega advierte que una guerra larga en Irán es el verdadero riesgo que los mercados ignoran",
-      "summary": "Alicia Levine, de BNY Wealth Management, alertó que los mercados no están incorporando en sus precios el riesgo de que el conflicto en Irán se prolongue. Lo describió como el verdadero 'cisne negro' del momento.",
-      "detail": "Un 'cisne negro' es un evento inesperado y de gran impacto que el mercado no tiene en cuenta. Cuando un conflicto geopolítico escala, puede afectar el precio del petróleo, interrumpir cadenas de suministro y generar aversión al riesgo global, lo que golpea acciones y beneficia activos refugio como el oro o el dólar. Este tipo de análisis ayuda a entender que los mercados no siempre son eficientes: a veces ignoran riesgos obvios hasta que se materializan.",
+      "id": "mcdonalds-earnings",
+      "type": "empresa",
+      "title": "McDonald's superó expectativas y sus acciones subieron",
+      "summary": "McDonald's publicó resultados del trimestre que superaron las estimaciones de Wall Street. La cadena lleva dos años apostando a descuentos para atraer a consumidores más ajustados, y la estrategia está dando resultados.",
+      "detail": "Que McDonald's gane clientes con descuentos en un contexto de inflación es un indicador del comportamiento del consumidor: cuando los precios suben, la gente busca opciones más baratas. Para un inversor, los resultados de empresas de consumo masivo como McDonald's sirven como termómetro del estado de la economía real y del bolsillo de las personas.",
       "tags": [
-        "geopolítica",
-        "riesgo",
-        "mercados"
+        "empresa",
+        "consumo",
+        "acciones"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/a-prolonged-war-in-iran-is-the-markets-real-black-swan-says-this-strategist-65d105c7?mod=mw_rss_topstories",
-      "published_at": "2026-11-05T10:20:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
+      "published_at": "2026-11-04T21:02:53Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": [
+        "MCD"
+      ]
+    },
+    {
+      "id": "wendys-rejects-takeover",
+      "type": "empresa",
+      "title": "Wendy's rechazó una oferta de compra de 1.400 millones de dólares",
+      "summary": "Wendy's rechazó la propuesta de adquisición de 1.400 millones de dólares hecha por el fondo de Nelson Peltz, Trian. La cadena de hamburguesas dijo que el precio no refleja el potencial de su estrategia de recuperación.",
+      "detail": "Cuando una empresa rechaza una oferta de compra, generalmente argumenta que el precio ofrecido subvalúa el negocio. Este tipo de situaciones, llamadas OPAs hostiles o propuestas no solicitadas, son frecuentes en los mercados y generan movimientos importantes en las acciones. Para aprender finanzas, es un buen ejemplo de cómo los accionistas activistas como Peltz presionan a las empresas para generar valor.",
+      "tags": [
+        "empresa",
+        "fusiones",
+        "acciones"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+      "published_at": "2026-11-05T15:08:05Z",
+      "fecha_evento": "2026-11-05",
+      "tickers": [
+        "WEN"
+      ]
+    },
+    {
+      "id": "wonder-ipo-filing",
+      "type": "empresa",
+      "title": "La startup Wonder de Marc Lore presentó en secreto su solicitud para salir a bolsa",
+      "summary": "Wonder, la startup de food-tech del empresario Marc Lore, presentó de forma confidencial su solicitud para hacer una oferta pública inicial (IPO). Todavía no hay fecha definida para el debut bursátil.",
+      "detail": "Una presentación confidencial de IPO es el primer paso formal para que una empresa salga a cotizar en bolsa: le permite preparar todo sin revelar sus números públicamente hasta estar lista. Para alguien que aprende finanzas, es útil entender que los IPOs son una forma en que las empresas privadas consiguen capital del mercado y los inversores tempranos realizan sus ganancias.",
+      "tags": [
+        "IPO",
+        "empresa",
+        "mercado"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+      "published_at": "2026-11-05T16:27:10Z",
       "fecha_evento": "2026-11-05",
       "tickers": []
     },
     {
-      "id": "toyota-stock-guidance-cut-2026",
-      "type": "empresa",
-      "title": "Toyota subió en bolsa a pesar de bajar su pronóstico de ventas, algo muy poco frecuente",
-      "summary": "Las acciones de Toyota subieron con fuerza después de que la compañía redujo su proyección de ventas anuales, una reacción inusual en los mercados. Los analistas destacan lo extraño de que malas noticias generen un rally bursátil.",
-      "detail": "Que una acción suba después de un recorte de guidance parece contradictorio, pero ocurre cuando el mercado esperaba algo peor o interpreta que la empresa está siendo conservadora y transparente. Este caso es didáctico para entender que el precio de una acción no refleja la realidad actual de la empresa, sino las expectativas futuras: si las expectativas ya eran muy bajas, una mala noticia puede ser una 'buena sorpresa'. Es una lección clave sobre cómo funciona la valuación en bolsa.",
+      "id": "debt-ceiling-democrats",
+      "type": "economia",
+      "title": "El techo de deuda de EE.UU. podría ser el próximo campo de batalla político tras las elecciones",
+      "summary": "Con los demócratas recuperando poder en el Congreso tras las elecciones de medio término, analistas advierten que el próximo enfrentamiento por el techo de deuda podría generar volatilidad en los mercados y el riesgo de un default.",
+      "detail": "El techo de deuda es el límite legal que fija el Congreso de EE.UU. para cuánto puede endeudarse el gobierno. Cuando no se llega a un acuerdo, los mercados se ponen nerviosos porque un default del Tesoro americano tendría consecuencias globales, incluyendo en países emergentes como Argentina que dependen del dólar y del financiamiento externo. Este tipo de conflictos políticos son un recordatorio de que la política y las finanzas están muy entrelazadas.",
       "tags": [
-        "acciones",
-        "expectativas",
-        "autos"
+        "deuda",
+        "política",
+        "mercados"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/toyota-stock-rallies-after-company-lowered-sales-guidance-heres-how-rare-that-is-c3d6c9bf?mod=mw_rss_topstories",
-      "published_at": "2026-11-05T10:15:00Z",
-      "fecha_evento": "2026-11-05",
-      "tickers": [
-        "TM"
-      ]
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "published_at": "2026-11-04T22:46:43Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -194,39 +191,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.560",
-      "valor_num": 1560.0,
-      "delta_pct": -0.64
+      "valor": "$1.555",
+      "valor_num": 1555.0,
+      "delta_pct": -0.96
     },
     {
       "label": "MEP",
-      "valor": "$1.589",
-      "valor_num": 1588.6,
-      "delta_pct": 0.47
+      "valor": "$1.588",
+      "valor_num": 1588.0,
+      "delta_pct": 0.44
     },
     {
       "label": "CCL",
-      "valor": "$1.680",
-      "valor_num": 1680.4,
-      "delta_pct": 0.7
+      "valor": "$1.665",
+      "valor_num": 1664.9,
+      "delta_pct": -0.23
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 80.313",
-      "valor_num": 80313.0,
-      "delta_pct": 2.42
+      "valor": "US$ 75.826",
+      "valor_num": 75826.0,
+      "delta_pct": -5.42
     },
     {
       "label": "S&P 500",
-      "valor": "7.689",
-      "valor_num": 7688.62,
-      "delta_pct": -0.71
+      "valor": "7.354",
+      "valor_num": 7353.73,
+      "delta_pct": -4.75
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.142",
-      "valor_num": 4142.0,
-      "delta_pct": 4.34
+      "valor": "US$ 4.098",
+      "valor_num": 4097.5,
+      "delta_pct": 3.22
     }
   ]
 }
