@@ -1,69 +1,88 @@
 {
-  "generated_at": "2026-11-06T12:01:10.090261+00:00",
+  "generated_at": "2026-11-06T22:01:06.611972+00:00",
   "items": [
     {
-      "id": "october-jobs-report-preview",
-      "type": "reunion",
-      "title": "Sale el viernes el informe de empleo de octubre en EE.UU.",
-      "summary": "El viernes a las 8:30 a.m. ET el gobierno estadounidense publica el reporte de nóminas no agrícolas de octubre, uno de los datos económicos más seguidos del mundo.",
-      "detail": "El informe de empleo mensual de EE.UU. es clave porque la Fed lo usa para decidir si sube, baja o mantiene las tasas de interés. Un mercado laboral fuerte puede frenar los recortes de tasas, lo que afecta bonos, acciones y el valor del dólar globalmente —incluyendo el tipo de cambio en Argentina.",
+      "id": "us-jobs-october-2026",
+      "type": "economia",
+      "title": "EE.UU. creó 165.000 empleos en octubre, muy por encima de lo esperado",
+      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, superando ampliamente las estimaciones de 59.000. La tasa de desempleo bajó levemente a 4,1%.",
+      "detail": "El mercado laboral es uno de los indicadores más seguidos por la Reserva Federal para decidir si sube o baja las tasas de interés. Un dato de empleo mucho mejor de lo esperado puede llevar al mercado a pensar que la Fed no apurará los recortes de tasas, lo que impacta en bonos, acciones y el dólar. Para Argentina, las decisiones de la Fed afectan el flujo de capitales hacia mercados emergentes y el costo del financiamiento externo.",
       "tags": [
         "empleo",
         "Fed",
-        "tasas"
+        "economía EE.UU."
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-      "published_at": "2026-11-05T21:32:52Z",
-      "fecha_evento": "2026-11-07",
+      "source_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "published_at": "2026-11-06T16:06:59Z",
+      "fecha_evento": "2026-11-06",
       "tickers": []
     },
     {
-      "id": "adp-october-jobs",
+      "id": "long-term-unemployment-october-2026",
       "type": "economia",
-      "title": "El sector privado de EE.UU. creó 86.000 empleos en octubre, según ADP",
-      "summary": "Las empresas privadas estadounidenses sumaron 86.000 puestos de trabajo en octubre, levemente por encima de lo esperado, con crecimiento distribuido en varios sectores.",
-      "detail": "El reporte ADP es un anticipo privado del gran informe oficial de empleo. Cuando los datos de empleo superan las expectativas, los mercados suelen interpretar que la economía sigue fuerte y que la Fed podría ser más cautelosa con los recortes de tasas, lo que puede apreciar el dólar y mover los bonos.",
+      "title": "El desempleo de larga duración en EE.UU. llega a su nivel más alto en una década",
+      "summary": "Pese a los buenos números generales de empleo, el tiempo promedio que tarda un desempleado en encontrar trabajo superó las 27 semanas en octubre, el peor registro fuera de la pandemia en diez años.",
+      "detail": "Este dato muestra que, aunque el mercado laboral crea empleos, hay una capa de trabajadores que quedan rezagados y les cuesta cada vez más reinsertarse. Es un ejemplo clásico de cómo un mismo mercado puede mostrar señales contradictorias: el promedio mejora, pero la distribución empeora. Para quien aprende finanzas, es clave entender que un solo número no cuenta toda la historia económica.",
       "tags": [
-        "empleo",
-        "economía EE.UU.",
-        "ADP"
+        "desempleo",
+        "mercado laboral",
+        "EE.UU."
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
-      "published_at": "2026-11-04T13:49:48Z",
-      "fecha_evento": "2026-11-04",
+      "source_url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
+      "published_at": "2026-11-06T20:11:17Z",
+      "fecha_evento": "2026-11-06",
       "tickers": []
     },
     {
-      "id": "moderna-raises-outlook-2026",
+      "id": "tesla-cybertruck-wind-down-2026",
       "type": "empresa",
-      "title": "Moderna sube su proyección de ingresos para 2026 y confía en sus nuevas vacunas",
-      "summary": "Moderna revisó al alza su perspectiva de ingresos para 2026, esperando ahora un crecimiento de entre 15% y 25%, frente al 10% que proyectaba antes, impulsada por el avance de sus vacunas más nuevas.",
-      "detail": "Cuando una empresa sube su guidance (proyección oficial de resultados), es una señal de que el negocio va mejor de lo planeado, lo que suele impulsar el precio de la acción. Moderna es un caso interesante para aprender sobre biotecnología e inversión en salud, un sector volátil pero de alto crecimiento.",
+      "title": "Tesla frenará la producción del Cybertruck para enfocarse en el Cybercab",
+      "summary": "Elon Musk anunció que Tesla reducirá la fabricación del Cybertruck en Texas el año próximo para redirigir recursos hacia el Cybercab, su vehículo autónomo de transporte.",
+      "detail": "Este movimiento refleja una decisión estratégica de reasignar capital y capacidad productiva desde un producto que no logró ventas masivas hacia una apuesta de mayor crecimiento futuro. Para los inversores, es importante entender cómo las empresas priorizan sus líneas de negocio y cómo eso puede afectar las expectativas de ingresos y la cotización de la acción.",
       "tags": [
-        "biotecnología",
-        "vacunas",
+        "Tesla",
+        "vehículos",
+        "estrategia"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
+      "published_at": "2026-11-06T15:06:11Z",
+      "fecha_evento": "2026-11-06",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "moderna-outlook-2026",
+      "type": "empresa",
+      "title": "Moderna sube su proyección de ingresos para 2026 y supera expectativas",
+      "summary": "La compañía farmacéutica elevó su estimación de crecimiento de ingresos para 2026 a entre 15% y 25%, cuando antes esperaba hasta un 10%. La mejora se explica por el avance de sus nuevas vacunas.",
+      "detail": "Cuando una empresa sube su guidance (proyección oficial de resultados futuros), el mercado suele reaccionar positivamente porque indica que el negocio va mejor de lo planeado. Es un concepto central en el análisis de acciones: no solo importa si ganaron dinero, sino si superaron o no las expectativas previas y hacia dónde apuntan.",
+      "tags": [
+        "Moderna",
+        "farmacéutica",
         "resultados"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
-      "published_at": "2026-11-06T11:56:04Z",
+      "published_at": "2026-11-06T12:43:28Z",
       "fecha_evento": "2026-11-06",
       "tickers": [
         "MRNA"
       ]
     },
     {
-      "id": "cvs-split-drugstore",
+      "id": "cvs-split-2026",
       "type": "empresa",
-      "title": "CVS Health se parte en dos: separa su negocio de farmacias del resto",
-      "summary": "CVS Health anunció que va a escindir su negocio de farmacias minoristas, deshaciendo en parte la megafusión de u$s78.000 millones con Aetna que realizó en 2018. Las acciones cayeron un 10%.",
-      "detail": "Cuando una empresa grande se divide, generalmente busca que cada parte valga más por separado que juntas —una estrategia llamada spin-off o escisión. Este caso muestra cómo las fusiones gigantes no siempre generan el valor esperado y cómo los mercados reaccionan de forma inmediata ante cambios estratégicos corporativos.",
+      "title": "CVS Health planea separarse: dividiría su farmacia de su negocio de seguros Aetna",
+      "summary": "CVS Health anunció que dividirá su negocio de farmacias del resto de la compañía, deshaciendo en parte la megafusión con Aetna por 78.000 millones de dólares que realizó en 2018.",
+      "detail": "Cuando una empresa grande se divide, generalmente busca que cada parte valga más por separado que en conjunto, un concepto llamado 'desinversión' o 'spin-off'. Esta decisión también puede ser señal de que la estrategia original no dio los resultados esperados. Para quien aprende a invertir, es un ejemplo de cómo las fusiones y adquisiciones no siempre crean valor a largo plazo.",
       "tags": [
-        "fusiones",
-        "salud",
-        "spin-off"
+        "CVS",
+        "spin-off",
+        "salud"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
@@ -74,53 +93,68 @@
       ]
     },
     {
-      "id": "tesla-cybertruck-wind-down",
-      "type": "empresa",
-      "title": "Elon Musk anuncia que Tesla dejará de producir Cybertrucks en su fábrica de Texas",
-      "summary": "El CEO de Tesla publicó en X que la gigafábrica de Texas dejará de fabricar Cybertrucks el año que viene, cambiando la producción hacia otros modelos.",
-      "detail": "Las decisiones de producción de Tesla impactan directamente en sus costos, márgenes y expectativas de ventas, lo que mueve el precio de la acción. Tesla es una de las empresas más seguidas del mundo y sus anuncios suelen tener efecto inmediato en los mercados, siendo un buen ejemplo de cómo las noticias corporativas generan volatilidad.",
+      "id": "canada-jobs-rate-hike-2026",
+      "type": "economia",
+      "title": "Canadá perdió empleos en octubre y bajan las chances de una suba de tasas en diciembre",
+      "summary": "La economía canadiense perdió 4.700 empleos en octubre, lo que redujo las expectativas de que el Banco de Canadá suba las tasas en diciembre. Las bolsas canadienses subieron ante la noticia.",
+      "detail": "Este es un ejemplo claro de cómo los datos de empleo influyen directamente en las expectativas sobre política monetaria. Menos empleo sugiere una economía más débil, lo que lleva a los mercados a anticipar que el banco central no necesitará subir tasas para enfriar la economía. Esa expectativa hace subir los precios de los bonos y las acciones.",
       "tags": [
-        "Tesla",
-        "producción",
-        "autos eléctricos"
+        "Canadá",
+        "tasas de interés",
+        "empleo"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd",
-      "published_at": "2026-11-06T10:37:00Z",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/canadian-stocks-advance-december-rate-hike-concerns-lowered-after-jobs-data-release",
+      "published_at": "2026-11-06T21:31:14Z",
       "fecha_evento": "2026-11-06",
-      "tickers": [
-        "TSLA"
-      ]
+      "tickers": []
     },
     {
-      "id": "disney-layoffs-cost-cuts",
-      "type": "empresa",
-      "title": "Disney planea despedir a varios miles de empleados y pide bajar costos hasta un 20%",
-      "summary": "Disney anunció una nueva ronda de despidos masivos y les pidió a sus gerentes que reduzcan costos hasta un 20%, en medio de una presión continua sobre sus finanzas.",
-      "detail": "Los despidos y recortes de costos son señales de que una empresa busca mejorar su rentabilidad, algo que suele ser bien visto por los inversores en el corto plazo aunque genera incertidumbre. Disney es un ejemplo clásico de empresa que enfrenta la transición del modelo de negocios tradicional (cine, parques) al streaming digital.",
+      "id": "automakers-costs-2027",
+      "type": "economia",
+      "title": "Las automotrices advierten que 2027 será difícil por el alza de costos",
+      "summary": "Las grandes automotrices alertan sobre el incremento de costos en materias primas, logística y memorias, y reconocen que cada vez les resulta más difícil trasladar esos aumentos a los precios para los consumidores.",
+      "detail": "Esta situación ilustra la presión de márgenes que enfrentan empresas industriales cuando los costos suben pero la demanda no acompaña. Para los inversores, márgenes más ajustados pueden traducirse en menores ganancias y caída en el precio de las acciones. También es una señal macroeconómica de que la inflación puede seguir siendo un tema relevante en 2027.",
       "tags": [
-        "despidos",
-        "entretenimiento",
-        "costos"
+        "automotriz",
+        "costos",
+        "industria"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-      "published_at": "2026-11-03T17:05:29Z",
-      "fecha_evento": "2026-11-03",
+      "source_url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
+      "published_at": "2026-11-06T13:19:53Z",
+      "fecha_evento": "2026-11-06",
+      "tickers": []
+    },
+    {
+      "id": "wendys-rejects-trian-2026",
+      "type": "empresa",
+      "title": "Wendy's rechazó una oferta de compra de 1.400 millones de dólares del fondo de Nelson Peltz",
+      "summary": "La cadena de hamburguesas Wendy's rechazó la propuesta de adquisición presentada por Trian, el fondo del inversor activista Nelson Peltz, argumentando que no refleja el valor de su plan de recuperación.",
+      "detail": "Las ofertas de adquisición hostiles o no solicitadas son eventos frecuentes en los mercados. Cuando una empresa las rechaza, generalmente argumenta que el precio ofrecido es insuficiente o que sus planes propios generarán más valor. Para aprender finanzas, este tipo de situaciones muestra cómo se valúan empresas y qué papel juegan los inversores activistas en el mundo corporativo.",
+      "tags": [
+        "fusiones",
+        "Wendy's",
+        "inversores activistas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+      "published_at": "2026-11-05T15:08:05Z",
+      "fecha_evento": "2026-11-05",
       "tickers": [
-        "DIS"
+        "WEN"
       ]
     },
     {
-      "id": "kraft-heinz-coffee-divestiture",
+      "id": "kraft-heinz-coffee-deal-2026",
       "type": "empresa",
-      "title": "Kraft Heinz vende su negocio de café en Norteamérica por u$s650 millones",
-      "summary": "Kraft Heinz acordó vender su división de café en América del Norte a la firma de capital privado One Rock Capital Partners por u$s650 millones, como parte de la estrategia de su nuevo CEO para reestructurar la compañía.",
-      "detail": "Vender divisiones no estratégicas para concentrarse en el negocio principal es una táctica común de reestructuración corporativa. Este tipo de operaciones —llamadas divestitures— permite a las empresas obtener caja y reducir complejidad, y suelen ser bien recibidas por los mercados si el precio de venta es considerado justo.",
+      "title": "Kraft Heinz vende su negocio de café en Norteamérica por 650 millones de dólares",
+      "summary": "Kraft Heinz acordó vender su división de café en Norteamérica a la firma de capital privado One Rock Capital Partners por 650 millones de dólares, como parte de la estrategia de su nuevo CEO para reestructurar la compañía.",
+      "detail": "La desinversión de unidades de negocio es una herramienta común en la reestructuración corporativa: se venden activos para enfocarse en las áreas más rentables o para reducir deuda. Para quien aprende finanzas, es importante entender que el capital privado (private equity) suele comprar estos activos esperando mejorar su rentabilidad antes de revenderlos.",
       "tags": [
+        "Kraft Heinz",
         "desinversión",
-        "alimentos",
-        "reestructuración"
+        "private equity"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
@@ -128,42 +162,6 @@
       "fecha_evento": "2026-11-04",
       "tickers": [
         "KHC"
-      ]
-    },
-    {
-      "id": "democrats-debt-ceiling-fight",
-      "type": "economia",
-      "title": "Los demócratas podrían usar el techo de deuda para negociar con Trump tras las elecciones de medio término",
-      "summary": "Tras los resultados de las elecciones de medio término en EE.UU., analistas señalan que los demócratas podrían aprovechar la próxima negociación del techo de deuda para arrancarle concesiones a Trump, con riesgo de volatilidad en los mercados.",
-      "detail": "El techo de deuda es el límite legal que tiene el gobierno de EE.UU. para endeudarse. Cuando hay conflicto político en torno a su extensión, los mercados se ponen nerviosos porque un default —aunque sea técnico y temporal— podría disparar las tasas de los bonos del Tesoro y generar turbulencia global. Para Argentina, que depende del humor financiero internacional, este tipo de eventos impacta indirectamente.",
-      "tags": [
-        "deuda EE.UU.",
-        "política fiscal",
-        "riesgo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "published_at": "2026-11-04T22:46:43Z",
-      "fecha_evento": "2026-11-04",
-      "tickers": []
-    },
-    {
-      "id": "mcdonalds-earnings-beat",
-      "type": "empresa",
-      "title": "McDonald's supera expectativas de ganancias y sus restaurantes en EE.UU. muestran mejora",
-      "summary": "McDonald's reportó resultados por encima de lo esperado y mostró una mejora en sus locales de EE.UU., impulsada por su estrategia de descuentos para atraer clientes más sensibles al precio.",
-      "detail": "McDonald's es considerada una acción defensiva: tiende a resistir mejor las crisis porque la gente sigue consumiendo comida rápida incluso cuando ajusta su presupuesto. Que una empresa de consumo masivo supere estimaciones en un contexto económico incierto es una señal de cómo las empresas se adaptan cambiando su propuesta de valor.",
-      "tags": [
-        "consumo",
-        "resultados",
-        "acciones defensivas"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-      "published_at": "2026-11-04T21:02:53Z",
-      "fecha_evento": "2026-11-04",
-      "tickers": [
-        "MCD"
       ]
     }
   ],
@@ -183,7 +181,7 @@
     {
       "label": "MEP",
       "valor": "$1.588",
-      "valor_num": 1588.0,
+      "valor_num": 1587.9,
       "delta_pct": -0.04
     },
     {
@@ -194,21 +192,21 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 76.041",
-      "valor_num": 76041.0,
-      "delta_pct": -5.26
+      "valor": "US$ 75.836",
+      "valor_num": 75836.0,
+      "delta_pct": 0.13
     },
     {
       "label": "S&P 500",
-      "valor": "7.354",
-      "valor_num": 7353.73,
-      "delta_pct": -4.75
+      "valor": "7.377",
+      "valor_num": 7376.86,
+      "delta_pct": -2.68
     },
     {
       "label": "ORO (ONZA)",
       "valor": "US$ 4.077",
-      "valor_num": 4077.0,
-      "delta_pct": 2.71
+      "valor_num": 4076.6,
+      "delta_pct": 2.7
     }
   ]
 }
