@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "ccl-mas-caro-que-el-mep-que-significa",
+      "titulo": "El CCL está más caro que el MEP: qué dice esa diferencia",
+      "bajada": "MEP y CCL se arman casi con la misma operación, pero no cuestan lo mismo. La diferencia mide algo concreto: cuánto se paga por sacar la plata del país.",
+      "categoria": "Economía",
+      "mundo": "economia",
+      "fecha": "2026-11-06"
+    },
+    {
       "slug": "liquidez-que-es-y-por-que-importa",
       "titulo": "Liquidez: por qué importa cuánto tardás en salir de algo",
       "bajada": "Un auto vale plata, pero no te saca de un apuro un martes a la mañana. Eso es liquidez, y define más decisiones de las que creés.",
