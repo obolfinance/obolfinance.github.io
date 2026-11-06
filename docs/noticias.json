@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-05T22:01:15.627993+00:00",
+  "generated_at": "2026-11-06T12:01:10.090261+00:00",
   "items": [
     {
       "id": "october-jobs-report-preview",
       "type": "reunion",
       "title": "Sale el viernes el informe de empleo de octubre en EE.UU.",
-      "summary": "El viernes se publica el reporte de nóminas no agrícolas de octubre en EE.UU., uno de los datos económicos más seguidos del mundo. Se conocerá a las 8:30 a.m. hora del Este.",
-      "detail": "El reporte de empleo mensual es uno de los indicadores más importantes para los mercados globales porque la Reserva Federal lo usa para decidir si sube, baja o mantiene las tasas de interés. Si el empleo es fuerte, la Fed puede mantener tasas altas; si es débil, puede bajarlas. Eso afecta al dólar, a las bolsas y, por extensión, a economías emergentes como la Argentina.",
+      "summary": "El viernes a las 8:30 a.m. ET el gobierno estadounidense publica el reporte de nóminas no agrícolas de octubre, uno de los datos económicos más seguidos del mundo.",
+      "detail": "El informe de empleo mensual de EE.UU. es clave porque la Fed lo usa para decidir si sube, baja o mantiene las tasas de interés. Un mercado laboral fuerte puede frenar los recortes de tasas, lo que afecta bonos, acciones y el valor del dólar globalmente —incluyendo el tipo de cambio en Argentina.",
       "tags": [
         "empleo",
         "Fed",
-        "datos económicos"
+        "tasas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
       "published_at": "2026-11-05T21:32:52Z",
-      "fecha_evento": "2026-11-06",
+      "fecha_evento": "2026-11-07",
       "tickers": []
     },
     {
       "id": "adp-october-jobs",
       "type": "economia",
       "title": "El sector privado de EE.UU. creó 86.000 empleos en octubre, según ADP",
-      "summary": "Las empresas privadas de EE.UU. sumaron 86.000 empleos en octubre, un número levemente por encima de lo esperado, según el reporte de ADP. Las ganancias se distribuyeron entre varios sectores.",
-      "detail": "El reporte de ADP es un anticipo privado del dato oficial de empleo que publica el gobierno. Cuando el mercado laboral muestra solidez, la Fed tiene menos presión para bajar tasas, lo que suele fortalecer al dólar frente a otras monedas. Para Argentina, un dólar fuerte puede encarecer las importaciones y complicar el pago de deuda externa.",
+      "summary": "Las empresas privadas estadounidenses sumaron 86.000 puestos de trabajo en octubre, levemente por encima de lo esperado, con crecimiento distribuido en varios sectores.",
+      "detail": "El reporte ADP es un anticipo privado del gran informe oficial de empleo. Cuando los datos de empleo superan las expectativas, los mercados suelen interpretar que la economía sigue fuerte y que la Fed podría ser más cautelosa con los recortes de tasas, lo que puede apreciar el dólar y mover los bonos.",
       "tags": [
         "empleo",
         "economía EE.UU.",
@@ -36,32 +36,34 @@
       "tickers": []
     },
     {
-      "id": "australia-rate-hike",
-      "type": "economia",
-      "title": "Australia subió las tasas al nivel más alto en 18 años para frenar la inflación",
-      "summary": "El Banco Central de Australia volvió a subir las tasas de interés, llevándolas al nivel más alto en 18 años. Es la quinta suba del año y estuvo en línea con lo que esperaban los economistas.",
-      "detail": "Cuando un banco central sube tasas para combatir la inflación, encarece el crédito y enfría la economía. Esto es exactamente lo que hizo la Fed en años recientes y lo que varios bancos centrales del mundo siguen haciendo. Ver cómo Australia lidia con la inflación es un buen ejemplo para entender el dilema que enfrentan todos los países: bajar la inflación tiene un costo en crecimiento y empleo.",
+      "id": "moderna-raises-outlook-2026",
+      "type": "empresa",
+      "title": "Moderna sube su proyección de ingresos para 2026 y confía en sus nuevas vacunas",
+      "summary": "Moderna revisó al alza su perspectiva de ingresos para 2026, esperando ahora un crecimiento de entre 15% y 25%, frente al 10% que proyectaba antes, impulsada por el avance de sus vacunas más nuevas.",
+      "detail": "Cuando una empresa sube su guidance (proyección oficial de resultados), es una señal de que el negocio va mejor de lo planeado, lo que suele impulsar el precio de la acción. Moderna es un caso interesante para aprender sobre biotecnología e inversión en salud, un sector volátil pero de alto crecimiento.",
       "tags": [
-        "tasas de interés",
-        "inflación",
-        "banco central"
+        "biotecnología",
+        "vacunas",
+        "resultados"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
-      "published_at": "2026-11-03T03:46:20Z",
-      "fecha_evento": "2026-11-03",
-      "tickers": []
+      "source_url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
+      "published_at": "2026-11-06T11:56:04Z",
+      "fecha_evento": "2026-11-06",
+      "tickers": [
+        "MRNA"
+      ]
     },
     {
-      "id": "cvs-split",
+      "id": "cvs-split-drugstore",
       "type": "empresa",
-      "title": "CVS Health se parte en dos: separa su farmacia de su aseguradora Aetna",
-      "summary": "CVS Health anunció que va a dividirse y separar su negocio de farmacias del resto de la compañía, incluyendo la aseguradora Aetna. La noticia hizo caer sus acciones un 10%.",
-      "detail": "CVS había comprado Aetna en 2018 por 78.000 millones de dólares para convertirse en un gigante integrado de salud. Que ahora decida deshacerse de esa unión muestra que la estrategia no dio los resultados esperados. Los inversores reaccionaron negativamente porque los breakups generan incertidumbre sobre el valor de cada parte. Este tipo de decisiones corporativas enseña cómo las fusiones y adquisiciones pueden tanto crear como destruir valor.",
+      "title": "CVS Health se parte en dos: separa su negocio de farmacias del resto",
+      "summary": "CVS Health anunció que va a escindir su negocio de farmacias minoristas, deshaciendo en parte la megafusión de u$s78.000 millones con Aetna que realizó en 2018. Las acciones cayeron un 10%.",
+      "detail": "Cuando una empresa grande se divide, generalmente busca que cada parte valga más por separado que juntas —una estrategia llamada spin-off o escisión. Este caso muestra cómo las fusiones gigantes no siempre generan el valor esperado y cómo los mercados reaccionan de forma inmediata ante cambios estratégicos corporativos.",
       "tags": [
-        "empresa",
-        "acciones",
-        "salud"
+        "fusiones",
+        "salud",
+        "spin-off"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
@@ -72,15 +74,34 @@
       ]
     },
     {
-      "id": "disney-layoffs",
+      "id": "tesla-cybertruck-wind-down",
       "type": "empresa",
-      "title": "Disney planea despedir a varios miles de empleados y pide recortes de hasta 20%",
-      "summary": "Disney anunció una nueva ronda de despidos masivos y les pidió a algunos gerentes que reduzcan costos hasta un 20%. Es parte de un proceso de ajuste del gigante del entretenimiento.",
-      "detail": "Cuando una empresa grande como Disney recorta costos de forma agresiva, suele ser una señal de que enfrenta presión en sus ingresos o rentabilidad. Para un inversor, estos movimientos pueden ser una oportunidad si el mercado sobrerreacciona, o una señal de alerta si los problemas son estructurales. Entender por qué las empresas hacen recortes ayuda a leer mejor los balances y las estrategias corporativas.",
+      "title": "Elon Musk anuncia que Tesla dejará de producir Cybertrucks en su fábrica de Texas",
+      "summary": "El CEO de Tesla publicó en X que la gigafábrica de Texas dejará de fabricar Cybertrucks el año que viene, cambiando la producción hacia otros modelos.",
+      "detail": "Las decisiones de producción de Tesla impactan directamente en sus costos, márgenes y expectativas de ventas, lo que mueve el precio de la acción. Tesla es una de las empresas más seguidas del mundo y sus anuncios suelen tener efecto inmediato en los mercados, siendo un buen ejemplo de cómo las noticias corporativas generan volatilidad.",
       "tags": [
-        "empresa",
+        "Tesla",
+        "producción",
+        "autos eléctricos"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd",
+      "published_at": "2026-11-06T10:37:00Z",
+      "fecha_evento": "2026-11-06",
+      "tickers": [
+        "TSLA"
+      ]
+    },
+    {
+      "id": "disney-layoffs-cost-cuts",
+      "type": "empresa",
+      "title": "Disney planea despedir a varios miles de empleados y pide bajar costos hasta un 20%",
+      "summary": "Disney anunció una nueva ronda de despidos masivos y les pidió a sus gerentes que reduzcan costos hasta un 20%, en medio de una presión continua sobre sus finanzas.",
+      "detail": "Los despidos y recortes de costos son señales de que una empresa busca mejorar su rentabilidad, algo que suele ser bien visto por los inversores en el corto plazo aunque genera incertidumbre. Disney es un ejemplo clásico de empresa que enfrenta la transición del modelo de negocios tradicional (cine, parques) al streaming digital.",
+      "tags": [
         "despidos",
-        "entretenimiento"
+        "entretenimiento",
+        "costos"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
@@ -91,15 +112,15 @@
       ]
     },
     {
-      "id": "kraft-heinz-coffee-deal",
+      "id": "kraft-heinz-coffee-divestiture",
       "type": "empresa",
-      "title": "Kraft Heinz vende su negocio de café en Norteamérica por 650 millones de dólares",
-      "summary": "Kraft Heinz acordó vender su negocio de café en América del Norte a la firma de capital privado One Rock Capital Partners por 650 millones de dólares, como parte del plan de su CEO para revitalizar la compañía.",
-      "detail": "Cuando una empresa vende una división, suele hacerlo para concentrarse en sus negocios principales o para levantar efectivo. Este tipo de desinversión es una herramienta financiera común en la reestructuración corporativa. Para alguien que aprende finanzas, es útil observar cómo el capital privado (private equity) compra negocios que las grandes empresas consideran secundarios y busca hacerlos crecer de forma independiente.",
+      "title": "Kraft Heinz vende su negocio de café en Norteamérica por u$s650 millones",
+      "summary": "Kraft Heinz acordó vender su división de café en América del Norte a la firma de capital privado One Rock Capital Partners por u$s650 millones, como parte de la estrategia de su nuevo CEO para reestructurar la compañía.",
+      "detail": "Vender divisiones no estratégicas para concentrarse en el negocio principal es una táctica común de reestructuración corporativa. Este tipo de operaciones —llamadas divestitures— permite a las empresas obtener caja y reducir complejidad, y suelen ser bien recibidas por los mercados si el precio de venta es considerado justo.",
       "tags": [
-        "empresa",
-        "fusiones",
-        "capital privado"
+        "desinversión",
+        "alimentos",
+        "reestructuración"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
@@ -110,15 +131,32 @@
       ]
     },
     {
-      "id": "mcdonalds-earnings",
-      "type": "empresa",
-      "title": "McDonald's superó expectativas y sus acciones subieron",
-      "summary": "McDonald's publicó resultados del trimestre que superaron las estimaciones de Wall Street. La cadena lleva dos años apostando a descuentos para atraer a consumidores más ajustados, y la estrategia está dando resultados.",
-      "detail": "Que McDonald's gane clientes con descuentos en un contexto de inflación es un indicador del comportamiento del consumidor: cuando los precios suben, la gente busca opciones más baratas. Para un inversor, los resultados de empresas de consumo masivo como McDonald's sirven como termómetro del estado de la economía real y del bolsillo de las personas.",
+      "id": "democrats-debt-ceiling-fight",
+      "type": "economia",
+      "title": "Los demócratas podrían usar el techo de deuda para negociar con Trump tras las elecciones de medio término",
+      "summary": "Tras los resultados de las elecciones de medio término en EE.UU., analistas señalan que los demócratas podrían aprovechar la próxima negociación del techo de deuda para arrancarle concesiones a Trump, con riesgo de volatilidad en los mercados.",
+      "detail": "El techo de deuda es el límite legal que tiene el gobierno de EE.UU. para endeudarse. Cuando hay conflicto político en torno a su extensión, los mercados se ponen nerviosos porque un default —aunque sea técnico y temporal— podría disparar las tasas de los bonos del Tesoro y generar turbulencia global. Para Argentina, que depende del humor financiero internacional, este tipo de eventos impacta indirectamente.",
       "tags": [
-        "empresa",
+        "deuda EE.UU.",
+        "política fiscal",
+        "riesgo"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "published_at": "2026-11-04T22:46:43Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": []
+    },
+    {
+      "id": "mcdonalds-earnings-beat",
+      "type": "empresa",
+      "title": "McDonald's supera expectativas de ganancias y sus restaurantes en EE.UU. muestran mejora",
+      "summary": "McDonald's reportó resultados por encima de lo esperado y mostró una mejora en sus locales de EE.UU., impulsada por su estrategia de descuentos para atraer clientes más sensibles al precio.",
+      "detail": "McDonald's es considerada una acción defensiva: tiende a resistir mejor las crisis porque la gente sigue consumiendo comida rápida incluso cuando ajusta su presupuesto. Que una empresa de consumo masivo supere estimaciones en un contexto económico incierto es una señal de cómo las empresas se adaptan cambiando su propuesta de valor.",
+      "tags": [
         "consumo",
-        "acciones"
+        "resultados",
+        "acciones defensivas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
@@ -127,59 +165,6 @@
       "tickers": [
         "MCD"
       ]
-    },
-    {
-      "id": "wendys-rejects-takeover",
-      "type": "empresa",
-      "title": "Wendy's rechazó una oferta de compra de 1.400 millones de dólares",
-      "summary": "Wendy's rechazó la propuesta de adquisición de 1.400 millones de dólares hecha por el fondo de Nelson Peltz, Trian. La cadena de hamburguesas dijo que el precio no refleja el potencial de su estrategia de recuperación.",
-      "detail": "Cuando una empresa rechaza una oferta de compra, generalmente argumenta que el precio ofrecido subvalúa el negocio. Este tipo de situaciones, llamadas OPAs hostiles o propuestas no solicitadas, son frecuentes en los mercados y generan movimientos importantes en las acciones. Para aprender finanzas, es un buen ejemplo de cómo los accionistas activistas como Peltz presionan a las empresas para generar valor.",
-      "tags": [
-        "empresa",
-        "fusiones",
-        "acciones"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-      "published_at": "2026-11-05T15:08:05Z",
-      "fecha_evento": "2026-11-05",
-      "tickers": [
-        "WEN"
-      ]
-    },
-    {
-      "id": "wonder-ipo-filing",
-      "type": "empresa",
-      "title": "La startup Wonder de Marc Lore presentó en secreto su solicitud para salir a bolsa",
-      "summary": "Wonder, la startup de food-tech del empresario Marc Lore, presentó de forma confidencial su solicitud para hacer una oferta pública inicial (IPO). Todavía no hay fecha definida para el debut bursátil.",
-      "detail": "Una presentación confidencial de IPO es el primer paso formal para que una empresa salga a cotizar en bolsa: le permite preparar todo sin revelar sus números públicamente hasta estar lista. Para alguien que aprende finanzas, es útil entender que los IPOs son una forma en que las empresas privadas consiguen capital del mercado y los inversores tempranos realizan sus ganancias.",
-      "tags": [
-        "IPO",
-        "empresa",
-        "mercado"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
-      "published_at": "2026-11-05T16:27:10Z",
-      "fecha_evento": "2026-11-05",
-      "tickers": []
-    },
-    {
-      "id": "debt-ceiling-democrats",
-      "type": "economia",
-      "title": "El techo de deuda de EE.UU. podría ser el próximo campo de batalla político tras las elecciones",
-      "summary": "Con los demócratas recuperando poder en el Congreso tras las elecciones de medio término, analistas advierten que el próximo enfrentamiento por el techo de deuda podría generar volatilidad en los mercados y el riesgo de un default.",
-      "detail": "El techo de deuda es el límite legal que fija el Congreso de EE.UU. para cuánto puede endeudarse el gobierno. Cuando no se llega a un acuerdo, los mercados se ponen nerviosos porque un default del Tesoro americano tendría consecuencias globales, incluyendo en países emergentes como Argentina que dependen del dólar y del financiamiento externo. Este tipo de conflictos políticos son un recordatorio de que la política y las finanzas están muy entrelazadas.",
-      "tags": [
-        "deuda",
-        "política",
-        "mercados"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "published_at": "2026-11-04T22:46:43Z",
-      "fecha_evento": "2026-11-04",
-      "tickers": []
     }
   ],
   "ticker": [
@@ -193,25 +178,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.555",
       "valor_num": 1555.0,
-      "delta_pct": -0.96
+      "delta_pct": -0.32
     },
     {
       "label": "MEP",
       "valor": "$1.588",
       "valor_num": 1588.0,
-      "delta_pct": 0.44
+      "delta_pct": -0.04
     },
     {
       "label": "CCL",
       "valor": "$1.665",
       "valor_num": 1664.9,
-      "delta_pct": -0.23
+      "delta_pct": -0.92
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 75.826",
-      "valor_num": 75826.0,
-      "delta_pct": -5.42
+      "valor": "US$ 76.041",
+      "valor_num": 76041.0,
+      "delta_pct": -5.26
     },
     {
       "label": "S&P 500",
@@ -221,9 +206,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.098",
-      "valor_num": 4097.5,
-      "delta_pct": 3.22
+      "valor": "US$ 4.077",
+      "valor_num": 4077.0,
+      "delta_pct": 2.71
     }
   ]
 }
