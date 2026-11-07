@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-07T12:01:10.412837+00:00",
+  "generated_at": "2026-11-07T22:01:13.606183+00:00",
   "items": [
     {
-      "id": "jobs-october-2026",
+      "id": "us-jobs-october-2026",
       "type": "economia",
       "title": "EE.UU. creó 165.000 empleos en octubre, muy por encima de lo esperado",
-      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, superando ampliamente las 59.000 plazas que esperaba el mercado. La tasa de desempleo bajó a 4,1%, por debajo del 4,2% previsto.",
-      "detail": "El reporte de empleo (nonfarm payrolls) es uno de los indicadores económicos más seguidos del mundo porque muestra la salud del mercado laboral de EE.UU. Cuando los datos superan las expectativas, suelen generar expectativas de que la economía sigue fuerte, lo que puede influir en las decisiones de la Reserva Federal sobre tasas de interés. Un mercado laboral sólido en EE.UU. también impacta en los mercados globales, incluyendo activos argentinos como el dólar y los bonos.",
+      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, casi el triple de los 59.000 que esperaba el mercado. La tasa de desempleo bajó levemente a 4,1%.",
+      "detail": "El informe de empleo es uno de los datos más seguidos por los mercados globales porque influye directamente en las decisiones de la Reserva Federal sobre tasas de interés. Un mercado laboral más fuerte de lo esperado puede llevar a la Fed a mantener las tasas altas por más tiempo, lo que afecta el costo del crédito en todo el mundo y el valor del dólar frente a otras monedas, incluyendo el peso argentino.",
       "tags": [
         "empleo",
         "economía EE.UU.",
-        "mercado laboral"
+        "Fed"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
@@ -19,11 +19,11 @@
       "tickers": []
     },
     {
-      "id": "long-term-unemployment-oct2026",
+      "id": "long-term-unemployment-october-2026",
       "type": "economia",
-      "title": "El desempleo de larga duración en EE.UU. llega al nivel más alto en una década",
-      "summary": "Pese a los buenos números generales de empleo, el promedio de semanas sin trabajo de quienes están desempleados superó las 27 semanas en octubre, el valor más alto fuera de la pandemia en diez años.",
-      "detail": "Este dato muestra que, aunque se crean empleos, hay un grupo de trabajadores que tiene cada vez más dificultades para reinsertarse. Es una señal de alerta sobre la calidad del mercado laboral: los promedios generales pueden ocultar problemas estructurales. Para quien aprende finanzas, es un ejemplo de cómo siempre conviene mirar más allá del titular principal de un reporte económico.",
+      "title": "Alerta oculta: el desempleo de larga duración en EE.UU. llega al nivel más alto en una década",
+      "summary": "Aunque los números generales de empleo sorprendieron para bien, el tiempo promedio que tarda un desempleado en conseguir trabajo superó las 27 semanas en octubre, el peor dato en diez años fuera de la pandemia.",
+      "detail": "Este indicador muestra que, aunque se crean empleos, ciertas personas tienen cada vez más dificultad para reinsertarse en el mercado laboral. Es una señal de alerta estructural: el mercado puede verse fuerte en la superficie pero esconder debilidades que, con el tiempo, afectan el consumo y el crecimiento económico. Aprender a leer más allá del titular es clave en educación financiera.",
       "tags": [
         "desempleo",
         "mercado laboral",
@@ -36,15 +36,32 @@
       "tickers": []
     },
     {
-      "id": "tesla-cybertruck-wind-down",
+      "id": "democrats-debt-ceiling-2026",
+      "type": "economia",
+      "title": "El techo de la deuda de EE.UU. vuelve al centro de la escena tras las elecciones de medio término",
+      "summary": "Con los demócratas recuperando posiciones en el Congreso tras las elecciones de medio término, se abre la posibilidad de una batalla política por el techo de la deuda que podría generar volatilidad en los mercados y, en el peor caso, un default.",
+      "detail": "El techo de la deuda es el límite legal que tiene el gobierno de EE.UU. para endeudarse. Cuando se acerca ese límite, el Congreso debe votar para subirlo. Si no lo hace, el gobierno técnicamente no puede pagar sus deudas, lo que generaría pánico en los mercados globales. Esta dinámica política afecta directamente a los bonos del Tesoro de EE.UU., considerados el activo 'libre de riesgo' de referencia mundial.",
+      "tags": [
+        "deuda",
+        "política EE.UU.",
+        "mercados"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "published_at": "2026-11-04T22:46:43Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": []
+    },
+    {
+      "id": "tesla-cybertruck-wind-down-2026",
       "type": "empresa",
-      "title": "Tesla frenará la producción del Cybertruck en Texas para priorizar el Cybercab",
-      "summary": "Elon Musk anunció que Tesla reducirá gradualmente la fabricación del Cybertruck en su planta de Texas el año próximo para destinar esa capacidad al nuevo Cybercab, su vehículo autónomo.",
-      "detail": "Esta decisión ilustra cómo las empresas reasignan recursos entre productos según su potencial de mercado. El Cybertruck no logró ventas masivas y tuvo varios retiros voluntarios, por lo que Tesla apuesta a un nuevo producto. Para inversores, los cambios en la línea de producción de una compañía tan seguida como Tesla pueden mover su cotización y la de sus proveedores.",
+      "title": "Tesla frenará la producción del Cybertruck para apostar al Cybercab",
+      "summary": "Elon Musk anunció que Tesla dejará de fabricar el Cybertruck en Texas el año que viene para destinar esa capacidad productiva al Cybercab, su vehículo autónomo de bajo costo.",
+      "detail": "Esta decisión muestra cómo las empresas reasignan recursos cuando un producto no cumplió las expectativas de ventas masivas. El Cybertruck tuvo seguidores fieles pero no logró volumen, y sufrió varios retiros voluntarios. Para los inversores, es una señal de hacia dónde apuesta Tesla su futuro: la movilidad autónoma, un mercado con mucha más escala potencial que un pickup de nicho.",
       "tags": [
         "Tesla",
         "vehículos eléctricos",
-        "estrategia empresarial"
+        "Musk"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
@@ -55,15 +72,15 @@
       ]
     },
     {
-      "id": "moderna-outlook-raise",
+      "id": "moderna-outlook-raise-2026",
       "type": "empresa",
-      "title": "Moderna sube su proyección de ingresos para 2026 y supera expectativas",
-      "summary": "Moderna elevó su perspectiva de crecimiento de ingresos para 2026: ahora espera crecer entre 15% y 25%, frente al máximo del 10% que había proyectado antes. La compañía atribuye el cambio a que sus vacunas más nuevas están ganando terreno.",
-      "detail": "Cuando una empresa sube su guidance (proyección oficial de resultados futuros), es una señal positiva que suele impulsar el precio de la acción. Para quien aprende finanzas, el guidance es una herramienta clave para anticipar el desempeño de una compañía y comparar con lo que el mercado ya tenía descontado en el precio.",
+      "title": "Moderna mejora sus proyecciones de ingresos para 2026 y confía en sus nuevas vacunas",
+      "summary": "La biotecnológica elevó su guía de crecimiento de ingresos para 2026 a entre 15% y 25%, cuando antes esperaba un máximo de 10%, impulsada por la mayor adopción de sus vacunas más recientes.",
+      "detail": "Cuando una empresa 'levanta su guidance' (mejora sus proyecciones), suele ser una señal positiva para el mercado porque implica que el negocio va mejor de lo previsto. En el caso de Moderna, la clave está en que sus vacunas más nuevas están ganando terreno comercial, lo que reduce la dependencia del COVID-19 y hace el modelo de negocio más sustentable a largo plazo.",
       "tags": [
         "Moderna",
         "biotecnología",
-        "resultados empresariales"
+        "vacunas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
@@ -74,49 +91,11 @@
       ]
     },
     {
-      "id": "cvs-split-drugstore",
-      "type": "empresa",
-      "title": "CVS planea separarse: dividiría su farmacia de su negocio de seguros de salud",
-      "summary": "CVS Health anunció que planea escindir su negocio de farmacias del resto de la compañía, incluyendo la aseguradora Aetna, en una ruptura que revertiría su fusión de 78.000 millones de dólares del año 2018. Las acciones cayeron un 10%.",
-      "detail": "Las escisiones (spinoffs) ocurren cuando una empresa decide que sus partes valen más por separado que juntas. En este caso, CVS armó un conglomerado de salud integrado verticalmente —farmacias, seguros, clínicas— pero los inversores no premiaron esa estrategia. La caída del 10% en la acción refleja incertidumbre sobre cómo se ejecutará la separación y qué pasará con la deuda.",
-      "tags": [
-        "CVS",
-        "escisión",
-        "salud"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-      "published_at": "2026-11-04T21:04:13Z",
-      "fecha_evento": "2026-11-04",
-      "tickers": [
-        "CVS"
-      ]
-    },
-    {
-      "id": "wendys-rejects-takeover",
-      "type": "empresa",
-      "title": "Wendy's rechazó una oferta de compra de 1.400 millones de dólares de Nelson Peltz",
-      "summary": "La cadena de hamburguesas Wendy's rechazó la propuesta de adquisición del fondo Trian, del inversor activista Nelson Peltz, por 1.400 millones de dólares, argumentando que el precio no refleja el valor de su plan de recuperación.",
-      "detail": "Las ofertas de adquisición hostil son habituales en el mercado cuando un inversor cree que una empresa vale más de lo que cotiza. Cuando el directorio rechaza la oferta, como hizo Wendy's, generalmente alega que el precio es bajo o que tiene mejor camino por cuenta propia. Estos eventos suelen disparar movimientos bruscos en el precio de las acciones y son un tema clásico para entender la valoración de empresas.",
-      "tags": [
-        "fusiones y adquisiciones",
-        "Wendy's",
-        "inversión activista"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-      "published_at": "2026-11-05T15:08:05Z",
-      "fecha_evento": "2026-11-05",
-      "tickers": [
-        "WEN"
-      ]
-    },
-    {
       "id": "automakers-costs-2027",
       "type": "economia",
-      "title": "Las automotrices tradicionales advierten sobre costos más altos y un mercado más difícil en 2027",
-      "summary": "Las grandes automotrices alertaron que enfrentarán mayores costos de materias primas, logística y memoria, y que les será más difícil trasladar esos aumentos a los precios finales de los autos.",
-      "detail": "Cuando los productores no pueden trasladar sus costos al precio de venta, sus márgenes de ganancia se comprimen, lo que suele afectar sus resultados y el precio de sus acciones. Este tipo de presión de costos es también un indicador de inflación en la cadena productiva global, algo relevante para entender cómo la economía real impacta en los mercados financieros.",
+      "title": "Las automotrices advierten un 2027 complicado por el alza de costos",
+      "summary": "Las grandes automotrices mundiales están alertando que enfrentarán mayores costos de materias primas, logística y chips de memoria en 2027, mientras se les hace más difícil trasladar esos aumentos a los consumidores vía precios.",
+      "detail": "Cuando las empresas no pueden subir precios pero sus costos aumentan, sus márgenes de ganancia se comprimen. Esto es relevante para inversores porque impacta directamente en la rentabilidad del sector. Además, el sector automotriz es un indicador importante de la salud de la economía global, ya que involucra cadenas de suministro en decenas de países.",
       "tags": [
         "automotrices",
         "costos",
@@ -129,60 +108,57 @@
       "tickers": []
     },
     {
-      "id": "chip-stocks-rebound",
-      "type": "mercado",
-      "title": "Nvidia, AMD y otras acciones de chips rebotan tras una fuerte caída",
-      "summary": "Las acciones de semiconductores como Nvidia y AMD rebotaron después de una baja pronunciada, aunque los analistas advierten que la volatilidad podría continuar.",
-      "detail": "El sector de chips para inteligencia artificial es uno de los más seguidos del mercado por su peso en los índices y su conexión con el boom de la IA. Los rebotes después de caídas abruptas ('selloffs') son comunes en sectores de alta volatilidad, pero no garantizan que la tendencia bajista haya terminado. Entender estos movimientos ayuda a distinguir entre una recuperación real y un rebote técnico temporal.",
-      "tags": [
-        "semiconductores",
-        "inteligencia artificial",
-        "volatilidad"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "published_at": "2026-11-06T21:24:00Z",
-      "fecha_evento": "2026-11-06",
-      "tickers": [
-        "NVDA",
-        "AMD"
-      ]
-    },
-    {
-      "id": "debt-ceiling-democrats",
+      "id": "small-retailers-shipping-holiday-2026",
       "type": "economia",
-      "title": "El techo de deuda de EE.UU. podría ser el próximo campo de batalla político tras las elecciones",
-      "summary": "Con los demócratas tomando control del Congreso, analistas advierten que la próxima negociación por el techo de deuda podría generar volatilidad en los mercados e incluso el riesgo de un default si no hay acuerdo.",
-      "detail": "El techo de deuda es el límite legal que fija el Congreso de EE.UU. sobre cuánto puede endeudarse el gobierno. Cuando hay tensión política alrededor de ese límite, los mercados reaccionan con caídas porque un eventual incumplimiento de pagos por parte de EE.UU. sería un evento sin precedentes con consecuencias globales. Para Argentina, que también negocia deuda soberana, este tema es especialmente relevante para entender cómo la política impacta en las finanzas.",
+      "title": "Los pequeños comercios de EE.UU. temen un golpe fuerte esta temporada navideña por el alza en los costos de envío",
+      "summary": "El aumento en los precios del combustible está disparando los costos de envío y poniendo en aprietos a los minoristas más chicos justo antes de la temporada de mayor consumo del año.",
+      "detail": "La temporada navideña concentra una parte enorme de las ventas minoristas anuales en EE.UU. Cuando los costos logísticos suben, los negocios más pequeños son los que más sufren porque no tienen el volumen para negociar mejores tarifas, a diferencia de gigantes como Amazon o Walmart. Este tipo de dato da pistas sobre cómo puede ir el consumo en el último trimestre del año, un período clave para la economía.",
       "tags": [
-        "deuda EE.UU.",
-        "política fiscal",
-        "riesgo de mercado"
+        "comercio minorista",
+        "consumo",
+        "costos"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "published_at": "2026-11-04T22:46:43Z",
-      "fecha_evento": "2026-11-04",
+      "source_url": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
+      "published_at": "2026-11-06T12:00:01Z",
+      "fecha_evento": "2026-11-06",
       "tickers": []
     },
     {
-      "id": "kraft-heinz-coffee-divest",
+      "id": "wendys-rejects-trian-takeover",
       "type": "empresa",
-      "title": "Kraft Heinz vende su negocio de café en Norteamérica por 650 millones de dólares",
-      "summary": "Kraft Heinz anunció la venta de su división de café en América del Norte a la firma de capital privado One Rock Capital Partners por 650 millones de dólares, como parte de la estrategia de su nuevo CEO para reestructurar la compañía.",
-      "detail": "La desinversión de unidades de negocio es una estrategia frecuente en grandes corporaciones que buscan enfocarse en sus productos más rentables y reducir deuda. Para el inversor que aprende finanzas, estos movimientos muestran cómo las empresas optimizan su portafolio de negocios y cómo el capital privado (private equity) suele ser el comprador de activos que los grandes grupos ya no quieren.",
+      "title": "Wendy's rechazó una oferta de compra de u$s 1.400 millones del fondo de Nelson Peltz",
+      "summary": "La cadena de hamburguesas Wendy's rechazó la propuesta de adquisición del fondo Trian de Nelson Peltz por u$s 1.400 millones, argumentando que no refleja el valor real de su plan de transformación.",
+      "detail": "Las ofertas de compra (takeovers) son momentos clave en los mercados: el comprador suele ofrecer un precio mayor al de mercado, lo que hace subir la acción del target. Cuando el directorio la rechaza, como en este caso, está apostando a que la empresa vale más de lo que ofrece el comprador. Nelson Peltz es un inversor activista conocido por presionar a empresas para que cambien su estrategia o se vendan.",
       "tags": [
-        "Kraft Heinz",
-        "desinversión",
-        "private equity"
+        "fusiones",
+        "Wendy's",
+        "inversión"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
-      "published_at": "2026-11-04T17:21:06Z",
-      "fecha_evento": "2026-11-04",
+      "source_url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+      "published_at": "2026-11-05T15:08:05Z",
+      "fecha_evento": "2026-11-05",
       "tickers": [
-        "KHC"
+        "WEN"
       ]
+    },
+    {
+      "id": "wonder-ipo-filing-2026",
+      "type": "empresa",
+      "title": "La startup Wonder de Marc Lore presentó en confidencial su solicitud para salir a bolsa",
+      "summary": "Wonder, la empresa de delivery y experiencias gastronómicas fundada por Marc Lore, presentó de forma confidencial los documentos para su IPO (oferta pública inicial de acciones).",
+      "detail": "Una presentación confidencial de IPO es el primer paso formal para que una empresa salga a cotizar en bolsa. Hacerla en modo confidencial le permite a la empresa ajustar su estrategia antes de hacer pública la información. Para quienes aprenden finanzas, es una oportunidad de seguir el proceso de un IPO desde el inicio: presentación, roadshow, fijación de precio y debut en el mercado.",
+      "tags": [
+        "IPO",
+        "startups",
+        "bolsa"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+      "published_at": "2026-11-05T16:27:10Z",
+      "fecha_evento": "2026-11-05",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -212,9 +188,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 75.920",
-      "valor_num": 75920.0,
-      "delta_pct": -0.18
+      "valor": "US$ 75.666",
+      "valor_num": 75666.0,
+      "delta_pct": -0.23
     },
     {
       "label": "S&P 500",
