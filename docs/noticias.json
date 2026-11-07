@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-06T22:01:06.611972+00:00",
+  "generated_at": "2026-11-07T12:01:10.412837+00:00",
   "items": [
     {
-      "id": "us-jobs-october-2026",
+      "id": "jobs-october-2026",
       "type": "economia",
       "title": "EE.UU. creó 165.000 empleos en octubre, muy por encima de lo esperado",
-      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, superando ampliamente las estimaciones de 59.000. La tasa de desempleo bajó levemente a 4,1%.",
-      "detail": "El mercado laboral es uno de los indicadores más seguidos por la Reserva Federal para decidir si sube o baja las tasas de interés. Un dato de empleo mucho mejor de lo esperado puede llevar al mercado a pensar que la Fed no apurará los recortes de tasas, lo que impacta en bonos, acciones y el dólar. Para Argentina, las decisiones de la Fed afectan el flujo de capitales hacia mercados emergentes y el costo del financiamiento externo.",
+      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, superando ampliamente las 59.000 plazas que esperaba el mercado. La tasa de desempleo bajó a 4,1%, por debajo del 4,2% previsto.",
+      "detail": "El reporte de empleo (nonfarm payrolls) es uno de los indicadores económicos más seguidos del mundo porque muestra la salud del mercado laboral de EE.UU. Cuando los datos superan las expectativas, suelen generar expectativas de que la economía sigue fuerte, lo que puede influir en las decisiones de la Reserva Federal sobre tasas de interés. Un mercado laboral sólido en EE.UU. también impacta en los mercados globales, incluyendo activos argentinos como el dólar y los bonos.",
       "tags": [
         "empleo",
-        "Fed",
-        "economía EE.UU."
+        "economía EE.UU.",
+        "mercado laboral"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
@@ -19,11 +19,11 @@
       "tickers": []
     },
     {
-      "id": "long-term-unemployment-october-2026",
+      "id": "long-term-unemployment-oct2026",
       "type": "economia",
-      "title": "El desempleo de larga duración en EE.UU. llega a su nivel más alto en una década",
-      "summary": "Pese a los buenos números generales de empleo, el tiempo promedio que tarda un desempleado en encontrar trabajo superó las 27 semanas en octubre, el peor registro fuera de la pandemia en diez años.",
-      "detail": "Este dato muestra que, aunque el mercado laboral crea empleos, hay una capa de trabajadores que quedan rezagados y les cuesta cada vez más reinsertarse. Es un ejemplo clásico de cómo un mismo mercado puede mostrar señales contradictorias: el promedio mejora, pero la distribución empeora. Para quien aprende finanzas, es clave entender que un solo número no cuenta toda la historia económica.",
+      "title": "El desempleo de larga duración en EE.UU. llega al nivel más alto en una década",
+      "summary": "Pese a los buenos números generales de empleo, el promedio de semanas sin trabajo de quienes están desempleados superó las 27 semanas en octubre, el valor más alto fuera de la pandemia en diez años.",
+      "detail": "Este dato muestra que, aunque se crean empleos, hay un grupo de trabajadores que tiene cada vez más dificultades para reinsertarse. Es una señal de alerta sobre la calidad del mercado laboral: los promedios generales pueden ocultar problemas estructurales. Para quien aprende finanzas, es un ejemplo de cómo siempre conviene mirar más allá del titular principal de un reporte económico.",
       "tags": [
         "desempleo",
         "mercado laboral",
@@ -36,15 +36,15 @@
       "tickers": []
     },
     {
-      "id": "tesla-cybertruck-wind-down-2026",
+      "id": "tesla-cybertruck-wind-down",
       "type": "empresa",
-      "title": "Tesla frenará la producción del Cybertruck para enfocarse en el Cybercab",
-      "summary": "Elon Musk anunció que Tesla reducirá la fabricación del Cybertruck en Texas el año próximo para redirigir recursos hacia el Cybercab, su vehículo autónomo de transporte.",
-      "detail": "Este movimiento refleja una decisión estratégica de reasignar capital y capacidad productiva desde un producto que no logró ventas masivas hacia una apuesta de mayor crecimiento futuro. Para los inversores, es importante entender cómo las empresas priorizan sus líneas de negocio y cómo eso puede afectar las expectativas de ingresos y la cotización de la acción.",
+      "title": "Tesla frenará la producción del Cybertruck en Texas para priorizar el Cybercab",
+      "summary": "Elon Musk anunció que Tesla reducirá gradualmente la fabricación del Cybertruck en su planta de Texas el año próximo para destinar esa capacidad al nuevo Cybercab, su vehículo autónomo.",
+      "detail": "Esta decisión ilustra cómo las empresas reasignan recursos entre productos según su potencial de mercado. El Cybertruck no logró ventas masivas y tuvo varios retiros voluntarios, por lo que Tesla apuesta a un nuevo producto. Para inversores, los cambios en la línea de producción de una compañía tan seguida como Tesla pueden mover su cotización y la de sus proveedores.",
       "tags": [
         "Tesla",
-        "vehículos",
-        "estrategia"
+        "vehículos eléctricos",
+        "estrategia empresarial"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
@@ -55,15 +55,15 @@
       ]
     },
     {
-      "id": "moderna-outlook-2026",
+      "id": "moderna-outlook-raise",
       "type": "empresa",
       "title": "Moderna sube su proyección de ingresos para 2026 y supera expectativas",
-      "summary": "La compañía farmacéutica elevó su estimación de crecimiento de ingresos para 2026 a entre 15% y 25%, cuando antes esperaba hasta un 10%. La mejora se explica por el avance de sus nuevas vacunas.",
-      "detail": "Cuando una empresa sube su guidance (proyección oficial de resultados futuros), el mercado suele reaccionar positivamente porque indica que el negocio va mejor de lo planeado. Es un concepto central en el análisis de acciones: no solo importa si ganaron dinero, sino si superaron o no las expectativas previas y hacia dónde apuntan.",
+      "summary": "Moderna elevó su perspectiva de crecimiento de ingresos para 2026: ahora espera crecer entre 15% y 25%, frente al máximo del 10% que había proyectado antes. La compañía atribuye el cambio a que sus vacunas más nuevas están ganando terreno.",
+      "detail": "Cuando una empresa sube su guidance (proyección oficial de resultados futuros), es una señal positiva que suele impulsar el precio de la acción. Para quien aprende finanzas, el guidance es una herramienta clave para anticipar el desempeño de una compañía y comparar con lo que el mercado ya tenía descontado en el precio.",
       "tags": [
         "Moderna",
-        "farmacéutica",
-        "resultados"
+        "biotecnología",
+        "resultados empresariales"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
@@ -74,14 +74,14 @@
       ]
     },
     {
-      "id": "cvs-split-2026",
+      "id": "cvs-split-drugstore",
       "type": "empresa",
-      "title": "CVS Health planea separarse: dividiría su farmacia de su negocio de seguros Aetna",
-      "summary": "CVS Health anunció que dividirá su negocio de farmacias del resto de la compañía, deshaciendo en parte la megafusión con Aetna por 78.000 millones de dólares que realizó en 2018.",
-      "detail": "Cuando una empresa grande se divide, generalmente busca que cada parte valga más por separado que en conjunto, un concepto llamado 'desinversión' o 'spin-off'. Esta decisión también puede ser señal de que la estrategia original no dio los resultados esperados. Para quien aprende a invertir, es un ejemplo de cómo las fusiones y adquisiciones no siempre crean valor a largo plazo.",
+      "title": "CVS planea separarse: dividiría su farmacia de su negocio de seguros de salud",
+      "summary": "CVS Health anunció que planea escindir su negocio de farmacias del resto de la compañía, incluyendo la aseguradora Aetna, en una ruptura que revertiría su fusión de 78.000 millones de dólares del año 2018. Las acciones cayeron un 10%.",
+      "detail": "Las escisiones (spinoffs) ocurren cuando una empresa decide que sus partes valen más por separado que juntas. En este caso, CVS armó un conglomerado de salud integrado verticalmente —farmacias, seguros, clínicas— pero los inversores no premiaron esa estrategia. La caída del 10% en la acción refleja incertidumbre sobre cómo se ejecutará la separación y qué pasará con la deuda.",
       "tags": [
         "CVS",
-        "spin-off",
+        "escisión",
         "salud"
       ],
       "source_name": "CNBC",
@@ -93,49 +93,15 @@
       ]
     },
     {
-      "id": "canada-jobs-rate-hike-2026",
-      "type": "economia",
-      "title": "Canadá perdió empleos en octubre y bajan las chances de una suba de tasas en diciembre",
-      "summary": "La economía canadiense perdió 4.700 empleos en octubre, lo que redujo las expectativas de que el Banco de Canadá suba las tasas en diciembre. Las bolsas canadienses subieron ante la noticia.",
-      "detail": "Este es un ejemplo claro de cómo los datos de empleo influyen directamente en las expectativas sobre política monetaria. Menos empleo sugiere una economía más débil, lo que lleva a los mercados a anticipar que el banco central no necesitará subir tasas para enfriar la economía. Esa expectativa hace subir los precios de los bonos y las acciones.",
-      "tags": [
-        "Canadá",
-        "tasas de interés",
-        "empleo"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/canadian-stocks-advance-december-rate-hike-concerns-lowered-after-jobs-data-release",
-      "published_at": "2026-11-06T21:31:14Z",
-      "fecha_evento": "2026-11-06",
-      "tickers": []
-    },
-    {
-      "id": "automakers-costs-2027",
-      "type": "economia",
-      "title": "Las automotrices advierten que 2027 será difícil por el alza de costos",
-      "summary": "Las grandes automotrices alertan sobre el incremento de costos en materias primas, logística y memorias, y reconocen que cada vez les resulta más difícil trasladar esos aumentos a los precios para los consumidores.",
-      "detail": "Esta situación ilustra la presión de márgenes que enfrentan empresas industriales cuando los costos suben pero la demanda no acompaña. Para los inversores, márgenes más ajustados pueden traducirse en menores ganancias y caída en el precio de las acciones. También es una señal macroeconómica de que la inflación puede seguir siendo un tema relevante en 2027.",
-      "tags": [
-        "automotriz",
-        "costos",
-        "industria"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
-      "published_at": "2026-11-06T13:19:53Z",
-      "fecha_evento": "2026-11-06",
-      "tickers": []
-    },
-    {
-      "id": "wendys-rejects-trian-2026",
+      "id": "wendys-rejects-takeover",
       "type": "empresa",
-      "title": "Wendy's rechazó una oferta de compra de 1.400 millones de dólares del fondo de Nelson Peltz",
-      "summary": "La cadena de hamburguesas Wendy's rechazó la propuesta de adquisición presentada por Trian, el fondo del inversor activista Nelson Peltz, argumentando que no refleja el valor de su plan de recuperación.",
-      "detail": "Las ofertas de adquisición hostiles o no solicitadas son eventos frecuentes en los mercados. Cuando una empresa las rechaza, generalmente argumenta que el precio ofrecido es insuficiente o que sus planes propios generarán más valor. Para aprender finanzas, este tipo de situaciones muestra cómo se valúan empresas y qué papel juegan los inversores activistas en el mundo corporativo.",
+      "title": "Wendy's rechazó una oferta de compra de 1.400 millones de dólares de Nelson Peltz",
+      "summary": "La cadena de hamburguesas Wendy's rechazó la propuesta de adquisición del fondo Trian, del inversor activista Nelson Peltz, por 1.400 millones de dólares, argumentando que el precio no refleja el valor de su plan de recuperación.",
+      "detail": "Las ofertas de adquisición hostil son habituales en el mercado cuando un inversor cree que una empresa vale más de lo que cotiza. Cuando el directorio rechaza la oferta, como hizo Wendy's, generalmente alega que el precio es bajo o que tiene mejor camino por cuenta propia. Estos eventos suelen disparar movimientos bruscos en el precio de las acciones y son un tema clásico para entender la valoración de empresas.",
       "tags": [
-        "fusiones",
+        "fusiones y adquisiciones",
         "Wendy's",
-        "inversores activistas"
+        "inversión activista"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
@@ -146,11 +112,65 @@
       ]
     },
     {
-      "id": "kraft-heinz-coffee-deal-2026",
+      "id": "automakers-costs-2027",
+      "type": "economia",
+      "title": "Las automotrices tradicionales advierten sobre costos más altos y un mercado más difícil en 2027",
+      "summary": "Las grandes automotrices alertaron que enfrentarán mayores costos de materias primas, logística y memoria, y que les será más difícil trasladar esos aumentos a los precios finales de los autos.",
+      "detail": "Cuando los productores no pueden trasladar sus costos al precio de venta, sus márgenes de ganancia se comprimen, lo que suele afectar sus resultados y el precio de sus acciones. Este tipo de presión de costos es también un indicador de inflación en la cadena productiva global, algo relevante para entender cómo la economía real impacta en los mercados financieros.",
+      "tags": [
+        "automotrices",
+        "costos",
+        "industria"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
+      "published_at": "2026-11-06T13:19:53Z",
+      "fecha_evento": "2026-11-06",
+      "tickers": []
+    },
+    {
+      "id": "chip-stocks-rebound",
+      "type": "mercado",
+      "title": "Nvidia, AMD y otras acciones de chips rebotan tras una fuerte caída",
+      "summary": "Las acciones de semiconductores como Nvidia y AMD rebotaron después de una baja pronunciada, aunque los analistas advierten que la volatilidad podría continuar.",
+      "detail": "El sector de chips para inteligencia artificial es uno de los más seguidos del mercado por su peso en los índices y su conexión con el boom de la IA. Los rebotes después de caídas abruptas ('selloffs') son comunes en sectores de alta volatilidad, pero no garantizan que la tendencia bajista haya terminado. Entender estos movimientos ayuda a distinguir entre una recuperación real y un rebote técnico temporal.",
+      "tags": [
+        "semiconductores",
+        "inteligencia artificial",
+        "volatilidad"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "published_at": "2026-11-06T21:24:00Z",
+      "fecha_evento": "2026-11-06",
+      "tickers": [
+        "NVDA",
+        "AMD"
+      ]
+    },
+    {
+      "id": "debt-ceiling-democrats",
+      "type": "economia",
+      "title": "El techo de deuda de EE.UU. podría ser el próximo campo de batalla político tras las elecciones",
+      "summary": "Con los demócratas tomando control del Congreso, analistas advierten que la próxima negociación por el techo de deuda podría generar volatilidad en los mercados e incluso el riesgo de un default si no hay acuerdo.",
+      "detail": "El techo de deuda es el límite legal que fija el Congreso de EE.UU. sobre cuánto puede endeudarse el gobierno. Cuando hay tensión política alrededor de ese límite, los mercados reaccionan con caídas porque un eventual incumplimiento de pagos por parte de EE.UU. sería un evento sin precedentes con consecuencias globales. Para Argentina, que también negocia deuda soberana, este tema es especialmente relevante para entender cómo la política impacta en las finanzas.",
+      "tags": [
+        "deuda EE.UU.",
+        "política fiscal",
+        "riesgo de mercado"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "published_at": "2026-11-04T22:46:43Z",
+      "fecha_evento": "2026-11-04",
+      "tickers": []
+    },
+    {
+      "id": "kraft-heinz-coffee-divest",
       "type": "empresa",
       "title": "Kraft Heinz vende su negocio de café en Norteamérica por 650 millones de dólares",
-      "summary": "Kraft Heinz acordó vender su división de café en Norteamérica a la firma de capital privado One Rock Capital Partners por 650 millones de dólares, como parte de la estrategia de su nuevo CEO para reestructurar la compañía.",
-      "detail": "La desinversión de unidades de negocio es una herramienta común en la reestructuración corporativa: se venden activos para enfocarse en las áreas más rentables o para reducir deuda. Para quien aprende finanzas, es importante entender que el capital privado (private equity) suele comprar estos activos esperando mejorar su rentabilidad antes de revenderlos.",
+      "summary": "Kraft Heinz anunció la venta de su división de café en América del Norte a la firma de capital privado One Rock Capital Partners por 650 millones de dólares, como parte de la estrategia de su nuevo CEO para reestructurar la compañía.",
+      "detail": "La desinversión de unidades de negocio es una estrategia frecuente en grandes corporaciones que buscan enfocarse en sus productos más rentables y reducir deuda. Para el inversor que aprende finanzas, estos movimientos muestran cómo las empresas optimizan su portafolio de negocios y cómo el capital privado (private equity) suele ser el comprador de activos que los grandes grupos ya no quieren.",
       "tags": [
         "Kraft Heinz",
         "desinversión",
@@ -176,25 +196,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.555",
       "valor_num": 1555.0,
-      "delta_pct": -0.32
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.588",
       "valor_num": 1587.9,
-      "delta_pct": -0.04
+      "delta_pct": -0.01
     },
     {
       "label": "CCL",
       "valor": "$1.665",
       "valor_num": 1664.9,
-      "delta_pct": -0.92
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 75.836",
-      "valor_num": 75836.0,
-      "delta_pct": 0.13
+      "valor": "US$ 75.920",
+      "valor_num": 75920.0,
+      "delta_pct": -0.18
     },
     {
       "label": "S&P 500",
@@ -204,9 +224,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.077",
-      "valor_num": 4076.6,
-      "delta_pct": 2.7
+      "valor": "US$ 4.075",
+      "valor_num": 4074.9,
+      "delta_pct": 2.65
     }
   ]
 }
