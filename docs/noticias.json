@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-07T22:01:13.606183+00:00",
+  "generated_at": "2026-11-08T12:01:15.191766+00:00",
   "items": [
     {
       "id": "us-jobs-october-2026",
       "type": "economia",
       "title": "EE.UU. creó 165.000 empleos en octubre, muy por encima de lo esperado",
       "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, casi el triple de los 59.000 que esperaba el mercado. La tasa de desempleo bajó levemente a 4,1%.",
-      "detail": "El informe de empleo es uno de los datos más seguidos por los mercados globales porque influye directamente en las decisiones de la Reserva Federal sobre tasas de interés. Un mercado laboral más fuerte de lo esperado puede llevar a la Fed a mantener las tasas altas por más tiempo, lo que afecta el costo del crédito en todo el mundo y el valor del dólar frente a otras monedas, incluyendo el peso argentino.",
+      "detail": "Un dato de empleo mucho mejor que el esperado suele fortalecer al dólar y puede presionar a la Reserva Federal a mantener las tasas altas por más tiempo, lo que afecta a economías emergentes como Argentina. Para quien aprende finanzas, este reporte mensual es uno de los indicadores más seguidos del mundo porque anticipa decisiones de política monetaria.",
       "tags": [
         "empleo",
         "economía EE.UU.",
@@ -19,11 +19,11 @@
       "tickers": []
     },
     {
-      "id": "long-term-unemployment-october-2026",
+      "id": "us-long-term-unemployment-oct2026",
       "type": "economia",
-      "title": "Alerta oculta: el desempleo de larga duración en EE.UU. llega al nivel más alto en una década",
-      "summary": "Aunque los números generales de empleo sorprendieron para bien, el tiempo promedio que tarda un desempleado en conseguir trabajo superó las 27 semanas en octubre, el peor dato en diez años fuera de la pandemia.",
-      "detail": "Este indicador muestra que, aunque se crean empleos, ciertas personas tienen cada vez más dificultad para reinsertarse en el mercado laboral. Es una señal de alerta estructural: el mercado puede verse fuerte en la superficie pero esconder debilidades que, con el tiempo, afectan el consumo y el crecimiento económico. Aprender a leer más allá del titular es clave en educación financiera.",
+      "title": "El desempleo de largo plazo en EE.UU. llega a su nivel más alto en una década",
+      "summary": "Aunque el mercado laboral luce sólido en el total, el tiempo promedio que tarda un desempleado en conseguir trabajo superó las 27 semanas en octubre, el nivel más alto fuera de la pandemia en diez años.",
+      "detail": "Este indicador muestra que debajo de un número agregado positivo puede haber tendencias preocupantes. Para un inversor o estudiante de finanzas, aprender a leer más allá del titular —buscando los datos desagregados— es clave para no sacar conclusiones apresuradas sobre el estado real de una economía.",
       "tags": [
         "desempleo",
         "mercado laboral",
@@ -36,28 +36,11 @@
       "tickers": []
     },
     {
-      "id": "democrats-debt-ceiling-2026",
-      "type": "economia",
-      "title": "El techo de la deuda de EE.UU. vuelve al centro de la escena tras las elecciones de medio término",
-      "summary": "Con los demócratas recuperando posiciones en el Congreso tras las elecciones de medio término, se abre la posibilidad de una batalla política por el techo de la deuda que podría generar volatilidad en los mercados y, en el peor caso, un default.",
-      "detail": "El techo de la deuda es el límite legal que tiene el gobierno de EE.UU. para endeudarse. Cuando se acerca ese límite, el Congreso debe votar para subirlo. Si no lo hace, el gobierno técnicamente no puede pagar sus deudas, lo que generaría pánico en los mercados globales. Esta dinámica política afecta directamente a los bonos del Tesoro de EE.UU., considerados el activo 'libre de riesgo' de referencia mundial.",
-      "tags": [
-        "deuda",
-        "política EE.UU.",
-        "mercados"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "published_at": "2026-11-04T22:46:43Z",
-      "fecha_evento": "2026-11-04",
-      "tickers": []
-    },
-    {
       "id": "tesla-cybertruck-wind-down-2026",
       "type": "empresa",
-      "title": "Tesla frenará la producción del Cybertruck para apostar al Cybercab",
-      "summary": "Elon Musk anunció que Tesla dejará de fabricar el Cybertruck en Texas el año que viene para destinar esa capacidad productiva al Cybercab, su vehículo autónomo de bajo costo.",
-      "detail": "Esta decisión muestra cómo las empresas reasignan recursos cuando un producto no cumplió las expectativas de ventas masivas. El Cybertruck tuvo seguidores fieles pero no logró volumen, y sufrió varios retiros voluntarios. Para los inversores, es una señal de hacia dónde apuesta Tesla su futuro: la movilidad autónoma, un mercado con mucha más escala potencial que un pickup de nicho.",
+      "title": "Tesla frenará la producción del Cybertruck para enfocarse en el Cybercab",
+      "summary": "Elon Musk anunció que Tesla reducirá la fabricación del Cybertruck en Texas el año que viene para destinar esa capacidad al nuevo Cybercab, su apuesta por los vehículos autónomos.",
+      "detail": "Cuando una empresa grande cambia de qué productos fabrica, es una señal de hacia dónde ve el negocio futuro. En el caso de Tesla, apostar por el Cybercab implica priorizar el mercado de taxis autónomos sobre los autos de consumo masivo, lo que puede impactar en los ingresos de corto plazo pero busca posicionarse en un segmento de mayor crecimiento.",
       "tags": [
         "Tesla",
         "vehículos eléctricos",
@@ -74,13 +57,13 @@
     {
       "id": "moderna-outlook-raise-2026",
       "type": "empresa",
-      "title": "Moderna mejora sus proyecciones de ingresos para 2026 y confía en sus nuevas vacunas",
-      "summary": "La biotecnológica elevó su guía de crecimiento de ingresos para 2026 a entre 15% y 25%, cuando antes esperaba un máximo de 10%, impulsada por la mayor adopción de sus vacunas más recientes.",
-      "detail": "Cuando una empresa 'levanta su guidance' (mejora sus proyecciones), suele ser una señal positiva para el mercado porque implica que el negocio va mejor de lo previsto. En el caso de Moderna, la clave está en que sus vacunas más nuevas están ganando terreno comercial, lo que reduce la dependencia del COVID-19 y hace el modelo de negocio más sustentable a largo plazo.",
+      "title": "Moderna sube su pronóstico de ventas para 2026 por el avance de sus nuevas vacunas",
+      "summary": "La biotecnológica elevó su perspectiva de crecimiento de ingresos para 2026 a entre 15% y 25%, cuando antes esperaba hasta un 10% de aumento.",
+      "detail": "Cuando una empresa sube su guidance (proyección oficial de resultados), generalmente es una señal positiva que el mercado suele premiar con una suba en la acción. Para quien está aprendiendo a analizar empresas, seguir cómo cambian las proyecciones a lo largo del año es una herramienta clave para entender las expectativas del management y del mercado.",
       "tags": [
         "Moderna",
         "biotecnología",
-        "vacunas"
+        "resultados"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
@@ -91,11 +74,30 @@
       ]
     },
     {
+      "id": "wendys-rejects-trian-takeover",
+      "type": "empresa",
+      "title": "Wendy's rechazó una oferta de compra de u$s 1.400 millones de Nelson Peltz",
+      "summary": "La cadena de hamburguesas desestimó la propuesta de adquisición del fondo Trian de Nelson Peltz, argumentando que no refleja el valor real de su plan de recuperación.",
+      "detail": "Las ofertas de adquisición hostiles o no solicitadas son un evento común en los mercados. Cuando una empresa las rechaza, suele argumentar que el precio ofrecido subestima su potencial. Para el inversor minorista, estos movimientos pueden generar volatilidad en la acción y son una oportunidad para entender cómo funcionan las fusiones y adquisiciones.",
+      "tags": [
+        "adquisiciones",
+        "M&A",
+        "consumo"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
+      "published_at": "2026-11-05T15:08:05Z",
+      "fecha_evento": "2026-11-05",
+      "tickers": [
+        "WEN"
+      ]
+    },
+    {
       "id": "automakers-costs-2027",
       "type": "economia",
-      "title": "Las automotrices advierten un 2027 complicado por el alza de costos",
-      "summary": "Las grandes automotrices mundiales están alertando que enfrentarán mayores costos de materias primas, logística y chips de memoria en 2027, mientras se les hace más difícil trasladar esos aumentos a los consumidores vía precios.",
-      "detail": "Cuando las empresas no pueden subir precios pero sus costos aumentan, sus márgenes de ganancia se comprimen. Esto es relevante para inversores porque impacta directamente en la rentabilidad del sector. Además, el sector automotriz es un indicador importante de la salud de la economía global, ya que involucra cadenas de suministro en decenas de países.",
+      "title": "Las automotrices advierten sobre costos más altos y un mercado más difícil para 2027",
+      "summary": "Los grandes fabricantes de autos alertaron sobre el aumento de costos en materias primas, logística y memoria, y reconocen que ya no pueden trasladarlos fácilmente a los precios al consumidor.",
+      "detail": "Cuando las empresas no pueden subir precios para compensar mayores costos, sus márgenes de ganancia se comprimen, lo que afecta negativamente a las acciones del sector. Este fenómeno también es un indicador de que la inflación de costos puede estar moderándose del lado del consumidor, un dato relevante para leer el contexto económico global.",
       "tags": [
         "automotrices",
         "costos",
@@ -110,13 +112,13 @@
     {
       "id": "small-retailers-shipping-holiday-2026",
       "type": "economia",
-      "title": "Los pequeños comercios de EE.UU. temen un golpe fuerte esta temporada navideña por el alza en los costos de envío",
-      "summary": "El aumento en los precios del combustible está disparando los costos de envío y poniendo en aprietos a los minoristas más chicos justo antes de la temporada de mayor consumo del año.",
-      "detail": "La temporada navideña concentra una parte enorme de las ventas minoristas anuales en EE.UU. Cuando los costos logísticos suben, los negocios más pequeños son los que más sufren porque no tienen el volumen para negociar mejores tarifas, a diferencia de gigantes como Amazon o Walmart. Este tipo de dato da pistas sobre cómo puede ir el consumo en el último trimestre del año, un período clave para la economía.",
+      "title": "Los pequeños comercios de EE.UU. enfrentan un golpe fuerte en costos de envío para las fiestas",
+      "summary": "El aumento en los costos de envío, impulsado por los altos precios del combustible, pone en aprietos a los minoristas más chicos justo antes de la temporada navideña, la más importante del año para el comercio.",
+      "detail": "Los costos de logística son un componente clave en la cadena de valor del comercio. Cuando suben, los márgenes de los negocios más pequeños —que no tienen el poder de negociación de las grandes cadenas— se ven muy afectados. Esta dinámica muestra cómo el precio del petróleo tiene efectos en cadena sobre la economía real.",
       "tags": [
         "comercio minorista",
-        "consumo",
-        "costos"
+        "logística",
+        "consumo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
@@ -125,30 +127,11 @@
       "tickers": []
     },
     {
-      "id": "wendys-rejects-trian-takeover",
-      "type": "empresa",
-      "title": "Wendy's rechazó una oferta de compra de u$s 1.400 millones del fondo de Nelson Peltz",
-      "summary": "La cadena de hamburguesas Wendy's rechazó la propuesta de adquisición del fondo Trian de Nelson Peltz por u$s 1.400 millones, argumentando que no refleja el valor real de su plan de transformación.",
-      "detail": "Las ofertas de compra (takeovers) son momentos clave en los mercados: el comprador suele ofrecer un precio mayor al de mercado, lo que hace subir la acción del target. Cuando el directorio la rechaza, como en este caso, está apostando a que la empresa vale más de lo que ofrece el comprador. Nelson Peltz es un inversor activista conocido por presionar a empresas para que cambien su estrategia o se vendan.",
-      "tags": [
-        "fusiones",
-        "Wendy's",
-        "inversión"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-      "published_at": "2026-11-05T15:08:05Z",
-      "fecha_evento": "2026-11-05",
-      "tickers": [
-        "WEN"
-      ]
-    },
-    {
       "id": "wonder-ipo-filing-2026",
       "type": "empresa",
-      "title": "La startup Wonder de Marc Lore presentó en confidencial su solicitud para salir a bolsa",
-      "summary": "Wonder, la empresa de delivery y experiencias gastronómicas fundada por Marc Lore, presentó de forma confidencial los documentos para su IPO (oferta pública inicial de acciones).",
-      "detail": "Una presentación confidencial de IPO es el primer paso formal para que una empresa salga a cotizar en bolsa. Hacerla en modo confidencial le permite a la empresa ajustar su estrategia antes de hacer pública la información. Para quienes aprenden finanzas, es una oportunidad de seguir el proceso de un IPO desde el inicio: presentación, roadshow, fijación de precio y debut en el mercado.",
+      "title": "La startup Wonder de Marc Lore presentó en secreto su solicitud para salir a bolsa",
+      "summary": "Wonder, la empresa de food-tech fundada por Marc Lore, presentó de forma confidencial los documentos para hacer su IPO (oferta pública inicial de acciones).",
+      "detail": "Una presentación confidencial de IPO es el primer paso formal para que una empresa privada empiece a cotizar en bolsa. Permite al mercado anticipar una nueva oportunidad de inversión. Para quien aprende finanzas, los IPOs son un concepto central: marcan el momento en que una empresa abre su capital al público general.",
       "tags": [
         "IPO",
         "startups",
@@ -178,7 +161,7 @@
       "label": "MEP",
       "valor": "$1.588",
       "valor_num": 1587.9,
-      "delta_pct": -0.01
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
@@ -188,9 +171,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 75.666",
-      "valor_num": 75666.0,
-      "delta_pct": -0.23
+      "valor": "US$ 75.888",
+      "valor_num": 75888.0,
+      "delta_pct": -0.05
     },
     {
       "label": "S&P 500",
@@ -202,7 +185,7 @@
       "label": "ORO (ONZA)",
       "valor": "US$ 4.075",
       "valor_num": 4074.9,
-      "delta_pct": 2.65
+      "delta_pct": 3.41
     }
   ]
 }
