@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-08T12:01:15.191766+00:00",
+  "generated_at": "2026-11-08T22:01:05.873222+00:00",
   "items": [
     {
       "id": "us-jobs-october-2026",
       "type": "economia",
       "title": "EE.UU. creó 165.000 empleos en octubre, muy por encima de lo esperado",
-      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, casi el triple de los 59.000 que esperaba el mercado. La tasa de desempleo bajó levemente a 4,1%.",
-      "detail": "Un dato de empleo mucho mejor que el esperado suele fortalecer al dólar y puede presionar a la Reserva Federal a mantener las tasas altas por más tiempo, lo que afecta a economías emergentes como Argentina. Para quien aprende finanzas, este reporte mensual es uno de los indicadores más seguidos del mundo porque anticipa decisiones de política monetaria.",
+      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, cuando el mercado esperaba solo 59.000. La tasa de desempleo bajó levemente a 4,1%, contra el 4,2% previsto.",
+      "detail": "Un dato de empleo mucho más fuerte que el esperado suele hacer subir el dólar y los bonos del Tesoro de EE.UU., y puede reducir las chances de que la Reserva Federal baje las tasas de interés. Para Argentina, esto importa porque tasas altas en EE.UU. encarecen el financiamiento global y presionan a las monedas emergentes. Aprender a leer el 'jobs report' mensual es clave para entender cómo reaccionan los mercados internacionales.",
       "tags": [
         "empleo",
         "economía EE.UU.",
@@ -21,9 +21,9 @@
     {
       "id": "us-long-term-unemployment-oct2026",
       "type": "economia",
-      "title": "El desempleo de largo plazo en EE.UU. llega a su nivel más alto en una década",
-      "summary": "Aunque el mercado laboral luce sólido en el total, el tiempo promedio que tarda un desempleado en conseguir trabajo superó las 27 semanas en octubre, el nivel más alto fuera de la pandemia en diez años.",
-      "detail": "Este indicador muestra que debajo de un número agregado positivo puede haber tendencias preocupantes. Para un inversor o estudiante de finanzas, aprender a leer más allá del titular —buscando los datos desagregados— es clave para no sacar conclusiones apresuradas sobre el estado real de una economía.",
+      "title": "El desempleo de larga duración en EE.UU. llega al nivel más alto en una década (fuera de la pandemia)",
+      "summary": "Aunque el mercado laboral creó muchos empleos en octubre, el promedio de semanas que tarda un desempleado en conseguir trabajo superó las 27 semanas, el peor dato en diez años fuera del período pandémico.",
+      "detail": "Este indicador muestra que, debajo de los buenos titulares, hay una parte de la población que tiene serias dificultades para reinsertarse al mercado. Es un ejemplo de cómo un mismo informe puede contar dos historias distintas según qué dato mirás. Para alguien que aprende finanzas, esto enseña a no quedarse solo con el número principal y buscar siempre la foto completa de la economía.",
       "tags": [
         "desempleo",
         "mercado laboral",
@@ -38,13 +38,13 @@
     {
       "id": "tesla-cybertruck-wind-down-2026",
       "type": "empresa",
-      "title": "Tesla frenará la producción del Cybertruck para enfocarse en el Cybercab",
-      "summary": "Elon Musk anunció que Tesla reducirá la fabricación del Cybertruck en Texas el año que viene para destinar esa capacidad al nuevo Cybercab, su apuesta por los vehículos autónomos.",
-      "detail": "Cuando una empresa grande cambia de qué productos fabrica, es una señal de hacia dónde ve el negocio futuro. En el caso de Tesla, apostar por el Cybercab implica priorizar el mercado de taxis autónomos sobre los autos de consumo masivo, lo que puede impactar en los ingresos de corto plazo pero busca posicionarse en un segmento de mayor crecimiento.",
+      "title": "Tesla planea frenar la producción del Cybertruck en Texas para lanzar el Cybercab",
+      "summary": "Elon Musk anunció que Tesla reducirá la fabricación del Cybertruck en su planta de Texas el año próximo para destinar esa capacidad al Cybercab, su vehículo autónomo. El Cybertruck nunca logró ventas masivas y tuvo varios retiros voluntarios del mercado.",
+      "detail": "Cuando una empresa grande como Tesla redirige recursos de un producto hacia otro, está apostando por una nueva visión de negocio. El mercado suele reaccionar según si confía o no en esa apuesta. Este caso muestra cómo las decisiones estratégicas de una empresa —no solo sus ganancias— mueven el precio de sus acciones. También ilustra el riesgo de los productos con demanda nicho frente a los que buscan escala masiva.",
       "tags": [
         "Tesla",
-        "vehículos eléctricos",
-        "Musk"
+        "autos eléctricos",
+        "estrategia empresarial"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
@@ -57,13 +57,13 @@
     {
       "id": "moderna-outlook-raise-2026",
       "type": "empresa",
-      "title": "Moderna sube su pronóstico de ventas para 2026 por el avance de sus nuevas vacunas",
-      "summary": "La biotecnológica elevó su perspectiva de crecimiento de ingresos para 2026 a entre 15% y 25%, cuando antes esperaba hasta un 10% de aumento.",
-      "detail": "Cuando una empresa sube su guidance (proyección oficial de resultados), generalmente es una señal positiva que el mercado suele premiar con una suba en la acción. Para quien está aprendiendo a analizar empresas, seguir cómo cambian las proyecciones a lo largo del año es una herramienta clave para entender las expectativas del management y del mercado.",
+      "title": "Moderna sube su proyección de ingresos para 2026 y prevé crecer hasta un 25%",
+      "summary": "Moderna elevó su guía de crecimiento de ingresos para 2026 a entre 15% y 25%, cuando antes esperaba hasta un 10% de crecimiento. El CEO señaló que sus nuevas vacunas están ganando terreno en el mercado.",
+      "detail": "Cuando una empresa sube su 'guidance' (proyección oficial de resultados futuros), generalmente su acción sube porque los inversores ven mejor panorama de ganancias. Este tipo de anuncios son un indicador adelantado que el mercado valora mucho más que los resultados pasados. Para aprender finanzas, entender la diferencia entre resultados ya conocidos y proyecciones hacia adelante es fundamental para analizar acciones.",
       "tags": [
         "Moderna",
         "biotecnología",
-        "resultados"
+        "guidance"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
@@ -74,34 +74,34 @@
       ]
     },
     {
-      "id": "wendys-rejects-trian-takeover",
+      "id": "nvidia-ceo-spy-probe-2026",
       "type": "empresa",
-      "title": "Wendy's rechazó una oferta de compra de u$s 1.400 millones de Nelson Peltz",
-      "summary": "La cadena de hamburguesas desestimó la propuesta de adquisición del fondo Trian de Nelson Peltz, argumentando que no refleja el valor real de su plan de recuperación.",
-      "detail": "Las ofertas de adquisición hostiles o no solicitadas son un evento común en los mercados. Cuando una empresa las rechaza, suele argumentar que el precio ofrecido subestima su potencial. Para el inversor minorista, estos movimientos pueden generar volatilidad en la acción y son una oportunidad para entender cómo funcionan las fusiones y adquisiciones.",
+      "title": "El directorio de Nvidia investigará la relación de su CEO Jensen Huang con un presunto espía",
+      "summary": "El directorio de Nvidia abrió una investigación interna sobre los vínculos del CEO Jensen Huang con una persona acusada de espionaje. La empresa aclaró que Huang seguirá en su cargo y cooperará con la investigación.",
+      "detail": "La gobernanza corporativa —es decir, cómo se controla a los directivos de una empresa— es uno de los factores que los inversores miran cuando evalúan el riesgo de una acción. Una investigación sobre el CEO de una de las empresas más valiosas del mundo puede generar incertidumbre y volatilidad en el precio de la acción, aunque el directorio intente transmitir calma. Este caso es un buen ejemplo de cómo los riesgos no siempre son financieros: también pueden ser de reputación o legales.",
       "tags": [
-        "adquisiciones",
-        "M&A",
-        "consumo"
+        "Nvidia",
+        "gobernanza",
+        "riesgo corporativo"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-      "published_at": "2026-11-05T15:08:05Z",
-      "fecha_evento": "2026-11-05",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
+      "published_at": "2026-11-08T21:29:00Z",
+      "fecha_evento": "2026-11-08",
       "tickers": [
-        "WEN"
+        "NVDA"
       ]
     },
     {
       "id": "automakers-costs-2027",
-      "type": "economia",
-      "title": "Las automotrices advierten sobre costos más altos y un mercado más difícil para 2027",
-      "summary": "Los grandes fabricantes de autos alertaron sobre el aumento de costos en materias primas, logística y memoria, y reconocen que ya no pueden trasladarlos fácilmente a los precios al consumidor.",
-      "detail": "Cuando las empresas no pueden subir precios para compensar mayores costos, sus márgenes de ganancia se comprimen, lo que afecta negativamente a las acciones del sector. Este fenómeno también es un indicador de que la inflación de costos puede estar moderándose del lado del consumidor, un dato relevante para leer el contexto económico global.",
+      "type": "empresa",
+      "title": "Las automotrices advierten sobre costos más altos y menor poder de fijación de precios en 2027",
+      "summary": "Las grandes automotrices alertan que en 2027 enfrentarán mayores costos de materias primas, logística y semiconductores, con menos posibilidad de trasladarlos al precio final al consumidor.",
+      "detail": "Cuando una empresa no puede subir sus precios para compensar mayores costos, sus márgenes de ganancia se comprimen y eso suele afectar negativamente el precio de sus acciones. Este fenómeno —llamado 'compresión de márgenes'— es clave para entender cómo las condiciones macroeconómicas impactan en la rentabilidad de las empresas. Para un inversor, el 'pricing power' (poder de fijar precios) es uno de los atributos más valorados en una compañía.",
       "tags": [
         "automotrices",
         "costos",
-        "industria"
+        "márgenes"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
@@ -110,37 +110,37 @@
       "tickers": []
     },
     {
-      "id": "small-retailers-shipping-holiday-2026",
-      "type": "economia",
-      "title": "Los pequeños comercios de EE.UU. enfrentan un golpe fuerte en costos de envío para las fiestas",
-      "summary": "El aumento en los costos de envío, impulsado por los altos precios del combustible, pone en aprietos a los minoristas más chicos justo antes de la temporada navideña, la más importante del año para el comercio.",
-      "detail": "Los costos de logística son un componente clave en la cadena de valor del comercio. Cuando suben, los márgenes de los negocios más pequeños —que no tienen el poder de negociación de las grandes cadenas— se ven muy afectados. Esta dinámica muestra cómo el precio del petróleo tiene efectos en cadena sobre la economía real.",
+      "id": "sp500-earnings-narrow-beat-2026",
+      "type": "mercado",
+      "title": "Las ganancias del S&P 500 apenas superan las expectativas, con el margen más ajustado en cuatro años",
+      "summary": "Las empresas del S&P 500 están superando las estimaciones de los analistas, pero por el margen más estrecho en aproximadamente cuatro años, según MarketWatch.",
+      "detail": "El mercado bursátil no solo reacciona a si las empresas ganan plata, sino a si ganan más o menos de lo que se esperaba. Cuando las sorpresas positivas son cada vez más pequeñas, puede ser una señal de que las valuaciones están ajustadas o de que el crecimiento se está desacelerando. Este dato es útil para entender por qué a veces el mercado cae aunque las empresas 'ganen bien'.",
       "tags": [
-        "comercio minorista",
-        "logística",
-        "consumo"
+        "S&P 500",
+        "resultados",
+        "bolsa"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
-      "published_at": "2026-11-06T12:00:01Z",
-      "fecha_evento": "2026-11-06",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+      "published_at": "2026-11-08T15:00:00Z",
+      "fecha_evento": "2026-11-08",
       "tickers": []
     },
     {
-      "id": "wonder-ipo-filing-2026",
-      "type": "empresa",
-      "title": "La startup Wonder de Marc Lore presentó en secreto su solicitud para salir a bolsa",
-      "summary": "Wonder, la empresa de food-tech fundada por Marc Lore, presentó de forma confidencial los documentos para hacer su IPO (oferta pública inicial de acciones).",
-      "detail": "Una presentación confidencial de IPO es el primer paso formal para que una empresa privada empiece a cotizar en bolsa. Permite al mercado anticipar una nueva oportunidad de inversión. Para quien aprende finanzas, los IPOs son un concepto central: marcan el momento en que una empresa abre su capital al público general.",
+      "id": "stocks-sync-selloff-2026",
+      "type": "mercado",
+      "title": "Las acciones del mercado americano caen en conjunto en el mayor derrumbe en más de un año",
+      "summary": "El mercado de acciones de EE.UU. está viviendo un momento inusual: casi todos los sectores bajan al mismo tiempo, en lo que representa la mayor caída generalizada en más de un año.",
+      "detail": "Normalmente, cuando un sector baja, otro sube, lo que da cierta estabilidad al mercado. Cuando todas las acciones caen juntas —alta correlación—, suele ser señal de que hay un factor de riesgo sistémico que preocupa a todos los inversores por igual, como miedo a una recesión o una crisis de confianza. Para quien aprende finanzas, esto muestra por qué la diversificación no siempre protege: en momentos de pánico, los activos se mueven todos en la misma dirección.",
       "tags": [
-        "IPO",
-        "startups",
-        "bolsa"
+        "bolsa",
+        "volatilidad",
+        "mercado"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
-      "published_at": "2026-11-05T16:27:10Z",
-      "fecha_evento": "2026-11-05",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+      "published_at": "2026-11-08T14:00:00Z",
+      "fecha_evento": "2026-11-08",
       "tickers": []
     }
   ],
@@ -171,9 +171,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 75.888",
-      "valor_num": 75888.0,
-      "delta_pct": -0.05
+      "valor": "US$ 73.995",
+      "valor_num": 73995.0,
+      "delta_pct": -2.23
     },
     {
       "label": "S&P 500",
