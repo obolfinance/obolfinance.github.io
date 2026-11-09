@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-09T12:01:14.252078+00:00",
+  "generated_at": "2026-11-09T22:01:13.289304+00:00",
   "items": [
     {
       "id": "china-ppi-octubre-2026",
       "type": "economia",
       "title": "La inflación mayorista de China llegó a su nivel más alto en más de cuatro años",
-      "summary": "El Índice de Precios al Productor (PPI) de China subió 5,7% en octubre, superando el 5,3% que esperaban los economistas. Al mismo tiempo, la inflación al consumidor se desaceleró.",
-      "detail": "El PPI mide cuánto les cuesta a las empresas producir bienes. Cuando sube, eso puede trasladarse a precios más altos en todo el mundo, ya que China es uno de los mayores exportadores del planeta. Que el PPI esté en su nivel más alto en cuatro años es una señal de presiones inflacionarias en la cadena de producción global, algo que afecta a quienes importan desde China y, en última instancia, a los precios que pagamos todos.",
+      "summary": "El índice de precios al productor (PPI) de China subió 5,7% en octubre, superando el 5,3% que esperaban los economistas. Es el valor más alto en más de cuatro años.",
+      "detail": "El PPI chino mide cuánto suben los precios en la puerta de las fábricas, y es un indicador adelantado de lo que después se traslada a precios globales de materias primas y manufacturas. China es el principal socio comercial de la Argentina, así que una suba en su inflación mayorista puede impactar en los precios de los commodities que exportamos, como la soja. Además, señala que la economía china puede estar recalentándose o enfrentando presiones de costos.",
       "tags": [
-        "inflación",
         "China",
-        "economía global"
+        "inflación",
+        "commodities"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
@@ -19,162 +19,136 @@
       "tickers": []
     },
     {
-      "id": "empleos-eeuu-octubre-2026",
-      "type": "economia",
-      "title": "EE.UU. creó 165.000 empleos en octubre, muy por encima de lo esperado",
-      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, casi el triple de los 59.000 que pronosticaban los analistas. La tasa de desempleo bajó levemente a 4,1%.",
-      "detail": "El informe de empleo mensual de EE.UU. es uno de los datos más seguidos por los mercados globales, porque influye directamente en las decisiones de la Reserva Federal sobre las tasas de interés. Un mercado laboral más fuerte de lo esperado puede hacer que la Fed sea más cautelosa a la hora de bajar las tasas, lo que impacta en el dólar, los bonos y los activos de economías emergentes como la Argentina.",
-      "tags": [
-        "empleo",
-        "EE.UU.",
-        "Reserva Federal"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-      "published_at": "2026-11-06T16:06:59Z",
-      "fecha_evento": "2026-11-06",
-      "tickers": []
-    },
-    {
-      "id": "desempleo-largo-plazo-eeuu-2026",
-      "type": "economia",
-      "title": "El desempleo de larga duración en EE.UU. llega a su punto más alto fuera de la pandemia en una década",
-      "summary": "Aunque el mercado laboral se ve sólido en la superficie, el tiempo promedio que un desempleado tarda en encontrar trabajo superó las 27 semanas en octubre, el mayor nivel en diez años fuera del período pandémico.",
-      "detail": "Esta tendencia muestra que, detrás de los buenos titulares de empleo, hay una parte de la población que tiene cada vez más dificultades para reinsertarse laboralmente. Para quien aprende finanzas, es un buen ejemplo de por qué no alcanza con mirar un solo indicador: hay que analizar la calidad y la distribución del empleo, no solo la cantidad de puestos creados.",
-      "tags": [
-        "empleo",
-        "EE.UU.",
-        "indicadores económicos"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-      "published_at": "2026-11-06T20:11:17Z",
-      "fecha_evento": "2026-11-06",
-      "tickers": []
-    },
-    {
-      "id": "tesla-cybertruck-2026",
-      "type": "empresa",
-      "title": "Tesla va a frenar la producción del Cybertruck en Texas para apostar por el Cybercab",
-      "summary": "Elon Musk anunció que Tesla reducirá gradualmente la fabricación del Cybertruck en Texas el año que viene para destinar esa capacidad al nuevo Cybercab, su vehículo autónomo.",
-      "detail": "Este movimiento muestra cómo las empresas reasignan recursos hacia los productos con mayor potencial de crecimiento. Tesla apuesta a que los autos autónomos (robotaxis) tienen más futuro que el Cybertruck, que no logró ventas masivas y tuvo varios retiros voluntarios. Para inversores, es una señal de hacia dónde apunta la compañía su inversión de capital.",
-      "tags": [
-        "Tesla",
-        "vehículos autónomos",
-        "estrategia empresarial"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
-      "published_at": "2026-11-06T15:06:11Z",
-      "fecha_evento": "2026-11-06",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "moderna-perspectiva-2026",
-      "type": "empresa",
-      "title": "Moderna sube sus proyecciones de ingresos para 2026 tras el avance de sus nuevas vacunas",
-      "summary": "La biotecnológica ahora espera un crecimiento de ingresos de entre 15% y 25% para 2026, muy por encima de la guía anterior de hasta 10%, gracias al mayor impulso de sus nuevas vacunas.",
-      "detail": "Cuando una empresa sube su 'guidance' (proyección de resultados futuros), es una señal positiva que suele impulsar el precio de sus acciones. En el caso de Moderna, el crecimiento está traccionado por vacunas más nuevas, lo que muestra cómo la innovación puede cambiar rápidamente las perspectivas financieras de una compañía del sector salud.",
-      "tags": [
-        "Moderna",
-        "biotecnología",
-        "resultados empresariales"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
-      "published_at": "2026-11-06T12:43:28Z",
-      "fecha_evento": "2026-11-06",
-      "tickers": [
-        "MRNA"
-      ]
-    },
-    {
-      "id": "automakers-costos-2027",
-      "type": "empresa",
-      "title": "Las automotrices advierten sobre un 2027 difícil por el aumento de costos y la menor capacidad de trasladarlos a precios",
-      "summary": "Los grandes fabricantes de autos están alertando sobre el alza en costos de materias primas, logística y memoria, mientras que les resulta cada vez más difícil subir los precios sin perder clientes.",
-      "detail": "La 'presión de márgenes' que describen las automotrices es un fenómeno clave para entender cómo funcionan las empresas: cuando los costos suben pero no se pueden trasladar a precios, las ganancias se reducen. Esto afecta directamente la rentabilidad del sector y puede generar caídas en las acciones de estas compañías, que son pesos pesados en muchos índices bursátiles globales.",
-      "tags": [
-        "automotrices",
-        "costos",
-        "márgenes"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
-      "published_at": "2026-11-06T13:19:53Z",
-      "fecha_evento": "2026-11-06",
-      "tickers": []
-    },
-    {
-      "id": "unicredit-commerzbank-2026",
-      "type": "empresa",
-      "title": "UniCredit sube sus proyecciones de ganancia y avanza hacia el control total de Commerzbank",
-      "summary": "El banco italiano UniCredit subió sus perspectivas de ganancias para 2026 tras un sólido tercer trimestre y anunció planes para tomar el control completo del alemán Commerzbank. Sus acciones subieron cerca de 5%.",
-      "detail": "La consolidación bancaria en Europa es un proceso que los mercados siguen de cerca, porque fusiones y adquisiciones de esta escala pueden cambiar el mapa financiero del continente. Que un banco italiano busque controlar uno alemán también refleja las tensiones y oportunidades que existen en el sistema bancario europeo. Para inversores, un 'guidance' al alza combinado con una operación corporativa importante suele ser una señal fuerte.",
-      "tags": [
-        "banca europea",
-        "fusiones",
-        "resultados empresariales"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/unicredit-lifts-fy26-profit-view-after-higher-q3-plans-control-commerzbank-stock-gains",
-      "published_at": "2026-11-09T11:03:50Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": []
-    },
-    {
-      "id": "citi-tech-ai-sentimiento-2026",
+      "id": "nvidia-jensen-huang-escandalo",
       "type": "mercado",
-      "title": "Citi recomienda no entrar al sector tech global hasta que el sentimiento en torno a la IA mejore",
-      "summary": "El equipo de estrategia global de Citi considera que el posicionamiento en tecnología todavía no está lo suficientemente limpio como para volver a sobreponderar el sector, a pesar de la debilidad reciente.",
-      "detail": "Cuando los bancos de inversión como Citi hablan de 'posicionamiento' en un sector, se refieren a cuánta exposición tienen los grandes fondos a esas acciones. Si hay demasiados inversores posicionados en el mismo lado, una caída puede amplificarse. Esta nota sirve para entender cómo los analistas evalúan el momento de entrada a un sector más allá de los fundamentos de las empresas.",
-      "tags": [
-        "tecnología",
-        "inteligencia artificial",
-        "estrategia de inversión"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
-      "published_at": "2026-11-09T11:25:00Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": []
-    },
-    {
-      "id": "morgan-stanley-sp500-correccion-2026",
-      "type": "mercado",
-      "title": "Morgan Stanley cree que la corrección del S&P 500 está en su fase final, pero recomienda esperar antes de comprar",
-      "summary": "El estratega jefe de Morgan Stanley señaló que el S&P 500 podría tocar la parte baja del rango de caída esperado en las próximas semanas, momento que consideraría una buena oportunidad para sumar riesgo.",
-      "detail": "Las correcciones del mercado son caídas temporales dentro de una tendencia de largo plazo. Que un banco tan influyente como Morgan Stanley hable de 'fase final' de la corrección es importante porque sus recomendaciones mueven dinero a nivel global. Para quien aprende finanzas, esto ilustra el concepto de 'timing' de mercado y por qué los expertos sugieren esperar confirmaciones antes de comprar.",
-      "tags": [
-        "S&P 500",
-        "corrección",
-        "estrategia de inversión"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
-      "published_at": "2026-11-09T10:26:00Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": []
-    },
-    {
-      "id": "nvidia-jensen-huang-investigacion-2026",
-      "type": "empresa",
-      "title": "Wall Street reacciona a la investigación sobre Jensen Huang, CEO de Nvidia, por supuesto espionaje",
-      "summary": "La noticia de que Nvidia está investigando acusaciones de espionaje vinculadas a su CEO Jensen Huang generó preguntas en Wall Street sobre quién podría sucederlo si fuera desplazado del cargo.",
-      "detail": "El riesgo de 'clave de hombre' —cuando el valor de una empresa está muy atado a una sola persona— es un concepto central en finanzas corporativas. Nvidia es hoy una de las empresas más valiosas del mundo por su rol en la infraestructura de inteligencia artificial, y cualquier incertidumbre sobre su liderazgo puede impactar fuertemente en su cotización y en el sector tecnológico en general.",
+      "title": "La acción de Nvidia cae por una investigación interna sobre Jensen Huang",
+      "summary": "La junta directiva de Nvidia abrió una investigación sobre su CEO Jensen Huang, lo que generó una fuerte caída en la acción. Analistas advierten que el impacto podría durar más de lo esperado.",
+      "detail": "Nvidia es hoy una de las empresas más grandes del mundo por capitalización bursátil y es central en el boom de la inteligencia artificial. Cuando una compañía clave enfrenta una crisis de liderazgo o una investigación, el mercado reacciona vendiendo sus acciones. Esto muestra cómo el riesgo corporativo —no solo los números del negocio— puede mover enormes sumas de dinero en minutos. La caída de Nvidia también arrastró a otras acciones tecnológicas, ilustrando el concepto de correlación entre activos.",
       "tags": [
         "Nvidia",
-        "liderazgo corporativo",
-        "riesgo empresarial"
+        "tecnología",
+        "IA"
       ],
       "source_name": "MarketWatch",
       "source_url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-      "published_at": "2026-11-09T09:12:00Z",
+      "published_at": "2026-11-09T21:55:00Z",
       "fecha_evento": "2026-11-09",
       "tickers": [
         "NVDA"
+      ]
+    },
+    {
+      "id": "dow-volatilidad-1000-puntos",
+      "type": "mercado",
+      "title": "El Dow Jones tuvo su tercer swing de 1.000 puntos en cuatro días",
+      "summary": "El índice Dow Jones experimentó oscilaciones de más de 1.000 puntos por tercera vez en cuatro días, combinando el impacto de las elecciones y el escándalo de Nvidia. Los analistas advierten que la volatilidad no terminó.",
+      "detail": "Cuando el mercado oscila tanto en tan poco tiempo, es señal de que los inversores están muy indecisos y reaccionan fuerte a cada noticia. Esta volatilidad puede ser una oportunidad para aprender a no tomar decisiones impulsivas: comprar o vender en medio del pánico suele ser una mala estrategia. Además, la frase del estratista citada —que el contexto político pasó de ser un viento a favor a uno en contra— muestra cómo la política impacta directamente en los mercados financieros.",
+      "tags": [
+        "volatilidad",
+        "bolsa",
+        "Dow Jones"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+      "published_at": "2026-11-09T21:52:00Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "^DJI"
+      ]
+    },
+    {
+      "id": "pepsico-recorte-empleos-2026",
+      "type": "empresa",
+      "title": "PepsiCo recorta cerca de 1.000 empleos en Norteamérica",
+      "summary": "PepsiCo anunció que va a despedir a alrededor de 1.000 trabajadores en Norteamérica mientras busca reducir costos y reactivar sus ventas en el mercado local.",
+      "detail": "Cuando una empresa grande como PepsiCo recorta personal, suele ser señal de que enfrenta presiones en sus márgenes de ganancia o caída en las ventas. Este tipo de reestructuraciones impactan directamente en la cotización de la acción y en la percepción del sector de consumo masivo. Para quien aprende finanzas, es un ejemplo de cómo las empresas ajustan sus costos operativos cuando el negocio no crece al ritmo esperado.",
+      "tags": [
+        "consumo masivo",
+        "despidos",
+        "empresas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+      "published_at": "2026-11-09T20:41:38Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "PEP"
+      ]
+    },
+    {
+      "id": "boeing-recorte-trabajadores",
+      "type": "empresa",
+      "title": "Boeing recorta el 5% de sus trabajadores en aviación comercial",
+      "summary": "Boeing anunció que va a reducir un 5% de su personal en la división de aviones comerciales, ya que la recuperación de la producción del 737 Max está tardando más de lo previsto.",
+      "detail": "Boeing lleva tiempo intentando estabilizar la producción de su avión estrella, el 737 Max, que tuvo varios problemas en los últimos años. Cuando una empresa industrial no puede escalar su producción, los costos fijos se vuelven difíciles de sostener y los recortes de personal son una salida habitual. Este caso ilustra cómo los problemas operativos de una empresa —no solo los financieros— terminan afectando a empleados, inversores y al precio de la acción.",
+      "tags": [
+        "Boeing",
+        "industria",
+        "despidos"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+      "published_at": "2026-11-09T19:35:58Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "BA"
+      ]
+    },
+    {
+      "id": "goldman-ceo-ia-financiamiento",
+      "type": "discurso",
+      "title": "El CEO de Goldman Sachs dice que la inversión en IA sigue fuerte pese a la incertidumbre",
+      "summary": "David Solomon, CEO de Goldman Sachs, afirmó que el apetito de los inversores por financiar infraestructura de inteligencia artificial sigue siendo robusto, a pesar de la corrección en acciones de IA y la incertidumbre política en torno a los data centers.",
+      "detail": "Goldman Sachs es uno de los bancos de inversión más influyentes del mundo, y las declaraciones de su CEO son seguidas de cerca por el mercado. Que Solomon destaque la solidez del financiamiento en IA, incluso en medio de volatilidad, da señales sobre hacia dónde fluye el capital global hoy. Para alguien que aprende finanzas, esto muestra cómo las tendencias tecnológicas se traducen en oportunidades —y riesgos— de inversión a gran escala.",
+      "tags": [
+        "Goldman Sachs",
+        "inteligencia artificial",
+        "inversión"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "published_at": "2026-11-09T18:14:47Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "GS"
+      ]
+    },
+    {
+      "id": "honda-planta-ohio-2026",
+      "type": "empresa",
+      "title": "Honda invertirá u$s 3.000 millones en una nueva planta de autos híbridos en Ohio",
+      "summary": "La automotriz japonesa anunció una inversión de 3.000 millones de dólares para construir una planta en Ohio enfocada en vehículos híbridos, con producción prevista para 2029.",
+      "detail": "Esta inversión muestra la apuesta de los fabricantes de autos por los vehículos híbridos como puente entre los autos a combustión y los completamente eléctricos. Para los inversores, anuncios de este tipo pueden mover las acciones de la empresa y de toda la cadena de proveedores. También refleja cómo las decisiones de inversión de largo plazo —a años vista— responden a tendencias regulatorias y de mercado que se ven venir con anticipación.",
+      "tags": [
+        "Honda",
+        "autos híbridos",
+        "inversión"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+      "published_at": "2026-11-09T18:59:43Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "HMC"
+      ]
+    },
+    {
+      "id": "eli-lilly-foundayo-apnea",
+      "type": "empresa",
+      "title": "Eli Lilly presentará su pastilla de obesidad para tratar la apnea del sueño",
+      "summary": "La píldora Foundayo de Eli Lilly mostró resultados positivos en un ensayo de fase avanzada para tratar la apnea obstructiva del sueño en adultos con obesidad. La compañía planea pedir aprobación de la FDA antes de fin de año.",
+      "detail": "Eli Lilly es una de las empresas farmacéuticas más valiosas del mercado gracias a sus medicamentos para la obesidad. Cada nuevo ensayo exitoso y cada solicitud de aprobación pueden disparar su cotización, ya que amplían el mercado potencial del producto. Este caso es un buen ejemplo de cómo los hitos regulatorios —como la aprobación de la FDA— son eventos clave que los inversores en farmacéuticas monitorean de cerca.",
+      "tags": [
+        "Eli Lilly",
+        "farmacéutica",
+        "FDA"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
+      "published_at": "2026-11-09T14:30:01Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "LLY"
       ]
     }
   ],
@@ -205,21 +179,21 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 74.347",
-      "valor_num": 74347.0,
-      "delta_pct": -2.04
+      "valor": "US$ 74.937",
+      "valor_num": 74937.0,
+      "delta_pct": 1.29
     },
     {
       "label": "S&P 500",
-      "valor": "7.377",
-      "valor_num": 7376.86,
-      "delta_pct": -2.68
+      "valor": "7.550",
+      "valor_num": 7549.94,
+      "delta_pct": 0.11
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.120",
-      "valor_num": 4120.5,
-      "delta_pct": 1.17
+      "valor": "US$ 4.151",
+      "valor_num": 4150.9,
+      "delta_pct": 1.91
     }
   ]
 }
