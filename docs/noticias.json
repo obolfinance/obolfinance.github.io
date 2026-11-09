@@ -1,16 +1,33 @@
 {
-  "generated_at": "2026-11-08T22:01:05.873222+00:00",
+  "generated_at": "2026-11-09T12:01:14.252078+00:00",
   "items": [
     {
-      "id": "us-jobs-october-2026",
+      "id": "china-ppi-octubre-2026",
+      "type": "economia",
+      "title": "La inflación mayorista de China llegó a su nivel más alto en más de cuatro años",
+      "summary": "El Índice de Precios al Productor (PPI) de China subió 5,7% en octubre, superando el 5,3% que esperaban los economistas. Al mismo tiempo, la inflación al consumidor se desaceleró.",
+      "detail": "El PPI mide cuánto les cuesta a las empresas producir bienes. Cuando sube, eso puede trasladarse a precios más altos en todo el mundo, ya que China es uno de los mayores exportadores del planeta. Que el PPI esté en su nivel más alto en cuatro años es una señal de presiones inflacionarias en la cadena de producción global, algo que afecta a quienes importan desde China y, en última instancia, a los precios que pagamos todos.",
+      "tags": [
+        "inflación",
+        "China",
+        "economía global"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "published_at": "2026-11-09T02:50:22Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": []
+    },
+    {
+      "id": "empleos-eeuu-octubre-2026",
       "type": "economia",
       "title": "EE.UU. creó 165.000 empleos en octubre, muy por encima de lo esperado",
-      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, cuando el mercado esperaba solo 59.000. La tasa de desempleo bajó levemente a 4,1%, contra el 4,2% previsto.",
-      "detail": "Un dato de empleo mucho más fuerte que el esperado suele hacer subir el dólar y los bonos del Tesoro de EE.UU., y puede reducir las chances de que la Reserva Federal baje las tasas de interés. Para Argentina, esto importa porque tasas altas en EE.UU. encarecen el financiamiento global y presionan a las monedas emergentes. Aprender a leer el 'jobs report' mensual es clave para entender cómo reaccionan los mercados internacionales.",
+      "summary": "La economía estadounidense generó 165.000 puestos de trabajo en octubre, casi el triple de los 59.000 que pronosticaban los analistas. La tasa de desempleo bajó levemente a 4,1%.",
+      "detail": "El informe de empleo mensual de EE.UU. es uno de los datos más seguidos por los mercados globales, porque influye directamente en las decisiones de la Reserva Federal sobre las tasas de interés. Un mercado laboral más fuerte de lo esperado puede hacer que la Fed sea más cautelosa a la hora de bajar las tasas, lo que impacta en el dólar, los bonos y los activos de economías emergentes como la Argentina.",
       "tags": [
         "empleo",
-        "economía EE.UU.",
-        "Fed"
+        "EE.UU.",
+        "Reserva Federal"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
@@ -19,15 +36,15 @@
       "tickers": []
     },
     {
-      "id": "us-long-term-unemployment-oct2026",
+      "id": "desempleo-largo-plazo-eeuu-2026",
       "type": "economia",
-      "title": "El desempleo de larga duración en EE.UU. llega al nivel más alto en una década (fuera de la pandemia)",
-      "summary": "Aunque el mercado laboral creó muchos empleos en octubre, el promedio de semanas que tarda un desempleado en conseguir trabajo superó las 27 semanas, el peor dato en diez años fuera del período pandémico.",
-      "detail": "Este indicador muestra que, debajo de los buenos titulares, hay una parte de la población que tiene serias dificultades para reinsertarse al mercado. Es un ejemplo de cómo un mismo informe puede contar dos historias distintas según qué dato mirás. Para alguien que aprende finanzas, esto enseña a no quedarse solo con el número principal y buscar siempre la foto completa de la economía.",
+      "title": "El desempleo de larga duración en EE.UU. llega a su punto más alto fuera de la pandemia en una década",
+      "summary": "Aunque el mercado laboral se ve sólido en la superficie, el tiempo promedio que un desempleado tarda en encontrar trabajo superó las 27 semanas en octubre, el mayor nivel en diez años fuera del período pandémico.",
+      "detail": "Esta tendencia muestra que, detrás de los buenos titulares de empleo, hay una parte de la población que tiene cada vez más dificultades para reinsertarse laboralmente. Para quien aprende finanzas, es un buen ejemplo de por qué no alcanza con mirar un solo indicador: hay que analizar la calidad y la distribución del empleo, no solo la cantidad de puestos creados.",
       "tags": [
-        "desempleo",
-        "mercado laboral",
-        "EE.UU."
+        "empleo",
+        "EE.UU.",
+        "indicadores económicos"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
@@ -36,14 +53,14 @@
       "tickers": []
     },
     {
-      "id": "tesla-cybertruck-wind-down-2026",
+      "id": "tesla-cybertruck-2026",
       "type": "empresa",
-      "title": "Tesla planea frenar la producción del Cybertruck en Texas para lanzar el Cybercab",
-      "summary": "Elon Musk anunció que Tesla reducirá la fabricación del Cybertruck en su planta de Texas el año próximo para destinar esa capacidad al Cybercab, su vehículo autónomo. El Cybertruck nunca logró ventas masivas y tuvo varios retiros voluntarios del mercado.",
-      "detail": "Cuando una empresa grande como Tesla redirige recursos de un producto hacia otro, está apostando por una nueva visión de negocio. El mercado suele reaccionar según si confía o no en esa apuesta. Este caso muestra cómo las decisiones estratégicas de una empresa —no solo sus ganancias— mueven el precio de sus acciones. También ilustra el riesgo de los productos con demanda nicho frente a los que buscan escala masiva.",
+      "title": "Tesla va a frenar la producción del Cybertruck en Texas para apostar por el Cybercab",
+      "summary": "Elon Musk anunció que Tesla reducirá gradualmente la fabricación del Cybertruck en Texas el año que viene para destinar esa capacidad al nuevo Cybercab, su vehículo autónomo.",
+      "detail": "Este movimiento muestra cómo las empresas reasignan recursos hacia los productos con mayor potencial de crecimiento. Tesla apuesta a que los autos autónomos (robotaxis) tienen más futuro que el Cybertruck, que no logró ventas masivas y tuvo varios retiros voluntarios. Para inversores, es una señal de hacia dónde apunta la compañía su inversión de capital.",
       "tags": [
         "Tesla",
-        "autos eléctricos",
+        "vehículos autónomos",
         "estrategia empresarial"
       ],
       "source_name": "CNBC",
@@ -55,15 +72,15 @@
       ]
     },
     {
-      "id": "moderna-outlook-raise-2026",
+      "id": "moderna-perspectiva-2026",
       "type": "empresa",
-      "title": "Moderna sube su proyección de ingresos para 2026 y prevé crecer hasta un 25%",
-      "summary": "Moderna elevó su guía de crecimiento de ingresos para 2026 a entre 15% y 25%, cuando antes esperaba hasta un 10% de crecimiento. El CEO señaló que sus nuevas vacunas están ganando terreno en el mercado.",
-      "detail": "Cuando una empresa sube su 'guidance' (proyección oficial de resultados futuros), generalmente su acción sube porque los inversores ven mejor panorama de ganancias. Este tipo de anuncios son un indicador adelantado que el mercado valora mucho más que los resultados pasados. Para aprender finanzas, entender la diferencia entre resultados ya conocidos y proyecciones hacia adelante es fundamental para analizar acciones.",
+      "title": "Moderna sube sus proyecciones de ingresos para 2026 tras el avance de sus nuevas vacunas",
+      "summary": "La biotecnológica ahora espera un crecimiento de ingresos de entre 15% y 25% para 2026, muy por encima de la guía anterior de hasta 10%, gracias al mayor impulso de sus nuevas vacunas.",
+      "detail": "Cuando una empresa sube su 'guidance' (proyección de resultados futuros), es una señal positiva que suele impulsar el precio de sus acciones. En el caso de Moderna, el crecimiento está traccionado por vacunas más nuevas, lo que muestra cómo la innovación puede cambiar rápidamente las perspectivas financieras de una compañía del sector salud.",
       "tags": [
         "Moderna",
         "biotecnología",
-        "guidance"
+        "resultados empresariales"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
@@ -74,30 +91,11 @@
       ]
     },
     {
-      "id": "nvidia-ceo-spy-probe-2026",
+      "id": "automakers-costos-2027",
       "type": "empresa",
-      "title": "El directorio de Nvidia investigará la relación de su CEO Jensen Huang con un presunto espía",
-      "summary": "El directorio de Nvidia abrió una investigación interna sobre los vínculos del CEO Jensen Huang con una persona acusada de espionaje. La empresa aclaró que Huang seguirá en su cargo y cooperará con la investigación.",
-      "detail": "La gobernanza corporativa —es decir, cómo se controla a los directivos de una empresa— es uno de los factores que los inversores miran cuando evalúan el riesgo de una acción. Una investigación sobre el CEO de una de las empresas más valiosas del mundo puede generar incertidumbre y volatilidad en el precio de la acción, aunque el directorio intente transmitir calma. Este caso es un buen ejemplo de cómo los riesgos no siempre son financieros: también pueden ser de reputación o legales.",
-      "tags": [
-        "Nvidia",
-        "gobernanza",
-        "riesgo corporativo"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
-      "published_at": "2026-11-08T21:29:00Z",
-      "fecha_evento": "2026-11-08",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "automakers-costs-2027",
-      "type": "empresa",
-      "title": "Las automotrices advierten sobre costos más altos y menor poder de fijación de precios en 2027",
-      "summary": "Las grandes automotrices alertan que en 2027 enfrentarán mayores costos de materias primas, logística y semiconductores, con menos posibilidad de trasladarlos al precio final al consumidor.",
-      "detail": "Cuando una empresa no puede subir sus precios para compensar mayores costos, sus márgenes de ganancia se comprimen y eso suele afectar negativamente el precio de sus acciones. Este fenómeno —llamado 'compresión de márgenes'— es clave para entender cómo las condiciones macroeconómicas impactan en la rentabilidad de las empresas. Para un inversor, el 'pricing power' (poder de fijar precios) es uno de los atributos más valorados en una compañía.",
+      "title": "Las automotrices advierten sobre un 2027 difícil por el aumento de costos y la menor capacidad de trasladarlos a precios",
+      "summary": "Los grandes fabricantes de autos están alertando sobre el alza en costos de materias primas, logística y memoria, mientras que les resulta cada vez más difícil subir los precios sin perder clientes.",
+      "detail": "La 'presión de márgenes' que describen las automotrices es un fenómeno clave para entender cómo funcionan las empresas: cuando los costos suben pero no se pueden trasladar a precios, las ganancias se reducen. Esto afecta directamente la rentabilidad del sector y puede generar caídas en las acciones de estas compañías, que son pesos pesados en muchos índices bursátiles globales.",
       "tags": [
         "automotrices",
         "costos",
@@ -110,38 +108,74 @@
       "tickers": []
     },
     {
-      "id": "sp500-earnings-narrow-beat-2026",
-      "type": "mercado",
-      "title": "Las ganancias del S&P 500 apenas superan las expectativas, con el margen más ajustado en cuatro años",
-      "summary": "Las empresas del S&P 500 están superando las estimaciones de los analistas, pero por el margen más estrecho en aproximadamente cuatro años, según MarketWatch.",
-      "detail": "El mercado bursátil no solo reacciona a si las empresas ganan plata, sino a si ganan más o menos de lo que se esperaba. Cuando las sorpresas positivas son cada vez más pequeñas, puede ser una señal de que las valuaciones están ajustadas o de que el crecimiento se está desacelerando. Este dato es útil para entender por qué a veces el mercado cae aunque las empresas 'ganen bien'.",
+      "id": "unicredit-commerzbank-2026",
+      "type": "empresa",
+      "title": "UniCredit sube sus proyecciones de ganancia y avanza hacia el control total de Commerzbank",
+      "summary": "El banco italiano UniCredit subió sus perspectivas de ganancias para 2026 tras un sólido tercer trimestre y anunció planes para tomar el control completo del alemán Commerzbank. Sus acciones subieron cerca de 5%.",
+      "detail": "La consolidación bancaria en Europa es un proceso que los mercados siguen de cerca, porque fusiones y adquisiciones de esta escala pueden cambiar el mapa financiero del continente. Que un banco italiano busque controlar uno alemán también refleja las tensiones y oportunidades que existen en el sistema bancario europeo. Para inversores, un 'guidance' al alza combinado con una operación corporativa importante suele ser una señal fuerte.",
       "tags": [
-        "S&P 500",
-        "resultados",
-        "bolsa"
+        "banca europea",
+        "fusiones",
+        "resultados empresariales"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-      "published_at": "2026-11-08T15:00:00Z",
-      "fecha_evento": "2026-11-08",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/unicredit-lifts-fy26-profit-view-after-higher-q3-plans-control-commerzbank-stock-gains",
+      "published_at": "2026-11-09T11:03:50Z",
+      "fecha_evento": "2026-11-09",
       "tickers": []
     },
     {
-      "id": "stocks-sync-selloff-2026",
+      "id": "citi-tech-ai-sentimiento-2026",
       "type": "mercado",
-      "title": "Las acciones del mercado americano caen en conjunto en el mayor derrumbe en más de un año",
-      "summary": "El mercado de acciones de EE.UU. está viviendo un momento inusual: casi todos los sectores bajan al mismo tiempo, en lo que representa la mayor caída generalizada en más de un año.",
-      "detail": "Normalmente, cuando un sector baja, otro sube, lo que da cierta estabilidad al mercado. Cuando todas las acciones caen juntas —alta correlación—, suele ser señal de que hay un factor de riesgo sistémico que preocupa a todos los inversores por igual, como miedo a una recesión o una crisis de confianza. Para quien aprende finanzas, esto muestra por qué la diversificación no siempre protege: en momentos de pánico, los activos se mueven todos en la misma dirección.",
+      "title": "Citi recomienda no entrar al sector tech global hasta que el sentimiento en torno a la IA mejore",
+      "summary": "El equipo de estrategia global de Citi considera que el posicionamiento en tecnología todavía no está lo suficientemente limpio como para volver a sobreponderar el sector, a pesar de la debilidad reciente.",
+      "detail": "Cuando los bancos de inversión como Citi hablan de 'posicionamiento' en un sector, se refieren a cuánta exposición tienen los grandes fondos a esas acciones. Si hay demasiados inversores posicionados en el mismo lado, una caída puede amplificarse. Esta nota sirve para entender cómo los analistas evalúan el momento de entrada a un sector más allá de los fundamentos de las empresas.",
       "tags": [
-        "bolsa",
-        "volatilidad",
-        "mercado"
+        "tecnología",
+        "inteligencia artificial",
+        "estrategia de inversión"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
-      "published_at": "2026-11-08T14:00:00Z",
-      "fecha_evento": "2026-11-08",
+      "source_url": "https://www.marketwatch.com/story/until-sentiment-in-the-ai-trade-improves-citi-tells-investors-its-better-to-sit-out-the-global-tech-trade-ed939f30?mod=mw_rss_topstories",
+      "published_at": "2026-11-09T11:25:00Z",
+      "fecha_evento": "2026-11-09",
       "tickers": []
+    },
+    {
+      "id": "morgan-stanley-sp500-correccion-2026",
+      "type": "mercado",
+      "title": "Morgan Stanley cree que la corrección del S&P 500 está en su fase final, pero recomienda esperar antes de comprar",
+      "summary": "El estratega jefe de Morgan Stanley señaló que el S&P 500 podría tocar la parte baja del rango de caída esperado en las próximas semanas, momento que consideraría una buena oportunidad para sumar riesgo.",
+      "detail": "Las correcciones del mercado son caídas temporales dentro de una tendencia de largo plazo. Que un banco tan influyente como Morgan Stanley hable de 'fase final' de la corrección es importante porque sus recomendaciones mueven dinero a nivel global. Para quien aprende finanzas, esto ilustra el concepto de 'timing' de mercado y por qué los expertos sugieren esperar confirmaciones antes de comprar.",
+      "tags": [
+        "S&P 500",
+        "corrección",
+        "estrategia de inversión"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-markets-correction-is-entering-its-final-phase-but-wait-before-buying-the-dip-says-morgan-stanley-chief-strategist-2c1be13e?mod=mw_rss_topstories",
+      "published_at": "2026-11-09T10:26:00Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": []
+    },
+    {
+      "id": "nvidia-jensen-huang-investigacion-2026",
+      "type": "empresa",
+      "title": "Wall Street reacciona a la investigación sobre Jensen Huang, CEO de Nvidia, por supuesto espionaje",
+      "summary": "La noticia de que Nvidia está investigando acusaciones de espionaje vinculadas a su CEO Jensen Huang generó preguntas en Wall Street sobre quién podría sucederlo si fuera desplazado del cargo.",
+      "detail": "El riesgo de 'clave de hombre' —cuando el valor de una empresa está muy atado a una sola persona— es un concepto central en finanzas corporativas. Nvidia es hoy una de las empresas más valiosas del mundo por su rol en la infraestructura de inteligencia artificial, y cualquier incertidumbre sobre su liderazgo puede impactar fuertemente en su cotización y en el sector tecnológico en general.",
+      "tags": [
+        "Nvidia",
+        "liderazgo corporativo",
+        "riesgo empresarial"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "published_at": "2026-11-09T09:12:00Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "NVDA"
+      ]
     }
   ],
   "ticker": [
@@ -171,9 +205,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 73.995",
-      "valor_num": 73995.0,
-      "delta_pct": -2.23
+      "valor": "US$ 74.347",
+      "valor_num": 74347.0,
+      "delta_pct": -2.04
     },
     {
       "label": "S&P 500",
@@ -183,9 +217,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.075",
-      "valor_num": 4074.9,
-      "delta_pct": 3.41
+      "valor": "US$ 4.120",
+      "valor_num": 4120.5,
+      "delta_pct": 1.17
     }
   ]
 }
