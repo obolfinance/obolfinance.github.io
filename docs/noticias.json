@@ -1,15 +1,49 @@
 {
-  "generated_at": "2026-11-10T12:01:25.287105+00:00",
+  "generated_at": "2026-11-10T22:01:17.154821+00:00",
   "items": [
     {
-      "id": "china-trade-surplus-2026",
+      "id": "cpi-octubre-2026",
       "type": "economia",
-      "title": "El superávit comercial de China superó el billón de dólares por segundo año consecutivo",
-      "summary": "China acumuló un superávit comercial de más de un billón de dólares hasta octubre, lo que podría intensificar las críticas de sus socios comerciales por la avalancha de productos chinos baratos.",
-      "detail": "Un superávit comercial tan grande significa que China exporta mucho más de lo que importa, lo que genera tensiones con otros países que sienten que sus industrias locales no pueden competir. Cuando esto se sostiene por dos años seguidos, aumenta la presión para que China rebalancee su economía consumiendo más internamente. Para quien aprende finanzas, esto es clave porque puede derivar en aranceles, guerras comerciales y movimientos en el tipo de cambio del yuan.",
+      "title": "La inflación de EE.UU. subió más de lo esperado en octubre",
+      "summary": "Los precios al consumidor en Estados Unidos subieron 0,4% en octubre, por encima de lo que esperaba el mercado, complicando las decisiones de la Reserva Federal sobre las tasas de interés.",
+      "detail": "Cuando la inflación sorprende al alza, la Fed puede verse obligada a mantener o incluso subir las tasas de interés más de lo previsto. Tasas más altas en EE.UU. fortalecen al dólar y encarecen el financiamiento global, lo que impacta en economías emergentes como la argentina. Este dato es clave para entender hacia dónde van los mercados en los próximos meses.",
       "tags": [
-        "comercio",
+        "inflación",
+        "Fed",
+        "tasas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "published_at": "2026-11-10T16:47:05Z",
+      "fecha_evento": "2026-11-10",
+      "tickers": []
+    },
+    {
+      "id": "bonos-tesoro-5pct",
+      "type": "mercado",
+      "title": "Las acciones caen y el bono del Tesoro de EE.UU. a 10 años se acerca al 5%",
+      "summary": "Los mercados bursátiles cayeron hoy luego del dato de inflación de octubre, mientras la tasa del bono del Tesoro estadounidense a 10 años se acercó nuevamente al nivel del 5%, un umbral que preocupa a los inversores.",
+      "detail": "La tasa del bono a 10 años de EE.UU. es una referencia global: cuando sube, el costo de endeudarse aumenta en todo el mundo y los activos más riesgosos, como acciones o bonos de países emergentes, se vuelven menos atractivos. Acercarse al 5% genera tensión en los mercados porque implica que el dinero 'seguro' rinde más, lo que empuja a los inversores a salir de activos de mayor riesgo.",
+      "tags": [
+        "bonos",
+        "tasas",
+        "Wall Street"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "published_at": "2026-11-10T21:42:00Z",
+      "fecha_evento": "2026-11-10",
+      "tickers": []
+    },
+    {
+      "id": "china-superavit-comercial-1-billon",
+      "type": "economia",
+      "title": "China acumuló un superávit comercial de más de 1 billón de dólares por segundo año consecutivo",
+      "summary": "El superávit comercial de China superó el billón de dólares hasta octubre, lo que genera presiones de sus socios comerciales, que reclaman que el país rebalancee su economía y consuma más internamente.",
+      "detail": "Un superávit comercial gigante significa que China exporta muchísimo más de lo que importa, inundando el mundo con productos baratos. Esto genera tensiones con socios como EE.UU. y Europa, que pueden responder con aranceles o barreras comerciales. Para Argentina, que también exporta commodities, el nivel de actividad de China es clave: si China crece y consume más, demanda más materias primas.",
+      "tags": [
         "China",
+        "comercio",
         "exportaciones"
       ],
       "source_name": "CNBC",
@@ -19,14 +53,14 @@
       "tickers": []
     },
     {
-      "id": "china-ppi-octubre-2026",
+      "id": "china-inflacion-mayorista",
       "type": "economia",
-      "title": "La inflación mayorista de China subió más de lo esperado en octubre",
-      "summary": "El índice de precios al productor (PPI) de China en octubre llegó al 5,7%, superando el 5,3% que esperaban los economistas, mientras que la inflación al consumidor se desaceleró.",
-      "detail": "El PPI mide cuánto suben los precios en la etapa de producción, antes de llegar al consumidor final. Cuando sube más de lo esperado, puede anticipar mayor inflación de consumo en el futuro. Que el PPI chino sorprenda al alza es relevante globalmente porque China es la fábrica del mundo: si sus costos de producción suben, eso se puede trasladar a los precios de los productos que todo el mundo compra.",
+      "title": "La inflación mayorista de China llegó a su nivel más alto en más de cuatro años",
+      "summary": "El índice de precios al productor (PPI) de China subió 5,7% en octubre, superando el 5,3% que esperaban los analistas, mientras que la inflación al consumidor se desaceleró.",
+      "detail": "El PPI mide cuánto suben los precios en la fábrica, antes de llegar al consumidor final. Cuando sube fuerte, puede anticipar mayor inflación global porque China es el mayor exportador del mundo: lo que se encarece allá termina llegando más caro a todos los mercados. Este dato es relevante para entender las presiones inflacionarias que enfrentan las economías de todo el mundo.",
       "tags": [
-        "inflación",
         "China",
+        "inflación",
         "PPI"
       ],
       "source_name": "CNBC",
@@ -36,66 +70,68 @@
       "tickers": []
     },
     {
-      "id": "cpi-octubre-2026-preview",
-      "type": "reunion",
-      "title": "El martes se publica el dato de inflación de EE.UU. de octubre",
-      "summary": "Se espera que el IPC de octubre de Estados Unidos suba 0,3% en el dato general y 0,2% en el núcleo (sin alimentos ni energía).",
-      "detail": "El IPC (Índice de Precios al Consumidor) es el indicador de inflación más seguido por la Reserva Federal para decidir si sube o baja las tasas de interés. Un dato más alto de lo esperado puede llevar al mercado a anticipar tasas altas por más tiempo, lo que afecta bonos, acciones y el dólar. Para un argentino que sigue mercados globales, este dato mueve todos los mercados internacionales el día que se publica.",
-      "tags": [
-        "inflación",
-        "EE.UU.",
-        "tasas"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
-      "published_at": "2026-11-09T21:03:55Z",
-      "fecha_evento": "2026-11-11",
-      "tickers": []
-    },
-    {
-      "id": "fed-waller-suba-tasas-diciembre",
+      "id": "fed-riesgo-suba-tasas-2027",
       "type": "discurso",
-      "title": "Un funcionario de la Fed puso sobre la mesa una suba de tasas de medio punto para diciembre",
-      "summary": "El gobernador de la Reserva Federal Chris Waller dijo que una suba de 0,5 puntos porcentuales en diciembre podría estar en juego, dependiendo de cómo salga el dato de inflación de octubre.",
-      "detail": "La Fed generalmente mueve las tasas en escalones de 0,25 puntos, así que una suba de 0,5 sería una señal de preocupación seria por la inflación. Que un miembro del directorio lo mencione públicamente mueve las expectativas del mercado antes de la reunión oficial. Para quien aprende finanzas, esto muestra cómo los discursos de los banqueros centrales son en sí mismos herramientas de política monetaria que impactan en bonos, acciones y divisas.",
+      "title": "Un economista advierte que la Fed podría subir tasas agresivamente en 2027",
+      "summary": "El economista Neil Dutta advirtió que la Reserva Federal es demasiado optimista sobre su capacidad de controlar la inflación, y que los mercados subestiman el riesgo de subas de tasas más agresivas el año que viene.",
+      "detail": "Cuando un economista reconocido advierte que la Fed puede equivocarse en su diagnóstico, los mercados lo toman en serio. Tasas más altas de lo esperado en EE.UU. encarecen el dólar y el crédito global, lo que presiona a las economías emergentes. Aprender a leer estas señales anticipadas ayuda a entender movimientos en el mercado antes de que ocurran.",
       "tags": [
         "Fed",
         "tasas",
-        "política monetaria"
+        "riesgo"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc",
-      "published_at": "2026-11-10T09:45:00Z",
+      "source_url": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
+      "published_at": "2026-11-10T20:27:00Z",
       "fecha_evento": "2026-11-10",
       "tickers": []
     },
     {
-      "id": "anthropic-ipo-error-2026",
+      "id": "anthropic-ipo-1-billon",
       "type": "empresa",
-      "title": "Anthropic envió por error a bancos los términos de su posible salida a bolsa por hasta 69.300 millones de dólares",
-      "summary": "La startup de inteligencia artificial Anthropic mandó accidentalmente a banqueros una presentación para una IPO que valoraría la empresa en hasta 69.300 millones de dólares, y luego lo retiró aclarando que fue un error.",
-      "detail": "Una IPO (salida a bolsa) es cuando una empresa privada empieza a vender acciones al público por primera vez. Que Anthropic filtre sus términos por error muestra que el proceso estaba avanzado, y la cifra de valoración da una idea de cuánto vale hoy el mercado de IA. Para quien aprende finanzas, es un ejemplo de cómo los rumores y filtraciones en torno a una IPO pueden mover expectativas y precios antes de que haya información oficial.",
+      "title": "Anthropic prepara su salida a bolsa con una valuación de más de 1 billón de dólares",
+      "summary": "La empresa de inteligencia artificial Anthropic anunció formalmente los términos de su OPV (oferta pública de venta), apuntando a recaudar hasta 63.000 millones de dólares en una salida a bolsa esperada para la semana que viene.",
+      "detail": "Una IPO (salida a bolsa) de este tamaño sería una de las más grandes de la historia y marcaría el termómetro del apetito inversor por empresas de inteligencia artificial. Cuando una compañía de IA se valúa en un billón de dólares, da señales sobre cuánto confía el mercado en el futuro del sector. Para quien aprende finanzas, es un ejemplo claro de cómo el mercado precio expectativas futuras, no solo resultados actuales.",
       "tags": [
+        "IA",
         "IPO",
-        "inteligencia artificial",
-        "startups"
+        "tecnología"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d",
-      "published_at": "2026-11-10T10:48:00Z",
+      "source_url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "published_at": "2026-11-10T19:47:00Z",
       "fecha_evento": "2026-11-10",
       "tickers": []
     },
     {
-      "id": "pepsico-despidos-2026",
+      "id": "nvidia-exportaciones-china",
+      "type": "empresa",
+      "title": "Nvidia podría enfrentar reglas más estrictas para vender chips a China",
+      "summary": "Crece el impulso en el Congreso de EE.UU. para endurecer los controles de exportación de chips de Nvidia hacia China, en medio de un escándalo relacionado con su CEO Jensen Huang.",
+      "detail": "Las restricciones de exportación limitan cuánto puede vender una empresa en mercados extranjeros clave. Para Nvidia, China es un mercado enorme, y perder acceso a él afectaría directamente sus ingresos y, por ende, su valuación bursátil. Este tipo de riesgo regulatorio es un factor que los inversores deben considerar al analizar empresas tecnológicas expuestas a tensiones geopolíticas.",
+      "tags": [
+        "Nvidia",
+        "chips",
+        "regulación"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
+      "published_at": "2026-11-10T20:37:00Z",
+      "fecha_evento": "2026-11-10",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "pepsico-despidos",
       "type": "empresa",
       "title": "PepsiCo recortará alrededor de 1.000 empleos en Norteamérica",
-      "summary": "PepsiCo anunció que eliminará unos 1.000 puestos de trabajo en América del Norte mientras busca reducir costos y reactivar sus ventas en el mercado local.",
-      "detail": "Cuando una empresa grande como PepsiCo recorta personal, suele ser señal de que sus ingresos están bajo presión y que busca mejorar sus márgenes de ganancia. Para los inversores, esto puede ser una señal ambigua: por un lado refleja dificultades comerciales, por otro muestra que la dirección toma medidas para ser más eficiente. Es un buen ejemplo de cómo las empresas equilibran costos operativos con rentabilidad.",
+      "summary": "PepsiCo anunció que eliminará unos 1.000 puestos de trabajo en Norteamérica mientras busca reducir costos y reactivar sus ventas en su mercado principal.",
+      "detail": "Cuando una empresa grande como PepsiCo recorta empleos, suele ser una señal de que enfrenta presión en sus márgenes o caída en la demanda. Para quien aprende finanzas, es un ejemplo de cómo las compañías ajustan su estructura de costos cuando el negocio no crece al ritmo esperado. También refleja el impacto que la inflación sostenida tiene en el consumo masivo.",
       "tags": [
-        "empleo",
-        "consumo",
-        "empresas"
+        "PepsiCo",
+        "despidos",
+        "consumo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
@@ -106,33 +142,14 @@
       ]
     },
     {
-      "id": "boeing-despidos-comercial-2026",
-      "type": "empresa",
-      "title": "Boeing recortará el 5% de sus trabajadores de aviación comercial",
-      "summary": "Boeing anunció que eliminará el 5% de su fuerza laboral en la división de aviones comerciales, en medio de demoras para aumentar la producción del 737 Max.",
-      "detail": "Boeing lleva tiempo intentando estabilizar la producción de su avión más vendido, el 737 Max, que ha tenido problemas técnicos y regulatorios en los últimos años. Los recortes de personal en medio de dificultades productivas muestran cómo las empresas industriales enfrentan el trade-off entre mantener capacidad y reducir costos. Para quien sigue mercados, Boeing es una empresa de enorme peso en el índice Dow Jones y sus problemas tienen impacto directo en ese índice.",
-      "tags": [
-        "Boeing",
-        "industria",
-        "empleo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-      "published_at": "2026-11-09T19:35:58Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "goldman-solomon-ia-2026",
+      "id": "goldman-ai-financiamiento",
       "type": "discurso",
-      "title": "El CEO de Goldman Sachs dice que el financiamiento en IA sigue fuerte pese a la volatilidad",
-      "summary": "David Solomon, CEO de Goldman Sachs, afirmó que el apetito inversor por infraestructura de inteligencia artificial sigue siendo robusto, a pesar de la corrección en las acciones de IA y la incertidumbre política en torno a los centros de datos.",
-      "detail": "Goldman Sachs es uno de los bancos de inversión más importantes del mundo y su CEO es una voz muy escuchada sobre tendencias de capital. Que distinga entre la caída de las acciones de IA y la solidez del financiamiento real muestra que inversores institucionales siguen apostando a largo plazo por la infraestructura de IA aunque los precios de mercado fluctúen. Para quien aprende finanzas, esto ilustra la diferencia entre el precio de una acción en el corto plazo y la inversión real en una industria.",
+      "title": "El CEO de Goldman Sachs dice que el financiamiento de IA sigue fuerte pese a la volatilidad del mercado",
+      "summary": "David Solomon, CEO de Goldman Sachs, afirmó que el apetito inversor por infraestructura de inteligencia artificial se mantiene sólido, aunque hay una corrección en las acciones del sector y cierta incertidumbre política en torno a los data centers.",
+      "detail": "Cuando el CEO de uno de los bancos más influyentes del mundo dice que el dinero sigue fluyendo hacia la IA, es una señal importante sobre hacia dónde apuntan las grandes inversiones. Goldman Sachs financia proyectos enormes, por lo que su perspectiva refleja el estado real del mercado de capitales. Este tipo de declaraciones mueve expectativas y puede influir en los precios de acciones tecnológicas.",
       "tags": [
-        "inteligencia artificial",
         "Goldman Sachs",
+        "IA",
         "inversión"
       ],
       "source_name": "CNBC",
@@ -144,22 +161,22 @@
       ]
     },
     {
-      "id": "honda-planta-ohio-2026",
+      "id": "alphabet-gemini-4-carbon",
       "type": "empresa",
-      "title": "Honda invertirá 3.000 millones de dólares en una nueva planta de vehículos híbridos en Ohio",
-      "summary": "La automotriz japonesa anunció una inversión de 3.000 millones de dólares para construir una planta en Ohio enfocada en vehículos híbridos, con producción prevista para 2029.",
-      "detail": "Esta inversión muestra cómo las automotrices globales están apostando fuertemente a los híbridos como puente entre los autos a combustión y los eléctricos. Producir en EE.UU. también permite a Honda evitar aranceles a las importaciones y acercarse al mercado local. Para quien aprende finanzas, es un ejemplo de cómo las decisiones de inversión de largo plazo de grandes corporaciones responden tanto a tendencias tecnológicas como a políticas comerciales.",
+      "title": "Google lanzó Gemini 4 Carbon, su nuevo modelo de IA para tareas complejas",
+      "summary": "Alphabet comenzó a distribuir Gemini 4 Carbon, un nuevo modelo de inteligencia artificial diseñado para programación avanzada, investigación científica y tareas de razonamiento complejo.",
+      "detail": "El lanzamiento de nuevos modelos de IA por parte de las grandes tecnológicas es una señal de la carrera que existe en el sector. Para los inversores, cada avance de Google en IA tiene implicancias en su valuación y en la competencia con rivales como OpenAI y Anthropic. Seguir estos lanzamientos ayuda a entender qué empresas están mejor posicionadas en una de las industrias de mayor crecimiento actual.",
       "tags": [
-        "automotriz",
-        "inversión",
-        "híbridos"
+        "Google",
+        "IA",
+        "tecnología"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
-      "published_at": "2026-11-09T18:59:43Z",
-      "fecha_evento": "2026-11-09",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/alphabet-rolls-out-gemini-4-carbon-complex-ai-tasks-and-advanced-reasoning",
+      "published_at": "2026-11-10T21:35:29Z",
+      "fecha_evento": "2026-11-10",
       "tickers": [
-        "HMC"
+        "GOOGL"
       ]
     }
   ],
@@ -190,21 +207,21 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 74.328",
-      "valor_num": 74328.0,
-      "delta_pct": 0.02
+      "valor": "US$ 73.777",
+      "valor_num": 73777.0,
+      "delta_pct": -1.55
     },
     {
       "label": "S&P 500",
-      "valor": "7.550",
-      "valor_num": 7549.94,
-      "delta_pct": 0.11
+      "valor": "7.521",
+      "valor_num": 7520.93,
+      "delta_pct": -0.63
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.078",
-      "valor_num": 4077.8,
-      "delta_pct": -0.87
+      "valor": "US$ 4.039",
+      "valor_num": 4039.4,
+      "delta_pct": -1.8
     }
   ]
 }
