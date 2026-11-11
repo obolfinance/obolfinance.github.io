@@ -1,16 +1,35 @@
 {
-  "generated_at": "2026-11-11T12:01:10.702199+00:00",
+  "generated_at": "2026-11-11T22:01:16.131374+00:00",
   "items": [
     {
-      "id": "cpi-octubre-2026",
+      "id": "nvidia-ai-systemic-risk",
+      "type": "empresa",
+      "title": "Nvidia: ¿demasiado grande para caer?",
+      "summary": "Un análisis de CNBC advierte que la enorme red de vínculos financieros de Nvidia con otras empresas podría generar un riesgo sistémico si la compañía enfrentara problemas serios.",
+      "detail": "Cuando una empresa se vuelve tan central para una industria —en este caso la infraestructura de inteligencia artificial—, su eventual caída podría arrastrar a muchas otras compañías que dependen de ella. Esto se llama riesgo sistémico y es el mismo concepto que se aplicó a los grandes bancos en la crisis de 2008. Entender este fenómeno ayuda a ver por qué los reguladores y los mercados siguen de cerca el crecimiento de las grandes tecnológicas.",
+      "tags": [
+        "Nvidia",
+        "riesgo sistémico",
+        "inteligencia artificial"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "published_at": "2026-11-11T20:59:14Z",
+      "fecha_evento": "2026-11-11",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "inflacion-eeuu-octubre-cpi",
       "type": "economia",
-      "title": "La inflación de EE.UU. subió más de lo esperado en octubre",
-      "summary": "Los precios al consumidor en Estados Unidos subieron 0,4% en octubre, por encima de lo que esperaba el mercado, complicando la estrategia de la Reserva Federal para controlar la inflación.",
-      "detail": "Cuando la inflación sorprende al alza, los mercados ajustan sus expectativas sobre las tasas de interés: si la Fed tiene que seguir subiendo tasas para enfriar la economía, eso encarece el crédito y puede presionar a la baja las bolsas. Para Argentina, este dato importa porque las tasas altas en EE.UU. fortalecen al dólar y reducen el apetito global por activos de países emergentes.",
+      "title": "La inflación en EE.UU. subió más de lo esperado en octubre",
+      "summary": "Los precios al consumidor en Estados Unidos aumentaron 0,4% en octubre, por encima de lo que esperaban los economistas, complicando las decisiones de la Reserva Federal sobre las tasas de interés.",
+      "detail": "Cuando la inflación sorprende al alza, la Fed puede verse forzada a mantener las tasas altas por más tiempo o incluso subirlas. Tasas más altas en EE.UU. fortalecen al dólar y atraen capitales desde economías emergentes, lo que puede presionar monedas como el peso argentino. Para alguien que aprende finanzas, este dato muestra cómo un número mensual puede mover mercados globales.",
       "tags": [
         "inflación",
         "Fed",
-        "tasas"
+        "tasas de interés"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
@@ -19,34 +38,32 @@
       "tickers": []
     },
     {
-      "id": "goldman-fed-forecast",
+      "id": "consumo-eeuu-octubre-retail",
       "type": "economia",
-      "title": "Goldman Sachs revisó su pronóstico para la Fed tras el dato de inflación",
-      "summary": "Después del dato de inflación de octubre más alto de lo esperado, Goldman Sachs actualizó su proyección y ahora anticipa más subas de tasas por parte de la Reserva Federal.",
-      "detail": "Los grandes bancos de inversión como Goldman Sachs funcionan como termómetro del mercado: cuando cambian sus pronósticos, los inversores del mundo entero reposicionan sus carteras. Más subas de tasas en EE.UU. implican un dólar más fuerte y mayores rendimientos en bonos del Tesoro americano, lo que hace menos atractivos a los activos de economías emergentes como la Argentina.",
+      "title": "El consumo en EE.UU. creció al ritmo más lento en casi un año",
+      "summary": "Las ventas minoristas de octubre en Estados Unidos subieron al ritmo más lento en casi un año, señal de que los consumidores empiezan a sentir el peso de los precios altos a pesar de seguir gastando.",
+      "detail": "El consumo privado es el motor más grande de la economía estadounidense. Cuando las ventas minoristas se desaceleran, puede anticipar una menor actividad económica global, lo que a su vez afecta las exportaciones de países emergentes. Este indicador, junto al dato de inflación, le da a la Fed más información para decidir si bajar o no las tasas.",
       "tags": [
-        "Fed",
-        "tasas",
-        "Goldman Sachs"
+        "consumo",
+        "ventas minoristas",
+        "economía EE.UU."
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
-      "published_at": "2026-11-11T10:37:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
+      "published_at": "2026-11-11T12:27:47Z",
       "fecha_evento": "2026-11-11",
-      "tickers": [
-        "GS"
-      ]
+      "tickers": []
     },
     {
-      "id": "china-superavit-comercial",
+      "id": "china-superavit-comercial-1-billon",
       "type": "economia",
-      "title": "El superávit comercial de China superó el billón de dólares por segundo año seguido",
-      "summary": "El excedente comercial de China acumulado hasta octubre volvió a superar el billón de dólares, generando tensiones con socios comerciales que se quejan por la inundación de productos chinos baratos.",
-      "detail": "Un superávit tan grande significa que China exporta muchísimo más de lo que importa, lo que puede derivar en guerras comerciales, aranceles y represalias de otros países. Esto afecta las cadenas globales de suministro y los precios de los productos, con impacto directo en la inflación mundial y en los mercados financieros.",
+      "title": "El superávit comercial de China superó el billón de dólares por segundo año consecutivo",
+      "summary": "China acumuló un superávit comercial de más de un billón de dólares hasta octubre, lo que genera presión internacional por el exceso de exportaciones baratas hacia el resto del mundo.",
+      "detail": "Un superávit comercial tan grande significa que China vende mucho más de lo que compra en el exterior. Eso genera tensiones con sus socios comerciales, que pueden responder con aranceles o barreras, como ya vimos con EE.UU. y Europa. Para Argentina, entender la dinámica del comercio chino es clave porque China es uno de sus principales socios comerciales y compradores de commodities.",
       "tags": [
         "China",
-        "comercio",
-        "exportaciones"
+        "comercio global",
+        "superávit"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
@@ -55,11 +72,11 @@
       "tickers": []
     },
     {
-      "id": "china-inflacion-mayorista",
+      "id": "china-inflacion-mayorista-ppi",
       "type": "economia",
-      "title": "La inflación mayorista de China llegó a su nivel más alto en más de cuatro años",
-      "summary": "El índice de precios al productor (PPI) de China subió 5,7% en octubre, superando las expectativas del mercado, mientras que la inflación al consumidor se desaceleró.",
-      "detail": "El PPI chino es un indicador clave porque China es la fábrica del mundo: cuando los precios mayoristas suben allí, eventualmente eso se traslada al costo de los productos en todo el planeta. Una inflación mayorista alta en China puede presionar al alza los precios globales, complicando la lucha contra la inflación en otros países.",
+      "title": "La inflación mayorista en China llegó a su nivel más alto en más de cuatro años",
+      "summary": "El índice de precios al productor (PPI) de China subió 5,7% en octubre, superando las expectativas, mientras que la inflación al consumidor se desaceleró.",
+      "detail": "El PPI chino es un indicador clave porque China es la fábrica del mundo: cuando los precios mayoristas suben allí, los productos que exporta pueden encarecerse globalmente. Que el PPI suba mientras el consumo interno se frena sugiere que las empresas chinas están absorbiendo costos o que hay presiones de oferta. Este dato puede influir en la inflación de otros países que importan de China.",
       "tags": [
         "China",
         "inflación",
@@ -72,15 +89,15 @@
       "tickers": []
     },
     {
-      "id": "pepsico-despidos",
+      "id": "pepsico-recorte-empleos",
       "type": "empresa",
       "title": "PepsiCo recortará alrededor de 1.000 empleos en Norteamérica",
-      "summary": "PepsiCo anunció que eliminará cerca de 1.000 puestos de trabajo en Norteamérica mientras busca reducir costos y reactivar sus ventas en el mercado local.",
-      "detail": "Cuando una empresa grande como PepsiCo recorta personal, suele ser señal de que enfrenta presión en sus márgenes de ganancia o caída en las ventas. Este tipo de decisiones impacta en el precio de la acción y sirve como indicador del estado de consumo en EE.UU., que es el motor más grande de la economía mundial.",
+      "summary": "PepsiCo anunció que eliminará unos 1.000 puestos de trabajo en Norteamérica mientras busca reducir costos y reactivar sus ventas en su mercado principal.",
+      "detail": "Los recortes de empleos en grandes empresas suelen ser una señal de que el negocio está bajo presión, ya sea por caída en ventas, márgenes apretados o necesidad de reorganizarse. Para un inversor, este tipo de anuncios puede ser una señal mixta: a corto plazo puede mejorar los resultados financieros, pero también indica que la empresa enfrenta dificultades. PepsiCo es una de las mayores compañías de consumo masivo del mundo.",
       "tags": [
-        "consumo",
-        "empleo",
-        "empresas"
+        "PepsiCo",
+        "despidos",
+        "consumo masivo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
@@ -91,80 +108,38 @@
       ]
     },
     {
-      "id": "boeing-recortes",
-      "type": "empresa",
-      "title": "Boeing recortará el 5% de los trabajadores de aviones comerciales",
-      "summary": "Boeing anunció una reducción de personal en su división de aviones comerciales mientras la empresa intenta estabilizar la producción del 737 Max, que está demorando más de lo esperado.",
-      "detail": "Boeing es uno de los mayores exportadores industriales de EE.UU. y sus problemas de producción tienen efecto cascada en proveedores y aerolíneas de todo el mundo. Las dificultades persistentes de la compañía ilustran cómo las cadenas de suministro complejas pueden convertirse en un riesgo financiero de largo plazo para inversores.",
+      "id": "bonos-tesoro-petroleo-desacople",
+      "type": "mercado",
+      "title": "La baja del petróleo ya no alcanza para bajar las tasas de los bonos del Tesoro de EE.UU.",
+      "summary": "La relación histórica entre el precio del petróleo y los rendimientos de los bonos del Tesoro estadounidense se rompió, lo que indica que las preocupaciones por la inflación van más allá del precio de la energía.",
+      "detail": "Históricamente, cuando el petróleo baja, los inversores esperan menos inflación y compran bonos, lo que reduce los rendimientos. Que esta relación se haya roto sugiere que el mercado cree que la inflación tiene otras causas más estructurales. Para alguien que aprende finanzas, esto muestra que los mercados de bonos son termómetros muy sensibles de las expectativas económicas globales.",
       "tags": [
-        "Boeing",
-        "industria",
-        "empleo"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-      "published_at": "2026-11-09T19:35:58Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "goldman-ia-financiamiento",
-      "type": "discurso",
-      "title": "El CEO de Goldman Sachs dice que el financiamiento de IA sigue fuerte pese a la volatilidad",
-      "summary": "David Solomon, CEO de Goldman Sachs, afirmó que el apetito inversor por infraestructura de inteligencia artificial se mantiene sólido a pesar de la caída reciente en acciones del sector y la incertidumbre política en torno a los data centers.",
-      "detail": "Cuando el CEO de uno de los bancos de inversión más influyentes del mundo habla sobre tendencias de financiamiento, el mercado lo toma como una señal sobre hacia dónde va el dinero grande. La IA es hoy uno de los sectores que más capital atrae globalmente, y su financiamiento sostenido implica que las valuaciones de empresas del sector podrían seguir altas pese a la volatilidad reciente.",
-      "tags": [
-        "inteligencia artificial",
-        "Goldman Sachs",
-        "inversión"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "published_at": "2026-11-09T18:14:47Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "id": "coreweave-financiamiento",
-      "type": "empresa",
-      "title": "La acción de CoreWeave subió tras superar expectativas y anunciar prepagos por USD 9.000 millones",
-      "summary": "CoreWeave reportó ingresos por encima de lo esperado en el tercer trimestre y anunció USD 9.000 millones en prepagos planificados, lo que redujo las preocupaciones sobre su nivel de deuda.",
-      "detail": "CoreWeave es una empresa clave en la infraestructura de computación para inteligencia artificial. Su capacidad de generar ingresos y prepagar deuda es una señal positiva para el mercado, ya que despeja dudas sobre su sustentabilidad financiera en un sector donde las inversiones son enormes y los riesgos también.",
-      "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "deuda"
+        "bonos",
+        "petróleo",
+        "tasas"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "published_at": "2026-11-11T11:27:00Z",
+      "source_url": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
+      "published_at": "2026-11-11T21:42:00Z",
       "fecha_evento": "2026-11-11",
-      "tickers": [
-        "CRWV"
-      ]
+      "tickers": []
     },
     {
-      "id": "eli-lilly-foundayo",
-      "type": "empresa",
-      "title": "Eli Lilly presentará su pastilla contra la obesidad para apnea del sueño antes de fin de año",
-      "summary": "Un ensayo clínico avanzado mostró que Foundayo, la pastilla diaria de Eli Lilly para la obesidad, también mejora la apnea del sueño moderada a severa, y la compañía planea pedir aprobación en EE.UU. antes de fin de 2026.",
-      "detail": "El mercado de medicamentos para la obesidad es uno de los de mayor crecimiento en la industria farmacéutica global. Cada nueva indicación aprobada para un fármaco amplía su mercado potencial y puede impulsar significativamente los ingresos futuros de la empresa, lo que se refleja directamente en su valuación bursátil.",
+      "id": "hedge-funds-venden-acciones-ia",
+      "type": "mercado",
+      "title": "Los hedge funds apostaron en contra de acciones de IA por primera vez desde 2023",
+      "summary": "Según LPL Research, los fondos de cobertura están ahora subponderados en el sector de inteligencia artificial por primera vez desde principios de 2023.",
+      "detail": "Cuando los hedge funds —que suelen ser inversores sofisticados con mucha información— reducen su exposición a un sector, es una señal que el mercado toma en serio. Que esto ocurra con las acciones de IA, que fueron las grandes ganadoras de los últimos años, puede indicar que los valuaciones se consideran elevadas o que hay incertidumbre sobre el retorno de las inversiones en infraestructura de IA. Este tipo de movimientos institucionales suelen anticipar cambios de tendencia.",
       "tags": [
-        "farmacéutica",
-        "obesidad",
-        "aprobación"
+        "inteligencia artificial",
+        "hedge funds",
+        "mercado"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
-      "published_at": "2026-11-09T14:30:01Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": [
-        "LLY"
-      ]
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/hedge-funds-just-turned-against-ai-stocks-first-time-2023-should-you-follow-them",
+      "published_at": "2026-11-11T21:43:38Z",
+      "fecha_evento": "2026-11-11",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -176,15 +151,15 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.555",
-      "valor_num": 1555.0,
-      "delta_pct": 0.0
+      "valor": "$1.570",
+      "valor_num": 1570.0,
+      "delta_pct": 0.96
     },
     {
       "label": "MEP",
-      "valor": "$1.588",
-      "valor_num": 1587.9,
-      "delta_pct": 0.0
+      "valor": "$1.578",
+      "valor_num": 1578.3,
+      "delta_pct": -0.6
     },
     {
       "label": "CCL",
@@ -194,21 +169,21 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 73.940",
-      "valor_num": 73940.0,
-      "delta_pct": -0.54
+      "valor": "US$ 74.353",
+      "valor_num": 74353.0,
+      "delta_pct": 0.74
     },
     {
       "label": "S&P 500",
-      "valor": "7.521",
-      "valor_num": 7520.93,
-      "delta_pct": -0.63
+      "valor": "7.619",
+      "valor_num": 7619.38,
+      "delta_pct": -0.9
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.056",
-      "valor_num": 4055.8,
-      "delta_pct": -0.47
+      "valor": "US$ 3.992",
+      "valor_num": 3992.5,
+      "delta_pct": -2.02
     }
   ]
 }
