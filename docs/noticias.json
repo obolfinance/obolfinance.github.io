@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-10T22:01:17.154821+00:00",
+  "generated_at": "2026-11-11T12:01:10.702199+00:00",
   "items": [
     {
       "id": "cpi-octubre-2026",
       "type": "economia",
       "title": "La inflación de EE.UU. subió más de lo esperado en octubre",
-      "summary": "Los precios al consumidor en Estados Unidos subieron 0,4% en octubre, por encima de lo que esperaba el mercado, complicando las decisiones de la Reserva Federal sobre las tasas de interés.",
-      "detail": "Cuando la inflación sorprende al alza, la Fed puede verse obligada a mantener o incluso subir las tasas de interés más de lo previsto. Tasas más altas en EE.UU. fortalecen al dólar y encarecen el financiamiento global, lo que impacta en economías emergentes como la argentina. Este dato es clave para entender hacia dónde van los mercados en los próximos meses.",
+      "summary": "Los precios al consumidor en Estados Unidos subieron 0,4% en octubre, por encima de lo que esperaba el mercado, complicando la estrategia de la Reserva Federal para controlar la inflación.",
+      "detail": "Cuando la inflación sorprende al alza, los mercados ajustan sus expectativas sobre las tasas de interés: si la Fed tiene que seguir subiendo tasas para enfriar la economía, eso encarece el crédito y puede presionar a la baja las bolsas. Para Argentina, este dato importa porque las tasas altas en EE.UU. fortalecen al dólar y reducen el apetito global por activos de países emergentes.",
       "tags": [
         "inflación",
         "Fed",
@@ -14,33 +14,35 @@
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "published_at": "2026-11-10T16:47:05Z",
+      "published_at": "2026-11-10T23:53:58Z",
       "fecha_evento": "2026-11-10",
       "tickers": []
     },
     {
-      "id": "bonos-tesoro-5pct",
-      "type": "mercado",
-      "title": "Las acciones caen y el bono del Tesoro de EE.UU. a 10 años se acerca al 5%",
-      "summary": "Los mercados bursátiles cayeron hoy luego del dato de inflación de octubre, mientras la tasa del bono del Tesoro estadounidense a 10 años se acercó nuevamente al nivel del 5%, un umbral que preocupa a los inversores.",
-      "detail": "La tasa del bono a 10 años de EE.UU. es una referencia global: cuando sube, el costo de endeudarse aumenta en todo el mundo y los activos más riesgosos, como acciones o bonos de países emergentes, se vuelven menos atractivos. Acercarse al 5% genera tensión en los mercados porque implica que el dinero 'seguro' rinde más, lo que empuja a los inversores a salir de activos de mayor riesgo.",
+      "id": "goldman-fed-forecast",
+      "type": "economia",
+      "title": "Goldman Sachs revisó su pronóstico para la Fed tras el dato de inflación",
+      "summary": "Después del dato de inflación de octubre más alto de lo esperado, Goldman Sachs actualizó su proyección y ahora anticipa más subas de tasas por parte de la Reserva Federal.",
+      "detail": "Los grandes bancos de inversión como Goldman Sachs funcionan como termómetro del mercado: cuando cambian sus pronósticos, los inversores del mundo entero reposicionan sus carteras. Más subas de tasas en EE.UU. implican un dólar más fuerte y mayores rendimientos en bonos del Tesoro americano, lo que hace menos atractivos a los activos de economías emergentes como la Argentina.",
       "tags": [
-        "bonos",
+        "Fed",
         "tasas",
-        "Wall Street"
+        "Goldman Sachs"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-      "published_at": "2026-11-10T21:42:00Z",
-      "fecha_evento": "2026-11-10",
-      "tickers": []
+      "source_url": "https://www.marketwatch.com/story/why-goldman-sachs-is-now-changing-its-federal-reserve-interest-rate-forecast-3753f968?mod=mw_rss_topstories",
+      "published_at": "2026-11-11T10:37:00Z",
+      "fecha_evento": "2026-11-11",
+      "tickers": [
+        "GS"
+      ]
     },
     {
-      "id": "china-superavit-comercial-1-billon",
+      "id": "china-superavit-comercial",
       "type": "economia",
-      "title": "China acumuló un superávit comercial de más de 1 billón de dólares por segundo año consecutivo",
-      "summary": "El superávit comercial de China superó el billón de dólares hasta octubre, lo que genera presiones de sus socios comerciales, que reclaman que el país rebalancee su economía y consuma más internamente.",
-      "detail": "Un superávit comercial gigante significa que China exporta muchísimo más de lo que importa, inundando el mundo con productos baratos. Esto genera tensiones con socios como EE.UU. y Europa, que pueden responder con aranceles o barreras comerciales. Para Argentina, que también exporta commodities, el nivel de actividad de China es clave: si China crece y consume más, demanda más materias primas.",
+      "title": "El superávit comercial de China superó el billón de dólares por segundo año seguido",
+      "summary": "El excedente comercial de China acumulado hasta octubre volvió a superar el billón de dólares, generando tensiones con socios comerciales que se quejan por la inundación de productos chinos baratos.",
+      "detail": "Un superávit tan grande significa que China exporta muchísimo más de lo que importa, lo que puede derivar en guerras comerciales, aranceles y represalias de otros países. Esto afecta las cadenas globales de suministro y los precios de los productos, con impacto directo en la inflación mundial y en los mercados financieros.",
       "tags": [
         "China",
         "comercio",
@@ -56,8 +58,8 @@
       "id": "china-inflacion-mayorista",
       "type": "economia",
       "title": "La inflación mayorista de China llegó a su nivel más alto en más de cuatro años",
-      "summary": "El índice de precios al productor (PPI) de China subió 5,7% en octubre, superando el 5,3% que esperaban los analistas, mientras que la inflación al consumidor se desaceleró.",
-      "detail": "El PPI mide cuánto suben los precios en la fábrica, antes de llegar al consumidor final. Cuando sube fuerte, puede anticipar mayor inflación global porque China es el mayor exportador del mundo: lo que se encarece allá termina llegando más caro a todos los mercados. Este dato es relevante para entender las presiones inflacionarias que enfrentan las economías de todo el mundo.",
+      "summary": "El índice de precios al productor (PPI) de China subió 5,7% en octubre, superando las expectativas del mercado, mientras que la inflación al consumidor se desaceleró.",
+      "detail": "El PPI chino es un indicador clave porque China es la fábrica del mundo: cuando los precios mayoristas suben allí, eventualmente eso se traslada al costo de los productos en todo el planeta. Una inflación mayorista alta en China puede presionar al alza los precios globales, complicando la lucha contra la inflación en otros países.",
       "tags": [
         "China",
         "inflación",
@@ -70,68 +72,15 @@
       "tickers": []
     },
     {
-      "id": "fed-riesgo-suba-tasas-2027",
-      "type": "discurso",
-      "title": "Un economista advierte que la Fed podría subir tasas agresivamente en 2027",
-      "summary": "El economista Neil Dutta advirtió que la Reserva Federal es demasiado optimista sobre su capacidad de controlar la inflación, y que los mercados subestiman el riesgo de subas de tasas más agresivas el año que viene.",
-      "detail": "Cuando un economista reconocido advierte que la Fed puede equivocarse en su diagnóstico, los mercados lo toman en serio. Tasas más altas de lo esperado en EE.UU. encarecen el dólar y el crédito global, lo que presiona a las economías emergentes. Aprender a leer estas señales anticipadas ayuda a entender movimientos en el mercado antes de que ocurran.",
-      "tags": [
-        "Fed",
-        "tasas",
-        "riesgo"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/an-overzealous-fed-is-quickly-becoming-the-biggest-risk-to-stocks-in-2027-ba28e51d?mod=mw_rss_topstories",
-      "published_at": "2026-11-10T20:27:00Z",
-      "fecha_evento": "2026-11-10",
-      "tickers": []
-    },
-    {
-      "id": "anthropic-ipo-1-billon",
-      "type": "empresa",
-      "title": "Anthropic prepara su salida a bolsa con una valuación de más de 1 billón de dólares",
-      "summary": "La empresa de inteligencia artificial Anthropic anunció formalmente los términos de su OPV (oferta pública de venta), apuntando a recaudar hasta 63.000 millones de dólares en una salida a bolsa esperada para la semana que viene.",
-      "detail": "Una IPO (salida a bolsa) de este tamaño sería una de las más grandes de la historia y marcaría el termómetro del apetito inversor por empresas de inteligencia artificial. Cuando una compañía de IA se valúa en un billón de dólares, da señales sobre cuánto confía el mercado en el futuro del sector. Para quien aprende finanzas, es un ejemplo claro de cómo el mercado precio expectativas futuras, no solo resultados actuales.",
-      "tags": [
-        "IA",
-        "IPO",
-        "tecnología"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-      "published_at": "2026-11-10T19:47:00Z",
-      "fecha_evento": "2026-11-10",
-      "tickers": []
-    },
-    {
-      "id": "nvidia-exportaciones-china",
-      "type": "empresa",
-      "title": "Nvidia podría enfrentar reglas más estrictas para vender chips a China",
-      "summary": "Crece el impulso en el Congreso de EE.UU. para endurecer los controles de exportación de chips de Nvidia hacia China, en medio de un escándalo relacionado con su CEO Jensen Huang.",
-      "detail": "Las restricciones de exportación limitan cuánto puede vender una empresa en mercados extranjeros clave. Para Nvidia, China es un mercado enorme, y perder acceso a él afectaría directamente sus ingresos y, por ende, su valuación bursátil. Este tipo de riesgo regulatorio es un factor que los inversores deben considerar al analizar empresas tecnológicas expuestas a tensiones geopolíticas.",
-      "tags": [
-        "Nvidia",
-        "chips",
-        "regulación"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
-      "published_at": "2026-11-10T20:37:00Z",
-      "fecha_evento": "2026-11-10",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
       "id": "pepsico-despidos",
       "type": "empresa",
       "title": "PepsiCo recortará alrededor de 1.000 empleos en Norteamérica",
-      "summary": "PepsiCo anunció que eliminará unos 1.000 puestos de trabajo en Norteamérica mientras busca reducir costos y reactivar sus ventas en su mercado principal.",
-      "detail": "Cuando una empresa grande como PepsiCo recorta empleos, suele ser una señal de que enfrenta presión en sus márgenes o caída en la demanda. Para quien aprende finanzas, es un ejemplo de cómo las compañías ajustan su estructura de costos cuando el negocio no crece al ritmo esperado. También refleja el impacto que la inflación sostenida tiene en el consumo masivo.",
+      "summary": "PepsiCo anunció que eliminará cerca de 1.000 puestos de trabajo en Norteamérica mientras busca reducir costos y reactivar sus ventas en el mercado local.",
+      "detail": "Cuando una empresa grande como PepsiCo recorta personal, suele ser señal de que enfrenta presión en sus márgenes de ganancia o caída en las ventas. Este tipo de decisiones impacta en el precio de la acción y sirve como indicador del estado de consumo en EE.UU., que es el motor más grande de la economía mundial.",
       "tags": [
-        "PepsiCo",
-        "despidos",
-        "consumo"
+        "consumo",
+        "empleo",
+        "empresas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
@@ -142,14 +91,33 @@
       ]
     },
     {
-      "id": "goldman-ai-financiamiento",
-      "type": "discurso",
-      "title": "El CEO de Goldman Sachs dice que el financiamiento de IA sigue fuerte pese a la volatilidad del mercado",
-      "summary": "David Solomon, CEO de Goldman Sachs, afirmó que el apetito inversor por infraestructura de inteligencia artificial se mantiene sólido, aunque hay una corrección en las acciones del sector y cierta incertidumbre política en torno a los data centers.",
-      "detail": "Cuando el CEO de uno de los bancos más influyentes del mundo dice que el dinero sigue fluyendo hacia la IA, es una señal importante sobre hacia dónde apuntan las grandes inversiones. Goldman Sachs financia proyectos enormes, por lo que su perspectiva refleja el estado real del mercado de capitales. Este tipo de declaraciones mueve expectativas y puede influir en los precios de acciones tecnológicas.",
+      "id": "boeing-recortes",
+      "type": "empresa",
+      "title": "Boeing recortará el 5% de los trabajadores de aviones comerciales",
+      "summary": "Boeing anunció una reducción de personal en su división de aviones comerciales mientras la empresa intenta estabilizar la producción del 737 Max, que está demorando más de lo esperado.",
+      "detail": "Boeing es uno de los mayores exportadores industriales de EE.UU. y sus problemas de producción tienen efecto cascada en proveedores y aerolíneas de todo el mundo. Las dificultades persistentes de la compañía ilustran cómo las cadenas de suministro complejas pueden convertirse en un riesgo financiero de largo plazo para inversores.",
       "tags": [
+        "Boeing",
+        "industria",
+        "empleo"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
+      "published_at": "2026-11-09T19:35:58Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "BA"
+      ]
+    },
+    {
+      "id": "goldman-ia-financiamiento",
+      "type": "discurso",
+      "title": "El CEO de Goldman Sachs dice que el financiamiento de IA sigue fuerte pese a la volatilidad",
+      "summary": "David Solomon, CEO de Goldman Sachs, afirmó que el apetito inversor por infraestructura de inteligencia artificial se mantiene sólido a pesar de la caída reciente en acciones del sector y la incertidumbre política en torno a los data centers.",
+      "detail": "Cuando el CEO de uno de los bancos de inversión más influyentes del mundo habla sobre tendencias de financiamiento, el mercado lo toma como una señal sobre hacia dónde va el dinero grande. La IA es hoy uno de los sectores que más capital atrae globalmente, y su financiamiento sostenido implica que las valuaciones de empresas del sector podrían seguir altas pese a la volatilidad reciente.",
+      "tags": [
+        "inteligencia artificial",
         "Goldman Sachs",
-        "IA",
         "inversión"
       ],
       "source_name": "CNBC",
@@ -161,22 +129,41 @@
       ]
     },
     {
-      "id": "alphabet-gemini-4-carbon",
+      "id": "coreweave-financiamiento",
       "type": "empresa",
-      "title": "Google lanzó Gemini 4 Carbon, su nuevo modelo de IA para tareas complejas",
-      "summary": "Alphabet comenzó a distribuir Gemini 4 Carbon, un nuevo modelo de inteligencia artificial diseñado para programación avanzada, investigación científica y tareas de razonamiento complejo.",
-      "detail": "El lanzamiento de nuevos modelos de IA por parte de las grandes tecnológicas es una señal de la carrera que existe en el sector. Para los inversores, cada avance de Google en IA tiene implicancias en su valuación y en la competencia con rivales como OpenAI y Anthropic. Seguir estos lanzamientos ayuda a entender qué empresas están mejor posicionadas en una de las industrias de mayor crecimiento actual.",
+      "title": "La acción de CoreWeave subió tras superar expectativas y anunciar prepagos por USD 9.000 millones",
+      "summary": "CoreWeave reportó ingresos por encima de lo esperado en el tercer trimestre y anunció USD 9.000 millones en prepagos planificados, lo que redujo las preocupaciones sobre su nivel de deuda.",
+      "detail": "CoreWeave es una empresa clave en la infraestructura de computación para inteligencia artificial. Su capacidad de generar ingresos y prepagar deuda es una señal positiva para el mercado, ya que despeja dudas sobre su sustentabilidad financiera en un sector donde las inversiones son enormes y los riesgos también.",
       "tags": [
-        "Google",
-        "IA",
-        "tecnología"
+        "inteligencia artificial",
+        "tecnología",
+        "deuda"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/alphabet-rolls-out-gemini-4-carbon-complex-ai-tasks-and-advanced-reasoning",
-      "published_at": "2026-11-10T21:35:29Z",
-      "fecha_evento": "2026-11-10",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "published_at": "2026-11-11T11:27:00Z",
+      "fecha_evento": "2026-11-11",
       "tickers": [
-        "GOOGL"
+        "CRWV"
+      ]
+    },
+    {
+      "id": "eli-lilly-foundayo",
+      "type": "empresa",
+      "title": "Eli Lilly presentará su pastilla contra la obesidad para apnea del sueño antes de fin de año",
+      "summary": "Un ensayo clínico avanzado mostró que Foundayo, la pastilla diaria de Eli Lilly para la obesidad, también mejora la apnea del sueño moderada a severa, y la compañía planea pedir aprobación en EE.UU. antes de fin de 2026.",
+      "detail": "El mercado de medicamentos para la obesidad es uno de los de mayor crecimiento en la industria farmacéutica global. Cada nueva indicación aprobada para un fármaco amplía su mercado potencial y puede impulsar significativamente los ingresos futuros de la empresa, lo que se refleja directamente en su valuación bursátil.",
+      "tags": [
+        "farmacéutica",
+        "obesidad",
+        "aprobación"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
+      "published_at": "2026-11-09T14:30:01Z",
+      "fecha_evento": "2026-11-09",
+      "tickers": [
+        "LLY"
       ]
     }
   ],
@@ -207,9 +194,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 73.777",
-      "valor_num": 73777.0,
-      "delta_pct": -1.55
+      "valor": "US$ 73.940",
+      "valor_num": 73940.0,
+      "delta_pct": -0.54
     },
     {
       "label": "S&P 500",
@@ -219,9 +206,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 4.039",
-      "valor_num": 4039.4,
-      "delta_pct": -1.8
+      "valor": "US$ 4.056",
+      "valor_num": 4055.8,
+      "delta_pct": -0.47
     }
   ]
 }
