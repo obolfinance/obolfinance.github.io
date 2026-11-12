@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-12T12:01:21.494364+00:00",
+  "generated_at": "2026-11-12T22:01:09.474166+00:00",
   "items": [
     {
       "id": "uk-gdp-q3-2026",
       "type": "economia",
       "title": "La economía del Reino Unido creció 0,7% en el tercer trimestre",
-      "summary": "El PBI del Reino Unido se expandió 0,7% en el tercer trimestre de 2026, en línea con las estimaciones. La inteligencia artificial fue señalada como un motor adicional de crecimiento.",
-      "detail": "El crecimiento del PBI es uno de los indicadores más seguidos para medir la salud de una economía. Que el dato haya salido en línea con las estimaciones es una señal de estabilidad, y que se mencione a la IA como motor muestra cómo esta tecnología ya empieza a impactar en variables macroeconómicas reales, no solo en el mercado bursátil.",
+      "summary": "El PBI del Reino Unido se expandió un 0,7% en el tercer trimestre de 2026, en línea con las estimaciones. La inteligencia artificial fue señalada como un factor que aportó dinamismo al crecimiento.",
+      "detail": "El PBI es el principal indicador del tamaño y salud de una economía. Que el dato haya salido en línea con las estimaciones es importante porque no genera sorpresas en los mercados: cuando un dato confirma lo esperado, los inversores no necesitan ajustar bruscamente sus posiciones. La mención de la IA como motor de crecimiento muestra cómo la adopción tecnológica empieza a verse reflejada en datos macroeconómicos reales, algo que los mercados globales siguen de cerca.",
       "tags": [
         "PBI",
         "Reino Unido",
-        "inteligencia artificial"
+        "crecimiento"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
@@ -19,15 +19,54 @@
       "tickers": []
     },
     {
+      "id": "nvidia-liderazgo-crisis",
+      "type": "empresa",
+      "title": "La crisis de liderazgo en Nvidia pone en jaque su rol central en la economía de la IA",
+      "summary": "La salida de Jensen Huang como CEO de Nvidia generó una fuerte caída en la acción y preocupaciones sobre el impacto sistémico que podría tener la empresa dado su rol central en el ecosistema de inteligencia artificial.",
+      "detail": "Nvidia se convirtió en un nodo crítico del sistema financiero y tecnológico global porque sus chips son el insumo clave para entrenar modelos de IA. Esto la hace comparable a un banco central de la IA: si falla o tambalea, el impacto se propaga a muchas otras empresas que dependen de ella. Para alguien que aprende finanzas, este caso ilustra el concepto de riesgo sistémico: cuando una sola empresa o institución es tan central que su caída puede generar daños en cadena sobre toda una industria o mercado.",
+      "tags": [
+        "Nvidia",
+        "riesgo sistémico",
+        "IA"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "published_at": "2026-11-12T17:39:54Z",
+      "fecha_evento": "2026-11-11",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "nvidia-selloff-sp500",
+      "type": "mercado",
+      "title": "El S&P 500 aguanta pese a la caída de Nvidia, que ya bajó 30% desde su pico",
+      "summary": "Mientras Nvidia acumula una caída del 30% desde su máximo, el resto del mercado estadounidense logró mantenerse a flote, con inversores buscando oportunidades en otras acciones.",
+      "detail": "Este episodio muestra un concepto clave: la diversificación. Un índice como el S&P 500 incluye 500 empresas, así que la caída de una sola —aunque sea grande— no necesariamente arrastra a todo el mercado. Además, que los analistas vean más volatilidad por delante en Nvidia ilustra cómo una acción puede lucir 'barata' en papel pero seguir siendo riesgosa si la incertidumbre sobre la empresa no se resolvió.",
+      "tags": [
+        "Nvidia",
+        "S&P 500",
+        "volatilidad"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
+      "published_at": "2026-11-12T19:15:00Z",
+      "fecha_evento": "2026-11-12",
+      "tickers": [
+        "NVDA",
+        "SPY"
+      ]
+    },
+    {
       "id": "cpi-octubre-2026",
       "type": "economia",
-      "title": "La inflación de EE.UU. subió 0,4% en octubre, más de lo esperado",
-      "summary": "Los precios al consumidor en Estados Unidos subieron 0,4% en octubre, por encima de lo que esperaba el mercado. El dato complica la decisión de la Reserva Federal sobre las tasas de interés.",
-      "detail": "Cuando la inflación sorprende al alza, los mercados suelen ajustar sus expectativas sobre cuándo y cuánto va a bajar las tasas la Fed. Tasas más altas por más tiempo encarecen el crédito en todo el mundo y suelen apreciar al dólar, lo que tiene impacto directo en economías como la argentina que dependen del financiamiento externo.",
+      "title": "La inflación en EE.UU. subió más de lo esperado en octubre y complica a la Fed",
+      "summary": "Los precios al consumidor en Estados Unidos subieron 0,4% en octubre, por encima de lo que esperaba el mercado, en un momento clave en el que la Reserva Federal evalúa su próximo movimiento de tasas.",
+      "detail": "El índice de precios al consumidor (CPI) es uno de los datos más importantes para los mercados globales porque la Fed lo usa para decidir si sube, baja o mantiene las tasas de interés. Un dato de inflación más alto de lo esperado reduce las chances de que la Fed baje las tasas pronto, lo que encarece el crédito y suele presionar a la baja a las acciones y bonos. Para Argentina esto importa porque las tasas de EE.UU. afectan el costo de financiamiento de los países emergentes y el flujo de capitales globales.",
       "tags": [
         "inflación",
         "Fed",
-        "tasas de interés"
+        "tasas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
@@ -36,15 +75,32 @@
       "tickers": []
     },
     {
-      "id": "china-superavit-comercial-2026",
+      "id": "bonos-fed-rendimientos",
+      "type": "mercado",
+      "title": "El mercado de bonos teme más subas de tasas de la Fed tras el dato de inflación",
+      "summary": "Los rendimientos de los bonos del Tesoro de EE.UU. subieron porque los inversores ahora temen que la Fed pueda volver a subir tasas, superando incluso el impacto que tuvo la crisis de Nvidia en los mercados.",
+      "detail": "Cuando sube la inflación por encima de lo esperado, el mercado ajusta sus expectativas: si la Fed tiene que subir tasas o mantenerlas altas por más tiempo, los bonos existentes pierden valor y sus rendimientos suben. Esto es el mecanismo inverso precio-rendimiento de los bonos, uno de los conceptos más importantes para entender renta fija. Además, tasas altas en EE.UU. hacen que invertir en bonos del Tesoro sea más atractivo frente a activos de mayor riesgo, afectando a mercados emergentes como Argentina.",
+      "tags": [
+        "bonos",
+        "Fed",
+        "tasas"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+      "published_at": "2026-11-12T20:44:00Z",
+      "fecha_evento": "2026-11-12",
+      "tickers": []
+    },
+    {
+      "id": "china-superavit-comercial",
       "type": "economia",
       "title": "El superávit comercial de China superó el billón de dólares por segundo año consecutivo",
-      "summary": "El superávit de comercio exterior de China ya supera el billón de dólares acumulado hasta octubre, lo que genera tensiones con sus socios comerciales preocupados por la inundación de productos chinos baratos.",
-      "detail": "Un superávit comercial tan grande significa que China exporta mucho más de lo que importa, lo que genera presión en otros países que ven amenazada su industria local. Esto puede desembocar en aranceles o represalias comerciales, afectando el comercio global y los precios de materias primas que exporta Argentina.",
+      "summary": "El superávit comercial de China acumulado hasta octubre superó el billón de dólares por segundo año seguido, en medio de críticas de sus socios comerciales por el exceso de exportaciones de productos baratos.",
+      "detail": "Un superávit comercial tan grande significa que China exporta mucho más de lo que importa, lo que genera tensiones diplomáticas y comerciales con EE.UU., Europa y otros países. Estos conflictos pueden derivar en aranceles o barreras comerciales que afectan los flujos de comercio global y el precio de materias primas, algo que impacta directamente en economías exportadoras como la argentina. También es un indicador de la enorme capacidad productiva china y de la debilidad de su consumo interno.",
       "tags": [
         "China",
         "comercio",
-        "superávit"
+        "exportaciones"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
@@ -53,53 +109,15 @@
       "tickers": []
     },
     {
-      "id": "nvidia-riesgo-sistemico",
-      "type": "empresa",
-      "title": "Nvidia: ¿es demasiado grande para caer? Su red de financiamiento de IA genera alarmas",
-      "summary": "El entramado de vínculos financieros de Nvidia con otras empresas lleva a algunos analistas a plantear si su caída podría generar daños económicos y financieros de gran alcance.",
-      "detail": "Cuando una empresa se vuelve tan central en el sistema financiero que su quiebra o crisis podría arrastrar a otras, se habla de riesgo sistémico, el mismo concepto que se usó con los bancos en 2008. Entender este mecanismo es clave para cualquier inversor: la concentración en pocos actores tecnológicos puede crear vulnerabilidades inesperadas en los mercados globales.",
-      "tags": [
-        "Nvidia",
-        "riesgo sistémico",
-        "inteligencia artificial"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published_at": "2026-11-11T22:59:33Z",
-      "fecha_evento": "2026-11-11",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "nvidia-megaspeed-escandalo",
-      "type": "empresa",
-      "title": "Megaspeed, la empresa en el centro del escándalo de Nvidia, rompió el silencio",
-      "summary": "La compañía singapurense Megaspeed, involucrada en el escándalo que rodea a Nvidia, emitió su primer comunicado público desde que estalló el caso.",
-      "detail": "Los escándalos corporativos que involucran a empresas de gran peso como Nvidia pueden generar movimientos bruscos en sus acciones y en las de sus socios. Seguir cómo las empresas gestionan su comunicación en momentos de crisis es una lección práctica sobre riesgo reputacional y su impacto en los mercados.",
-      "tags": [
-        "Nvidia",
-        "escándalo",
-        "riesgo corporativo"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/heres-what-megaspeed-the-company-at-the-forefront-of-the-nvidia-scandal-is-now-saying-b73f8d0b?mod=mw_rss_topstories",
-      "published_at": "2026-11-12T10:57:00Z",
-      "fecha_evento": "2026-11-12",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "ventas-minoristas-octubre-2026",
+      "id": "ventas-minoristas-octubre",
       "type": "economia",
-      "title": "Las ventas minoristas en EE.UU. crecieron al ritmo más lento en casi un año",
-      "summary": "Las ventas minoristas de octubre subieron al menor ritmo en casi un año, mostrando señales de que los consumidores estadounidenses sienten el peso de los precios altos.",
-      "detail": "El consumo privado es el principal motor de la economía de EE.UU. Cuando el gasto de los hogares se frena, puede anticipar una desaceleración económica más amplia. Este dato, combinado con la inflación más alta de lo esperado, pone a la Fed en una posición difícil: subir tasas para bajar inflación pero con riesgo de frenar aún más el consumo.",
+      "title": "Las ventas minoristas en EE.UU. crecieron al ritmo más lento en casi un año en octubre",
+      "summary": "Las ventas minoristas en Estados Unidos subieron en octubre al menor ritmo en casi un año, con señales de que el consumidor americano está bajo presión por los precios altos.",
+      "detail": "El consumo privado es el principal motor de la economía estadounidense, así que cuando las ventas minoristas se desaceleran es una señal de alerta. Si el consumidor gasta menos, las empresas venden menos y pueden recortar empleos o inversión. Para los mercados, este dato suma al debate sobre si la economía de EE.UU. se está enfriando, lo cual influye en las expectativas sobre las decisiones de la Fed y en el humor global de los inversores.",
       "tags": [
         "consumo",
-        "ventas minoristas",
-        "EE.UU."
+        "EE.UU.",
+        "ventas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
@@ -108,15 +126,34 @@
       "tickers": []
     },
     {
-      "id": "pepsico-despidos-2026",
+      "id": "applied-materials-q4",
       "type": "empresa",
-      "title": "PepsiCo recortará alrededor de 1.000 empleos en Norteamérica",
-      "summary": "PepsiCo anunció que eliminará cerca de 1.000 puestos de trabajo en América del Norte mientras busca reducir costos y reactivar sus ventas en ese mercado.",
-      "detail": "Los recortes de personal en empresas grandes suelen ser una señal de que la compañía está bajo presión financiera o busca mejorar su rentabilidad. Para un inversor, estos anuncios pueden mover el precio de la acción: a veces suben porque el mercado lo ve como mayor eficiencia, y a veces bajan si se interpreta como señal de problemas más profundos.",
+      "title": "Applied Materials reportó un salto del 43% en sus ganancias del cuarto trimestre",
+      "summary": "Applied Materials, proveedor clave de equipos para fabricar semiconductores, registró un fuerte aumento en sus ganancias del cuarto trimestre impulsado por la alta demanda relacionada con la inversión en inteligencia artificial.",
+      "detail": "Applied Materials es una empresa que fabrica el equipamiento que se usa para producir chips, así que sus resultados funcionan como un termómetro de la inversión en semiconductores a nivel global. Un salto del 43% en ganancias muestra que la demanda de infraestructura para IA sigue siendo muy fuerte, más allá de los problemas puntuales de Nvidia. Para quien aprende finanzas, este caso ilustra cómo identificar empresas que se benefician indirectamente de una tendencia grande como la IA.",
+      "tags": [
+        "semiconductores",
+        "IA",
+        "ganancias"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/applied-materials-q4-profit-jumps-43",
+      "published_at": "2026-11-12T21:32:16Z",
+      "fecha_evento": "2026-11-12",
+      "tickers": [
+        "AMAT"
+      ]
+    },
+    {
+      "id": "pepsico-recorte-empleos",
+      "type": "empresa",
+      "title": "PepsiCo anunció el recorte de alrededor de 1.000 empleos en Norteamérica",
+      "summary": "PepsiCo planea eliminar aproximadamente 1.000 puestos de trabajo en América del Norte mientras busca reducir costos y reactivar sus ventas en su mercado principal.",
+      "detail": "Cuando una empresa grande como PepsiCo recorta empleos, generalmente es porque sus ventas o márgenes están bajo presión y necesita bajar su estructura de costos para mantener la rentabilidad. Este tipo de decisiones suele ser bien recibido por los mercados en el corto plazo porque mejora las perspectivas de ganancias, aunque tiene un impacto negativo en el empleo. Es un ejemplo clásico de cómo las empresas ajustan su operación ante un contexto económico difícil.",
       "tags": [
         "PepsiCo",
-        "despidos",
-        "consumo masivo"
+        "empleo",
+        "reestructuración"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
@@ -124,63 +161,6 @@
       "fecha_evento": "2026-11-09",
       "tickers": [
         "PEP"
-      ]
-    },
-    {
-      "id": "boeing-recortes-2026",
-      "type": "empresa",
-      "title": "Boeing reducirá el 5% de sus trabajadores de aviones comerciales",
-      "summary": "Boeing anunció que recortará el 5% de su personal en la división de aviones comerciales, en medio de demoras para aumentar la producción del 737 Max.",
-      "detail": "Boeing sigue enfrentando dificultades para recuperar su ritmo de producción tras años de problemas. Los recortes de empleados en manufactura pueden indicar que la empresa prefiere ajustar costos antes de resolver sus cuellos de botella productivos, lo cual es una señal de alerta para inversores que siguen la recuperación de la compañía.",
-      "tags": [
-        "Boeing",
-        "despidos",
-        "aviación"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html",
-      "published_at": "2026-11-09T19:35:58Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": [
-        "BA"
-      ]
-    },
-    {
-      "id": "goldman-ai-financing-2026",
-      "type": "discurso",
-      "title": "El CEO de Goldman Sachs dice que el financiamiento en IA sigue fuerte pese a la volatilidad",
-      "summary": "David Solomon, CEO de Goldman Sachs, afirmó que el apetito de los inversores por la infraestructura de inteligencia artificial se mantiene sólido a pesar de la caída en acciones de IA y la incertidumbre política en torno a los centros de datos.",
-      "detail": "Cuando el CEO de uno de los bancos más influyentes del mundo hace declaraciones sobre el estado de un sector, el mercado lo toma como una señal relevante. Que Goldman vea demanda robusta en infraestructura de IA sugiere que el dinero institucional sigue apostando al sector, aunque las acciones hayan tenido una corrección.",
-      "tags": [
-        "Goldman Sachs",
-        "inteligencia artificial",
-        "financiamiento"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
-      "published_at": "2026-11-09T18:14:47Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": [
-        "GS"
-      ]
-    },
-    {
-      "id": "honda-planta-ohio-2026",
-      "type": "empresa",
-      "title": "Honda invertirá USD 3.000 millones en una nueva planta en Ohio enfocada en híbridos",
-      "summary": "Honda anunció una inversión de 3.000 millones de dólares para construir una planta de ensamblaje en Ohio, enfocada en vehículos híbridos, con producción prevista para 2029.",
-      "detail": "Las grandes inversiones en manufactura son indicadores del rumbo de una industria: Honda apuesta por los híbridos como puente entre los autos a combustión y los eléctricos. Para inversores, este tipo de anuncios puede impactar en la cotización de la empresa y en la de sus proveedores de baterías y componentes.",
-      "tags": [
-        "Honda",
-        "inversión",
-        "vehículos híbridos"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
-      "published_at": "2026-11-09T18:59:43Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": [
-        "HMC"
       ]
     }
   ],
@@ -193,39 +173,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.570",
-      "valor_num": 1570.0,
-      "delta_pct": 0.96
+      "valor": "$1.565",
+      "valor_num": 1565.0,
+      "delta_pct": 0.64
     },
     {
       "label": "MEP",
-      "valor": "$1.578",
-      "valor_num": 1578.3,
-      "delta_pct": -0.6
+      "valor": "$1.574",
+      "valor_num": 1573.8,
+      "delta_pct": -0.89
     },
     {
       "label": "CCL",
-      "valor": "$1.665",
-      "valor_num": 1664.9,
-      "delta_pct": 0.0
+      "valor": "$1.668",
+      "valor_num": 1668.4,
+      "delta_pct": 0.21
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 72.853",
-      "valor_num": 72853.0,
-      "delta_pct": -1.48
+      "valor": "US$ 71.510",
+      "valor_num": 71510.0,
+      "delta_pct": -3.79
     },
     {
       "label": "S&P 500",
-      "valor": "7.619",
-      "valor_num": 7619.38,
-      "delta_pct": -0.9
+      "valor": "7.592",
+      "valor_num": 7592.4,
+      "delta_pct": 3.25
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.952",
-      "valor_num": 3952.0,
-      "delta_pct": -3.95
+      "valor": "US$ 3.880",
+      "valor_num": 3880.2,
+      "delta_pct": -5.69
     }
   ]
 }
