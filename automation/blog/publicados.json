@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "corrida-bancaria-como-funciona",
+      "titulo": "Corridas bancarias: por qué un banco sano puede caer en tres días",
+      "bajada": "Un banco puede ser solvente y caer igual. La corrida bancaria explicada sin tecnicismos: por qué pasa, cómo se frena y qué significa para vos.",
+      "categoria": "Crisis",
+      "mundo": "crisis",
+      "fecha": "2026-11-13"
+    },
+    {
       "slug": "ccl-mas-caro-que-el-mep-que-significa",
       "titulo": "El CCL está más caro que el MEP: qué dice esa diferencia",
       "bajada": "MEP y CCL se arman casi con la misma operación, pero no cuestan lo mismo. La diferencia mide algo concreto: cuánto se paga por sacar la plata del país.",
