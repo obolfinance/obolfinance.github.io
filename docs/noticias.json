@@ -1,16 +1,50 @@
 {
-  "generated_at": "2026-11-12T22:01:09.474166+00:00",
+  "generated_at": "2026-11-13T12:01:11.279465+00:00",
   "items": [
+    {
+      "id": "fed-inflation-rate-hike-nov2026",
+      "type": "economia",
+      "title": "La Fed ya no piensa en bajar tasas: vuelve el fantasma de la suba",
+      "summary": "La inflación de octubre en EE.UU. subió 0,4% en el mes, más de lo esperado, y ahora la Reserva Federal se prepara para retomar la lucha contra la inflación en lugar de seguir bajando tasas.",
+      "detail": "Cuando la inflación sorprende al alza, la Fed tiene que replantearse su política monetaria: si baja tasas con precios subiendo, puede avivar aún más la inflación. Este giro cambia las expectativas del mercado global — las tasas altas en EE.UU. fortalecen al dólar y encarecen el crédito internacional, lo que impacta directamente en economías emergentes como Argentina.",
+      "tags": [
+        "inflación",
+        "tasas",
+        "Fed"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "published_at": "2026-11-13T11:31:10Z",
+      "fecha_evento": "2026-11-13",
+      "tickers": []
+    },
+    {
+      "id": "bond-yields-surge-fed-hike-nov2026",
+      "type": "mercado",
+      "title": "Los bonos del Tesoro tuvieron su mayor suba de rendimientos desde 2022",
+      "summary": "Los rendimientos de los bonos estadounidenses pegaron su mayor salto desde 2022, impulsados por las expectativas crecientes de que la Fed vuelva a subir las tasas de interés.",
+      "detail": "Cuando se espera que las tasas suban, los precios de los bonos caen y sus rendimientos suben — esa es la relación inversa clave entre precio y yield. Una mayor volatilidad en los bonos del Tesoro de EE.UU. afecta a todos los mercados financieros del mundo, porque esos bonos son la referencia de tasa 'libre de riesgo' global. Además, el artículo señala que el estilo de comunicación del presidente de la Fed, Warsh, genera más incertidumbre y volatilidad.",
+      "tags": [
+        "bonos",
+        "tasas",
+        "Fed"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+      "published_at": "2026-11-12T22:16:00Z",
+      "fecha_evento": "2026-11-12",
+      "tickers": []
+    },
     {
       "id": "uk-gdp-q3-2026",
       "type": "economia",
-      "title": "La economía del Reino Unido creció 0,7% en el tercer trimestre",
-      "summary": "El PBI del Reino Unido se expandió un 0,7% en el tercer trimestre de 2026, en línea con las estimaciones. La inteligencia artificial fue señalada como un factor que aportó dinamismo al crecimiento.",
-      "detail": "El PBI es el principal indicador del tamaño y salud de una economía. Que el dato haya salido en línea con las estimaciones es importante porque no genera sorpresas en los mercados: cuando un dato confirma lo esperado, los inversores no necesitan ajustar bruscamente sus posiciones. La mención de la IA como motor de crecimiento muestra cómo la adopción tecnológica empieza a verse reflejada en datos macroeconómicos reales, algo que los mercados globales siguen de cerca.",
+      "title": "La economía del Reino Unido creció 0,7% en el tercer trimestre, con la IA como motor",
+      "summary": "El PBI del Reino Unido se expandió 0,7% en el tercer trimestre de 2026, en línea con las estimaciones, y la inteligencia artificial fue señalada como un nuevo motor de crecimiento.",
+      "detail": "El PBI (Producto Bruto Interno) mide cuánto produce un país en un período. Que el crecimiento sea 'en línea con estimaciones' es importante porque no genera sorpresas en los mercados: los precios ya lo tenían descontado. Que la IA aparezca como factor de crecimiento real muestra cómo esta tecnología empieza a tener impacto medible en las economías, más allá de la especulación bursátil.",
       "tags": [
         "PBI",
         "Reino Unido",
-        "crecimiento"
+        "inteligencia artificial"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
@@ -19,149 +53,110 @@
       "tickers": []
     },
     {
-      "id": "nvidia-liderazgo-crisis",
+      "id": "nvidia-crisis-liderazgo-nov2026",
       "type": "empresa",
-      "title": "La crisis de liderazgo en Nvidia pone en jaque su rol central en la economía de la IA",
-      "summary": "La salida de Jensen Huang como CEO de Nvidia generó una fuerte caída en la acción y preocupaciones sobre el impacto sistémico que podría tener la empresa dado su rol central en el ecosistema de inteligencia artificial.",
-      "detail": "Nvidia se convirtió en un nodo crítico del sistema financiero y tecnológico global porque sus chips son el insumo clave para entrenar modelos de IA. Esto la hace comparable a un banco central de la IA: si falla o tambalea, el impacto se propaga a muchas otras empresas que dependen de ella. Para alguien que aprende finanzas, este caso ilustra el concepto de riesgo sistémico: cuando una sola empresa o institución es tan central que su caída puede generar daños en cadena sobre toda una industria o mercado.",
+      "title": "La crisis de liderazgo en Nvidia pone en jaque al 'banco central de la IA'",
+      "summary": "La crisis interna en Nvidia, apodada el 'banco central de la inteligencia artificial', genera preocupación por el daño financiero que podría causar dado el nivel de dependencia que otras empresas tienen de la compañía.",
+      "detail": "Cuando una empresa tiene tanto peso en una industria que su caída puede arrastrar a otras, se habla de 'riesgo sistémico' — el mismo concepto que se usa para los grandes bancos. Nvidia ocupa ese rol en el ecosistema de la IA: si tambalea, muchas compañías que dependen de sus chips pueden verse afectadas. Entender este tipo de concentración de riesgo es clave para evaluar portafolios de inversión.",
       "tags": [
         "Nvidia",
-        "riesgo sistémico",
-        "IA"
+        "inteligencia artificial",
+        "riesgo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published_at": "2026-11-12T17:39:54Z",
-      "fecha_evento": "2026-11-11",
+      "published_at": "2026-11-12T23:08:50Z",
+      "fecha_evento": "2026-11-12",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "nvidia-selloff-sp500",
+      "id": "german-stocks-ai-fed-nov2026",
       "type": "mercado",
-      "title": "El S&P 500 aguanta pese a la caída de Nvidia, que ya bajó 30% desde su pico",
-      "summary": "Mientras Nvidia acumula una caída del 30% desde su máximo, el resto del mercado estadounidense logró mantenerse a flote, con inversores buscando oportunidades en otras acciones.",
-      "detail": "Este episodio muestra un concepto clave: la diversificación. Un índice como el S&P 500 incluye 500 empresas, así que la caída de una sola —aunque sea grande— no necesariamente arrastra a todo el mercado. Además, que los analistas vean más volatilidad por delante en Nvidia ilustra cómo una acción puede lucir 'barata' en papel pero seguir siendo riesgosa si la incertidumbre sobre la empresa no se resolvió.",
+      "title": "Las bolsas alemanas caen por la incertidumbre en IA y el miedo a más subas de tasas",
+      "summary": "Las acciones alemanas bajaron presionadas por la incertidumbre en torno al comercio de inteligencia artificial y por las expectativas de que la Fed suba tasas en diciembre.",
+      "detail": "Que las decisiones de la Fed afecten a las bolsas europeas muestra hasta qué punto la política monetaria de EE.UU. tiene alcance global. Los inversores en todo el mundo ajustan sus carteras cuando cambian las expectativas de tasas americanas, porque eso modifica el costo del dinero y el atractivo relativo de distintos activos.",
       "tags": [
-        "Nvidia",
-        "S&P 500",
-        "volatilidad"
+        "bolsas",
+        "tasas",
+        "Europa"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
-      "published_at": "2026-11-12T19:15:00Z",
-      "fecha_evento": "2026-11-12",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/german-stocks-weighed-ai-uncertainty-rate-hike-fears",
+      "published_at": "2026-11-13T11:03:21Z",
+      "fecha_evento": "2026-11-13",
+      "tickers": []
+    },
+    {
+      "id": "indian-shares-oil-yields-nov2026",
+      "type": "mercado",
+      "title": "Las bolsas de India cayeron con el petróleo arriba de US$96 y los rendimientos de bonos en alza",
+      "summary": "Las acciones indias cerraron la sesión del viernes con caídas notables: el petróleo Brent trepó por encima de los US$96 el barril y los rendimientos de los bonos globales subieron ante la expectativa de tasas altas por más tiempo.",
+      "detail": "El precio del petróleo y las tasas de interés son dos variables que afectan a todas las economías emergentes a la vez: el petróleo caro sube los costos de producción y transporte, mientras que tasas altas en EE.UU. atraen capitales hacia ese país y los sacan de mercados como India o Argentina. Ver cómo reaccionan otras economías emergentes puede dar pistas de lo que podría pasar en la nuestra.",
+      "tags": [
+        "petróleo",
+        "mercados emergentes",
+        "tasas"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/indian-shares-end-lower-oil-prices-yields-rebound",
+      "published_at": "2026-11-13T10:25:05Z",
+      "fecha_evento": "2026-11-13",
+      "tickers": []
+    },
+    {
+      "id": "exxon-dividend-buyback-2027",
+      "type": "empresa",
+      "title": "ExxonMobil subió su dividendo por 44° año seguido y planea recomprar US$20.000 millones en acciones en 2027",
+      "summary": "ExxonMobil anunció que aumentó su dividendo por 44° año consecutivo y que planea un programa de recompra de acciones por US$20.000 millones para 2027.",
+      "detail": "Las recompras de acciones (buybacks) son una forma que tienen las empresas de devolver dinero a sus accionistas: compran sus propias acciones en el mercado, lo que reduce la cantidad en circulación y suele subir el precio. Que ExxonMobil pueda mantener dividendos crecientes durante 44 años seguidos es una señal de solidez financiera y flujo de caja estable, algo que los inversores de largo plazo valoran mucho.",
+      "tags": [
+        "dividendos",
+        "energía",
+        "recompra de acciones"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/exxonmobil-raised-its-dividend-44th-straight-year-and-plans-20-billion-buybacks-2027-heres",
+      "published_at": "2026-11-13T11:35:00Z",
+      "fecha_evento": "2026-11-13",
       "tickers": [
-        "NVDA",
-        "SPY"
+        "XOM"
       ]
     },
     {
-      "id": "cpi-octubre-2026",
-      "type": "economia",
-      "title": "La inflación en EE.UU. subió más de lo esperado en octubre y complica a la Fed",
-      "summary": "Los precios al consumidor en Estados Unidos subieron 0,4% en octubre, por encima de lo que esperaba el mercado, en un momento clave en el que la Reserva Federal evalúa su próximo movimiento de tasas.",
-      "detail": "El índice de precios al consumidor (CPI) es uno de los datos más importantes para los mercados globales porque la Fed lo usa para decidir si sube, baja o mantiene las tasas de interés. Un dato de inflación más alto de lo esperado reduce las chances de que la Fed baje las tasas pronto, lo que encarece el crédito y suele presionar a la baja a las acciones y bonos. Para Argentina esto importa porque las tasas de EE.UU. afectan el costo de financiamiento de los países emergentes y el flujo de capitales globales.",
-      "tags": [
-        "inflación",
-        "Fed",
-        "tasas"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-      "published_at": "2026-11-10T23:53:58Z",
-      "fecha_evento": "2026-11-10",
-      "tickers": []
-    },
-    {
-      "id": "bonos-fed-rendimientos",
+      "id": "goldman-earnings-bull-market-2027",
       "type": "mercado",
-      "title": "El mercado de bonos teme más subas de tasas de la Fed tras el dato de inflación",
-      "summary": "Los rendimientos de los bonos del Tesoro de EE.UU. subieron porque los inversores ahora temen que la Fed pueda volver a subir tasas, superando incluso el impacto que tuvo la crisis de Nvidia en los mercados.",
-      "detail": "Cuando sube la inflación por encima de lo esperado, el mercado ajusta sus expectativas: si la Fed tiene que subir tasas o mantenerlas altas por más tiempo, los bonos existentes pierden valor y sus rendimientos suben. Esto es el mecanismo inverso precio-rendimiento de los bonos, uno de los conceptos más importantes para entender renta fija. Además, tasas altas en EE.UU. hacen que invertir en bonos del Tesoro sea más atractivo frente a activos de mayor riesgo, afectando a mercados emergentes como Argentina.",
+      "title": "Goldman Sachs: el crecimiento de ganancias se desacelera, pero el mercado alcista sigue",
+      "summary": "Según Goldman Sachs, el crecimiento de utilidades de las empresas del S&P 500 casi se reduce a la mitad en 2027, pero los mercados ya habrían descontado esa desaceleración y el bull market podría continuar.",
+      "detail": "Cuando los analistas dicen que el mercado 'ya descontó' algo, significa que los precios de las acciones ya reflejan esa expectativa — por eso una mala noticia no necesariamente hunde las cotizaciones. Goldman recomienda enfocarse en empresas que sigan creciendo con fuerza, porque cuando el crecimiento general escasea, las compañías que lo logran de todos modos se vuelven más valiosas y cotizadas.",
       "tags": [
-        "bonos",
-        "Fed",
-        "tasas"
+        "ganancias",
+        "Goldman Sachs",
+        "bolsa"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
-      "published_at": "2026-11-12T20:44:00Z",
-      "fecha_evento": "2026-11-12",
+      "source_url": "https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories",
+      "published_at": "2026-11-13T10:14:00Z",
+      "fecha_evento": "2026-11-13",
       "tickers": []
     },
     {
-      "id": "china-superavit-comercial",
+      "id": "retail-sales-october-2026",
       "type": "economia",
-      "title": "El superávit comercial de China superó el billón de dólares por segundo año consecutivo",
-      "summary": "El superávit comercial de China acumulado hasta octubre superó el billón de dólares por segundo año seguido, en medio de críticas de sus socios comerciales por el exceso de exportaciones de productos baratos.",
-      "detail": "Un superávit comercial tan grande significa que China exporta mucho más de lo que importa, lo que genera tensiones diplomáticas y comerciales con EE.UU., Europa y otros países. Estos conflictos pueden derivar en aranceles o barreras comerciales que afectan los flujos de comercio global y el precio de materias primas, algo que impacta directamente en economías exportadoras como la argentina. También es un indicador de la enorme capacidad productiva china y de la debilidad de su consumo interno.",
-      "tags": [
-        "China",
-        "comercio",
-        "exportaciones"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-      "published_at": "2026-11-10T10:24:13Z",
-      "fecha_evento": "2026-11-10",
-      "tickers": []
-    },
-    {
-      "id": "ventas-minoristas-octubre",
-      "type": "economia",
-      "title": "Las ventas minoristas en EE.UU. crecieron al ritmo más lento en casi un año en octubre",
-      "summary": "Las ventas minoristas en Estados Unidos subieron en octubre al menor ritmo en casi un año, con señales de que el consumidor americano está bajo presión por los precios altos.",
-      "detail": "El consumo privado es el principal motor de la economía estadounidense, así que cuando las ventas minoristas se desaceleran es una señal de alerta. Si el consumidor gasta menos, las empresas venden menos y pueden recortar empleos o inversión. Para los mercados, este dato suma al debate sobre si la economía de EE.UU. se está enfriando, lo cual influye en las expectativas sobre las decisiones de la Fed y en el humor global de los inversores.",
+      "title": "Las ventas minoristas en EE.UU. crecieron al ritmo más lento en casi un año",
+      "summary": "Las ventas al por menor de octubre subieron al ritmo más lento en casi un año en EE.UU., señal de que los consumidores empiezan a sentir el peso de los precios altos a pesar de seguir gastando.",
+      "detail": "El consumo privado es el motor más grande de la economía estadounidense: cuando los consumidores se retraen, eso puede enfriar la actividad. Sin embargo, una caída en el consumo también podría ayudar a bajar la inflación — lo que complica el análisis para la Fed, que tiene que equilibrar ambos objetivos. Para Argentina, una economía americana más débil puede reducir la demanda global y afectar los precios de exportaciones como la soja.",
       "tags": [
         "consumo",
-        "EE.UU.",
-        "ventas"
+        "inflación",
+        "EE.UU."
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
       "published_at": "2026-11-11T12:27:47Z",
       "fecha_evento": "2026-11-11",
       "tickers": []
-    },
-    {
-      "id": "applied-materials-q4",
-      "type": "empresa",
-      "title": "Applied Materials reportó un salto del 43% en sus ganancias del cuarto trimestre",
-      "summary": "Applied Materials, proveedor clave de equipos para fabricar semiconductores, registró un fuerte aumento en sus ganancias del cuarto trimestre impulsado por la alta demanda relacionada con la inversión en inteligencia artificial.",
-      "detail": "Applied Materials es una empresa que fabrica el equipamiento que se usa para producir chips, así que sus resultados funcionan como un termómetro de la inversión en semiconductores a nivel global. Un salto del 43% en ganancias muestra que la demanda de infraestructura para IA sigue siendo muy fuerte, más allá de los problemas puntuales de Nvidia. Para quien aprende finanzas, este caso ilustra cómo identificar empresas que se benefician indirectamente de una tendencia grande como la IA.",
-      "tags": [
-        "semiconductores",
-        "IA",
-        "ganancias"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/applied-materials-q4-profit-jumps-43",
-      "published_at": "2026-11-12T21:32:16Z",
-      "fecha_evento": "2026-11-12",
-      "tickers": [
-        "AMAT"
-      ]
-    },
-    {
-      "id": "pepsico-recorte-empleos",
-      "type": "empresa",
-      "title": "PepsiCo anunció el recorte de alrededor de 1.000 empleos en Norteamérica",
-      "summary": "PepsiCo planea eliminar aproximadamente 1.000 puestos de trabajo en América del Norte mientras busca reducir costos y reactivar sus ventas en su mercado principal.",
-      "detail": "Cuando una empresa grande como PepsiCo recorta empleos, generalmente es porque sus ventas o márgenes están bajo presión y necesita bajar su estructura de costos para mantener la rentabilidad. Este tipo de decisiones suele ser bien recibido por los mercados en el corto plazo porque mejora las perspectivas de ganancias, aunque tiene un impacto negativo en el empleo. Es un ejemplo clásico de cómo las empresas ajustan su operación ante un contexto económico difícil.",
-      "tags": [
-        "PepsiCo",
-        "empleo",
-        "reestructuración"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-      "published_at": "2026-11-09T23:31:17Z",
-      "fecha_evento": "2026-11-09",
-      "tickers": [
-        "PEP"
-      ]
     }
   ],
   "ticker": [
@@ -175,13 +170,13 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.565",
       "valor_num": 1565.0,
-      "delta_pct": 0.64
+      "delta_pct": -0.32
     },
     {
       "label": "MEP",
       "valor": "$1.574",
       "valor_num": 1573.8,
-      "delta_pct": -0.89
+      "delta_pct": -0.29
     },
     {
       "label": "CCL",
@@ -191,9 +186,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 71.510",
-      "valor_num": 71510.0,
-      "delta_pct": -3.79
+      "valor": "US$ 69.281",
+      "valor_num": 69281.0,
+      "delta_pct": -4.91
     },
     {
       "label": "S&P 500",
@@ -203,9 +198,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.880",
-      "valor_num": 3880.2,
-      "delta_pct": -5.69
+      "valor": "US$ 3.896",
+      "valor_num": 3895.7,
+      "delta_pct": -5.32
     }
   ]
 }
