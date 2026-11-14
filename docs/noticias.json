@@ -1,32 +1,15 @@
 {
-  "generated_at": "2026-11-14T12:01:26.600784+00:00",
+  "generated_at": "2026-11-14T22:00:51.017005+00:00",
   "items": [
     {
-      "id": "ppi-octubre-2026",
+      "id": "fed-ai-risks-financial-system",
       "type": "economia",
-      "title": "La inflación mayorista en EE.UU. subió 0,3% en octubre y acumula 6,5% anual",
-      "summary": "El índice de precios al productor (PPI) subió 0,3% en octubre, llevando la tasa anual al 6,5%, el nivel más alto en casi cuatro años. El dato estuvo levemente por debajo de la expectativa del mercado, que esperaba un alza de 0,4%.",
-      "detail": "El PPI mide cuánto suben los precios antes de llegar al consumidor final, así que es un adelanto de lo que puede pasar con la inflación minorista. Un PPI en 6,5% anual es una señal de que la presión inflacionaria sigue siendo fuerte en EE.UU., lo que complica la decisión de la Reserva Federal sobre si bajar las tasas de interés. Cuando la inflación no cede, los bancos centrales tienden a mantener o subir las tasas, lo que encarece el crédito y puede frenar la economía global.",
-      "tags": [
-        "inflación",
-        "Fed",
-        "tasas"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-      "published_at": "2026-11-13T15:44:16Z",
-      "fecha_evento": "2026-11-13",
-      "tickers": []
-    },
-    {
-      "id": "ai-riesgo-sistema-financiero-fed",
-      "type": "economia",
-      "title": "La Fed advierte que la IA es el mayor riesgo para el sistema financiero",
-      "summary": "Un informe de la Reserva Federal identificó a los riesgos vinculados a la inteligencia artificial como la principal amenaza para el sistema financiero, en un momento en que Wall Street está muy expuesto a las grandes empresas del sector.",
-      "detail": "Cuando la Fed publica un informe de estabilidad financiera y señala un riesgo específico, los mercados lo toman en serio porque puede anticipar regulaciones o cambios en cómo se supervisan ciertos sectores. La preocupación no es solo tecnológica: si las empresas de IA concentran demasiado poder o fallan, el impacto puede contagiarse a bancos, fondos y a la economía real. Este tipo de alertas son importantes para entender cómo los reguladores piensan el futuro del mercado.",
+      "title": "La Fed advierte: la IA es el mayor riesgo para el sistema financiero",
+      "summary": "Un informe de la Reserva Federal de EE.UU. identificó a los riesgos de la inteligencia artificial como la principal amenaza al sistema financiero, en un contexto donde Wall Street está muy expuesto a las grandes empresas de IA.",
+      "detail": "Que la Fed incluya a la IA como riesgo sistémico en su informe oficial es una señal importante: significa que los reguladores ya no ven esto como algo lejano, sino como una vulnerabilidad real. Para alguien que aprende finanzas, esto enseña que los bancos centrales monitorean no solo la inflación o las tasas, sino también concentraciones de riesgo en sectores emergentes. Si una parte crítica de la infraestructura de IA falla o colapsa, podría arrastrar a muchas empresas y fondos que dependen de ella.",
       "tags": [
         "inteligencia artificial",
-        "riesgo financiero",
+        "riesgo sistémico",
         "Fed"
       ],
       "source_name": "CNBC",
@@ -36,135 +19,94 @@
       "tickers": []
     },
     {
-      "id": "nvidia-crisis-liderazgo-jensen",
+      "id": "ppi-octubre-2026",
+      "type": "economia",
+      "title": "Los precios mayoristas en EE.UU. subieron 0,3% en octubre y la inflación anual llegó al 6,5%",
+      "summary": "El índice de precios al productor (PPI) subió 0,3% en octubre, llevando la tasa anual al 6,5%, el nivel más alto en casi cuatro años. El mercado esperaba una suba de 0,4%.",
+      "detail": "El PPI mide cuánto pagan las empresas por los insumos que usan para producir bienes y servicios. Cuando sube, suele anticipar que esos costos se van a trasladar a los precios finales que pagan los consumidores. Una inflación mayorista en máximos de cuatro años en EE.UU. es una señal que la Fed va a considerar para decidir si sube o mantiene las tasas de interés, lo que impacta en los mercados globales y en el dólar.",
+      "tags": [
+        "inflación",
+        "PPI",
+        "economía EEUU"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+      "published_at": "2026-11-13T15:44:16Z",
+      "fecha_evento": "2026-11-13",
+      "tickers": []
+    },
+    {
+      "id": "nvidia-crisis-liderazgo",
       "type": "empresa",
-      "title": "Nvidia pierde USD 573.000 millones de capitalización en seis semanas consecutivas de caída",
-      "summary": "Las acciones de Nvidia acumulan seis semanas seguidas de bajas, algo que no ocurría en 14 años, borrando unos USD 573.000 millones en valor de mercado. La crisis se aceleró tras la renuncia de su CEO Jensen Huang, que dejó el cargo después de reconocer una infidelidad con una mujer señalada como espía china.",
-      "detail": "Nvidia se convirtió en los últimos años en una de las empresas más importantes del mundo por su rol central en la infraestructura de IA. Cuando una compañía tan sistémica pierde a su líder histórico en medio de un escándalo, el mercado reacciona con incertidumbre porque no sabe si la estrategia va a continuar igual. La caída de Nvidia también arrastra a otros chips y tecnológicas, mostrando cómo una sola empresa puede mover sectores enteros.",
+      "title": "La crisis de liderazgo en Nvidia pone en duda su rol central en la economía de la IA",
+      "summary": "Jensen Huang renunció como CEO de Nvidia luego de reconocer una relación personal bajo escrutinio, y los analistas advierten que la enorme red de vínculos de la empresa con otras compañías podría generar daños económicos y financieros de gran alcance.",
+      "detail": "Nvidia se convirtió en una pieza tan central del ecosistema de IA que algunos la comparan con un banco central: si tambalea, muchas otras empresas y proyectos que dependen de sus chips también se ven afectados. Este caso muestra cómo el riesgo de una sola empresa puede volverse sistémico cuando su tecnología es indispensable para un sector entero. Para quien aprende finanzas, es un ejemplo claro de riesgo de concentración.",
       "tags": [
         "Nvidia",
-        "chips",
-        "liderazgo"
+        "CEO",
+        "riesgo tecnológico"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-      "published_at": "2026-11-13T22:21:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "published_at": "2026-11-12T23:08:50Z",
       "fecha_evento": "2026-11-13",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "nvidia-earnings-nov17",
-      "type": "reunion",
-      "title": "Nvidia presenta resultados el 17 de noviembre: primer gran test para la nueva conducción",
-      "summary": "El martes 17 de noviembre Nvidia publicará sus resultados trimestrales, que serán la primera gran prueba para Colette Kress, actual CFO y CEO interina tras la salida de Jensen Huang.",
-      "detail": "Los resultados de Nvidia mueven al mercado entero porque la empresa es vista como el termómetro del boom de la IA. Si los números decepcionan o la nueva conducción no convence, el impacto puede sentirse en todo el sector tecnológico y en los índices globales. Para alguien que aprende finanzas, este evento es un ejemplo claro de cómo los earnings reports pueden generar volatilidad y por qué el liderazgo de una empresa importa tanto como sus números.",
+      "id": "bessent-nvidia-china",
+      "type": "economia",
+      "title": "Bessent culpa al Departamento de Comercio por la filtración de chips de Nvidia a China",
+      "summary": "El secretario del Tesoro, Scott Bessent, criticó al Departamento de Comercio por permitir que chips de Nvidia lleguen a China, en medio de la crisis desatada por la renuncia del CEO Jensen Huang.",
+      "detail": "El control de exportación de tecnología avanzada es una herramienta geopolítica clave: EE.UU. intenta evitar que China acceda a chips de alta performance que podrían usarse para aplicaciones militares o de inteligencia artificial estratégica. Cuando hay fisuras en ese control, genera tensiones entre agencias del gobierno y puede afectar el valor de acciones como Nvidia. Este tipo de conflictos entre política exterior y negocios es cada vez más relevante para entender los mercados globales.",
       "tags": [
-        "Nvidia",
-        "resultados",
-        "IA"
+        "geopolítica",
+        "chips",
+        "exportaciones"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/should-you-buy-nvidia-stock-nov-17-0",
-      "published_at": "2026-11-14T11:05:02Z",
-      "fecha_evento": "2026-11-17",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+      "published_at": "2026-11-13T17:06:57Z",
+      "fecha_evento": "2026-11-13",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "anthropic-ipo-valuacion",
-      "type": "empresa",
-      "title": "Anthropic fija precio para su IPO y se valuaría en hasta USD 1,4 billones",
-      "summary": "La startup de IA Anthropic presentó un rango de precio para su salida a bolsa que la valuaría en hasta USD 1,4 billones en el extremo alto. Empresas como Nvidia, Alphabet, Microsoft y Micron ya confirmaron que participarán de la oferta.",
-      "detail": "Una IPO de esta magnitud es un evento financiero de primer orden: cuando una empresa tan grande debuta en bolsa, atrae capital de todo el mundo y puede hacer que inversores vendan otros activos para financiar su participación. De hecho, algunos analistas señalan que la presión de liquidez por la IPO de Anthropic podría estar impactando en el precio del bitcoin y otras inversiones. Para quien aprende finanzas, es un ejemplo de cómo una sola operación puede tener efectos en cadena sobre mercados aparentemente no relacionados.",
+      "id": "uk-gdp-q3-2026",
+      "type": "economia",
+      "title": "La economía del Reino Unido creció 0,7% en el tercer trimestre, impulsada por la IA",
+      "summary": "El PBI del Reino Unido se expandió 0,7% en el tercer trimestre de 2026, en línea con las estimaciones, con la inteligencia artificial mencionada como un motor adicional de crecimiento.",
+      "detail": "El dato de PBI de una de las economías más grandes del mundo es un indicador de salud económica global. Que el crecimiento haya cumplido con las expectativas da señales de estabilidad, mientras que la mención de la IA como factor de crecimiento muestra cómo esta tecnología ya está impactando en indicadores macroeconómicos reales, no solo en valuaciones bursátiles.",
       "tags": [
-        "IPO",
-        "inteligencia artificial",
+        "PBI",
+        "Reino Unido",
+        "crecimiento"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
+      "published_at": "2026-11-12T08:02:15Z",
+      "fecha_evento": "2026-11-12",
+      "tickers": []
+    },
+    {
+      "id": "apple-tim-cook-john-ternus",
+      "type": "empresa",
+      "title": "Apple pasó de valer USD 350.000 millones a USD 4 billones bajo Tim Cook: qué puede esperarse del nuevo CEO",
+      "summary": "Durante los 15 años de Tim Cook como CEO, Apple multiplicó su valor de mercado por más de 11 veces. Ahora, con John Ternus al frente, los analistas advierten que es muy difícil repetir ese nivel de crecimiento.",
+      "detail": "La valuación de una empresa refleja las expectativas futuras de los inversores: cuando un CEO histórico se va, el mercado recalibra esas expectativas. Este caso de Apple es útil para entender cómo el liderazgo corporativo influye en el precio de las acciones y por qué el crecimiento pasado no garantiza rendimientos futuros. También ilustra el concepto de capitalización de mercado y cómo puede cambiar radicalmente a lo largo del tiempo.",
+      "tags": [
+        "Apple",
+        "CEO",
         "valuación"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/nvidia-alphabet-microsoft-and-micron-are-all-buying-anthropics-ipo-should-you-buy-too",
-      "published_at": "2026-11-14T10:22:02Z",
+      "source_url": "https://www.nasdaq.com/articles/apples-market-value-grew-350-billion-4-trillion-during-tim-cooks-15-years-ceo-heres-what-0",
+      "published_at": "2026-11-14T19:31:01Z",
       "fecha_evento": "2026-11-14",
       "tickers": [
-        "NVDA",
-        "GOOGL",
-        "MSFT",
-        "MU"
-      ]
-    },
-    {
-      "id": "bitcoin-cae-69000",
-      "type": "mercado",
-      "title": "Bitcoin cae por debajo de los USD 69.000 y la IPO de Anthropic puede profundizar la baja",
-      "summary": "El precio de bitcoin bajó por debajo de los USD 69.000 y los analistas señalan que inversores podrían seguir vendiendo criptomonedas para liberar capital y participar en la esperada IPO de Anthropic.",
-      "detail": "Esto ilustra un concepto clave en finanzas: la liquidez de un portafolio. Cuando aparece una oportunidad de inversión muy atractiva, los inversores a veces necesitan vender otros activos para conseguir el efectivo necesario. El bitcoin, al ser líquido y operar las 24 horas, suele ser uno de los primeros activos que se vende en esos momentos. Es un ejemplo concreto de cómo eventos en el mercado de acciones pueden afectar al mercado cripto.",
-      "tags": [
-        "bitcoin",
-        "criptomonedas",
-        "IPO"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
-      "published_at": "2026-11-13T21:26:00Z",
-      "fecha_evento": "2026-11-13",
-      "tickers": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "faa-ground-stop-vuelos",
-      "type": "economia",
-      "title": "La FAA levantó un raro bloqueo total de vuelos en EE.UU. pero la recuperación llevará días",
-      "summary": "La Autoridad Federal de Aviación (FAA) levantó un inusual paro total de vuelos en todo el país, aunque se espera que el sistema tarde días en normalizarse. Las autoridades descartaron un ciberataque como causa del incidente.",
-      "detail": "Un ground stop masivo en EE.UU. afecta directamente a aerolíneas, empresas de logística y cadenas de suministro, con impacto en sus acciones y en costos operativos. El hecho de que las autoridades hayan descartado un ciberataque es importante porque los ataques a infraestructura crítica son un riesgo financiero creciente. Para quien aprende finanzas, este evento muestra cómo disrupciones en sectores no financieros pueden tener consecuencias económicas inmediatas y medibles.",
-      "tags": [
-        "aviación",
-        "logística",
-        "riesgo operativo"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-      "published_at": "2026-11-14T02:42:00Z",
-      "fecha_evento": "2026-11-14",
-      "tickers": []
-    },
-    {
-      "id": "petroleo-exceso-oferta-diesel",
-      "type": "mercado",
-      "title": "El mundo tendrá más petróleo del que necesita por primera vez desde que comenzó la guerra con Irán, pero el diésel no bajará",
-      "summary": "Por primera vez desde el inicio de la guerra con Irán en febrero, se espera que la oferta global de petróleo supere a la demanda. Sin embargo, los analistas advierten que este exceso no se va a traducir automáticamente en precios más bajos del diésel.",
-      "detail": "El precio del petróleo crudo y el del diésel no siempre se mueven igual porque intervienen factores como capacidad de refinación, impuestos, logística y contratos a futuro. Este caso ilustra por qué los mercados de commodities son complejos: más oferta no siempre significa precios menores para el consumidor final. Para Argentina, donde el precio de los combustibles afecta la inflación y el transporte, entender esta dinámica es especialmente relevante.",
-      "tags": [
-        "petróleo",
-        "commodities",
-        "energía"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-      "published_at": "2026-11-13T22:04:00Z",
-      "fecha_evento": "2026-11-13",
-      "tickers": []
-    },
-    {
-      "id": "alphabet-cloud-crecimiento",
-      "type": "empresa",
-      "title": "Google Cloud creció 103% en el último trimestre y Gemini ya tiene 1.000 millones de usuarios mensuales",
-      "summary": "El CEO de Alphabet, Sundar Pichai, informó que los ingresos de Google Cloud crecieron un 103% en el último trimestre, mientras que la app Gemini alcanzó 1.000 millones de usuarios mensuales.",
-      "detail": "El negocio de la nube (cloud) se está convirtiendo en el motor de crecimiento más importante de Alphabet, superando incluso a su histórico negocio de búsqueda en términos de ingresos incrementales. Esto es relevante para entender cómo las grandes tecnológicas están diversificando sus fuentes de ingresos gracias a la IA. Para un inversor que aprende, es un ejemplo de cómo analizar qué segmento de un negocio está impulsando el crecimiento real de una empresa.",
-      "tags": [
-        "Alphabet",
-        "cloud",
-        "inteligencia artificial"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/sundar-pichai-reported-alphabets-cloud-revenue-grew-103-last-quarter-while-gemini-app",
-      "published_at": "2026-11-14T10:53:00Z",
-      "fecha_evento": "2026-11-14",
-      "tickers": [
-        "GOOGL"
+        "AAPL"
       ]
     }
   ],
@@ -195,9 +137,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 67.215",
-      "valor_num": 67215.0,
-      "delta_pct": -3.02
+      "valor": "US$ 64.422",
+      "valor_num": 64422.0,
+      "delta_pct": -5.73
     },
     {
       "label": "S&P 500",
