@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-14T22:00:51.017005+00:00",
+  "generated_at": "2026-11-15T12:01:05.669651+00:00",
   "items": [
     {
       "id": "fed-ai-risks-financial-system",
       "type": "economia",
       "title": "La Fed advierte: la IA es el mayor riesgo para el sistema financiero",
-      "summary": "Un informe de la Reserva Federal de EE.UU. identificó a los riesgos de la inteligencia artificial como la principal amenaza al sistema financiero, en un contexto donde Wall Street está muy expuesto a las grandes empresas de IA.",
-      "detail": "Que la Fed incluya a la IA como riesgo sistémico en su informe oficial es una señal importante: significa que los reguladores ya no ven esto como algo lejano, sino como una vulnerabilidad real. Para alguien que aprende finanzas, esto enseña que los bancos centrales monitorean no solo la inflación o las tasas, sino también concentraciones de riesgo en sectores emergentes. Si una parte crítica de la infraestructura de IA falla o colapsa, podría arrastrar a muchas empresas y fondos que dependen de ella.",
+      "summary": "Un informe de la Reserva Federal identificó a los riesgos asociados a la inteligencia artificial como la principal amenaza para la estabilidad del sistema financiero, en un momento en que Wall Street sigue de cerca a las grandes empresas de IA.",
+      "detail": "La Fed publica periódicamente reportes sobre riesgos financieros sistémicos, es decir, aquellos que podrían afectar a todo el sistema y no solo a una empresa. Que la IA aparezca como la amenaza número uno muestra cuánto peso tienen hoy las grandes tecnológicas en los mercados. Para alguien que aprende finanzas, esto enseña que los riesgos no siempre vienen de los bancos: a veces surgen de sectores nuevos que crecen muy rápido y cuyo impacto es difícil de medir.",
       "tags": [
         "inteligencia artificial",
         "riesgo sistémico",
@@ -21,13 +21,13 @@
     {
       "id": "ppi-octubre-2026",
       "type": "economia",
-      "title": "Los precios mayoristas en EE.UU. subieron 0,3% en octubre y la inflación anual llegó al 6,5%",
-      "summary": "El índice de precios al productor (PPI) subió 0,3% en octubre, llevando la tasa anual al 6,5%, el nivel más alto en casi cuatro años. El mercado esperaba una suba de 0,4%.",
-      "detail": "El PPI mide cuánto pagan las empresas por los insumos que usan para producir bienes y servicios. Cuando sube, suele anticipar que esos costos se van a trasladar a los precios finales que pagan los consumidores. Una inflación mayorista en máximos de cuatro años en EE.UU. es una señal que la Fed va a considerar para decidir si sube o mantiene las tasas de interés, lo que impacta en los mercados globales y en el dólar.",
+      "title": "Los precios mayoristas en EE.UU. subieron 6,5% anual en octubre, el nivel más alto en casi cuatro años",
+      "summary": "El índice de precios al productor (PPI) subió 0,3% en octubre, dejando la variación anual en 6,5%, el registro más alto en casi cuatro años. El mercado esperaba una suba mensual de 0,4%.",
+      "detail": "El PPI mide cuánto les cuesta producir a las empresas, antes de que esos costos lleguen al consumidor final. Cuando sube, suele anticipar más inflación para los consumidores más adelante. Este dato es clave porque la Fed lo sigue de cerca para decidir si sube o baja las tasas de interés. Un PPI tan alto complica las expectativas de que la Fed recorte tasas pronto, lo que afecta a todos los activos financieros.",
       "tags": [
         "inflación",
         "PPI",
-        "economía EEUU"
+        "Fed"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
@@ -36,34 +36,15 @@
       "tickers": []
     },
     {
-      "id": "nvidia-crisis-liderazgo",
+      "id": "bessent-nvidia-china-chips",
       "type": "empresa",
-      "title": "La crisis de liderazgo en Nvidia pone en duda su rol central en la economía de la IA",
-      "summary": "Jensen Huang renunció como CEO de Nvidia luego de reconocer una relación personal bajo escrutinio, y los analistas advierten que la enorme red de vínculos de la empresa con otras compañías podría generar daños económicos y financieros de gran alcance.",
-      "detail": "Nvidia se convirtió en una pieza tan central del ecosistema de IA que algunos la comparan con un banco central: si tambalea, muchas otras empresas y proyectos que dependen de sus chips también se ven afectados. Este caso muestra cómo el riesgo de una sola empresa puede volverse sistémico cuando su tecnología es indispensable para un sector entero. Para quien aprende finanzas, es un ejemplo claro de riesgo de concentración.",
+      "title": "El secretario del Tesoro Bessent culpa al Departamento de Comercio por la \"filtración\" de chips de Nvidia a China",
+      "summary": "Scott Bessent responsabilizó al Departamento de Comercio por permitir que chips de Nvidia lleguen a China, en medio del escándalo por la renuncia del ex CEO Jensen Huang tras admitir una relación con una mujer señalada como espía china.",
+      "detail": "Las restricciones a la exportación de chips avanzados a China son una pieza clave de la política económica y de seguridad de EE.UU. Nvidia es el principal fabricante de chips de inteligencia artificial del mundo, por lo que cualquier filtración tecnológica tiene implicancias geopolíticas enormes. Este caso muestra cómo las decisiones regulatorias del gobierno pueden afectar directamente el valor y la reputación de una empresa cotizada en bolsa.",
       "tags": [
         "Nvidia",
-        "CEO",
-        "riesgo tecnológico"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published_at": "2026-11-12T23:08:50Z",
-      "fecha_evento": "2026-11-13",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "bessent-nvidia-china",
-      "type": "economia",
-      "title": "Bessent culpa al Departamento de Comercio por la filtración de chips de Nvidia a China",
-      "summary": "El secretario del Tesoro, Scott Bessent, criticó al Departamento de Comercio por permitir que chips de Nvidia lleguen a China, en medio de la crisis desatada por la renuncia del CEO Jensen Huang.",
-      "detail": "El control de exportación de tecnología avanzada es una herramienta geopolítica clave: EE.UU. intenta evitar que China acceda a chips de alta performance que podrían usarse para aplicaciones militares o de inteligencia artificial estratégica. Cuando hay fisuras en ese control, genera tensiones entre agencias del gobierno y puede afectar el valor de acciones como Nvidia. Este tipo de conflictos entre política exterior y negocios es cada vez más relevante para entender los mercados globales.",
-      "tags": [
-        "geopolítica",
         "chips",
-        "exportaciones"
+        "geopolítica"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
@@ -74,39 +55,79 @@
       ]
     },
     {
-      "id": "uk-gdp-q3-2026",
-      "type": "economia",
-      "title": "La economía del Reino Unido creció 0,7% en el tercer trimestre, impulsada por la IA",
-      "summary": "El PBI del Reino Unido se expandió 0,7% en el tercer trimestre de 2026, en línea con las estimaciones, con la inteligencia artificial mencionada como un motor adicional de crecimiento.",
-      "detail": "El dato de PBI de una de las economías más grandes del mundo es un indicador de salud económica global. Que el crecimiento haya cumplido con las expectativas da señales de estabilidad, mientras que la mención de la IA como factor de crecimiento muestra cómo esta tecnología ya está impactando en indicadores macroeconómicos reales, no solo en valuaciones bursátiles.",
+      "id": "nvidia-liderazgo-crisis-ai",
+      "type": "empresa",
+      "title": "La crisis de liderazgo en Nvidia pone en jaque su rol como el \"banco central de la IA\"",
+      "summary": "La renuncia de Jensen Huang y los vínculos de Nvidia con miles de empresas generan preocupación por el daño económico y financiero que una crisis en la compañía podría provocar en cadena.",
+      "detail": "Nvidia no es solo una empresa tecnológica: sus chips son la infraestructura sobre la que funciona prácticamente toda la industria de inteligencia artificial. Cuando una empresa tiene ese nivel de interconexión con el resto del sistema, se la considera \"sistémicamente importante\", un concepto que antes se aplicaba casi solo a los bancos. Esta situación es un ejemplo concreto de cómo el riesgo de concentración en pocos actores puede amplificar shocks en los mercados globales.",
       "tags": [
-        "PBI",
-        "Reino Unido",
-        "crecimiento"
+        "Nvidia",
+        "riesgo sistémico",
+        "inteligencia artificial"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
-      "published_at": "2026-11-12T08:02:15Z",
-      "fecha_evento": "2026-11-12",
-      "tickers": []
+      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "published_at": "2026-11-12T23:08:50Z",
+      "fecha_evento": "2026-11-11",
+      "tickers": [
+        "NVDA"
+      ]
     },
     {
-      "id": "apple-tim-cook-john-ternus",
+      "id": "nvidia-ceo-renuncia-inversores",
       "type": "empresa",
-      "title": "Apple pasó de valer USD 350.000 millones a USD 4 billones bajo Tim Cook: qué puede esperarse del nuevo CEO",
-      "summary": "Durante los 15 años de Tim Cook como CEO, Apple multiplicó su valor de mercado por más de 11 veces. Ahora, con John Ternus al frente, los analistas advierten que es muy difícil repetir ese nivel de crecimiento.",
-      "detail": "La valuación de una empresa refleja las expectativas futuras de los inversores: cuando un CEO histórico se va, el mercado recalibra esas expectativas. Este caso de Apple es útil para entender cómo el liderazgo corporativo influye en el precio de las acciones y por qué el crecimiento pasado no garantiza rendimientos futuros. También ilustra el concepto de capitalización de mercado y cómo puede cambiar radicalmente a lo largo del tiempo.",
+      "title": "¿Qué debería preguntarse un inversor sobre Nvidia tras la renuncia de Jensen Huang?",
+      "summary": "Más allá del escándalo personal de Huang, los inversores enfrentan preguntas de fondo sobre el futuro de Nvidia: quién la va a liderar y si puede mantener su posición dominante en el mercado de chips de IA.",
+      "detail": "El CEO de una empresa tecnológica de este tamaño no es solo un gerente: es parte del valor que los inversores compran. Cuando el líder fundador se va de forma abrupta, el mercado suele reaccionar con incertidumbre porque no sabe si el sucesor va a mantener la misma visión estratégica. Este caso es una buena ilustración del concepto de \"riesgo de gestión\" o \"key man risk\", algo que cualquier inversor debería evaluar antes de comprar acciones de una empresa muy dependiente de su fundador.",
       "tags": [
-        "Apple",
-        "CEO",
-        "valuación"
+        "Nvidia",
+        "gestión",
+        "acciones"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/apples-market-value-grew-350-billion-4-trillion-during-tim-cooks-15-years-ceo-heres-what-0",
-      "published_at": "2026-11-14T19:31:01Z",
-      "fecha_evento": "2026-11-14",
+      "source_url": "https://www.nasdaq.com/articles/forget-former-nvidia-ceo-jensen-huang-real-question-investors-need-ask-about-nvidia-stock",
+      "published_at": "2026-11-15T07:30:02Z",
+      "fecha_evento": "2026-11-15",
       "tickers": [
-        "AAPL"
+        "NVDA"
+      ]
+    },
+    {
+      "id": "scout-motors-reservaciones-planta",
+      "type": "empresa",
+      "title": "Scout Motors tiene 212.000 reservas de vehículos y su planta en Carolina del Sur está casi lista",
+      "summary": "Scout Motors, la marca de camionetas y SUVs eléctricos respaldada por Volkswagen, ya acumuló más de 212.000 reservas para sus modelos Terra y Traveler, mientras su fábrica de 2.000 millones de dólares en Carolina del Sur se acerca a la inauguración.",
+      "detail": "Las reservas anticipadas son un indicador de demanda que el mercado sigue de cerca para evaluar si una empresa automotriz va a poder generar ingresos reales. La inversión de 2.000 millones de dólares en una planta propia muestra la escala del compromiso financiero necesario para competir en el mercado de vehículos eléctricos. Este tipo de noticias ayuda a entender cómo se financia y se escala una empresa industrial en un sector altamente competitivo.",
+      "tags": [
+        "vehículos eléctricos",
+        "manufactura",
+        "Volkswagen"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
+      "published_at": "2026-11-12T22:17:05Z",
+      "fecha_evento": "2026-11-12",
+      "tickers": [
+        "VOW"
+      ]
+    },
+    {
+      "id": "etf-dividendos-schd",
+      "type": "mercado",
+      "title": "Un ETF de dividendos que promedió 13,7% anual desde su creación",
+      "summary": "El Schwab U.S. Dividend Equity ETF (SCHD) promedió un retorno anual total de 13,7% desde su lanzamiento, y es presentado como una opción para construir patrimonio a largo plazo invirtiendo de forma sistemática.",
+      "detail": "Los ETFs de dividendos son fondos que invierten en empresas que reparten ganancias regularmente a sus accionistas. El rendimiento histórico del SCHD muestra el poder del interés compuesto: aportes mensuales constantes, reinvertidos durante años, pueden generar un capital significativo. Para alguien que empieza en finanzas, este tipo de instrumentos ilustra la estrategia de inversión pasiva y de largo plazo, alternativa a elegir acciones individuales.",
+      "tags": [
+        "ETF",
+        "dividendos",
+        "inversión pasiva"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/1-etf-can-turn-500-monthly-600000-portfolio-pays-out-18000-annually",
+      "published_at": "2026-11-15T04:20:01Z",
+      "fecha_evento": "2026-11-15",
+      "tickers": [
+        "SCHD"
       ]
     }
   ],
@@ -121,25 +142,25 @@
       "label": "DÓLAR BLUE",
       "valor": "$1.575",
       "valor_num": 1575.0,
-      "delta_pct": 0.64
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.581",
       "valor_num": 1580.9,
-      "delta_pct": 0.45
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
       "valor": "$1.672",
       "valor_num": 1671.9,
-      "delta_pct": 0.21
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 64.422",
-      "valor_num": 64422.0,
-      "delta_pct": -5.73
+      "valor": "US$ 65.393",
+      "valor_num": 65393.0,
+      "delta_pct": -2.72
     },
     {
       "label": "S&P 500",
@@ -151,7 +172,7 @@
       "label": "ORO (ONZA)",
       "valor": "US$ 3.886",
       "valor_num": 3886.3,
-      "delta_pct": -5.55
+      "delta_pct": -3.57
     }
   ]
 }
