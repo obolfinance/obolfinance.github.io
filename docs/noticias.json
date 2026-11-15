@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-15T12:01:05.669651+00:00",
+  "generated_at": "2026-11-15T22:01:07.888996+00:00",
   "items": [
     {
       "id": "fed-ai-risks-financial-system",
       "type": "economia",
-      "title": "La Fed advierte: la IA es el mayor riesgo para el sistema financiero",
-      "summary": "Un informe de la Reserva Federal identificó a los riesgos asociados a la inteligencia artificial como la principal amenaza para la estabilidad del sistema financiero, en un momento en que Wall Street sigue de cerca a las grandes empresas de IA.",
-      "detail": "La Fed publica periódicamente reportes sobre riesgos financieros sistémicos, es decir, aquellos que podrían afectar a todo el sistema y no solo a una empresa. Que la IA aparezca como la amenaza número uno muestra cuánto peso tienen hoy las grandes tecnológicas en los mercados. Para alguien que aprende finanzas, esto enseña que los riesgos no siempre vienen de los bancos: a veces surgen de sectores nuevos que crecen muy rápido y cuyo impacto es difícil de medir.",
+      "title": "La Fed advierte que la IA es el mayor riesgo para el sistema financiero",
+      "summary": "Un informe de la Reserva Federal identificó a los riesgos asociados a la inteligencia artificial como la principal amenaza para el sistema financiero, en un contexto de alta exposición de Wall Street a las grandes empresas de IA.",
+      "detail": "La Fed publica periódicamente reportes de estabilidad financiera donde evalúa qué factores podrían desestabilizar al sistema. Que la IA aparezca como el riesgo número uno es una señal importante: significa que la concentración en pocas empresas tecnológicas y la proliferación de centros de datos se perciben como fuentes de vulnerabilidad sistémica. Para alguien que aprende finanzas, esto muestra cómo los bancos centrales monitorean no solo la inflación o las tasas, sino también riesgos emergentes que pueden afectar a toda la economía.",
       "tags": [
         "inteligencia artificial",
         "riesgo sistémico",
@@ -21,13 +21,13 @@
     {
       "id": "ppi-octubre-2026",
       "type": "economia",
-      "title": "Los precios mayoristas en EE.UU. subieron 6,5% anual en octubre, el nivel más alto en casi cuatro años",
-      "summary": "El índice de precios al productor (PPI) subió 0,3% en octubre, dejando la variación anual en 6,5%, el registro más alto en casi cuatro años. El mercado esperaba una suba mensual de 0,4%.",
-      "detail": "El PPI mide cuánto les cuesta producir a las empresas, antes de que esos costos lleguen al consumidor final. Cuando sube, suele anticipar más inflación para los consumidores más adelante. Este dato es clave porque la Fed lo sigue de cerca para decidir si sube o baja las tasas de interés. Un PPI tan alto complica las expectativas de que la Fed recorte tasas pronto, lo que afecta a todos los activos financieros.",
+      "title": "Los precios mayoristas en EE.UU. subieron 0,3% en octubre y la tasa anual llegó al 6,5%",
+      "summary": "El índice de precios al productor (PPI) de EE.UU. aumentó 0,3% en octubre, llevando la tasa anual al 6,5%, el nivel más alto en casi cuatro años, aunque quedó levemente por debajo de la expectativa del mercado de 0,4%.",
+      "detail": "El PPI mide cuánto pagan los productores por sus insumos antes de que esos costos lleguen al consumidor final. Cuando sube, suele anticipar más inflación para el consumidor en los próximos meses. Un PPI en el 6,5% anual es una señal de presión inflacionaria persistente, lo que complica la tarea de la Fed a la hora de decidir si baja o mantiene las tasas de interés. Este dato es clave para entender cómo se forma la inflación desde la cadena de producción.",
       "tags": [
         "inflación",
         "PPI",
-        "Fed"
+        "economía EE.UU."
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
@@ -36,15 +36,15 @@
       "tickers": []
     },
     {
-      "id": "bessent-nvidia-china-chips",
-      "type": "empresa",
-      "title": "El secretario del Tesoro Bessent culpa al Departamento de Comercio por la \"filtración\" de chips de Nvidia a China",
-      "summary": "Scott Bessent responsabilizó al Departamento de Comercio por permitir que chips de Nvidia lleguen a China, en medio del escándalo por la renuncia del ex CEO Jensen Huang tras admitir una relación con una mujer señalada como espía china.",
-      "detail": "Las restricciones a la exportación de chips avanzados a China son una pieza clave de la política económica y de seguridad de EE.UU. Nvidia es el principal fabricante de chips de inteligencia artificial del mundo, por lo que cualquier filtración tecnológica tiene implicancias geopolíticas enormes. Este caso muestra cómo las decisiones regulatorias del gobierno pueden afectar directamente el valor y la reputación de una empresa cotizada en bolsa.",
+      "id": "bessent-nvidia-chip-leakage-china",
+      "type": "economia",
+      "title": "El secretario del Tesoro culpó al Departamento de Comercio por la filtración de chips de Nvidia a China",
+      "summary": "Scott Bessent responsabilizó al Departamento de Comercio de Howard Lutnick por permitir que chips de Nvidia llegaran a China, en medio del escándalo que provocó la renuncia de Jensen Huang como CEO de la compañía.",
+      "detail": "Las restricciones a la exportación de chips avanzados a China son una pieza central de la política tecnológica y de seguridad nacional de EE.UU. Cuando se filtra que esas restricciones no se cumplieron, se genera un conflicto político entre agencias del gobierno y se aumenta la presión regulatoria sobre las empresas del sector. Para quien aprende finanzas, esto ilustra cómo las decisiones geopolíticas y regulatorias pueden afectar directamente el valor y la operación de empresas tecnológicas como Nvidia.",
       "tags": [
         "Nvidia",
-        "chips",
-        "geopolítica"
+        "geopolítica",
+        "chips"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
@@ -55,15 +55,15 @@
       ]
     },
     {
-      "id": "nvidia-liderazgo-crisis-ai",
+      "id": "nvidia-leadership-crisis-ai",
       "type": "empresa",
       "title": "La crisis de liderazgo en Nvidia pone en jaque su rol como el \"banco central de la IA\"",
-      "summary": "La renuncia de Jensen Huang y los vínculos de Nvidia con miles de empresas generan preocupación por el daño económico y financiero que una crisis en la compañía podría provocar en cadena.",
-      "detail": "Nvidia no es solo una empresa tecnológica: sus chips son la infraestructura sobre la que funciona prácticamente toda la industria de inteligencia artificial. Cuando una empresa tiene ese nivel de interconexión con el resto del sistema, se la considera \"sistémicamente importante\", un concepto que antes se aplicaba casi solo a los bancos. Esta situación es un ejemplo concreto de cómo el riesgo de concentración en pocos actores puede amplificar shocks en los mercados globales.",
+      "summary": "La salida repentina de Jensen Huang como CEO de Nvidia generó preocupación en los mercados por el efecto en cadena que podría tener sobre todo el ecosistema de inteligencia artificial, dado el rol central que ocupa la empresa.",
+      "detail": "Nvidia no es solo una empresa de chips: es el proveedor clave de la infraestructura sobre la que se construye buena parte de la IA global. Su peso en la industria es tan grande que se la compara con un banco central: si falla o se desestabiliza, el impacto se siente en muchas otras empresas que dependen de sus productos. Este caso enseña cómo la concentración en un solo actor puede crear riesgo sistémico en un sector, un concepto fundamental en finanzas.",
       "tags": [
         "Nvidia",
-        "riesgo sistémico",
-        "inteligencia artificial"
+        "liderazgo",
+        "riesgo sistémico"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
@@ -74,61 +74,79 @@
       ]
     },
     {
-      "id": "nvidia-ceo-renuncia-inversores",
+      "id": "nvidia-earnings-call-anticipada",
       "type": "empresa",
-      "title": "¿Qué debería preguntarse un inversor sobre Nvidia tras la renuncia de Jensen Huang?",
-      "summary": "Más allá del escándalo personal de Huang, los inversores enfrentan preguntas de fondo sobre el futuro de Nvidia: quién la va a liderar y si puede mantener su posición dominante en el mercado de chips de IA.",
-      "detail": "El CEO de una empresa tecnológica de este tamaño no es solo un gerente: es parte del valor que los inversores compran. Cuando el líder fundador se va de forma abrupta, el mercado suele reaccionar con incertidumbre porque no sabe si el sucesor va a mantener la misma visión estratégica. Este caso es una buena ilustración del concepto de \"riesgo de gestión\" o \"key man risk\", algo que cualquier inversor debería evaluar antes de comprar acciones de una empresa muy dependiente de su fundador.",
+      "title": "Nvidia se prepara para una de las llamadas de resultados más esperadas de Wall Street en años",
+      "summary": "Con la salida sorpresiva de Jensen Huang como CEO, la presentación de resultados del martes próximo se convirtió en el evento más importante en la historia reciente de Nvidia, según analistas del mercado.",
+      "detail": "Las llamadas de resultados (earnings calls) son momentos en que las empresas reportan sus números y el nuevo liderazgo deberá dar respuestas ante inversores y analistas en un contexto de máxima incertidumbre. Para quien aprende finanzas, esto muestra cómo los eventos corporativos —especialmente cambios de liderazgo en empresas de alto impacto— pueden mover mercados y concentrar la atención de Wall Street en un solo evento.",
       "tags": [
         "Nvidia",
-        "gestión",
-        "acciones"
+        "resultados",
+        "Wall Street"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/forget-former-nvidia-ceo-jensen-huang-real-question-investors-need-ask-about-nvidia-stock",
-      "published_at": "2026-11-15T07:30:02Z",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "published_at": "2026-11-15T21:32:00Z",
       "fecha_evento": "2026-11-15",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "scout-motors-reservaciones-planta",
-      "type": "empresa",
-      "title": "Scout Motors tiene 212.000 reservas de vehículos y su planta en Carolina del Sur está casi lista",
-      "summary": "Scout Motors, la marca de camionetas y SUVs eléctricos respaldada por Volkswagen, ya acumuló más de 212.000 reservas para sus modelos Terra y Traveler, mientras su fábrica de 2.000 millones de dólares en Carolina del Sur se acerca a la inauguración.",
-      "detail": "Las reservas anticipadas son un indicador de demanda que el mercado sigue de cerca para evaluar si una empresa automotriz va a poder generar ingresos reales. La inversión de 2.000 millones de dólares en una planta propia muestra la escala del compromiso financiero necesario para competir en el mercado de vehículos eléctricos. Este tipo de noticias ayuda a entender cómo se financia y se escala una empresa industrial en un sector altamente competitivo.",
+      "id": "nike-investor-day-noviembre-2026",
+      "type": "reunion",
+      "title": "Nike tendrá su primer Investor Day en 9 años el 17 de noviembre",
+      "summary": "Nike celebrará su primer día para inversores en nueve años el 17 de noviembre, en un momento en que los ejecutivos anticipan que los ingresos caerán en dígitos altos durante el año fiscal 2027.",
+      "detail": "Un Investor Day es un evento donde la empresa presenta su estrategia a largo plazo directamente a accionistas y analistas. Que Nike no haya hecho uno en nueve años y lo convoque en un momento de caída de ingresos genera expectativa sobre los planes para revertir la tendencia. Para alguien que aprende finanzas, estos eventos son clave para entender cómo las empresas comunican su visión al mercado y cómo eso puede impactar el precio de la acción.",
       "tags": [
-        "vehículos eléctricos",
-        "manufactura",
-        "Volkswagen"
+        "Nike",
+        "inversores",
+        "estrategia"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-      "published_at": "2026-11-12T22:17:05Z",
-      "fecha_evento": "2026-11-12",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/nikes-first-investor-day-9-years-days-away-3-numbers-you-need-know-nov-17",
+      "published_at": "2026-11-15T19:20:02Z",
+      "fecha_evento": "2026-11-17",
       "tickers": [
-        "VOW"
+        "NKE"
       ]
     },
     {
-      "id": "etf-dividendos-schd",
-      "type": "mercado",
-      "title": "Un ETF de dividendos que promedió 13,7% anual desde su creación",
-      "summary": "El Schwab U.S. Dividend Equity ETF (SCHD) promedió un retorno anual total de 13,7% desde su lanzamiento, y es presentado como una opción para construir patrimonio a largo plazo invirtiendo de forma sistemática.",
-      "detail": "Los ETFs de dividendos son fondos que invierten en empresas que reparten ganancias regularmente a sus accionistas. El rendimiento histórico del SCHD muestra el poder del interés compuesto: aportes mensuales constantes, reinvertidos durante años, pueden generar un capital significativo. Para alguien que empieza en finanzas, este tipo de instrumentos ilustra la estrategia de inversión pasiva y de largo plazo, alternativa a elegir acciones individuales.",
+      "id": "boeing-archer-aviation-deal",
+      "type": "empresa",
+      "title": "Boeing le transfiere tres unidades de negocios a Archer Aviation y cierra un pedido de F-15 por 131.000 millones de dólares",
+      "summary": "Boeing acordó cederle tres divisiones a Archer Aviation y al mismo tiempo cerró un contrato de defensa por 131.000 millones de dólares para la producción del caza F-15, en una operación que redistribuye activos clave entre ambas compañías.",
+      "detail": "Cuando una empresa grande como Boeing decide desprenderse de divisiones enteras, generalmente busca concentrarse en su negocio principal o mejorar su situación financiera. Para Archer, recibir unidades rentables de defensa puede acelerar su crecimiento. Este tipo de operaciones —fusiones, adquisiciones y desinversiones— son herramientas centrales en las finanzas corporativas y pueden cambiar radicalmente el perfil de riesgo y retorno de una empresa.",
       "tags": [
-        "ETF",
-        "dividendos",
-        "inversión pasiva"
+        "Boeing",
+        "defensa",
+        "fusiones y adquisiciones"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/1-etf-can-turn-500-monthly-600000-portfolio-pays-out-18000-annually",
-      "published_at": "2026-11-15T04:20:01Z",
+      "source_url": "https://www.nasdaq.com/articles/boeing-handing-3-businesses-archer-aviation-and-closing-131-billion-f-15-order-heres-which",
+      "published_at": "2026-11-15T20:20:02Z",
       "fecha_evento": "2026-11-15",
       "tickers": [
-        "SCHD"
+        "BA",
+        "ACHR"
       ]
+    },
+    {
+      "id": "china-sheep-stocks-rally",
+      "type": "mercado",
+      "title": "Las acciones chinas con nombres que suenan a \"oveja\" se dispararon de cara al Año del Carnero",
+      "summary": "En China, acciones de empresas de rubros muy variados —desde procesadoras de pescado hasta fabricantes de electrodomésticos— subieron fuerte simplemente porque sus nombres en chino se asocian fonéticamente con la palabra oveja, en anticipación al próximo Año del Carnero.",
+      "detail": "Este fenómeno ilustra cómo los mercados no siempre se mueven por fundamentos económicos: el sentimiento, la cultura y las expectativas irracionales también mueven precios. En finanzas, esto se estudia bajo el concepto de \"comportamiento irracional del inversor\" o finanzas conductuales (behavioral finance). Es un ejemplo extremo de que el precio de una acción puede desconectarse completamente del valor real del negocio.",
+      "tags": [
+        "mercados",
+        "comportamiento inversor",
+        "China"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+      "published_at": "2026-11-15T15:22:00Z",
+      "fecha_evento": "2026-11-15",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -158,9 +176,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 65.393",
-      "valor_num": 65393.0,
-      "delta_pct": -2.72
+      "valor": "US$ 65.050",
+      "valor_num": 65050.0,
+      "delta_pct": 1.05
     },
     {
       "label": "S&P 500",
