@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-11-15T22:01:07.888996+00:00",
+  "generated_at": "2026-11-16T12:01:07.537796+00:00",
   "items": [
     {
-      "id": "fed-ai-risks-financial-system",
+      "id": "japan-gdp-q3-2026",
       "type": "economia",
-      "title": "La Fed advierte que la IA es el mayor riesgo para el sistema financiero",
-      "summary": "Un informe de la Reserva Federal identificó a los riesgos asociados a la inteligencia artificial como la principal amenaza para el sistema financiero, en un contexto de alta exposición de Wall Street a las grandes empresas de IA.",
-      "detail": "La Fed publica periódicamente reportes de estabilidad financiera donde evalúa qué factores podrían desestabilizar al sistema. Que la IA aparezca como el riesgo número uno es una señal importante: significa que la concentración en pocas empresas tecnológicas y la proliferación de centros de datos se perciben como fuentes de vulnerabilidad sistémica. Para alguien que aprende finanzas, esto muestra cómo los bancos centrales monitorean no solo la inflación o las tasas, sino también riesgos emergentes que pueden afectar a toda la economía.",
+      "title": "La economía de Japón se contrajo inesperadamente en el tercer trimestre",
+      "summary": "El PBI de Japón cayó en el tercer trimestre, sorprendiendo al mercado. El vencimiento de los subsidios de energía para hogares en septiembre dejó a la economía expuesta a los altos precios del petróleo derivados del conflicto con Irán.",
+      "detail": "Cuando un gobierno retira subsidios energéticos, los hogares pagan más por electricidad y combustible, lo que reduce su consumo en otros bienes y frena la actividad económica. Este caso muestra cómo las decisiones de política fiscal y los conflictos geopolíticos se traducen directamente en datos macroeconómicos. Para quien aprende finanzas, es un ejemplo claro de cómo el contexto global (una guerra, una decisión de gobierno) impacta en el PBI de un país.",
+      "tags": [
+        "PBI",
+        "energía",
+        "Japón"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "published_at": "2026-11-16T02:56:24Z",
+      "fecha_evento": "2026-11-16",
+      "tickers": []
+    },
+    {
+      "id": "ppi-octubre-2026",
+      "type": "economia",
+      "title": "Los precios mayoristas en EE.UU. subieron 6,5% anual en octubre, el nivel más alto en casi cuatro años",
+      "summary": "El índice de precios al productor (PPI) de EE.UU. aumentó 0,3% en octubre, llevando la tasa anual a 6,5%, la más elevada en casi cuatro años. El mercado esperaba una suba mensual de 0,4%.",
+      "detail": "El PPI mide cuánto pagan los productores por sus insumos antes de que esos costos lleguen al consumidor final. Cuando sube, suele anticipar mayor inflación minorista en las semanas siguientes. La Fed sigue de cerca este dato para decidir si sube o baja las tasas de interés. Un PPI elevado puede presionar al banco central a mantener una política monetaria restrictiva, lo que encarece el crédito en todo el mundo, incluyendo mercados emergentes como Argentina.",
+      "tags": [
+        "inflación",
+        "PPI",
+        "EE.UU."
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+      "published_at": "2026-11-13T15:44:16Z",
+      "fecha_evento": "2026-11-13",
+      "tickers": []
+    },
+    {
+      "id": "ai-riesgo-sistema-financiero-fed",
+      "type": "economia",
+      "title": "La Fed advierte que la inteligencia artificial es el mayor riesgo para el sistema financiero",
+      "summary": "Un informe de la Reserva Federal identificó a los riesgos de la IA como la principal amenaza al sistema financiero, en un contexto de preocupación de Wall Street por las grandes empresas de infraestructura de IA y la expansión masiva de centros de datos.",
+      "detail": "Los bancos centrales monitorean los riesgos sistémicos, es decir, aquellos que podrían desencadenar una crisis generalizada. Que la Fed señale a la IA como amenaza principal implica que una eventual burbuja o falla en ese sector podría contagiar a todo el sistema financiero. Para quien aprende finanzas, esto enseña que las innovaciones tecnológicas no solo crean oportunidades de inversión sino también nuevas vulnerabilidades que los reguladores deben anticipar.",
       "tags": [
         "inteligencia artificial",
         "riesgo sistémico",
@@ -19,134 +53,115 @@
       "tickers": []
     },
     {
-      "id": "ppi-octubre-2026",
-      "type": "economia",
-      "title": "Los precios mayoristas en EE.UU. subieron 0,3% en octubre y la tasa anual llegó al 6,5%",
-      "summary": "El índice de precios al productor (PPI) de EE.UU. aumentó 0,3% en octubre, llevando la tasa anual al 6,5%, el nivel más alto en casi cuatro años, aunque quedó levemente por debajo de la expectativa del mercado de 0,4%.",
-      "detail": "El PPI mide cuánto pagan los productores por sus insumos antes de que esos costos lleguen al consumidor final. Cuando sube, suele anticipar más inflación para el consumidor en los próximos meses. Un PPI en el 6,5% anual es una señal de presión inflacionaria persistente, lo que complica la tarea de la Fed a la hora de decidir si baja o mantiene las tasas de interés. Este dato es clave para entender cómo se forma la inflación desde la cadena de producción.",
-      "tags": [
-        "inflación",
-        "PPI",
-        "economía EE.UU."
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-      "published_at": "2026-11-13T15:44:16Z",
-      "fecha_evento": "2026-11-13",
-      "tickers": []
-    },
-    {
-      "id": "bessent-nvidia-chip-leakage-china",
-      "type": "economia",
-      "title": "El secretario del Tesoro culpó al Departamento de Comercio por la filtración de chips de Nvidia a China",
-      "summary": "Scott Bessent responsabilizó al Departamento de Comercio de Howard Lutnick por permitir que chips de Nvidia llegaran a China, en medio del escándalo que provocó la renuncia de Jensen Huang como CEO de la compañía.",
-      "detail": "Las restricciones a la exportación de chips avanzados a China son una pieza central de la política tecnológica y de seguridad nacional de EE.UU. Cuando se filtra que esas restricciones no se cumplieron, se genera un conflicto político entre agencias del gobierno y se aumenta la presión regulatoria sobre las empresas del sector. Para quien aprende finanzas, esto ilustra cómo las decisiones geopolíticas y regulatorias pueden afectar directamente el valor y la operación de empresas tecnológicas como Nvidia.",
+      "id": "nvidia-jensen-huang-renuncia",
+      "type": "empresa",
+      "title": "Jensen Huang renunció como CEO de Nvidia en medio de un escándalo personal",
+      "summary": "Jensen Huang dejó la conducción de Nvidia días después de admitir una relación con una mujer que habría sido identificada como espía china, lo que generó un fuerte impacto en la cotización de la compañía y en la discusión sobre la filtración de chips a China.",
+      "detail": "El CEO es una figura clave para la confianza de los inversores en una empresa: su salida repentina genera incertidumbre sobre la estrategia y el liderazgo futuro. En el caso de Nvidia, el escándalo se cruza con la tensión geopolítica entre EE.UU. y China por el acceso a semiconductores avanzados, lo que añade riesgo regulatorio. Este caso ilustra cómo factores no financieros —como el comportamiento de un directivo— pueden mover fuertemente el precio de una acción.",
       "tags": [
         "Nvidia",
-        "geopolítica",
-        "chips"
+        "CEO",
+        "semiconductores"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-      "published_at": "2026-11-13T17:06:57Z",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/dont-know-what-do-nvidia-stock-after-jensen-huang-stepped-down-ceo-consider-these-5-warren",
+      "published_at": "2026-11-16T11:05:01Z",
       "fecha_evento": "2026-11-13",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "nvidia-leadership-crisis-ai",
+      "id": "amd-earnings-record-2026",
       "type": "empresa",
-      "title": "La crisis de liderazgo en Nvidia pone en jaque su rol como el \"banco central de la IA\"",
-      "summary": "La salida repentina de Jensen Huang como CEO de Nvidia generó preocupación en los mercados por el efecto en cadena que podría tener sobre todo el ecosistema de inteligencia artificial, dado el rol central que ocupa la empresa.",
-      "detail": "Nvidia no es solo una empresa de chips: es el proveedor clave de la infraestructura sobre la que se construye buena parte de la IA global. Su peso en la industria es tan grande que se la compara con un banco central: si falla o se desestabiliza, el impacto se siente en muchas otras empresas que dependen de sus productos. Este caso enseña cómo la concentración en un solo actor puede crear riesgo sistémico en un sector, un concepto fundamental en finanzas.",
+      "title": "AMD reportó ganancias récord pero su acción cayó: ¿qué se perdió Wall Street?",
+      "summary": "Advanced Micro Devices presentó resultados históricos con los ingresos de centros de datos casi duplicándose, y proyectó un crecimiento de más del 80% para 2027. Aun así, los inversores respondieron vendiendo la acción.",
+      "detail": "Este caso ejemplifica el fenómeno de 'comprar el rumor, vender la noticia': cuando las expectativas del mercado ya están incorporadas en el precio, incluso buenos resultados pueden decepcionar si no superan ampliamente lo esperado. También muestra la importancia de analizar las perspectivas futuras (guidance) y no solo los números del trimestre. Para quien aprende a invertir, es una lección sobre cómo el precio de una acción refleja expectativas, no solo resultados pasados.",
       "tags": [
-        "Nvidia",
-        "liderazgo",
-        "riesgo sistémico"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published_at": "2026-11-12T23:08:50Z",
-      "fecha_evento": "2026-11-11",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "nvidia-earnings-call-anticipada",
-      "type": "empresa",
-      "title": "Nvidia se prepara para una de las llamadas de resultados más esperadas de Wall Street en años",
-      "summary": "Con la salida sorpresiva de Jensen Huang como CEO, la presentación de resultados del martes próximo se convirtió en el evento más importante en la historia reciente de Nvidia, según analistas del mercado.",
-      "detail": "Las llamadas de resultados (earnings calls) son momentos en que las empresas reportan sus números y el nuevo liderazgo deberá dar respuestas ante inversores y analistas en un contexto de máxima incertidumbre. Para quien aprende finanzas, esto muestra cómo los eventos corporativos —especialmente cambios de liderazgo en empresas de alto impacto— pueden mover mercados y concentrar la atención de Wall Street en un solo evento.",
-      "tags": [
-        "Nvidia",
+        "AMD",
         "resultados",
+        "semiconductores"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/amd-earnings-what-wall-street-missed",
+      "published_at": "2026-11-16T11:23:02Z",
+      "fecha_evento": "2026-11-16",
+      "tickers": [
+        "AMD"
+      ]
+    },
+    {
+      "id": "morgan-stanley-max-overweight-acciones",
+      "type": "mercado",
+      "title": "Morgan Stanley recomienda llevar al máximo la exposición a acciones de cara al próximo año",
+      "summary": "Estrategas de Morgan Stanley publicaron uno de los panoramas más alcistas del mercado para el año que viene, recomendando aumentar la tenencia de acciones al nivel más alto posible.",
+      "detail": "Cuando grandes bancos de inversión como Morgan Stanley emiten perspectivas anuales, el mercado las sigue de cerca porque mueven flujos de capital institucional. Una recomendación de máxima sobreponderación en acciones sugiere que el banco espera que las bolsas suban más que otros activos como bonos o efectivo. Para quien aprende finanzas, es útil entender que estas recomendaciones no son certezas sino señales de sentimiento institucional que pueden influir en los precios a corto plazo.",
+      "tags": [
+        "acciones",
+        "estrategia",
         "Wall Street"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-      "published_at": "2026-11-15T21:32:00Z",
-      "fecha_evento": "2026-11-15",
-      "tickers": [
-        "NVDA"
-      ]
+      "source_url": "https://www.marketwatch.com/story/why-morgan-stanley-says-its-time-to-go-max-overweight-on-stocks-bd33b103?mod=mw_rss_topstories",
+      "published_at": "2026-11-16T10:20:00Z",
+      "fecha_evento": "2026-11-16",
+      "tickers": []
     },
     {
-      "id": "nike-investor-day-noviembre-2026",
-      "type": "reunion",
-      "title": "Nike tendrá su primer Investor Day en 9 años el 17 de noviembre",
-      "summary": "Nike celebrará su primer día para inversores en nueve años el 17 de noviembre, en un momento en que los ejecutivos anticipan que los ingresos caerán en dígitos altos durante el año fiscal 2027.",
-      "detail": "Un Investor Day es un evento donde la empresa presenta su estrategia a largo plazo directamente a accionistas y analistas. Que Nike no haya hecho uno en nueve años y lo convoque en un momento de caída de ingresos genera expectativa sobre los planes para revertir la tendencia. Para alguien que aprende finanzas, estos eventos son clave para entender cómo las empresas comunican su visión al mercado y cómo eso puede impactar el precio de la acción.",
-      "tags": [
-        "Nike",
-        "inversores",
-        "estrategia"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/nikes-first-investor-day-9-years-days-away-3-numbers-you-need-know-nov-17",
-      "published_at": "2026-11-15T19:20:02Z",
-      "fecha_evento": "2026-11-17",
-      "tickers": [
-        "NKE"
-      ]
-    },
-    {
-      "id": "boeing-archer-aviation-deal",
-      "type": "empresa",
-      "title": "Boeing le transfiere tres unidades de negocios a Archer Aviation y cierra un pedido de F-15 por 131.000 millones de dólares",
-      "summary": "Boeing acordó cederle tres divisiones a Archer Aviation y al mismo tiempo cerró un contrato de defensa por 131.000 millones de dólares para la producción del caza F-15, en una operación que redistribuye activos clave entre ambas compañías.",
-      "detail": "Cuando una empresa grande como Boeing decide desprenderse de divisiones enteras, generalmente busca concentrarse en su negocio principal o mejorar su situación financiera. Para Archer, recibir unidades rentables de defensa puede acelerar su crecimiento. Este tipo de operaciones —fusiones, adquisiciones y desinversiones— son herramientas centrales en las finanzas corporativas y pueden cambiar radicalmente el perfil de riesgo y retorno de una empresa.",
-      "tags": [
-        "Boeing",
-        "defensa",
-        "fusiones y adquisiciones"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/boeing-handing-3-businesses-archer-aviation-and-closing-131-billion-f-15-order-heres-which",
-      "published_at": "2026-11-15T20:20:02Z",
-      "fecha_evento": "2026-11-15",
-      "tickers": [
-        "BA",
-        "ACHR"
-      ]
-    },
-    {
-      "id": "china-sheep-stocks-rally",
+      "id": "ai-burbuja-caida-mercado-furman",
       "type": "mercado",
-      "title": "Las acciones chinas con nombres que suenan a \"oveja\" se dispararon de cara al Año del Carnero",
-      "summary": "En China, acciones de empresas de rubros muy variados —desde procesadoras de pescado hasta fabricantes de electrodomésticos— subieron fuerte simplemente porque sus nombres en chino se asocian fonéticamente con la palabra oveja, en anticipación al próximo Año del Carnero.",
-      "detail": "Este fenómeno ilustra cómo los mercados no siempre se mueven por fundamentos económicos: el sentimiento, la cultura y las expectativas irracionales también mueven precios. En finanzas, esto se estudia bajo el concepto de \"comportamiento irracional del inversor\" o finanzas conductuales (behavioral finance). Es un ejemplo extremo de que el precio de una acción puede desconectarse completamente del valor real del negocio.",
+      "title": "Un ex economista de la Casa Blanca estima que si la IA es una burbuja, el mercado podría caer un 25%",
+      "summary": "Jason Furman, ex asesor económico del gobierno de EE.UU., advirtió que si la inteligencia artificial resulta ser una burbuja que explota, el escenario más probable es una caída del 25% en el mercado bursátil amplio.",
+      "detail": "Las burbujas especulativas ocurren cuando el precio de un activo sube mucho más rápido que sus fundamentos reales. Si la IA no genera los retornos económicos que el mercado anticipa, una corrección podría arrastrar a todo el índice dado el peso que tienen las empresas tecnológicas en el S&P 500. Para quien aprende finanzas, este análisis enseña a distinguir entre el valor intrínseco de una empresa y el precio que el mercado le asigna en un momento de euforia.",
       "tags": [
-        "mercados",
-        "comportamiento inversor",
-        "China"
+        "burbuja",
+        "inteligencia artificial",
+        "mercado"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
-      "published_at": "2026-11-15T15:22:00Z",
-      "fecha_evento": "2026-11-15",
+      "source_url": "https://www.marketwatch.com/story/heres-how-much-the-stock-market-could-crumble-if-ai-is-a-bubble-that-bursts-according-to-former-white-house-economist-3a4c15e1?mod=mw_rss_topstories",
+      "published_at": "2026-11-16T10:32:00Z",
+      "fecha_evento": "2026-11-16",
       "tickers": []
+    },
+    {
+      "id": "canadian-natural-adquiere-advantage-energy",
+      "type": "empresa",
+      "title": "Canadian Natural Resources comprará Advantage Energy por u$s 2.530 millones",
+      "summary": "La petrolera canadiense Canadian Natural Resources anunció la adquisición de Advantage Energy, productora de gas natural, por u$s 13,55 por acción en efectivo, en una operación valuada en aproximadamente u$s 2.530 millones incluyendo deuda.",
+      "detail": "Las fusiones y adquisiciones en el sector energético suelen darse cuando las empresas grandes buscan aumentar reservas o expandir producción a un costo menor que desarrollar nuevos yacimientos propios. El pago en efectivo, en lugar de acciones, suele interpretarse como una señal de que la compradora considera que su propia acción está subvaluada. Para quien aprende finanzas, esta operación ilustra cómo se valúan empresas en transacciones reales y por qué el precio ofrecido casi siempre supera al de mercado previo al anuncio.",
+      "tags": [
+        "fusión",
+        "energía",
+        "Canadá"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/canadian-natural-acquire-advantage-energy-253-bln-deal",
+      "published_at": "2026-11-16T10:52:38Z",
+      "fecha_evento": "2026-11-16",
+      "tickers": [
+        "CNQ"
+      ]
+    },
+    {
+      "id": "ev-makers-no-cuentan-democratas",
+      "type": "empresa",
+      "title": "Los CEOs de Rivian, Lucid y Scout no esperan que los demócratas restauren los incentivos federales para autos eléctricos",
+      "summary": "Los líderes de las principales empresas de vehículos eléctricos de EE.UU. afirmaron que no cuentan con que los demócratas, tras sus victorias en las elecciones de mitad de mandato, vayan a recuperar el apoyo federal al sector.",
+      "detail": "Los incentivos gubernamentales como créditos fiscales o subsidios tienen un impacto directo en la demanda de productos y en la viabilidad financiera de empresas que todavía no son rentables. La incertidumbre regulatoria —cuando las reglas cambian según quién gobierna— es un riesgo clave a considerar al invertir en sectores emergentes. Este caso muestra cómo el contexto político afecta las decisiones de negocios y las perspectivas de empresas cotizadas en bolsa.",
+      "tags": [
+        "vehículos eléctricos",
+        "regulación",
+        "EE.UU."
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+      "published_at": "2026-11-15T13:00:02Z",
+      "fecha_evento": "2026-11-15",
+      "tickers": [
+        "RIVN",
+        "LCID"
+      ]
     }
   ],
   "ticker": [
@@ -176,9 +191,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 65.050",
-      "valor_num": 65050.0,
-      "delta_pct": 1.05
+      "valor": "US$ 64.430",
+      "valor_num": 64430.0,
+      "delta_pct": -1.4
     },
     {
       "label": "S&P 500",
@@ -188,9 +203,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.886",
-      "valor_num": 3886.3,
-      "delta_pct": -3.57
+      "valor": "US$ 3.879",
+      "valor_num": 3879.3,
+      "delta_pct": -3.03
     }
   ]
 }
