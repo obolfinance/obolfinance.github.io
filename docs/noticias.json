@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-16T22:01:12.195054+00:00",
+  "generated_at": "2026-11-17T12:01:06.313931+00:00",
   "items": [
     {
-      "id": "japan-gdp-q3-2026",
+      "id": "japan-gdp-q3-contraction",
       "type": "economia",
-      "title": "La economía japonesa se contrajo inesperadamente en el tercer trimestre",
-      "summary": "Japón registró una caída sorpresiva en su economía durante el tercer trimestre, impulsada por el encarecimiento de la energía tras el vencimiento de los subsidios en septiembre y el impacto de la guerra en Irán sobre los precios del petróleo.",
-      "detail": "Cuando los gobiernos retiran subsidios de energía, los hogares y empresas quedan expuestos a precios de mercado más altos, lo que reduce el consumo y la producción. Que Japón —la tercera economía mundial— se contraiga es una señal de alerta global: muestra cómo conflictos geopolíticos (como la guerra en Irán) pueden trasladarse a la economía real de países que dependen de importaciones de energía. Para alguien que aprende finanzas, esto ilustra la cadena entre geopolítica, precios de commodities y crecimiento económico.",
+      "title": "La economía de Japón se contrajo inesperadamente en el tercer trimestre",
+      "summary": "El PBI de Japón cayó sorpresivamente en el tercer trimestre, golpeado por el vencimiento de los subsidios energéticos en septiembre y los altos precios del petróleo derivados del conflicto en Irán.",
+      "detail": "Cuando un gobierno retira subsidios a la energía, los hogares y empresas pasan a pagar el precio real del mercado, lo que reduce el consumo y la producción. Este caso muestra cómo una decisión de política pública puede tener un impacto directo en el PBI. Para quien aprende finanzas, es un ejemplo claro de cómo los datos macroeconómicos sorpresivos mueven expectativas sobre tasas de interés y tipo de cambio.",
       "tags": [
-        "economía global",
+        "PBI",
         "energía",
-        "PBI"
+        "Japón"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
@@ -19,87 +19,49 @@
       "tickers": []
     },
     {
-      "id": "nvidia-restriccion-chips-china",
+      "id": "disney-q4-earnings",
       "type": "empresa",
-      "title": "El gobierno de EE.UU. restringe el acceso de China a chips avanzados y las acciones de Nvidia caen",
-      "summary": "El Departamento de Comercio de EE.UU. anunció una nueva norma para limitar el acceso remoto de China a chips avanzados, lo que extendió la caída de las acciones de Nvidia.",
-      "detail": "Las restricciones de exportación de chips son una herramienta de política comercial que afecta directamente los ingresos de empresas como Nvidia, ya que China es uno de sus mercados más grandes. Cuando el gobierno limita a quién le pueden vender, el mercado descuenta menores ganancias futuras y el precio de la acción baja. Este caso es un buen ejemplo de cómo las decisiones regulatorias y geopolíticas impactan el valor de empresas tecnológicas.",
-      "tags": [
-        "tecnología",
-        "geopolítica",
-        "regulación"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-      "published_at": "2026-11-16T21:53:00Z",
-      "fecha_evento": "2026-11-16",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "chips-ai-selloff-noviembre",
-      "type": "mercado",
-      "title": "Caída generalizada en acciones de chips e IA: Micron, AMD y otras bajan fuerte",
-      "summary": "Las acciones de empresas de semiconductores e inteligencia artificial cayeron con fuerza, en medio de la incertidumbre por los próximos resultados de Nvidia y el temor a que la compañía reduzca su financiamiento al ecosistema de IA.",
-      "detail": "Nvidia no solo vende chips: también financia proyectos y startups de IA, lo que convierte a la empresa en un motor clave del sector. Si los inversores temen que Nvidia recorte ese apoyo, otras empresas del ecosistema también caen en anticipación. Este efecto de arrastre es un ejemplo clásico de cómo la incertidumbre en torno a un líder sectorial puede generar ventas masivas en todo el mercado relacionado.",
-      "tags": [
-        "semiconductores",
-        "inteligencia artificial",
-        "acciones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
-      "published_at": "2026-11-16T21:17:00Z",
-      "fecha_evento": "2026-11-16",
-      "tickers": [
-        "NVDA",
-        "MU",
-        "AMD"
-      ]
-    },
-    {
-      "id": "nvidia-earnings-call-preguntas",
-      "type": "empresa",
-      "title": "Inversores esperan respuestas clave en la histórica presentación de resultados de Nvidia",
-      "summary": "Se viene una presentación de resultados muy esperada de Nvidia, donde los inversores buscarán claridad sobre el futuro de la empresa —especialmente en materia de sucesión tras la era de Jensen Huang.",
-      "detail": "Las llamadas de resultados (earnings calls) son eventos donde las empresas presentan sus números trimestrales y responden preguntas de analistas e inversores. Para Nvidia, dada su posición central en el boom de la IA, cada detalle que dé la gerencia puede mover el precio de la acción y el mercado en general. Aprender a leer qué preguntan los inversores en estos eventos es una habilidad clave en finanzas.",
+      "title": "Disney superó las estimaciones del cuarto trimestre y anunció recortes de costos por USD 3.000 millones",
+      "summary": "Disney reportó resultados del cuarto trimestre por encima de lo esperado y fijó como objetivo un ahorro de USD 3.000 millones a través de recortes de costos, en medio de una nueva estrategia del CEO Josh D'Amaro.",
+      "detail": "Cuando una empresa grande como Disney supera las estimaciones del mercado, suele generar una reacción positiva en el precio de su acción. Los planes de recorte de costos buscan mejorar los márgenes de ganancia, algo que los inversores valoran. Este tipo de reportes trimestrales son eventos clave para entender cómo se analizan empresas cotizantes en bolsa.",
       "tags": [
         "resultados",
-        "inteligencia artificial",
-        "empresas"
+        "entretenimiento",
+        "acciones"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidia-investors-will-be-clamoring-for-answers-to-these-questions-during-the-companys-hotly-anticipated-earnings-call-a49ec19d?mod=mw_rss_topstories",
-      "published_at": "2026-11-16T21:05:00Z",
-      "fecha_evento": "2026-11-16",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+      "published_at": "2026-11-17T11:38:33Z",
+      "fecha_evento": "2026-11-17",
       "tickers": [
-        "NVDA"
+        "DIS"
       ]
     },
     {
-      "id": "bolsa-canada-cae-inflacion",
-      "type": "mercado",
-      "title": "Las acciones canadienses caen por datos de inflación y baja en energía y materiales",
-      "summary": "La bolsa de Canadá sumó una tercera sesión de pérdidas el lunes, presionada por datos de inflación estables y caídas en los precios del oro y el petróleo que afectaron a los sectores de materiales y energía.",
-      "detail": "Canadá es una economía muy dependiente de las materias primas como el petróleo y los metales, por lo que caídas en esos precios golpean directamente a las empresas del sector y arrastran a la bolsa. Los datos de inflación, aunque estables, generan incertidumbre sobre las decisiones futuras del banco central canadiense. Este caso ilustra cómo los commodities y los datos macroeconómicos se retroalimentan con el mercado bursátil.",
+      "id": "nike-investor-day",
+      "type": "empresa",
+      "title": "Nike celebra su primer Investor Day en 9 años para mostrar su plan de recuperación",
+      "summary": "Nike organizó un día del inversor en su sede de Oregon, el primero en nueve años, buscando convencer al mercado de que su proceso de reestructuración va por buen camino.",
+      "detail": "Un 'Investor Day' es un evento donde la empresa presenta su estrategia a analistas e inversores. Sirve para ganar confianza del mercado cuando el negocio atraviesa dificultades. Para quienes aprenden finanzas, es un ejemplo de cómo la comunicación corporativa y la transparencia influyen en la valoración de una empresa en bolsa.",
       "tags": [
-        "bolsa",
-        "commodities",
-        "inflación"
+        "acciones",
+        "estrategia",
+        "consumo"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/canadian-stocks-tumble-amid-inflation-data-slumps-energy-materials-sectors",
-      "published_at": "2026-11-16T21:30:23Z",
-      "fecha_evento": "2026-11-16",
-      "tickers": []
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
+      "published_at": "2026-11-17T12:00:01Z",
+      "fecha_evento": "2026-11-17",
+      "tickers": [
+        "NKE"
+      ]
     },
     {
-      "id": "novo-wegovy-ninos-menores-12",
+      "id": "novo-wegovy-ninos",
       "type": "empresa",
-      "title": "Novo Nordisk mostró que Wegovy reduce la obesidad en niños menores de 12 años en un ensayo clínico",
-      "summary": "Un ensayo clínico de Novo Nordisk demostró que Wegovy baja el IMC y las tasas de obesidad en chicos menores de 12 años, una franja etaria donde actualmente no hay medicamentos aprobados para este fin.",
-      "detail": "La aprobación de un medicamento para un nuevo grupo de pacientes amplía considerablemente el mercado potencial de una empresa farmacéutica, lo que suele impactar positivamente en su cotización bursátil. Este tipo de noticias —resultados de ensayos clínicos— son muy seguidas por inversores del sector salud porque marcan el camino hacia nuevas aprobaciones regulatorias. Para aprender finanzas, es un buen ejemplo de cómo la innovación científica se traduce en valor empresarial.",
+      "title": "Novo Nordisk publicó resultados positivos de Wegovy en niños menores de 12 años",
+      "summary": "Un ensayo clínico mostró que Wegovy redujo el IMC y las tasas de obesidad en niños menores de 12 años, una franja etaria donde actualmente no hay medicamentos aprobados para tratar esta condición.",
+      "detail": "Wegovy ya estaba aprobado para mayores de 12 años, pero expandir su uso a niños más chicos representa un mercado potencial enorme para Novo Nordisk. Los resultados positivos en ensayos clínicos suelen impactar el precio de las acciones de las farmacéuticas porque anticipan futuros ingresos. Esto ilustra cómo la innovación científica se traduce en valor para los accionistas.",
       "tags": [
         "farmacéutica",
         "salud",
@@ -114,58 +76,113 @@
       ]
     },
     {
-      "id": "fda-rechaza-droga-summit-therapeutics",
+      "id": "deutsche-bank-documentos-filtrados",
       "type": "empresa",
-      "title": "La FDA rechazó uno de los medicamentos oncológicos más esperados del sector biotech",
-      "summary": "La FDA le negó la aprobación a Summit Therapeutics para su fármaco contra el cáncer de pulmón, exigiéndole demostrar que el medicamento prolonga la vida de los pacientes antes de dar luz verde.",
-      "detail": "Las decisiones de la FDA son hitos críticos para las empresas de biotecnología: una aprobación puede disparar el precio de una acción, y un rechazo puede hundirla. En este caso, la FDA pidió evidencia más sólida de beneficio clínico, lo cual es un estándar regulatorio común pero que puede retrasar años el camino al mercado. Es un ejemplo directo de cómo el riesgo regulatorio es uno de los riesgos más importantes a considerar al invertir en biotech.",
+      "title": "Deutsche Bank perdió hasta €3.800 millones de capitalización bursátil tras filtración de 15 millones de documentos",
+      "summary": "Una investigación periodística basada en 15 millones de documentos filtrados hizo caer el valor de mercado de Deutsche Bank hasta €3.800 millones en la jornada.",
+      "detail": "Cuando se filtran documentos que pueden revelar irregularidades en un banco, los inversores reaccionan vendiéndose acciones antes de conocer el alcance real del problema. Esto muestra cómo el riesgo reputacional y legal impacta directamente en el precio de una acción. Para quienes aprenden finanzas, es un ejemplo de cómo eventos no económicos pueden mover mercados.",
       "tags": [
-        "biotech",
-        "regulación",
-        "FDA"
+        "banca",
+        "riesgo",
+        "Europa"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-      "published_at": "2026-11-16T20:41:00Z",
-      "fecha_evento": "2026-11-16",
+      "source_url": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078",
+      "published_at": "2026-11-17T09:35:00Z",
+      "fecha_evento": "2026-11-17",
       "tickers": [
-        "SMMT"
+        "DB"
       ]
     },
     {
-      "id": "costos-envio-inventario-fiestas",
-      "type": "economia",
-      "title": "Los costos de transporte suben y complican el inventario de las fiestas",
-      "summary": "El aumento en los costos de envío está llevando a los retailers a ser más cautelosos con su inventario para las fiestas, lo que podría generar faltantes de productos de alto valor.",
-      "detail": "Los costos logísticos son un indicador de salud económica: cuando suben, comprimen los márgenes de las empresas y pueden reducir la oferta de productos al consumidor. En épocas de alta demanda como las fiestas, esto puede traducirse en precios más altos o faltantes. Para quien aprende finanzas, esto muestra cómo los costos operativos afectan tanto a las empresas como a los consumidores finales.",
+      "id": "bitcoin-caida-70k",
+      "type": "mercado",
+      "title": "Bitcoin cayó por debajo de los USD 70.000 el viernes pasado",
+      "summary": "El precio de Bitcoin bajó por debajo de los USD 70.000 el viernes, desatando un debate sobre si es momento de comprar o esperar mayor claridad en el mercado cripto.",
+      "detail": "Las caídas abruptas en Bitcoin suelen estar ligadas a cambios en el apetito de riesgo global, noticias regulatorias o movimientos de grandes tenedores. Para quien aprende finanzas, es importante entender que activos volátiles como las criptomonedas pueden caer fuerte y rápido, y que el precio de entrada importa mucho en instrumentos sin flujos de caja predecibles.",
       "tags": [
-        "logística",
-        "consumo",
-        "inflación"
+        "cripto",
+        "Bitcoin",
+        "volatilidad"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/crypto-sell-bitcoin-buy-after-plunging-below-70000-last-friday",
+      "published_at": "2026-11-17T11:25:02Z",
+      "fecha_evento": "2026-11-14",
+      "tickers": [
+        "BTC"
+      ]
+    },
+    {
+      "id": "nvidia-jensen-huang-caida",
+      "type": "empresa",
+      "title": "La acción de Nvidia se derrumbó en la última semana en medio de controversia sobre Jensen Huang",
+      "summary": "Las acciones de Nvidia cayeron fuerte en los últimos días tras una controversia vinculada a su CEO Jensen Huang, generando dudas sobre si el papel puede volver a los USD 200.",
+      "detail": "Nvidia es una de las empresas más importantes del mundo en chips para inteligencia artificial. Cuando el CEO de una compañía de este tamaño enfrenta cuestionamientos, el mercado reacciona con ventas porque la incertidumbre sobre el liderazgo afecta las expectativas futuras. Esto ilustra cómo el riesgo de gestión (también llamado riesgo de management) puede impactar el valor de una empresa.",
+      "tags": [
+        "tecnología",
+        "acciones",
+        "IA"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/would-jensen-huang-comeback-send-nvidias-stock-back-200",
+      "published_at": "2026-11-17T11:20:02Z",
+      "fecha_evento": "2026-11-17",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "restricciones-chips-china-mercados",
+      "type": "mercado",
+      "title": "Las bolsas europeas cayeron ante nuevas restricciones de EE.UU. a la exportación de chips a China",
+      "summary": "Los mercados alemán y francés bajaron tras reportes de que Estados Unidos planea endurecer las restricciones al acceso de China a chips avanzados de inteligencia artificial.",
+      "detail": "Las restricciones a la exportación de chips afectan directamente los ingresos de empresas como Nvidia o ASML, que tienen a China como uno de sus principales mercados. Cuando estas medidas se anuncian, los inversores anticipan menores ventas futuras y venden acciones del sector tecnológico. Para quien aprende finanzas, es un ejemplo de cómo la geopolítica impacta en los mercados globales.",
+      "tags": [
+        "geopolítica",
+        "chips",
+        "mercados"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/german-stocks-decline-us-chip-restrictions",
+      "published_at": "2026-11-17T11:04:07Z",
+      "fecha_evento": "2026-11-17",
+      "tickers": []
+    },
+    {
+      "id": "fed-warsh-ia-tasas",
+      "type": "discurso",
+      "title": "El futuro presidente de la Fed, Kevin Warsh, analiza el impacto de la IA en empleo y tasas de interés",
+      "summary": "Kevin Warsh, señalado como el próximo presidente de la Reserva Federal de EE.UU., enfrenta preguntas clave sobre cómo la revolución de la inteligencia artificial podría afectar el empleo y las tasas de interés.",
+      "detail": "La IA podría aumentar la productividad de la economía, lo que cambia el cálculo de cuánto puede crecer sin generar inflación. Si la productividad sube, el banco central podría mantener tasas más bajas sin que los precios se disparen. Para quien aprende finanzas, esto muestra cómo los cambios tecnológicos se conectan con la política monetaria y los mercados de bonos.",
+      "tags": [
+        "Fed",
+        "IA",
+        "tasas"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
-      "published_at": "2026-11-16T12:00:01Z",
+      "source_url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+      "published_at": "2026-11-17T00:42:33Z",
       "fecha_evento": "2026-11-16",
       "tickers": []
     },
     {
-      "id": "argt-etf-sobrevendido",
-      "type": "mercado",
-      "title": "El ETF de Argentina (ARGT) cayó a zona de sobrevendido en la bolsa de EE.UU.",
-      "summary": "Las acciones del Global X MSCI Argentina ETF (ARGT) tocaron los USD 70,75 y entraron en zona de sobrevendido según el indicador RSI, una señal técnica que algunos inversores usan para detectar posibles rebotes.",
-      "detail": "El ETF ARGT agrupa acciones de empresas argentinas que cotizan en Wall Street, por lo que su comportamiento refleja la percepción de los inversores globales sobre Argentina. Cuando un activo cae al territorio de sobrevendido según el RSI, significa que bajó muy rápido en poco tiempo, lo que a veces anticipa una corrección al alza. Para alguien en Argentina, seguir este ETF es una forma de ver cómo el mundo valora a las empresas locales.",
+      "id": "home-depot-q3-ganancias",
+      "type": "empresa",
+      "title": "Home Depot reportó un aumento en sus ganancias del tercer trimestre",
+      "summary": "Home Depot publicó resultados del tercer trimestre con ganancias mayores a las del mismo período del año anterior.",
+      "detail": "Home Depot es una de las empresas más grandes del S&P 500 y sus resultados funcionan como termómetro del consumo y la inversión en vivienda en Estados Unidos. Cuando mejoran sus ganancias, suele ser señal de que los hogares siguen gastando a pesar de la incertidumbre económica. Para quien aprende finanzas, seguir los reportes de empresas líderes ayuda a entender el estado general de la economía.",
       "tags": [
-        "Argentina",
-        "ETF",
-        "análisis técnico"
+        "resultados",
+        "consumo",
+        "acciones"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/shares-argt-now-oversold",
-      "published_at": "2026-11-16T21:27:29Z",
-      "fecha_evento": "2026-11-16",
+      "source_url": "https://www.nasdaq.com/articles/home-depot-inc-reports-increase-q3-bottom-line",
+      "published_at": "2026-11-17T11:12:11Z",
+      "fecha_evento": "2026-11-17",
       "tickers": [
-        "ARGT"
+        "HD"
       ]
     }
   ],
@@ -196,9 +213,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 65.290",
-      "valor_num": 65290.0,
-      "delta_pct": 0.54
+      "valor": "US$ 64.904",
+      "valor_num": 64904.0,
+      "delta_pct": 0.79
     },
     {
       "label": "S&P 500",
@@ -208,9 +225,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.859",
-      "valor_num": 3858.9,
-      "delta_pct": -3.54
+      "valor": "US$ 3.873",
+      "valor_num": 3872.6,
+      "delta_pct": -0.33
     }
   ]
 }
