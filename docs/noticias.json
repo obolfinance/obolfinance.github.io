@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-17T12:01:06.313931+00:00",
+  "generated_at": "2026-11-17T22:01:05.650475+00:00",
   "items": [
     {
-      "id": "japan-gdp-q3-contraction",
+      "id": "japan-gdp-q3-2026",
       "type": "economia",
       "title": "La economía de Japón se contrajo inesperadamente en el tercer trimestre",
-      "summary": "El PBI de Japón cayó sorpresivamente en el tercer trimestre, golpeado por el vencimiento de los subsidios energéticos en septiembre y los altos precios del petróleo derivados del conflicto en Irán.",
-      "detail": "Cuando un gobierno retira subsidios a la energía, los hogares y empresas pasan a pagar el precio real del mercado, lo que reduce el consumo y la producción. Este caso muestra cómo una decisión de política pública puede tener un impacto directo en el PBI. Para quien aprende finanzas, es un ejemplo claro de cómo los datos macroeconómicos sorpresivos mueven expectativas sobre tasas de interés y tipo de cambio.",
+      "summary": "El PBI de Japón cayó en el tercer trimestre de 2026, sorprendiendo al mercado. El vencimiento de los subsidios de energía en septiembre dejó a las familias expuestas a los altos precios del petróleo generados por la guerra con Irán.",
+      "detail": "Cuando un gobierno retira subsidios energéticos, el costo de vida sube y el consumo privado cae, lo que arrastra al PBI. Este caso muestra cómo decisiones de política fiscal pueden amplificar shocks externos como un conflicto bélico. Para quien aprende finanzas, es un ejemplo claro de cómo los datos macroeconómicos sorpresivos mueven mercados y expectativas sobre tasas de interés.",
       "tags": [
         "PBI",
         "energía",
@@ -19,53 +19,89 @@
       "tickers": []
     },
     {
-      "id": "disney-q4-earnings",
+      "id": "nvidia-q3-profit-2026",
       "type": "empresa",
-      "title": "Disney superó las estimaciones del cuarto trimestre y anunció recortes de costos por USD 3.000 millones",
-      "summary": "Disney reportó resultados del cuarto trimestre por encima de lo esperado y fijó como objetivo un ahorro de USD 3.000 millones a través de recortes de costos, en medio de una nueva estrategia del CEO Josh D'Amaro.",
-      "detail": "Cuando una empresa grande como Disney supera las estimaciones del mercado, suele generar una reacción positiva en el precio de su acción. Los planes de recorte de costos buscan mejorar los márgenes de ganancia, algo que los inversores valoran. Este tipo de reportes trimestrales son eventos clave para entender cómo se analizan empresas cotizantes en bolsa.",
+      "title": "Nvidia reportó una suba en sus ganancias del tercer trimestre",
+      "summary": "Nvidia publicó sus resultados del tercer trimestre y mostró un aumento en sus ganancias respecto al mismo período del año anterior.",
+      "detail": "Nvidia es uno de los referentes globales en chips para inteligencia artificial, y sus resultados trimestrales son seguidos de cerca por todo el mercado tecnológico. Cuando una empresa tan influyente supera expectativas, suele arrastrar al alza a otras acciones del sector. Entender cómo los earnings mueven precios es una habilidad clave en finanzas.",
       "tags": [
-        "resultados",
-        "entretenimiento",
+        "Nvidia",
+        "ganancias",
+        "tecnología"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/nvidia-corporation-q3-profit-rises",
+      "published_at": "2026-11-17T21:30:23Z",
+      "fecha_evento": "2026-11-17",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "us-stocks-lower-nvidia-earnings",
+      "type": "mercado",
+      "title": "Wall Street cerró a la baja antes de los resultados de Nvidia",
+      "summary": "Las principales bolsas de EE.UU. cayeron el martes, con el Dow Jones tocando su nivel de cierre más bajo en cinco meses, en una jornada marcada por la cautela previa a los resultados de Nvidia.",
+      "detail": "Cuando el mercado espera resultados de una empresa clave como Nvidia, muchos inversores prefieren vender o cubrirse antes de que salgan los datos, lo que puede generar caídas generalizadas. Este comportamiento refleja cómo la incertidumbre y las expectativas mueven los precios incluso antes de que haya noticias concretas.",
+      "tags": [
+        "Wall Street",
+        "mercado",
         "acciones"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/us-stocks-close-mostly-lower-ahead-nvidia-earnings",
+      "published_at": "2026-11-17T21:21:52Z",
+      "fecha_evento": "2026-11-17",
+      "tickers": []
+    },
+    {
+      "id": "disney-q4-earnings-2026",
+      "type": "empresa",
+      "title": "Disney superó las estimaciones del cuarto trimestre y anunció un plan de ahorro de $3.000 millones",
+      "summary": "Disney presentó resultados por encima de lo esperado y fijó un objetivo de ahorro de 3.000 millones de dólares mediante recortes de costos. Los inversores esperan conocer la estrategia del nuevo CEO Josh D'Amaro.",
+      "detail": "Cuando una empresa grande como Disney anuncia metas de reducción de costos, el mercado lo interpreta como una señal de que la gestión busca mejorar la rentabilidad, lo que suele impulsar la acción. Es un ejemplo típico de cómo las decisiones estratégicas internas afectan la valoración bursátil.",
+      "tags": [
+        "Disney",
+        "ganancias",
+        "ahorro"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-      "published_at": "2026-11-17T11:38:33Z",
+      "published_at": "2026-11-17T16:40:25Z",
       "fecha_evento": "2026-11-17",
       "tickers": [
         "DIS"
       ]
     },
     {
-      "id": "nike-investor-day",
+      "id": "nike-investor-day-2026",
       "type": "empresa",
-      "title": "Nike celebra su primer Investor Day en 9 años para mostrar su plan de recuperación",
-      "summary": "Nike organizó un día del inversor en su sede de Oregon, el primero en nueve años, buscando convencer al mercado de que su proceso de reestructuración va por buen camino.",
-      "detail": "Un 'Investor Day' es un evento donde la empresa presenta su estrategia a analistas e inversores. Sirve para ganar confianza del mercado cuando el negocio atraviesa dificultades. Para quienes aprenden finanzas, es un ejemplo de cómo la comunicación corporativa y la transparencia influyen en la valoración de una empresa en bolsa.",
+      "title": "Nike presentó sus objetivos financieros en su primer investor day en 9 años",
+      "summary": "Nike organizó un día del inversor en su sede de Oregon para mostrar el progreso de su plan de recuperación y convencer al mercado de que la empresa está en el camino correcto.",
+      "detail": "Un investor day es un evento donde la empresa presenta sus metas a largo plazo directamente a analistas e inversores. Que Nike no organizaba uno desde hace 9 años muestra cuánto necesitaba recuperar la confianza del mercado. Estos eventos suelen mover el precio de la acción según si las proyecciones superan o decepcionan las expectativas.",
       "tags": [
-        "acciones",
-        "estrategia",
-        "consumo"
+        "Nike",
+        "inversores",
+        "estrategia"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-      "published_at": "2026-11-17T12:00:01Z",
+      "published_at": "2026-11-17T17:02:34Z",
       "fecha_evento": "2026-11-17",
       "tickers": [
         "NKE"
       ]
     },
     {
-      "id": "novo-wegovy-ninos",
+      "id": "novo-wegovy-ninos-trial",
       "type": "empresa",
-      "title": "Novo Nordisk publicó resultados positivos de Wegovy en niños menores de 12 años",
-      "summary": "Un ensayo clínico mostró que Wegovy redujo el IMC y las tasas de obesidad en niños menores de 12 años, una franja etaria donde actualmente no hay medicamentos aprobados para tratar esta condición.",
-      "detail": "Wegovy ya estaba aprobado para mayores de 12 años, pero expandir su uso a niños más chicos representa un mercado potencial enorme para Novo Nordisk. Los resultados positivos en ensayos clínicos suelen impactar el precio de las acciones de las farmacéuticas porque anticipan futuros ingresos. Esto ilustra cómo la innovación científica se traduce en valor para los accionistas.",
+      "title": "Novo Nordisk mostró que Wegovy reduce la obesidad en niños menores de 12 años en un ensayo clínico",
+      "summary": "Un ensayo clínico de Novo Nordisk demostró que Wegovy baja el IMC y las tasas de obesidad en niños menores de 12 años, una franja etaria donde actualmente no hay medicamentos aprobados para esta condición.",
+      "detail": "La aprobación de un medicamento en una nueva franja de pacientes puede abrir un mercado completamente nuevo para la empresa, lo que tiene impacto directo en sus ingresos futuros y en el precio de la acción. Este tipo de noticias de pipeline farmacéutico son muy seguidas por inversores del sector salud.",
       "tags": [
+        "Novo Nordisk",
         "farmacéutica",
-        "salud",
-        "acciones"
+        "salud"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
@@ -76,114 +112,74 @@
       ]
     },
     {
-      "id": "deutsche-bank-documentos-filtrados",
-      "type": "empresa",
-      "title": "Deutsche Bank perdió hasta €3.800 millones de capitalización bursátil tras filtración de 15 millones de documentos",
-      "summary": "Una investigación periodística basada en 15 millones de documentos filtrados hizo caer el valor de mercado de Deutsche Bank hasta €3.800 millones en la jornada.",
-      "detail": "Cuando se filtran documentos que pueden revelar irregularidades en un banco, los inversores reaccionan vendiéndose acciones antes de conocer el alcance real del problema. Esto muestra cómo el riesgo reputacional y legal impacta directamente en el precio de una acción. Para quienes aprenden finanzas, es un ejemplo de cómo eventos no económicos pueden mover mercados.",
+      "id": "salesforce-sp500-decliner-tech",
+      "type": "mercado",
+      "title": "Salesforce lideró las caídas del S&P 500 en medio de preocupaciones por fallas tecnológicas",
+      "summary": "Las acciones de Salesforce fueron las que más bajaron en el S&P 500, en un contexto donde una serie de fallas tecnológicas generó temor entre inversores sobre la vulnerabilidad de las empresas de software ante el mal uso de la IA.",
+      "detail": "Las fallas tecnológicas en cadena pueden cambiar rápidamente el sentimiento del mercado hacia todo un sector. Este caso muestra cómo un evento operativo —no un dato económico— puede afectar la valuación de empresas de software. Para quien aprende finanzas, es un ejemplo de riesgo tecnológico como factor que mueve precios.",
       "tags": [
-        "banca",
-        "riesgo",
-        "Europa"
+        "Salesforce",
+        "tecnología",
+        "riesgo"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/heres-how-much-of-deutsche-banks-market-cap-has-been-wiped-away-after-reports-on-15-million-leaked-documents-fe3db078",
-      "published_at": "2026-11-17T09:35:00Z",
+      "source_url": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
+      "published_at": "2026-11-17T21:12:00Z",
       "fecha_evento": "2026-11-17",
       "tickers": [
-        "DB"
+        "CRM"
       ]
     },
     {
-      "id": "bitcoin-caida-70k",
+      "id": "oro-mercado-bajista-2026",
       "type": "mercado",
-      "title": "Bitcoin cayó por debajo de los USD 70.000 el viernes pasado",
-      "summary": "El precio de Bitcoin bajó por debajo de los USD 70.000 el viernes, desatando un debate sobre si es momento de comprar o esperar mayor claridad en el mercado cripto.",
-      "detail": "Las caídas abruptas en Bitcoin suelen estar ligadas a cambios en el apetito de riesgo global, noticias regulatorias o movimientos de grandes tenedores. Para quien aprende finanzas, es importante entender que activos volátiles como las criptomonedas pueden caer fuerte y rápido, y que el precio de entrada importa mucho en instrumentos sin flujos de caja predecibles.",
+      "title": "El oro está en un mercado bajista, pero resiste como activo ante el caos digital",
+      "summary": "El oro entró en territorio de mercado bajista, aunque analistas destacan su atractivo como activo físico ante la ola de hackeos y fallas digitales recientes. El debate es si es un buen momento para comprar.",
+      "detail": "Un mercado bajista implica que el precio cayó más del 20% desde su máximo reciente. Aunque el oro se usa clásicamente como refugio en momentos de incertidumbre, su caída muestra que no siempre se comporta como se espera. Entender los ciclos del oro y su relación con otros activos es útil para pensar en diversificación de portafolio.",
       "tags": [
-        "cripto",
-        "Bitcoin",
-        "volatilidad"
+        "oro",
+        "refugio",
+        "mercado bajista"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/crypto-sell-bitcoin-buy-after-plunging-below-70000-last-friday",
-      "published_at": "2026-11-17T11:25:02Z",
-      "fecha_evento": "2026-11-14",
-      "tickers": [
-        "BTC"
-      ]
-    },
-    {
-      "id": "nvidia-jensen-huang-caida",
-      "type": "empresa",
-      "title": "La acción de Nvidia se derrumbó en la última semana en medio de controversia sobre Jensen Huang",
-      "summary": "Las acciones de Nvidia cayeron fuerte en los últimos días tras una controversia vinculada a su CEO Jensen Huang, generando dudas sobre si el papel puede volver a los USD 200.",
-      "detail": "Nvidia es una de las empresas más importantes del mundo en chips para inteligencia artificial. Cuando el CEO de una compañía de este tamaño enfrenta cuestionamientos, el mercado reacciona con ventas porque la incertidumbre sobre el liderazgo afecta las expectativas futuras. Esto ilustra cómo el riesgo de gestión (también llamado riesgo de management) puede impactar el valor de una empresa.",
-      "tags": [
-        "tecnología",
-        "acciones",
-        "IA"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/would-jensen-huang-comeback-send-nvidias-stock-back-200",
-      "published_at": "2026-11-17T11:20:02Z",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories",
+      "published_at": "2026-11-17T20:24:00Z",
       "fecha_evento": "2026-11-17",
-      "tickers": [
-        "NVDA"
-      ]
+      "tickers": []
     },
     {
-      "id": "restricciones-chips-china-mercados",
+      "id": "canada-tsx-baja-noviembre",
       "type": "mercado",
-      "title": "Las bolsas europeas cayeron ante nuevas restricciones de EE.UU. a la exportación de chips a China",
-      "summary": "Los mercados alemán y francés bajaron tras reportes de que Estados Unidos planea endurecer las restricciones al acceso de China a chips avanzados de inteligencia artificial.",
-      "detail": "Las restricciones a la exportación de chips afectan directamente los ingresos de empresas como Nvidia o ASML, que tienen a China como uno de sus principales mercados. Cuando estas medidas se anuncian, los inversores anticipan menores ventas futuras y venden acciones del sector tecnológico. Para quien aprende finanzas, es un ejemplo de cómo la geopolítica impacta en los mercados globales.",
+      "title": "La bolsa de Canadá cayó a su nivel de cierre más bajo en un mes",
+      "summary": "El índice S&P/TSX de Canadá cerró en su nivel más bajo en un mes el martes, sumando pérdidas tras una caída pronunciada el lunes.",
+      "detail": "Las caídas consecutivas en un índice bursátil importante como el TSX canadiense pueden indicar deterioro en el sentimiento del mercado en la región. Canadá es un socio comercial clave de Argentina y sus mercados están interconectados con los de EE.UU., por lo que sus movimientos son relevantes para entender tendencias globales.",
       "tags": [
-        "geopolítica",
-        "chips",
-        "mercados"
+        "Canadá",
+        "bolsa",
+        "mercado"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/german-stocks-decline-us-chip-restrictions",
-      "published_at": "2026-11-17T11:04:07Z",
+      "source_url": "https://www.nasdaq.com/articles/canadas-sp-tsx-composite-index-slumps-one-month-closing-low",
+      "published_at": "2026-11-17T21:30:59Z",
       "fecha_evento": "2026-11-17",
       "tickers": []
     },
     {
       "id": "fed-warsh-ia-tasas",
       "type": "discurso",
-      "title": "El futuro presidente de la Fed, Kevin Warsh, analiza el impacto de la IA en empleo y tasas de interés",
-      "summary": "Kevin Warsh, señalado como el próximo presidente de la Reserva Federal de EE.UU., enfrenta preguntas clave sobre cómo la revolución de la inteligencia artificial podría afectar el empleo y las tasas de interés.",
-      "detail": "La IA podría aumentar la productividad de la economía, lo que cambia el cálculo de cuánto puede crecer sin generar inflación. Si la productividad sube, el banco central podría mantener tasas más bajas sin que los precios se disparen. Para quien aprende finanzas, esto muestra cómo los cambios tecnológicos se conectan con la política monetaria y los mercados de bonos.",
+      "title": "El presidente de la Fed ve una revolución de IA que complica las decisiones sobre tasas e inflación",
+      "summary": "Kevin Warsh, titular de la Reserva Federal, enfrenta preguntas difíciles sobre cómo la inteligencia artificial podría transformar el mercado laboral y qué significa eso para las tasas de interés.",
+      "detail": "La IA puede aumentar la productividad y cambiar el empleo, dos variables centrales para que la Fed decida si sube o baja las tasas. Si la tecnología genera un boom de productividad, podría bajar la inflación sin necesidad de tasas altas; pero si destruye empleos masivamente, el panorama se complica. Esta tensión muestra por qué los bancos centrales hoy miran la tecnología con la misma atención que los datos económicos tradicionales.",
       "tags": [
         "Fed",
-        "IA",
+        "inteligencia artificial",
         "tasas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "published_at": "2026-11-17T00:42:33Z",
-      "fecha_evento": "2026-11-16",
-      "tickers": []
-    },
-    {
-      "id": "home-depot-q3-ganancias",
-      "type": "empresa",
-      "title": "Home Depot reportó un aumento en sus ganancias del tercer trimestre",
-      "summary": "Home Depot publicó resultados del tercer trimestre con ganancias mayores a las del mismo período del año anterior.",
-      "detail": "Home Depot es una de las empresas más grandes del S&P 500 y sus resultados funcionan como termómetro del consumo y la inversión en vivienda en Estados Unidos. Cuando mejoran sus ganancias, suele ser señal de que los hogares siguen gastando a pesar de la incertidumbre económica. Para quien aprende finanzas, seguir los reportes de empresas líderes ayuda a entender el estado general de la economía.",
-      "tags": [
-        "resultados",
-        "consumo",
-        "acciones"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/home-depot-inc-reports-increase-q3-bottom-line",
-      "published_at": "2026-11-17T11:12:11Z",
+      "published_at": "2026-11-17T15:35:13Z",
       "fecha_evento": "2026-11-17",
-      "tickers": [
-        "HD"
-      ]
+      "tickers": []
     }
   ],
   "ticker": [
@@ -195,39 +191,39 @@
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.600",
-      "valor_num": 1600.0,
-      "delta_pct": 1.59
+      "valor": "$1.605",
+      "valor_num": 1605.0,
+      "delta_pct": 1.9
     },
     {
       "label": "MEP",
-      "valor": "$1.589",
-      "valor_num": 1588.9,
-      "delta_pct": 0.51
+      "valor": "$1.603",
+      "valor_num": 1603.3,
+      "delta_pct": 1.42
     },
     {
       "label": "CCL",
-      "valor": "$1.683",
-      "valor_num": 1682.9,
-      "delta_pct": 0.66
+      "valor": "$1.697",
+      "valor_num": 1697.2,
+      "delta_pct": 1.51
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 64.904",
-      "valor_num": 64904.0,
-      "delta_pct": 0.79
+      "valor": "US$ 64.272",
+      "valor_num": 64272.0,
+      "delta_pct": -1.55
     },
     {
       "label": "S&P 500",
-      "valor": "7.417",
-      "valor_num": 7416.59,
-      "delta_pct": -1.77
+      "valor": "7.341",
+      "valor_num": 7340.53,
+      "delta_pct": -2.4
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.873",
-      "valor_num": 3872.6,
-      "delta_pct": -0.33
+      "valor": "US$ 3.852",
+      "valor_num": 3852.2,
+      "delta_pct": -0.85
     }
   ]
 }
