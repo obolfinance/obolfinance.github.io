@@ -1,126 +1,67 @@
 {
-  "generated_at": "2026-11-18T12:01:21.177281+00:00",
+  "generated_at": "2026-11-18T22:01:16.957103+00:00",
   "items": [
     {
-      "id": "nvidia-ceo-sec-report",
-      "type": "empresa",
-      "title": "Nvidia no presentó su reporte trimestral en la SEC y confirmó que Jensen Huang no vuelve como CEO",
-      "summary": "Nvidia rompió con su práctica habitual y no presentó el informe 10-Q ante la SEC, lo que según analistas es la primera confirmación oficial de que la renuncia de Jensen Huang tiene que ver con conducta personal y no solo con razones empresariales.",
-      "detail": "El formulario 10-Q es el reporte trimestral que toda empresa cotizada en EE.UU. debe presentar ante la SEC. Que Nvidia lo retenga es una señal muy inusual que genera incertidumbre sobre la gobernanza de la compañía. Para alguien que aprende finanzas, esto muestra cómo la transparencia corporativa y los reportes regulatorios afectan directamente la confianza de los inversores y el precio de la acción.",
-      "tags": [
-        "Nvidia",
-        "gobernanza",
-        "mercado"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/why-nvidia-broke-with-its-usual-practice-in-holding-back-its-quarterly-sec-report-1489d492?mod=mw_rss_topstories",
-      "published_at": "2026-11-18T09:32:00Z",
-      "fecha_evento": "2026-11-18",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "nvidia-earnings-wall-street",
-      "type": "mercado",
-      "title": "Nvidia superó expectativas y sube más del 3%: qué dicen los analistas de Wall Street",
-      "summary": "Las acciones de Nvidia subieron más de 3% en el premercado tras un trimestre mejor a lo esperado, aunque analistas de JPMorgan advierten que puede haber más volatilidad en el corto plazo.",
-      "detail": "Cuando una empresa 'bate y sube la guía' (supera estimaciones y mejora sus proyecciones), el mercado suele recompensar con una suba inmediata en el precio de la acción. Sin embargo, la incertidumbre por el cambio de CEO puede generar volatilidad adicional. Este caso ilustra cómo los resultados trimestrales y los eventos corporativos se combinan para mover el precio de un activo.",
-      "tags": [
-        "Nvidia",
-        "resultados",
-        "acciones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
-      "published_at": "2026-11-18T09:41:00Z",
-      "fecha_evento": "2026-11-18",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "sp500-soporte-200-dias",
-      "type": "mercado",
-      "title": "El S&P 500 rompió su media móvil de 200 días: ¿señal de caída o falsa alarma?",
-      "summary": "El S&P 500 cayó por debajo de un nivel clave de soporte técnico conocido como la media móvil de 200 días, aunque analistas de Bespoke Investment señalan que históricamente esto no siempre anticipa una baja sostenida.",
-      "detail": "La media móvil de 200 días es un indicador técnico muy seguido por inversores: cuando el precio cae por debajo, muchos lo interpretan como una señal bajista. Sin embargo, el contexto importa: en algunos ciclos económicos, esta ruptura fue una oportunidad de compra. Entender estos indicadores técnicos es fundamental para leer el mercado y no reaccionar de forma impulsiva ante señales que pueden ser engañosas.",
-      "tags": [
-        "S&P 500",
-        "análisis técnico",
-        "mercado"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-s-p-500-just-broke-a-crucial-support-level-heres-what-history-shows-may-happen-now-776f6da2?mod=mw_rss_topstories",
-      "published_at": "2026-11-18T08:50:00Z",
-      "fecha_evento": "2026-11-18",
-      "tickers": [
-        "SPY"
-      ]
-    },
-    {
-      "id": "chips-ia-sudeste-asiatico",
+      "id": "fed-minutes-inflation-nov2026",
       "type": "economia",
-      "title": "EE.UU. exige aprobación previa para vender chips de IA avanzados a data centers del sudeste asiático",
-      "summary": "Nuevas reglas de EE.UU. obligan a los centros de datos del sudeste asiático a pedir autorización para comprar chips de inteligencia artificial avanzados, lo que amenaza una expansión que se apoyaba fuertemente en la demanda china.",
-      "detail": "Las restricciones a la exportación de chips son una herramienta de política exterior que afecta directamente la cadena de valor tecnológica global. Para un inversor, esto importa porque puede reducir los ingresos de fabricantes como Nvidia en mercados clave y reconfigurar quién lidera la carrera de la IA. También muestra cómo las decisiones geopolíticas pueden mover sectores enteros del mercado.",
+      "title": "La Fed muestra preocupación creciente por la inflación",
+      "summary": "Las actas de la reunión de octubre de la Reserva Federal revelan que los funcionarios están cada vez más inquietos por las perspectivas de inflación, aunque decidieron mantener las tasas de interés sin cambios.",
+      "detail": "Las actas de la Fed son un documento clave para los mercados porque muestran el debate interno detrás de cada decisión de tasas. Cuando los miembros del banco central expresan 'creciente malestar' con la inflación, es una señal de que podrían ser más cautos a la hora de bajar tasas en el futuro. Para Argentina, esto importa porque tasas altas en EE.UU. fortalecen al dólar y encarecen el financiamiento global, lo que afecta a los países emergentes.",
+      "tags": [
+        "Fed",
+        "inflación",
+        "tasas de interés"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
+      "published_at": "2026-11-18T20:51:00Z",
+      "fecha_evento": "2026-11-18",
+      "tickers": []
+    },
+    {
+      "id": "nvidia-ai-trade-nov2026",
+      "type": "mercado",
+      "title": "Nvidia publicó resultados sólidos pero el mercado reaccionó con indiferencia",
+      "summary": "Nvidia presentó resultados muy fuertes, pero las acciones no respondieron con entusiasmo, en medio de mayor escrutinio sobre la compañía y factores macroeconómicos que pesan sobre el trade de la IA.",
+      "detail": "Que un resultado 'blowout' (muy por encima de lo esperado) no mueva el precio de la acción hacia arriba es una señal clásica de que el mercado ya había descontado esas buenas noticias. Este fenómeno se llama 'buy the rumor, sell the news'. Para quien aprende finanzas, es un ejemplo de que el precio de una acción no sube solo porque la empresa le va bien: todo depende de qué tan altas son las expectativas previas.",
+      "tags": [
+        "Nvidia",
+        "IA",
+        "mercado de acciones"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/whats-next-for-the-ai-trade-after-nvidias-blowout-results-are-met-with-a-shrug-853c7abe?mod=mw_rss_topstories",
+      "published_at": "2026-11-18T21:19:00Z",
+      "fecha_evento": "2026-11-18",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "chips-exportcontrols-sea-nov2026",
+      "type": "economia",
+      "title": "EE.UU. limita la venta de chips de IA en el Sudeste Asiático y pone en riesgo el boom de data centers",
+      "summary": "Nuevas reglas de EE.UU. obligan a los data centers del Sudeste Asiático a pedir autorización para comprar chips avanzados de IA, amenazando un crecimiento que dependía fuertemente de la demanda china.",
+      "detail": "Los controles de exportación son una herramienta geopolítica que EE.UU. usa para limitar el acceso de China a tecnología clave. Cuando se restringe la compra de chips, se frena la construcción de infraestructura de IA en toda la región, lo que impacta directamente en empresas como Nvidia que venden esos chips. Este tipo de medidas muestra cómo las decisiones políticas pueden mover mercados enteros y cambiar cadenas de suministro globales.",
       "tags": [
         "chips",
-        "regulación",
-        "inteligencia artificial"
+        "geopolítica",
+        "IA"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
-      "published_at": "2026-11-18T08:09:43Z",
+      "published_at": "2026-11-18T14:09:26Z",
       "fecha_evento": "2026-11-18",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "target-resultados-q3",
-      "type": "empresa",
-      "title": "Target registró su mejor crecimiento de ventas en cinco años y mejoró sus proyecciones",
-      "summary": "Target superó las expectativas de ventas del tercer trimestre y elevó su guía para el año, en el marco de un proceso de recuperación que la compañía viene ejecutando hace varios trimestres.",
-      "detail": "Cuando una empresa grande de consumo como Target supera expectativas y sube su guidance (proyección futura), es una señal de que la demanda del consumidor se mantiene sólida, algo que tiene impacto en las expectativas macroeconómicas. Para quien aprende finanzas, ver cómo los reportes de earnings mueven las acciones y qué información mirar —ventas, márgenes, guía— es una habilidad clave.",
-      "tags": [
-        "consumo",
-        "resultados",
-        "acciones"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-      "published_at": "2026-11-18T11:50:08Z",
-      "fecha_evento": "2026-11-18",
-      "tickers": [
-        "TGT"
-      ]
-    },
-    {
-      "id": "disney-resultados-q4",
-      "type": "empresa",
-      "title": "Disney superó las estimaciones del cuarto trimestre y apunta a ahorrar US$3.000 millones recortando costos",
-      "summary": "Disney publicó resultados mejores a lo esperado y anunció una meta de ahorro de 3.000 millones de dólares mediante recortes de costos, en medio de expectativas sobre la estrategia del nuevo CEO Josh D'Amaro.",
-      "detail": "Los recortes de costos son una palanca habitual que las empresas usan para mejorar su rentabilidad cuando el crecimiento de ingresos se desacelera. En el caso de Disney, que opera desde parques temáticos hasta streaming, la eficiencia operativa es crucial. Este tipo de anuncios suele impactar positivamente en la cotización porque mejora las perspectivas de ganancias futuras.",
-      "tags": [
-        "Disney",
-        "resultados",
-        "entretenimiento"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-      "published_at": "2026-11-17T16:40:25Z",
-      "fecha_evento": "2026-11-17",
-      "tickers": [
-        "DIS"
-      ]
-    },
-    {
-      "id": "japon-pbi-q3",
+      "id": "japan-gdp-contraction-nov2026",
       "type": "economia",
-      "title": "La economía de Japón se contrajo inesperadamente en el tercer trimestre por el alza en los costos de energía",
-      "summary": "El PBI de Japón cayó en el tercer trimestre, sorprendiendo negativamente al mercado, luego de que vencieran los subsidios de energía para los hogares y los precios se dispararan por el impacto de la guerra en Irán.",
-      "detail": "Japón es la tercera economía del mundo, por lo que sus datos de crecimiento afectan los mercados globales y las expectativas sobre política monetaria del Banco de Japón. La caída del PBI muestra cómo los subsidios energéticos pueden enmascarar debilidades estructurales: cuando se retiran, el impacto es inmediato. Para inversores, esto es relevante para entender el yen y los bonos japoneses.",
+      "title": "Japón sorprende con una contracción económica en el tercer trimestre",
+      "summary": "La economía japonesa se contrajo inesperadamente en el tercer trimestre, golpeada por los altos costos de energía luego de que vencieran los subsidios a los hogares en septiembre, en el marco de la guerra con Irán.",
+      "detail": "Cuando vencen los subsidios energéticos, los hogares pagan más por electricidad y gas, lo que reduce su capacidad de consumo y frena la economía. Japón es la tercera economía del mundo, y su contracción puede afectar el comercio global y la confianza de los mercados. Además, este caso ilustra cómo los conflictos bélicos (en este caso la guerra con Irán) impactan los precios de energía a nivel mundial y, por ende, el crecimiento económico de países importadores.",
       "tags": [
         "Japón",
         "PBI",
@@ -133,101 +74,158 @@
       "tickers": []
     },
     {
-      "id": "fed-warsh-ia-tasas",
+      "id": "ford-catl-battery-nov2026",
+      "type": "empresa",
+      "title": "Ford arranca la producción de baterías en EE.UU. usando tecnología china de CATL",
+      "summary": "Ford comenzó a producir y distribuir celdas de baterías en suelo estadounidense para sus próximos autos eléctricos, usando tecnología licenciada por CATL, el gigante chino de baterías.",
+      "detail": "Este caso muestra la tensión entre dependencia tecnológica y política industrial: Ford necesita la tecnología de CATL para competir en el mercado de autos eléctricos, pero hacerlo genera controversia en el contexto de las tensiones entre EE.UU. y China. La licencia de tecnología es un modelo de negocio donde una empresa paga por usar los conocimientos de otra sin que esta tome participación directa en la producción. Para inversores, es importante entender cómo las decisiones geopolíticas afectan la estrategia de empresas grandes.",
+      "tags": [
+        "Ford",
+        "baterías",
+        "autos eléctricos"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+      "published_at": "2026-11-18T17:02:53Z",
+      "fecha_evento": "2026-11-18",
+      "tickers": [
+        "F"
+      ]
+    },
+    {
+      "id": "target-earnings-nov2026",
+      "type": "empresa",
+      "title": "Target sube 7% en bolsa tras publicar su mayor crecimiento de ventas en cinco años",
+      "summary": "Target superó las expectativas de ventas del tercer trimestre y elevó su guía de resultados para el resto del año, en el marco de un proceso de recuperación del negocio.",
+      "detail": "Cuando una empresa 'bate expectativas' y además sube su guía (es decir, proyecta ganar más de lo que pensaba), el mercado suele reaccionar con una suba fuerte en el precio de la acción. El movimiento del 7% en un solo día muestra cuánto pesan los resultados trimestrales en la valuación de una empresa. Para quien aprende finanzas, es un ejemplo clásico de cómo los earnings (resultados) mueven precios en el corto plazo.",
+      "tags": [
+        "Target",
+        "retail",
+        "resultados"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+      "published_at": "2026-11-18T17:56:50Z",
+      "fecha_evento": "2026-11-18",
+      "tickers": [
+        "TGT"
+      ]
+    },
+    {
+      "id": "palo-alto-earnings-nov2026",
+      "type": "empresa",
+      "title": "Palo Alto Networks dispara en bolsa: la IA aumenta la demanda de ciberseguridad",
+      "summary": "Las acciones de Palo Alto Networks subieron con fuerza luego de que la empresa reportara buenos resultados y mejorara su perspectiva, señalando que la IA está intensificando el 'entorno de amenazas' y la demanda de sus servicios.",
+      "detail": "Palo Alto Networks es una de las principales empresas de ciberseguridad del mundo. El hecho de que la IA aumente la demanda de ciberseguridad ilustra un efecto secundario del boom tecnológico: más inteligencia artificial también implica más vulnerabilidades y ataques sofisticados, lo que beneficia a quienes protegen sistemas. Para un inversor, esto muestra que el impacto de la IA no se limita a las empresas que desarrollan la tecnología, sino a toda la cadena.",
+      "tags": [
+        "ciberseguridad",
+        "IA",
+        "resultados"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
+      "published_at": "2026-11-18T21:55:00Z",
+      "fecha_evento": "2026-11-18",
+      "tickers": [
+        "PANW"
+      ]
+    },
+    {
+      "id": "copper-ai-datacenters-nov2026",
+      "type": "mercado",
+      "title": "La caída del cobre podría complicar la construcción de data centers para IA",
+      "summary": "El mundo podría no ser capaz de extraer suficiente cobre para satisfacer la demanda que genera la infraestructura de IA durante años, lo que convierte a este metal en un cuello de botella clave.",
+      "detail": "El cobre es esencial para la infraestructura eléctrica de los data centers, cables y sistemas de refrigeración. Si la oferta no alcanza a cubrir la demanda proyectada por el boom de la IA, el precio del cobre podría subir significativamente, encareciendo toda la cadena de construcción tecnológica. Para Argentina, esto es relevante porque el país tiene importantes reservas de cobre y un aumento de precios podría impulsar exportaciones y divisas.",
+      "tags": [
+        "cobre",
+        "IA",
+        "materias primas"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/coppers-plunge-could-make-the-ai-data-center-buildout-more-painful-7057f41c?mod=mw_rss_topstories",
+      "published_at": "2026-11-18T21:55:00Z",
+      "fecha_evento": "2026-11-18",
+      "tickers": []
+    },
+    {
+      "id": "disney-earnings-nov2026",
+      "type": "empresa",
+      "title": "Disney supera estimativas del cuarto trimestre y apunta a ahorrar $3.000 millones",
+      "summary": "Disney reportó resultados del cuarto trimestre por encima de las expectativas y anunció un objetivo de recorte de costos de 3.000 millones de dólares, en medio de una estrategia de reestructuración del CEO Josh D'Amaro.",
+      "detail": "Los recortes de costos son una herramienta frecuente en empresas grandes para mejorar la rentabilidad cuando el crecimiento de ingresos se desacelera. Cuando una empresa anuncia un plan de ahorro ambicioso junto a buenos resultados, el mercado suele valorarlo positivamente porque sugiere mayor eficiencia futura. Disney es un caso interesante para seguir porque combina negocios muy diferentes: streaming, parques temáticos y medios, lo que la hace sensible a múltiples variables económicas.",
+      "tags": [
+        "Disney",
+        "resultados",
+        "recorte de costos"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+      "published_at": "2026-11-17T16:40:25Z",
+      "fecha_evento": "2026-11-17",
+      "tickers": [
+        "DIS"
+      ]
+    },
+    {
+      "id": "kevin-warsh-fed-ai-nov2026",
       "type": "discurso",
-      "title": "El presidente de la Fed, Kevin Warsh, analiza cómo la IA puede cambiar el empleo y las tasas de interés",
-      "summary": "Kevin Warsh, presidente de la Reserva Federal, ve a la inteligencia artificial como un punto de inflexión económico y enfrenta preguntas difíciles sobre su impacto en el empleo y en las decisiones de tasas de interés.",
-      "detail": "La Fed define las tasas de interés en base a datos de empleo e inflación. Si la IA genera un salto de productividad, podría cambiar el equilibrio entre crecimiento e inflación, complicando las decisiones de política monetaria. Para quien aprende finanzas, entender cómo los bancos centrales piensan los cambios tecnológicos ayuda a anticipar movimientos en tasas y mercados de bonos.",
+      "title": "El presidente de la Fed ve una revolución de la IA y debate su impacto en tasas y empleo",
+      "summary": "Kevin Warsh, presidente de la Reserva Federal, considera que la IA está en un punto de inflexión y enfrenta preguntas difíciles sobre cómo afectará el empleo y las tasas de interés en EE.UU.",
+      "detail": "El presidente de la Fed tiene un rol central en definir la política monetaria de EE.UU., que impacta a toda la economía global. Si la IA aumenta la productividad de forma sostenida, podría reducir la inflación estructural y darle más margen a la Fed para bajar tasas. Pero si desplaza trabajadores masivamente, podría generar presiones sociales y económicas impredecibles. Seguir el pensamiento de Warsh ayuda a entender hacia dónde podría ir la política de tasas en los próximos años.",
       "tags": [
         "Fed",
-        "tasas",
-        "inteligencia artificial"
+        "IA",
+        "tasas de interés"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
       "published_at": "2026-11-17T15:35:13Z",
       "fecha_evento": "2026-11-16",
       "tickers": []
-    },
-    {
-      "id": "nike-investor-day",
-      "type": "empresa",
-      "title": "Nike presentó sus objetivos financieros en su primer investor day en 9 años",
-      "summary": "Nike organizó un investor day en su sede de Oregon para mostrar a los inversores que su plan de recuperación está funcionando, el primero en casi una década.",
-      "detail": "Un investor day es un evento donde la empresa presenta su estrategia y metas financieras directamente a analistas e inversores institucionales. Que Nike haga el primero en 9 años indica que la compañía quiere reconquistar la confianza del mercado tras un período difícil. Para quien aprende finanzas, es un ejemplo de cómo la comunicación corporativa y la transparencia influyen en la valoración de una acción.",
-      "tags": [
-        "Nike",
-        "estrategia",
-        "acciones"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-      "published_at": "2026-11-17T22:17:44Z",
-      "fecha_evento": "2026-11-17",
-      "tickers": [
-        "NKE"
-      ]
-    },
-    {
-      "id": "tech-valuacion-reset",
-      "type": "mercado",
-      "title": "El sector tech cayó 42% en valuación: estrategas recomiendan aprovechar la baja para comprar",
-      "summary": "Estrategas de Truist Advisory Services sugieren que inversores empiecen a preguntarse qué puede salir bien tras una corrección del 42% en las valuaciones del sector tecnológico, y recomiendan usar la debilidad actual para sumar exposición.",
-      "detail": "Una corrección fuerte en las valuaciones del sector tech puede representar una oportunidad de entrada para inversores con horizonte de largo plazo, aunque también refleja un cambio en las expectativas de crecimiento o tasas. Este tipo de análisis de estrategas muestra cómo los profesionales piensan el riesgo y el momento de mercado, algo útil para entender cuándo ser más o menos agresivo en una cartera.",
-      "tags": [
-        "tecnología",
-        "valuación",
-        "inversión"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/strategists-say-investors-should-start-asking-what-could-go-right-after-techs-42-valuation-reset-279a640a?mod=mw_rss_topstories",
-      "published_at": "2026-11-18T11:17:00Z",
-      "fecha_evento": "2026-11-18",
-      "tickers": []
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.575",
-      "valor_num": 1575.0,
-      "delta_pct": 0.0
+      "valor": "$1.580",
+      "valor_num": 1580.0,
+      "delta_pct": 0.32
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.605",
-      "valor_num": 1605.0,
-      "delta_pct": 0.31
+      "valor": "$1.630",
+      "valor_num": 1630.0,
+      "delta_pct": 1.88
     },
     {
       "label": "MEP",
-      "valor": "$1.603",
-      "valor_num": 1603.3,
-      "delta_pct": 0.91
+      "valor": "$1.629",
+      "valor_num": 1628.8,
+      "delta_pct": 2.51
     },
     {
       "label": "CCL",
-      "valor": "$1.697",
-      "valor_num": 1697.2,
-      "delta_pct": 0.85
+      "valor": "$1.724",
+      "valor_num": 1724.1,
+      "delta_pct": 2.45
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 64.170",
-      "valor_num": 64170.0,
-      "delta_pct": -1.18
+      "valor": "US$ 62.267",
+      "valor_num": 62267.0,
+      "delta_pct": -3.13
     },
     {
       "label": "S&P 500",
-      "valor": "7.341",
-      "valor_num": 7340.53,
-      "delta_pct": -2.4
+      "valor": "7.324",
+      "valor_num": 7323.63,
+      "delta_pct": -3.88
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.763",
-      "valor_num": 3762.9,
-      "delta_pct": -3.18
+      "valor": "US$ 3.727",
+      "valor_num": 3727.1,
+      "delta_pct": -4.1
     }
   ]
 }
