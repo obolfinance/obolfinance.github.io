@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-11-19T12:01:08.625181+00:00",
+  "generated_at": "2026-11-19T22:01:10.188847+00:00",
   "items": [
     {
-      "id": "walmart-earnings-q3-2026",
+      "id": "nvidia-caida-mercado",
+      "type": "mercado",
+      "title": "Nvidia perdió USD 669.000 millones en seis ruedas",
+      "summary": "Las acciones de Nvidia siguieron cayendo y la empresa acumuló una pérdida de capitalización de mercado de USD 669.000 millones en solo seis días de operaciones.",
+      "detail": "Una caída de esta magnitud en tan poco tiempo muestra lo volátil que pueden ser las acciones de empresas tecnológicas de alto crecimiento. La capitalización de mercado refleja cuánto vale una empresa según su precio en bolsa: cuando el precio baja, ese valor se destruye rápidamente. Para alguien que aprende finanzas, este caso ilustra el riesgo de concentrar inversiones en un solo sector o empresa, aunque sea líder del mercado.",
+      "tags": [
+        "tecnología",
+        "acciones",
+        "volatilidad"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
+      "published_at": "2026-11-19T21:45:00Z",
+      "fecha_evento": "2026-11-19",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "mercados-senales-recesion",
+      "type": "mercado",
+      "title": "Los mercados empiezan a dar señales de alerta sobre la economía",
+      "summary": "Varios indicadores de mercado conocidos como \"trades de recesión\" comenzaron a emerger, aun cuando los datos económicos generales se mantienen sólidos.",
+      "detail": "Cuando los inversores esperan una recesión, suelen mover su dinero hacia activos más seguros como bonos del Tesoro o sectores defensivos, generando patrones reconocibles. Que estos movimientos aparezcan mientras los datos económicos todavía son buenos puede indicar que el mercado está adelantándose a problemas futuros. Aprender a leer estas señales es clave para entender cómo los mercados financieros descuentan expectativas antes de que se confirmen.",
+      "tags": [
+        "recesión",
+        "mercados",
+        "economía"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
+      "published_at": "2026-11-19T21:57:00Z",
+      "fecha_evento": "2026-11-19",
+      "tickers": []
+    },
+    {
+      "id": "walmart-resultados-guidance",
       "type": "empresa",
-      "title": "Walmart presenta resultados antes de la apertura del mercado",
-      "summary": "Walmart publica hoy sus ganancias del tercer trimestre y se espera que dé señales sobre el gasto del consumidor estadounidense de cara a la temporada de fiestas, con foco en el valor y la conveniencia.",
-      "detail": "Los resultados de Walmart son un termómetro clave del consumo en EE.UU.: si la gente gasta más o menos, en qué y cómo. Para quien aprende finanzas, seguir estos reportes trimestrales enseña a leer cómo las empresas líderes anticipan tendencias económicas y cómo el mercado reacciona a esas cifras. Además, Walmart es una de las acciones más seguidas del mundo, por lo que sus resultados mueven índices y sectores enteros.",
+      "title": "Walmart sube su proyección anual y busca mantener precios bajos pese al alza de combustibles",
+      "summary": "Walmart reportó buenos resultados en su tercer trimestre fiscal, impulsado por entregas y retiros en tienda, y elevó su guía para todo el año, aunque el CEO advirtió el desafío que representa el encarecimiento del combustible.",
+      "detail": "Cuando una empresa grande como Walmart sube su \"guidance\" (proyección de resultados futuros), el mercado suele interpretarlo como una señal positiva y el precio de la acción tiende a subir. Además, Walmart es considerado un indicador del consumo masivo en EE.UU.: si le va bien, generalmente significa que los consumidores siguen gastando. El dato sobre los combustibles es relevante porque afecta los costos logísticos de cualquier minorista global.",
       "tags": [
         "consumo",
         "resultados",
@@ -14,21 +50,21 @@
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "published_at": "2026-11-19T05:01:01Z",
+      "published_at": "2026-11-19T19:58:30Z",
       "fecha_evento": "2026-11-19",
       "tickers": [
         "WMT"
       ]
     },
     {
-      "id": "target-resultados-q3-2026",
+      "id": "target-resultados-ventas",
       "type": "empresa",
-      "title": "Target sube 7% tras publicar su mejor crecimiento de ventas en cinco años",
-      "summary": "Target superó las expectativas de ventas del tercer trimestre y elevó su guía para el año completo, en el marco de un proceso de recuperación que viene mostrando resultados.",
-      "detail": "Cuando una empresa supera las expectativas del mercado y además sube su guía (es decir, proyecta ganar más de lo que estimaba antes), eso suele impulsar fuerte el precio de la acción. Este caso muestra cómo los inversores no solo miran el pasado (lo que ya pasó) sino el futuro que la empresa promete. Para alguien que aprende finanzas, entender qué es una \"guidance\" y cómo afecta al precio de una acción es fundamental.",
+      "title": "Target tuvo su mejor crecimiento de ventas en cinco años y subió su guía",
+      "summary": "Target superó las expectativas de ventas del tercer trimestre y elevó su proyección anual, en el marco de un proceso de recuperación que la empresa viene ejecutando.",
+      "detail": "Target venía de un período difícil con ventas débiles, por lo que este resultado marca un punto de inflexión. Que una empresa \"supere expectativas\" significa que le fue mejor de lo que el mercado anticipaba, lo que suele impulsar el precio de la acción. Este tipo de noticias enseña cómo los resultados trimestrales pueden mover fuertemente una cotización en un solo día.",
       "tags": [
-        "resultados",
         "retail",
+        "resultados",
         "acciones"
       ],
       "source_name": "CNBC",
@@ -40,13 +76,32 @@
       ]
     },
     {
-      "id": "ford-bateria-catl-produccion",
-      "type": "empresa",
-      "title": "Ford arranca producción de baterías en EE.UU. con tecnología china de CATL",
-      "summary": "Ford comenzó a fabricar celdas de batería en suelo estadounidense para sus próximos autos eléctricos, usando tecnología licenciada por el gigante chino CATL, en medio de tensiones geopolíticas.",
-      "detail": "Este movimiento muestra cómo las empresas intentan cumplir con políticas industriales locales (producir en EE.UU.) mientras siguen dependiendo de tecnología extranjera, en este caso china. Para quien aprende finanzas, es un buen ejemplo de cómo la geopolítica impacta directamente en las cadenas de producción y en las decisiones estratégicas de las corporaciones. También ilustra la tensión entre globalizacion y proteccionismo que define muchas decisiones de inversión hoy.",
+      "id": "chip-export-sudeste-asiatico",
+      "type": "economia",
+      "title": "EE.UU. exige aprobación para vender chips de IA avanzados en el Sudeste Asiático",
+      "summary": "Nuevas regulaciones estadounidenses obligan a los centros de datos del Sudeste Asiático a pedir autorización para comprar chips de IA avanzados, lo que amenaza un boom de construcción impulsado en gran parte por demanda china.",
+      "detail": "Las restricciones a la exportación de chips son una herramienta geopolítica clave: EE.UU. busca limitar el acceso de China a tecnología de punta usada en inteligencia artificial. Para los inversores, esto afecta directamente a empresas como Nvidia, que dependen de ventas internacionales. También muestra cómo las decisiones políticas pueden cambiar de golpe las perspectivas de sectores enteros.",
       "tags": [
-        "autos eléctricos",
+        "chips",
+        "geopolítica",
+        "inteligencia artificial"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+      "published_at": "2026-11-18T14:09:26Z",
+      "fecha_evento": "2026-11-18",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "ford-baterias-catl",
+      "type": "empresa",
+      "title": "Ford arrancó la producción de celdas de batería en EE.UU. con tecnología china de CATL",
+      "summary": "Ford comenzó a fabricar y distribuir celdas de batería para sus próximos vehículos eléctricos en territorio estadounidense, usando tecnología licenciada por la gigante china CATL.",
+      "detail": "Este movimiento muestra la tensión entre la necesidad de tecnología china para la transición energética y las presiones geopolíticas que empujan a producir localmente. Para alguien que aprende finanzas, es un buen ejemplo de cómo las empresas intentan cumplir con regulaciones locales (como incentivos de la ley de autos eléctricos en EE.UU.) mientras mantienen acuerdos con socios extranjeros. También ilustra el rol estratégico de las baterías en la cadena de valor automotriz.",
+      "tags": [
+        "vehículos eléctricos",
         "geopolítica",
         "industria"
       ],
@@ -59,51 +114,15 @@
       ]
     },
     {
-      "id": "chips-ia-sudeste-asiatico-reglas-eeuu",
-      "type": "economia",
-      "title": "Nuevas reglas de EE.UU. amenazan el boom de data centers en el Sudeste Asiático",
-      "summary": "Las nuevas regulaciones estadounidenses obligan a los data centers del Sudeste Asiático a pedir aprobación de EE.UU. para comprar chips avanzados de IA, poniendo en riesgo una expansión que se alimentaba principalmente de demanda china.",
-      "detail": "Las restricciones a la exportación de chips son una herramienta con la que EE.UU. intenta limitar el acceso de China a tecnología de punta. Cuando estas reglas se extienden a terceros países como los del Sudeste Asiático, el impacto es global: afecta a empresas como Nvidia (principal fabricante de chips de IA), a los inversores en infraestructura tecnológica y a la carrera entre potencias por el liderazgo en inteligencia artificial. Para quien sigue mercados, entender cómo la política exterior mueve precios de acciones tecnológicas es cada vez más clave.",
-      "tags": [
-        "chips",
-        "regulación",
-        "inteligencia artificial"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
-      "published_at": "2026-11-18T14:09:26Z",
-      "fecha_evento": "2026-11-18",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "kevin-warsh-fed-ia",
-      "type": "discurso",
-      "title": "El presidente de la Fed analiza qué significa la revolución de la IA para tasas y empleo",
-      "summary": "Kevin Warsh, titular de la Reserva Federal, ve a la inteligencia artificial en un punto de inflexión y enfrenta preguntas difíciles sobre cómo afectará al empleo y a las tasas de interés.",
-      "detail": "El presidente de la Fed tiene una influencia enorme sobre la economía global: sus decisiones sobre tasas de interés impactan en el dólar, en el crédito y en los mercados de todo el mundo, incluida Argentina. Que Warsh esté pensando cómo la IA puede cambiar la productividad y el empleo es relevante porque eso podría modificar el camino esperado de las tasas. Si la IA sube la productividad mucho, la Fed podría bajar tasas más rápido; si genera desempleo masivo, el panorama se complica. Seguir los discursos del titular de la Fed es una de las habilidades básicas de cualquier inversor.",
-      "tags": [
-        "Fed",
-        "tasas",
-        "inteligencia artificial"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "published_at": "2026-11-17T15:35:13Z",
-      "fecha_evento": "2026-11-16",
-      "tickers": []
-    },
-    {
-      "id": "disney-resultados-q4-2026",
+      "id": "disney-resultados-ahorro",
       "type": "empresa",
-      "title": "Disney supera estimaciones del cuarto trimestre y apunta a ahorros de USD 3.000 millones",
-      "summary": "Disney publicó resultados por encima de lo esperado en su cuarto trimestre y anunció un plan de recorte de costos de USD 3.000 millones, en medio de expectativas sobre la estrategia del CEO Josh D'Amaro.",
-      "detail": "Los planes de ahorro o recorte de costos son una señal que los inversores suelen leer con atención: pueden indicar que la empresa busca mejorar su rentabilidad, pero también que enfrenta presión en sus ingresos. Para quien aprende finanzas, el caso Disney enseña cómo una empresa icónica puede enfrentar desafíos estructurales (streaming, parques, cine) y cómo el mercado evalúa si la gestión tiene un plan creíble para solucionarlos.",
+      "title": "Disney superó estimaciones y apunta a USD 3.000 millones en ahorros por recortes",
+      "summary": "Disney publicó resultados del cuarto trimestre por encima de lo esperado y anunció una meta de ahorro de USD 3.000 millones a través de reducción de costos, en medio de la estrategia del nuevo CEO Josh D'Amaro.",
+      "detail": "Disney es uno de los conglomerados de medios y entretenimiento más grandes del mundo, por lo que sus resultados dan una señal sobre el estado del consumo en ese sector. El foco en recorte de costos es una estrategia común cuando una empresa necesita mejorar su rentabilidad tras períodos de alta inversión. Para quien aprende finanzas, este caso muestra cómo el mercado evalúa no solo las ventas sino también la eficiencia operativa de una empresa.",
       "tags": [
+        "medios",
         "resultados",
-        "entretenimiento",
-        "costos"
+        "ahorro"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
@@ -114,15 +133,15 @@
       ]
     },
     {
-      "id": "nike-investor-day-2026",
+      "id": "nike-investor-day",
       "type": "empresa",
-      "title": "Nike presenta objetivos financieros en su primer investor day en 9 años",
-      "summary": "Nike organizó un día del inversor en su sede de Oregon para mostrar que su proceso de recuperación va por buen camino, el primero en casi una década.",
-      "detail": "Un \"investor day\" es un evento donde la empresa le habla directamente a quienes tienen o podrían tener sus acciones, presentando metas y estrategia. Que Nike haga el primero en 9 años marca una señal importante: la compañía quiere convencer al mercado de que superó sus problemas recientes. Para quien aprende finanzas, estos eventos son una clase práctica de cómo las empresas gestionan las expectativas de los inversores y cómo comunicar una visión de largo plazo puede mover el precio de una acción.",
+      "title": "Nike presentó sus objetivos financieros en su primer investor day en 9 años",
+      "summary": "Nike organizó un día del inversor en su sede de Oregon para mostrar el avance de su plan de recuperación y convencer al mercado de que la empresa está en el camino correcto.",
+      "detail": "Un \"investor day\" es un evento donde la empresa presenta su estrategia y metas financieras directamente a analistas e inversores. Que Nike no haya hecho uno en nueve años y lo retome ahora indica que necesita recuperar la confianza del mercado tras un período difícil. Para quien aprende finanzas, es un ejemplo de cómo la comunicación entre empresas e inversores influye en la valoración de las acciones.",
       "tags": [
+        "acciones",
         "estrategia",
-        "inversores",
-        "retail"
+        "inversores"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
@@ -133,38 +152,38 @@
       ]
     },
     {
-      "id": "alibaba-cloud-ia-perdidas",
+      "id": "unitedheath-caida-fraude-medicare",
       "type": "empresa",
-      "title": "El negocio de nube de Alibaba crece, pero las pérdidas de sus laboratorios de IA lo neutralizan todo",
-      "summary": "La división de servicios en la nube de Alibaba está prosperando, pero las pérdidas que generan sus laboratorios de inteligencia artificial compensan completamente esas ganancias.",
-      "detail": "Este caso muestra una tensión muy común en el mundo tecnológico actual: las empresas invierten fuerte en IA esperando ganancias futuras, pero eso puede destruir rentabilidad en el corto plazo. Para un inversor, la pregunta clave es si esa apuesta va a rendir frutos o si es dinero quemado. Alibaba también es un ejemplo de cómo las empresas chinas compiten globalmente en tecnología, lo que tiene implicancias geopolíticas y de mercado que conviene entender.",
+      "title": "UnitedHealth se derrumbó en bolsa tras señales de mayor control al fraude en Medicare",
+      "summary": "Las acciones de UnitedHealth Group volvieron a caer después de que el gobierno de EE.UU. anunciara medidas para combatir el fraude en Medicare Advantage, y legisladores renovaron el debate sobre un sistema de salud universal.",
+      "detail": "Medicare Advantage es un programa de salud privado subsidiado por el Estado que representa una fuente importante de ingresos para aseguradoras como UnitedHealth. Si el gobierno endurece los controles o reduce los pagos, el negocio se vuelve menos rentable. Este caso ilustra cómo los cambios regulatorios pueden impactar drásticamente en la valoración de una empresa, incluso sin que haya cambiado nada en sus operaciones internas.",
       "tags": [
-        "inteligencia artificial",
-        "nube",
-        "resultados"
+        "salud",
+        "regulación",
+        "acciones"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/alibabas-cloud-business-is-thriving-but-those-profits-are-completely-offset-by-losses-from-its-ai-labs-74bf4b3c?mod=mw_rss_topstories",
-      "published_at": "2026-11-19T11:54:00Z",
+      "source_url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "published_at": "2026-11-19T21:22:00Z",
       "fecha_evento": "2026-11-19",
       "tickers": [
-        "BABA"
+        "UNH"
       ]
     },
     {
-      "id": "mercado-acciones-rotacion-sectorial",
+      "id": "coreweave-bonos-cofundador",
       "type": "mercado",
-      "title": "El mercado bursátil vive la mayor rotación sectorial en una generación: las tecnológicas pierden terreno",
-      "summary": "Las acciones tecnológicas están quedando baratas mientras sectores defensivos como consumo básico aparecen como caros, en lo que analistas describen como la mayor rotación sectorial en décadas.",
-      "detail": "Una rotación sectorial ocurre cuando los inversores sacan dinero de un sector y lo ponen en otro. Que las \"techs\" pasen de caras a baratas y los sectores defensivos se encarezcan sugiere que muchos inversores están buscando más seguridad. Para quien aprende finanzas, entender estas rotaciones ayuda a leer el humor del mercado: cuando los inversores prefieren lo defensivo, suelen estar anticipando un período de mayor incertidumbre económica.",
+      "title": "Un cofundador de CoreWeave apostó USD 30 millones comprando bonos de su propia empresa",
+      "summary": "Brian Venturo, cofundador de CoreWeave, compró USD 30 millones en bonos de la compañía —en lugar de acciones— como señal de confianza en medio de la turbulencia en el sector de inteligencia artificial.",
+      "detail": "Cuando un directivo compra títulos de su propia empresa, el mercado suele interpretarlo como una señal de que cree que están subvaluados. Lo llamativo aquí es que eligió bonos en lugar de acciones: los bonos son deuda de la empresa y su compra sugiere confianza en que la compañía podrá repagar sus obligaciones. Este caso es útil para entender la diferencia entre acciones y bonos, y cómo ambos instrumentos reaccionan distinto en momentos de incertidumbre.",
       "tags": [
-        "mercado",
-        "tecnología",
-        "sectores"
+        "bonos",
+        "inteligencia artificial",
+        "confianza"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-stock-market-is-being-rocked-by-the-biggest-shake-up-in-a-generation-as-tech-falls-behind-66c1f281?mod=mw_rss_topstories",
-      "published_at": "2026-11-19T11:54:00Z",
+      "source_url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "published_at": "2026-11-19T20:28:00Z",
       "fecha_evento": "2026-11-19",
       "tickers": []
     }
@@ -172,45 +191,45 @@
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.580",
-      "valor_num": 1580.0,
-      "delta_pct": 0.32
+      "valor": "$1.585",
+      "valor_num": 1585.0,
+      "delta_pct": 0.63
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.630",
-      "valor_num": 1630.0,
-      "delta_pct": 1.56
+      "valor": "$1.640",
+      "valor_num": 1640.0,
+      "delta_pct": 2.18
     },
     {
       "label": "MEP",
-      "valor": "$1.629",
-      "valor_num": 1628.8,
-      "delta_pct": 1.59
+      "valor": "$1.650",
+      "valor_num": 1649.8,
+      "delta_pct": 2.9
     },
     {
       "label": "CCL",
-      "valor": "$1.724",
-      "valor_num": 1724.1,
-      "delta_pct": 1.58
+      "valor": "$1.748",
+      "valor_num": 1748.2,
+      "delta_pct": 3.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 63.910",
-      "valor_num": 63910.0,
-      "delta_pct": -0.4
+      "valor": "US$ 61.491",
+      "valor_num": 61491.0,
+      "delta_pct": -1.27
     },
     {
       "label": "S&P 500",
-      "valor": "7.324",
-      "valor_num": 7323.63,
-      "delta_pct": -3.88
+      "valor": "7.176",
+      "valor_num": 7175.83,
+      "delta_pct": -5.49
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.727",
-      "valor_num": 3727.1,
-      "delta_pct": -3.27
+      "valor": "US$ 3.624",
+      "valor_num": 3624.3,
+      "delta_pct": -5.94
     }
   ]
 }
