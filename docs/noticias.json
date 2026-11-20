@@ -1,52 +1,105 @@
 {
-  "generated_at": "2026-11-19T22:01:10.188847+00:00",
+  "generated_at": "2026-11-20T22:01:01.128760+00:00",
   "items": [
     {
-      "id": "nvidia-caida-mercado",
-      "type": "mercado",
-      "title": "Nvidia perdió USD 669.000 millones en seis ruedas",
-      "summary": "Las acciones de Nvidia siguieron cayendo y la empresa acumuló una pérdida de capitalización de mercado de USD 669.000 millones en solo seis días de operaciones.",
-      "detail": "Una caída de esta magnitud en tan poco tiempo muestra lo volátil que pueden ser las acciones de empresas tecnológicas de alto crecimiento. La capitalización de mercado refleja cuánto vale una empresa según su precio en bolsa: cuando el precio baja, ese valor se destruye rápidamente. Para alguien que aprende finanzas, este caso ilustra el riesgo de concentrar inversiones en un solo sector o empresa, aunque sea líder del mercado.",
+      "id": "japan-inflation-oct-2026",
+      "type": "economia",
+      "title": "La inflación en Japón llegó a su nivel más alto del año",
+      "summary": "La inflación núcleo de Japón (que excluye alimentos) subió en octubre al nivel más alto del año, impulsada por el vencimiento de subsidios a la energía. El dato quedó por debajo del 2,3% que esperaban los analistas consultados por Reuters.",
+      "detail": "Cuando los gobiernos retiran subsidios a la energía, los precios suben de golpe y eso se refleja en el índice de inflación. Este tipo de dato es clave porque el Banco Central de Japón lo sigue de cerca para decidir si sube o baja las tasas de interés. Un dato de inflación más alto de lo esperado suele presionar a los bancos centrales a subir tasas, lo que afecta al valor del yen y a los mercados globales.",
       "tags": [
-        "tecnología",
-        "acciones",
-        "volatilidad"
+        "inflación",
+        "Japón",
+        "bancos centrales"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
-      "published_at": "2026-11-19T21:45:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+      "published_at": "2026-11-20T01:49:03Z",
+      "fecha_evento": "2026-11-20",
+      "tickers": []
+    },
+    {
+      "id": "nvidia-crisis-ai-central-bank",
+      "type": "empresa",
+      "title": "La crisis de liderazgo en Nvidia pone en jaque su rol central en la economía de la IA",
+      "summary": "Nvidia atraviesa una crisis de liderazgo que pone en evidencia cuán interconectada está con otras empresas tecnológicas y financieras. Su peso en el sistema es tan grande que algunos la comparan con un banco central de la inteligencia artificial.",
+      "detail": "Cuando una empresa se vuelve tan central para una industria, su inestabilidad puede tener efectos en cadena sobre otras compañías que dependen de ella. Esta es la idea detrás del concepto de 'riesgo sistémico', más conocido en el mundo bancario. Entender este mecanismo ayuda a ver por qué el precio de Nvidia afecta a tantos otros activos y por qué los mercados reaccionan con tanta sensibilidad a sus noticias.",
+      "tags": [
+        "Nvidia",
+        "IA",
+        "riesgo sistémico"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "published_at": "2026-11-19T20:21:10Z",
       "fecha_evento": "2026-11-19",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "mercados-senales-recesion",
+      "id": "nvidia-weekly-losses-2008",
       "type": "mercado",
-      "title": "Los mercados empiezan a dar señales de alerta sobre la economía",
-      "summary": "Varios indicadores de mercado conocidos como \"trades de recesión\" comenzaron a emerger, aun cuando los datos económicos generales se mantienen sólidos.",
-      "detail": "Cuando los inversores esperan una recesión, suelen mover su dinero hacia activos más seguros como bonos del Tesoro o sectores defensivos, generando patrones reconocibles. Que estos movimientos aparezcan mientras los datos económicos todavía son buenos puede indicar que el mercado está adelantándose a problemas futuros. Aprender a leer estas señales es clave para entender cómo los mercados financieros descuentan expectativas antes de que se confirmen.",
+      "title": "Nvidia encadena una racha de caídas semanales que no se veía desde 2008",
+      "summary": "Las acciones de Nvidia acumularon pérdidas durante siete sesiones consecutivas, borrando unos 1,16 billones de dólares en valor de mercado. Según un gestor de fondos, la incertidumbre actual la deja expuesta a más ventas.",
+      "detail": "Una caída sostenida de esta magnitud en una sola empresa es señal de que el mercado está recalibrando sus expectativas sobre el sector de la inteligencia artificial. La pérdida de valor de mercado en billones de dólares ilustra cómo el precio de una acción no es solo un número, sino la valoración colectiva de los inversores sobre el futuro de un negocio. Esto también impacta en los fondos de inversión que tienen Nvidia entre sus principales posiciones.",
       "tags": [
-        "recesión",
-        "mercados",
-        "economía"
+        "Nvidia",
+        "mercado",
+        "acciones"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/markets-are-sending-troubling-signals-about-the-state-of-the-economy-8043f20e?mod=mw_rss_topstories",
-      "published_at": "2026-11-19T21:57:00Z",
-      "fecha_evento": "2026-11-19",
+      "source_url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6",
+      "published_at": "2026-11-20T21:58:00Z",
+      "fecha_evento": "2026-11-20",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "anthropic-ipo-caida",
+      "type": "mercado",
+      "title": "Anthropic se desploma en bolsa y arrastra al resto del sector tech",
+      "summary": "Las acciones de Anthropic cayeron fuertemente tras su debut bursátil, aunque lograron mantenerse por encima del precio de salida a bolsa. La caída fue vista como una mala señal para todo el sector tecnológico.",
+      "detail": "El desempeño de una empresa en su IPO (salida a bolsa) es un termómetro del apetito inversor por ese sector. Cuando una empresa muy esperada no puede sostener su precio de apertura, genera desconfianza y puede provocar ventas en otras empresas del mismo rubro. Este efecto contagio es un mecanismo clásico en los mercados financieros.",
+      "tags": [
+        "IPO",
+        "tecnología",
+        "IA"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4",
+      "published_at": "2026-11-20T21:25:00Z",
+      "fecha_evento": "2026-11-20",
       "tickers": []
     },
     {
-      "id": "walmart-resultados-guidance",
-      "type": "empresa",
-      "title": "Walmart sube su proyección anual y busca mantener precios bajos pese al alza de combustibles",
-      "summary": "Walmart reportó buenos resultados en su tercer trimestre fiscal, impulsado por entregas y retiros en tienda, y elevó su guía para todo el año, aunque el CEO advirtió el desafío que representa el encarecimiento del combustible.",
-      "detail": "Cuando una empresa grande como Walmart sube su \"guidance\" (proyección de resultados futuros), el mercado suele interpretarlo como una señal positiva y el precio de la acción tiende a subir. Además, Walmart es considerado un indicador del consumo masivo en EE.UU.: si le va bien, generalmente significa que los consumidores siguen gastando. El dato sobre los combustibles es relevante porque afecta los costos logísticos de cualquier minorista global.",
+      "id": "us-stocks-plummet-anthropic",
+      "type": "mercado",
+      "title": "Las bolsas de EE.UU. cayeron a mínimos de siete meses arrastradas por el sector tech",
+      "summary": "Las principales bolsas estadounidenses cerraron con fuertes bajas el viernes, tocando mínimos de siete meses. La caída de Anthropic fue uno de los factores que profundizó las pérdidas durante la jornada.",
+      "detail": "Las caídas generalizadas en bolsa reflejan que los inversores están saliendo de posiciones de riesgo al mismo tiempo, lo que amplifica los movimientos a la baja. Los mínimos de varios meses son referencias técnicas que los analistas usan para evaluar la tendencia del mercado. Para alguien que aprende finanzas, este tipo de jornadas muestra cómo el sentimiento y los eventos puntuales pueden mover mercados enteros.",
       "tags": [
+        "bolsa",
+        "EE.UU.",
+        "mercado"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/us-stocks-plummet-seven-month-lows-anthropic-plunges",
+      "published_at": "2026-11-20T21:22:52Z",
+      "fecha_evento": "2026-11-20",
+      "tickers": []
+    },
+    {
+      "id": "walmart-outlook-fuel",
+      "type": "empresa",
+      "title": "Walmart sube sus proyecciones y promete mantener precios bajos pese al alza del combustible",
+      "summary": "Walmart mejoró sus perspectivas financieras luego de un sólido tercer trimestre fiscal, con fortaleza en entregas y retiro en tienda. Su CEO le dijo a CNBC que la empresa apunta a mantener precios bajos a pesar del encarecimiento del combustible.",
+      "detail": "Walmart es el minorista más grande del mundo y sus resultados son un indicador del consumo en EE.UU. Cuando una empresa de esta escala sube su guidance (proyección de ganancias), el mercado lo toma como una señal positiva. Además, la tensión entre costos logísticos en alza y precios bajos al consumidor muestra el dilema central de las empresas en contextos inflacionarios.",
+      "tags": [
+        "Walmart",
         "consumo",
-        "resultados",
-        "retail"
+        "resultados"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
@@ -57,53 +110,15 @@
       ]
     },
     {
-      "id": "target-resultados-ventas",
+      "id": "ford-catl-battery-production",
       "type": "empresa",
-      "title": "Target tuvo su mejor crecimiento de ventas en cinco años y subió su guía",
-      "summary": "Target superó las expectativas de ventas del tercer trimestre y elevó su proyección anual, en el marco de un proceso de recuperación que la empresa viene ejecutando.",
-      "detail": "Target venía de un período difícil con ventas débiles, por lo que este resultado marca un punto de inflexión. Que una empresa \"supere expectativas\" significa que le fue mejor de lo que el mercado anticipaba, lo que suele impulsar el precio de la acción. Este tipo de noticias enseña cómo los resultados trimestrales pueden mover fuertemente una cotización en un solo día.",
+      "title": "Ford arrancó la producción de baterías en EE.UU. usando tecnología china de CATL",
+      "summary": "Ford comenzó a fabricar celdas de batería en territorio estadounidense para sus próximos autos eléctricos, usando tecnología licenciada por la gigante china CATL. El movimiento ocurre en medio de tensiones geopolíticas entre EE.UU. y China.",
+      "detail": "Este caso muestra cómo las tensiones geopolíticas obligan a las empresas a encontrar soluciones creativas: Ford produce localmente para cumplir con las exigencias políticas de EE.UU., pero depende de tecnología china. Es un ejemplo práctico de cómo las cadenas de suministro globales se reconfiguran ante los conflictos entre potencias, algo que tiene impacto directo en costos, inversiones y precios de los autos eléctricos.",
       "tags": [
-        "retail",
-        "resultados",
-        "acciones"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-      "published_at": "2026-11-18T17:56:50Z",
-      "fecha_evento": "2026-11-18",
-      "tickers": [
-        "TGT"
-      ]
-    },
-    {
-      "id": "chip-export-sudeste-asiatico",
-      "type": "economia",
-      "title": "EE.UU. exige aprobación para vender chips de IA avanzados en el Sudeste Asiático",
-      "summary": "Nuevas regulaciones estadounidenses obligan a los centros de datos del Sudeste Asiático a pedir autorización para comprar chips de IA avanzados, lo que amenaza un boom de construcción impulsado en gran parte por demanda china.",
-      "detail": "Las restricciones a la exportación de chips son una herramienta geopolítica clave: EE.UU. busca limitar el acceso de China a tecnología de punta usada en inteligencia artificial. Para los inversores, esto afecta directamente a empresas como Nvidia, que dependen de ventas internacionales. También muestra cómo las decisiones políticas pueden cambiar de golpe las perspectivas de sectores enteros.",
-      "tags": [
-        "chips",
-        "geopolítica",
-        "inteligencia artificial"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
-      "published_at": "2026-11-18T14:09:26Z",
-      "fecha_evento": "2026-11-18",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "ford-baterias-catl",
-      "type": "empresa",
-      "title": "Ford arrancó la producción de celdas de batería en EE.UU. con tecnología china de CATL",
-      "summary": "Ford comenzó a fabricar y distribuir celdas de batería para sus próximos vehículos eléctricos en territorio estadounidense, usando tecnología licenciada por la gigante china CATL.",
-      "detail": "Este movimiento muestra la tensión entre la necesidad de tecnología china para la transición energética y las presiones geopolíticas que empujan a producir localmente. Para alguien que aprende finanzas, es un buen ejemplo de cómo las empresas intentan cumplir con regulaciones locales (como incentivos de la ley de autos eléctricos en EE.UU.) mientras mantienen acuerdos con socios extranjeros. También ilustra el rol estratégico de las baterías en la cadena de valor automotriz.",
-      "tags": [
-        "vehículos eléctricos",
-        "geopolítica",
-        "industria"
+        "Ford",
+        "baterías",
+        "geopolítica"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
@@ -114,34 +129,15 @@
       ]
     },
     {
-      "id": "disney-resultados-ahorro",
+      "id": "nike-investor-day-2026",
       "type": "empresa",
-      "title": "Disney superó estimaciones y apunta a USD 3.000 millones en ahorros por recortes",
-      "summary": "Disney publicó resultados del cuarto trimestre por encima de lo esperado y anunció una meta de ahorro de USD 3.000 millones a través de reducción de costos, en medio de la estrategia del nuevo CEO Josh D'Amaro.",
-      "detail": "Disney es uno de los conglomerados de medios y entretenimiento más grandes del mundo, por lo que sus resultados dan una señal sobre el estado del consumo en ese sector. El foco en recorte de costos es una estrategia común cuando una empresa necesita mejorar su rentabilidad tras períodos de alta inversión. Para quien aprende finanzas, este caso muestra cómo el mercado evalúa no solo las ventas sino también la eficiencia operativa de una empresa.",
+      "title": "Nike presentó sus metas financieras en su primer investor day en 9 años",
+      "summary": "Nike organizó un día del inversor en su sede de Oregon para mostrar el avance de su plan de recuperación y convencer al mercado de que la empresa está en el buen camino.",
+      "detail": "Un 'investor day' es un evento donde una empresa presenta sus objetivos financieros y estrategia a analistas e inversores. Para Nike, que atraviesa un proceso de reestructuración, este evento es clave para recuperar la confianza del mercado. Seguir este tipo de presentaciones ayuda a entender cómo las empresas comunican su visión de largo plazo y cómo eso puede mover el precio de sus acciones.",
       "tags": [
-        "medios",
-        "resultados",
-        "ahorro"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-      "published_at": "2026-11-17T16:40:25Z",
-      "fecha_evento": "2026-11-17",
-      "tickers": [
-        "DIS"
-      ]
-    },
-    {
-      "id": "nike-investor-day",
-      "type": "empresa",
-      "title": "Nike presentó sus objetivos financieros en su primer investor day en 9 años",
-      "summary": "Nike organizó un día del inversor en su sede de Oregon para mostrar el avance de su plan de recuperación y convencer al mercado de que la empresa está en el camino correcto.",
-      "detail": "Un \"investor day\" es un evento donde la empresa presenta su estrategia y metas financieras directamente a analistas e inversores. Que Nike no haya hecho uno en nueve años y lo retome ahora indica que necesita recuperar la confianza del mercado tras un período difícil. Para quien aprende finanzas, es un ejemplo de cómo la comunicación entre empresas e inversores influye en la valoración de las acciones.",
-      "tags": [
-        "acciones",
-        "estrategia",
-        "inversores"
+        "Nike",
+        "inversores",
+        "estrategia"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
@@ -150,86 +146,50 @@
       "tickers": [
         "NKE"
       ]
-    },
-    {
-      "id": "unitedheath-caida-fraude-medicare",
-      "type": "empresa",
-      "title": "UnitedHealth se derrumbó en bolsa tras señales de mayor control al fraude en Medicare",
-      "summary": "Las acciones de UnitedHealth Group volvieron a caer después de que el gobierno de EE.UU. anunciara medidas para combatir el fraude en Medicare Advantage, y legisladores renovaron el debate sobre un sistema de salud universal.",
-      "detail": "Medicare Advantage es un programa de salud privado subsidiado por el Estado que representa una fuente importante de ingresos para aseguradoras como UnitedHealth. Si el gobierno endurece los controles o reduce los pagos, el negocio se vuelve menos rentable. Este caso ilustra cómo los cambios regulatorios pueden impactar drásticamente en la valoración de una empresa, incluso sin que haya cambiado nada en sus operaciones internas.",
-      "tags": [
-        "salud",
-        "regulación",
-        "acciones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-      "published_at": "2026-11-19T21:22:00Z",
-      "fecha_evento": "2026-11-19",
-      "tickers": [
-        "UNH"
-      ]
-    },
-    {
-      "id": "coreweave-bonos-cofundador",
-      "type": "mercado",
-      "title": "Un cofundador de CoreWeave apostó USD 30 millones comprando bonos de su propia empresa",
-      "summary": "Brian Venturo, cofundador de CoreWeave, compró USD 30 millones en bonos de la compañía —en lugar de acciones— como señal de confianza en medio de la turbulencia en el sector de inteligencia artificial.",
-      "detail": "Cuando un directivo compra títulos de su propia empresa, el mercado suele interpretarlo como una señal de que cree que están subvaluados. Lo llamativo aquí es que eligió bonos en lugar de acciones: los bonos son deuda de la empresa y su compra sugiere confianza en que la compañía podrá repagar sus obligaciones. Este caso es útil para entender la diferencia entre acciones y bonos, y cómo ambos instrumentos reaccionan distinto en momentos de incertidumbre.",
-      "tags": [
-        "bonos",
-        "inteligencia artificial",
-        "confianza"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
-      "published_at": "2026-11-19T20:28:00Z",
-      "fecha_evento": "2026-11-19",
-      "tickers": []
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.585",
-      "valor_num": 1585.0,
-      "delta_pct": 0.63
+      "valor": "$1.600",
+      "valor_num": 1600.0,
+      "delta_pct": 1.27
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.640",
-      "valor_num": 1640.0,
-      "delta_pct": 2.18
+      "valor": "$1.675",
+      "valor_num": 1675.0,
+      "delta_pct": 2.76
     },
     {
       "label": "MEP",
-      "valor": "$1.650",
-      "valor_num": 1649.8,
-      "delta_pct": 2.9
+      "valor": "$1.743",
+      "valor_num": 1743.1,
+      "delta_pct": 7.02
     },
     {
       "label": "CCL",
-      "valor": "$1.748",
-      "valor_num": 1748.2,
-      "delta_pct": 3.0
+      "valor": "$1.806",
+      "valor_num": 1806.2,
+      "delta_pct": 4.76
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 61.491",
-      "valor_num": 61491.0,
-      "delta_pct": -1.27
+      "valor": "US$ 58.924",
+      "valor_num": 58924.0,
+      "delta_pct": -4.18
     },
     {
       "label": "S&P 500",
-      "valor": "7.176",
-      "valor_num": 7175.83,
-      "delta_pct": -5.49
+      "valor": "6.910",
+      "valor_num": 6910.39,
+      "delta_pct": -8.61
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.624",
-      "valor_num": 3624.3,
-      "delta_pct": -5.94
+      "valor": "US$ 3.534",
+      "valor_num": 3534.3,
+      "delta_pct": -8.27
     }
   ]
 }
