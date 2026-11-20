@@ -13,6 +13,16 @@
   </image>
   <atom:link href="https://obolfinance.com.ar/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>El ancla: por qué el primer precio que ves decide todo lo demás</title>
+    <link>https://obolfinance.com.ar/blog/articulos/sesgo-de-anclaje-precios-referencia.html</link>
+    <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/sesgo-de-anclaje-precios-referencia.html</guid>
+    <description>Tu cerebro no sabe cuánto vale algo. Sabe compararlo con el primer número que vio. Así funciona el anclaje, y así se usa en tu contra.</description>
+    <category>Mitos</category>
+    <author>obol.finance2026@gmail.com (Cazador de Mitos)</author>
+    <pubDate>Fri, 20 Nov 2026 09:00:00 -0300</pubDate>
+  </item>
+
+  <item>
     <title>Corridas bancarias: por qué un banco sano puede caer en tres días</title>
     <link>https://obolfinance.com.ar/blog/articulos/corrida-bancaria-como-funciona.html</link>
     <guid isPermaLink="true">https://obolfinance.com.ar/blog/articulos/corrida-bancaria-como-funciona.html</guid>

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://challenges.cloudflare.com https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.112.2; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self' https://obolfinance.app.n8n.cloud https://fhdkferjbwecrkolluab.supabase.co https://dolarapi.com https://api.argentinadatos.com https://challenges.cloudflare.com; frame-src https://challenges.cloudflare.com; object-src 'none'; base-uri 'self'; form-action 'self';">
+<script src="../../assets/js/marco.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>El ancla: por qué el primer precio que ves decide todo lo demás — Obol Blog</title>
+<meta name="description" content="Qué es el sesgo de anclaje, cómo se usa en descuentos, cuotas y negociaciones, y qué podés hacer para que no te decida la compra.">
+<link rel="canonical" href="https://obolfinance.com.ar/blog/articulos/sesgo-de-anclaje-precios-referencia.html">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="theme-color" content="#12212E">
+
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="Obol Finance">
+<meta property="og:locale" content="es_AR">
+<meta property="og:url" content="https://obolfinance.com.ar/blog/articulos/sesgo-de-anclaje-precios-referencia.html">
+<meta property="og:title" content="El ancla: por qué el primer precio que ves decide todo lo demás">
+<meta property="og:description" content="Tu cerebro no sabe cuánto vale algo. Sabe compararlo con el primer número que vio. Así funciona el anclaje, y así se usa en tu contra.">
+<meta property="og:image" content="https://obolfinance.com.ar/assets/og/og-default.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="article:published_time" content="2026-11-20T09:00:00-03:00">
+<meta property="article:modified_time" content="2026-11-20T09:00:00-03:00">
+<meta property="article:section" content="Mitos">
+<meta property="article:author" content="Cazador de Mitos">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="El ancla: por qué el primer precio que ves decide todo lo demás">
+<meta name="twitter:description" content="Tu cerebro no sabe cuánto vale algo. Sabe compararlo con el primer número que vio. Así funciona el anclaje, y así se usa en tu contra.">
+<meta name="twitter:image" content="https://obolfinance.com.ar/assets/og/og-default.jpg">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BlogPosting",
+      "headline": "El ancla: por qué el primer precio que ves decide todo lo demás",
+      "description": "Tu cerebro no sabe cuánto vale algo. Sabe compararlo con el primer número que vio. Así funciona el anclaje, y así se usa en tu contra.",
+      "url": "https://obolfinance.com.ar/blog/articulos/sesgo-de-anclaje-precios-referencia.html",
+      "mainEntityOfPage": "https://obolfinance.com.ar/blog/articulos/sesgo-de-anclaje-precios-referencia.html",
+      "image": "https://obolfinance.com.ar/assets/og/og-default.jpg",
+      "datePublished": "2026-11-20T09:00:00-03:00",
+      "dateModified": "2026-11-20T09:00:00-03:00",
+      "articleSection": "Mitos",
+      "wordCount": 687,
+      "timeRequired": "PT6M",
+      "inLanguage": "es-AR",
+      "author": { "@type": "Person", "name": "Cazador de Mitos" },
+      "publisher": { "@id": "https://obolfinance.com.ar/#organizacion" },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Obol", "item": "https://obolfinance.com.ar/index.html" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://obolfinance.com.ar/blog/index.html" },
+        { "@type": "ListItem", "position": 3, "name": "El sesgo de anclaje" }
+      ]
+    }
+  ]
+}
+</script>
+<link rel="icon" href="../assets/icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@600;700;800;900&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/article.css">
+</head>
+<body>
+
+<div style="font-family:'Nunito',system-ui,sans-serif;color:#1b2436;position:relative;--hero:#2c1e3f;--acc:#b98cf0;--accDeep:#7a4fc0;--tint:#f5eeff;">
+
+  <div style="position:fixed;top:0;left:0;right:0;height:5px;z-index:60;background:rgba(15,40,55,.08);">
+    <div id="progress" style="height:100%;width:0%;background:linear-gradient(90deg,var(--accDeep),var(--acc),#ffb24a);transition:width .08s linear;"></div>
+  </div>
+
+  <div style="position:sticky;top:0;z-index:40;background:#0f1730;padding:16px 34px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 4px 18px rgba(6,10,26,.35);">
+    <a href="../index.html" style="display:flex;align-items:center;color:#fff;">
+      <img src="../../assets/home/obol_wordmark_blog_small.png" alt="Obol Blog" style="height:27px;width:auto;">
+    </a>
+    <div style="display:flex;align-items:center;gap:28px;">
+      <a href="../../index.html" class="nav-text-link" style="color:rgba(255,255,255,.85);font-weight:700;font-size:14px;">Inicio</a>
+      <a href="../../aprende.html" class="nav-text-link" style="color:rgba(255,255,255,.85);font-weight:700;font-size:14px;">Qué enseña la app</a>
+      <a href="../index.html" class="nav-text-link" style="color:rgba(255,255,255,.85);font-weight:700;font-size:14px;">Blog</a>
+      <a href="../../index.html#anotarse" style="display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:14px;color:#0d1730;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:9px 20px;border-radius:999px;"><span class="nav-cta-full">Enterate cuando salga</span><span class="nav-cta-short">Enterate</span></a>
+    </div>
+  </div>
+
+  <!-- HERO -->
+  <div style="position:relative;overflow:hidden;background:var(--hero);padding:54px 34px 128px;">
+    <div style="position:absolute;inset:0;background-image:url('../assets/bg_mitos_hero.jpg');background-size:cover;background-position:center 42%;opacity:.35;"></div>
+    <div style="position:absolute;inset:0;background:linear-gradient(100deg,var(--hero) 0%,var(--hero) 40%,rgba(0,0,0,0) 100%);"></div>
+    <div style="position:absolute;right:-30px;top:-30px;width:320px;height:320px;border-radius:999px;background:radial-gradient(circle,rgba(255,255,255,.14),transparent 70%);"></div>
+    <div style="position:relative;max-width:1120px;margin:0 auto;display:flex;align-items:center;gap:36px;">
+      <div style="flex:1;min-width:0;display:flex;flex-direction:column;gap:20px;">
+        <div class="obol-rise" style="display:flex;align-items:center;gap:10px;animation-delay:.05s;">
+          <span style="display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:12px;letter-spacing:.14em;color:var(--hero);background:var(--acc);padding:7px 15px;border-radius:999px;text-transform:uppercase;">Mitos</span>
+          <span style="font-weight:800;font-size:13px;color:rgba(255,255,255,.62);">20 nov 2026 · 6 min de lectura</span>
+        </div>
+        <h1 class="obol-rise" style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:clamp(32px,4.4vw,54px);line-height:1.05;color:#fff;letter-spacing:-.02em;animation-delay:.13s;">El ancla: por qué el primer precio que ves decide todo lo demás</h1>
+        <p class="obol-rise" style="margin:0;max-width:560px;font-weight:600;font-size:19px;line-height:1.55;color:rgba(255,255,255,.85);animation-delay:.22s;">Tu cabeza no mide precios en abstracto. Los compara contra el primer número que vio, aunque ese número sea cualquiera.</p>
+        <div class="obol-rise" style="display:flex;align-items:center;gap:13px;margin-top:4px;animation-delay:.3s;">
+          <div style="width:52px;height:52px;border-radius:999px;background:rgba(255,255,255,.1);border:2px solid var(--acc);overflow:hidden;display:grid;place-items:center;flex:none;">
+            <img src="../assets/char-mito.png" alt="" style="width:48px;height:48px;object-fit:contain;transform:translateY(3px);">
+          </div>
+          <div style="display:flex;flex-direction:column;">
+            <span style="font-family:'Fredoka',sans-serif;font-weight:600;font-size:16px;color:#fff;">El Cazador de Mitos</span>
+            <span style="font-weight:700;font-size:13px;color:rgba(255,255,255,.55);">Escribe en Obol</span>
+          </div>
+        </div>
+      </div>
+      <div class="obol-hero-pig" style="position:relative;flex:none;width:360px;display:grid;place-items:center;">
+        <div style="position:absolute;width:220px;height:220px;border-radius:999px;background:radial-gradient(circle,rgba(255,255,255,.16),transparent 68%);"></div>
+        <img src="../assets/char-mito-card.png" alt="El Cazador de Mitos" style="position:relative;width:339px;height:auto;filter:drop-shadow(0 22px 30px rgba(4,14,20,.55));animation:obolRise .8s cubic-bezier(.22,.61,.36,1) .35s both;">
+      </div>
+    </div>
+    <div style="position:absolute;left:0;right:0;bottom:-1px;height:66px;background:#eef1f7;clip-path:polygon(0 55%,100% 0,100% 100%,0 100%);"></div>
+  </div>
+
+  <!-- BODY -->
+  <div style="display:flex;justify-content:center;padding:0 24px;">
+    <div style="width:100%;max-width:820px;margin-top:-60px;position:relative;z-index:5;">
+      <article class="obol-art" style="background:#fff;border-radius:28px;padding:58px clamp(28px,6vw,74px) 54px;box-shadow:0 30px 70px -30px rgba(15,40,55,.4);">
+
+        <div style="display:flex;align-items:center;gap:10px;padding-bottom:24px;margin-bottom:8px;border-bottom:2px dashed #e2e7f0;">
+          <span style="font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:13px;color:#8a92a8;letter-spacing:.04em;">COMPARTIR</span>
+          <div style="display:flex;gap:9px;">
+            <a href="#" class="obol-btn" aria-label="Compartir en X" style="width:38px;height:38px;border-radius:11px;background:#f1f4fa;display:grid;place-items:center;color:#0f2837;font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:16px;">𝕏</a>
+            <a href="#" class="obol-btn" aria-label="Compartir en WhatsApp" style="width:38px;height:38px;border-radius:11px;background:#f1f4fa;display:grid;place-items:center;color:#0f2837;font-weight:800;font-size:14px;">Wa</a>
+            <a href="#" class="obol-btn" aria-label="Copiar enlace" style="width:38px;height:38px;border-radius:11px;background:#f1f4fa;display:grid;place-items:center;font-size:15px;">🔗</a>
+          </div>
+        </div>
+
+        <p class="lead"><span style="float:left;font-family:'Fredoka',sans-serif;font-weight:700;font-size:74px;line-height:.72;padding:8px 12px 0 0;color:var(--accDeep);">E</span>ntrás a una tienda. Ves una campera tachada a 400.000, y abajo, en rojo, 240.000. Te parece barata. La pregunta que casi nadie se hace es: ¿barata comparada con qué? Con 400.000. Un número que elegió el que vende, que puede no haber existido nunca como precio real. Ese es el truco más viejo y más efectivo del comercio.</p>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">01</span>Tu cabeza no sabe cuánto vale nada</h2>
+        <p>Pensá cuánto debería salir un par de zapatillas. No el que viste ayer: cuánto <em>debería</em> salir. Es casi imposible contestar sin pensar en otro precio. No tenés un medidor interno de valor. Tenés un comparador.</p>
+        <p>Eso no es un defecto tuyo. Es cómo funciona el cerebro con casi todo: estimás por referencia. El problema aparece cuando otro elige la referencia por vos.</p>
+        <p>Los psicólogos Daniel Kahneman y Amos Tversky lo probaron en los 70 con un experimento ridículo. Hacían girar una ruleta trucada delante de la gente, y después preguntaban qué porcentaje de países africanos eran miembros de la ONU. Los que veían un número alto en la ruleta estimaban más alto. <span class="obol-mark">Un número totalmente al azar les movía la respuesta.</span> Imaginate lo que hace un número puesto a propósito.</p>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">02</span>Dónde te lo aplican sin que lo notes</h2>
+        <p>El precio tachado es el caso obvio. Pero hay versiones más finas. El plan de tres niveles donde el del medio es el que quieren venderte, y el caro está ahí solo para que el del medio parezca razonable. El menú que arranca con el plato más caro arriba de todo.</p>
+        <p>En Argentina tenemos una versión propia: las cuotas. &quot;12 cuotas de 85.000&quot; ancla tu atención en 85.000, no en el 1.020.000 que vas a terminar pagando. El número chico es el ancla. El total queda fuera de cuadro.</p>
+        <p>También pasa con tu propia historia. Si compraste dólares a cierto precio, ese número se te queda clavado y empezás a medir todo contra él. &quot;Lo compré más barato&quot; o &quot;lo compré más caro&quot; no dice nada sobre si conviene hacer algo hoy. Es un ancla sentimental, y suele ser cara.</p>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">03</span>El ancla también funciona al revés</h2>
+        <p>No es solo para que gastes de más. También te puede dejar paralizado.</p>
+        <p>Supongamos que alquilaste un departamento hace tres años y pagabas cierto monto. Hoy, con la inflación acumulada, ese valor no existe más en ningún lado. Pero tu cabeza sigue usando el viejo como referencia y todo te parece un robo. Resultado: no te mudás, aunque te convenga, porque estás comparando contra un número muerto.</p>
+        <p>Lo mismo con los sueldos. Si tu referencia es lo que ganabas hace dos años en pesos, vas a sentir que mejoraste muchísimo aunque en poder de compra estés igual o peor.</p>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">04</span>Cómo desarmar un ancla</h2>
+        <p>No se puede apagar el sesgo. Se puede traer una referencia propia antes de que te den una.</p>
+        <p>La más útil: antes de mirar el precio, decidí cuánto estás dispuesto a pagar. Si lo pensás después, ya estás contaminado. También sirve traducir todo a la misma unidad: el total, no la cuota; el precio por kilo, no el del paquete; el costo financiero total, no la tasa que figura más grande.</p>
+        <p>Y una pregunta que desarma casi cualquier descuento: <em>si esto hubiera salido siempre este precio, sin cartel ni tachado, ¿lo compraría igual?</em> Si la respuesta es no, no estabas comprando el producto. Estabas comprando la diferencia.</p>
+        <div class="obol-reveal" style="margin:28px 0;padding:24px 26px;border-radius:20px;background:#f7f9fc;border:1px solid #e6ebf4;">
+          <span style="display:block;font-family:'Fredoka',sans-serif;font-weight:700;font-size:15px;color:var(--accDeep);margin-bottom:12px;">Anclas que aparecen todos los días</span>
+          <div style="display:flex;flex-direction:column;gap:12px;">
+            <div style="display:flex;gap:12px;align-items:flex-start;">
+              <span style="width:8px;height:8px;border-radius:999px;background:var(--acc);margin-top:9px;flex:none;"></span>
+              <span style="font-weight:700;font-size:16px;line-height:1.55;color:#33404f;">El precio tachado al lado del precio real</span>
+            </div>
+            <div style="display:flex;gap:12px;align-items:flex-start;">
+              <span style="width:8px;height:8px;border-radius:999px;background:var(--acc);margin-top:9px;flex:none;"></span>
+              <span style="font-weight:700;font-size:16px;line-height:1.55;color:#33404f;">La cuota mensual en vez del total financiado</span>
+            </div>
+            <div style="display:flex;gap:12px;align-items:flex-start;">
+              <span style="width:8px;height:8px;border-radius:999px;background:var(--acc);margin-top:9px;flex:none;"></span>
+              <span style="font-weight:700;font-size:16px;line-height:1.55;color:#33404f;">El plan premium que nadie compra pero hace ver barato al del medio</span>
+            </div>
+            <div style="display:flex;gap:12px;align-items:flex-start;">
+              <span style="width:8px;height:8px;border-radius:999px;background:var(--acc);margin-top:9px;flex:none;"></span>
+              <span style="font-weight:700;font-size:16px;line-height:1.55;color:#33404f;">Lo que vos pagaste alguna vez por algo</span>
+            </div>
+          </div>
+        </div>
+
+        <h2><span style="font-family:'Space Grotesk',sans-serif;color:var(--accDeep);font-size:20px;margin-right:10px;">05</span>El que tira el primer número manda</h2>
+        <p>Si alguna vez negociaste un sueldo, un alquiler o la venta de un auto, ya jugaste este juego. Quien dice el primer número define el rango de toda la conversación. El otro va a moverse alrededor de ese punto, aunque crea que está negociando libre.</p>
+        <p>Por eso en una negociación conviene llegar con tu número pensado de antes. No para tirarlo siempre primero, sino para reconocer cuándo el ancla del otro te empezó a correr.</p>
+        <p>Y si el número que te tiran es absurdo, la respuesta no es contraofertar cerca. Es sacarlo de la mesa y empezar de nuevo con uno tuyo.</p>
+        <div class="obol-reveal" style="position:relative;margin:40px 0;padding:34px 32px 30px 40px;border-radius:22px;background:var(--tint);border-left:6px solid var(--acc);box-shadow:0 16px 34px -24px rgba(15,40,55,.4);">
+          <span style="position:absolute;top:-16px;left:22px;font-family:'Fredoka',sans-serif;font-weight:700;font-size:76px;line-height:1;color:var(--acc);opacity:.6;">"</span>
+          <p style="margin:0;font-family:'Fredoka',sans-serif;font-weight:600;font-size:22px;line-height:1.4;color:#243244;">No tenés un medidor interno de valor. Tenés un comparador. Y casi nunca elegís vos contra qué compara.</p>
+          <span style="display:inline-block;margin-top:14px;font-weight:800;font-size:14px;color:var(--accDeep);">— El Cazador de Mitos</span>
+        </div>
+
+        <p>El anclaje no se cura con fuerza de voluntad. Se cura llevando tu propio número. Cada vez que vayas a decidir cuánto vale algo —una compra, un sueldo, un alquiler—, preguntate de dónde salió la cifra que tenés en la cabeza. Si la puso otro, la decisión ya empezó torcida.</p>
+
+        <p style="margin-top:26px;font-size:13.5px;line-height:1.6;color:#8a92a8;">Esta nota tiene fines educativos. No es asesoramiento financiero, de inversión, legal ni fiscal. Fue redactada con ayuda de inteligencia artificial y puede contener errores.</p>
+
+        <div class="obol-reveal" style="position:relative;overflow:hidden;margin:44px 0 4px;border-radius:24px;background:linear-gradient(120deg,var(--hero),var(--accDeep));padding:36px 40px;display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap;">
+          <div style="position:absolute;right:-30px;bottom:-30px;width:190px;height:190px;border-radius:999px;background:radial-gradient(circle,rgba(255,255,255,.16),transparent 70%);"></div>
+          <div style="position:relative;max-width:440px;display:flex;flex-direction:column;gap:8px;">
+            <span style="font-family:'Fredoka',sans-serif;font-weight:600;font-size:12px;letter-spacing:.12em;color:var(--acc);text-transform:uppercase;">Seguí aprendiendo</span>
+            <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:24px;color:#fff;line-height:1.2;">¿Querés practicar esto paso a paso?</h3>
+            <p style="margin:0;font-weight:600;font-size:15px;color:rgba(255,255,255,.85);line-height:1.5;">En Obol, el mundo de Desmitificando desarma las ideas que suenan ciertas y no lo son.</p>
+          </div>
+          <a href="../../index.html" class="obol-btn" style="position:relative;display:inline-flex;align-items:center;gap:8px;font-family:'Fredoka',sans-serif;font-weight:600;font-size:16px;color:#0f2837;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:16px 30px;border-radius:999px;white-space:nowrap;box-shadow:0 14px 30px -12px rgba(255,178,74,.6);">Conocé la app 🐷</a>
+        </div>
+      </article>
+
+      <div style="margin:56px 0 20px;">
+        <h2 style="margin:0 0 22px;font-family:'Fredoka',sans-serif;font-weight:700;font-size:26px;color:#0f2837;text-align:center;">Seguí leyendo</h2>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:22px;">
+
+          <a href="./corrida-bancaria-como-funciona.html" style="border:none;padding:0;background:none;cursor:pointer;text-align:left;display:block;position:relative;">
+            <div class="obol-card" style="position:relative;border-radius:22px;overflow:hidden;height:210px;box-shadow:0 16px 32px -18px rgba(15,40,55,.5);">
+              <div style="position:absolute;inset:0;background-image:url('../assets/bg_crisis_ciclos.jpg');background-size:cover;background-position:center 45%;"></div>
+              <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,40,55,.05) 0%,rgba(15,40,55,.55) 48%,rgba(9,27,37,.94) 100%);"></div>
+              <div style="position:relative;height:100%;padding:22px;display:flex;flex-direction:column;justify-content:flex-end;gap:8px;">
+                <span style="display:inline-flex;align-self:flex-start;font-family:'Fredoka',sans-serif;font-weight:600;font-size:10px;letter-spacing:.1em;color:#0f2837;background:rgba(255,255,255,.92);padding:4px 10px;border-radius:999px;text-transform:uppercase;">Crisis</span>
+                <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:17px;line-height:1.2;color:#fff;">Corridas bancarias: por qué un banco sano puede caer en tres días</h3>
+              </div>
+            </div>
+            <img src="../assets/char-domador-card.png" alt="" style="position:absolute;right:-6px;bottom:-10px;width:84px;height:auto;pointer-events:none;z-index:3;filter:drop-shadow(0 12px 14px rgba(15,40,55,.4));" loading="lazy">
+          </a>
+
+          <a href="./ccl-mas-caro-que-el-mep-que-significa.html" style="border:none;padding:0;background:none;cursor:pointer;text-align:left;display:block;position:relative;">
+            <div class="obol-card" style="position:relative;border-radius:22px;overflow:hidden;height:210px;box-shadow:0 16px 32px -18px rgba(15,40,55,.5);">
+              <div style="position:absolute;inset:0;background-image:url('../assets/bg_inflation_prices.jpg');background-size:cover;background-position:center 45%;"></div>
+              <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,40,55,.05) 0%,rgba(15,40,55,.55) 48%,rgba(9,27,37,.94) 100%);"></div>
+              <div style="position:relative;height:100%;padding:22px;display:flex;flex-direction:column;justify-content:flex-end;gap:8px;">
+                <span style="display:inline-flex;align-self:flex-start;font-family:'Fredoka',sans-serif;font-weight:600;font-size:10px;letter-spacing:.1em;color:#0f2837;background:rgba(255,255,255,.92);padding:4px 10px;border-radius:999px;text-transform:uppercase;">Economía</span>
+                <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:17px;line-height:1.2;color:#fff;">El CCL está más caro que el MEP: qué dice esa diferencia</h3>
+              </div>
+            </div>
+            <img src="../assets/char-analista-card.png" alt="" style="position:absolute;right:-6px;bottom:-10px;width:84px;height:auto;pointer-events:none;z-index:3;filter:drop-shadow(0 12px 14px rgba(15,40,55,.4));" loading="lazy">
+          </a>
+
+          <a href="./liquidez-que-es-y-por-que-importa.html" style="border:none;padding:0;background:none;cursor:pointer;text-align:left;display:block;position:relative;">
+            <div class="obol-card" style="position:relative;border-radius:22px;overflow:hidden;height:210px;box-shadow:0 16px 32px -18px rgba(15,40,55,.5);">
+              <div style="position:absolute;inset:0;background-image:url('../assets/bg_inversiones_base.jpg');background-size:cover;background-position:center 45%;"></div>
+              <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(15,40,55,.05) 0%,rgba(15,40,55,.55) 48%,rgba(9,27,37,.94) 100%);"></div>
+              <div style="position:relative;height:100%;padding:22px;display:flex;flex-direction:column;justify-content:flex-end;gap:8px;">
+                <span style="display:inline-flex;align-self:flex-start;font-family:'Fredoka',sans-serif;font-weight:600;font-size:10px;letter-spacing:.1em;color:#0f2837;background:rgba(255,255,255,.92);padding:4px 10px;border-radius:999px;text-transform:uppercase;">Inversión</span>
+                <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:17px;line-height:1.2;color:#fff;">Liquidez: por qué importa cuánto tardás en salir de algo</h3>
+              </div>
+            </div>
+            <img src="../assets/char-inversor-pro-card.png" alt="" style="position:absolute;right:-6px;bottom:-10px;width:84px;height:auto;pointer-events:none;z-index:3;filter:drop-shadow(0 12px 14px rgba(15,40,55,.4));" loading="lazy">
+          </a>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="background:#0f1730;margin-top:40px;padding:34px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:16px;">
+    <div style="display:flex;align-items:center;gap:10px;">
+      <img src="../assets/icon.png" alt="Obol" style="width:26px;height:26px;border-radius:7px;">
+      <span style="font-family:'Fredoka',sans-serif;font-weight:600;font-size:14px;color:rgba(255,255,255,.7);">Obol Blog</span>
+    </div>
+    <div style="display:flex;gap:24px;flex-wrap:wrap;">
+      <a href="../../index.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Inicio</a>
+      <a href="../../aprende.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Qué enseña la app</a>
+      <a href="../index.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Blog</a>
+      <a href="../../privacy.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Privacidad</a>
+      <a href="../../terms.html" style="color:rgba(255,255,255,.6);font-weight:700;font-size:13px;">Términos</a>
+    </div>
+  </div>
+
+</div>
+
+<script src="../assets/articulo.js"></script>
+
+</body>
+</html>

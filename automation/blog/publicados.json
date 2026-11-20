@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "sesgo-de-anclaje-precios-referencia",
+      "titulo": "El ancla: por qué el primer precio que ves decide todo lo demás",
+      "bajada": "Tu cerebro no sabe cuánto vale algo. Sabe compararlo con el primer número que vio. Así funciona el anclaje, y así se usa en tu contra.",
+      "categoria": "Mitos",
+      "mundo": "mitos",
+      "fecha": "2026-11-20"
+    },
+    {
       "slug": "corrida-bancaria-como-funciona",
       "titulo": "Corridas bancarias: por qué un banco sano puede caer en tres días",
       "bajada": "Un banco puede ser solvente y caer igual. La corrida bancaria explicada sin tecnicismos: por qué pasa, cómo se frena y qué significa para vos.",
