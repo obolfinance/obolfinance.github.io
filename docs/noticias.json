@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-11-20T22:01:01.128760+00:00",
+  "generated_at": "2026-11-21T12:01:12.364294+00:00",
   "items": [
     {
-      "id": "japan-inflation-oct-2026",
+      "id": "chip-stocks-wipeout-nov2026",
+      "type": "mercado",
+      "title": "Los chips de IA se desplomaron: se evaporaron USD 2,3 billones en una semana",
+      "summary": "Las acciones de semiconductores sufrieron su peor semana en 25 años, borrando 2,3 billones de dólares de valor de mercado en medio de un pánico generalizado en el sector de inteligencia artificial.",
+      "detail": "Cuando el entusiasmo por una tecnología cae bruscamente, las acciones del sector pueden colapsar en cadena aunque los fundamentos del negocio no hayan cambiado de un día para el otro. Este tipo de correcciones muestra cómo el 'sentimiento de mercado' puede ser tan poderoso como los datos reales: cuando inversores salen en masa, el precio cae y eso puede empujar a más inversores a vender. Entender la diferencia entre una corrección de valuación y un cambio estructural es clave para no vender en pánico.",
+      "tags": [
+        "semiconductores",
+        "IA",
+        "corrección"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+      "published_at": "2026-11-20T22:44:00Z",
+      "fecha_evento": "2026-11-20",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "SOXX"
+      ]
+    },
+    {
+      "id": "sp500-correction-nov2026",
+      "type": "mercado",
+      "title": "El Dow y el S&P 500 entran en zona de corrección; el Nasdaq tuvo su peor semana desde 2020",
+      "summary": "Todos los sectores del S&P 500 cerraron la semana con caídas de más del 1% por primera vez desde abril de 2025, y el Nasdaq registró su peor rendimiento semanal desde 2020.",
+      "detail": "Una 'corrección' en el mercado se define como una caída del 10% o más desde el máximo reciente. Que todos los sectores caigan al mismo tiempo es una señal de que la venta es amplia y no está concentrada en un solo rubro, lo que suele indicar un cambio en el apetito por riesgo de los inversores en general. Para alguien que aprende finanzas, es una oportunidad de ver cómo la correlación entre activos aumenta en momentos de estrés.",
+      "tags": [
+        "bolsa",
+        "corrección",
+        "mercados"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+      "published_at": "2026-11-20T22:46:00Z",
+      "fecha_evento": "2026-11-20",
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "DIA"
+      ]
+    },
+    {
+      "id": "nvidia-losses-nov2026",
+      "type": "mercado",
+      "title": "Nvidia acumula pérdidas semanales que no se veían desde 2008 y borró USD 1,16 billones de valor",
+      "summary": "Las acciones de Nvidia encadenaron varias semanas de caídas consecutivas, una racha que no ocurría desde 2008, y la compañía perdió más de 1,16 billones de dólares en capitalización de mercado en apenas siete ruedas.",
+      "detail": "La capitalización de mercado es el precio de la acción multiplicado por la cantidad de acciones emitidas; cuando baja tanto y tan rápido, refleja que el mercado está revaluando cuánto vale realmente el negocio futuro de la empresa. La incertidumbre —en este caso sobre la crisis de liderazgo y los controles de exportación— puede ser más dañina para el precio que un mal resultado trimestral. Seguir de cerca a Nvidia es útil porque su desempeño funciona como termómetro del sector tecnológico global.",
+      "tags": [
+        "Nvidia",
+        "tecnología",
+        "acciones"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+      "published_at": "2026-11-20T21:58:00Z",
+      "fecha_evento": "2026-11-20",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "anthropic-ipo-nov2026",
+      "type": "empresa",
+      "title": "Anthropic debutó en bolsa con el IPO más grande de la historia: recaudó USD 81.300 millones",
+      "summary": "Anthropic completó su salida a bolsa el 19 de noviembre recaudando 81.300 millones de dólares a una valuación de aproximadamente 1,5 billones de dólares, el IPO más grande registrado hasta ahora. Sin embargo, la acción cayó fuerte en sus primeros días de cotización, aunque logró mantenerse por encima del precio de salida.",
+      "detail": "Un IPO (oferta pública inicial) es cuando una empresa privada vende acciones al público por primera vez. La historia muestra que muchos IPOs de alto perfil caen en los primeros meses luego de cotizar, porque el entusiasmo inicial suele hacer que el precio de salida sea muy elevado. La incapacidad de Anthropic de sostener su precio de apertura generó preocupación más amplia sobre la valuación de empresas de IA en este momento del ciclo.",
+      "tags": [
+        "IPO",
+        "IA",
+        "tecnología"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "published_at": "2026-11-20T21:25:00Z",
+      "fecha_evento": "2026-11-19",
+      "tickers": [
+        "ANTH"
+      ]
+    },
+    {
+      "id": "japan-inflation-oct2026",
       "type": "economia",
-      "title": "La inflación en Japón llegó a su nivel más alto del año",
-      "summary": "La inflación núcleo de Japón (que excluye alimentos) subió en octubre al nivel más alto del año, impulsada por el vencimiento de subsidios a la energía. El dato quedó por debajo del 2,3% que esperaban los analistas consultados por Reuters.",
-      "detail": "Cuando los gobiernos retiran subsidios a la energía, los precios suben de golpe y eso se refleja en el índice de inflación. Este tipo de dato es clave porque el Banco Central de Japón lo sigue de cerca para decidir si sube o baja las tasas de interés. Un dato de inflación más alto de lo esperado suele presionar a los bancos centrales a subir tasas, lo que afecta al valor del yen y a los mercados globales.",
+      "title": "La inflación núcleo de Japón subió al nivel más alto del año por el fin de subsidios a la energía",
+      "summary": "El índice de precios al consumidor núcleo de Japón —que excluye alimentos— trepó al nivel más alto del año en octubre, impulsado por el vencimiento de subsidios estatales a la energía, aunque quedó por debajo del 2,3% que esperaban los analistas.",
+      "detail": "Cuando un gobierno subsidia la energía, mantiene artificialmente bajos los precios para los consumidores; al retirar ese subsidio, los precios suben de golpe aunque la economía real no haya cambiado. Este efecto es importante para entender cómo las políticas fiscales pueden distorsionar temporalmente la inflación. Para el Banco de Japón, datos de inflación más altos podrían justificar seguir subiendo tasas de interés, lo que tiene impacto en mercados globales.",
       "tags": [
         "inflación",
         "Japón",
-        "bancos centrales"
+        "política monetaria"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
@@ -19,87 +99,15 @@
       "tickers": []
     },
     {
-      "id": "nvidia-crisis-ai-central-bank",
+      "id": "walmart-outlook-nov2026",
       "type": "empresa",
-      "title": "La crisis de liderazgo en Nvidia pone en jaque su rol central en la economía de la IA",
-      "summary": "Nvidia atraviesa una crisis de liderazgo que pone en evidencia cuán interconectada está con otras empresas tecnológicas y financieras. Su peso en el sistema es tan grande que algunos la comparan con un banco central de la inteligencia artificial.",
-      "detail": "Cuando una empresa se vuelve tan central para una industria, su inestabilidad puede tener efectos en cadena sobre otras compañías que dependen de ella. Esta es la idea detrás del concepto de 'riesgo sistémico', más conocido en el mundo bancario. Entender este mecanismo ayuda a ver por qué el precio de Nvidia afecta a tantos otros activos y por qué los mercados reaccionan con tanta sensibilidad a sus noticias.",
-      "tags": [
-        "Nvidia",
-        "IA",
-        "riesgo sistémico"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published_at": "2026-11-19T20:21:10Z",
-      "fecha_evento": "2026-11-19",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "nvidia-weekly-losses-2008",
-      "type": "mercado",
-      "title": "Nvidia encadena una racha de caídas semanales que no se veía desde 2008",
-      "summary": "Las acciones de Nvidia acumularon pérdidas durante siete sesiones consecutivas, borrando unos 1,16 billones de dólares en valor de mercado. Según un gestor de fondos, la incertidumbre actual la deja expuesta a más ventas.",
-      "detail": "Una caída sostenida de esta magnitud en una sola empresa es señal de que el mercado está recalibrando sus expectativas sobre el sector de la inteligencia artificial. La pérdida de valor de mercado en billones de dólares ilustra cómo el precio de una acción no es solo un número, sino la valoración colectiva de los inversores sobre el futuro de un negocio. Esto también impacta en los fondos de inversión que tienen Nvidia entre sus principales posiciones.",
-      "tags": [
-        "Nvidia",
-        "mercado",
-        "acciones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6",
-      "published_at": "2026-11-20T21:58:00Z",
-      "fecha_evento": "2026-11-20",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "anthropic-ipo-caida",
-      "type": "mercado",
-      "title": "Anthropic se desploma en bolsa y arrastra al resto del sector tech",
-      "summary": "Las acciones de Anthropic cayeron fuertemente tras su debut bursátil, aunque lograron mantenerse por encima del precio de salida a bolsa. La caída fue vista como una mala señal para todo el sector tecnológico.",
-      "detail": "El desempeño de una empresa en su IPO (salida a bolsa) es un termómetro del apetito inversor por ese sector. Cuando una empresa muy esperada no puede sostener su precio de apertura, genera desconfianza y puede provocar ventas en otras empresas del mismo rubro. Este efecto contagio es un mecanismo clásico en los mercados financieros.",
-      "tags": [
-        "IPO",
-        "tecnología",
-        "IA"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4",
-      "published_at": "2026-11-20T21:25:00Z",
-      "fecha_evento": "2026-11-20",
-      "tickers": []
-    },
-    {
-      "id": "us-stocks-plummet-anthropic",
-      "type": "mercado",
-      "title": "Las bolsas de EE.UU. cayeron a mínimos de siete meses arrastradas por el sector tech",
-      "summary": "Las principales bolsas estadounidenses cerraron con fuertes bajas el viernes, tocando mínimos de siete meses. La caída de Anthropic fue uno de los factores que profundizó las pérdidas durante la jornada.",
-      "detail": "Las caídas generalizadas en bolsa reflejan que los inversores están saliendo de posiciones de riesgo al mismo tiempo, lo que amplifica los movimientos a la baja. Los mínimos de varios meses son referencias técnicas que los analistas usan para evaluar la tendencia del mercado. Para alguien que aprende finanzas, este tipo de jornadas muestra cómo el sentimiento y los eventos puntuales pueden mover mercados enteros.",
-      "tags": [
-        "bolsa",
-        "EE.UU.",
-        "mercado"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/us-stocks-plummet-seven-month-lows-anthropic-plunges",
-      "published_at": "2026-11-20T21:22:52Z",
-      "fecha_evento": "2026-11-20",
-      "tickers": []
-    },
-    {
-      "id": "walmart-outlook-fuel",
-      "type": "empresa",
-      "title": "Walmart sube sus proyecciones y promete mantener precios bajos pese al alza del combustible",
-      "summary": "Walmart mejoró sus perspectivas financieras luego de un sólido tercer trimestre fiscal, con fortaleza en entregas y retiro en tienda. Su CEO le dijo a CNBC que la empresa apunta a mantener precios bajos a pesar del encarecimiento del combustible.",
-      "detail": "Walmart es el minorista más grande del mundo y sus resultados son un indicador del consumo en EE.UU. Cuando una empresa de esta escala sube su guidance (proyección de ganancias), el mercado lo toma como una señal positiva. Además, la tensión entre costos logísticos en alza y precios bajos al consumidor muestra el dilema central de las empresas en contextos inflacionarios.",
+      "title": "Walmart mejoró sus proyecciones y prometió mantener precios bajos pese al encarecimiento del combustible",
+      "summary": "Walmart elevó sus previsiones de resultados para el año tras un tercer trimestre con crecimiento en entregas y retiro de pedidos en tiendas, y su CEO afirmó que buscarán sostener precios bajos a pesar del alza en costos de combustible.",
+      "detail": "Que una empresa del tamaño de Walmart suba su guidance (proyección de ganancias futuras) es una señal positiva que el mercado suele premiar con suba en la cotización de sus acciones. Además, el compromiso de mantener precios bajos pese al aumento de costos revela cómo los grandes minoristas absorben presión inflacionaria para no perder clientes, algo relevante para entender la dinámica entre inflación y comportamiento empresarial.",
       "tags": [
         "Walmart",
-        "consumo",
-        "resultados"
+        "resultados",
+        "consumo"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
@@ -110,11 +118,11 @@
       ]
     },
     {
-      "id": "ford-catl-battery-production",
+      "id": "ford-catl-battery-nov2026",
       "type": "empresa",
-      "title": "Ford arrancó la producción de baterías en EE.UU. usando tecnología china de CATL",
-      "summary": "Ford comenzó a fabricar celdas de batería en territorio estadounidense para sus próximos autos eléctricos, usando tecnología licenciada por la gigante china CATL. El movimiento ocurre en medio de tensiones geopolíticas entre EE.UU. y China.",
-      "detail": "Este caso muestra cómo las tensiones geopolíticas obligan a las empresas a encontrar soluciones creativas: Ford produce localmente para cumplir con las exigencias políticas de EE.UU., pero depende de tecnología china. Es un ejemplo práctico de cómo las cadenas de suministro globales se reconfiguran ante los conflictos entre potencias, algo que tiene impacto directo en costos, inversiones y precios de los autos eléctricos.",
+      "title": "Ford arrancó la producción de celdas de batería en EE.UU. usando tecnología china de CATL",
+      "summary": "Ford comenzó a producir y enviar celdas de batería para sus próximos vehículos eléctricos en territorio estadounidense, usando tecnología licenciada por el gigante chino de baterías CATL, en medio de tensiones geopolíticas entre ambos países.",
+      "detail": "Producir en EE.UU. con tecnología china es una solución creativa para cumplir con regulaciones que exigen fabricación local, pero genera debate político en un contexto de disputa tecnológica entre las dos potencias. Para inversores y estudiantes de finanzas, ilustra cómo las tensiones geopolíticas obligan a las empresas a encontrar estructuras de negocios complejas para acceder a mercados y subsidios. También es relevante para el sector de vehículos eléctricos, que está en plena transformación global.",
       "tags": [
         "Ford",
         "baterías",
@@ -129,23 +137,40 @@
       ]
     },
     {
-      "id": "nike-investor-day-2026",
-      "type": "empresa",
-      "title": "Nike presentó sus metas financieras en su primer investor day en 9 años",
-      "summary": "Nike organizó un día del inversor en su sede de Oregon para mostrar el avance de su plan de recuperación y convencer al mercado de que la empresa está en el buen camino.",
-      "detail": "Un 'investor day' es un evento donde una empresa presenta sus objetivos financieros y estrategia a analistas e inversores. Para Nike, que atraviesa un proceso de reestructuración, este evento es clave para recuperar la confianza del mercado. Seguir este tipo de presentaciones ayuda a entender cómo las empresas comunican su visión de largo plazo y cómo eso puede mover el precio de sus acciones.",
+      "id": "us-ai-chip-export-controls-nov2026",
+      "type": "economia",
+      "title": "Nuevas reglas de EE.UU. amenazan el boom de centros de datos en el Sudeste Asiático",
+      "summary": "Regulaciones estadounidenses ahora exigen que los centros de datos en el Sudeste Asiático obtengan aprobación de EE.UU. para comprar chips avanzados de IA, poniendo en riesgo un mercado que se había expandido impulsado en gran parte por demanda china.",
+      "detail": "Los controles de exportación son una herramienta de política exterior que restringe a qué países y empresas se pueden vender productos estratégicos como los chips de IA. Cuando EE.UU. endurece estas reglas, afecta toda la cadena de valor: desde fabricantes de chips como Nvidia, hasta los países que construyen infraestructura tecnológica. Para quien aprende finanzas, es un ejemplo de cómo las decisiones regulatorias pueden cambiar el mapa de inversión global de un día para el otro.",
       "tags": [
-        "Nike",
-        "inversores",
-        "estrategia"
+        "chips",
+        "geopolítica",
+        "regulación"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-      "published_at": "2026-11-17T22:17:44Z",
-      "fecha_evento": "2026-11-17",
+      "source_url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+      "published_at": "2026-11-18T14:09:26Z",
+      "fecha_evento": "2026-11-18",
       "tickers": [
-        "NKE"
+        "NVDA"
       ]
+    },
+    {
+      "id": "kevin-warsh-fed-ai-nov2026",
+      "type": "discurso",
+      "title": "El presidente de la Fed ve una revolución de IA que complica las decisiones sobre tasas de interés",
+      "summary": "Kevin Warsh, presidente de la Reserva Federal, afirmó que la inteligencia artificial representa un punto de inflexión que genera preguntas difíciles sobre el empleo y el nivel adecuado de las tasas de interés en la economía.",
+      "detail": "El trabajo del banco central es fijar tasas de interés que mantengan la inflación bajo control y el empleo en niveles saludables. Si la IA aumenta mucho la productividad, podría cambiar estructuralmente cómo funciona el mercado laboral y hasta qué punto la economía puede crecer sin generar inflación, lo que complica esas decisiones. Las declaraciones del titular de la Fed son siempre relevantes porque sus palabras mueven mercados: los inversores las analizan para anticipar si las tasas van a subir, bajar o quedarse igual.",
+      "tags": [
+        "Fed",
+        "tasas",
+        "inteligencia artificial"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+      "published_at": "2026-11-20T21:07:08Z",
+      "fecha_evento": "2026-11-16",
+      "tickers": []
     }
   ],
   "ticker": [
@@ -153,31 +178,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.600",
       "valor_num": 1600.0,
-      "delta_pct": 1.27
+      "delta_pct": 0.95
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.675",
       "valor_num": 1675.0,
-      "delta_pct": 2.76
+      "delta_pct": 2.13
     },
     {
       "label": "MEP",
       "valor": "$1.743",
       "valor_num": 1743.1,
-      "delta_pct": 7.02
+      "delta_pct": 5.66
     },
     {
       "label": "CCL",
       "valor": "$1.806",
       "valor_num": 1806.2,
-      "delta_pct": 4.76
+      "delta_pct": 3.32
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 58.924",
-      "valor_num": 58924.0,
-      "delta_pct": -4.18
+      "valor": "US$ 58.124",
+      "valor_num": 58124.0,
+      "delta_pct": -5.87
     },
     {
       "label": "S&P 500",
@@ -187,9 +212,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.534",
-      "valor_num": 3534.3,
-      "delta_pct": -8.27
+      "valor": "US$ 3.515",
+      "valor_num": 3515.4,
+      "delta_pct": -8.76
     }
   ]
 }
