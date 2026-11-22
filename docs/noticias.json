@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-22T12:01:01.545303+00:00",
+  "generated_at": "2026-11-22T22:01:03.789587+00:00",
   "items": [
     {
       "id": "japan-inflation-oct-2026",
       "type": "economia",
       "title": "La inflación en Japón llegó al nivel más alto del año",
-      "summary": "La inflación núcleo de Japón (que excluye alimentos) subió en octubre al nivel más alto del año, impulsada por el vencimiento de subsidios energéticos del gobierno. El dato resultó menor al 2,3% que esperaban los economistas consultados por Reuters.",
-      "detail": "Cuando un gobierno retira subsidios a la energía, los precios suben de golpe aunque la economía real no haya cambiado. Este tipo de inflación 'técnica' complica las decisiones del banco central japonés (el BoJ): si sube tasas para frenar la inflación, puede enfriar una economía que no está sobrecalentada. Para quienes aprenden finanzas, este caso muestra cómo la política fiscal (subsidios) y la monetaria (tasas) interactúan y se pueden contradecir.",
+      "summary": "La inflación núcleo de Japón subió en octubre al nivel más alto de 2026, impulsada por el vencimiento de subsidios a la energía. El dato fue algo menor al 2,3% que esperaban los economistas consultados por Reuters.",
+      "detail": "Cuando los gobiernos retiran subsidios a la energía, los precios suben de golpe aunque la economía no haya cambiado nada. Este tipo de dato de inflación es clave porque el Banco de Japón lo usa para decidir si sube o baja su tasa de interés. Japón lleva años con tasas casi en cero, y cualquier señal de inflación sostenida puede cambiar esa política y afectar mercados globales, incluido el tipo de cambio yen/dólar.",
       "tags": [
         "inflación",
         "Japón",
@@ -19,11 +19,11 @@
       "tickers": []
     },
     {
-      "id": "fed-warsh-ai-jobs-rates",
+      "id": "warsh-fed-ai-jobs",
       "type": "discurso",
-      "title": "El nuevo presidente de la Fed habla de IA y tasas de interés",
-      "summary": "Kevin Warsh, presidente de la Reserva Federal de EE.UU., ve a la inteligencia artificial en un punto de inflexión y enfrenta preguntas difíciles sobre cómo el impacto de la IA en el empleo y la productividad debería influir en las decisiones de tasas de interés.",
-      "detail": "El presidente de la Fed tiene un rol clave: fijar las tasas de interés que afectan el crédito, el consumo y los mercados de todo el mundo, incluyendo Argentina. Si la IA aumenta la productividad, podría bajar la inflación y permitir tasas más bajas; pero si destruye empleos masivamente, la Fed enfrenta un dilema complejo. Entender cómo los bancos centrales piensan sobre nuevas tecnologías ayuda a anticipar movimientos en los mercados globales.",
+      "title": "El presidente de la Fed habla sobre IA, empleo y tasas de interés",
+      "summary": "Kevin Warsh, titular de la Reserva Federal de EE.UU., ve a la inteligencia artificial en un punto de inflexión y enfrenta preguntas difíciles sobre cómo afectará el empleo y las tasas de interés.",
+      "detail": "El presidente de la Fed es una de las figuras más influyentes en la economía global: sus decisiones sobre tasas impactan directamente en el dólar, el crédito y los mercados de todo el mundo. Que la Fed empiece a analizar el efecto de la IA en la productividad y el empleo es importante porque puede cambiar cómo ven la inflación y, por ende, si suben o bajan las tasas. Para Argentina, esto importa porque tasas más altas en EE.UU. suelen encarecer el financiamiento y presionar al dólar.",
       "tags": [
         "Fed",
         "inteligencia artificial",
@@ -32,102 +32,116 @@
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
       "published_at": "2026-11-20T21:07:08Z",
-      "fecha_evento": "2026-11-16",
+      "fecha_evento": "2026-11-20",
       "tickers": []
     },
     {
-      "id": "nvidia-crisis-liderazgo",
+      "id": "anthropic-ipo-historia",
       "type": "empresa",
-      "title": "Nvidia atraviesa una crisis de liderazgo que preocupa a los mercados",
-      "summary": "La red de relaciones de Nvidia con otras empresas es tan extensa que una crisis en la compañía podría generar daños económicos y financieros de largo alcance, según un análisis de CNBC. La situación pone a prueba su rol como el principal proveedor de chips para la inteligencia artificial.",
-      "detail": "Nvidia se convirtió en una pieza tan central del ecosistema de IA que algunos la comparan con un banco central tecnológico: si falla, el impacto se propaga a muchas otras empresas y sectores. Esto ilustra el concepto de 'riesgo sistémico' aplicado al mundo tech: cuando una empresa es demasiado importante para el sistema, sus problemas se vuelven un problema de todos. Para un inversor, entender estas interdependencias ayuda a evaluar riesgos que van más allá de los balances individuales.",
+      "title": "Anthropic salió a la bolsa en el IPO más grande de la historia: recaudó 91.600 millones de dólares",
+      "summary": "La empresa de inteligencia artificial Anthropic hizo su debut bursátil en lo que se convirtió en la oferta pública inicial más grande de la historia, recaudando 91.600 millones de dólares.",
+      "detail": "Un IPO (oferta pública inicial) es cuando una empresa privada vende acciones al público por primera vez para conseguir capital. Que Anthropic, una startup de IA, supere todos los récords históricos de IPO muestra el nivel de apetito inversor que existe hoy por la inteligencia artificial. Este tipo de hitos marcan tendencias en los mercados: cuando hay tanto dinero fluyendo hacia un sector, es señal de que los inversores esperan grandes retornos pero también asumen riesgos elevados.",
+      "tags": [
+        "IPO",
+        "inteligencia artificial",
+        "mercados"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/does-anthropic-have-competitive-advantage-these-are-four-big-ones",
+      "published_at": "2026-11-22T20:50:02Z",
+      "fecha_evento": "2026-11-22",
+      "tickers": []
+    },
+    {
+      "id": "nvidia-bessent-ceo",
+      "type": "empresa",
+      "title": "El Secretario del Tesoro de EE.UU. habló sobre el futuro CEO de Nvidia",
+      "summary": "Scott Bessent, Secretario del Tesoro estadounidense, sugirió la semana pasada que Nvidia debería considerar candidatos externos para su próximo CEO, lo que generó movimiento en torno a la acción de la compañía.",
+      "detail": "Que un funcionario del gobierno de EE.UU. opine sobre quién debería liderar una empresa privada como Nvidia es inusual y refleja cuánto peso estratégico tiene esa compañía para el país. Nvidia domina los chips de IA y es central en la carrera tecnológica global. Los cambios de liderazgo en empresas de este tamaño pueden mover mucho el precio de la acción, y lo que diga el Tesoro puede influir en la percepción del mercado sobre la dirección futura de la firma.",
       "tags": [
         "Nvidia",
-        "riesgo sistémico",
-        "inteligencia artificial"
+        "liderazgo",
+        "tecnología"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-      "published_at": "2026-11-19T20:21:10Z",
-      "fecha_evento": "2026-11-19",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/us-treasury-secretary-scott-bessent-just-delivered-great-news-former-nvidia-ceo-jensen",
+      "published_at": "2026-11-22T21:08:04Z",
+      "fecha_evento": "2026-11-22",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "walmart-outlook-precios",
-      "type": "empresa",
-      "title": "Walmart sube sus proyecciones y promete mantener precios bajos pese al alza del combustible",
-      "summary": "Walmart mejoró sus perspectivas para el año y su CEO le dijo a CNBC que la empresa apunta a mantener precios bajos a pesar del aumento en los costos de combustible. La compañía destacó el buen desempeño del retiro y entrega desde sus tiendas durante el tercer trimestre fiscal.",
-      "detail": "Cuando una empresa tan grande como Walmart mejora sus proyecciones, es una señal de que el consumo en EE.UU. se mantiene sólido, lo que impacta en las expectativas de la economía global. Al mismo tiempo, la tensión entre costos crecientes (combustible) y la promesa de no trasladar esos costos al consumidor muestra cómo las grandes cadenas absorben presión para no perder competitividad. Para quienes aprenden finanzas, este tipo de anuncio mueve tanto la acción de Walmart como las expectativas sobre inflación y consumo en EE.UU.",
-      "tags": [
-        "Walmart",
-        "consumo",
-        "resultados"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "published_at": "2026-11-19T19:58:30Z",
-      "fecha_evento": "2026-11-19",
-      "tickers": [
-        "WMT"
-      ]
-    },
-    {
-      "id": "tesla-spacex-merger-committee",
-      "type": "empresa",
-      "title": "Tesla y SpaceX formaron comités especiales para explorar una posible fusión",
-      "summary": "Las empresas de Elon Musk, Tesla y SpaceX, crearon cada una un comité especial para analizar una posible fusión, en un contexto en que el gasto en inteligencia artificial de Musk se acelera. Una unión de ambas compañías podría cambiar radicalmente cómo los inversores valúan el negocio de robotaxis de Tesla.",
-      "detail": "Una fusión entre Tesla y SpaceX sería una de las operaciones corporativas más grandes de la historia reciente, ya que combinaría una automotriz de vehículos eléctricos con una empresa espacial y de tecnología. Desde el punto de vista financiero, esto podría reclasificar a Tesla como una empresa de IA, lo que históricamente implica valuaciones mucho más altas. Los comités especiales son el primer paso formal en cualquier proceso de fusión: evalúan si la operación tiene sentido y en qué términos, lo que ya es suficiente para mover el precio de las acciones.",
-      "tags": [
-        "Tesla",
-        "fusiones",
-        "inteligencia artificial"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/elon-musks-tesla-and-spacex-each-formed-special-committee-explore-merger-his-ai-spending",
-      "published_at": "2026-11-22T10:20:00Z",
-      "fecha_evento": "2026-11-22",
-      "tickers": [
-        "TSLA"
-      ]
-    },
-    {
-      "id": "sp500-nasdaq-correccion",
+      "id": "berkshire-greg-abel-portfolio",
       "type": "mercado",
-      "title": "El S&P 500 y el Nasdaq entraron en zona de corrección por inflación y tasas altas",
-      "summary": "El S&P 500 y el Nasdaq Composite cayeron a territorio de corrección ante señales de que la inflación se mantiene alta y las tasas de interés seguirían elevadas por más tiempo, lo que genera presión sobre las acciones.",
-      "detail": "Una 'corrección' en el mercado bursátil es cuando un índice cae más del 10% desde su máximo reciente. Esto suele ocurrir cuando los inversores recalibran sus expectativas: si la inflación no baja, la Fed no va a bajar las tasas, y eso encarece el crédito y reduce el valor presente de las ganancias futuras de las empresas. Para alguien en Argentina, seguir estos movimientos en EE.UU. es clave porque impactan en el flujo de capitales hacia mercados emergentes y en el precio de los activos financieros globales.",
+      "title": "Greg Abel, sucesor de Buffett, concentra casi la mitad del portfolio de Berkshire en solo 3 acciones",
+      "summary": "El nuevo CEO de Berkshire Hathaway, Greg Abel, tiene invertido casi el 47% del portfolio bursátil de 360.000 millones de dólares en apenas tres acciones, ninguna de ellas vinculada a la inteligencia artificial.",
+      "detail": "Berkshire Hathaway es uno de los fondos de inversión más observados del mundo, y cada decisión de su CEO es analizada como señal del mercado. Concentrar casi la mitad del portfolio en tres empresas es una apuesta de alta convicción, muy diferente a la diversificación que suele recomendarse a inversores minoristas. El hecho de que ninguna sea de IA también es llamativo en un contexto donde todo el mercado parece apostar a ese sector, lo que puede ser una señal de cautela o de una visión de largo plazo diferente.",
       "tags": [
-        "acciones",
-        "corrección",
-        "inflación"
+        "Berkshire",
+        "inversión",
+        "acciones"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-sounds-alarm-investors-get-bad-news-about-president-donald-trumps-economy",
-      "published_at": "2026-11-22T09:41:02Z",
+      "source_url": "https://www.nasdaq.com/articles/warren-buffetts-successor-greg-abel-has-invested-nearly-47-berkshire-hathaways-360-billion",
+      "published_at": "2026-11-22T20:47:02Z",
       "fecha_evento": "2026-11-22",
       "tickers": [
-        "SPY",
-        "QQQ"
+        "BRK.B"
       ]
     },
     {
-      "id": "vivienda-eeuu-ventas-minimo",
+      "id": "social-security-shutdown-debate",
       "type": "economia",
-      "title": "Las ventas de viviendas en EE.UU. tocan mínimos históricos con tasas hipotecarias del 7%",
-      "summary": "Con precios de las casas en máximos históricos y tasas hipotecarias en torno al 7%, las ventas de viviendas en EE.UU. llegaron a niveles récord de caída. Los pocos compradores que quedan en el mercado tienen cada vez más poder de negociación.",
-      "detail": "El mercado inmobiliario estadounidense es uno de los termómetros más importantes de la economía: cuando sube la tasa hipotecaria (que sigue de cerca a la tasa de la Fed), comprar una casa se vuelve mucho más caro y las ventas se desploman. Esto muestra en la práctica cómo las decisiones de la Fed se traducen en la vida real de las personas. Además, una caída sostenida en vivienda suele anticipar menor consumo general, lo que puede afectar el crecimiento económico de EE.UU. y, por extensión, el de economías que dependen de ese mercado.",
+      "title": "Un senador republicano propone cerrar el Seguro Social en EE.UU., que se quedaría sin fondos en seis años",
+      "summary": "El senador republicano Ron Johnson planteó eliminar el programa de Seguro Social de EE.UU., el sistema de jubilaciones que se estima quedará sin fondos en los próximos seis años.",
+      "detail": "El Seguro Social es el programa de retiro más grande de EE.UU. y su posible crisis de financiamiento es un debate con enormes consecuencias fiscales. Si el gobierno tuviera que recortar beneficios o aumentar impuestos para sostenerlo, afectaría el consumo de millones de jubilados y el déficit federal. Para quienes aprenden finanzas, este caso ilustra el desafío global de los sistemas de pensiones públicas cuando la población envejece y los ingresos fiscales no alcanzan.",
       "tags": [
-        "vivienda",
-        "tasas hipotecarias",
-        "Fed"
+        "jubilaciones",
+        "Estados Unidos",
+        "política fiscal"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
-      "published_at": "2026-11-21T19:45:00Z",
-      "fecha_evento": "2026-11-21",
+      "source_url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
+      "published_at": "2026-11-22T20:26:00Z",
+      "fecha_evento": "2026-11-22",
       "tickers": []
+    },
+    {
+      "id": "york-space-stock-plunge",
+      "type": "mercado",
+      "title": "La acción de York Space Systems se desplomó esta semana por demoras en contratos de defensa",
+      "summary": "Las acciones de York Space Systems cayeron fuerte luego de que varios bancos de Wall Street recortaran sus precios objetivo, tras demoras en la adjudicación de contratos de defensa.",
+      "detail": "Cuando grandes bancos bajan su precio objetivo para una acción, suelen ajustar su recomendación de compra o venta, lo que genera ventas masivas de inversores institucionales y minoristas. Las empresas del sector defensa y espacio dependen mucho de contratos gubernamentales, así que cualquier demora en esos procesos impacta directo en sus proyecciones de ingresos. Este caso es un buen ejemplo de cómo los catalizadores externos (decisiones del gobierno) pueden destruir valor bursátil rápidamente.",
+      "tags": [
+        "acciones",
+        "defensa",
+        "Wall Street"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/why-york-space-systems-stock-plunged-week",
+      "published_at": "2026-11-22T20:54:08Z",
+      "fecha_evento": "2026-11-22",
+      "tickers": []
+    },
+    {
+      "id": "procter-gamble-dividendo-70-anos",
+      "type": "empresa",
+      "title": "Procter & Gamble lleva 70 años seguidos aumentando su dividendo",
+      "summary": "P&G cumplió 70 años consecutivos de aumentos en su dividendo y está apostando a nuevas formas de innovar, hacer marketing y vender sus marcas, con primeros resultados alentadores.",
+      "detail": "Un dividendo creciente durante 70 años seguidos convierte a una empresa en lo que se conoce como 'dividend king', una categoría muy valorada por inversores de largo plazo porque demuestra estabilidad y solidez financiera a través de múltiples crisis. Para quien está aprendiendo finanzas, P&G es un caso de estudio clásico sobre empresas de consumo masivo que generan flujo de caja predecible. El dividend yield y la consistencia del pago son métricas clave para evaluar este tipo de inversión.",
+      "tags": [
+        "dividendos",
+        "consumo masivo",
+        "inversión"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/procter-gamble-has-raised-its-dividend-70-straight-years-heres-why-id-buy-2027",
+      "published_at": "2026-11-22T21:20:02Z",
+      "fecha_evento": "2026-11-22",
+      "tickers": [
+        "PG"
+      ]
     }
   ],
   "ticker": [
@@ -157,9 +171,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 61.017",
-      "valor_num": 61017.0,
-      "delta_pct": 4.98
+      "valor": "US$ 60.863",
+      "valor_num": 60863.0,
+      "delta_pct": 0.81
     },
     {
       "label": "S&P 500",
