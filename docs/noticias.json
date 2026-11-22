@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-21T22:00:58.828167+00:00",
+  "generated_at": "2026-11-22T12:01:01.545303+00:00",
   "items": [
     {
       "id": "japan-inflation-oct-2026",
       "type": "economia",
-      "title": "La inflación de Japón subió al nivel más alto del año",
-      "summary": "La inflación núcleo de Japón —que excluye alimentos— trepó a su mayor valor en lo que va del año en octubre, impulsada por el vencimiento de subsidios a la energía. El dato quedó por debajo del 2,3% que esperaban los economistas consultados por Reuters.",
-      "detail": "Cuando los gobiernos retiran subsidios a la energía, los precios suben de golpe y eso se refleja en el índice de inflación. Japón es la cuarta economía del mundo, así que sus datos de inflación influyen en las decisiones del Banco de Japón sobre tasas de interés. Si el banco central japonés sube tasas, eso puede mover mercados globales, incluido el tipo de cambio yen-dólar, que afecta a exportadores e importadores de todo el mundo.",
+      "title": "La inflación en Japón llegó al nivel más alto del año",
+      "summary": "La inflación núcleo de Japón (que excluye alimentos) subió en octubre al nivel más alto del año, impulsada por el vencimiento de subsidios energéticos del gobierno. El dato resultó menor al 2,3% que esperaban los economistas consultados por Reuters.",
+      "detail": "Cuando un gobierno retira subsidios a la energía, los precios suben de golpe aunque la economía real no haya cambiado. Este tipo de inflación 'técnica' complica las decisiones del banco central japonés (el BoJ): si sube tasas para frenar la inflación, puede enfriar una economía que no está sobrecalentada. Para quienes aprenden finanzas, este caso muestra cómo la política fiscal (subsidios) y la monetaria (tasas) interactúan y se pueden contradecir.",
       "tags": [
         "inflación",
         "Japón",
-        "energía"
+        "bancos centrales"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
@@ -21,30 +21,30 @@
     {
       "id": "fed-warsh-ai-jobs-rates",
       "type": "discurso",
-      "title": "El nuevo presidente de la Fed apuesta a que la IA va a transformar la economía",
-      "summary": "Kevin Warsh, presidente de la Reserva Federal de EE.UU., considera que la inteligencia artificial está en un punto de inflexión y que eso plantea preguntas difíciles sobre empleo y tasas de interés.",
-      "detail": "El presidente de la Fed es una de las figuras más influyentes en la economía global: sus palabras y decisiones sobre tasas afectan el crédito, el dólar y los mercados de todo el mundo, incluyendo Argentina. Si la IA aumenta la productividad, eso puede bajar la inflación estructural y cambiar el camino de las tasas. Entender cómo los bancos centrales piensan sobre tecnología ayuda a anticipar movimientos en los mercados financieros.",
+      "title": "El nuevo presidente de la Fed habla de IA y tasas de interés",
+      "summary": "Kevin Warsh, presidente de la Reserva Federal de EE.UU., ve a la inteligencia artificial en un punto de inflexión y enfrenta preguntas difíciles sobre cómo el impacto de la IA en el empleo y la productividad debería influir en las decisiones de tasas de interés.",
+      "detail": "El presidente de la Fed tiene un rol clave: fijar las tasas de interés que afectan el crédito, el consumo y los mercados de todo el mundo, incluyendo Argentina. Si la IA aumenta la productividad, podría bajar la inflación y permitir tasas más bajas; pero si destruye empleos masivamente, la Fed enfrenta un dilema complejo. Entender cómo los bancos centrales piensan sobre nuevas tecnologías ayuda a anticipar movimientos en los mercados globales.",
       "tags": [
         "Fed",
         "inteligencia artificial",
-        "tasas"
+        "tasas de interés"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
       "published_at": "2026-11-20T21:07:08Z",
-      "fecha_evento": "2026-11-20",
+      "fecha_evento": "2026-11-16",
       "tickers": []
     },
     {
       "id": "nvidia-crisis-liderazgo",
       "type": "empresa",
-      "title": "La crisis de liderazgo en Nvidia pone en jaque su rol central en el ecosistema de IA",
-      "summary": "La crisis interna en Nvidia está generando preocupación porque la empresa tiene tantas conexiones con otras compañías que un problema suyo podría generar daños económicos y financieros de gran escala.",
-      "detail": "Nvidia se convirtió en el proveedor clave de chips para inteligencia artificial, lo que la pone en una posición similar a la de un banco central dentro del ecosistema tecnológico. Cuando una empresa tiene tanto peso sistémico, sus problemas se propagan rápidamente al resto del mercado. Este tipo de riesgo de concentración es importante entenderlo porque muestra cómo la estabilidad de los mercados puede depender de una sola compañía.",
+      "title": "Nvidia atraviesa una crisis de liderazgo que preocupa a los mercados",
+      "summary": "La red de relaciones de Nvidia con otras empresas es tan extensa que una crisis en la compañía podría generar daños económicos y financieros de largo alcance, según un análisis de CNBC. La situación pone a prueba su rol como el principal proveedor de chips para la inteligencia artificial.",
+      "detail": "Nvidia se convirtió en una pieza tan central del ecosistema de IA que algunos la comparan con un banco central tecnológico: si falla, el impacto se propaga a muchas otras empresas y sectores. Esto ilustra el concepto de 'riesgo sistémico' aplicado al mundo tech: cuando una empresa es demasiado importante para el sistema, sus problemas se vuelven un problema de todos. Para un inversor, entender estas interdependencias ayuda a evaluar riesgos que van más allá de los balances individuales.",
       "tags": [
         "Nvidia",
-        "chips",
-        "riesgo sistémico"
+        "riesgo sistémico",
+        "inteligencia artificial"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
@@ -57,9 +57,9 @@
     {
       "id": "walmart-outlook-precios",
       "type": "empresa",
-      "title": "Walmart sube sus proyecciones y promete mantener precios bajos pese al alza de combustibles",
-      "summary": "Walmart mejoró sus previsiones de resultados y su CEO le dijo a CNBC que el retailer buscará mantener precios bajos a pesar del encarecimiento de los combustibles. La empresa destacó el buen desempeño del retiro y la entrega de pedidos desde tiendas durante su tercer trimestre fiscal.",
-      "detail": "Walmart es el minorista más grande del mundo y un termómetro clave del consumo en EE.UU. Cuando Walmart sube sus proyecciones, es señal de que el consumidor estadounidense sigue gastando. Al mismo tiempo, su estrategia de absorber costos de combustible en lugar de trasladarlos al precio final muestra cómo las grandes cadenas pueden usar su escala para competir. Estos datos sirven para entender la salud general de la economía norteamericana.",
+      "title": "Walmart sube sus proyecciones y promete mantener precios bajos pese al alza del combustible",
+      "summary": "Walmart mejoró sus perspectivas para el año y su CEO le dijo a CNBC que la empresa apunta a mantener precios bajos a pesar del aumento en los costos de combustible. La compañía destacó el buen desempeño del retiro y entrega desde sus tiendas durante el tercer trimestre fiscal.",
+      "detail": "Cuando una empresa tan grande como Walmart mejora sus proyecciones, es una señal de que el consumo en EE.UU. se mantiene sólido, lo que impacta en las expectativas de la economía global. Al mismo tiempo, la tensión entre costos crecientes (combustible) y la promesa de no trasladar esos costos al consumidor muestra cómo las grandes cadenas absorben presión para no perder competitividad. Para quienes aprenden finanzas, este tipo de anuncio mueve tanto la acción de Walmart como las expectativas sobre inflación y consumo en EE.UU.",
       "tags": [
         "Walmart",
         "consumo",
@@ -74,58 +74,57 @@
       ]
     },
     {
-      "id": "mercadolibre-vs-sea-limited",
-      "type": "mercado",
-      "title": "¿Conviene comprar acciones de MercadoLibre o de Sea Limited?",
-      "summary": "Un análisis compara si vale la pena invertir en MercadoLibre frente a Sea Limited, dos gigantes del e-commerce en mercados emergentes.",
-      "detail": "MercadoLibre es la empresa tecnológica más grande de América Latina y sus acciones cotizan en el Nasdaq. Para un argentino que aprende finanzas, seguir a MELI es una forma concreta de entender cómo se valúan empresas de tecnología en mercados emergentes y cómo los inversores globales miran la región. Comparar empresas similares de distintos mercados es un ejercicio clásico de análisis de inversiones.",
+      "id": "tesla-spacex-merger-committee",
+      "type": "empresa",
+      "title": "Tesla y SpaceX formaron comités especiales para explorar una posible fusión",
+      "summary": "Las empresas de Elon Musk, Tesla y SpaceX, crearon cada una un comité especial para analizar una posible fusión, en un contexto en que el gasto en inteligencia artificial de Musk se acelera. Una unión de ambas compañías podría cambiar radicalmente cómo los inversores valúan el negocio de robotaxis de Tesla.",
+      "detail": "Una fusión entre Tesla y SpaceX sería una de las operaciones corporativas más grandes de la historia reciente, ya que combinaría una automotriz de vehículos eléctricos con una empresa espacial y de tecnología. Desde el punto de vista financiero, esto podría reclasificar a Tesla como una empresa de IA, lo que históricamente implica valuaciones mucho más altas. Los comités especiales son el primer paso formal en cualquier proceso de fusión: evalúan si la operación tiene sentido y en qué términos, lo que ya es suficiente para mover el precio de las acciones.",
       "tags": [
-        "MercadoLibre",
-        "acciones",
-        "e-commerce"
+        "Tesla",
+        "fusiones",
+        "inteligencia artificial"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/should-investors-buy-sea-limited-stock-instead-mercado-libre-stock",
-      "published_at": "2026-11-21T21:33:02Z",
-      "fecha_evento": "2026-11-21",
+      "source_url": "https://www.nasdaq.com/articles/elon-musks-tesla-and-spacex-each-formed-special-committee-explore-merger-his-ai-spending",
+      "published_at": "2026-11-22T10:20:00Z",
+      "fecha_evento": "2026-11-22",
       "tickers": [
-        "MELI",
-        "SE"
+        "TSLA"
       ]
     },
     {
-      "id": "micron-sandisk-valuation-warning",
+      "id": "sp500-nasdaq-correccion",
       "type": "mercado",
-      "title": "Analistas advierten que el bajo precio de Micron y Sandisk puede ser una señal de alerta",
-      "summary": "Aunque las acciones de Micron y Sandisk parecen baratas, los analistas señalan que valuaciones bajas en empresas de memorias históricamente coinciden con picos de precios en el sector, lo que puede anticipar caídas.",
-      "detail": "En finanzas, una acción con múltiplos de valuación bajos no siempre es una ganga: a veces el mercado descuenta que los resultados futuros van a ser peores. En el sector de memorias, los ciclos de precios son muy marcados y cuando los precios de los chips están en su punto más alto, las valuaciones suelen verse baratas justo antes de que caigan. Este caso enseña a no guiarse solo por si algo parece 'barato' en términos de precio.",
+      "title": "El S&P 500 y el Nasdaq entraron en zona de corrección por inflación y tasas altas",
+      "summary": "El S&P 500 y el Nasdaq Composite cayeron a territorio de corrección ante señales de que la inflación se mantiene alta y las tasas de interés seguirían elevadas por más tiempo, lo que genera presión sobre las acciones.",
+      "detail": "Una 'corrección' en el mercado bursátil es cuando un índice cae más del 10% desde su máximo reciente. Esto suele ocurrir cuando los inversores recalibran sus expectativas: si la inflación no baja, la Fed no va a bajar las tasas, y eso encarece el crédito y reduce el valor presente de las ganancias futuras de las empresas. Para alguien en Argentina, seguir estos movimientos en EE.UU. es clave porque impactan en el flujo de capitales hacia mercados emergentes y en el precio de los activos financieros globales.",
       "tags": [
-        "Micron",
-        "semiconductores",
-        "valuación"
+        "acciones",
+        "corrección",
+        "inflación"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d",
-      "published_at": "2026-11-21T15:35:00Z",
-      "fecha_evento": "2026-11-21",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-sounds-alarm-investors-get-bad-news-about-president-donald-trumps-economy",
+      "published_at": "2026-11-22T09:41:02Z",
+      "fecha_evento": "2026-11-22",
       "tickers": [
-        "MU",
-        "SNDK"
+        "SPY",
+        "QQQ"
       ]
     },
     {
-      "id": "housing-market-low-sales",
+      "id": "vivienda-eeuu-ventas-minimo",
       "type": "economia",
-      "title": "Las ventas de casas en EE.UU. tocan un mínimo histórico y los compradores ganan poder de negociación",
-      "summary": "Con hipotecas al 7% y precios en niveles récord, las ventas de viviendas en EE.UU. cayeron a su mínimo histórico. Los pocos compradores que quedan en el mercado empezaron a tener más poder para negociar.",
-      "detail": "El mercado inmobiliario estadounidense es un indicador clave de la economía: cuando las tasas hipotecarias suben, las ventas caen y eso enfría la actividad económica en general. Este mecanismo ilustra cómo las decisiones de tasas de la Fed se transmiten a la vida cotidiana de las personas. Además, un mercado con pocos compradores activos suele llevar a ajustes de precios con el tiempo, lo que es un ejemplo clásico de oferta y demanda.",
+      "title": "Las ventas de viviendas en EE.UU. tocan mínimos históricos con tasas hipotecarias del 7%",
+      "summary": "Con precios de las casas en máximos históricos y tasas hipotecarias en torno al 7%, las ventas de viviendas en EE.UU. llegaron a niveles récord de caída. Los pocos compradores que quedan en el mercado tienen cada vez más poder de negociación.",
+      "detail": "El mercado inmobiliario estadounidense es uno de los termómetros más importantes de la economía: cuando sube la tasa hipotecaria (que sigue de cerca a la tasa de la Fed), comprar una casa se vuelve mucho más caro y las ventas se desploman. Esto muestra en la práctica cómo las decisiones de la Fed se traducen en la vida real de las personas. Además, una caída sostenida en vivienda suele anticipar menor consumo general, lo que puede afectar el crecimiento económico de EE.UU. y, por extensión, el de economías que dependen de ese mercado.",
       "tags": [
         "vivienda",
         "tasas hipotecarias",
-        "EE.UU."
+        "Fed"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6",
+      "source_url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
       "published_at": "2026-11-21T19:45:00Z",
       "fecha_evento": "2026-11-21",
       "tickers": []
@@ -136,31 +135,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.600",
       "valor_num": 1600.0,
-      "delta_pct": 0.95
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.675",
       "valor_num": 1675.0,
-      "delta_pct": 2.13
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.743",
       "valor_num": 1743.1,
-      "delta_pct": 5.66
+      "delta_pct": 0.0
     },
     {
       "label": "CCL",
       "valor": "$1.806",
       "valor_num": 1806.2,
-      "delta_pct": 3.32
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 60.367",
-      "valor_num": 60367.0,
-      "delta_pct": 2.45
+      "valor": "US$ 61.017",
+      "valor_num": 61017.0,
+      "delta_pct": 4.98
     },
     {
       "label": "S&P 500",
@@ -172,7 +171,7 @@
       "label": "ORO (ONZA)",
       "valor": "US$ 3.515",
       "valor_num": 3515.4,
-      "delta_pct": -8.76
+      "delta_pct": -9.03
     }
   ]
 }
