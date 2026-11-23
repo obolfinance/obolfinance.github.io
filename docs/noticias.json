@@ -1,33 +1,149 @@
 {
-  "generated_at": "2026-11-22T22:01:03.789587+00:00",
+  "generated_at": "2026-11-23T12:01:11.411983+00:00",
   "items": [
     {
-      "id": "japan-inflation-oct-2026",
-      "type": "economia",
-      "title": "La inflación en Japón llegó al nivel más alto del año",
-      "summary": "La inflación núcleo de Japón subió en octubre al nivel más alto de 2026, impulsada por el vencimiento de subsidios a la energía. El dato fue algo menor al 2,3% que esperaban los economistas consultados por Reuters.",
-      "detail": "Cuando los gobiernos retiran subsidios a la energía, los precios suben de golpe aunque la economía no haya cambiado nada. Este tipo de dato de inflación es clave porque el Banco de Japón lo usa para decidir si sube o baja su tasa de interés. Japón lleva años con tasas casi en cero, y cualquier señal de inflación sostenida puede cambiar esa política y afectar mercados globales, incluido el tipo de cambio yen/dólar.",
+      "id": "sp500-correction-streak",
+      "type": "mercado",
+      "title": "El S&P 500 cayó 7 días seguidos por primera vez desde 2020",
+      "summary": "El S&P 500 acumuló siete sesiones consecutivas a la baja entre el 12 y el 20 de noviembre, perdiendo alrededor del 9%. Es la primera racha negativa de esa duración desde 2020.",
+      "detail": "Una corrección tan pronunciada y rápida activa alarmas entre los inversores, pero la historia muestra que caídas de este tipo suelen anteceder rebotes. Entender cómo reacciona el mercado después de rachas bajistas largas es clave para no vender en pánico en el peor momento.",
       "tags": [
-        "inflación",
-        "Japón",
-        "bancos centrales"
+        "mercado",
+        "corrección",
+        "S&P 500"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-      "published_at": "2026-11-20T01:49:03Z",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/sp-500-fell-7-days-row-first-time-2020-heres-what-happened-after-every-losing-streak-6",
+      "published_at": "2026-11-23T11:37:01Z",
       "fecha_evento": "2026-11-20",
+      "tickers": [
+        "SPY",
+        "SPX"
+      ]
+    },
+    {
+      "id": "nvidia-jensen-huang-trump",
+      "type": "mercado",
+      "title": "Nvidia rebotó tras noticias de que el gobierno Trump presiona para que vuelva Jensen Huang",
+      "summary": "Las acciones de Nvidia subieron el lunes después de que trascendiera que la administración Trump está empujando para que Jensen Huang regrese a liderar la compañía.",
+      "detail": "La reacción del precio de una acción ante noticias sobre el liderazgo ejecutivo ilustra cuánto peso tiene la figura del CEO en la valoración de una empresa. En el caso de Nvidia, una compañía central en la carrera por la inteligencia artificial, cualquier cambio en su dirección impacta directamente en la confianza del mercado.",
+      "tags": [
+        "Nvidia",
+        "liderazgo",
+        "IA"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
+      "published_at": "2026-11-23T10:56:00Z",
+      "fecha_evento": "2026-11-23",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "morgan-stanley-fat-pitch",
+      "type": "mercado",
+      "title": "Morgan Stanley ve una oportunidad de compra en el mercado tras la caída",
+      "summary": "El estratega principal de Morgan Stanley señaló que las valuaciones del Nasdaq están en mínimos, el sentimiento es muy negativo y el posicionamiento de los inversores cayó fuerte, lo que según él crea una buena oportunidad de entrada.",
+      "detail": "Cuando el sentimiento y el posicionamiento caen en conjunto con los precios, muchos analistas lo interpretan como una señal de 'capitulación': los que querían vender ya vendieron. Esta lógica contraria es un concepto central en el análisis de mercados y ayuda a entender por qué los mejores momentos para comprar suelen sentirse como los peores.",
+      "tags": [
+        "mercado",
+        "valuación",
+        "estrategia"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
+      "published_at": "2026-11-23T09:40:00Z",
+      "fecha_evento": "2026-11-23",
+      "tickers": [
+        "QQQ",
+        "SPY"
+      ]
+    },
+    {
+      "id": "rebound-91-percent",
+      "type": "mercado",
+      "title": "Caídas tan rápidas como la actual terminaron en rebote el 91% de las veces en la última década",
+      "summary": "Un análisis histórico muestra que correcciones tan abruptas como la del S&P 500 de las últimas semanas precedieron un rebote en nueve de cada diez casos durante los últimos diez años.",
+      "detail": "La estadística histórica es una herramienta útil para poner en perspectiva los momentos de pánico, aunque no garantiza resultados futuros. Para quien está aprendiendo finanzas, este tipo de análisis enseña a distinguir entre una corrección temporal y el inicio de un mercado bajista prolongado.",
+      "tags": [
+        "corrección",
+        "historia",
+        "rebote"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
+      "published_at": "2026-11-23T08:37:00Z",
+      "fecha_evento": "2026-11-23",
+      "tickers": [
+        "SPY",
+        "SPX"
+      ]
+    },
+    {
+      "id": "bill-ackman-recesion-fed",
+      "type": "discurso",
+      "title": "Bill Ackman advierte que una suba de tasas de la Fed podría llevar a EE.UU. a la recesión",
+      "summary": "El CEO de Pershing Square escribió en X que las condiciones financieras ya se endurecieron considerablemente y que una nueva suba de tasas por parte de la Fed podría empujar a la economía estadounidense a una recesión.",
+      "detail": "Ackman es uno de los inversores más influyentes del mundo y sus declaraciones públicas suelen mover mercados. Su advertencia conecta dos conceptos clave: tasas de interés más altas encarecen el crédito, frenan el consumo y la inversión, y pueden desacelerar tanto la economía que terminen en recesión.",
+      "tags": [
+        "Fed",
+        "tasas",
+        "recesión"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
+      "published_at": "2026-11-23T10:57:00Z",
+      "fecha_evento": "2026-11-23",
       "tickers": []
     },
     {
-      "id": "warsh-fed-ai-jobs",
+      "id": "anthropic-ipo-debut",
+      "type": "empresa",
+      "title": "Anthropic debutó en bolsa el 19 de noviembre con un inicio volátil",
+      "summary": "Las acciones de Anthropic comenzaron a cotizar el 19 de noviembre y tuvieron un arranque muy volátil. La empresa fue valorada en 1,2 billones de dólares y recaudó 81.000 millones en su IPO.",
+      "detail": "El debut de Anthropic es uno de los más grandes de la historia, superando incluso al de SpaceX. Las IPOs de empresas de IA están atrayendo cantidades récord de capital, lo que permite entender cómo el mercado está apostando al futuro de la inteligencia artificial y cuál es la diferencia entre valuación de mercado y rentabilidad real.",
+      "tags": [
+        "IPO",
+        "IA",
+        "valuación"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/anthropic-stock-shaky-start-heres-what-could-happen-next",
+      "published_at": "2026-11-23T11:30:02Z",
+      "fecha_evento": "2026-11-19",
+      "tickers": []
+    },
+    {
+      "id": "greg-abel-berkshire",
       "type": "discurso",
-      "title": "El presidente de la Fed habla sobre IA, empleo y tasas de interés",
-      "summary": "Kevin Warsh, titular de la Reserva Federal de EE.UU., ve a la inteligencia artificial en un punto de inflexión y enfrenta preguntas difíciles sobre cómo afectará el empleo y las tasas de interés.",
-      "detail": "El presidente de la Fed es una de las figuras más influyentes en la economía global: sus decisiones sobre tasas impactan directamente en el dólar, el crédito y los mercados de todo el mundo. Que la Fed empiece a analizar el efecto de la IA en la productividad y el empleo es importante porque puede cambiar cómo ven la inflación y, por ende, si suben o bajan las tasas. Para Argentina, esto importa porque tasas más altas en EE.UU. suelen encarecer el financiamiento y presionar al dólar.",
+      "title": "Greg Abel, el sucesor de Buffett, dio señales sobre el futuro de las inversiones de Berkshire",
+      "summary": "Greg Abel, quien tomó el control operativo y la cartera de 356.000 millones de dólares de Berkshire Hathaway tras la jubilación de Warren Buffett, dio indicios sobre la dirección que podría tomar la compañía.",
+      "detail": "La transición en Berkshire es uno de los eventos más observados del mundo financiero porque Buffett fue el inversor más influyente del último siglo. Ver cómo su sucesor enfrenta la gestión de un portafolio tan grande es una clase práctica sobre continuidad institucional, estilo de inversión y cómo los mercados reaccionan al cambio de liderazgo en grandes fondos.",
+      "tags": [
+        "Berkshire",
+        "Buffett",
+        "inversión"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/warren-buffetts-successor-greg-abel-just-gave-investors-big-clue-whats-next-stocks",
+      "published_at": "2026-11-23T10:26:02Z",
+      "fecha_evento": "2026-11-23",
+      "tickers": [
+        "BRK.B",
+        "BRK.A"
+      ]
+    },
+    {
+      "id": "kevin-warsh-fed-ai",
+      "type": "discurso",
+      "title": "El presidente de la Fed, Kevin Warsh, analiza qué significa la revolución de IA para tasas y empleo",
+      "summary": "Kevin Warsh, al frente de la Reserva Federal, está evaluando cómo la inteligencia artificial puede transformar la productividad, el empleo y, en consecuencia, las decisiones sobre tasas de interés.",
+      "detail": "La IA puede aumentar la productividad de forma masiva, lo que cambia los modelos que usa la Fed para fijar tasas: más productividad puede significar menor inflación con más crecimiento, lo que alteraría la política monetaria. Entender esta conexión ayuda a ver por qué los avances tecnológicos no son solo una noticia del sector tech, sino que impactan en la economía global entera.",
       "tags": [
         "Fed",
-        "inteligencia artificial",
-        "tasas de interés"
+        "IA",
+        "tasas"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
@@ -36,112 +152,21 @@
       "tickers": []
     },
     {
-      "id": "anthropic-ipo-historia",
-      "type": "empresa",
-      "title": "Anthropic salió a la bolsa en el IPO más grande de la historia: recaudó 91.600 millones de dólares",
-      "summary": "La empresa de inteligencia artificial Anthropic hizo su debut bursátil en lo que se convirtió en la oferta pública inicial más grande de la historia, recaudando 91.600 millones de dólares.",
-      "detail": "Un IPO (oferta pública inicial) es cuando una empresa privada vende acciones al público por primera vez para conseguir capital. Que Anthropic, una startup de IA, supere todos los récords históricos de IPO muestra el nivel de apetito inversor que existe hoy por la inteligencia artificial. Este tipo de hitos marcan tendencias en los mercados: cuando hay tanto dinero fluyendo hacia un sector, es señal de que los inversores esperan grandes retornos pero también asumen riesgos elevados.",
-      "tags": [
-        "IPO",
-        "inteligencia artificial",
-        "mercados"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/does-anthropic-have-competitive-advantage-these-are-four-big-ones",
-      "published_at": "2026-11-22T20:50:02Z",
-      "fecha_evento": "2026-11-22",
-      "tickers": []
-    },
-    {
-      "id": "nvidia-bessent-ceo",
-      "type": "empresa",
-      "title": "El Secretario del Tesoro de EE.UU. habló sobre el futuro CEO de Nvidia",
-      "summary": "Scott Bessent, Secretario del Tesoro estadounidense, sugirió la semana pasada que Nvidia debería considerar candidatos externos para su próximo CEO, lo que generó movimiento en torno a la acción de la compañía.",
-      "detail": "Que un funcionario del gobierno de EE.UU. opine sobre quién debería liderar una empresa privada como Nvidia es inusual y refleja cuánto peso estratégico tiene esa compañía para el país. Nvidia domina los chips de IA y es central en la carrera tecnológica global. Los cambios de liderazgo en empresas de este tamaño pueden mover mucho el precio de la acción, y lo que diga el Tesoro puede influir en la percepción del mercado sobre la dirección futura de la firma.",
-      "tags": [
-        "Nvidia",
-        "liderazgo",
-        "tecnología"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/us-treasury-secretary-scott-bessent-just-delivered-great-news-former-nvidia-ceo-jensen",
-      "published_at": "2026-11-22T21:08:04Z",
-      "fecha_evento": "2026-11-22",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "berkshire-greg-abel-portfolio",
+      "id": "ai-selloff-global",
       "type": "mercado",
-      "title": "Greg Abel, sucesor de Buffett, concentra casi la mitad del portfolio de Berkshire en solo 3 acciones",
-      "summary": "El nuevo CEO de Berkshire Hathaway, Greg Abel, tiene invertido casi el 47% del portfolio bursátil de 360.000 millones de dólares en apenas tres acciones, ninguna de ellas vinculada a la inteligencia artificial.",
-      "detail": "Berkshire Hathaway es uno de los fondos de inversión más observados del mundo, y cada decisión de su CEO es analizada como señal del mercado. Concentrar casi la mitad del portfolio en tres empresas es una apuesta de alta convicción, muy diferente a la diversificación que suele recomendarse a inversores minoristas. El hecho de que ninguna sea de IA también es llamativo en un contexto donde todo el mercado parece apostar a ese sector, lo que puede ser una señal de cautela o de una visión de largo plazo diferente.",
+      "title": "La caída de acciones de IA y semiconductores arrastró a mercados de Europa e India",
+      "summary": "El lunes, los mercados de India cayeron fuertemente y los de Francia y Alemania operaron mixtos, en medio de una ola de ventas global en acciones vinculadas a inteligencia artificial y semiconductores.",
+      "detail": "La caída sincronizada en distintos mercados del mundo muestra cómo los flujos de capital están hoy interconectados: cuando los inversores deciden reducir exposición a un sector en EE.UU., el impacto se siente desde Frankfurt hasta Mumbai. Para quien aprende finanzas, esto ilustra el concepto de riesgo sistémico global y la correlación entre mercados.",
       "tags": [
-        "Berkshire",
-        "inversión",
-        "acciones"
+        "semiconductores",
+        "IA",
+        "mercados globales"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/warren-buffetts-successor-greg-abel-has-invested-nearly-47-berkshire-hathaways-360-billion",
-      "published_at": "2026-11-22T20:47:02Z",
-      "fecha_evento": "2026-11-22",
-      "tickers": [
-        "BRK.B"
-      ]
-    },
-    {
-      "id": "social-security-shutdown-debate",
-      "type": "economia",
-      "title": "Un senador republicano propone cerrar el Seguro Social en EE.UU., que se quedaría sin fondos en seis años",
-      "summary": "El senador republicano Ron Johnson planteó eliminar el programa de Seguro Social de EE.UU., el sistema de jubilaciones que se estima quedará sin fondos en los próximos seis años.",
-      "detail": "El Seguro Social es el programa de retiro más grande de EE.UU. y su posible crisis de financiamiento es un debate con enormes consecuencias fiscales. Si el gobierno tuviera que recortar beneficios o aumentar impuestos para sostenerlo, afectaría el consumo de millones de jubilados y el déficit federal. Para quienes aprenden finanzas, este caso ilustra el desafío global de los sistemas de pensiones públicas cuando la población envejece y los ingresos fiscales no alcanzan.",
-      "tags": [
-        "jubilaciones",
-        "Estados Unidos",
-        "política fiscal"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
-      "published_at": "2026-11-22T20:26:00Z",
-      "fecha_evento": "2026-11-22",
+      "source_url": "https://www.nasdaq.com/articles/indian-shares-tumble-amid-global-selloff-profit-taking",
+      "published_at": "2026-11-23T10:50:04Z",
+      "fecha_evento": "2026-11-23",
       "tickers": []
-    },
-    {
-      "id": "york-space-stock-plunge",
-      "type": "mercado",
-      "title": "La acción de York Space Systems se desplomó esta semana por demoras en contratos de defensa",
-      "summary": "Las acciones de York Space Systems cayeron fuerte luego de que varios bancos de Wall Street recortaran sus precios objetivo, tras demoras en la adjudicación de contratos de defensa.",
-      "detail": "Cuando grandes bancos bajan su precio objetivo para una acción, suelen ajustar su recomendación de compra o venta, lo que genera ventas masivas de inversores institucionales y minoristas. Las empresas del sector defensa y espacio dependen mucho de contratos gubernamentales, así que cualquier demora en esos procesos impacta directo en sus proyecciones de ingresos. Este caso es un buen ejemplo de cómo los catalizadores externos (decisiones del gobierno) pueden destruir valor bursátil rápidamente.",
-      "tags": [
-        "acciones",
-        "defensa",
-        "Wall Street"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/why-york-space-systems-stock-plunged-week",
-      "published_at": "2026-11-22T20:54:08Z",
-      "fecha_evento": "2026-11-22",
-      "tickers": []
-    },
-    {
-      "id": "procter-gamble-dividendo-70-anos",
-      "type": "empresa",
-      "title": "Procter & Gamble lleva 70 años seguidos aumentando su dividendo",
-      "summary": "P&G cumplió 70 años consecutivos de aumentos en su dividendo y está apostando a nuevas formas de innovar, hacer marketing y vender sus marcas, con primeros resultados alentadores.",
-      "detail": "Un dividendo creciente durante 70 años seguidos convierte a una empresa en lo que se conoce como 'dividend king', una categoría muy valorada por inversores de largo plazo porque demuestra estabilidad y solidez financiera a través de múltiples crisis. Para quien está aprendiendo finanzas, P&G es un caso de estudio clásico sobre empresas de consumo masivo que generan flujo de caja predecible. El dividend yield y la consistencia del pago son métricas clave para evaluar este tipo de inversión.",
-      "tags": [
-        "dividendos",
-        "consumo masivo",
-        "inversión"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/procter-gamble-has-raised-its-dividend-70-straight-years-heres-why-id-buy-2027",
-      "published_at": "2026-11-22T21:20:02Z",
-      "fecha_evento": "2026-11-22",
-      "tickers": [
-        "PG"
-      ]
     }
   ],
   "ticker": [
@@ -171,9 +196,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 60.863",
-      "valor_num": 60863.0,
-      "delta_pct": 0.81
+      "valor": "US$ 61.369",
+      "valor_num": 61369.0,
+      "delta_pct": 0.61
     },
     {
       "label": "S&P 500",
@@ -183,9 +208,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.515",
-      "valor_num": 3515.4,
-      "delta_pct": -9.03
+      "valor": "US$ 3.622",
+      "valor_num": 3621.5,
+      "delta_pct": -3.22
     }
   ]
 }
