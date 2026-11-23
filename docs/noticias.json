@@ -1,170 +1,154 @@
 {
-  "generated_at": "2026-11-23T12:01:11.411983+00:00",
+  "generated_at": "2026-11-23T22:01:03.354366+00:00",
   "items": [
     {
-      "id": "sp500-correction-streak",
+      "id": "nvidia-jensen-huang-regresa-ceo",
       "type": "mercado",
-      "title": "El S&P 500 cayó 7 días seguidos por primera vez desde 2020",
-      "summary": "El S&P 500 acumuló siete sesiones consecutivas a la baja entre el 12 y el 20 de noviembre, perdiendo alrededor del 9%. Es la primera racha negativa de esa duración desde 2020.",
-      "detail": "Una corrección tan pronunciada y rápida activa alarmas entre los inversores, pero la historia muestra que caídas de este tipo suelen anteceder rebotes. Entender cómo reacciona el mercado después de rachas bajistas largas es clave para no vender en pánico en el peor momento.",
+      "title": "Jensen Huang vuelve a Nvidia y dispara el mercado",
+      "summary": "Jensen Huang fue reinstaurado como CEO de Nvidia, lo que generó el mayor salto en un día de la historia de la acción: más del 30%. Fue el mejor día para la bolsa estadounidense en más de un año.",
+      "detail": "Cuando el CEO de una empresa tan central para un sector vuelve al mando, el mercado interpreta eso como una señal de estabilidad y continuidad estratégica. En el caso de Nvidia, que es el principal fabricante de chips para inteligencia artificial, su regreso revivió el entusiasmo por todo el trade de IA. Este tipo de eventos enseña cómo una sola persona clave puede mover miles de millones de dólares en capitalización bursátil en cuestión de horas.",
       "tags": [
-        "mercado",
-        "corrección",
-        "S&P 500"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/sp-500-fell-7-days-row-first-time-2020-heres-what-happened-after-every-losing-streak-6",
-      "published_at": "2026-11-23T11:37:01Z",
-      "fecha_evento": "2026-11-20",
-      "tickers": [
-        "SPY",
-        "SPX"
-      ]
-    },
-    {
-      "id": "nvidia-jensen-huang-trump",
-      "type": "mercado",
-      "title": "Nvidia rebotó tras noticias de que el gobierno Trump presiona para que vuelva Jensen Huang",
-      "summary": "Las acciones de Nvidia subieron el lunes después de que trascendiera que la administración Trump está empujando para que Jensen Huang regrese a liderar la compañía.",
-      "detail": "La reacción del precio de una acción ante noticias sobre el liderazgo ejecutivo ilustra cuánto peso tiene la figura del CEO en la valoración de una empresa. En el caso de Nvidia, una compañía central en la carrera por la inteligencia artificial, cualquier cambio en su dirección impacta directamente en la confianza del mercado.",
-      "tags": [
-        "Nvidia",
-        "liderazgo",
-        "IA"
+        "inteligencia artificial",
+        "tecnología",
+        "acciones"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-      "published_at": "2026-11-23T10:56:00Z",
+      "source_url": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+      "published_at": "2026-11-23T21:51:00Z",
       "fecha_evento": "2026-11-23",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "morgan-stanley-fat-pitch",
+      "id": "nvidia-short-sellers-perdidas",
       "type": "mercado",
-      "title": "Morgan Stanley ve una oportunidad de compra en el mercado tras la caída",
-      "summary": "El estratega principal de Morgan Stanley señaló que las valuaciones del Nasdaq están en mínimos, el sentimiento es muy negativo y el posicionamiento de los inversores cayó fuerte, lo que según él crea una buena oportunidad de entrada.",
-      "detail": "Cuando el sentimiento y el posicionamiento caen en conjunto con los precios, muchos analistas lo interpretan como una señal de 'capitulación': los que querían vender ya vendieron. Esta lógica contraria es un concepto central en el análisis de mercados y ayuda a entender por qué los mejores momentos para comprar suelen sentirse como los peores.",
+      "title": "Los que apostaron contra Nvidia perdieron casi todo en un día",
+      "summary": "Los fondos que apostaban a que Nvidia iba a bajar (short sellers) sufrieron pérdidas enormes cuando la acción subió más del 30% en un solo día, el mayor salto diario en la historia de la empresa.",
+      "detail": "El 'short selling' o venta en corto es una estrategia donde un inversor apuesta a que una acción va a bajar: la toma prestada, la vende, y espera recomprarla más barata. Si la acción sube en cambio, las pérdidas pueden ser ilimitadas. Este caso es un ejemplo clásico de 'short squeeze': una suba tan violenta que obliga a los vendedores en corto a cerrar sus posiciones a pérdida, lo que a su vez empuja el precio todavía más arriba.",
       "tags": [
-        "mercado",
-        "valuación",
-        "estrategia"
+        "short selling",
+        "volatilidad",
+        "acciones"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/stocks-are-serving-up-a-fat-pitch-for-investors-right-now-as-morgan-stanleys-top-strategist-19abe30a?mod=mw_rss_topstories",
-      "published_at": "2026-11-23T09:40:00Z",
+      "source_url": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+      "published_at": "2026-11-23T21:19:00Z",
       "fecha_evento": "2026-11-23",
       "tickers": [
-        "QQQ",
-        "SPY"
+        "NVDA"
       ]
     },
     {
-      "id": "rebound-91-percent",
-      "type": "mercado",
-      "title": "Caídas tan rápidas como la actual terminaron en rebote el 91% de las veces en la última década",
-      "summary": "Un análisis histórico muestra que correcciones tan abruptas como la del S&P 500 de las últimas semanas precedieron un rebote en nueve de cada diez casos durante los últimos diez años.",
-      "detail": "La estadística histórica es una herramienta útil para poner en perspectiva los momentos de pánico, aunque no garantiza resultados futuros. Para quien está aprendiendo finanzas, este tipo de análisis enseña a distinguir entre una corrección temporal y el inicio de un mercado bajista prolongado.",
-      "tags": [
-        "corrección",
-        "historia",
-        "rebote"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/stock-market-slides-this-steep-and-fast-trigger-a-rebound-91-of-the-time-over-the-last-decade-798bd2c2?mod=mw_rss_topstories",
-      "published_at": "2026-11-23T08:37:00Z",
-      "fecha_evento": "2026-11-23",
-      "tickers": [
-        "SPY",
-        "SPX"
-      ]
-    },
-    {
-      "id": "bill-ackman-recesion-fed",
+      "id": "bessent-nvidia-china-giro",
       "type": "discurso",
-      "title": "Bill Ackman advierte que una suba de tasas de la Fed podría llevar a EE.UU. a la recesión",
-      "summary": "El CEO de Pershing Square escribió en X que las condiciones financieras ya se endurecieron considerablemente y que una nueva suba de tasas por parte de la Fed podría empujar a la economía estadounidense a una recesión.",
-      "detail": "Ackman es uno de los inversores más influyentes del mundo y sus declaraciones públicas suelen mover mercados. Su advertencia conecta dos conceptos clave: tasas de interés más altas encarecen el crédito, frenan el consumo y la inversión, y pueden desacelerar tanto la economía que terminen en recesión.",
+      "title": "El Secretario del Tesoro dio marcha atrás en su postura dura contra Nvidia y China",
+      "summary": "Scott Bessent, Secretario del Tesoro de EE.UU., venía adoptando una posición más restrictiva respecto a Nvidia y sus ventas a China, pero revirtió esa postura. El giro revela tensiones internas en la administración Trump sobre cómo manejar el comercio tecnológico con China.",
+      "detail": "Las restricciones a la exportación de chips a China son una herramienta clave en la guerra tecnológica entre EE.UU. y ese país. Cuando un funcionario de alto nivel como el Secretario del Tesoro cambia de posición públicamente, el mercado lo interpreta como una señal sobre hacia dónde irá la política real. Esto afecta directamente a empresas como Nvidia, cuyas ventas a China representan una porción importante de sus ingresos, y por eso el precio de la acción reacciona a cada declaración oficial.",
       "tags": [
-        "Fed",
-        "tasas",
-        "recesión"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
-      "published_at": "2026-11-23T10:57:00Z",
-      "fecha_evento": "2026-11-23",
-      "tickers": []
-    },
-    {
-      "id": "anthropic-ipo-debut",
-      "type": "empresa",
-      "title": "Anthropic debutó en bolsa el 19 de noviembre con un inicio volátil",
-      "summary": "Las acciones de Anthropic comenzaron a cotizar el 19 de noviembre y tuvieron un arranque muy volátil. La empresa fue valorada en 1,2 billones de dólares y recaudó 81.000 millones en su IPO.",
-      "detail": "El debut de Anthropic es uno de los más grandes de la historia, superando incluso al de SpaceX. Las IPOs de empresas de IA están atrayendo cantidades récord de capital, lo que permite entender cómo el mercado está apostando al futuro de la inteligencia artificial y cuál es la diferencia entre valuación de mercado y rentabilidad real.",
-      "tags": [
-        "IPO",
-        "IA",
-        "valuación"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/anthropic-stock-shaky-start-heres-what-could-happen-next",
-      "published_at": "2026-11-23T11:30:02Z",
-      "fecha_evento": "2026-11-19",
-      "tickers": []
-    },
-    {
-      "id": "greg-abel-berkshire",
-      "type": "discurso",
-      "title": "Greg Abel, el sucesor de Buffett, dio señales sobre el futuro de las inversiones de Berkshire",
-      "summary": "Greg Abel, quien tomó el control operativo y la cartera de 356.000 millones de dólares de Berkshire Hathaway tras la jubilación de Warren Buffett, dio indicios sobre la dirección que podría tomar la compañía.",
-      "detail": "La transición en Berkshire es uno de los eventos más observados del mundo financiero porque Buffett fue el inversor más influyente del último siglo. Ver cómo su sucesor enfrenta la gestión de un portafolio tan grande es una clase práctica sobre continuidad institucional, estilo de inversión y cómo los mercados reaccionan al cambio de liderazgo en grandes fondos.",
-      "tags": [
-        "Berkshire",
-        "Buffett",
-        "inversión"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/warren-buffetts-successor-greg-abel-just-gave-investors-big-clue-whats-next-stocks",
-      "published_at": "2026-11-23T10:26:02Z",
-      "fecha_evento": "2026-11-23",
-      "tickers": [
-        "BRK.B",
-        "BRK.A"
-      ]
-    },
-    {
-      "id": "kevin-warsh-fed-ai",
-      "type": "discurso",
-      "title": "El presidente de la Fed, Kevin Warsh, analiza qué significa la revolución de IA para tasas y empleo",
-      "summary": "Kevin Warsh, al frente de la Reserva Federal, está evaluando cómo la inteligencia artificial puede transformar la productividad, el empleo y, en consecuencia, las decisiones sobre tasas de interés.",
-      "detail": "La IA puede aumentar la productividad de forma masiva, lo que cambia los modelos que usa la Fed para fijar tasas: más productividad puede significar menor inflación con más crecimiento, lo que alteraría la política monetaria. Entender esta conexión ayuda a ver por qué los avances tecnológicos no son solo una noticia del sector tech, sino que impactan en la economía global entera.",
-      "tags": [
-        "Fed",
-        "IA",
-        "tasas"
+        "geopolítica",
+        "tecnología",
+        "política comercial"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "published_at": "2026-11-20T21:07:08Z",
-      "fecha_evento": "2026-11-20",
-      "tickers": []
+      "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+      "published_at": "2026-11-23T21:00:59Z",
+      "fecha_evento": "2026-11-23",
+      "tickers": [
+        "NVDA"
+      ]
     },
     {
-      "id": "ai-selloff-global",
+      "id": "oracle-coreweave-suba-ia",
       "type": "mercado",
-      "title": "La caída de acciones de IA y semiconductores arrastró a mercados de Europa e India",
-      "summary": "El lunes, los mercados de India cayeron fuertemente y los de Francia y Alemania operaron mixtos, en medio de una ola de ventas global en acciones vinculadas a inteligencia artificial y semiconductores.",
-      "detail": "La caída sincronizada en distintos mercados del mundo muestra cómo los flujos de capital están hoy interconectados: cuando los inversores deciden reducir exposición a un sector en EE.UU., el impacto se siente desde Frankfurt hasta Mumbai. Para quien aprende finanzas, esto ilustra el concepto de riesgo sistémico global y la correlación entre mercados.",
+      "title": "Oracle y CoreWeave subieron fuerte arrastradas por el regreso de Huang a Nvidia",
+      "summary": "Las acciones de Oracle y CoreWeave tuvieron grandes ganancias el lunes, ya que los inversores apostaron a que el ecosistema de inversión en inteligencia artificial seguirá siendo robusto ahora que Nvidia recuperó a su CEO.",
+      "detail": "Nvidia no solo vende chips: también financia a empresas de infraestructura en la nube como Oracle y CoreWeave que dependen de su tecnología. Cuando sube la confianza en Nvidia, sube también la confianza en todo el ecosistema que gira alrededor de la IA. Esto ilustra cómo las acciones de distintas empresas pueden estar correlacionadas cuando pertenecen a la misma cadena de valor tecnológica.",
       "tags": [
-        "semiconductores",
-        "IA",
+        "inteligencia artificial",
+        "nube",
+        "acciones"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+      "published_at": "2026-11-23T21:24:00Z",
+      "fecha_evento": "2026-11-23",
+      "tickers": [
+        "ORCL",
+        "CRWV"
+      ]
+    },
+    {
+      "id": "amazon-decart-chips-deal",
+      "type": "empresa",
+      "title": "Amazon compró Decart por u$s 7.500 millones para potenciar sus chips propios",
+      "summary": "Amazon cerró un acuerdo para adquirir la tecnología de IA de la empresa Decart por un precio reportado de 7.500 millones de dólares, con el objetivo de mejorar la velocidad y eficiencia de sus chips personalizados.",
+      "detail": "Las grandes tecnológicas como Amazon están desarrollando sus propios chips para reducir la dependencia de Nvidia y bajar costos. Comprar tecnología de IA como la de Decart puede ser una forma relativamente barata de sacarle más rendimiento a esos chips propios. Esta tendencia muestra cómo la competencia en el mundo del hardware de IA no es solo entre fabricantes de chips, sino también entre los gigantes que los usan.",
+      "tags": [
+        "inteligencia artificial",
+        "tecnología",
+        "fusiones"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+      "published_at": "2026-11-23T21:33:00Z",
+      "fecha_evento": "2026-11-23",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "hewlett-packard-enterprise-resultados-q4",
+      "type": "empresa",
+      "title": "Hewlett Packard Enterprise reportó una fuerte suba de ganancias y mejoró su perspectiva",
+      "summary": "Hewlett Packard Enterprise informó un salto importante en sus ganancias del cuarto trimestre, impulsado por la fuerte demanda de infraestructura de inteligencia artificial y redes. Además, elevó sus proyecciones para el año fiscal 2027.",
+      "detail": "Cuando una empresa no solo supera las expectativas de un trimestre sino que también mejora su guía futura, el mercado lo toma como una señal positiva de que el crecimiento es sostenible. El hecho de que el motor sea la demanda de infraestructura de IA confirma que el gasto en este sector sigue siendo robusto, algo relevante para entender hacia dónde fluye el capital en la economía global actual.",
+      "tags": [
+        "resultados",
+        "inteligencia artificial",
+        "tecnología"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/hewlett-packard-enterprise-q4-profit-surges-raises-fy27-outlook",
+      "published_at": "2026-11-23T21:28:33Z",
+      "fecha_evento": "2026-11-23",
+      "tickers": [
+        "HPE"
+      ]
+    },
+    {
+      "id": "zoom-resultados-q3-caen",
+      "type": "empresa",
+      "title": "Zoom reportó una caída en sus ganancias del tercer trimestre",
+      "summary": "Zoom Communications informó que sus ganancias del tercer trimestre cayeron respecto al mismo período del año anterior.",
+      "detail": "Después del boom que vivió Zoom durante la pandemia, la empresa enfrenta el desafío de sostener su crecimiento en un entorno más competitivo. Una caída en las ganancias puede indicar presión en márgenes o pérdida de usuarios frente a competidores. Para alguien que aprende finanzas, este caso muestra cómo los resultados trimestrales pueden reflejar cambios estructurales en la demanda de un producto o servicio.",
+      "tags": [
+        "resultados",
+        "tecnología",
+        "acciones"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/zoom-communications-inc-q3-income-falls",
+      "published_at": "2026-11-23T21:27:45Z",
+      "fecha_evento": "2026-11-23",
+      "tickers": [
+        "ZM"
+      ]
+    },
+    {
+      "id": "bolsas-canada-suben-materiales-it",
+      "type": "mercado",
+      "title": "Las bolsas canadienses subieron con fuerza lideradas por materiales e IT",
+      "summary": "El mercado bursátil canadiense tuvo una jornada muy positiva el lunes: el oro recuperó precio y empujó al sector de materiales, mientras que el sector tecnológico se benefició del regreso de Jensen Huang a Nvidia.",
+      "detail": "Canada tiene una bolsa (TSX) con mucho peso en materiales y recursos naturales, por lo que los movimientos en el precio del oro impactan directamente en sus índices. Al mismo tiempo, las empresas tecnológicas listadas allí se mueven en sintonía con el Nasdaq. Esto ilustra cómo los mercados de distintos países están interconectados, y cómo una sola noticia en EE.UU. puede mover bolsas de todo el mundo.",
+      "tags": [
+        "bolsas",
+        "oro",
         "mercados globales"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/indian-shares-tumble-amid-global-selloff-profit-taking",
-      "published_at": "2026-11-23T10:50:04Z",
+      "source_url": "https://www.nasdaq.com/articles/canadian-stocks-surge-amid-rebound-materials-it-sectors",
+      "published_at": "2026-11-23T21:23:18Z",
       "fecha_evento": "2026-11-23",
       "tickers": []
     }
@@ -196,21 +180,21 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 61.369",
-      "valor_num": 61369.0,
-      "delta_pct": 0.61
+      "valor": "US$ 61.241",
+      "valor_num": 61241.0,
+      "delta_pct": 0.63
     },
     {
       "label": "S&P 500",
-      "valor": "6.910",
-      "valor_num": 6910.39,
-      "delta_pct": -8.61
+      "valor": "7.237",
+      "valor_num": 7237.17,
+      "delta_pct": -2.42
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.622",
-      "valor_num": 3621.5,
-      "delta_pct": -3.22
+      "valor": "US$ 3.633",
+      "valor_num": 3633.1,
+      "delta_pct": -2.91
     }
   ]
 }
