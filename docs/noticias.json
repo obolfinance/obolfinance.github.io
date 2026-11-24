@@ -1,35 +1,69 @@
 {
-  "generated_at": "2026-11-24T12:01:06.827136+00:00",
+  "generated_at": "2026-11-24T22:01:10.029265+00:00",
   "items": [
     {
-      "id": "nvidia-retail-surge-2611",
+      "id": "nvidia-caida-post-rally",
       "type": "mercado",
-      "title": "Los inversores minoristas ganaron fuerte con el rebote de Nvidia",
-      "summary": "Las personas que compraron acciones de Nvidia la semana pasada vieron una ganancia promedio del 11% el lunes, después de que la acción subiera un 31% desde sus mínimos recientes.",
-      "detail": "Nvidia es una de las empresas más importantes del mercado global hoy por su rol en la inteligencia artificial. Este episodio ilustra cómo los inversores minoristas (personas comunes, no fondos) pueden beneficiarse de comprar en momentos de pánico, aunque también implica un riesgo alto si el rebote no se da. El movimiento del 31% en una sola semana muestra la volatilidad extrema que pueden tener las acciones tecnológicas de gran capitalización.",
+      "title": "Nvidia cayó casi 6% un día después de su mayor suba en dos décadas",
+      "summary": "Luego de dispararse un 31,48% el lunes —su mayor suba en más de 20 años—, Nvidia retrocedió un 5,86% el martes y borró unos 240.000 millones de dólares de capitalización. La acción cerró en 155,38 dólares, aunque un banco de inversión la actualizó con un potencial alcista del 29%.",
+      "detail": "Este movimiento ilustra un fenómeno clásico en mercados: las subas explosivas suelen ir seguidas de toma de ganancias. Inversores que compraron antes del rally aprovechan el precio alto para vender y asegurar beneficios. Además, la vuelta de Jensen Huang como CEO no resuelve los problemas regulatorios ni la investigación sobre su relación con un ex ejecutivo de Megaspeed, lo que genera incertidumbre. Para quien aprende finanzas, es un buen ejemplo de cómo la volatilidad extrema en un solo activo puede mover miles de millones en valor de mercado en horas.",
       "tags": [
-        "Nvidia",
-        "acciones",
+        "semiconductores",
+        "volatilidad",
         "tecnología"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
-      "published_at": "2026-11-24T11:39:00Z",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-today-nov-24-nvidia-gives-back-240-billion-market-value-despite-wall-street",
+      "published_at": "2026-11-24T21:49:49Z",
       "fecha_evento": "2026-11-24",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "nvidia-bessent-china-2611",
+      "id": "anthropic-ipo-bajo-precio",
+      "type": "empresa",
+      "title": "La acción de Anthropic cayó por debajo de su precio de IPO menos de una semana después de debutar",
+      "summary": "Anthropic, la empresa detrás del chatbot Claude, salió a bolsa a 83 dólares por acción y cerró su primer día de cotización un 17% arriba. Sin embargo, en menos de una semana la acción ya opera por debajo del precio de salida.",
+      "detail": "Que una acción caiga por debajo de su precio de IPO tan rápido es una señal de que el mercado recalibró el entusiasmo inicial. Las IPOs suelen generar mucho ruido y demanda especulativa el primer día, pero si los fundamentals no justifican la valuación, el precio cede. Para alguien que aprende finanzas, esto muestra que comprar en una IPO no garantiza ganancias y que el precio de debut no siempre refleja el valor real de largo plazo.",
+      "tags": [
+        "IPO",
+        "inteligencia artificial",
+        "valuación"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+      "published_at": "2026-11-24T21:46:00Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": []
+    },
+    {
+      "id": "confianza-consumidor-eeuu-noviembre",
+      "type": "economia",
+      "title": "La confianza del consumidor en EE.UU. subió con fuerza tras las elecciones de medio término",
+      "summary": "La encuesta del Conference Board publicada este martes mostró una mejora generalizada, con el índice de confianza saltando a 103,3. El resultado viene impulsado por las victorias demócratas en las elecciones de medio término, aunque persisten las preocupaciones por la inflación.",
+      "detail": "El índice de confianza del consumidor es uno de los indicadores adelantados más seguidos porque anticipa cómo van a gastar las familias en los próximos meses. Cuando sube, sugiere que la gente está dispuesta a consumir más, lo que suele impulsar la actividad económica. El dato es relevante porque el contexto político puede afectar las expectativas económicas, y eso se traduce en decisiones concretas de gasto e inversión.",
+      "tags": [
+        "consumo",
+        "confianza",
+        "EE.UU."
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+      "published_at": "2026-11-24T18:34:43Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": []
+    },
+    {
+      "id": "nvidia-trump-bessent-china",
       "type": "discurso",
-      "title": "El Secretario del Tesoro de EE.UU. frenó una postura dura contra Nvidia y China",
-      "summary": "Scott Bessent había comenzado a posicionarse como el rostro de una línea más dura hacia Nvidia en su relación con China, pero luego dio marcha atrás en esa posición.",
-      "detail": "Las restricciones de exportación de chips a China son un tema clave en la tensión comercial entre EE.UU. y China. Cuando un funcionario de alto rango como el Secretario del Tesoro cambia de postura en este tema, el mercado lo interpreta como una señal sobre hacia dónde irá la política comercial. Para inversores, este tipo de señales afectan directamente el precio de empresas como Nvidia, cuyos ingresos dependen en parte del mercado chino.",
+      "title": "El giro de Bessent sobre Nvidia revela la ambigüedad de Trump frente a China",
+      "summary": "El secretario del Tesoro Scott Bessent estaba convirtiéndose en la cara visible de una postura más dura hacia Nvidia en el contexto de las tensiones con China, pero luego dio marcha atrás. El episodio muestra las contradicciones internas de la administración Trump en su política tecnológica y comercial.",
+      "detail": "Las restricciones de exportación de chips a China son una herramienta clave en la guerra tecnológica entre EE.UU. y China. Cuando un funcionario de alto rango endurece o suaviza su postura, el mercado reacciona porque afecta directamente los ingresos de empresas como Nvidia. Este tipo de señales desde el gobierno influyen en las decisiones de inversión, ya que la incertidumbre regulatoria es un riesgo concreto para los accionistas.",
       "tags": [
         "geopolítica",
         "chips",
-        "EE.UU.-China"
+        "política comercial"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
@@ -40,15 +74,72 @@
       ]
     },
     {
-      "id": "france-recession-risk-2611",
+      "id": "best-buy-resultados-q3",
+      "type": "empresa",
+      "title": "Best Buy registró su mayor crecimiento de ventas comparables en cinco años",
+      "summary": "Best Buy reportó un crecimiento de ventas comparables del 6,1% en su tercer trimestre fiscal y superó las expectativas del mercado. Además, la compañía elevó su guía para todo el año.",
+      "detail": "Las ventas comparables (same-store sales) miden el crecimiento de locales que ya existían, sin contar tiendas nuevas, y son el indicador más limpio de la salud del negocio minorista. Que Best Buy haya subido esa métrica un 6,1% —el mayor número en cinco años— y además haya subido su guía anual indica que el consumidor de electrónica sigue activo a pesar de la inflación. Elevar la guía es una señal positiva porque implica que la empresa misma espera seguir ganando.",
+      "tags": [
+        "retail",
+        "resultados",
+        "consumo"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+      "published_at": "2026-11-24T14:51:58Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": [
+        "BBY"
+      ]
+    },
+    {
+      "id": "micron-riesgo-sobreoferta",
+      "type": "mercado",
+      "title": "La acción de Micron cae tras una advertencia sobre exceso de oferta en chips de memoria",
+      "summary": "Un analista de BNP Paribas advirtió que el riesgo de un escenario de sobreoferta en chips de memoria está creciendo, lo que podría afectar el poder de fijación de precios de Micron. La acción cayó ante el aviso.",
+      "detail": "La industria de los semiconductores es cíclica: cuando la demanda supera a la oferta, los precios suben y las empresas ganan bien; cuando hay exceso de oferta, los precios caen y los márgenes se comprimen. Una advertencia de un analista sobre sobreoferta futura hace que los inversores vendan anticipando menores ganancias. Este tipo de análisis adelantado mueve los precios hoy, antes de que el problema se materialice.",
+      "tags": [
+        "semiconductores",
+        "análisis",
+        "chips"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "published_at": "2026-11-24T21:22:00Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": [
+        "MU"
+      ]
+    },
+    {
+      "id": "workday-resultados-q3",
+      "type": "empresa",
+      "title": "Workday reportó menores ganancias en el tercer trimestre pero mejoró su perspectiva de ingresos",
+      "summary": "Workday publicó resultados del tercer trimestre con una caída en su ganancia neta, aunque los ingresos y las ganancias ajustadas crecieron. La empresa además elevó su proyección de ingresos por suscripciones para todo el año fiscal 2027.",
+      "detail": "En empresas de software como Workday, los ingresos por suscripciones son el indicador más importante porque son recurrentes y predecibles. Que la compañía haya subido su guía de suscripciones señala confianza en su capacidad de retener y sumar clientes. La diferencia entre ganancia neta y ganancia ajustada es clave: la ajustada excluye costos como compensaciones en acciones, y es la métrica que más mira el mercado para estas empresas.",
+      "tags": [
+        "software",
+        "resultados",
+        "suscripciones"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/workday-q3-profit-edges-lower-raises-fy27-subscription-revenue-outlook",
+      "published_at": "2026-11-24T21:41:25Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": [
+        "WDAY"
+      ]
+    },
+    {
+      "id": "francia-riesgo-recesion",
       "type": "economia",
-      "title": "Francia en riesgo de recesión: el Banco Central aún ve crecimiento",
-      "summary": "El gobernador del Banco de Francia, Emmanuel Moulin, dijo a CNBC que todavía espera crecimiento económico, apoyándose en la resistencia de sectores como defensa, aeroespacial y electricidad.",
-      "detail": "Una recesión en Francia, la segunda economía más grande de la eurozona, tendría impacto en los mercados globales y en el euro. El hecho de que el propio Banco Central tenga que salir a defender sus proyecciones de crecimiento muestra que los datos económicos recientes generaron preocupación. Para alguien que aprende finanzas, es un buen ejemplo de cómo los bancos centrales comunican su visión para influir en las expectativas del mercado.",
+      "title": "Francia enfrenta riesgo de recesión pero su banco central todavía espera crecimiento",
+      "summary": "El gobernador del Banco de Francia, Emmanuel Moulin, dijo a CNBC que aún espera crecimiento, apoyándose en la resiliencia de sectores como defensa, aeroespacial y electricidad. Sin embargo, los indicadores PMI muestran señales de debilidad.",
+      "detail": "Los PMIs (Índices de Gerentes de Compras) son encuestas mensuales a empresas que anticipan si la actividad económica está expandiéndose o contrayéndose. Cuando están por debajo de 50, indican contracción. El hecho de que el banco central salga a defender las perspectivas de crecimiento en público sugiere que hay presión real sobre la economía francesa. Para los mercados globales, una recesión en Francia —la segunda economía de la eurozona— tendría impacto en el euro y en las decisiones del BCE.",
       "tags": [
         "Europa",
         "recesión",
-        "banco central"
+        "PMI"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
@@ -57,92 +148,19 @@
       "tickers": []
     },
     {
-      "id": "cac40-flat-2611",
+      "id": "wall-street-mixto-martes",
       "type": "mercado",
-      "title": "La bolsa francesa operó mixta tras el rally del lunes impulsado por Nvidia",
-      "summary": "El CAC 40 de París operó sin dirección clara el martes, luego de que el lunes las bolsas globales subieran fuerte después de que Nvidia reincorporara a Jensen Huang.",
-      "detail": "Los mercados europeos suelen seguir el tono de Wall Street, especialmente cuando el movimiento está liderado por empresas de tecnología de gran peso global como Nvidia. El CAC 40 es el índice bursátil más importante de Francia y sirve como termómetro de la economía europea. Que el mercado haya frenado tras un gran rebote es algo habitual: los inversores toman ganancias o esperan nuevas señales antes de continuar.",
+      "title": "Wall Street cerró mixto el martes tras el fuerte rebote del lunes",
+      "summary": "Los mercados estadounidenses devolvieron parte de las ganancias del lunes, aunque siguen significativamente abajo en el mes después de la brutal caída de la semana pasada. El cierre del martes fue dispar entre los principales índices.",
+      "detail": "Un rebote seguido de una corrección parcial es un patrón típico en mercados volátiles: los inversores que se perdieron la baja venden en el primer rebote para reducir pérdidas o asegurar ganancias rápidas. Que los mercados sigan abajo en el mes indica que la tendencia de fondo todavía no cambió, y que el rebote del lunes puede haber sido técnico más que un cambio de sentimiento. Seguir este tipo de movimientos ayuda a entender cómo funciona la psicología del mercado.",
       "tags": [
-        "Europa",
         "bolsa",
-        "mercados"
+        "volatilidad",
+        "Wall Street"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/cac-40-roughly-flat-stocks-turn-mixed-performance",
-      "published_at": "2026-11-24T11:14:40Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": []
-    },
-    {
-      "id": "nike-plan-2031-2611",
-      "type": "empresa",
-      "title": "Nike proyecta duplicar sus ganancias por acción para 2031",
-      "summary": "Nike presentó un plan a cinco años que apunta a que las ganancias por acción crezcan un 106% respecto al año fiscal 2026.",
-      "detail": "Cuando una empresa grande como Nike hace anuncios de objetivos a largo plazo, el mercado los usa para estimar si la acción está cara o barata hoy. Duplicar las ganancias en cinco años implica un crecimiento anual compuesto alto, lo que atrae inversores pero también genera presión para cumplir. Para alguien que aprende finanzas, es un ejemplo de cómo se usa el concepto de 'earnings per share' (ganancias por acción) para valuar una empresa.",
-      "tags": [
-        "Nike",
-        "acciones",
-        "estrategia"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/nikes-2031-plan-calls-earnings-more-double-heres-what-math-means-stock-today",
-      "published_at": "2026-11-24T11:25:01Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": [
-        "NKE"
-      ]
-    },
-    {
-      "id": "sanofi-insmed-deal-2611",
-      "type": "empresa",
-      "title": "Sanofi pagará USD 41.000 millones por la biotecnológica Insmed en el mayor acuerdo del sector en casi tres años",
-      "summary": "La farmacéutica francesa Sanofi acordó comprar la empresa de biotecnología estadounidense Insmed por 41.000 millones de dólares, el mayor acuerdo del sector en casi tres años.",
-      "detail": "Las fusiones y adquisiciones en el sector farmacéutico suelen darse cuando una empresa grande necesita compensar la caída de ingresos por el vencimiento de patentes de medicamentos clave. Pagar USD 41.000 millones es una prima enorme, lo que muestra cuánto vale para Sanofi acceder a los productos de Insmed. Para alguien que aprende finanzas, este tipo de operaciones ilustra cómo las empresas usan el capital para crecer inorgánicamente cuando el desarrollo interno no alcanza.",
-      "tags": [
-        "farmacéutica",
-        "fusión",
-        "biotech"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
-      "published_at": "2026-11-24T09:14:00Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": [
-        "SNY",
-        "INSM"
-      ]
-    },
-    {
-      "id": "crypto-fear-greed-2611",
-      "type": "mercado",
-      "title": "El índice de miedo y codicia cripto está en zona de miedo extremo, pero algunas criptos suben fuerte",
-      "summary": "El índice Fear & Greed del mercado cripto cayó a zona de miedo extremo, aunque algunas criptomonedas vinculadas a inteligencia artificial están subiendo con fuerza.",
-      "detail": "El índice de miedo y codicia mide el sentimiento general del mercado cripto: cuando está en 'miedo extremo', la mayoría de los inversores está vendiendo o dudando en comprar. Sin embargo, que algunas criptos de nicho (las de IA) suban en ese contexto muestra que dentro de un mercado en caída siempre hay sectores que se mueven por su propia lógica. Es un buen ejemplo de cómo el sentimiento de mercado y los fundamentos pueden ir en direcciones distintas.",
-      "tags": [
-        "cripto",
-        "sentimiento",
-        "inteligencia artificial"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/crypto-fear-greed-index-now-extreme-fear-territory-these-6-cryptocurrencies-are-soaring",
-      "published_at": "2026-11-24T11:05:01Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": []
-    },
-    {
-      "id": "bofa-bull-bear-2027-2611",
-      "type": "economia",
-      "title": "Bank of America advierte sobre sorpresas alcistas y bajistas para el año que viene",
-      "summary": "El estratega Michael Hartnett de Bank of America recomienda mantenerse conservador hasta que las subas de tasas globales se detengan en primavera, y recién después sumar riesgo en activos cíclicos.",
-      "detail": "La estrategia de Hartnett es un ejemplo claro de cómo los grandes bancos de inversión diseñan sus recomendaciones en función del ciclo de tasas de interés globales. Cuando las tasas suben, los activos de riesgo (acciones, emergentes, cripto) tienden a sufrir; cuando empiezan a bajar o pausar, es cuando se abre la oportunidad. Para alguien en Argentina, entender este ciclo global es clave porque afecta el flujo de capitales hacia mercados emergentes como el nuestro.",
-      "tags": [
-        "estrategia",
-        "tasas",
-        "mercados globales"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
-      "published_at": "2026-11-24T09:58:00Z",
+      "source_url": "https://www.nasdaq.com/articles/wall-street-finished-mixed-tuesday",
+      "published_at": "2026-11-24T21:39:33Z",
       "fecha_evento": "2026-11-24",
       "tickers": []
     }
@@ -150,45 +168,45 @@
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.600",
-      "valor_num": 1600.0,
-      "delta_pct": 0.0
+      "valor": "$1.615",
+      "valor_num": 1615.0,
+      "delta_pct": 0.94
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.675",
-      "valor_num": 1675.0,
-      "delta_pct": 0.0
+      "valor": "$1.700",
+      "valor_num": 1700.0,
+      "delta_pct": 1.49
     },
     {
       "label": "MEP",
-      "valor": "$1.743",
-      "valor_num": 1743.1,
-      "delta_pct": 0.0
+      "valor": "$1.695",
+      "valor_num": 1695.1,
+      "delta_pct": -2.75
     },
     {
       "label": "CCL",
-      "valor": "$1.806",
-      "valor_num": 1806.2,
-      "delta_pct": 0.0
+      "valor": "$1.797",
+      "valor_num": 1797.1,
+      "delta_pct": -0.5
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 60.376",
-      "valor_num": 60376.0,
-      "delta_pct": -1.62
+      "valor": "US$ 59.832",
+      "valor_num": 59832.0,
+      "delta_pct": -2.34
     },
     {
       "label": "S&P 500",
-      "valor": "7.237",
-      "valor_num": 7237.17,
-      "delta_pct": -2.42
+      "valor": "7.201",
+      "valor_num": 7201.09,
+      "delta_pct": -1.9
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.634",
-      "valor_num": 3633.9,
-      "delta_pct": -1.4
+      "valor": "US$ 3.552",
+      "valor_num": 3552.5,
+      "delta_pct": -3.61
     }
   ]
 }
