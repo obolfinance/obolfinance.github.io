@@ -1,54 +1,35 @@
 {
-  "generated_at": "2026-11-23T22:01:03.354366+00:00",
+  "generated_at": "2026-11-24T12:01:06.827136+00:00",
   "items": [
     {
-      "id": "nvidia-jensen-huang-regresa-ceo",
+      "id": "nvidia-retail-surge-2611",
       "type": "mercado",
-      "title": "Jensen Huang vuelve a Nvidia y dispara el mercado",
-      "summary": "Jensen Huang fue reinstaurado como CEO de Nvidia, lo que generó el mayor salto en un día de la historia de la acción: más del 30%. Fue el mejor día para la bolsa estadounidense en más de un año.",
-      "detail": "Cuando el CEO de una empresa tan central para un sector vuelve al mando, el mercado interpreta eso como una señal de estabilidad y continuidad estratégica. En el caso de Nvidia, que es el principal fabricante de chips para inteligencia artificial, su regreso revivió el entusiasmo por todo el trade de IA. Este tipo de eventos enseña cómo una sola persona clave puede mover miles de millones de dólares en capitalización bursátil en cuestión de horas.",
+      "title": "Los inversores minoristas ganaron fuerte con el rebote de Nvidia",
+      "summary": "Las personas que compraron acciones de Nvidia la semana pasada vieron una ganancia promedio del 11% el lunes, después de que la acción subiera un 31% desde sus mínimos recientes.",
+      "detail": "Nvidia es una de las empresas más importantes del mercado global hoy por su rol en la inteligencia artificial. Este episodio ilustra cómo los inversores minoristas (personas comunes, no fondos) pueden beneficiarse de comprar en momentos de pánico, aunque también implica un riesgo alto si el rebote no se da. El movimiento del 31% en una sola semana muestra la volatilidad extrema que pueden tener las acciones tecnológicas de gran capitalización.",
       "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "acciones"
+        "Nvidia",
+        "acciones",
+        "tecnología"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-      "published_at": "2026-11-23T21:51:00Z",
-      "fecha_evento": "2026-11-23",
+      "source_url": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
+      "published_at": "2026-11-24T11:39:00Z",
+      "fecha_evento": "2026-11-24",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "nvidia-short-sellers-perdidas",
-      "type": "mercado",
-      "title": "Los que apostaron contra Nvidia perdieron casi todo en un día",
-      "summary": "Los fondos que apostaban a que Nvidia iba a bajar (short sellers) sufrieron pérdidas enormes cuando la acción subió más del 30% en un solo día, el mayor salto diario en la historia de la empresa.",
-      "detail": "El 'short selling' o venta en corto es una estrategia donde un inversor apuesta a que una acción va a bajar: la toma prestada, la vende, y espera recomprarla más barata. Si la acción sube en cambio, las pérdidas pueden ser ilimitadas. Este caso es un ejemplo clásico de 'short squeeze': una suba tan violenta que obliga a los vendedores en corto a cerrar sus posiciones a pérdida, lo que a su vez empuja el precio todavía más arriba.",
-      "tags": [
-        "short selling",
-        "volatilidad",
-        "acciones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-      "published_at": "2026-11-23T21:19:00Z",
-      "fecha_evento": "2026-11-23",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "bessent-nvidia-china-giro",
+      "id": "nvidia-bessent-china-2611",
       "type": "discurso",
-      "title": "El Secretario del Tesoro dio marcha atrás en su postura dura contra Nvidia y China",
-      "summary": "Scott Bessent, Secretario del Tesoro de EE.UU., venía adoptando una posición más restrictiva respecto a Nvidia y sus ventas a China, pero revirtió esa postura. El giro revela tensiones internas en la administración Trump sobre cómo manejar el comercio tecnológico con China.",
-      "detail": "Las restricciones a la exportación de chips a China son una herramienta clave en la guerra tecnológica entre EE.UU. y ese país. Cuando un funcionario de alto nivel como el Secretario del Tesoro cambia de posición públicamente, el mercado lo interpreta como una señal sobre hacia dónde irá la política real. Esto afecta directamente a empresas como Nvidia, cuyas ventas a China representan una porción importante de sus ingresos, y por eso el precio de la acción reacciona a cada declaración oficial.",
+      "title": "El Secretario del Tesoro de EE.UU. frenó una postura dura contra Nvidia y China",
+      "summary": "Scott Bessent había comenzado a posicionarse como el rostro de una línea más dura hacia Nvidia en su relación con China, pero luego dio marcha atrás en esa posición.",
+      "detail": "Las restricciones de exportación de chips a China son un tema clave en la tensión comercial entre EE.UU. y China. Cuando un funcionario de alto rango como el Secretario del Tesoro cambia de postura en este tema, el mercado lo interpreta como una señal sobre hacia dónde irá la política comercial. Para inversores, este tipo de señales afectan directamente el precio de empresas como Nvidia, cuyos ingresos dependen en parte del mercado chino.",
       "tags": [
         "geopolítica",
-        "tecnología",
-        "política comercial"
+        "chips",
+        "EE.UU.-China"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
@@ -59,97 +40,110 @@
       ]
     },
     {
-      "id": "oracle-coreweave-suba-ia",
+      "id": "france-recession-risk-2611",
+      "type": "economia",
+      "title": "Francia en riesgo de recesión: el Banco Central aún ve crecimiento",
+      "summary": "El gobernador del Banco de Francia, Emmanuel Moulin, dijo a CNBC que todavía espera crecimiento económico, apoyándose en la resistencia de sectores como defensa, aeroespacial y electricidad.",
+      "detail": "Una recesión en Francia, la segunda economía más grande de la eurozona, tendría impacto en los mercados globales y en el euro. El hecho de que el propio Banco Central tenga que salir a defender sus proyecciones de crecimiento muestra que los datos económicos recientes generaron preocupación. Para alguien que aprende finanzas, es un buen ejemplo de cómo los bancos centrales comunican su visión para influir en las expectativas del mercado.",
+      "tags": [
+        "Europa",
+        "recesión",
+        "banco central"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+      "published_at": "2026-11-24T11:15:30Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": []
+    },
+    {
+      "id": "cac40-flat-2611",
       "type": "mercado",
-      "title": "Oracle y CoreWeave subieron fuerte arrastradas por el regreso de Huang a Nvidia",
-      "summary": "Las acciones de Oracle y CoreWeave tuvieron grandes ganancias el lunes, ya que los inversores apostaron a que el ecosistema de inversión en inteligencia artificial seguirá siendo robusto ahora que Nvidia recuperó a su CEO.",
-      "detail": "Nvidia no solo vende chips: también financia a empresas de infraestructura en la nube como Oracle y CoreWeave que dependen de su tecnología. Cuando sube la confianza en Nvidia, sube también la confianza en todo el ecosistema que gira alrededor de la IA. Esto ilustra cómo las acciones de distintas empresas pueden estar correlacionadas cuando pertenecen a la misma cadena de valor tecnológica.",
+      "title": "La bolsa francesa operó mixta tras el rally del lunes impulsado por Nvidia",
+      "summary": "El CAC 40 de París operó sin dirección clara el martes, luego de que el lunes las bolsas globales subieran fuerte después de que Nvidia reincorporara a Jensen Huang.",
+      "detail": "Los mercados europeos suelen seguir el tono de Wall Street, especialmente cuando el movimiento está liderado por empresas de tecnología de gran peso global como Nvidia. El CAC 40 es el índice bursátil más importante de Francia y sirve como termómetro de la economía europea. Que el mercado haya frenado tras un gran rebote es algo habitual: los inversores toman ganancias o esperan nuevas señales antes de continuar.",
       "tags": [
-        "inteligencia artificial",
-        "nube",
-        "acciones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-      "published_at": "2026-11-23T21:24:00Z",
-      "fecha_evento": "2026-11-23",
-      "tickers": [
-        "ORCL",
-        "CRWV"
-      ]
-    },
-    {
-      "id": "amazon-decart-chips-deal",
-      "type": "empresa",
-      "title": "Amazon compró Decart por u$s 7.500 millones para potenciar sus chips propios",
-      "summary": "Amazon cerró un acuerdo para adquirir la tecnología de IA de la empresa Decart por un precio reportado de 7.500 millones de dólares, con el objetivo de mejorar la velocidad y eficiencia de sus chips personalizados.",
-      "detail": "Las grandes tecnológicas como Amazon están desarrollando sus propios chips para reducir la dependencia de Nvidia y bajar costos. Comprar tecnología de IA como la de Decart puede ser una forma relativamente barata de sacarle más rendimiento a esos chips propios. Esta tendencia muestra cómo la competencia en el mundo del hardware de IA no es solo entre fabricantes de chips, sino también entre los gigantes que los usan.",
-      "tags": [
-        "inteligencia artificial",
-        "tecnología",
-        "fusiones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
-      "published_at": "2026-11-23T21:33:00Z",
-      "fecha_evento": "2026-11-23",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "hewlett-packard-enterprise-resultados-q4",
-      "type": "empresa",
-      "title": "Hewlett Packard Enterprise reportó una fuerte suba de ganancias y mejoró su perspectiva",
-      "summary": "Hewlett Packard Enterprise informó un salto importante en sus ganancias del cuarto trimestre, impulsado por la fuerte demanda de infraestructura de inteligencia artificial y redes. Además, elevó sus proyecciones para el año fiscal 2027.",
-      "detail": "Cuando una empresa no solo supera las expectativas de un trimestre sino que también mejora su guía futura, el mercado lo toma como una señal positiva de que el crecimiento es sostenible. El hecho de que el motor sea la demanda de infraestructura de IA confirma que el gasto en este sector sigue siendo robusto, algo relevante para entender hacia dónde fluye el capital en la economía global actual.",
-      "tags": [
-        "resultados",
-        "inteligencia artificial",
-        "tecnología"
+        "Europa",
+        "bolsa",
+        "mercados"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/hewlett-packard-enterprise-q4-profit-surges-raises-fy27-outlook",
-      "published_at": "2026-11-23T21:28:33Z",
-      "fecha_evento": "2026-11-23",
-      "tickers": [
-        "HPE"
-      ]
+      "source_url": "https://www.nasdaq.com/articles/cac-40-roughly-flat-stocks-turn-mixed-performance",
+      "published_at": "2026-11-24T11:14:40Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": []
     },
     {
-      "id": "zoom-resultados-q3-caen",
+      "id": "nike-plan-2031-2611",
       "type": "empresa",
-      "title": "Zoom reportó una caída en sus ganancias del tercer trimestre",
-      "summary": "Zoom Communications informó que sus ganancias del tercer trimestre cayeron respecto al mismo período del año anterior.",
-      "detail": "Después del boom que vivió Zoom durante la pandemia, la empresa enfrenta el desafío de sostener su crecimiento en un entorno más competitivo. Una caída en las ganancias puede indicar presión en márgenes o pérdida de usuarios frente a competidores. Para alguien que aprende finanzas, este caso muestra cómo los resultados trimestrales pueden reflejar cambios estructurales en la demanda de un producto o servicio.",
+      "title": "Nike proyecta duplicar sus ganancias por acción para 2031",
+      "summary": "Nike presentó un plan a cinco años que apunta a que las ganancias por acción crezcan un 106% respecto al año fiscal 2026.",
+      "detail": "Cuando una empresa grande como Nike hace anuncios de objetivos a largo plazo, el mercado los usa para estimar si la acción está cara o barata hoy. Duplicar las ganancias en cinco años implica un crecimiento anual compuesto alto, lo que atrae inversores pero también genera presión para cumplir. Para alguien que aprende finanzas, es un ejemplo de cómo se usa el concepto de 'earnings per share' (ganancias por acción) para valuar una empresa.",
       "tags": [
-        "resultados",
-        "tecnología",
-        "acciones"
+        "Nike",
+        "acciones",
+        "estrategia"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/zoom-communications-inc-q3-income-falls",
-      "published_at": "2026-11-23T21:27:45Z",
-      "fecha_evento": "2026-11-23",
+      "source_url": "https://www.nasdaq.com/articles/nikes-2031-plan-calls-earnings-more-double-heres-what-math-means-stock-today",
+      "published_at": "2026-11-24T11:25:01Z",
+      "fecha_evento": "2026-11-24",
       "tickers": [
-        "ZM"
+        "NKE"
       ]
     },
     {
-      "id": "bolsas-canada-suben-materiales-it",
-      "type": "mercado",
-      "title": "Las bolsas canadienses subieron con fuerza lideradas por materiales e IT",
-      "summary": "El mercado bursátil canadiense tuvo una jornada muy positiva el lunes: el oro recuperó precio y empujó al sector de materiales, mientras que el sector tecnológico se benefició del regreso de Jensen Huang a Nvidia.",
-      "detail": "Canada tiene una bolsa (TSX) con mucho peso en materiales y recursos naturales, por lo que los movimientos en el precio del oro impactan directamente en sus índices. Al mismo tiempo, las empresas tecnológicas listadas allí se mueven en sintonía con el Nasdaq. Esto ilustra cómo los mercados de distintos países están interconectados, y cómo una sola noticia en EE.UU. puede mover bolsas de todo el mundo.",
+      "id": "sanofi-insmed-deal-2611",
+      "type": "empresa",
+      "title": "Sanofi pagará USD 41.000 millones por la biotecnológica Insmed en el mayor acuerdo del sector en casi tres años",
+      "summary": "La farmacéutica francesa Sanofi acordó comprar la empresa de biotecnología estadounidense Insmed por 41.000 millones de dólares, el mayor acuerdo del sector en casi tres años.",
+      "detail": "Las fusiones y adquisiciones en el sector farmacéutico suelen darse cuando una empresa grande necesita compensar la caída de ingresos por el vencimiento de patentes de medicamentos clave. Pagar USD 41.000 millones es una prima enorme, lo que muestra cuánto vale para Sanofi acceder a los productos de Insmed. Para alguien que aprende finanzas, este tipo de operaciones ilustra cómo las empresas usan el capital para crecer inorgánicamente cuando el desarrollo interno no alcanza.",
       "tags": [
-        "bolsas",
-        "oro",
+        "farmacéutica",
+        "fusión",
+        "biotech"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-biggest-biotech-deal-in-nearly-three-years-carries-a-hefty-41-billion-price-tag-dd7fa228?mod=mw_rss_topstories",
+      "published_at": "2026-11-24T09:14:00Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": [
+        "SNY",
+        "INSM"
+      ]
+    },
+    {
+      "id": "crypto-fear-greed-2611",
+      "type": "mercado",
+      "title": "El índice de miedo y codicia cripto está en zona de miedo extremo, pero algunas criptos suben fuerte",
+      "summary": "El índice Fear & Greed del mercado cripto cayó a zona de miedo extremo, aunque algunas criptomonedas vinculadas a inteligencia artificial están subiendo con fuerza.",
+      "detail": "El índice de miedo y codicia mide el sentimiento general del mercado cripto: cuando está en 'miedo extremo', la mayoría de los inversores está vendiendo o dudando en comprar. Sin embargo, que algunas criptos de nicho (las de IA) suban en ese contexto muestra que dentro de un mercado en caída siempre hay sectores que se mueven por su propia lógica. Es un buen ejemplo de cómo el sentimiento de mercado y los fundamentos pueden ir en direcciones distintas.",
+      "tags": [
+        "cripto",
+        "sentimiento",
+        "inteligencia artificial"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/crypto-fear-greed-index-now-extreme-fear-territory-these-6-cryptocurrencies-are-soaring",
+      "published_at": "2026-11-24T11:05:01Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": []
+    },
+    {
+      "id": "bofa-bull-bear-2027-2611",
+      "type": "economia",
+      "title": "Bank of America advierte sobre sorpresas alcistas y bajistas para el año que viene",
+      "summary": "El estratega Michael Hartnett de Bank of America recomienda mantenerse conservador hasta que las subas de tasas globales se detengan en primavera, y recién después sumar riesgo en activos cíclicos.",
+      "detail": "La estrategia de Hartnett es un ejemplo claro de cómo los grandes bancos de inversión diseñan sus recomendaciones en función del ciclo de tasas de interés globales. Cuando las tasas suben, los activos de riesgo (acciones, emergentes, cripto) tienden a sufrir; cuando empiezan a bajar o pausar, es cuando se abre la oportunidad. Para alguien en Argentina, entender este ciclo global es clave porque afecta el flujo de capitales hacia mercados emergentes como el nuestro.",
+      "tags": [
+        "estrategia",
+        "tasas",
         "mercados globales"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/canadian-stocks-surge-amid-rebound-materials-it-sectors",
-      "published_at": "2026-11-23T21:23:18Z",
-      "fecha_evento": "2026-11-23",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-bull-and-bear-surprises-that-could-ambush-investors-next-year-according-to-bank-of-america-1cf7dc26?mod=mw_rss_topstories",
+      "published_at": "2026-11-24T09:58:00Z",
+      "fecha_evento": "2026-11-24",
       "tickers": []
     }
   ],
@@ -180,9 +174,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 61.241",
-      "valor_num": 61241.0,
-      "delta_pct": 0.63
+      "valor": "US$ 60.376",
+      "valor_num": 60376.0,
+      "delta_pct": -1.62
     },
     {
       "label": "S&P 500",
@@ -192,9 +186,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.633",
-      "valor_num": 3633.1,
-      "delta_pct": -2.91
+      "valor": "US$ 3.634",
+      "valor_num": 3633.9,
+      "delta_pct": -1.4
     }
   ]
 }
