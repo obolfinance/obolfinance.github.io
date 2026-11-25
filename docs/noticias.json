@@ -1,50 +1,84 @@
 {
-  "generated_at": "2026-11-25T12:01:21.917663+00:00",
+  "generated_at": "2026-11-25T22:01:19.254708+00:00",
   "items": [
     {
-      "id": "consumer-confidence-nov-2026",
+      "id": "pce-inflacion-octubre-2026",
+      "type": "economia",
+      "title": "La inflación en EE.UU. se aceleró al 3,8% en octubre",
+      "summary": "El índice de precios PCE —el favorito de la Fed para medir la inflación— llegó al 3,8% anual en octubre, según el consenso de Dow Jones. El dato confirma que la inflación sigue sin ceder en Estados Unidos.",
+      "detail": "El PCE es el termómetro que usa la Reserva Federal para decidir si sube, baja o mantiene las tasas de interés. Cuando la inflación se acelera, la Fed tiene menos margen para bajar tasas, lo que encarece el crédito en todo el mundo y suele fortalecer al dólar. Para Argentina, esto importa porque un dólar más fuerte y tasas altas en EE.UU. presionan a las economías emergentes y encarecen su financiamiento.",
+      "tags": [
+        "inflación",
+        "Fed",
+        "PCE"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "published_at": "2026-11-25T14:18:45Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": []
+    },
+    {
+      "id": "fed-diciembre-tasas-2026",
+      "type": "reunion",
+      "title": "La Fed reconoce que la inflación no mejoró y se acerca una decisión clave en diciembre",
+      "summary": "La Reserva Federal advirtió que la inflación sigue siendo un problema en medio de una economía que crece, justo antes de su votación de diciembre sobre si subir las tasas de interés.",
+      "detail": "Cuando la Fed habla de una votación 'pivotal' para subir tasas, los mercados ajustan sus expectativas rápidamente: sube el rendimiento de los bonos del Tesoro, se fortalece el dólar y bajan los activos de riesgo. Este tipo de señales son importantes para entender cómo las decisiones de un banco central afectan a todos los mercados globales, incluyendo los activos argentinos dolarizados.",
+      "tags": [
+        "Fed",
+        "tasas",
+        "política monetaria"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33",
+      "published_at": "2026-11-25T19:39:00Z",
+      "fecha_evento": "2026-12-01",
+      "tickers": []
+    },
+    {
+      "id": "confianza-consumidor-noviembre-2026",
       "type": "economia",
       "title": "La confianza del consumidor en EE.UU. subió tras las elecciones de medio término",
-      "summary": "Una encuesta del Conference Board mostró que la confianza del consumidor estadounidense saltó a 103,3 en noviembre, impulsada por los resultados electorales, aunque persisten las preocupaciones por la inflación.",
-      "detail": "El índice de confianza del consumidor es un termómetro clave de la economía: cuando la gente se siente segura sobre su situación económica, tiende a gastar más, lo que impulsa el crecimiento. Que suba después de las elecciones de medio término muestra cómo los resultados políticos pueden afectar directamente las expectativas económicas. Sin embargo, que la inflación siga siendo una preocupación indica que el optimismo tiene límites y que la Fed podría mantener su postura cautelosa.",
+      "summary": "El índice de confianza del consumidor de The Conference Board saltó a 103,3 en noviembre, impulsado por los resultados de las elecciones de medio término que favorecieron a los demócratas, aunque la preocupación por la inflación persiste.",
+      "detail": "La confianza del consumidor es un indicador adelantado: cuando la gente se siente más segura económicamente, tiende a gastar más, lo que puede impulsar el crecimiento. Sin embargo, que conviva con alta inflación muestra que el optimismo político y el contexto económico real no siempre van de la mano. Para quien aprende finanzas, es un buen ejemplo de cómo los datos de sentimiento pueden moverse por razones distintas a los fundamentos económicos.",
       "tags": [
+        "confianza",
         "consumo",
-        "inflación",
         "EE.UU."
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
       "published_at": "2026-11-24T18:34:43Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": []
-    },
-    {
-      "id": "france-recession-risk-2026",
-      "type": "economia",
-      "title": "Francia al borde de la recesión, aunque el Banco Central mantiene cierto optimismo",
-      "summary": "El gobernador del Banco de Francia, Emmanuel Moulin, reconoció el riesgo de recesión pero dijo que todavía espera crecimiento, apoyado en sectores como defensa, aeroespacial y energía.",
-      "detail": "Una recesión en Francia, la segunda economía de la zona euro, tendría impacto en toda Europa y en los mercados globales. Cuando grandes economías se debilitan, los bancos centrales suelen recortar tasas para estimular la actividad, lo que afecta al euro y a los activos europeos. Para alguien que aprende finanzas, este caso muestra cómo ciertos sectores pueden actuar como amortiguadores cuando la economía general flaquea.",
-      "tags": [
-        "Europa",
-        "recesión",
-        "bancos centrales"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-      "published_at": "2026-11-24T11:15:30Z",
       "fecha_evento": "2026-11-24",
       "tickers": []
     },
     {
-      "id": "nvidia-bessent-china-2026",
-      "type": "discurso",
-      "title": "El Secretario del Tesoro de EE.UU. dio marcha atrás en su postura dura contra Nvidia y China",
-      "summary": "Scott Bessent, Secretario del Tesoro de Trump, había empezado a tomar una posición más dura sobre las exportaciones de chips de Nvidia a China, pero luego revirtió su postura, generando confusión sobre la política comercial de EE.UU.",
-      "detail": "Las restricciones a la exportación de chips a China son un tema clave en la guerra tecnológica entre ambas potencias: limitar el acceso de China a semiconductores avanzados busca frenar su desarrollo militar y en inteligencia artificial. Que un funcionario de alto rango cambie de posición en poco tiempo genera incertidumbre en los mercados, porque los inversores no saben qué reglas van a regir el comercio. Este tipo de vaivenes políticos pueden mover fuerte el precio de acciones como Nvidia.",
+      "id": "canada-aranceles-eeuu-2026",
+      "type": "mercado",
+      "title": "Las bolsas canadienses subieron tras quedar fuera de los nuevos aranceles de EE.UU.",
+      "summary": "Las acciones canadienses avanzaron este miércoles después de que Estados Unidos aplicara nuevos aranceles a varios países pero excluyera a Canadá. Declaraciones del representante comercial de EE.UU. sobre las negociaciones bilaterales también ayudaron al optimismo.",
+      "detail": "Los aranceles son impuestos al comercio internacional y cuando un país queda excluido de ellos, sus empresas exportadoras se benefician frente a competidores que sí los pagan. Esto se refleja directamente en los mercados de acciones del país favorecido. Es un ejemplo claro de cómo las decisiones de política comercial de EE.UU. mueven mercados en todo el mundo.",
       "tags": [
-        "geopolítica",
-        "chips",
+        "aranceles",
+        "Canadá",
         "comercio"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/canadian-stocks-advance-us-omits-canada-tariff-imposition",
+      "published_at": "2026-11-25T21:28:11Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": []
+    },
+    {
+      "id": "nvidia-bessent-china-2026",
+      "type": "empresa",
+      "title": "La Casa Blanca da marcha atrás en su postura dura contra Nvidia y China",
+      "summary": "El secretario del Tesoro Scott Bessent estaba convirtiéndose en la cara visible de una línea más dura contra Nvidia y sus vínculos con China, pero luego revirtió esa posición. El giro generó incertidumbre sobre la política comercial de EE.UU. en tecnología.",
+      "detail": "Nvidia es hoy una de las empresas más importantes del mundo por su rol en la inteligencia artificial. Cualquier restricción a sus ventas en China afecta sus ingresos y el precio de su acción, que a su vez pesa mucho en índices como el S&P 500 y el Nasdaq. Los cambios de postura repentinos del gobierno de EE.UU. sobre tecnología y China generan volatilidad, algo clave para entender el riesgo en las inversiones en empresas tech.",
+      "tags": [
+        "Nvidia",
+        "China",
+        "geopolítica"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
@@ -55,181 +89,137 @@
       ]
     },
     {
-      "id": "nvidia-vera-rubin-revenue-2026",
-      "type": "empresa",
-      "title": "Nvidia proyecta que sus nuevos chips Vera Rubin generarán USD 40.000 millones por gigavatio",
-      "summary": "El CEO de Nvidia, Jensen Huang, anunció que la próxima generación de chips Vera Rubin generará un 40% más de ingresos por gigavatio que la plataforma anterior Grace Blackwell, pasando de USD 25.000 a USD 40.000 millones.",
-      "detail": "Esta proyección muestra cómo Nvidia no solo vende más chips, sino que cada generación de tecnología es más rentable que la anterior. Para inversores, esto es una señal de que el potencial de crecimiento de la empresa no se agotó con los chips actuales. Entender el concepto de \"revenue por gigavatio\" ayuda a ver que en la industria de chips para IA, la eficiencia energética es cada vez más importante y se convierte en ventaja competitiva.",
+      "id": "nvidia-stock-rally-reversion-2026",
+      "type": "mercado",
+      "title": "Nvidia devuelve más de la mitad del rebote del lunes y los inversores minoristas pierden ganancias",
+      "summary": "La acción de Nvidia cedió más de la mitad de la suba del lunes, y según Vanda Research los inversores minoristas que compraron en la baja la semana pasada ya casi no tienen ganancias.",
+      "detail": "Este caso ilustra un fenómeno muy común: los inversores minoristas que intentan 'comprar la caída' (buy the dip) muchas veces quedan atrapados si el rebote no se sostiene. La alta concentración de Nvidia en portfolios y en índices amplifica tanto las subas como las bajas. Es un ejemplo práctico de volatilidad y riesgo de concentración en una sola acción.",
       "tags": [
-        "tecnología",
-        "IA",
-        "semiconductores"
+        "Nvidia",
+        "volatilidad",
+        "acciones"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/jensen-huang-says-nvidias-next-gen-vera-rubin-chips-will-generate-40-billion-revenue-1",
-      "published_at": "2026-11-25T11:35:00Z",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c",
+      "published_at": "2026-11-25T21:50:00Z",
       "fecha_evento": "2026-11-25",
       "tickers": [
         "NVDA"
       ]
     },
     {
-      "id": "sp500-correction-history-2026",
-      "type": "mercado",
-      "title": "El S&P 500 entró en territorio de corrección: ¿qué dice la historia sobre lo que sigue?",
-      "summary": "El S&P 500, el Dow Jones y el Nasdaq entraron en corrección la semana pasada, es decir, cayeron más de un 10% desde sus máximos recientes.",
-      "detail": "Una corrección bursátil se define como una caída de al menos 10% desde el pico más reciente. Es un fenómeno normal en los mercados y no necesariamente implica una recesión o una caída mayor. Estudiar qué pasó históricamente después de correcciones anteriores ayuda a los inversores a tomar decisiones más racionales en lugar de reaccionar por pánico, que es una de las trampas más comunes en finanzas personales.",
+      "id": "ventas-casas-nuevas-octubre-2026",
+      "type": "economia",
+      "title": "Las ventas de casas nuevas en EE.UU. alcanzaron su máximo del año en octubre",
+      "summary": "Las ventas de viviendas nuevas en Estados Unidos subieron al nivel más alto de 2026 en octubre, impulsadas por descuentos agresivos y hipotecas subsidiadas que ofrecieron los constructores.",
+      "detail": "El mercado inmobiliario es uno de los sectores más sensibles a las tasas de interés: cuando los bancos centrales suben tasas, las hipotecas se encarecen y las ventas caen. Que los constructores deban ofrecer descuentos para vender muestra la presión que ejercen las tasas altas sobre el sector. Este tipo de dato ayuda a entender cómo la política monetaria impacta en la economía real.",
       "tags": [
-        "bolsa",
-        "corrección",
-        "S&P500"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/sp-500-entered-correction-territory-heres-what-history-says-happens-next",
-      "published_at": "2026-11-25T11:30:02Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": [
-        "SPY",
-        "DIA",
-        "QQQ"
-      ]
-    },
-    {
-      "id": "broadcom-anthropic-ipo-2026",
-      "type": "empresa",
-      "title": "Broadcom invirtió USD 1.000 millones en la OPV de Anthropic y tiene miles de millones más en juego",
-      "summary": "Broadcom participó en la colocación privada de la salida a bolsa de Anthropic, la empresa de inteligencia artificial, comprando acciones al precio de la OPV.",
-      "detail": "Que una empresa grande como Broadcom invierta en la IPO de Anthropic muestra cómo las compañías de hardware de chips apuestan fuerte por el crecimiento de la IA, ya que más demanda de IA significa más demanda de sus propios chips. Las IPOs de empresas de IA son eventos clave en el mercado actual porque marcan el pulso del apetito inversor por el sector. Para alguien que aprende finanzas, este caso ilustra cómo las empresas hacen inversiones estratégicas más allá de su negocio principal.",
-      "tags": [
-        "IA",
-        "IPO",
-        "tecnología"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/broadcom-bought-1-billion-worth-anthropics-ipo-and-it-has-tens-billions-more-riding-its",
-      "published_at": "2026-11-25T11:20:02Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": [
-        "AVGO"
-      ]
-    },
-    {
-      "id": "jpmorgan-sp500-8200-2026",
-      "type": "mercado",
-      "title": "JPMorgan proyecta que el S&P 500 llegará a 8.200 puntos y dice que las correcciones son parte del camino",
-      "summary": "Estrategas de JPMorgan mantienen su objetivo de 8.200 puntos para el S&P 500 y argumentan que las caídas actuales son parte del proceso normal hacia ese nivel, con la adopción de la IA como catalizador clave.",
-      "detail": "Cuando un banco de inversión de la talla de JPMorgan publica sus proyecciones para el mercado, los inversores institucionales lo toman como referencia. El argumento de que el mercado va a subir porque la IA está pasando de la fase de inversión a la fase de adopción masiva es importante: explica por qué las caídas de corto plazo no cambian la tendencia de largo plazo según esta visión. Aprender a distinguir entre el ruido de corto plazo y la tendencia estructural es una habilidad clave en finanzas.",
-      "tags": [
-        "bolsa",
-        "IA",
-        "estrategia"
+        "inmuebles",
+        "EE.UU.",
+        "tasas"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
-      "published_at": "2026-11-25T11:27:00Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": [
-        "SPY"
-      ]
-    },
-    {
-      "id": "dax-pce-data-await-2026",
-      "type": "mercado",
-      "title": "Los mercados europeos esperan el dato de inflación PCE de EE.UU.",
-      "summary": "Las acciones alemanas operaron sin grandes cambios este miércoles mientras los inversores aguardan la publicación del índice de precios PCE de EE.UU., el indicador de inflación favorito de la Reserva Federal.",
-      "detail": "El PCE (Personal Consumption Expenditures) es el indicador de inflación que la Fed mira con más atención para decidir si sube, baja o mantiene las tasas de interés. Cuando este dato está por publicarse, los mercados globales suelen moverse poco a la espera de la señal: si el PCE sube más de lo esperado, la Fed podría mantener tasas altas por más tiempo, lo que presiona a las bolsas. Que los mercados europeos reaccionen ante datos de EE.UU. muestra cuán interconectadas están las finanzas globales.",
-      "tags": [
-        "inflación",
-        "Fed",
-        "Europa"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/dax-roughly-flat-investors-await-us-pce-data",
-      "published_at": "2026-11-25T10:32:27Z",
+      "source_url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62",
+      "published_at": "2026-11-25T19:20:00Z",
       "fecha_evento": "2026-11-25",
       "tickers": []
     },
     {
-      "id": "dell-ai-sales-double-2026",
+      "id": "hp-ganancias-noviembre-2026",
       "type": "empresa",
-      "title": "Las ventas de Dell se más que duplicaron impulsadas por el boom de la inteligencia artificial",
-      "summary": "Las acciones de Dell subieron después de que la empresa reportara que las ventas se más que duplicaron gracias a la fuerte demanda de infraestructura para IA.",
-      "detail": "Dell es un ejemplo de cómo el auge de la IA no beneficia solo a las empresas de software o chips, sino también a las de hardware y servidores que proveen la infraestructura física necesaria. El hecho de que Dell mencione que su cartera de pedidos está \"rigurosamente evaluada\" sugiere que la demanda es real y no especulativa. Para alguien que aprende finanzas, este caso muestra cómo identificar empresas que se benefician indirectamente de una tendencia tecnológica grande.",
+      "title": "HP superó las expectativas de ganancias y su acción sobresalió en medio de la caída tech",
+      "summary": "Las acciones de HP se destacaron como uno de los pocos ganadores en la jornada bajista del sector tecnológico, luego de que la empresa publicara resultados trimestrales que superaron las expectativas del mercado.",
+      "detail": "Cuando el mercado cae en general pero una acción sube, suele ser porque publicó resultados mejores a los esperados. Esto muestra cómo los 'earnings' (resultados corporativos) pueden separar el comportamiento de una empresa del resto del mercado. Para quien aprende a invertir, es un ejemplo de que no todas las acciones se mueven igual ante una misma jornada negativa.",
       "tags": [
-        "tecnología",
-        "IA",
-        "resultados"
+        "HP",
+        "ganancias",
+        "tecnología"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
-      "published_at": "2026-11-25T01:11:00Z",
+      "source_url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad",
+      "published_at": "2026-11-25T21:36:00Z",
       "fecha_evento": "2026-11-25",
       "tickers": [
-        "DELL"
+        "HPQ"
       ]
     },
     {
-      "id": "best-buy-q3-2027-earnings",
-      "type": "empresa",
-      "title": "Best Buy registró su mayor crecimiento de ventas comparables en cinco años",
-      "summary": "Best Buy superó las expectativas del mercado en su tercer trimestre fiscal con un crecimiento de ventas comparables del 6,1% y subió su guía para todo el año.",
-      "detail": "Las ventas comparables (o \"same-store sales\") miden el crecimiento de ventas excluyendo la apertura de nuevas tiendas, por eso son un indicador más preciso de la salud real del negocio. Que Best Buy suba su guía anual significa que la empresa espera que el buen desempeño continúe, lo que suele impulsar el precio de la acción. Este resultado también refleja que el consumidor estadounidense sigue gastando en electrónica, lo cual es una señal de confianza económica general.",
+      "id": "raoul-pal-dolar-cripto-2026",
+      "type": "discurso",
+      "title": "El inversor macro Raoul Pal dice que el dólar es la señal clave para acciones y cripto",
+      "summary": "El CEO de Real Vision, Raoul Pal, explicó cómo los movimientos de liquidez global y del dólar determinan el comportamiento de las acciones y las criptomonedas, y dijo que no espera una recesión en 2027.",
+      "detail": "La tesis de Pal es que cuando hay mucha liquidez en dólares en el sistema financiero global, los activos de riesgo —acciones, cripto— tienden a subir; cuando el dólar se fortalece y la liquidez se retrae, caen. Para alguien en Argentina, esto es especialmente relevante porque tanto el dólar como las criptomonedas son formas habituales de ahorro, y entender qué las mueve ayuda a tomar mejores decisiones.",
       "tags": [
-        "retail",
-        "resultados",
-        "consumo"
+        "dólar",
+        "cripto",
+        "liquidez"
       ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-      "published_at": "2026-11-24T14:51:58Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": [
-        "BBY"
-      ]
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49",
+      "published_at": "2026-11-25T19:16:00Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": []
+    },
+    {
+      "id": "bolsas-eeuu-mixtas-miercoles-2026",
+      "type": "mercado",
+      "title": "Wall Street cerró mixto tras una caída inicial y una fuerte recuperación intradía",
+      "summary": "Las bolsas de EE.UU. abrieron con fuertes bajas el miércoles pero lograron recuperarse parcialmente durante la jornada, cerrando de forma mixta. El Dow Jones estuvo entre los índices que mejor rebotaron desde sus mínimos del día.",
+      "detail": "Las sesiones con caídas fuertes al inicio y recuperación posterior muestran la volatilidad actual de los mercados, en parte explicada por los datos de inflación y la incertidumbre sobre las tasas. Para un inversor en formación, estas jornadas ilustran por qué las decisiones tomadas en el momento de mayor pánico rara vez son las mejores.",
+      "tags": [
+        "Wall Street",
+        "volatilidad",
+        "mercados"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/us-stocks-close-mixed-following-early-sell",
+      "published_at": "2026-11-25T21:14:37Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": []
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.615",
-      "valor_num": 1615.0,
-      "delta_pct": 0.94
+      "valor": "$1.630",
+      "valor_num": 1630.0,
+      "delta_pct": 1.88
     },
     {
       "label": "DÓLAR BLUE",
-      "valor": "$1.700",
-      "valor_num": 1700.0,
-      "delta_pct": 1.49
+      "valor": "$1.710",
+      "valor_num": 1710.0,
+      "delta_pct": 2.09
     },
     {
       "label": "MEP",
-      "valor": "$1.695",
-      "valor_num": 1695.1,
-      "delta_pct": -2.75
+      "valor": "$1.689",
+      "valor_num": 1688.7,
+      "delta_pct": -3.12
     },
     {
       "label": "CCL",
-      "valor": "$1.797",
-      "valor_num": 1797.1,
-      "delta_pct": -0.5
+      "valor": "$1.768",
+      "valor_num": 1767.9,
+      "delta_pct": -2.12
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 58.690",
-      "valor_num": 58690.0,
-      "delta_pct": -2.79
+      "valor": "US$ 60.228",
+      "valor_num": 60228.0,
+      "delta_pct": 0.66
     },
     {
       "label": "S&P 500",
-      "valor": "7.201",
-      "valor_num": 7201.09,
-      "delta_pct": -1.9
+      "valor": "7.183",
+      "valor_num": 7182.78,
+      "delta_pct": -1.92
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.544",
-      "valor_num": 3544.4,
-      "delta_pct": 0.82
+      "valor": "US$ 3.609",
+      "valor_num": 3608.6,
+      "delta_pct": 2.65
     }
   ]
 }
