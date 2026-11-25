@@ -1,69 +1,50 @@
 {
-  "generated_at": "2026-11-24T22:01:10.029265+00:00",
+  "generated_at": "2026-11-25T12:01:21.917663+00:00",
   "items": [
     {
-      "id": "nvidia-caida-post-rally",
-      "type": "mercado",
-      "title": "Nvidia cayó casi 6% un día después de su mayor suba en dos décadas",
-      "summary": "Luego de dispararse un 31,48% el lunes —su mayor suba en más de 20 años—, Nvidia retrocedió un 5,86% el martes y borró unos 240.000 millones de dólares de capitalización. La acción cerró en 155,38 dólares, aunque un banco de inversión la actualizó con un potencial alcista del 29%.",
-      "detail": "Este movimiento ilustra un fenómeno clásico en mercados: las subas explosivas suelen ir seguidas de toma de ganancias. Inversores que compraron antes del rally aprovechan el precio alto para vender y asegurar beneficios. Además, la vuelta de Jensen Huang como CEO no resuelve los problemas regulatorios ni la investigación sobre su relación con un ex ejecutivo de Megaspeed, lo que genera incertidumbre. Para quien aprende finanzas, es un buen ejemplo de cómo la volatilidad extrema en un solo activo puede mover miles de millones en valor de mercado en horas.",
-      "tags": [
-        "semiconductores",
-        "volatilidad",
-        "tecnología"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/stock-market-today-nov-24-nvidia-gives-back-240-billion-market-value-despite-wall-street",
-      "published_at": "2026-11-24T21:49:49Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "anthropic-ipo-bajo-precio",
-      "type": "empresa",
-      "title": "La acción de Anthropic cayó por debajo de su precio de IPO menos de una semana después de debutar",
-      "summary": "Anthropic, la empresa detrás del chatbot Claude, salió a bolsa a 83 dólares por acción y cerró su primer día de cotización un 17% arriba. Sin embargo, en menos de una semana la acción ya opera por debajo del precio de salida.",
-      "detail": "Que una acción caiga por debajo de su precio de IPO tan rápido es una señal de que el mercado recalibró el entusiasmo inicial. Las IPOs suelen generar mucho ruido y demanda especulativa el primer día, pero si los fundamentals no justifican la valuación, el precio cede. Para alguien que aprende finanzas, esto muestra que comprar en una IPO no garantiza ganancias y que el precio de debut no siempre refleja el valor real de largo plazo.",
-      "tags": [
-        "IPO",
-        "inteligencia artificial",
-        "valuación"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-      "published_at": "2026-11-24T21:46:00Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": []
-    },
-    {
-      "id": "confianza-consumidor-eeuu-noviembre",
+      "id": "consumer-confidence-nov-2026",
       "type": "economia",
-      "title": "La confianza del consumidor en EE.UU. subió con fuerza tras las elecciones de medio término",
-      "summary": "La encuesta del Conference Board publicada este martes mostró una mejora generalizada, con el índice de confianza saltando a 103,3. El resultado viene impulsado por las victorias demócratas en las elecciones de medio término, aunque persisten las preocupaciones por la inflación.",
-      "detail": "El índice de confianza del consumidor es uno de los indicadores adelantados más seguidos porque anticipa cómo van a gastar las familias en los próximos meses. Cuando sube, sugiere que la gente está dispuesta a consumir más, lo que suele impulsar la actividad económica. El dato es relevante porque el contexto político puede afectar las expectativas económicas, y eso se traduce en decisiones concretas de gasto e inversión.",
+      "title": "La confianza del consumidor en EE.UU. subió tras las elecciones de medio término",
+      "summary": "Una encuesta del Conference Board mostró que la confianza del consumidor estadounidense saltó a 103,3 en noviembre, impulsada por los resultados electorales, aunque persisten las preocupaciones por la inflación.",
+      "detail": "El índice de confianza del consumidor es un termómetro clave de la economía: cuando la gente se siente segura sobre su situación económica, tiende a gastar más, lo que impulsa el crecimiento. Que suba después de las elecciones de medio término muestra cómo los resultados políticos pueden afectar directamente las expectativas económicas. Sin embargo, que la inflación siga siendo una preocupación indica que el optimismo tiene límites y que la Fed podría mantener su postura cautelosa.",
       "tags": [
         "consumo",
-        "confianza",
+        "inflación",
         "EE.UU."
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
       "published_at": "2026-11-24T18:34:43Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": []
+    },
+    {
+      "id": "france-recession-risk-2026",
+      "type": "economia",
+      "title": "Francia al borde de la recesión, aunque el Banco Central mantiene cierto optimismo",
+      "summary": "El gobernador del Banco de Francia, Emmanuel Moulin, reconoció el riesgo de recesión pero dijo que todavía espera crecimiento, apoyado en sectores como defensa, aeroespacial y energía.",
+      "detail": "Una recesión en Francia, la segunda economía de la zona euro, tendría impacto en toda Europa y en los mercados globales. Cuando grandes economías se debilitan, los bancos centrales suelen recortar tasas para estimular la actividad, lo que afecta al euro y a los activos europeos. Para alguien que aprende finanzas, este caso muestra cómo ciertos sectores pueden actuar como amortiguadores cuando la economía general flaquea.",
+      "tags": [
+        "Europa",
+        "recesión",
+        "bancos centrales"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+      "published_at": "2026-11-24T11:15:30Z",
       "fecha_evento": "2026-11-24",
       "tickers": []
     },
     {
-      "id": "nvidia-trump-bessent-china",
+      "id": "nvidia-bessent-china-2026",
       "type": "discurso",
-      "title": "El giro de Bessent sobre Nvidia revela la ambigüedad de Trump frente a China",
-      "summary": "El secretario del Tesoro Scott Bessent estaba convirtiéndose en la cara visible de una postura más dura hacia Nvidia en el contexto de las tensiones con China, pero luego dio marcha atrás. El episodio muestra las contradicciones internas de la administración Trump en su política tecnológica y comercial.",
-      "detail": "Las restricciones de exportación de chips a China son una herramienta clave en la guerra tecnológica entre EE.UU. y China. Cuando un funcionario de alto rango endurece o suaviza su postura, el mercado reacciona porque afecta directamente los ingresos de empresas como Nvidia. Este tipo de señales desde el gobierno influyen en las decisiones de inversión, ya que la incertidumbre regulatoria es un riesgo concreto para los accionistas.",
+      "title": "El Secretario del Tesoro de EE.UU. dio marcha atrás en su postura dura contra Nvidia y China",
+      "summary": "Scott Bessent, Secretario del Tesoro de Trump, había empezado a tomar una posición más dura sobre las exportaciones de chips de Nvidia a China, pero luego revirtió su postura, generando confusión sobre la política comercial de EE.UU.",
+      "detail": "Las restricciones a la exportación de chips a China son un tema clave en la guerra tecnológica entre ambas potencias: limitar el acceso de China a semiconductores avanzados busca frenar su desarrollo militar y en inteligencia artificial. Que un funcionario de alto rango cambie de posición en poco tiempo genera incertidumbre en los mercados, porque los inversores no saben qué reglas van a regir el comercio. Este tipo de vaivenes políticos pueden mover fuerte el precio de acciones como Nvidia.",
       "tags": [
         "geopolítica",
         "chips",
-        "política comercial"
+        "comercio"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
@@ -74,11 +55,125 @@
       ]
     },
     {
-      "id": "best-buy-resultados-q3",
+      "id": "nvidia-vera-rubin-revenue-2026",
+      "type": "empresa",
+      "title": "Nvidia proyecta que sus nuevos chips Vera Rubin generarán USD 40.000 millones por gigavatio",
+      "summary": "El CEO de Nvidia, Jensen Huang, anunció que la próxima generación de chips Vera Rubin generará un 40% más de ingresos por gigavatio que la plataforma anterior Grace Blackwell, pasando de USD 25.000 a USD 40.000 millones.",
+      "detail": "Esta proyección muestra cómo Nvidia no solo vende más chips, sino que cada generación de tecnología es más rentable que la anterior. Para inversores, esto es una señal de que el potencial de crecimiento de la empresa no se agotó con los chips actuales. Entender el concepto de \"revenue por gigavatio\" ayuda a ver que en la industria de chips para IA, la eficiencia energética es cada vez más importante y se convierte en ventaja competitiva.",
+      "tags": [
+        "tecnología",
+        "IA",
+        "semiconductores"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/jensen-huang-says-nvidias-next-gen-vera-rubin-chips-will-generate-40-billion-revenue-1",
+      "published_at": "2026-11-25T11:35:00Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "sp500-correction-history-2026",
+      "type": "mercado",
+      "title": "El S&P 500 entró en territorio de corrección: ¿qué dice la historia sobre lo que sigue?",
+      "summary": "El S&P 500, el Dow Jones y el Nasdaq entraron en corrección la semana pasada, es decir, cayeron más de un 10% desde sus máximos recientes.",
+      "detail": "Una corrección bursátil se define como una caída de al menos 10% desde el pico más reciente. Es un fenómeno normal en los mercados y no necesariamente implica una recesión o una caída mayor. Estudiar qué pasó históricamente después de correcciones anteriores ayuda a los inversores a tomar decisiones más racionales en lugar de reaccionar por pánico, que es una de las trampas más comunes en finanzas personales.",
+      "tags": [
+        "bolsa",
+        "corrección",
+        "S&P500"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/sp-500-entered-correction-territory-heres-what-history-says-happens-next",
+      "published_at": "2026-11-25T11:30:02Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": [
+        "SPY",
+        "DIA",
+        "QQQ"
+      ]
+    },
+    {
+      "id": "broadcom-anthropic-ipo-2026",
+      "type": "empresa",
+      "title": "Broadcom invirtió USD 1.000 millones en la OPV de Anthropic y tiene miles de millones más en juego",
+      "summary": "Broadcom participó en la colocación privada de la salida a bolsa de Anthropic, la empresa de inteligencia artificial, comprando acciones al precio de la OPV.",
+      "detail": "Que una empresa grande como Broadcom invierta en la IPO de Anthropic muestra cómo las compañías de hardware de chips apuestan fuerte por el crecimiento de la IA, ya que más demanda de IA significa más demanda de sus propios chips. Las IPOs de empresas de IA son eventos clave en el mercado actual porque marcan el pulso del apetito inversor por el sector. Para alguien que aprende finanzas, este caso ilustra cómo las empresas hacen inversiones estratégicas más allá de su negocio principal.",
+      "tags": [
+        "IA",
+        "IPO",
+        "tecnología"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/broadcom-bought-1-billion-worth-anthropics-ipo-and-it-has-tens-billions-more-riding-its",
+      "published_at": "2026-11-25T11:20:02Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": [
+        "AVGO"
+      ]
+    },
+    {
+      "id": "jpmorgan-sp500-8200-2026",
+      "type": "mercado",
+      "title": "JPMorgan proyecta que el S&P 500 llegará a 8.200 puntos y dice que las correcciones son parte del camino",
+      "summary": "Estrategas de JPMorgan mantienen su objetivo de 8.200 puntos para el S&P 500 y argumentan que las caídas actuales son parte del proceso normal hacia ese nivel, con la adopción de la IA como catalizador clave.",
+      "detail": "Cuando un banco de inversión de la talla de JPMorgan publica sus proyecciones para el mercado, los inversores institucionales lo toman como referencia. El argumento de que el mercado va a subir porque la IA está pasando de la fase de inversión a la fase de adopción masiva es importante: explica por qué las caídas de corto plazo no cambian la tendencia de largo plazo según esta visión. Aprender a distinguir entre el ruido de corto plazo y la tendencia estructural es una habilidad clave en finanzas.",
+      "tags": [
+        "bolsa",
+        "IA",
+        "estrategia"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-s-p-500-is-headed-to-8-200-and-downturns-like-this-one-are-actually-part-of-the-reason-why-says-jpmorgan-b6acae4b?mod=mw_rss_topstories",
+      "published_at": "2026-11-25T11:27:00Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": [
+        "SPY"
+      ]
+    },
+    {
+      "id": "dax-pce-data-await-2026",
+      "type": "mercado",
+      "title": "Los mercados europeos esperan el dato de inflación PCE de EE.UU.",
+      "summary": "Las acciones alemanas operaron sin grandes cambios este miércoles mientras los inversores aguardan la publicación del índice de precios PCE de EE.UU., el indicador de inflación favorito de la Reserva Federal.",
+      "detail": "El PCE (Personal Consumption Expenditures) es el indicador de inflación que la Fed mira con más atención para decidir si sube, baja o mantiene las tasas de interés. Cuando este dato está por publicarse, los mercados globales suelen moverse poco a la espera de la señal: si el PCE sube más de lo esperado, la Fed podría mantener tasas altas por más tiempo, lo que presiona a las bolsas. Que los mercados europeos reaccionen ante datos de EE.UU. muestra cuán interconectadas están las finanzas globales.",
+      "tags": [
+        "inflación",
+        "Fed",
+        "Europa"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/dax-roughly-flat-investors-await-us-pce-data",
+      "published_at": "2026-11-25T10:32:27Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": []
+    },
+    {
+      "id": "dell-ai-sales-double-2026",
+      "type": "empresa",
+      "title": "Las ventas de Dell se más que duplicaron impulsadas por el boom de la inteligencia artificial",
+      "summary": "Las acciones de Dell subieron después de que la empresa reportara que las ventas se más que duplicaron gracias a la fuerte demanda de infraestructura para IA.",
+      "detail": "Dell es un ejemplo de cómo el auge de la IA no beneficia solo a las empresas de software o chips, sino también a las de hardware y servidores que proveen la infraestructura física necesaria. El hecho de que Dell mencione que su cartera de pedidos está \"rigurosamente evaluada\" sugiere que la demanda es real y no especulativa. Para alguien que aprende finanzas, este caso muestra cómo identificar empresas que se benefician indirectamente de una tendencia tecnológica grande.",
+      "tags": [
+        "tecnología",
+        "IA",
+        "resultados"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+      "published_at": "2026-11-25T01:11:00Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": [
+        "DELL"
+      ]
+    },
+    {
+      "id": "best-buy-q3-2027-earnings",
       "type": "empresa",
       "title": "Best Buy registró su mayor crecimiento de ventas comparables en cinco años",
-      "summary": "Best Buy reportó un crecimiento de ventas comparables del 6,1% en su tercer trimestre fiscal y superó las expectativas del mercado. Además, la compañía elevó su guía para todo el año.",
-      "detail": "Las ventas comparables (same-store sales) miden el crecimiento de locales que ya existían, sin contar tiendas nuevas, y son el indicador más limpio de la salud del negocio minorista. Que Best Buy haya subido esa métrica un 6,1% —el mayor número en cinco años— y además haya subido su guía anual indica que el consumidor de electrónica sigue activo a pesar de la inflación. Elevar la guía es una señal positiva porque implica que la empresa misma espera seguir ganando.",
+      "summary": "Best Buy superó las expectativas del mercado en su tercer trimestre fiscal con un crecimiento de ventas comparables del 6,1% y subió su guía para todo el año.",
+      "detail": "Las ventas comparables (o \"same-store sales\") miden el crecimiento de ventas excluyendo la apertura de nuevas tiendas, por eso son un indicador más preciso de la salud real del negocio. Que Best Buy suba su guía anual significa que la empresa espera que el buen desempeño continúe, lo que suele impulsar el precio de la acción. Este resultado también refleja que el consumidor estadounidense sigue gastando en electrónica, lo cual es una señal de confianza económica general.",
       "tags": [
         "retail",
         "resultados",
@@ -91,78 +186,6 @@
       "tickers": [
         "BBY"
       ]
-    },
-    {
-      "id": "micron-riesgo-sobreoferta",
-      "type": "mercado",
-      "title": "La acción de Micron cae tras una advertencia sobre exceso de oferta en chips de memoria",
-      "summary": "Un analista de BNP Paribas advirtió que el riesgo de un escenario de sobreoferta en chips de memoria está creciendo, lo que podría afectar el poder de fijación de precios de Micron. La acción cayó ante el aviso.",
-      "detail": "La industria de los semiconductores es cíclica: cuando la demanda supera a la oferta, los precios suben y las empresas ganan bien; cuando hay exceso de oferta, los precios caen y los márgenes se comprimen. Una advertencia de un analista sobre sobreoferta futura hace que los inversores vendan anticipando menores ganancias. Este tipo de análisis adelantado mueve los precios hoy, antes de que el problema se materialice.",
-      "tags": [
-        "semiconductores",
-        "análisis",
-        "chips"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
-      "published_at": "2026-11-24T21:22:00Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": [
-        "MU"
-      ]
-    },
-    {
-      "id": "workday-resultados-q3",
-      "type": "empresa",
-      "title": "Workday reportó menores ganancias en el tercer trimestre pero mejoró su perspectiva de ingresos",
-      "summary": "Workday publicó resultados del tercer trimestre con una caída en su ganancia neta, aunque los ingresos y las ganancias ajustadas crecieron. La empresa además elevó su proyección de ingresos por suscripciones para todo el año fiscal 2027.",
-      "detail": "En empresas de software como Workday, los ingresos por suscripciones son el indicador más importante porque son recurrentes y predecibles. Que la compañía haya subido su guía de suscripciones señala confianza en su capacidad de retener y sumar clientes. La diferencia entre ganancia neta y ganancia ajustada es clave: la ajustada excluye costos como compensaciones en acciones, y es la métrica que más mira el mercado para estas empresas.",
-      "tags": [
-        "software",
-        "resultados",
-        "suscripciones"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/workday-q3-profit-edges-lower-raises-fy27-subscription-revenue-outlook",
-      "published_at": "2026-11-24T21:41:25Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": [
-        "WDAY"
-      ]
-    },
-    {
-      "id": "francia-riesgo-recesion",
-      "type": "economia",
-      "title": "Francia enfrenta riesgo de recesión pero su banco central todavía espera crecimiento",
-      "summary": "El gobernador del Banco de Francia, Emmanuel Moulin, dijo a CNBC que aún espera crecimiento, apoyándose en la resiliencia de sectores como defensa, aeroespacial y electricidad. Sin embargo, los indicadores PMI muestran señales de debilidad.",
-      "detail": "Los PMIs (Índices de Gerentes de Compras) son encuestas mensuales a empresas que anticipan si la actividad económica está expandiéndose o contrayéndose. Cuando están por debajo de 50, indican contracción. El hecho de que el banco central salga a defender las perspectivas de crecimiento en público sugiere que hay presión real sobre la economía francesa. Para los mercados globales, una recesión en Francia —la segunda economía de la eurozona— tendría impacto en el euro y en las decisiones del BCE.",
-      "tags": [
-        "Europa",
-        "recesión",
-        "PMI"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-      "published_at": "2026-11-24T11:15:30Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": []
-    },
-    {
-      "id": "wall-street-mixto-martes",
-      "type": "mercado",
-      "title": "Wall Street cerró mixto el martes tras el fuerte rebote del lunes",
-      "summary": "Los mercados estadounidenses devolvieron parte de las ganancias del lunes, aunque siguen significativamente abajo en el mes después de la brutal caída de la semana pasada. El cierre del martes fue dispar entre los principales índices.",
-      "detail": "Un rebote seguido de una corrección parcial es un patrón típico en mercados volátiles: los inversores que se perdieron la baja venden en el primer rebote para reducir pérdidas o asegurar ganancias rápidas. Que los mercados sigan abajo en el mes indica que la tendencia de fondo todavía no cambió, y que el rebote del lunes puede haber sido técnico más que un cambio de sentimiento. Seguir este tipo de movimientos ayuda a entender cómo funciona la psicología del mercado.",
-      "tags": [
-        "bolsa",
-        "volatilidad",
-        "Wall Street"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/wall-street-finished-mixed-tuesday",
-      "published_at": "2026-11-24T21:39:33Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": []
     }
   ],
   "ticker": [
@@ -192,9 +215,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 59.832",
-      "valor_num": 59832.0,
-      "delta_pct": -2.34
+      "valor": "US$ 58.690",
+      "valor_num": 58690.0,
+      "delta_pct": -2.79
     },
     {
       "label": "S&P 500",
@@ -204,9 +227,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.552",
-      "valor_num": 3552.5,
-      "delta_pct": -3.61
+      "valor": "US$ 3.544",
+      "valor_num": 3544.4,
+      "delta_pct": 0.82
     }
   ]
 }
