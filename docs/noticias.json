@@ -1,16 +1,33 @@
 {
-  "generated_at": "2026-11-25T22:01:19.254708+00:00",
+  "generated_at": "2026-11-26T12:01:10.679343+00:00",
   "items": [
     {
-      "id": "pce-inflacion-octubre-2026",
+      "id": "us-tariffs-14-partners",
+      "type": "mercado",
+      "title": "EE.UU. amenaza con nuevas tarifas a 14 socios comerciales",
+      "summary": "El gobierno de Trump anunció una nueva ronda de aranceles contra 14 socios comerciales, aunque ofrece tasas más bajas a los países que cierren acuerdos comerciales con Washington.",
+      "detail": "Las amenazas arancelarias son una herramienta de presión diplomática y económica: al encarecer las importaciones, EE.UU. busca que otros países negocien condiciones más favorables. Para los mercados globales, más aranceles significan potencial inflación importada, disrupciones en cadenas de suministro y mayor volatilidad. Para alguien aprendiendo finanzas, este tipo de noticias explica por qué los mercados de acciones y divisas reaccionan ante decisiones políticas, no solo ante datos económicos puros.",
+      "tags": [
+        "aranceles",
+        "comercio global",
+        "Trump"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "published_at": "2026-11-26T11:44:19Z",
+      "fecha_evento": "2026-11-26",
+      "tickers": []
+    },
+    {
+      "id": "pce-inflation-octubre-2026",
       "type": "economia",
-      "title": "La inflación en EE.UU. se aceleró al 3,8% en octubre",
-      "summary": "El índice de precios PCE —el favorito de la Fed para medir la inflación— llegó al 3,8% anual en octubre, según el consenso de Dow Jones. El dato confirma que la inflación sigue sin ceder en Estados Unidos.",
-      "detail": "El PCE es el termómetro que usa la Reserva Federal para decidir si sube, baja o mantiene las tasas de interés. Cuando la inflación se acelera, la Fed tiene menos margen para bajar tasas, lo que encarece el crédito en todo el mundo y suele fortalecer al dólar. Para Argentina, esto importa porque un dólar más fuerte y tasas altas en EE.UU. presionan a las economías emergentes y encarecen su financiamiento.",
+      "title": "El indicador de inflación preferido de la Fed llegó al 3,8% en octubre",
+      "summary": "El índice de precios PCE, que es la medida de inflación que más mira la Reserva Federal de EE.UU., se aceleró hasta el 3,8% anual en octubre de 2026, según el consenso de Dow Jones.",
+      "detail": "El PCE (Personal Consumption Expenditures) es el termómetro de inflación que usa la Fed para decidir si sube o baja las tasas de interés. Cuando este índice sube, la Fed tiene más razones para mantener o incrementar las tasas, lo que encarece el crédito en todo el mundo. Para Argentina y mercados emergentes, tasas altas en EE.UU. suelen fortalecer el dólar y presionar las monedas locales, además de encarecer la deuda externa.",
       "tags": [
         "inflación",
         "Fed",
-        "PCE"
+        "tasas de interés"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
@@ -19,32 +36,32 @@
       "tickers": []
     },
     {
-      "id": "fed-diciembre-tasas-2026",
-      "type": "reunion",
-      "title": "La Fed reconoce que la inflación no mejoró y se acerca una decisión clave en diciembre",
-      "summary": "La Reserva Federal advirtió que la inflación sigue siendo un problema en medio de una economía que crece, justo antes de su votación de diciembre sobre si subir las tasas de interés.",
-      "detail": "Cuando la Fed habla de una votación 'pivotal' para subir tasas, los mercados ajustan sus expectativas rápidamente: sube el rendimiento de los bonos del Tesoro, se fortalece el dólar y bajan los activos de riesgo. Este tipo de señales son importantes para entender cómo las decisiones de un banco central afectan a todos los mercados globales, incluyendo los activos argentinos dolarizados.",
+      "id": "warsh-greenspan-fed-ai",
+      "type": "discurso",
+      "title": "El debate sobre si la IA puede justificar no subir las tasas, como hizo Greenspan con internet",
+      "summary": "Un análisis de CNBC compara la situación de Kevin Warsh al frente de la Fed con la de Alan Greenspan en los 90: ¿puede apostar a que la IA aumentará la productividad y así contener la inflación sin necesidad de subir tasas?",
+      "detail": "En los 90, Greenspan no subió tasas pese a la inflación porque creyó que el boom de internet elevaría la productividad y compensaría los precios. Hoy se debate si la inteligencia artificial puede cumplir ese mismo rol. Para quien aprende finanzas, esto muestra que las decisiones de política monetaria no son solo matemáticas: dependen de cómo el banco central interpreta los cambios estructurales de la economía. La dirección que tome la Fed impacta directamente en el costo del dinero a nivel global.",
       "tags": [
         "Fed",
-        "tasas",
-        "política monetaria"
+        "tasas de interés",
+        "inteligencia artificial"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-fed-says-inflation-hasnt-gotten-any-better-ahead-of-its-key-december-vote-to-raise-rates-65024d33",
-      "published_at": "2026-11-25T19:39:00Z",
-      "fecha_evento": "2026-12-01",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+      "published_at": "2026-11-25T21:56:43Z",
+      "fecha_evento": "2026-11-25",
       "tickers": []
     },
     {
-      "id": "confianza-consumidor-noviembre-2026",
+      "id": "consumer-confidence-noviembre-midterm",
       "type": "economia",
       "title": "La confianza del consumidor en EE.UU. subió tras las elecciones de medio término",
-      "summary": "El índice de confianza del consumidor de The Conference Board saltó a 103,3 en noviembre, impulsado por los resultados de las elecciones de medio término que favorecieron a los demócratas, aunque la preocupación por la inflación persiste.",
-      "detail": "La confianza del consumidor es un indicador adelantado: cuando la gente se siente más segura económicamente, tiende a gastar más, lo que puede impulsar el crecimiento. Sin embargo, que conviva con alta inflación muestra que el optimismo político y el contexto económico real no siempre van de la mano. Para quien aprende finanzas, es un buen ejemplo de cómo los datos de sentimiento pueden moverse por razones distintas a los fundamentos económicos.",
+      "summary": "El índice de confianza del consumidor elaborado por el Conference Board saltó a 103,3 en noviembre, impulsado por el resultado de las elecciones de medio término, aunque la preocupación por la inflación sigue presente.",
+      "detail": "La confianza del consumidor mide cuánto optimismo tienen las personas sobre la economía y su propio bolsillo, lo que influye directamente en cuánto gastan. Cuando la confianza sube, suele haber más consumo y eso puede sostener el crecimiento económico. Para un inversor o estudiante de finanzas, este indicador es una señal anticipada de cómo puede evolucionar la economía real en los próximos meses.",
       "tags": [
-        "confianza",
-        "consumo",
-        "EE.UU."
+        "confianza consumidor",
+        "economía EE.UU.",
+        "elecciones"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
@@ -53,28 +70,30 @@
       "tickers": []
     },
     {
-      "id": "canada-aranceles-eeuu-2026",
+      "id": "deutsche-bank-sp500-rally-2027",
       "type": "mercado",
-      "title": "Las bolsas canadienses subieron tras quedar fuera de los nuevos aranceles de EE.UU.",
-      "summary": "Las acciones canadienses avanzaron este miércoles después de que Estados Unidos aplicara nuevos aranceles a varios países pero excluyera a Canadá. Declaraciones del representante comercial de EE.UU. sobre las negociaciones bilaterales también ayudaron al optimismo.",
-      "detail": "Los aranceles son impuestos al comercio internacional y cuando un país queda excluido de ellos, sus empresas exportadoras se benefician frente a competidores que sí los pagan. Esto se refleja directamente en los mercados de acciones del país favorecido. Es un ejemplo claro de cómo las decisiones de política comercial de EE.UU. mueven mercados en todo el mundo.",
+      "title": "Deutsche Bank prevé una recuperación del 25% en el S&P 500 hacia fines de 2027",
+      "summary": "El banco alemán Deutsche Bank proyecta que el índice S&P 500 llegará a 9.000 puntos a fin de 2027, con una suba de alrededor del 25%, a medida que el foco del mercado pase del gasto en infraestructura de IA a la monetización real de esa tecnología.",
+      "detail": "Cuando grandes bancos de inversión publican objetivos de precio para índices bursátiles, están comunicando sus expectativas sobre el estado de la economía y las ganancias corporativas. El argumento de Deutsche Bank es que el mercado tech ya castigó el exceso de gasto en IA y que la próxima fase —cobrar por esos servicios— será más rentable. Para quienes aprenden a invertir, esto ilustra cómo los ciclos de inversión en tecnología siguen una lógica: primero se gasta, luego se monetiza.",
       "tags": [
-        "aranceles",
-        "Canadá",
-        "comercio"
+        "S&P 500",
+        "mercado tech",
+        "inteligencia artificial"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/canadian-stocks-advance-us-omits-canada-tariff-imposition",
-      "published_at": "2026-11-25T21:28:11Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": []
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+      "published_at": "2026-11-26T10:11:00Z",
+      "fecha_evento": "2026-11-26",
+      "tickers": [
+        "SPX"
+      ]
     },
     {
-      "id": "nvidia-bessent-china-2026",
+      "id": "nvidia-jensen-huang-bessent-china",
       "type": "empresa",
-      "title": "La Casa Blanca da marcha atrás en su postura dura contra Nvidia y China",
-      "summary": "El secretario del Tesoro Scott Bessent estaba convirtiéndose en la cara visible de una línea más dura contra Nvidia y sus vínculos con China, pero luego revirtió esa posición. El giro generó incertidumbre sobre la política comercial de EE.UU. en tecnología.",
-      "detail": "Nvidia es hoy una de las empresas más importantes del mundo por su rol en la inteligencia artificial. Cualquier restricción a sus ventas en China afecta sus ingresos y el precio de su acción, que a su vez pesa mucho en índices como el S&P 500 y el Nasdaq. Los cambios de postura repentinos del gobierno de EE.UU. sobre tecnología y China generan volatilidad, algo clave para entender el riesgo en las inversiones en empresas tech.",
+      "title": "Bessent dio marcha atrás en su postura dura contra Nvidia y China",
+      "summary": "El secretario del Tesoro de EE.UU., Scott Bessent, había empezado a tomar una posición más restrictiva respecto a Nvidia y sus ventas a China, pero luego revirtió ese curso.",
+      "detail": "Las restricciones de exportación de chips a China son un frente clave de la guerra tecnológica entre EE.UU. y ese país. Nvidia depende en parte del mercado chino, y cualquier señal desde Washington sobre endurecer o aflojar esas restricciones mueve el precio de la acción. Este episodio muestra cómo las decisiones políticas y los cambios de postura dentro del gobierno pueden generar alta volatilidad en empresas tecnológicas, algo importante para entender el riesgo en este tipo de inversiones.",
       "tags": [
         "Nvidia",
         "China",
@@ -89,93 +108,43 @@
       ]
     },
     {
-      "id": "nvidia-stock-rally-reversion-2026",
-      "type": "mercado",
-      "title": "Nvidia devuelve más de la mitad del rebote del lunes y los inversores minoristas pierden ganancias",
-      "summary": "La acción de Nvidia cedió más de la mitad de la suba del lunes, y según Vanda Research los inversores minoristas que compraron en la baja la semana pasada ya casi no tienen ganancias.",
-      "detail": "Este caso ilustra un fenómeno muy común: los inversores minoristas que intentan 'comprar la caída' (buy the dip) muchas veces quedan atrapados si el rebote no se sostiene. La alta concentración de Nvidia en portfolios y en índices amplifica tanto las subas como las bajas. Es un ejemplo práctico de volatilidad y riesgo de concentración en una sola acción.",
-      "tags": [
-        "Nvidia",
-        "volatilidad",
-        "acciones"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c",
-      "published_at": "2026-11-25T21:50:00Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "ventas-casas-nuevas-octubre-2026",
-      "type": "economia",
-      "title": "Las ventas de casas nuevas en EE.UU. alcanzaron su máximo del año en octubre",
-      "summary": "Las ventas de viviendas nuevas en Estados Unidos subieron al nivel más alto de 2026 en octubre, impulsadas por descuentos agresivos y hipotecas subsidiadas que ofrecieron los constructores.",
-      "detail": "El mercado inmobiliario es uno de los sectores más sensibles a las tasas de interés: cuando los bancos centrales suben tasas, las hipotecas se encarecen y las ventas caen. Que los constructores deban ofrecer descuentos para vender muestra la presión que ejercen las tasas altas sobre el sector. Este tipo de dato ayuda a entender cómo la política monetaria impacta en la economía real.",
-      "tags": [
-        "inmuebles",
-        "EE.UU.",
-        "tasas"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62",
-      "published_at": "2026-11-25T19:20:00Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": []
-    },
-    {
-      "id": "hp-ganancias-noviembre-2026",
+      "id": "amazon-strike-black-friday-alemania",
       "type": "empresa",
-      "title": "HP superó las expectativas de ganancias y su acción sobresalió en medio de la caída tech",
-      "summary": "Las acciones de HP se destacaron como uno de los pocos ganadores en la jornada bajista del sector tecnológico, luego de que la empresa publicara resultados trimestrales que superaron las expectativas del mercado.",
-      "detail": "Cuando el mercado cae en general pero una acción sube, suele ser porque publicó resultados mejores a los esperados. Esto muestra cómo los 'earnings' (resultados corporativos) pueden separar el comportamiento de una empresa del resto del mercado. Para quien aprende a invertir, es un ejemplo de que no todas las acciones se mueven igual ante una misma jornada negativa.",
+      "title": "El sindicato alemán ver.di llamó a una huelga en Amazon durante el Black Friday",
+      "summary": "El sindicato ver.di convocó a empleados de 11 depósitos de Amazon en Alemania a hacer huelga durante el Black Friday, en reclamo de convenios colectivos legalmente vinculantes.",
+      "detail": "El Black Friday es uno de los días de mayor volumen de ventas para Amazon en Europa, por lo que una huelga en sus centros logísticos puede afectar directamente los ingresos y la reputación operativa de la empresa. Para quien estudia finanzas, este tipo de eventos muestra cómo los conflictos laborales son un riesgo operativo real que puede impactar en los resultados de una compañía. También ilustra cómo el contexto regulatorio y sindical de cada país afecta a las empresas globales.",
       "tags": [
-        "HP",
-        "ganancias",
-        "tecnología"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad",
-      "published_at": "2026-11-25T21:36:00Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": [
-        "HPQ"
-      ]
-    },
-    {
-      "id": "raoul-pal-dolar-cripto-2026",
-      "type": "discurso",
-      "title": "El inversor macro Raoul Pal dice que el dólar es la señal clave para acciones y cripto",
-      "summary": "El CEO de Real Vision, Raoul Pal, explicó cómo los movimientos de liquidez global y del dólar determinan el comportamiento de las acciones y las criptomonedas, y dijo que no espera una recesión en 2027.",
-      "detail": "La tesis de Pal es que cuando hay mucha liquidez en dólares en el sistema financiero global, los activos de riesgo —acciones, cripto— tienden a subir; cuando el dólar se fortalece y la liquidez se retrae, caen. Para alguien en Argentina, esto es especialmente relevante porque tanto el dólar como las criptomonedas son formas habituales de ahorro, y entender qué las mueve ayuda a tomar mejores decisiones.",
-      "tags": [
-        "dólar",
-        "cripto",
-        "liquidez"
-      ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49",
-      "published_at": "2026-11-25T19:16:00Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": []
-    },
-    {
-      "id": "bolsas-eeuu-mixtas-miercoles-2026",
-      "type": "mercado",
-      "title": "Wall Street cerró mixto tras una caída inicial y una fuerte recuperación intradía",
-      "summary": "Las bolsas de EE.UU. abrieron con fuertes bajas el miércoles pero lograron recuperarse parcialmente durante la jornada, cerrando de forma mixta. El Dow Jones estuvo entre los índices que mejor rebotaron desde sus mínimos del día.",
-      "detail": "Las sesiones con caídas fuertes al inicio y recuperación posterior muestran la volatilidad actual de los mercados, en parte explicada por los datos de inflación y la incertidumbre sobre las tasas. Para un inversor en formación, estas jornadas ilustran por qué las decisiones tomadas en el momento de mayor pánico rara vez son las mejores.",
-      "tags": [
-        "Wall Street",
-        "volatilidad",
-        "mercados"
+        "Amazon",
+        "huelga",
+        "Black Friday"
       ],
       "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/us-stocks-close-mixed-following-early-sell",
-      "published_at": "2026-11-25T21:14:37Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": []
+      "source_url": "https://www.nasdaq.com/articles/german-union-verdi-calls-strike-amazon-sites-black-friday",
+      "published_at": "2026-11-26T10:48:25Z",
+      "fecha_evento": "2026-11-26",
+      "tickers": [
+        "AMZN"
+      ]
+    },
+    {
+      "id": "wells-fargo-bitcoin-etf",
+      "type": "mercado",
+      "title": "Wells Fargo se convirtió en el mayor tenedor institucional de ETFs de Bitcoin",
+      "summary": "Wells Fargo es ahora el mayor tenedor institucional de ETFs de Bitcoin al contado, luego de más que duplicar su posición en el iShares Bitcoin Trust ETF durante el tercer trimestre.",
+      "detail": "Que un banco tan grande como Wells Fargo aumente fuertemente su exposición a Bitcoin vía ETFs es una señal de que las instituciones financieras tradicionales están incorporando activos cripto a sus carteras. Los ETFs de Bitcoin permiten a los inversores acceder al precio del cripto sin tener que custodiarlo directamente. Para quien aprende finanzas, esto muestra cómo los activos alternativos van ganando legitimidad dentro del sistema financiero convencional, aunque el dato del trimestre es el Q3 2026.",
+      "tags": [
+        "Bitcoin",
+        "ETF",
+        "institucional"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/wells-fargo-now-largest-institutional-holder-spot-bitcoin-etfs-if-banks-are-buying-bitcoin",
+      "published_at": "2026-11-26T09:50:02Z",
+      "fecha_evento": "2026-11-26",
+      "tickers": [
+        "WFC",
+        "IBIT"
+      ]
     }
   ],
   "ticker": [
@@ -183,31 +152,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.630",
       "valor_num": 1630.0,
-      "delta_pct": 1.88
+      "delta_pct": 0.93
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.710",
       "valor_num": 1710.0,
-      "delta_pct": 2.09
+      "delta_pct": 0.59
     },
     {
       "label": "MEP",
       "valor": "$1.689",
       "valor_num": 1688.7,
-      "delta_pct": -3.12
+      "delta_pct": -0.38
     },
     {
       "label": "CCL",
       "valor": "$1.768",
       "valor_num": 1767.9,
-      "delta_pct": -2.12
+      "delta_pct": -1.62
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 60.228",
-      "valor_num": 60228.0,
-      "delta_pct": 0.66
+      "valor": "US$ 60.656",
+      "valor_num": 60656.0,
+      "delta_pct": 3.52
     },
     {
       "label": "S&P 500",
@@ -217,9 +186,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.609",
-      "valor_num": 3608.6,
-      "delta_pct": 2.65
+      "valor": "US$ 3.595",
+      "valor_num": 3595.4,
+      "delta_pct": 2.28
     }
   ]
 }
