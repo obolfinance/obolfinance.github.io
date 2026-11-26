@@ -1,33 +1,50 @@
 {
-  "generated_at": "2026-11-26T12:01:10.679343+00:00",
+  "generated_at": "2026-11-26T22:01:10.654182+00:00",
   "items": [
     {
-      "id": "us-tariffs-14-partners",
-      "type": "mercado",
-      "title": "EE.UU. amenaza con nuevas tarifas a 14 socios comerciales",
-      "summary": "El gobierno de Trump anunció una nueva ronda de aranceles contra 14 socios comerciales, aunque ofrece tasas más bajas a los países que cierren acuerdos comerciales con Washington.",
-      "detail": "Las amenazas arancelarias son una herramienta de presión diplomática y económica: al encarecer las importaciones, EE.UU. busca que otros países negocien condiciones más favorables. Para los mercados globales, más aranceles significan potencial inflación importada, disrupciones en cadenas de suministro y mayor volatilidad. Para alguien aprendiendo finanzas, este tipo de noticias explica por qué los mercados de acciones y divisas reaccionan ante decisiones políticas, no solo ante datos económicos puros.",
+      "id": "ecb-de-cos-presidente",
+      "type": "discurso",
+      "title": "Pablo Hernández de Cos será el próximo presidente del BCE",
+      "summary": "El español Pablo Hernández de Cos consiguió los apoyos necesarios para suceder a Christine Lagarde al frente del Banco Central Europeo, en un contexto de incertidumbre política y crecimiento débil en la zona euro.",
+      "detail": "El BCE es el banco central que fija las tasas de interés para los países que usan el euro, por lo que sus decisiones impactan en el valor del euro, el crédito y la economía global. Un cambio de liderazgo en este organismo es clave porque define el rumbo de la política monetaria europea en los próximos años. Para alguien que aprende finanzas, es un ejemplo claro de cómo las instituciones y sus conductores moldean las expectativas de los mercados.",
       "tags": [
-        "aranceles",
-        "comercio global",
-        "Trump"
+        "BCE",
+        "política monetaria",
+        "Europa"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-      "published_at": "2026-11-26T11:44:19Z",
+      "source_url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+      "published_at": "2026-11-26T15:28:26Z",
       "fecha_evento": "2026-11-26",
       "tickers": []
     },
     {
-      "id": "pce-inflation-octubre-2026",
+      "id": "us-tariffs-trade-deals",
       "type": "economia",
-      "title": "El indicador de inflación preferido de la Fed llegó al 3,8% en octubre",
-      "summary": "El índice de precios PCE, que es la medida de inflación que más mira la Reserva Federal de EE.UU., se aceleró hasta el 3,8% anual en octubre de 2026, según el consenso de Dow Jones.",
-      "detail": "El PCE (Personal Consumption Expenditures) es el termómetro de inflación que usa la Fed para decidir si sube o baja las tasas de interés. Cuando este índice sube, la Fed tiene más razones para mantener o incrementar las tasas, lo que encarece el crédito en todo el mundo. Para Argentina y mercados emergentes, tasas altas en EE.UU. suelen fortalecer el dólar y presionar las monedas locales, además de encarecer la deuda externa.",
+      "title": "EE.UU. amenaza con nuevos aranceles y presiona a socios para firmar acuerdos comerciales",
+      "summary": "Estados Unidos anunció una nueva ronda de aranceles a 14 socios comerciales, pero ofrece tasas más bajas a los países que cierren acuerdos de libre comercio con Washington.",
+      "detail": "Los aranceles son impuestos que un país cobra a los productos importados; cuando suben, encarecen los bienes extranjeros y pueden desatar represalias comerciales. Esta estrategia de EE.UU. —subir aranceles como palanca de negociación— afecta las cadenas de suministro globales y puede generar inflación en los países involucrados. Para Argentina, entender cómo las guerras comerciales entre grandes potencias redistribuyen flujos de comercio e inversión es fundamental para analizar el contexto económico mundial.",
+      "tags": [
+        "aranceles",
+        "comercio",
+        "EE.UU."
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+      "published_at": "2026-11-26T12:46:55Z",
+      "fecha_evento": "2026-11-26",
+      "tickers": []
+    },
+    {
+      "id": "pce-inflacion-octubre-2026",
+      "type": "economia",
+      "title": "El indicador de inflación favorito de la Fed subió a 3,8% anual en octubre",
+      "summary": "El índice de gastos de consumo personal (PCE) mostró una inflación anual del 3,8% en octubre, manteniéndose por encima del objetivo de la Reserva Federal y elevando la presión sobre las decisiones de tasas para 2027.",
+      "detail": "El PCE es el principal termómetro de inflación que usa la Fed para decidir si sube, baja o mantiene las tasas de interés. Cuando la inflación sigue alta, el banco central tiene menos margen para recortar tasas, lo que encarece el crédito y puede frenar el crecimiento económico. Este dato es clave para los mercados porque condiciona las expectativas sobre cuándo y cuánto podría moverse la Fed el año próximo.",
       "tags": [
         "inflación",
         "Fed",
-        "tasas de interés"
+        "PCE"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
@@ -38,13 +55,13 @@
     {
       "id": "warsh-greenspan-fed-ai",
       "type": "discurso",
-      "title": "El debate sobre si la IA puede justificar no subir las tasas, como hizo Greenspan con internet",
-      "summary": "Un análisis de CNBC compara la situación de Kevin Warsh al frente de la Fed con la de Alan Greenspan en los 90: ¿puede apostar a que la IA aumentará la productividad y así contener la inflación sin necesidad de subir tasas?",
-      "detail": "En los 90, Greenspan no subió tasas pese a la inflación porque creyó que el boom de internet elevaría la productividad y compensaría los precios. Hoy se debate si la inteligencia artificial puede cumplir ese mismo rol. Para quien aprende finanzas, esto muestra que las decisiones de política monetaria no son solo matemáticas: dependen de cómo el banco central interpreta los cambios estructurales de la economía. La dirección que tome la Fed impacta directamente en el costo del dinero a nivel global.",
+      "title": "¿Por qué el jefe de la Fed no puede apostar a la productividad de la IA como Greenspan hizo con internet?",
+      "summary": "El periodista Steve Liesman analiza por qué Kevin Warsh, al frente de la Fed, no puede ignorar la inflación actual basándose en las ganancias de productividad de la inteligencia artificial, como Greenspan lo hizo en los 90 con el boom de internet.",
+      "detail": "En los años 90, Alan Greenspan mantuvo las tasas bajas porque creía que internet elevaría la productividad y contendría la inflación; esa apuesta funcionó. Hoy, aunque la IA también promete grandes saltos de productividad, la inflación ya está descontrolada, lo que obliga a la Fed a ser más cautelosa. Este debate ilustra uno de los dilemas centrales de la política monetaria: cuánto peso darle a las expectativas de largo plazo versus los datos duros del presente.",
       "tags": [
         "Fed",
-        "tasas de interés",
-        "inteligencia artificial"
+        "productividad",
+        "tasas de interés"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
@@ -53,15 +70,15 @@
       "tickers": []
     },
     {
-      "id": "consumer-confidence-noviembre-midterm",
+      "id": "consumer-confidence-noviembre",
       "type": "economia",
       "title": "La confianza del consumidor en EE.UU. subió tras las elecciones de medio término",
-      "summary": "El índice de confianza del consumidor elaborado por el Conference Board saltó a 103,3 en noviembre, impulsado por el resultado de las elecciones de medio término, aunque la preocupación por la inflación sigue presente.",
-      "detail": "La confianza del consumidor mide cuánto optimismo tienen las personas sobre la economía y su propio bolsillo, lo que influye directamente en cuánto gastan. Cuando la confianza sube, suele haber más consumo y eso puede sostener el crecimiento económico. Para un inversor o estudiante de finanzas, este indicador es una señal anticipada de cómo puede evolucionar la economía real en los próximos meses.",
+      "summary": "El índice de confianza del consumidor de The Conference Board saltó a 103,3 en noviembre, impulsado por las victorias demócratas en las elecciones de medio término, aunque las preocupaciones por la inflación siguen presentes.",
+      "detail": "La confianza del consumidor mide cuán optimistas se sienten las familias sobre su situación económica; cuando sube, suelen gastar más, lo que impulsa el crecimiento. Los resultados electorales pueden influir en este indicador porque cambian las expectativas sobre políticas fiscales y regulatorias. Para quienes aprenden finanzas, es un buen ejemplo de cómo los eventos políticos se traducen en datos económicos concretos.",
       "tags": [
-        "confianza consumidor",
-        "economía EE.UU.",
-        "elecciones"
+        "consumo",
+        "confianza",
+        "EE.UU."
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
@@ -70,89 +87,82 @@
       "tickers": []
     },
     {
-      "id": "deutsche-bank-sp500-rally-2027",
+      "id": "canada-bolsa-aranceles-exencion",
       "type": "mercado",
-      "title": "Deutsche Bank prevé una recuperación del 25% en el S&P 500 hacia fines de 2027",
-      "summary": "El banco alemán Deutsche Bank proyecta que el índice S&P 500 llegará a 9.000 puntos a fin de 2027, con una suba de alrededor del 25%, a medida que el foco del mercado pase del gasto en infraestructura de IA a la monetización real de esa tecnología.",
-      "detail": "Cuando grandes bancos de inversión publican objetivos de precio para índices bursátiles, están comunicando sus expectativas sobre el estado de la economía y las ganancias corporativas. El argumento de Deutsche Bank es que el mercado tech ya castigó el exceso de gasto en IA y que la próxima fase —cobrar por esos servicios— será más rentable. Para quienes aprenden a invertir, esto ilustra cómo los ciclos de inversión en tecnología siguen una lógica: primero se gasta, luego se monetiza.",
+      "title": "Las bolsas canadienses subieron tras la exención de los nuevos aranceles de EE.UU.",
+      "summary": "Las acciones en Canadá avanzaron por segundo día consecutivo luego de que Washington anunciara que excluirá a Canadá de la nueva ola de aranceles estadounidenses.",
+      "detail": "Cuando un país queda exento de aranceles, sus exportadores pueden seguir vendiendo a precios competitivos en el mercado estadounidense, lo que mejora las perspectivas de las empresas locales y empuja las bolsas al alza. Este caso muestra cómo las decisiones de política comercial de EE.UU. tienen impacto directo e inmediato en los mercados financieros de sus socios. Es un buen ejemplo de la relación entre política, comercio y precios de activos.",
       "tags": [
-        "S&P 500",
-        "mercado tech",
-        "inteligencia artificial"
+        "Canadá",
+        "aranceles",
+        "bolsa"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
-      "published_at": "2026-11-26T10:11:00Z",
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/canadian-stocks-advance-investors-continue-cheer-canadas-exemption-us-tariffs",
+      "published_at": "2026-11-26T21:05:39Z",
       "fecha_evento": "2026-11-26",
-      "tickers": [
-        "SPX"
-      ]
+      "tickers": []
     },
     {
-      "id": "nvidia-jensen-huang-bessent-china",
-      "type": "empresa",
-      "title": "Bessent dio marcha atrás en su postura dura contra Nvidia y China",
-      "summary": "El secretario del Tesoro de EE.UU., Scott Bessent, había empezado a tomar una posición más restrictiva respecto a Nvidia y sus ventas a China, pero luego revirtió ese curso.",
-      "detail": "Las restricciones de exportación de chips a China son un frente clave de la guerra tecnológica entre EE.UU. y ese país. Nvidia depende en parte del mercado chino, y cualquier señal desde Washington sobre endurecer o aflojar esas restricciones mueve el precio de la acción. Este episodio muestra cómo las decisiones políticas y los cambios de postura dentro del gobierno pueden generar alta volatilidad en empresas tecnológicas, algo importante para entender el riesgo en este tipo de inversiones.",
+      "id": "trump-gdp-fake-probe",
+      "type": "economia",
+      "title": "Trump acusó al Departamento de Comercio de publicar datos de PBI \"falsos\" antes de las elecciones",
+      "summary": "El presidente Donald Trump denunció que el Departamento de Comercio difundió cifras de crecimiento económico \"truchas\" justo antes de las elecciones de medio término del 3 de noviembre y pidió una investigación inmediata.",
+      "detail": "El PBI (Producto Bruto Interno) es el principal indicador del tamaño y dinamismo de una economía; cuando se cuestiona su veracidad, se genera incertidumbre sobre la solidez real de la economía y la credibilidad de las instituciones estadísticas. La independencia de los organismos que producen datos económicos es un pilar de los mercados financieros, porque inversores y bancos centrales toman decisiones basadas en esas cifras. Este episodio ilustra el riesgo político que puede afectar la confianza en las estadísticas oficiales.",
       "tags": [
-        "Nvidia",
-        "China",
-        "geopolítica"
+        "PBI",
+        "política",
+        "EE.UU."
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/president-trump-says-pre-election-gdp-numbers-were-fake-seeks-probe-commerce-department",
+      "published_at": "2026-11-26T21:05:10Z",
+      "fecha_evento": "2026-11-26",
+      "tickers": []
+    },
+    {
+      "id": "francia-riesgo-recesion",
+      "type": "economia",
+      "title": "Francia en riesgo de recesión: qué puede evitarla",
+      "summary": "El gobernador del Banco de Francia, Emmanuel Moulin, reconoció los riesgos de recesión pero dijo esperar crecimiento, apoyándose en la resiliencia de sectores como defensa, aeroespacial y electricidad.",
+      "detail": "Una recesión ocurre cuando una economía encadena dos trimestres seguidos de caída del PBI; en Francia, los índices PMI (que miden actividad empresarial) están dando señales de alerta. Cuando una economía grande de Europa tambalea, puede arrastrar al resto de la zona euro y afectar el valor del euro y los activos europeos. Este tipo de análisis sectorial —qué industrias sostienen la economía cuando el panorama se complica— es un concepto clave en finanzas.",
+      "tags": [
+        "Francia",
+        "recesión",
+        "Europa"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-      "published_at": "2026-11-23T21:00:59Z",
-      "fecha_evento": "2026-11-23",
-      "tickers": [
-        "NVDA"
-      ]
+      "source_url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+      "published_at": "2026-11-24T11:15:30Z",
+      "fecha_evento": "2026-11-24",
+      "tickers": []
     },
     {
-      "id": "amazon-strike-black-friday-alemania",
-      "type": "empresa",
-      "title": "El sindicato alemán ver.di llamó a una huelga en Amazon durante el Black Friday",
-      "summary": "El sindicato ver.di convocó a empleados de 11 depósitos de Amazon en Alemania a hacer huelga durante el Black Friday, en reclamo de convenios colectivos legalmente vinculantes.",
-      "detail": "El Black Friday es uno de los días de mayor volumen de ventas para Amazon en Europa, por lo que una huelga en sus centros logísticos puede afectar directamente los ingresos y la reputación operativa de la empresa. Para quien estudia finanzas, este tipo de eventos muestra cómo los conflictos laborales son un riesgo operativo real que puede impactar en los resultados de una compañía. También ilustra cómo el contexto regulatorio y sindical de cada país afecta a las empresas globales.",
-      "tags": [
-        "Amazon",
-        "huelga",
-        "Black Friday"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/german-union-verdi-calls-strike-amazon-sites-black-friday",
-      "published_at": "2026-11-26T10:48:25Z",
-      "fecha_evento": "2026-11-26",
-      "tickers": [
-        "AMZN"
-      ]
-    },
-    {
-      "id": "wells-fargo-bitcoin-etf",
+      "id": "wall-street-black-friday",
       "type": "mercado",
-      "title": "Wells Fargo se convirtió en el mayor tenedor institucional de ETFs de Bitcoin",
-      "summary": "Wells Fargo es ahora el mayor tenedor institucional de ETFs de Bitcoin al contado, luego de más que duplicar su posición en el iShares Bitcoin Trust ETF durante el tercer trimestre.",
-      "detail": "Que un banco tan grande como Wells Fargo aumente fuertemente su exposición a Bitcoin vía ETFs es una señal de que las instituciones financieras tradicionales están incorporando activos cripto a sus carteras. Los ETFs de Bitcoin permiten a los inversores acceder al precio del cripto sin tener que custodiarlo directamente. Para quien aprende finanzas, esto muestra cómo los activos alternativos van ganando legitimidad dentro del sistema financiero convencional, aunque el dato del trimestre es el Q3 2026.",
+      "title": "Wall Street apunta a subas en el Black Friday tras recuperarse de la caída tecnológica",
+      "summary": "Los futuros de Wall Street señalaban ganancias para el viernes luego de que el S&P 500 rebotara desde mínimos el miércoles, calmando a los mercados globales tras la reciente caída del sector tecnológico.",
+      "detail": "Los futuros de índices bursátiles permiten anticipar cómo va a abrir el mercado antes de que suene la campana; cuando suben, indican que los inversores esperan un día positivo. La recuperación del S&P 500 tras una corrección tecnológica muestra cómo los mercados pueden absorber caídas sectoriales sin que el índice general colapse. Para alguien que aprende finanzas, este tipo de movimiento ilustra la importancia de la diversificación dentro de un índice amplio.",
       "tags": [
-        "Bitcoin",
-        "ETF",
-        "institucional"
+        "S&P 500",
+        "mercado",
+        "tecnología"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/wells-fargo-now-largest-institutional-holder-spot-bitcoin-etfs-if-banks-are-buying-bitcoin",
-      "published_at": "2026-11-26T09:50:02Z",
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "published_at": "2026-11-26T13:41:00Z",
       "fecha_evento": "2026-11-26",
       "tickers": [
-        "WFC",
-        "IBIT"
+        "SPY"
       ]
     }
   ],
   "ticker": [
     {
       "label": "DÓLAR OFICIAL",
-      "valor": "$1.630",
-      "valor_num": 1630.0,
-      "delta_pct": 0.93
+      "valor": "$1.625",
+      "valor_num": 1625.0,
+      "delta_pct": 0.62
     },
     {
       "label": "DÓLAR BLUE",
@@ -162,9 +172,9 @@
     },
     {
       "label": "MEP",
-      "valor": "$1.689",
-      "valor_num": 1688.7,
-      "delta_pct": -0.38
+      "valor": "$1.666",
+      "valor_num": 1666.4,
+      "delta_pct": -1.69
     },
     {
       "label": "CCL",
@@ -174,9 +184,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 60.656",
-      "valor_num": 60656.0,
-      "delta_pct": 3.52
+      "valor": "US$ 60.780",
+      "valor_num": 60780.0,
+      "delta_pct": 1.07
     },
     {
       "label": "S&P 500",
@@ -186,9 +196,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.595",
-      "valor_num": 3595.4,
-      "delta_pct": 2.28
+      "valor": "US$ 3.593",
+      "valor_num": 3593.4,
+      "delta_pct": 2.22
     }
   ]
 }
