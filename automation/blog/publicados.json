@@ -1,6 +1,14 @@
 {
   "posts": [
     {
+      "slug": "inflacion-baja-precios-siguen-subiendo",
+      "titulo": "La inflación baja y todo sigue caro: el mecanismo del nivel de precios",
+      "bajada": "Desaceleración no es baja de precios. El mecanismo detrás de por qué un índice que mejora convive con una góndola que no perdona.",
+      "categoria": "Historia",
+      "mundo": "historia",
+      "fecha": "2026-11-27"
+    },
+    {
       "slug": "sesgo-de-anclaje-precios-referencia",
       "titulo": "El ancla: por qué el primer precio que ves decide todo lo demás",
       "bajada": "Tu cerebro no sabe cuánto vale algo. Sabe compararlo con el primer número que vio. Así funciona el anclaje, y así se usa en tu contra.",
