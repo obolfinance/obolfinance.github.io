@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-26T22:01:10.654182+00:00",
+  "generated_at": "2026-11-27T12:01:31.887469+00:00",
   "items": [
     {
       "id": "ecb-de-cos-presidente",
       "type": "discurso",
-      "title": "Pablo Hernández de Cos será el próximo presidente del BCE",
-      "summary": "El español Pablo Hernández de Cos consiguió los apoyos necesarios para suceder a Christine Lagarde al frente del Banco Central Europeo, en un contexto de incertidumbre política y crecimiento débil en la zona euro.",
-      "detail": "El BCE es el banco central que fija las tasas de interés para los países que usan el euro, por lo que sus decisiones impactan en el valor del euro, el crédito y la economía global. Un cambio de liderazgo en este organismo es clave porque define el rumbo de la política monetaria europea en los próximos años. Para alguien que aprende finanzas, es un ejemplo claro de cómo las instituciones y sus conductores moldean las expectativas de los mercados.",
+      "title": "Pablo Hernández de Cos será el próximo presidente del Banco Central Europeo",
+      "summary": "El español Pablo Hernández de Cos consiguió los apoyos necesarios para suceder a Christine Lagarde al frente del BCE el año que viene, asumiendo en un contexto de incertidumbre política y crecimiento económico débil en Europa.",
+      "detail": "El BCE es el banco central de la zona euro y su presidente define la política de tasas de interés que afecta a toda la región. Un cambio de conducción implica posibles cambios de enfoque en inflación y crecimiento, lo que impacta en el euro y en los mercados financieros globales. Para quien aprende finanzas, es clave entender que los bancos centrales son actores fundamentales que mueven mercados con sus decisiones y señales.",
       "tags": [
         "BCE",
         "política monetaria",
@@ -14,19 +14,19 @@
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-      "published_at": "2026-11-26T15:28:26Z",
+      "published_at": "2026-11-27T06:50:38Z",
       "fecha_evento": "2026-11-26",
       "tickers": []
     },
     {
-      "id": "us-tariffs-trade-deals",
+      "id": "eeuu-aranceles-socios-comerciales",
       "type": "economia",
-      "title": "EE.UU. amenaza con nuevos aranceles y presiona a socios para firmar acuerdos comerciales",
-      "summary": "Estados Unidos anunció una nueva ronda de aranceles a 14 socios comerciales, pero ofrece tasas más bajas a los países que cierren acuerdos de libre comercio con Washington.",
-      "detail": "Los aranceles son impuestos que un país cobra a los productos importados; cuando suben, encarecen los bienes extranjeros y pueden desatar represalias comerciales. Esta estrategia de EE.UU. —subir aranceles como palanca de negociación— afecta las cadenas de suministro globales y puede generar inflación en los países involucrados. Para Argentina, entender cómo las guerras comerciales entre grandes potencias redistribuyen flujos de comercio e inversión es fundamental para analizar el contexto económico mundial.",
+      "title": "EE.UU. amenaza con nuevos aranceles y presiona a 14 socios para firmar acuerdos comerciales",
+      "summary": "El gobierno de Estados Unidos anunció una nueva ronda de aranceles contra 14 socios comerciales, aunque ofrece tasas más bajas a los países que cierren acuerdos comerciales con Washington.",
+      "detail": "Los aranceles son impuestos que un país aplica a las importaciones de otro, y cuando EE.UU. los sube, encarece los productos extranjeros y presiona a sus socios a negociar en sus términos. Esta dinámica afecta las cadenas de suministro globales y puede generar inflación en el propio EE.UU. Para Argentina, que exporta commodities y bienes industriales, los movimientos de política comercial estadounidense impactan directamente en los precios internacionales y en el acceso a mercados.",
       "tags": [
         "aranceles",
-        "comercio",
+        "comercio global",
         "EE.UU."
       ],
       "source_name": "CNBC",
@@ -38,13 +38,13 @@
     {
       "id": "pce-inflacion-octubre-2026",
       "type": "economia",
-      "title": "El indicador de inflación favorito de la Fed subió a 3,8% anual en octubre",
-      "summary": "El índice de gastos de consumo personal (PCE) mostró una inflación anual del 3,8% en octubre, manteniéndose por encima del objetivo de la Reserva Federal y elevando la presión sobre las decisiones de tasas para 2027.",
-      "detail": "El PCE es el principal termómetro de inflación que usa la Fed para decidir si sube, baja o mantiene las tasas de interés. Cuando la inflación sigue alta, el banco central tiene menos margen para recortar tasas, lo que encarece el crédito y puede frenar el crecimiento económico. Este dato es clave para los mercados porque condiciona las expectativas sobre cuándo y cuánto podría moverse la Fed el año próximo.",
+      "title": "El indicador de inflación preferido de la Fed llegó al 3,8% anual en octubre",
+      "summary": "El índice de gastos de consumo personal (PCE) de EE.UU. mostró una inflación del 3,8% anual en octubre, en línea con lo que esperaba el mercado, pero elevando la presión sobre la Reserva Federal de cara a 2027.",
+      "detail": "El PCE es el termómetro de inflación que más mira la Fed para decidir si sube, baja o mantiene las tasas de interés. Con la inflación todavía lejos del objetivo del 2%, la Fed tiene menos margen para recortar tasas, lo que mantiene el dólar fuerte y encarece el financiamiento global. Para Argentina, tasas altas en EE.UU. implican mayor atractivo para los inversores de quedarse en dólares, lo que presiona a economías emergentes.",
       "tags": [
         "inflación",
         "Fed",
-        "PCE"
+        "tasas de interés"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
@@ -53,15 +53,15 @@
       "tickers": []
     },
     {
-      "id": "warsh-greenspan-fed-ai",
+      "id": "warsh-fed-tasas-ai",
       "type": "discurso",
-      "title": "¿Por qué el jefe de la Fed no puede apostar a la productividad de la IA como Greenspan hizo con internet?",
-      "summary": "El periodista Steve Liesman analiza por qué Kevin Warsh, al frente de la Fed, no puede ignorar la inflación actual basándose en las ganancias de productividad de la inteligencia artificial, como Greenspan lo hizo en los 90 con el boom de internet.",
-      "detail": "En los años 90, Alan Greenspan mantuvo las tasas bajas porque creía que internet elevaría la productividad y contendría la inflación; esa apuesta funcionó. Hoy, aunque la IA también promete grandes saltos de productividad, la inflación ya está descontrolada, lo que obliga a la Fed a ser más cautelosa. Este debate ilustra uno de los dilemas centrales de la política monetaria: cuánto peso darle a las expectativas de largo plazo versus los datos duros del presente.",
+      "title": "El debate en la Fed: ¿puede la IA justificar no subir tasas, como hizo Greenspan con internet?",
+      "summary": "El periodista de CNBC Steve Liesman analiza por qué Kevin Warsh, posible candidato a presidir la Fed, no puede apostar a un boom de productividad por la IA para justificar mantener las tasas bajas, como sí hizo Alan Greenspan en los 90 con la revolución de internet.",
+      "detail": "Greenspan mantuvo tasas bajas en los 90 apostando a que internet impulsaría la productividad y contendría la inflación, y tuvo razón. Hoy, con inflación en 3,8%, el contexto es muy distinto y apostar a que la IA repetirá ese milagro sin subir tasas es un riesgo enorme. Este debate importa porque la política de tasas de la Fed define el costo del dinero en todo el mundo, incluyendo el rendimiento de los bonos del Tesoro de EE.UU., referencia clave para inversores globales.",
       "tags": [
         "Fed",
-        "productividad",
-        "tasas de interés"
+        "tasas de interés",
+        "inteligencia artificial"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
@@ -70,90 +70,116 @@
       "tickers": []
     },
     {
-      "id": "consumer-confidence-noviembre",
+      "id": "china-ganancias-industriales-octubre",
       "type": "economia",
-      "title": "La confianza del consumidor en EE.UU. subió tras las elecciones de medio término",
-      "summary": "El índice de confianza del consumidor de The Conference Board saltó a 103,3 en noviembre, impulsado por las victorias demócratas en las elecciones de medio término, aunque las preocupaciones por la inflación siguen presentes.",
-      "detail": "La confianza del consumidor mide cuán optimistas se sienten las familias sobre su situación económica; cuando sube, suelen gastar más, lo que impulsa el crecimiento. Los resultados electorales pueden influir en este indicador porque cambian las expectativas sobre políticas fiscales y regulatorias. Para quienes aprenden finanzas, es un buen ejemplo de cómo los eventos políticos se traducen en datos económicos concretos.",
+      "title": "Las ganancias industriales en China vuelven a crecer, pero solo para los vinculados a la IA",
+      "summary": "Las fábricas chinas recuperaron rentabilidad en octubre, aunque el crecimiento está concentrado en el sector manufacturero y exportador ligado a la inteligencia artificial, mientras el consumo interno y el mercado inmobiliario siguen rezagados.",
+      "detail": "China es el mayor exportador del mundo y su salud industrial impacta en los precios de materias primas y en la demanda global. Que el crecimiento sea selectivo —solo en IA y exportaciones— muestra una economía desbalanceada, donde el consumo interno no acompaña, lo que puede limitar la recuperación a largo plazo. Para Argentina, que exporta soja y otros commodities a China, la dinámica de demanda china es un indicador clave del precio de sus exportaciones.",
       "tags": [
-        "consumo",
-        "confianza",
-        "EE.UU."
+        "China",
+        "industria",
+        "inteligencia artificial"
       ],
       "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-      "published_at": "2026-11-24T18:34:43Z",
-      "fecha_evento": "2026-11-24",
+      "source_url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+      "published_at": "2026-11-27T06:09:51Z",
+      "fecha_evento": "2026-11-27",
       "tickers": []
     },
     {
-      "id": "canada-bolsa-aranceles-exencion",
+      "id": "goldman-sachs-venta-automatizada-100b",
       "type": "mercado",
-      "title": "Las bolsas canadienses subieron tras la exención de los nuevos aranceles de EE.UU.",
-      "summary": "Las acciones en Canadá avanzaron por segundo día consecutivo luego de que Washington anunciara que excluirá a Canadá de la nueva ola de aranceles estadounidenses.",
-      "detail": "Cuando un país queda exento de aranceles, sus exportadores pueden seguir vendiendo a precios competitivos en el mercado estadounidense, lo que mejora las perspectivas de las empresas locales y empuja las bolsas al alza. Este caso muestra cómo las decisiones de política comercial de EE.UU. tienen impacto directo e inmediato en los mercados financieros de sus socios. Es un buen ejemplo de la relación entre política, comercio y precios de activos.",
+      "title": "Goldman Sachs advierte que las bolsas enfrentan una ola de ventas automáticas de u$s100.000 millones",
+      "summary": "Traders de Goldman Sachs alertaron que fondos que siguen tendencias automáticas podrían descargar hasta 100.000 millones de dólares en acciones en los próximos días, justo cuando los mercados intentan rebotar.",
+      "detail": "Los fondos de seguimiento de tendencias (CTA o trend-following funds) usan algoritmos que venden automáticamente cuando los precios caen por debajo de ciertos niveles, lo que puede amplificar las bajas del mercado. Esta dinámica es un ejemplo claro de cómo la operatoria sistemática puede mover mercados de forma independiente de los fundamentos económicos. Para quien aprende finanzas, es importante entender que el mercado no solo se mueve por noticias, sino también por flujos mecánicos de grandes jugadores institucionales.",
       "tags": [
-        "Canadá",
-        "aranceles",
-        "bolsa"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/canadian-stocks-advance-investors-continue-cheer-canadas-exemption-us-tariffs",
-      "published_at": "2026-11-26T21:05:39Z",
-      "fecha_evento": "2026-11-26",
-      "tickers": []
-    },
-    {
-      "id": "trump-gdp-fake-probe",
-      "type": "economia",
-      "title": "Trump acusó al Departamento de Comercio de publicar datos de PBI \"falsos\" antes de las elecciones",
-      "summary": "El presidente Donald Trump denunció que el Departamento de Comercio difundió cifras de crecimiento económico \"truchas\" justo antes de las elecciones de medio término del 3 de noviembre y pidió una investigación inmediata.",
-      "detail": "El PBI (Producto Bruto Interno) es el principal indicador del tamaño y dinamismo de una economía; cuando se cuestiona su veracidad, se genera incertidumbre sobre la solidez real de la economía y la credibilidad de las instituciones estadísticas. La independencia de los organismos que producen datos económicos es un pilar de los mercados financieros, porque inversores y bancos centrales toman decisiones basadas en esas cifras. Este episodio ilustra el riesgo político que puede afectar la confianza en las estadísticas oficiales.",
-      "tags": [
-        "PBI",
-        "política",
-        "EE.UU."
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/president-trump-says-pre-election-gdp-numbers-were-fake-seeks-probe-commerce-department",
-      "published_at": "2026-11-26T21:05:10Z",
-      "fecha_evento": "2026-11-26",
-      "tickers": []
-    },
-    {
-      "id": "francia-riesgo-recesion",
-      "type": "economia",
-      "title": "Francia en riesgo de recesión: qué puede evitarla",
-      "summary": "El gobernador del Banco de Francia, Emmanuel Moulin, reconoció los riesgos de recesión pero dijo esperar crecimiento, apoyándose en la resiliencia de sectores como defensa, aeroespacial y electricidad.",
-      "detail": "Una recesión ocurre cuando una economía encadena dos trimestres seguidos de caída del PBI; en Francia, los índices PMI (que miden actividad empresarial) están dando señales de alerta. Cuando una economía grande de Europa tambalea, puede arrastrar al resto de la zona euro y afectar el valor del euro y los activos europeos. Este tipo de análisis sectorial —qué industrias sostienen la economía cuando el panorama se complica— es un concepto clave en finanzas.",
-      "tags": [
-        "Francia",
-        "recesión",
-        "Europa"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-      "published_at": "2026-11-24T11:15:30Z",
-      "fecha_evento": "2026-11-24",
-      "tickers": []
-    },
-    {
-      "id": "wall-street-black-friday",
-      "type": "mercado",
-      "title": "Wall Street apunta a subas en el Black Friday tras recuperarse de la caída tecnológica",
-      "summary": "Los futuros de Wall Street señalaban ganancias para el viernes luego de que el S&P 500 rebotara desde mínimos el miércoles, calmando a los mercados globales tras la reciente caída del sector tecnológico.",
-      "detail": "Los futuros de índices bursátiles permiten anticipar cómo va a abrir el mercado antes de que suene la campana; cuando suben, indican que los inversores esperan un día positivo. La recuperación del S&P 500 tras una corrección tecnológica muestra cómo los mercados pueden absorber caídas sectoriales sin que el índice general colapse. Para alguien que aprende finanzas, este tipo de movimiento ilustra la importancia de la diversificación dentro de un índice amplio.",
-      "tags": [
-        "S&P 500",
         "mercado",
-        "tecnología"
+        "Goldman Sachs",
+        "volatilidad"
       ],
       "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-      "published_at": "2026-11-26T13:41:00Z",
-      "fecha_evento": "2026-11-26",
+      "source_url": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f",
+      "published_at": "2026-11-27T10:54:00Z",
+      "fecha_evento": "2026-11-27",
       "tickers": [
-        "SPY"
+        "GS"
+      ]
+    },
+    {
+      "id": "sap-recorte-10000-empleos",
+      "type": "empresa",
+      "title": "SAP planea despedir a 10.000 empleados para adaptarse a la era de la IA",
+      "summary": "La gigante alemana de software SAP reportó que reduciría su plantilla entre un 9% y un 10% —unas 10.000 personas— como parte de su transición hacia un modelo de negocios centrado en inteligencia artificial.",
+      "detail": "SAP es una de las empresas de software empresarial más grandes del mundo y este recorte refleja una tendencia global: las compañías tecnológicas están reestructurando sus equipos para priorizar herramientas de IA sobre roles tradicionales. Los despidos masivos en tecnología suelen impactar en las cotizaciones bursátiles y marcan hacia dónde van los modelos de negocio del sector. Este tipo de noticias ayuda a entender cómo la adopción de nuevas tecnologías transforma la estructura de costos y el empleo en las grandes corporaciones.",
+      "tags": [
+        "tecnología",
+        "inteligencia artificial",
+        "despidos"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744",
+      "published_at": "2026-11-27T10:49:00Z",
+      "fecha_evento": "2026-11-27",
+      "tickers": [
+        "SAP"
+      ]
+    },
+    {
+      "id": "jpmorgan-acciones-ia-2027",
+      "type": "mercado",
+      "title": "JPMorgan dice que el derrumbe de las acciones de IA casi terminó, pero advierte una fase peor en 2027",
+      "summary": "El equipo cuantitativo europeo de JPMorgan señaló que la caída de las acciones vinculadas a inteligencia artificial está llegando a su fin, aunque anticipó que podría venir una etapa más difícil el año que viene.",
+      "detail": "Después de un período de euforia, los activos de IA sufrieron una corrección importante —el Nasdaq bajó un 17% desde octubre según otros artículos del día. JPMorgan advierte que, una vez que pase la presión de ventas inmediata, el verdadero desafío será que las empresas de IA demuestren resultados concretos para justificar sus valuaciones. Para quien aprende finanzas, esto ilustra el ciclo clásico de hype tecnológico: suba por expectativas, corrección y luego una prueba de realidad basada en ganancias reales.",
+      "tags": [
+        "acciones",
+        "inteligencia artificial",
+        "JPMorgan"
+      ],
+      "source_name": "MarketWatch",
+      "source_url": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd",
+      "published_at": "2026-11-27T10:32:00Z",
+      "fecha_evento": "2026-11-27",
+      "tickers": [
+        "JPM"
+      ]
+    },
+    {
+      "id": "meta-amazon-agente-ia-compras",
+      "type": "empresa",
+      "title": "Amazon evalúa readmitir el agente de compras con IA de Meta en su plataforma",
+      "summary": "Según Fortune, Amazon y Meta mantuvieron conversaciones para integrar Muse —el agente de compras con inteligencia artificial de Meta— dentro de la tienda de Amazon, lo que podría potenciar las ventas de ambas compañías.",
+      "detail": "Los agentes de IA de compras son herramientas que pueden buscar, comparar y recomendar productos de forma autónoma; integrarlos a una plataforma como Amazon representaría un cambio importante en cómo los consumidores interactúan con el comercio electrónico. Para los inversores, una alianza así podría beneficiar tanto a Meta como a Amazon al ampliar el alcance de sus ecosistemas digitales. Es un ejemplo de cómo las grandes tecnológicas buscan monetizar la IA a través de acuerdos comerciales estratégicos.",
+      "tags": [
+        "Meta",
+        "Amazon",
+        "inteligencia artificial"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/meta-stock-buy-amazon-reportedly-weighs-letting-its-ai-shopping-agent-back",
+      "published_at": "2026-11-27T11:33:02Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": [
+        "META",
+        "AMZN"
+      ]
+    },
+    {
+      "id": "spacex-ia-mitad-ingresos",
+      "type": "empresa",
+      "title": "El negocio de IA de SpaceX ya representa casi la mitad de sus ingresos",
+      "summary": "SpaceX vio crecer de forma notable sus ventas ligadas a inteligencia artificial, con Anthropic y Alphabet (Google) como clientes clave, hasta el punto de que ese segmento representa casi la mitad de los ingresos totales de la compañía.",
+      "detail": "SpaceX, conocida por sus cohetes y satélites, está diversificando su modelo de negocio hacia la infraestructura de IA, posiblemente a través de su capacidad computacional y de conectividad. Que dos de los mayores actores del ecosistema de IA —Anthropic y Alphabet— sean clientes relevantes muestra cuánto depende el sector del acceso a infraestructura especializada. Para quien invierte o estudia finanzas, esto ilustra cómo empresas no tradicionales pueden convertirse en jugadores clave de sectores en auge.",
+      "tags": [
+        "SpaceX",
+        "inteligencia artificial",
+        "tecnología"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/spacexs-ai-business-now-nearly-half-revenue-heres-what-happens-stock-if-google-and",
+      "published_at": "2026-11-27T10:26:00Z",
+      "fecha_evento": "2026-11-27",
+      "tickers": [
+        "GOOGL"
       ]
     }
   ],
@@ -162,31 +188,31 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.625",
       "valor_num": 1625.0,
-      "delta_pct": 0.62
+      "delta_pct": -0.31
     },
     {
       "label": "DÓLAR BLUE",
       "valor": "$1.710",
       "valor_num": 1710.0,
-      "delta_pct": 0.59
+      "delta_pct": 0.0
     },
     {
       "label": "MEP",
       "valor": "$1.666",
       "valor_num": 1666.4,
-      "delta_pct": -1.69
+      "delta_pct": -1.32
     },
     {
       "label": "CCL",
       "valor": "$1.768",
       "valor_num": 1767.9,
-      "delta_pct": -1.62
+      "delta_pct": 0.0
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 60.780",
-      "valor_num": 60780.0,
-      "delta_pct": 1.07
+      "valor": "US$ 61.583",
+      "valor_num": 61583.0,
+      "delta_pct": 1.57
     },
     {
       "label": "S&P 500",
@@ -196,9 +222,9 @@
     },
     {
       "label": "ORO (ONZA)",
-      "valor": "US$ 3.593",
-      "valor_num": 3593.4,
-      "delta_pct": 2.22
+      "valor": "US$ 3.697",
+      "valor_num": 3696.7,
+      "delta_pct": 5.16
     }
   ]
 }
