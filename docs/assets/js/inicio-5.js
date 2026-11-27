@@ -24,6 +24,8 @@
   }
 
   dismissBtn.addEventListener('click', close);
+  var playBtn = document.getElementById('wlModalPlay');
+  if (playBtn) playBtn.addEventListener('click', close);
 
   var ts = window.ObolTurnstile ? window.ObolTurnstile(TURNSTILE_SITE_KEY) : null;
 

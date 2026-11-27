@@ -318,7 +318,7 @@
       + '<p style="margin:0;font-family:\'Fredoka\',sans-serif;font-weight:600;font-size:22px;color:#fff;">' + scoreMsg + '</p>'
       + '<p style="margin:0;max-width:440px;font-weight:600;font-size:14.5px;line-height:1.6;color:rgba(255,255,255,.62);">Esto fueron 5 de las 804 preguntas. La app tiene 17 secciones, 10 juegos y una racha diaria para que no se te haga cuesta arriba.</p>'
       + '<div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:6px;">'
-      + '<a href="#anotarse" class="obol-btn" style="display:inline-flex;align-items:center;font-family:\'Fredoka\',sans-serif;font-weight:600;font-size:14.5px;color:#16213e;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:14px 24px;border-radius:999px;">Anotarme en la lista</a>'
+      + '<a href="https://play.google.com/store/apps/details?id=com.obol.app" target="_blank" rel="noopener" class="obol-btn" style="display:inline-flex;align-items:center;font-family:\'Fredoka\',sans-serif;font-weight:600;font-size:14.5px;color:#16213e;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:14px 24px;border-radius:999px;">Descargá la app</a>'
       + '<button type="button" id="pb-restart" class="obol-btn" style="border:1px solid rgba(255,255,255,.2);cursor:pointer;font-family:\'Fredoka\',sans-serif;font-weight:600;font-size:14.5px;color:#fff;background:rgba(255,255,255,.07);padding:14px 24px;border-radius:999px;">Volver a probar</button>'
       + '</div></div>';
   }

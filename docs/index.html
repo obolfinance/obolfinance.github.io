@@ -297,15 +297,17 @@
   <div class="obol-wl-modal-card" style="transform:translateY(14px) scale(.97);position:relative;max-width:440px;width:100%;border-radius:28px;background:linear-gradient(120deg,#16213e,#1c2c52);padding:36px 32px 28px;box-shadow:0 32px 64px -20px rgba(15,20,45,.6);display:flex;flex-direction:column;align-items:center;gap:16px;text-align:center;">
     <img src="./assets/icon.png" alt="" style="width:56px;height:56px;border-radius:16px;" loading="lazy">
     <div style="display:flex;flex-direction:column;gap:6px;">
-      <h3 id="wlModalTitle" style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:22px;color:#fff;">Obol todavía no está disponible.</h3>
-      <p style="margin:0;font-weight:600;font-size:14.5px;color:rgba(255,255,255,.78);">Dejanos tu mail y te avisamos apenas podés empezar a jugar.</p>
+      <h3 id="wlModalTitle" style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:22px;color:#fff;">Obol ya está en Google Play.</h3>
+      <p style="margin:0;font-weight:600;font-size:14.5px;color:rgba(255,255,255,.78);">Bajala gratis en tu Android y empezá a jugar.</p>
     </div>
-    <div style="width:100%;display:flex;flex-direction:column;gap:10px;">
+    <a id="wlModalPlay" href="https://play.google.com/store/apps/details?id=com.obol.app" target="_blank" rel="noopener" class="obol-btn" style="display:inline-flex;align-items:center;justify-content:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:16px;color:#16213e;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:14px 28px;border-radius:999px;">Descargala en Google Play</a>
+    <div style="width:100%;display:flex;flex-direction:column;gap:10px;margin-top:6px;">
+      <p style="margin:0;font-weight:700;font-size:13px;color:rgba(255,255,255,.62);">¿Tenés iPhone? Dejanos tu mail y te avisamos cuando salga.</p>
       <div id="curvedWlModal" style="width:100%;"></div>
       <input id="wlModal-trampa" type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0;height:0;width:0;">
       <p id="wlModal-msg" style="margin:0;font-size:13px;font-weight:600;color:rgba(255,255,255,.7);min-height:1em;"></p>
     </div>
-    <button type="button" id="wlModalDismiss" style="margin-top:2px;background:none;border:none;font-family:'Nunito',system-ui,sans-serif;font-weight:700;font-size:13px;color:rgba(255,255,255,.55);cursor:pointer;padding:6px 10px;text-decoration:underline;text-underline-offset:2px;">Por ahora no</button>
+    <button type="button" id="wlModalDismiss" style="margin-top:2px;background:none;border:none;font-family:'Nunito',system-ui,sans-serif;font-weight:700;font-size:13px;color:rgba(255,255,255,.55);cursor:pointer;padding:6px 10px;text-decoration:underline;text-underline-offset:2px;">Ahora no</button>
   </div>
 </div>
 
@@ -324,7 +326,7 @@
         <a href="./noticias.html" class="pill nav-text-link"><span class="pill-circle" aria-hidden="true"></span><span class="pill-stack"><span class="pill-label">Noticias</span><span class="pill-label-hover" aria-hidden="true">Noticias</span></span></a>
         <a href="./blog/index.html" class="pill nav-text-link"><span class="pill-circle" aria-hidden="true"></span><span class="pill-stack"><span class="pill-label">Blog</span><span class="pill-label-hover" aria-hidden="true">Blog</span></span></a>
       </nav>
-      <a href="#anotarse" class="obol-btn" style="display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:14px;color:#0d1730;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:9px 20px;border-radius:999px;"><span class="nav-cta-full">Enterate cuando salga</span><span class="nav-cta-short">Enterate</span></a>
+      <a href="https://play.google.com/store/apps/details?id=com.obol.app" target="_blank" rel="noopener" class="obol-btn" style="display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:14px;color:#0d1730;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:9px 20px;border-radius:999px;"><span class="nav-cta-full">Descargá la app</span><span class="nav-cta-short">Descargar</span></a>
     </div>
   </div>
 
@@ -347,7 +349,7 @@
         <p class="obol-rise" style="margin:0;max-width:480px;font-weight:600;font-size:18px;line-height:1.6;color:rgba(255,255,255,.8);animation-delay:.24s;">Aprendé finanzas y economía como en un juego: lecciones cortas, rachas diarias y preguntas para practicar — hecho para Argentina.</p>
 
         <div class="obol-rise" style="display:flex;gap:14px;flex-wrap:wrap;animation-delay:.34s;">
-          <a href="#anotarse" class="obol-btn" style="display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:16px;color:#16213e;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:15px 28px;border-radius:999px;">Enterate cuando salga</a>
+          <a href="https://play.google.com/store/apps/details?id=com.obol.app" target="_blank" rel="noopener" class="obol-btn" style="display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:16px;color:#16213e;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:15px 28px;border-radius:999px;">Descargala en Google Play</a>
           <a href="#probalo" class="obol-btn" style="display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:16px;color:#fff;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.2);padding:15px 28px;border-radius:999px;">Probalo sin registrarte</a>
         </div>
 
@@ -529,10 +531,12 @@
   <div id="anotarse" class="obol-wl-section" style="background:#eef1f7;padding:0 40px 80px;">
     <div class="obol-reveal obol-wl-card" style="max-width:1160px;margin:0 auto;border-radius:28px;background:linear-gradient(120deg,#16213e,#1c2c52);padding:48px 56px;display:flex;align-items:center;justify-content:space-between;gap:32px;flex-wrap:wrap;box-shadow:0 24px 48px -18px rgba(15,20,45,.45);">
       <div style="display:flex;flex-direction:column;gap:8px;max-width:520px;">
-        <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:24px;color:#fff;">Obol todavía no está disponible.</h3>
-        <p style="margin:0;font-weight:600;font-size:15px;color:rgba(255,255,255,.78);">Dejanos tu mail y te avisamos apenas podés empezar a jugar.</p>
+        <h3 style="margin:0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:24px;color:#fff;">Obol ya está en Google Play.</h3>
+        <p style="margin:0;font-weight:600;font-size:15px;color:rgba(255,255,255,.78);">Bajala gratis en tu Android y empezá a jugar hoy.</p>
+        <a href="https://play.google.com/store/apps/details?id=com.obol.app" target="_blank" rel="noopener" class="obol-btn" style="align-self:flex-start;display:inline-flex;align-items:center;font-family:'Fredoka',sans-serif;font-weight:600;font-size:16px;color:#16213e;background:linear-gradient(90deg,#ffe08a,#ffb24a);padding:15px 28px;border-radius:999px;margin-top:8px;">Descargala en Google Play</a>
       </div>
       <div class="obol-wl-form" style="display:flex;flex-direction:column;gap:10px;flex:1;min-width:280px;max-width:420px;">
+        <p style="margin:0;font-weight:700;font-size:13.5px;color:rgba(255,255,255,.7);">¿Tenés iPhone? Todavía no está en iOS: dejanos tu mail y te avisamos cuando salga.</p>
         <div id="curvedWl" style="width:100%;"></div>
         <input id="wl-trampa" type="text" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;opacity:0;height:0;width:0;">
         <p id="wl-msg" style="margin:0;font-size:13px;font-weight:600;color:rgba(255,255,255,.7);min-height:1em;"></p>
