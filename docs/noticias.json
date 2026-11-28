@@ -1,16 +1,52 @@
 {
-  "generated_at": "2026-11-27T22:01:23.038477+00:00",
+  "generated_at": "2026-11-28T12:01:08.626609+00:00",
   "items": [
     {
-      "id": "ecb-de-cos-presidente",
-      "type": "reunion",
-      "title": "España designa a Pablo Hernández de Cos como próximo presidente del BCE",
-      "summary": "El español Pablo Hernández de Cos fue elegido para liderar el Banco Central Europeo y suceder a Christine Lagarde el año que viene, en un contexto de incertidumbre política y crecimiento débil en Europa.",
-      "detail": "El BCE es el banco central que fija las tasas de interés para toda la eurozona, lo que afecta el valor del euro y el costo del crédito en Europa. Cuando cambia el liderazgo de un banco central, los mercados prestan atención porque el nuevo presidente puede tener una visión distinta sobre inflación y tasas. Para alguien que aprende finanzas, esto muestra cómo las decisiones de política monetaria no son solo técnicas: también son políticas y dependen de quién esté al mando.",
+      "id": "pce-inflation-octubre-2026",
+      "type": "economia",
+      "title": "La inflación en EE.UU. se aceleró al 3,8% en octubre",
+      "summary": "El índice de gasto en consumo personal (PCE), que es el termómetro de inflación preferido de la Fed, llegó al 3,8% anual en octubre, en línea con lo que esperaban los analistas.",
+      "detail": "El PCE es el indicador que la Reserva Federal sigue de cerca para decidir si sube, baja o mantiene las tasas de interés. Que la inflación se haya acelerado complica el margen de la Fed para recortar tasas en 2027, lo que afecta directamente el costo del crédito y el atractivo de los bonos y acciones a nivel global. Para Argentina, una Fed con tasas altas por más tiempo encarece el financiamiento externo y fortalece al dólar, lo que presiona a las monedas emergentes.",
+      "tags": [
+        "inflación",
+        "Fed",
+        "tasas"
+      ],
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "published_at": "2026-11-25T14:18:45Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": []
+    },
+    {
+      "id": "sp500-correccion-mercado",
+      "type": "mercado",
+      "title": "El S&P 500 entró en territorio de corrección",
+      "summary": "El índice S&P 500 cayó lo suficiente como para entrar en corrección, impulsado por preocupaciones sobre las tasas de interés altas y el gasto en inteligencia artificial.",
+      "detail": "Una corrección bursátil se define como una caída de al menos 10% desde el máximo reciente. Es un concepto clave en finanzas porque marca la diferencia entre una baja normal del mercado y una tendencia más preocupante. Para quienes aprenden a invertir, entender que las correcciones son históricamente frecuentes y no siempre derivan en crisis ayuda a tomar decisiones más racionales y no vender por pánico.",
+      "tags": [
+        "bolsa",
+        "corrección",
+        "S&P 500"
+      ],
+      "source_name": "Nasdaq",
+      "source_url": "https://www.nasdaq.com/articles/stock-market-just-dropped-correction-history-crystal-clear-about-what-happens-next",
+      "published_at": "2026-11-28T11:32:02Z",
+      "fecha_evento": "2026-11-28",
+      "tickers": [
+        "SPY"
+      ]
+    },
+    {
+      "id": "nuevo-presidente-bce-de-cos",
+      "type": "economia",
+      "title": "España aporta al nuevo presidente del Banco Central Europeo",
+      "summary": "Pablo Hernández de Cos fue elegido para suceder a Christine Lagarde al frente del Banco Central Europeo (BCE), asumiendo en un contexto de incertidumbre política y crecimiento débil en Europa.",
+      "detail": "El BCE es el banco central de la zona euro y sus decisiones sobre tasas de interés impactan en toda la economía global, incluyendo el valor del euro frente al dólar y otras monedas. Un cambio de liderazgo en una institución tan influyente puede modificar el tono de la política monetaria europea, con efectos sobre los mercados de bonos y acciones del continente. Para quien aprende finanzas, este tipo de nombramientos muestra cómo las personas al frente de los bancos centrales tienen un peso enorme en la economía mundial.",
       "tags": [
         "BCE",
-        "política monetaria",
-        "Europa"
+        "Europa",
+        "banco central"
       ],
       "source_name": "CNBC",
       "source_url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
@@ -19,11 +55,11 @@
       "tickers": []
     },
     {
-      "id": "eeuu-aranceles-socios-comerciales",
+      "id": "aranceles-eeuu-socios-comerciales",
       "type": "economia",
-      "title": "EE.UU. amenaza con más aranceles y presiona a sus socios para firmar acuerdos comerciales",
-      "summary": "Estados Unidos anunció una nueva ronda de aranceles contra 14 socios comerciales, aunque ofreció tasas más bajas a los países que cierren acuerdos de libre comercio con Washington.",
-      "detail": "Los aranceles son impuestos que un país cobra sobre los productos importados, y cuando EE.UU. los sube, encarece los bienes extranjeros para los consumidores americanos y complica las exportaciones de otros países. Esta táctica de 'palo y zanahoria' —más aranceles para los que no negocian, menos para los que sí— es una forma de presión diplomática económica. Para Argentina y otros mercados emergentes, los movimientos arancelarios de EE.UU. pueden afectar el comercio global y el valor de las monedas de los países involucrados.",
+      "title": "EE.UU. amenaza con nuevos aranceles a 14 socios comerciales",
+      "summary": "Estados Unidos anunció una nueva ronda de aranceles contra 14 socios comerciales, aunque ofrece tasas más bajas a quienes firmen acuerdos comerciales con Washington.",
+      "detail": "Los aranceles son impuestos que un país le cobra a los productos que importa, y cuando EE.UU. los sube, encarece las importaciones y presiona a sus socios a renegociar. Esta táctica genera incertidumbre en el comercio global, puede subir los precios de bienes importados en EE.UU. (alimentando la inflación) y afecta las cadenas de suministro mundiales. Para Argentina, que exporta materias primas a varios de estos mercados, el reacomodamiento del comercio global siempre tiene consecuencias indirectas.",
       "tags": [
         "aranceles",
         "comercio",
@@ -36,45 +72,11 @@
       "tickers": []
     },
     {
-      "id": "pce-inflacion-octubre-eeuu",
+      "id": "china-ganancias-fabricas-ia",
       "type": "economia",
-      "title": "El indicador de inflación preferido de la Fed llegó al 3,8% en octubre",
-      "summary": "El índice PCE de EE.UU. —el termómetro de inflación que más mira la Reserva Federal— marcó 3,8% anual en octubre, lo que eleva la presión sobre el banco central de cara a 2027.",
-      "detail": "El PCE (Personal Consumption Expenditures) es el índice que la Fed usa para medir la inflación y decidir si sube o baja las tasas de interés. Cuando la inflación está por encima de la meta del 2%, la Fed tiende a mantener las tasas altas o incluso subirlas, lo que encarece el crédito y puede frenar la economía. Para los mercados globales, una inflación alta en EE.UU. suele fortalecer al dólar y presionar a las monedas emergentes como el peso argentino.",
-      "tags": [
-        "inflación",
-        "Fed",
-        "tasas de interés"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "published_at": "2026-11-25T14:18:45Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": []
-    },
-    {
-      "id": "warsh-greenspan-fed-ai",
-      "type": "discurso",
-      "title": "¿Por qué el jefe de la Fed no puede apostar a la productividad del AI como Greenspan hizo con internet?",
-      "summary": "Un análisis compara la situación de Kevin Warsh al frente de la Fed con la de Alan Greenspan en los 90: Greenspan pudo mantener tasas bajas porque creyó en el boom de productividad de internet, pero hoy la inflación no da ese margen.",
-      "detail": "En los años 90, Greenspan apostó a que internet iba a aumentar tanto la productividad que la economía podía crecer sin generar inflación, y tuvo razón. Warsh enfrenta un dilema similar con el boom del AI, pero con inflación todavía elevada, no puede darse el lujo de bajar las tasas sin riesgo. Este debate muestra cómo los bancos centrales no solo miran datos del presente, sino que también hacen apuestas sobre el futuro de la economía —y esas apuestas tienen consecuencias enormes para todos.",
-      "tags": [
-        "Fed",
-        "tasas de interés",
-        "inteligencia artificial"
-      ],
-      "source_name": "CNBC",
-      "source_url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
-      "published_at": "2026-11-25T21:56:43Z",
-      "fecha_evento": "2026-11-25",
-      "tickers": []
-    },
-    {
-      "id": "china-ganancias-fabriles-ai",
-      "type": "economia",
-      "title": "Las fábricas chinas vuelven a ganar, pero solo las ligadas al AI",
-      "summary": "Las ganancias industriales en China crecen de nuevo, pero la recuperación es despareja: el sector manufacturero vinculado a inteligencia artificial y las exportaciones traccionan, mientras que el consumo interno y el mercado inmobiliario siguen flojos.",
-      "detail": "Cuando las ganancias industriales de China crecen, suele ser una señal positiva para los mercados de materias primas y para países que exportan a China. Sin embargo, una recuperación concentrada solo en el sector AI y exportaciones —sin que el consumo interno despegue— puede ser frágil. Para alguien que aprende finanzas, este ejemplo muestra que los indicadores económicos hay que leerlos en detalle: un número positivo puede esconder desequilibrios importantes.",
+      "title": "Las fábricas chinas vuelven a ganar, pero la IA elige a los ganadores",
+      "summary": "La economía china muestra dos velocidades: el sector manufacturero vinculado a la inteligencia artificial y las exportaciones crecen, mientras el consumo interno y el mercado inmobiliario siguen rezagados.",
+      "detail": "China es el principal socio comercial de muchos países emergentes, incluida Argentina, por lo que su dinamismo económico impacta en la demanda de materias primas como la soja. Que el crecimiento esté concentrado en IA y exportaciones, y no en consumo interno, implica que la recuperación china puede ser menos beneficiosa para los exportadores de commodities de lo que parece a primera vista. Este fenómeno de \"dos velocidades\" es un concepto útil para entender cómo una economía puede crecer en promedio pero de forma muy desigual.",
       "tags": [
         "China",
         "industria",
@@ -87,53 +89,32 @@
       "tickers": []
     },
     {
-      "id": "anthropic-ipo-analists",
-      "type": "empresa",
-      "title": "Anthropic debutó en bolsa y ya hay analistas que ven un 63% más de alza",
-      "summary": "Anthropic salió a cotizar en bolsa y su acción ya subió un 11% desde el precio de IPO; tres bancos de inversión iniciaron cobertura con precios objetivo de entre 120 y 150 dólares.",
-      "detail": "Una IPO (oferta pública inicial) es cuando una empresa privada vende acciones al público por primera vez. Que analistas independientes —es decir, que no participaron en la colocación— inicien cobertura con precios objetivo altos es una señal de confianza en el negocio, aunque también puede reflejar el entusiasmo general por el sector AI. Para alguien que aprende a invertir, esto es un buen ejemplo de cómo evaluar una acción recién listada: mirar el precio de IPO, el desempeño inicial y las opiniones de analistas externos.",
+      "id": "warsh-fed-tasas-ia-productividad",
+      "type": "discurso",
+      "title": "¿Por qué el jefe de la Fed no puede apostar a la productividad de la IA como Greenspan hizo con internet?",
+      "summary": "Un análisis del periodista Steve Liesman de CNBC compara la situación actual de Kevin Warsh al frente de la Fed con la de Alan Greenspan en los 90: Greenspan apostó a que el boom de internet bajaría la inflación; hoy la pregunta es si la IA puede hacer lo mismo.",
+      "detail": "En los 90, Greenspan no subió tasas pese a la bonanza económica porque creyó que internet elevaría la productividad y contendría la inflación. Warsh enfrenta un dilema similar con la IA, pero con inflación ya alta (3,8% en octubre), lo que le deja menos margen para apostar. Este debate ilustra cómo los bancos centrales toman decisiones bajo incertidumbre y por qué las expectativas sobre tecnología y productividad influyen en la política monetaria global.",
       "tags": [
-        "IPO",
-        "inteligencia artificial",
-        "acciones"
+        "Fed",
+        "tasas",
+        "inteligencia artificial"
       ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/anthropic-stock-11-its-ipo-price-and-one-analyst-still-sees-63-upside-should-you-buy",
-      "published_at": "2026-11-27T21:23:36Z",
-      "fecha_evento": "2026-11-27",
-      "tickers": [
-        "ANTH"
-      ]
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+      "published_at": "2026-11-25T21:56:43Z",
+      "fecha_evento": "2026-11-25",
+      "tickers": []
     },
     {
-      "id": "amd-short-report-caida",
-      "type": "empresa",
-      "title": "AMD se desplomó tras un informe que acusa a sus chips de llegar a empresas chinas prohibidas",
-      "summary": "Las acciones de AMD cayeron con fuerza después de que un reporte corto (short report) acusó a la empresa de que sus chips terminarían en manos de compañías chinas vetadas por EE.UU.",
-      "detail": "Un 'short report' es un informe publicado por inversores que apuestan a que una acción va a bajar (posición corta o 'en corto'): denuncian problemas en la empresa para que el precio caiga y ellos ganen dinero. En el caso de AMD, la acusación tiene un componente geopolítico: exportar tecnología a empresas chinas en la lista negra de EE.UU. puede traer sanciones y daño reputacional. Para alguien que aprende finanzas, este caso muestra cómo los riesgos regulatorios y geopolíticos pueden afectar el precio de una acción de golpe.",
-      "tags": [
-        "AMD",
-        "chips",
-        "geopolítica"
-      ],
-      "source_name": "Nasdaq",
-      "source_url": "https://www.nasdaq.com/articles/amd-shares-just-got-crushed-short-report-why-drop-golden-buying-opportunity",
-      "published_at": "2026-11-27T21:04:02Z",
-      "fecha_evento": "2026-11-27",
-      "tickers": [
-        "AMD"
-      ]
-    },
-    {
-      "id": "nvidia-semana-volatil",
+      "id": "nvidia-semana-volatil-mercado",
       "type": "mercado",
-      "title": "Nvidia lideró los rebotes de la semana, pero acumula una caída del 28% en noviembre",
-      "summary": "Las acciones de Nvidia tuvieron una semana fuerte con el regreso de Jensen Huang a la empresa, pero aun así acumulan una baja de casi 28% en noviembre y 21% en lo que va de 2026.",
-      "detail": "Nvidia es hoy una de las empresas más importantes del mundo en infraestructura de inteligencia artificial, por lo que sus movimientos impactan en todo el sector tecnológico y en los índices bursátiles globales. Una caída acumulada tan grande en un mes —incluso con rebotes semanales— muestra que los mercados pueden ser muy volátiles, especialmente en sectores de alto crecimiento y expectativas elevadas. Este caso es útil para entender la diferencia entre el movimiento de corto plazo de una acción y su tendencia de más largo plazo.",
+      "title": "Nvidia lideró los rebotes en una semana volátil en Wall Street",
+      "summary": "Las acciones de Nvidia subieron fuerte durante la semana, aunque el papel aún acumula una caída de casi 28% en noviembre y 21% en lo que va de 2026.",
+      "detail": "Nvidia es hoy una de las empresas más grandes del mundo y un termómetro del entusiasmo del mercado por la inteligencia artificial. Que su acción rebote en una semana pero acumule caídas tan grandes en el mes muestra la alta volatilidad de las acciones tecnológicas, algo relevante para entender el riesgo de concentrar inversiones en un solo sector o empresa. Para quienes aprenden finanzas, este caso es un buen ejemplo de la diferencia entre el rendimiento semanal y el rendimiento acumulado.",
       "tags": [
         "Nvidia",
-        "mercados",
-        "tecnología"
+        "tecnología",
+        "volatilidad"
       ],
       "source_name": "MarketWatch",
       "source_url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
@@ -144,19 +125,19 @@
       ]
     },
     {
-      "id": "ai-uso-explota-ingresos-no",
+      "id": "inflacion-consumo-black-friday",
       "type": "economia",
-      "title": "El uso de AI explota pero los ingresos de las empresas de AI no crecen al mismo ritmo",
-      "summary": "El consumo de inteligencia artificial crece a un ritmo enorme, pero las empresas que desarrollan modelos de AI no están viendo crecer sus ingresos a la misma velocidad, desafiando la lógica económica tradicional.",
-      "detail": "En economía, cuando la demanda de un producto sube mucho, se espera que los ingresos del vendedor también suban. Que eso no esté pasando con el AI sugiere que los precios están bajando más rápido que lo que crece el volumen, o que los usuarios están migrando a opciones más baratas. Para alguien que aprende finanzas, esto es un ejemplo de cómo analizar si el crecimiento de una industria se traduce realmente en rentabilidad para las empresas que la lideran —algo clave antes de invertir en un sector.",
+      "title": "La inflación cambia los hábitos de compra en las fiestas de EE.UU.",
+      "summary": "Los consumidores estadounidenses enfrentan precios más altos en alimentos, viajes y regalos para las fiestas de 2026, aunque los minoristas igual esperan un Black Friday activo gracias a la búsqueda de ofertas.",
+      "detail": "El comportamiento del consumidor en EE.UU. durante las fiestas es un indicador clave del estado de la economía más grande del mundo: si el gasto se frena, las empresas de retail sufren y eso se refleja en sus acciones. La inflación persistente erosiona el poder de compra y obliga a los consumidores a buscar valor, lo que beneficia a algunas cadenas sobre otras. Este fenómeno es un ejemplo práctico de cómo la macroeconomía impacta directamente en las decisiones cotidianas de las personas.",
       "tags": [
-        "inteligencia artificial",
-        "ingresos",
-        "tecnología"
+        "inflación",
+        "consumo",
+        "retail"
       ],
-      "source_name": "MarketWatch",
-      "source_url": "https://www.marketwatch.com/story/artificial-intelligence-usage-is-exploding-yet-spending-is-stalling-why-a-foundational-rule-of-economics-is-breaking-9c7ad4b3?mod=mw_rss_topstories",
-      "published_at": "2026-11-27T15:01:00Z",
+      "source_name": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+      "published_at": "2026-11-27T22:00:57Z",
       "fecha_evento": "2026-11-27",
       "tickers": []
     }
@@ -166,7 +147,7 @@
       "label": "DÓLAR OFICIAL",
       "valor": "$1.625",
       "valor_num": 1625.0,
-      "delta_pct": -0.31
+      "delta_pct": 0.0
     },
     {
       "label": "DÓLAR BLUE",
@@ -178,7 +159,7 @@
       "label": "MEP",
       "valor": "$1.662",
       "valor_num": 1661.9,
-      "delta_pct": -1.59
+      "delta_pct": -0.27
     },
     {
       "label": "CCL",
@@ -188,9 +169,9 @@
     },
     {
       "label": "BITCOIN",
-      "valor": "US$ 59.773",
-      "valor_num": 59773.0,
-      "delta_pct": -1.55
+      "valor": "US$ 59.190",
+      "valor_num": 59190.0,
+      "delta_pct": -3.91
     },
     {
       "label": "S&P 500",
